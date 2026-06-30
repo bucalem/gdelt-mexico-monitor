@@ -1,0 +1,46 @@
+name: Actualizar monitor GDELT México
+
+on:
+  schedule:
+    # GitHub Actions no garantiza el minuto exacto, pero corre aprox. cada 15 min
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}   # permite correrlo manualmente desde la pestaña Actions
+
+permissions:
+  contents: write
+
+concurrency:
+  group: gdelt-monitor
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Descargar datos recientes de GDELT
+        working-directory: scripts
+        run: python3 fetch_gdelt.py --hours 1 --out raw_gkg_latest.tsv
+
+      - name: Filtrar menciones de México y actualizar histórico
+        working-directory: scripts
+        run: python3 analyze_mexico.py --in raw_gkg_latest.tsv --out ../data/mexico_tone_timeline.json
+
+      - name: Hacer commit del JSON si cambió
+        run: |
+          git config user.name "gdelt-monitor-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- data/mexico_tone_timeline.json; then
+            echo "Sin cambios, nada que commitear."
+          else
+            git add data/mexico_tone_timeline.json
+            git commit -m "data: actualizar tono México $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi

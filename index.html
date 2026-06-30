@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Monitor de Tono Mediático — México · GDELT 2.0</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.4/chart.umd.min.js"></script>
+<style>
+  :root{
+    --bg: #0B1320;
+    --surface: #121C30;
+    --surface-2: #18253D;
+    --line: #243150;
+    --text: #EDEFF4;
+    --muted: #8A93A6;
+    --amber: #E8A33D;
+    --teal: #36C2A6;
+    --red: #E2574C;
+    --mono: 'JetBrains Mono', monospace;
+    --sans: 'Inter', system-ui, sans-serif;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0;
+    background:
+      radial-gradient(circle at 15% 0%, rgba(232,163,61,0.06), transparent 45%),
+      radial-gradient(circle at 85% 100%, rgba(54,194,166,0.05), transparent 45%),
+      var(--bg);
+    color:var(--text);
+    font-family:var(--sans);
+    padding:32px 20px 60px;
+  }
+  .wrap{max-width:1080px;margin:0 auto;}
+
+  /* scanline grid texture */
+  .scan{
+    position:relative;
+    border:1px solid var(--line);
+    background:
+      linear-gradient(var(--line) 1px, transparent 1px) 0 0/100% 28px,
+      var(--surface);
+    background-blend-mode:overlay;
+    border-radius:4px;
+  }
+
+  header{
+    display:flex; justify-content:space-between; align-items:flex-end;
+    flex-wrap:wrap; gap:16px;
+    border-bottom:1px solid var(--line);
+    padding-bottom:20px; margin-bottom:24px;
+  }
+  .eyebrow{
+    font-family:var(--mono); font-size:11px; letter-spacing:.14em;
+    color:var(--amber); text-transform:uppercase; margin-bottom:8px;
+  }
+  h1{font-family:var(--mono); font-size:26px; font-weight:700; margin:0; letter-spacing:-0.01em;}
+  .sub{color:var(--muted); font-size:13.5px; margin-top:6px; max-width:520px; line-height:1.5;}
+  .live-tag{
+    font-family:var(--mono); font-size:11px; color:var(--teal);
+    border:1px solid rgba(54,194,166,0.35); background:rgba(54,194,166,0.08);
+    padding:5px 10px; border-radius:20px; display:flex; align-items:center; gap:7px;
+    white-space:nowrap;
+  }
+  .live-tag.stale{color:var(--amber); border-color:rgba(232,163,61,0.35); background:rgba(232,163,61,0.08);}
+  .live-tag.error{color:var(--red); border-color:rgba(226,87,76,0.35); background:rgba(226,87,76,0.08);}
+  .dot{width:6px;height:6px;border-radius:50%;background:currentColor;box-shadow:0 0 8px currentColor;}
+  .error-box{
+    font-family:var(--mono); font-size:12.5px; color:var(--red);
+    border:1px solid rgba(226,87,76,0.35); background:rgba(226,87,76,0.08);
+    padding:12px 16px; border-radius:6px; margin-bottom:20px; line-height:1.6;
+  }
+
+  .kpis{
+    display:grid; grid-template-columns:repeat(4,1fr); gap:14px; margin-bottom:24px;
+  }
+  @media(max-width:760px){.kpis{grid-template-columns:repeat(2,1fr);}}
+  .kpi{
+    background:var(--surface); border:1px solid var(--line); border-radius:6px;
+    padding:16px 18px;
+  }
+  .kpi .label{font-family:var(--mono); font-size:10.5px; color:var(--muted); letter-spacing:.08em; text-transform:uppercase;}
+  .kpi .value{font-family:var(--mono); font-size:26px; font-weight:700; margin-top:6px;}
+  .kpi .value.neg{color:var(--red);}
+  .kpi .value.pos{color:var(--teal);}
+
+  .panel{
+    background:var(--surface); border:1px solid var(--line); border-radius:6px;
+    padding:22px 22px 12px; margin-bottom:20px;
+  }
+  .panel h2{
+    font-family:var(--mono); font-size:13px; text-transform:uppercase; letter-spacing:.08em;
+    color:var(--muted); margin:0 0 4px;
+  }
+  .panel .panel-note{font-size:12.5px; color:var(--muted); margin-bottom:14px;}
+  .chart-box{height:240px;}
+
+  .grid-2{display:grid; grid-template-columns:1.3fr 1fr; gap:20px;}
+  @media(max-width:820px){.grid-2{grid-template-columns:1fr;}}
+
+  .source-row{
+    display:flex; align-items:center; gap:10px; padding:7px 0;
+    border-bottom:1px dashed var(--line); font-size:12.5px;
+  }
+  .source-row:last-child{border-bottom:none;}
+  .source-row .name{font-family:var(--mono); flex:1; color:var(--text); overflow:hidden; text-overflow:ellipsis; white-space:nowrap;}
+  .source-row .n{color:var(--muted); width:38px; text-align:right;}
+  .badge{
+    font-family:var(--mono); font-size:11px; padding:2px 7px; border-radius:3px; width:54px; text-align:center;
+  }
+  .badge.pos{color:var(--teal); background:rgba(54,194,166,0.12);}
+  .badge.neg{color:var(--red); background:rgba(226,87,76,0.12);}
+
+  .tags{display:flex; flex-wrap:wrap; gap:8px;}
+  .tag{
+    font-family:var(--mono); font-size:11px; color:var(--amber);
+    border:1px solid rgba(232,163,61,0.3); background:rgba(232,163,61,0.07);
+    padding:6px 10px; border-radius:4px;
+  }
+  .tag span{color:var(--muted); margin-left:6px;}
+
+  footer{
+    margin-top:28px; padding-top:18px; border-top:1px solid var(--line);
+    font-size:12px; color:var(--muted); line-height:1.7;
+  }
+  footer b{color:var(--text);}
+  code{font-family:var(--mono); background:var(--surface-2); padding:1px 5px; border-radius:3px; font-size:11.5px;}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div>
+      <div class="eyebrow">War room · prueba de concepto</div>
+      <h1>Monitor de Tono Mediático — México</h1>
+      <div class="sub">Tono noticioso agregado sobre México en medios globales, calculado a partir del Global Knowledge Graph de GDELT 2.0 (GCAM / V2Tone). Ventana de 4 horas, actualización cada 15 minutos.</div>
+    </div>
+    <div class="live-tag"><span class="dot" id="liveDot"></span><span id="liveLabel">CONECTANDO…</span></div>
+  </header>
+
+  <div id="errorBox" class="error-box" style="display:none;"></div>
+
+  <div class="kpis">
+    <div class="kpi"><div class="label">Tono promedio (4h)</div><div class="value" id="kpiTone">—</div></div>
+    <div class="kpi"><div class="label">Menciones de México (última corrida)</div><div class="value" id="kpiMx">—</div></div>
+    <div class="kpi"><div class="label">Artículos escaneados (última corrida)</div><div class="value" id="kpiTotal">—</div></div>
+    <div class="kpi"><div class="label">Histórico acumulado</div><div class="value" id="kpiHistory">—</div></div>
+  </div>
+
+  <div class="panel">
+    <h2>Pulso de tono — últimas 6 horas</h2>
+    <div class="panel-note">Tono promedio de GCAM por bloque de 15 min (escala aprox. −10 a +10). El área sombreada indica volumen de artículos. Se actualiza solo cada 15 min vía GitHub Actions.</div>
+    <div class="chart-box"><canvas id="toneChart"></canvas></div>
+  </div>
+
+  <div class="grid-2">
+    <div class="panel">
+      <h2>Fuentes con más menciones</h2>
+      <div class="panel-note">Volumen de cobertura sobre México por dominio, con su tono promedio.</div>
+      <div id="sourceList"></div>
+    </div>
+
+    <div class="panel">
+      <h2>Temas GKG dominantes</h2>
+      <div class="panel-note">Categorías de la taxonomía de GDELT más frecuentes en estas menciones.</div>
+      <div class="tags" id="themeTags"></div>
+    </div>
+  </div>
+
+  <footer>
+    <p><b>Metodología:</b> se descargan los archivos GKG 2.1 públicos de <code>data.gdeltproject.org/gdeltv2/</code> (sin necesidad de API key), se filtran las filas cuyo campo V2Locations contiene el código de país <code>MX</code>, y se calcula el promedio de <code>V2Tone</code> por ventana de 15 minutos y por fuente. Pipeline en Python, reutilizable para cualquier país o periodo histórico vía BigQuery.</p>
+    <p><b>Para producción:</b> este snapshot se puede convertir en un monitor verdaderamente en vivo programando el script cada 15 min (cron / GitHub Actions) y sirviendo el JSON resultante a este dashboard, o consultando directamente la tabla <code>gdelt-bq:gdeltv2.gkg</code> en BigQuery para históricos y comparativos multi-país.</p>
+  </footer>
+
+</div>
+
+<script>
+const DATA_URL = './data/mexico_tone_timeline.json';
+const REFRESH_MS = 5 * 60 * 1000; // re-consulta el JSON cada 5 min en el navegador
+let chartInstance = null;
+
+function setLiveStatus(mode, text) {
+  const tag = document.querySelector('.live-tag');
+  const label = document.getElementById('liveLabel');
+  tag.classList.remove('stale', 'error');
+  if (mode === 'stale') tag.classList.add('stale');
+  if (mode === 'error') tag.classList.add('error');
+  label.textContent = text;
+}
+
+function minutesAgo(isoString) {
+  const diffMs = Date.now() - new Date(isoString).getTime();
+  return Math.round(diffMs / 60000);
+}
+
+function hoursOfHistory(timeline) {
+  if (!timeline.length) return '—';
+  const first = new Date(timeline[0].time + ':00Z');
+  const last = new Date(timeline[timeline.length - 1].time + ':00Z');
+  const hours = (last - first) / 3600000;
+  if (hours < 1) return Math.round(hours * 60) + ' min';
+  if (hours < 48) return hours.toFixed(1) + ' h';
+  return (hours / 24).toFixed(1) + ' días';
+}
+
+function render(data) {
+  // KPIs
+  const toneEl = document.getElementById('kpiTone');
+  toneEl.classList.remove('pos', 'neg');
+  if (data.overall_avg_tone_4h !== null && data.overall_avg_tone_4h !== undefined) {
+    toneEl.textContent = data.overall_avg_tone_4h.toFixed(2);
+    toneEl.classList.add(data.overall_avg_tone_4h >= 0 ? 'pos' : 'neg');
+  } else {
+    toneEl.textContent = '—';
+  }
+  document.getElementById('kpiMx').textContent = data.rows_mexico_last_run ?? '—';
+  document.getElementById('kpiTotal').textContent = (data.rows_total_scanned_last_run ?? 0).toLocaleString('es-MX');
+  document.getElementById('kpiHistory').textContent = hoursOfHistory(data.timeline || []);
+
+  // Estado "en vivo"
+  const ago = minutesAgo(data.generated_at);
+  if (ago <= 25) {
+    setLiveStatus('live', `EN VIVO — actualizado hace ${ago} min`);
+  } else if (ago <= 120) {
+    setLiveStatus('stale', `SIN ACTUALIZAR — hace ${ago} min (el workflow puede ir retrasado)`);
+  } else {
+    const h = Math.round(ago / 60);
+    setLiveStatus('error', `DESACTUALIZADO — última corrida hace ${h} h`);
+  }
+
+  // Chart: ultimas 6h (24 slots de 15 min)
+  const recent = (data.timeline || []).slice(-24);
+  const ctx = document.getElementById('toneChart').getContext('2d');
+  const chartData = {
+    labels: recent.map(d => d.time.slice(11)),
+    datasets: [
+      {
+        type: 'bar',
+        label: 'Artículos',
+        data: recent.map(d => d.n_articles),
+        backgroundColor: 'rgba(138,147,166,0.18)',
+        yAxisID: 'y1',
+        borderRadius: 2,
+        barPercentage: 0.6,
+      },
+      {
+        type: 'line',
+        label: 'Tono promedio',
+        data: recent.map(d => d.avg_tone),
+        borderColor: '#E8A33D',
+        backgroundColor: 'rgba(232,163,61,0.12)',
+        pointBackgroundColor: recent.map(d => d.avg_tone >= 0 ? '#36C2A6' : '#E2574C'),
+        pointRadius: 3.5,
+        tension: 0.35,
+        fill: true,
+        yAxisID: 'y',
+      }
+    ]
+  };
+  const chartOptions = {
+    responsive: true, maintainAspectRatio: false,
+    interaction: { mode: 'index', intersect: false },
+    plugins: {
+      legend: { labels: { color: '#8A93A6', font: { family: 'JetBrains Mono', size: 11 } } },
+      tooltip: { backgroundColor: '#18253D', titleFont:{family:'JetBrains Mono'}, bodyFont:{family:'JetBrains Mono'} }
+    },
+    scales: {
+      x: { grid: { color: '#243150' }, ticks: { color: '#8A93A6', font:{size:10.5} } },
+      y: { position: 'left', grid: { color: '#243150' }, ticks: { color: '#8A93A6', font:{size:10.5} }, title:{display:true,text:'Tono',color:'#8A93A6',font:{size:10.5}} },
+      y1: { position: 'right', grid: { display:false }, ticks: { color: '#8A93A6', font:{size:10.5} }, title:{display:true,text:'Artículos',color:'#8A93A6',font:{size:10.5}} },
+    }
+  };
+  if (chartInstance) {
+    chartInstance.data = chartData;
+    chartInstance.options = chartOptions;
+    chartInstance.update();
+  } else {
+    chartInstance = new Chart(ctx, { data: chartData, options: chartOptions });
+  }
+
+  // Top sources
+  const sourceList = document.getElementById('sourceList');
+  sourceList.innerHTML = '';
+  (data.top_sources || []).slice(0, 10).forEach(s => {
+    const row = document.createElement('div');
+    row.className = 'source-row';
+    const cls = s.avg_tone >= 0 ? 'pos' : 'neg';
+    row.innerHTML = `
+      <div class="name">${s.source}</div>
+      <div class="n">${s.n}×</div>
+      <div class="badge ${cls}">${s.avg_tone >= 0 ? '+' : ''}${s.avg_tone.toFixed(1)}</div>
+    `;
+    sourceList.appendChild(row);
+  });
+
+  // Theme tags
+  const themeTags = document.getElementById('themeTags');
+  themeTags.innerHTML = '';
+  (data.top_themes || []).slice(0, 10).forEach(t => {
+    const tag = document.createElement('div');
+    tag.className = 'tag';
+    const readable = t.theme.replace(/_/g, ' ').toLowerCase();
+    tag.innerHTML = `${readable}<span>${t.n}</span>`;
+    themeTags.appendChild(tag);
+  });
+}
+
+async function loadData() {
+  try {
+    const res = await fetch(`${DATA_URL}?t=${Date.now()}`, { cache: 'no-store' });
+    if (!res.ok) throw new Error(`HTTP ${res.status}`);
+    const data = await res.json();
+    document.getElementById('errorBox').style.display = 'none';
+    render(data);
+  } catch (err) {
+    setLiveStatus('error', 'SIN CONEXIÓN A LOS DATOS');
+    const box = document.getElementById('errorBox');
+    box.style.display = 'block';
+    box.textContent = `No se pudo cargar ${DATA_URL}. Verifica que el workflow de GitHub Actions haya corrido al menos una vez y que el archivo exista en el repo. (${err.message})`;
+  }
+}
+
+loadData();
+setInterval(loadData, REFRESH_MS);
+</script>
+</body>
+</html>
