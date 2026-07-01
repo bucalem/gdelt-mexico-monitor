@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T20:28:23.040394+00:00",
-  "rows_total_scanned_last_run": 6305,
-  "rows_mexico_last_run": 237,
-  "overall_avg_tone_4h": 0.693,
+  "generated_at": "2026-07-01T22:01:21.140250+00:00",
+  "rows_total_scanned_last_run": 5383,
+  "rows_mexico_last_run": 243,
+  "overall_avg_tone_4h": 0.795,
   "timeline": [
     {
       "time": "2026-06-30T08:00",
@@ -213,145 +213,165 @@
       "time": "2026-07-01T20:30",
       "avg_tone": 0.932,
       "n_articles": 77
+    },
+    {
+      "time": "2026-07-01T21:15",
+      "avg_tone": 0.988,
+      "n_articles": 82
+    },
+    {
+      "time": "2026-07-01T21:30",
+      "avg_tone": 0.342,
+      "n_articles": 59
+    },
+    {
+      "time": "2026-07-01T21:45",
+      "avg_tone": 1.026,
+      "n_articles": 58
+    },
+    {
+      "time": "2026-07-01T22:00",
+      "avg_tone": 0.412,
+      "n_articles": 44
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 21,
-      "avg_tone": 2.901
+      "n": 22,
+      "avg_tone": 2.908
     },
     {
-      "source": "laist.com",
-      "n": 6,
-      "avg_tone": -1.388
-    },
-    {
-      "source": "sbsun.com",
-      "n": 6,
-      "avg_tone": 1.792
-    },
-    {
-      "source": "thenationonlineng.net",
+      "source": "theage.com.au",
       "n": 5,
-      "avg_tone": -2.419
+      "avg_tone": 2.109
     },
     {
-      "source": "dailynews.com",
-      "n": 5,
-      "avg_tone": 2.071
-    },
-    {
-      "source": "smh.com.au",
+      "source": "watoday.com.au",
       "n": 4,
-      "avg_tone": 2.202
+      "avg_tone": 2.695
     },
     {
-      "source": "theglobeandmail.com",
+      "source": "redlandsdailyfacts.com",
       "n": 4,
-      "avg_tone": 0.347
+      "avg_tone": 1.556
     },
     {
-      "source": "cnn.com",
+      "source": "whittierdailynews.com",
+      "n": 4,
+      "avg_tone": 1.556
+    },
+    {
+      "source": "dailybulletin.com",
+      "n": 4,
+      "avg_tone": 1.556
+    },
+    {
+      "source": "newkerala.com",
       "n": 3,
-      "avg_tone": -0.299
+      "avg_tone": -1.578
     },
     {
-      "source": "broomfieldenterprise.com",
+      "source": "prnewswire.com",
       "n": 3,
-      "avg_tone": 0.964
+      "avg_tone": 2.565
     },
     {
-      "source": "cbc.ca",
+      "source": "ocregister.com",
       "n": 3,
-      "avg_tone": 1.624
+      "avg_tone": 1.01
     },
     {
-      "source": "brisbanetimes.com.au",
+      "source": "boredpanda.com",
       "n": 3,
-      "avg_tone": 3.013
+      "avg_tone": -1.501
     },
     {
-      "source": "kpbs.org",
+      "source": "gringogazette.com",
       "n": 3,
-      "avg_tone": 0.879
+      "avg_tone": 0.673
     },
     {
-      "source": "journal-advocate.com",
-      "n": 3,
-      "avg_tone": 0.964
-    },
-    {
-      "source": "reflector.com",
-      "n": 3,
-      "avg_tone": 0.115
-    },
-    {
-      "source": "arktimes.com",
+      "source": "haitisun.com",
       "n": 2,
-      "avg_tone": -0.788
+      "avg_tone": -0.509
+    },
+    {
+      "source": "capitalgazette.com",
+      "n": 2,
+      "avg_tone": -2.066
+    },
+    {
+      "source": "wiky.com",
+      "n": 2,
+      "avg_tone": -3.356
+    },
+    {
+      "source": "manilatimes.net",
+      "n": 2,
+      "avg_tone": 0.638
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_WORLDARACHNIDS_TICK",
-      "n": 715
+      "n": 520
     },
     {
       "theme": "TAX_WORLDARACHNIDS_TICKS",
-      "n": 473
-    },
-    {
-      "theme": "TAX_WORLDMAMMALS_DEER",
-      "n": 341
+      "n": 344
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 333
+      "n": 285
+    },
+    {
+      "theme": "TAX_WORLDMAMMALS_DEER",
+      "n": 248
     },
     {
       "theme": "TAX_DISEASE_SYNDROME",
-      "n": 297
+      "n": 216
     },
     {
       "theme": "TAX_FOODSTAPLES_MEAT",
-      "n": 275
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 259
+      "n": 210
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 244
+      "n": 182
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 176
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 220
+      "n": 148
     },
     {
-      "theme": "WB_1406_DISEASES",
-      "n": 177
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 143
     },
     {
       "theme": "UNGP_HEALTHCARE",
-      "n": 175
+      "n": 137
+    },
+    {
+      "theme": "WB_1406_DISEASES",
+      "n": 131
+    },
+    {
+      "theme": "LEADER",
+      "n": 123
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 123
     },
     {
       "theme": "TAX_DISEASE_DISEASE",
-      "n": 168
-    },
-    {
-      "theme": "TAX_DISEASE_ALLERGY",
-      "n": 165
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 149
-    },
-    {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 133
+      "n": 123
     }
   ]
 }
