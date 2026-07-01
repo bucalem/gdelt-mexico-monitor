@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T08:54:29.616811+00:00",
-  "rows_total_scanned_last_run": 4270,
-  "rows_mexico_last_run": 81,
-  "overall_avg_tone_4h": -0.006,
+  "generated_at": "2026-07-01T11:53:00.302578+00:00",
+  "rows_total_scanned_last_run": 5669,
+  "rows_mexico_last_run": 125,
+  "overall_avg_tone_4h": 0.088,
   "timeline": [
     {
       "time": "2026-06-30T08:00",
@@ -128,145 +128,165 @@
       "time": "2026-07-01T09:00",
       "avg_tone": 1.722,
       "n_articles": 19
+    },
+    {
+      "time": "2026-07-01T11:15",
+      "avg_tone": 0.526,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-07-01T11:30",
+      "avg_tone": -0.613,
+      "n_articles": 24
+    },
+    {
+      "time": "2026-07-01T11:45",
+      "avg_tone": -0.285,
+      "n_articles": 35
+    },
+    {
+      "time": "2026-07-01T12:00",
+      "avg_tone": 0.292,
+      "n_articles": 46
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 5,
-      "avg_tone": -1.421
+      "source": "prnewswire.com",
+      "n": 6,
+      "avg_tone": 1.456
     },
     {
-      "source": "sierraleonetimes.com",
-      "n": 4,
-      "avg_tone": 2.176
-    },
-    {
-      "source": "cambodiantimes.com",
+      "source": "forbes.com",
       "n": 3,
-      "avg_tone": 2.901
+      "avg_tone": 1.131
     },
     {
-      "source": "brazilsun.com",
+      "source": "gdnonline.com",
       "n": 3,
-      "avg_tone": 2.323
+      "avg_tone": -3.625
     },
     {
-      "source": "finanznachrichten.de",
-      "n": 2,
-      "avg_tone": 6.023
+      "source": "newkerala.com",
+      "n": 3,
+      "avg_tone": 1.695
     },
     {
       "source": "yahoo.com",
+      "n": 3,
+      "avg_tone": -0.584
+    },
+    {
+      "source": "klcc.org",
       "n": 2,
-      "avg_tone": 0.064
+      "avg_tone": 0.031
     },
     {
-      "source": "nbclosangeles.com",
+      "source": "jamaicantimes.com",
       "n": 2,
-      "avg_tone": 1.536
+      "avg_tone": 0.329
     },
     {
-      "source": "abc7.com",
+      "source": "krwg.org",
       "n": 2,
-      "avg_tone": -0.797
+      "avg_tone": -0.049
     },
     {
-      "source": "prokerala.com",
+      "source": "dmcityview.com",
       "n": 2,
-      "avg_tone": 0.879
+      "avg_tone": 2.275
     },
     {
-      "source": "counterpunch.org",
-      "n": 1,
-      "avg_tone": -0.61
+      "source": "stcatharinesstandard.ca",
+      "n": 2,
+      "avg_tone": 0.206
     },
     {
-      "source": "theborneopost.com",
-      "n": 1,
-      "avg_tone": -1.991
+      "source": "theglobeandmail.com",
+      "n": 2,
+      "avg_tone": 0.103
     },
     {
-      "source": "thepeterboroughexaminer.com",
-      "n": 1,
-      "avg_tone": 0.245
+      "source": "dailypolitical.com",
+      "n": 2,
+      "avg_tone": 3.592
     },
     {
-      "source": "nzherald.co.nz",
-      "n": 1,
-      "avg_tone": 3.789
+      "source": "fox4news.com",
+      "n": 2,
+      "avg_tone": -0.305
     },
     {
-      "source": "observer-reporter.com",
-      "n": 1,
-      "avg_tone": 4.355
+      "source": "fox5dc.com",
+      "n": 2,
+      "avg_tone": -0.305
     },
     {
-      "source": "wnmufm.org",
-      "n": 1,
-      "avg_tone": 0.94
+      "source": "tickerreport.com",
+      "n": 2,
+      "avg_tone": 2.824
     }
   ],
   "top_themes": [
     {
-      "theme": "EDUCATION",
-      "n": 52
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 141
+    },
+    {
+      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
+      "n": 107
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 50
+      "n": 102
     },
     {
-      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
-      "n": 48
+      "theme": "TAX_POLITICAL_PARTY_DEMOCRATS",
+      "n": 101
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 44
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 40
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 32
-    },
-    {
-      "theme": "TAX_FNCACT_DRIVER",
-      "n": 28
+      "theme": "TAX_FNCACT_INCUMBENT",
+      "n": 100
     },
     {
       "theme": "LEADER",
-      "n": 27
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 26
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 26
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 23
+      "n": 99
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 21
+      "n": 85
     },
     {
-      "theme": "TAX_ETHNICITY_VIETNAMESE",
-      "n": 21
+      "theme": "WB_698_TRADE",
+      "n": 76
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_VIETNAMESE",
-      "n": 21
+      "theme": "USPEC_POLICY1",
+      "n": 76
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 20
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 76
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 76
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 74
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 74
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 72
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 71
     }
   ]
 }
