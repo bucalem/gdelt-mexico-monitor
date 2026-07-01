@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-01T11:53:00.302578+00:00",
-  "rows_total_scanned_last_run": 5669,
-  "rows_mexico_last_run": 125,
-  "overall_avg_tone_4h": 0.088,
+  "generated_at": "2026-07-01T14:12:06.759971+00:00",
+  "rows_total_scanned_last_run": 4516,
+  "rows_mexico_last_run": 102,
+  "overall_avg_tone_4h": 0.185,
   "timeline": [
     {
       "time": "2026-06-30T08:00",
@@ -148,145 +148,160 @@
       "time": "2026-07-01T12:00",
       "avg_tone": 0.292,
       "n_articles": 46
+    },
+    {
+      "time": "2026-07-01T13:30",
+      "avg_tone": 0.311,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-07-01T13:45",
+      "avg_tone": 0.236,
+      "n_articles": 41
+    },
+    {
+      "time": "2026-07-01T14:00",
+      "avg_tone": 0.17,
+      "n_articles": 38
     }
   ],
   "top_sources": [
     {
-      "source": "prnewswire.com",
-      "n": 6,
-      "avg_tone": 1.456
+      "source": "dailylocal.com",
+      "n": 3,
+      "avg_tone": -0.431
     },
     {
-      "source": "forbes.com",
+      "source": "banderasnews.com",
       "n": 3,
-      "avg_tone": 1.131
+      "avg_tone": 6.307
     },
     {
-      "source": "gdnonline.com",
-      "n": 3,
-      "avg_tone": -3.625
+      "source": "countercurrents.org",
+      "n": 2,
+      "avg_tone": 0.077
     },
     {
-      "source": "newkerala.com",
-      "n": 3,
-      "avg_tone": 1.695
+      "source": "mainlinemedianews.com",
+      "n": 2,
+      "avg_tone": -0.646
+    },
+    {
+      "source": "birminghammail.co.uk",
+      "n": 2,
+      "avg_tone": -0.737
+    },
+    {
+      "source": "courant.com",
+      "n": 2,
+      "avg_tone": -0.646
+    },
+    {
+      "source": "nydailynews.com",
+      "n": 2,
+      "avg_tone": -0.646
+    },
+    {
+      "source": "netscape.com",
+      "n": 2,
+      "avg_tone": 0.494
     },
     {
       "source": "yahoo.com",
-      "n": 3,
-      "avg_tone": -0.584
+      "n": 2,
+      "avg_tone": -2.028
     },
     {
-      "source": "klcc.org",
+      "source": "inquirer.com",
       "n": 2,
-      "avg_tone": 0.031
-    },
-    {
-      "source": "jamaicantimes.com",
-      "n": 2,
-      "avg_tone": 0.329
-    },
-    {
-      "source": "krwg.org",
-      "n": 2,
-      "avg_tone": -0.049
-    },
-    {
-      "source": "dmcityview.com",
-      "n": 2,
-      "avg_tone": 2.275
-    },
-    {
-      "source": "stcatharinesstandard.ca",
-      "n": 2,
-      "avg_tone": 0.206
-    },
-    {
-      "source": "theglobeandmail.com",
-      "n": 2,
-      "avg_tone": 0.103
-    },
-    {
-      "source": "dailypolitical.com",
-      "n": 2,
-      "avg_tone": 3.592
-    },
-    {
-      "source": "fox4news.com",
-      "n": 2,
-      "avg_tone": -0.305
-    },
-    {
-      "source": "fox5dc.com",
-      "n": 2,
-      "avg_tone": -0.305
+      "avg_tone": 2.1
     },
     {
       "source": "tickerreport.com",
       "n": 2,
-      "avg_tone": 2.824
+      "avg_tone": 1.903
+    },
+    {
+      "source": "dailypioneer.com",
+      "n": 2,
+      "avg_tone": -0.499
+    },
+    {
+      "source": "canoncitydailyrecord.com",
+      "n": 2,
+      "avg_tone": -0.646
+    },
+    {
+      "source": "ksat.com",
+      "n": 2,
+      "avg_tone": -0.777
+    },
+    {
+      "source": "bignewsnetwork.com",
+      "n": 2,
+      "avg_tone": 0.031
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 141
-    },
-    {
-      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
-      "n": 107
-    },
-    {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 102
-    },
-    {
-      "theme": "TAX_POLITICAL_PARTY_DEMOCRATS",
-      "n": 101
-    },
-    {
-      "theme": "TAX_FNCACT_INCUMBENT",
-      "n": 100
-    },
-    {
-      "theme": "LEADER",
-      "n": 99
+      "n": 248
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 85
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 76
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 76
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 76
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 76
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 74
+      "n": 233
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 74
+      "n": 157
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 153
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 153
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 153
     },
     {
       "theme": "WB_2837_IMMIGRATION",
-      "n": 72
+      "n": 149
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 71
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 139
+    },
+    {
+      "theme": "TAX_FNCACT_MAN",
+      "n": 137
+    },
+    {
+      "theme": "LEADER",
+      "n": 102
+    },
+    {
+      "theme": "MEDIA_MSM",
+      "n": 97
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 86
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 85
+    },
+    {
+      "theme": "BORDER",
+      "n": 82
+    },
+    {
+      "theme": "AFFECT",
+      "n": 79
     }
   ]
 }
