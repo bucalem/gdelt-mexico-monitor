@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02T22:44:46.073823+00:00",
-  "rows_total_scanned_last_run": 5458,
-  "rows_mexico_last_run": 149,
-  "overall_avg_tone_4h": 0.326,
+  "generated_at": "2026-07-02T23:46:08.787898+00:00",
+  "rows_total_scanned_last_run": 4844,
+  "rows_mexico_last_run": 134,
+  "overall_avg_tone_4h": 0.259,
   "timeline": [
     {
       "time": "2026-06-30T08:00",
@@ -468,145 +468,165 @@
       "time": "2026-07-02T22:45",
       "avg_tone": 0.509,
       "n_articles": 39
+    },
+    {
+      "time": "2026-07-02T23:00",
+      "avg_tone": 0.075,
+      "n_articles": 30
+    },
+    {
+      "time": "2026-07-02T23:15",
+      "avg_tone": 0.303,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-07-02T23:30",
+      "avg_tone": 0.55,
+      "n_articles": 31
+    },
+    {
+      "time": "2026-07-02T23:45",
+      "avg_tone": 0.19,
+      "n_articles": 46
     }
   ],
   "top_sources": [
     {
-      "source": "abqjournal.com",
-      "n": 4,
-      "avg_tone": -1.036
-    },
-    {
-      "source": "independent.co.uk",
+      "source": "mynorthwest.com",
       "n": 3,
-      "avg_tone": 1.53
+      "avg_tone": 2.417
     },
     {
-      "source": "nbcchicago.com",
+      "source": "theconservativetreehouse.com",
       "n": 3,
-      "avg_tone": -0.679
+      "avg_tone": -0.647
     },
     {
-      "source": "abcnews.com",
-      "n": 3,
-      "avg_tone": 1.365
-    },
-    {
-      "source": "pilotonline.com",
-      "n": 3,
-      "avg_tone": 0.734
-    },
-    {
-      "source": "wsbt.com",
+      "source": "myfox28columbus.com",
       "n": 2,
       "avg_tone": -3.824
     },
     {
-      "source": "news4sanantonio.com",
+      "source": "harwichandmanningtreestandard.co.uk",
+      "n": 2,
+      "avg_tone": 3.432
+    },
+    {
+      "source": "timesandstar.co.uk",
+      "n": 2,
+      "avg_tone": 3.432
+    },
+    {
+      "source": "fox17.com",
       "n": 2,
       "avg_tone": -3.824
     },
     {
-      "source": "abcnews4.com",
+      "source": "thewestonmercury.co.uk",
+      "n": 2,
+      "avg_tone": 3.432
+    },
+    {
+      "source": "kjzz.org",
+      "n": 2,
+      "avg_tone": 0.586
+    },
+    {
+      "source": "newschannel9.com",
       "n": 2,
       "avg_tone": -3.824
     },
     {
-      "source": "spokesman.com",
-      "n": 2,
-      "avg_tone": 0.128
-    },
-    {
-      "source": "tvguide.co.uk",
-      "n": 2,
-      "avg_tone": 1.008
-    },
-    {
-      "source": "morningjournal.com",
-      "n": 2,
-      "avg_tone": 1.022
-    },
-    {
-      "source": "krcgtv.com",
+      "source": "weartv.com",
       "n": 2,
       "avg_tone": -3.824
     },
     {
-      "source": "reporterherald.com",
-      "n": 2,
-      "avg_tone": 1.022
-    },
-    {
-      "source": "local21news.com",
+      "source": "wjla.com",
       "n": 2,
       "avg_tone": -3.824
     },
     {
-      "source": "fortmorgantimes.com",
+      "source": "newsandstar.co.uk",
       "n": 2,
-      "avg_tone": 1.022
+      "avg_tone": 3.432
+    },
+    {
+      "source": "greenocktelegraph.co.uk",
+      "n": 2,
+      "avg_tone": 3.432
+    },
+    {
+      "source": "wjactv.com",
+      "n": 2,
+      "avg_tone": -3.824
+    },
+    {
+      "source": "dunfermlinepress.com",
+      "n": 2,
+      "avg_tone": 3.432
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 178
+      "n": 128
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 177
+      "n": 126
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 172
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 163
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 136
+      "n": 125
     },
     {
       "theme": "LEADER",
-      "n": 120
+      "n": 115
     },
     {
-      "theme": "TERROR",
-      "n": 119
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 112
+    },
+    {
+      "theme": "ARMEDCONFLICT",
+      "n": 110
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 118
+      "n": 102
+    },
+    {
+      "theme": "TERROR",
+      "n": 100
+    },
+    {
+      "theme": "BORDER",
+      "n": 93
     },
     {
       "theme": "ORGANIZED_CRIME",
-      "n": 104
+      "n": 91
     },
     {
       "theme": "WB_2452_GANGS",
-      "n": 104
+      "n": 91
     },
     {
       "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
-      "n": 104
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 96
-    },
-    {
-      "theme": "DELAY",
-      "n": 94
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 94
+      "n": 91
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 91
+      "n": 79
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 71
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 67
     }
   ]
 }
