@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02T11:17:55.918340+00:00",
-  "rows_total_scanned_last_run": 4606,
-  "rows_mexico_last_run": 84,
-  "overall_avg_tone_4h": 0.296,
+  "generated_at": "2026-07-02T13:14:53.027615+00:00",
+  "rows_total_scanned_last_run": 3967,
+  "rows_mexico_last_run": 101,
+  "overall_avg_tone_4h": 0.377,
   "timeline": [
     {
       "time": "2026-06-30T08:00",
@@ -333,145 +333,160 @@
       "time": "2026-07-02T11:15",
       "avg_tone": 0.589,
       "n_articles": 26
+    },
+    {
+      "time": "2026-07-02T12:30",
+      "avg_tone": -0.207,
+      "n_articles": 31
+    },
+    {
+      "time": "2026-07-02T12:45",
+      "avg_tone": 0.245,
+      "n_articles": 34
+    },
+    {
+      "time": "2026-07-02T13:00",
+      "avg_tone": 1.381,
+      "n_articles": 36
     }
   ],
   "top_sources": [
     {
-      "source": "zalebs.com",
+      "source": "latimes.com",
       "n": 4,
-      "avg_tone": 0.749
+      "avg_tone": -0.79
     },
     {
-      "source": "manchestereveningnews.co.uk",
+      "source": "niagarafallsreview.ca",
+      "n": 4,
+      "avg_tone": -1.963
+    },
+    {
+      "source": "banderasnews.com",
       "n": 3,
-      "avg_tone": 3.045
+      "avg_tone": 7.137
     },
     {
-      "source": "newsweek.com",
-      "n": 2,
-      "avg_tone": -5.678
+      "source": "meathchronicle.ie",
+      "n": 3,
+      "avg_tone": 2.221
     },
     {
-      "source": "countercurrents.org",
-      "n": 2,
-      "avg_tone": -2.714
+      "source": "lbc.co.uk",
+      "n": 3,
+      "avg_tone": 1.792
     },
     {
-      "source": "tickerreport.com",
+      "source": "dailystar.co.uk",
       "n": 2,
-      "avg_tone": 2.029
+      "avg_tone": 0.772
     },
     {
-      "source": "finanznachrichten.de",
+      "source": "brazilsun.com",
       "n": 2,
-      "avg_tone": 3.941
+      "avg_tone": 2.518
     },
     {
-      "source": "stereoboard.com",
+      "source": "dailypolitical.com",
       "n": 2,
-      "avg_tone": 2.024
+      "avg_tone": 5.196
     },
     {
-      "source": "prnewswire.com",
+      "source": "wdbo.com",
       "n": 2,
-      "avg_tone": 4.124
+      "avg_tone": -0.651
     },
     {
-      "source": "dailymail.com",
+      "source": "yahoo.com",
       "n": 2,
-      "avg_tone": 1.114
+      "avg_tone": -0.194
     },
     {
-      "source": "balls.ie",
+      "source": "tennesseedaily.com",
       "n": 2,
-      "avg_tone": -0.442
+      "avg_tone": 1.509
     },
     {
-      "source": "durangoherald.com",
+      "source": "freshfruitportal.com",
       "n": 2,
-      "avg_tone": -1.478
+      "avg_tone": -0.991
     },
     {
-      "source": "baltimoresun.com",
+      "source": "americanthinker.com",
       "n": 2,
-      "avg_tone": 2.113
+      "avg_tone": -0.488
     },
     {
-      "source": "fourfourtwo.com",
+      "source": "spacedaily.com",
       "n": 2,
-      "avg_tone": 1.181
+      "avg_tone": -1.196
     },
     {
-      "source": "koreaherald.com",
-      "n": 2,
-      "avg_tone": -3.496
-    },
-    {
-      "source": "thepeoplesperson.com",
-      "n": 2,
-      "avg_tone": 0.375
+      "source": "retailtimes.co.uk",
+      "n": 1,
+      "avg_tone": 9.381
     }
   ],
   "top_themes": [
     {
-      "theme": "CRISISLEX_O01_WEATHER",
-      "n": 100
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 70
-    },
-    {
-      "theme": "ECON_STOCKMARKET",
-      "n": 51
-    },
-    {
-      "theme": "TAX_ETHNICITY_BLACK",
-      "n": 49
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 43
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
-      "n": 41
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 37
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 31
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 26
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 25
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 25
-    },
-    {
-      "theme": "UNGP_POLITICAL_FREEDOMS",
-      "n": 24
-    },
-    {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 24
+      "theme": "BORDER",
+      "n": 193
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 24
+      "n": 149
+    },
+    {
+      "theme": "LEADER",
+      "n": 79
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 79
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 22
+      "n": 76
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 71
+    },
+    {
+      "theme": "SURVEILLANCE",
+      "n": 71
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 66
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 66
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 59
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 53
+    },
+    {
+      "theme": "TAX_FNCACT_SHERIFF",
+      "n": 51
+    },
+    {
+      "theme": "LEGISLATION",
+      "n": 47
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 47
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 44
     }
   ]
 }
