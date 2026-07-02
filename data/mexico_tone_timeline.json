@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02T21:33:46.725204+00:00",
-  "rows_total_scanned_last_run": 6053,
-  "rows_mexico_last_run": 139,
-  "overall_avg_tone_4h": 0.565,
+  "generated_at": "2026-07-02T22:44:46.073823+00:00",
+  "rows_total_scanned_last_run": 5458,
+  "rows_mexico_last_run": 149,
+  "overall_avg_tone_4h": 0.326,
   "timeline": [
     {
       "time": "2026-06-30T08:00",
@@ -448,145 +448,165 @@
       "time": "2026-07-02T21:30",
       "avg_tone": -1.282,
       "n_articles": 30
+    },
+    {
+      "time": "2026-07-02T22:00",
+      "avg_tone": -0.507,
+      "n_articles": 36
+    },
+    {
+      "time": "2026-07-02T22:15",
+      "avg_tone": -0.356,
+      "n_articles": 38
+    },
+    {
+      "time": "2026-07-02T22:30",
+      "avg_tone": -0.826,
+      "n_articles": 36
+    },
+    {
+      "time": "2026-07-02T22:45",
+      "avg_tone": 0.509,
+      "n_articles": 39
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 5,
-      "avg_tone": -0.833
+      "source": "abqjournal.com",
+      "n": 4,
+      "avg_tone": -1.036
     },
     {
-      "source": "mercurynews.com",
+      "source": "independent.co.uk",
       "n": 3,
-      "avg_tone": 0.6
+      "avg_tone": 1.53
     },
     {
-      "source": "whittierdailynews.com",
+      "source": "nbcchicago.com",
       "n": 3,
-      "avg_tone": 1.601
+      "avg_tone": -0.679
     },
     {
-      "source": "reason.com",
+      "source": "abcnews.com",
       "n": 3,
-      "avg_tone": -2.542
+      "avg_tone": 1.365
     },
     {
-      "source": "express.co.uk",
-      "n": 2,
-      "avg_tone": -1.96
+      "source": "pilotonline.com",
+      "n": 3,
+      "avg_tone": 0.734
     },
     {
-      "source": "theprovince.com",
+      "source": "wsbt.com",
       "n": 2,
-      "avg_tone": -5.714
+      "avg_tone": -3.824
     },
     {
-      "source": "marieclaire.com",
+      "source": "news4sanantonio.com",
       "n": 2,
-      "avg_tone": 2.761
+      "avg_tone": -3.824
     },
     {
-      "source": "dailybulletin.com",
+      "source": "abcnews4.com",
       "n": 2,
-      "avg_tone": 0.013
+      "avg_tone": -3.824
     },
     {
-      "source": "caribjournal.com",
+      "source": "spokesman.com",
       "n": 2,
-      "avg_tone": 3.411
+      "avg_tone": 0.128
     },
     {
-      "source": "stcatharinesstandard.ca",
+      "source": "tvguide.co.uk",
       "n": 2,
-      "avg_tone": -0.044
+      "avg_tone": 1.008
     },
     {
-      "source": "forbes.com",
+      "source": "morningjournal.com",
       "n": 2,
-      "avg_tone": 1.415
+      "avg_tone": 1.022
     },
     {
-      "source": "bnnbloomberg.ca",
+      "source": "krcgtv.com",
       "n": 2,
-      "avg_tone": -0.689
+      "avg_tone": -3.824
     },
     {
-      "source": "prnewswire.com",
+      "source": "reporterherald.com",
       "n": 2,
-      "avg_tone": 1.285
+      "avg_tone": 1.022
     },
     {
-      "source": "siliconvalley.com",
+      "source": "local21news.com",
       "n": 2,
-      "avg_tone": -1.455
+      "avg_tone": -3.824
     },
     {
-      "source": "billboard.com",
+      "source": "fortmorgantimes.com",
       "n": 2,
-      "avg_tone": 2.439
+      "avg_tone": 1.022
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 111
-    },
-    {
-      "theme": "AFFECT",
-      "n": 84
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 82
-    },
-    {
-      "theme": "LEADER",
-      "n": 75
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 71
-    },
-    {
       "theme": "WB_698_TRADE",
-      "n": 69
-    },
-    {
-      "theme": "CRISISLEX_T02_INJURED",
-      "n": 66
+      "n": 178
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 60
+      "n": 177
     },
     {
-      "theme": "DELAY",
-      "n": 58
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 57
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 172
     },
     {
       "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 55
+      "n": 163
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 54
+      "theme": "ARMEDCONFLICT",
+      "n": 136
     },
     {
-      "theme": "EDUCATION",
-      "n": 53
+      "theme": "LEADER",
+      "n": 120
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 53
+      "theme": "TERROR",
+      "n": 119
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 51
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 118
+    },
+    {
+      "theme": "ORGANIZED_CRIME",
+      "n": 104
+    },
+    {
+      "theme": "WB_2452_GANGS",
+      "n": 104
+    },
+    {
+      "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
+      "n": 104
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 96
+    },
+    {
+      "theme": "DELAY",
+      "n": 94
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 94
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 91
     }
   ]
 }
