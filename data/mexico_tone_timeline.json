@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02T17:17:26.837617+00:00",
-  "rows_total_scanned_last_run": 6194,
-  "rows_mexico_last_run": 220,
-  "overall_avg_tone_4h": 0.36,
+  "generated_at": "2026-07-02T18:55:11.632123+00:00",
+  "rows_total_scanned_last_run": 6501,
+  "rows_mexico_last_run": 164,
+  "overall_avg_tone_4h": 0.393,
   "timeline": [
     {
       "time": "2026-06-30T08:00",
@@ -388,145 +388,165 @@
       "time": "2026-07-02T17:15",
       "avg_tone": 1.156,
       "n_articles": 44
+    },
+    {
+      "time": "2026-07-02T18:15",
+      "avg_tone": 1.375,
+      "n_articles": 40
+    },
+    {
+      "time": "2026-07-02T18:30",
+      "avg_tone": 0.093,
+      "n_articles": 39
+    },
+    {
+      "time": "2026-07-02T18:45",
+      "avg_tone": -0.017,
+      "n_articles": 39
+    },
+    {
+      "time": "2026-07-02T19:00",
+      "avg_tone": 0.577,
+      "n_articles": 46
     }
   ],
   "top_sources": [
     {
-      "source": "cecildaily.com",
+      "source": "taosnews.com",
       "n": 5,
-      "avg_tone": -1.393
+      "avg_tone": -0.342
     },
     {
-      "source": "stourbridgenews.co.uk",
+      "source": "pasadenastarnews.com",
+      "n": 4,
+      "avg_tone": 1.42
+    },
+    {
+      "source": "yakimaherald.com",
       "n": 3,
-      "avg_tone": 2.14
+      "avg_tone": -3.737
     },
     {
-      "source": "bostonglobe.com",
+      "source": "wral.com",
       "n": 3,
-      "avg_tone": 1.071
+      "avg_tone": 2.036
     },
     {
-      "source": "plymouthherald.co.uk",
+      "source": "winnipegfreepress.com",
       "n": 3,
-      "avg_tone": 1.985
+      "avg_tone": 1.248
     },
     {
-      "source": "fox7austin.com",
-      "n": 2,
-      "avg_tone": -4.08
+      "source": "independent.co.uk",
+      "n": 3,
+      "avg_tone": 2.252
     },
     {
-      "source": "mankatofreepress.com",
+      "source": "gazette-news.co.uk",
       "n": 2,
-      "avg_tone": -0.33
+      "avg_tone": 2.286
     },
     {
-      "source": "riviera-maya-news.com",
+      "source": "somersetlive.co.uk",
       "n": 2,
-      "avg_tone": -0.657
+      "avg_tone": 2.564
     },
     {
-      "source": "halesowennews.co.uk",
+      "source": "theglobeandmail.com",
       "n": 2,
-      "avg_tone": 2.643
+      "avg_tone": -0.963
     },
     {
-      "source": "the-messenger.com",
+      "source": "canoncitydailyrecord.com",
       "n": 2,
-      "avg_tone": 1.692
+      "avg_tone": -2.496
     },
     {
-      "source": "westerntelegraph.co.uk",
+      "source": "citizensvoice.com",
       "n": 2,
-      "avg_tone": 3.21
+      "avg_tone": -2.496
     },
     {
-      "source": "hexham-courant.co.uk",
+      "source": "bbc.co.uk",
       "n": 2,
-      "avg_tone": 3.21
+      "avg_tone": 0.559
     },
     {
-      "source": "edp24.co.uk",
+      "source": "mynorthwest.com",
       "n": 2,
-      "avg_tone": 3.21
+      "avg_tone": 0.317
     },
     {
-      "source": "peeblesshirenews.com",
+      "source": "zalebs.com",
       "n": 2,
-      "avg_tone": 3.21
+      "avg_tone": 1.557
     },
     {
-      "source": "newsshopper.co.uk",
+      "source": "taylorvilledailynews.com",
       "n": 2,
-      "avg_tone": 3.21
-    },
-    {
-      "source": "metro.co.uk",
-      "n": 2,
-      "avg_tone": 0.089
+      "avg_tone": 0.347
     }
   ],
   "top_themes": [
     {
       "theme": "BORDER",
-      "n": 225
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 179
-    },
-    {
-      "theme": "TAX_WORLDMAMMALS_DOG",
-      "n": 174
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 170
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 157
-    },
-    {
-      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
-      "n": 124
+      "n": 165
     },
     {
       "theme": "LEADER",
-      "n": 106
+      "n": 127
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 105
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 120
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 103
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 96
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
-      "n": 93
-    },
-    {
-      "theme": "CRISISLEX_O02_RESPONSEAGENCIESATCRISIS",
-      "n": 91
+      "n": 116
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 87
+      "n": 105
     },
     {
-      "theme": "SURVEILLANCE",
-      "n": 86
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 88
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 86
+      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
+      "n": 88
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 81
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 79
+    },
+    {
+      "theme": "DELAY",
+      "n": 77
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 75
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 73
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 69
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 69
+    },
+    {
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 67
     }
   ]
 }
