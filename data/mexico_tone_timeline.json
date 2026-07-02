@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02T18:55:11.632123+00:00",
-  "rows_total_scanned_last_run": 6501,
-  "rows_mexico_last_run": 164,
-  "overall_avg_tone_4h": 0.393,
+  "generated_at": "2026-07-02T20:14:33.317051+00:00",
+  "rows_total_scanned_last_run": 6367,
+  "rows_mexico_last_run": 150,
+  "overall_avg_tone_4h": 0.342,
   "timeline": [
     {
       "time": "2026-06-30T08:00",
@@ -408,145 +408,165 @@
       "time": "2026-07-02T19:00",
       "avg_tone": 0.577,
       "n_articles": 46
+    },
+    {
+      "time": "2026-07-02T19:30",
+      "avg_tone": -0.489,
+      "n_articles": 33
+    },
+    {
+      "time": "2026-07-02T19:45",
+      "avg_tone": 0.074,
+      "n_articles": 33
+    },
+    {
+      "time": "2026-07-02T20:00",
+      "avg_tone": -0.033,
+      "n_articles": 41
+    },
+    {
+      "time": "2026-07-02T20:15",
+      "avg_tone": 1.235,
+      "n_articles": 43
     }
   ],
   "top_sources": [
     {
-      "source": "taosnews.com",
-      "n": 5,
-      "avg_tone": -0.342
-    },
-    {
-      "source": "pasadenastarnews.com",
+      "source": "presstelegram.com",
       "n": 4,
-      "avg_tone": 1.42
+      "avg_tone": 1.575
     },
     {
-      "source": "yakimaherald.com",
+      "source": "dailynews.com",
+      "n": 4,
+      "avg_tone": 1.575
+    },
+    {
+      "source": "dailyadvance.com",
       "n": 3,
-      "avg_tone": -3.737
+      "avg_tone": -2.32
     },
     {
-      "source": "wral.com",
+      "source": "dailybreeze.com",
       "n": 3,
-      "avg_tone": 2.036
+      "avg_tone": 1.702
     },
     {
-      "source": "winnipegfreepress.com",
+      "source": "lasvegassun.com",
       "n": 3,
-      "avg_tone": 1.248
+      "avg_tone": -2.765
     },
     {
-      "source": "independent.co.uk",
+      "source": "union-bulletin.com",
       "n": 3,
-      "avg_tone": 2.252
+      "avg_tone": -0.724
     },
     {
-      "source": "gazette-news.co.uk",
-      "n": 2,
-      "avg_tone": 2.286
+      "source": "sandiegouniontribune.com",
+      "n": 3,
+      "avg_tone": -0.916
     },
     {
-      "source": "somersetlive.co.uk",
+      "source": "niagarafallsreview.ca",
       "n": 2,
-      "avg_tone": 2.564
+      "avg_tone": 2.753
     },
     {
-      "source": "theglobeandmail.com",
+      "source": "koat.com",
       "n": 2,
-      "avg_tone": -0.963
+      "avg_tone": -0.92
     },
     {
-      "source": "canoncitydailyrecord.com",
+      "source": "yahoo.com",
       "n": 2,
-      "avg_tone": -2.496
+      "avg_tone": 1.729
     },
     {
-      "source": "citizensvoice.com",
+      "source": "kfoxtv.com",
       "n": 2,
-      "avg_tone": -2.496
+      "avg_tone": 1.095
     },
     {
-      "source": "bbc.co.uk",
+      "source": "dailygazette.com",
       "n": 2,
-      "avg_tone": 0.559
+      "avg_tone": -1.461
     },
     {
-      "source": "mynorthwest.com",
+      "source": "sbsun.com",
       "n": 2,
-      "avg_tone": 0.317
+      "avg_tone": 0.013
     },
     {
-      "source": "zalebs.com",
+      "source": "cbs4local.com",
       "n": 2,
-      "avg_tone": 1.557
+      "avg_tone": 1.095
     },
     {
-      "source": "taylorvilledailynews.com",
+      "source": "offalyindependent.ie",
       "n": 2,
-      "avg_tone": 0.347
+      "avg_tone": 0.771
     }
   ],
   "top_themes": [
     {
-      "theme": "BORDER",
-      "n": 165
-    },
-    {
       "theme": "LEADER",
-      "n": 127
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 120
+      "n": 238
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 116
+      "n": 223
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 105
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 88
-    },
-    {
-      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
-      "n": 88
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 81
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 79
+      "n": 213
     },
     {
       "theme": "DELAY",
-      "n": 77
+      "n": 96
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 89
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 84
+    },
+    {
+      "theme": "AFFECT",
+      "n": 83
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 81
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 80
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 74
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 71
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 70
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 69
     },
     {
       "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 75
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 73
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
       "n": 69
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 69
-    },
-    {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 67
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 63
     }
   ]
 }
