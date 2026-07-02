@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02T01:36:02.780230+00:00",
-  "rows_total_scanned_last_run": 3640,
-  "rows_mexico_last_run": 141,
-  "overall_avg_tone_4h": 0.608,
+  "generated_at": "2026-07-02T05:41:35.099211+00:00",
+  "rows_total_scanned_last_run": 3402,
+  "rows_mexico_last_run": 117,
+  "overall_avg_tone_4h": 0.471,
   "timeline": [
     {
       "time": "2026-06-30T08:00",
@@ -273,145 +273,165 @@
       "time": "2026-07-02T01:45",
       "avg_tone": -0.472,
       "n_articles": 34
+    },
+    {
+      "time": "2026-07-02T05:00",
+      "avg_tone": 0.633,
+      "n_articles": 34
+    },
+    {
+      "time": "2026-07-02T05:15",
+      "avg_tone": 0.91,
+      "n_articles": 32
+    },
+    {
+      "time": "2026-07-02T05:30",
+      "avg_tone": 0.636,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-07-02T05:45",
+      "avg_tone": 0.405,
+      "n_articles": 28
     }
   ],
   "top_sources": [
     {
-      "source": "breitbart.com",
-      "n": 5,
-      "avg_tone": -1.287
+      "source": "kob.com",
+      "n": 4,
+      "avg_tone": 1.124
     },
     {
       "source": "asiaone.com",
-      "n": 4,
-      "avg_tone": -1.299
-    },
-    {
-      "source": "orlandosentinel.com",
       "n": 3,
-      "avg_tone": -3.912
+      "avg_tone": -0.04
     },
     {
-      "source": "argentinastar.com",
+      "source": "arkansasonline.com",
       "n": 3,
-      "avg_tone": 0.005
+      "avg_tone": 0.23
     },
     {
-      "source": "ibtimes.com",
+      "source": "capitalgazette.com",
       "n": 3,
-      "avg_tone": -1.452
+      "avg_tone": -0.066
     },
     {
-      "source": "lowellsun.com",
+      "source": "journal-advocate.com",
       "n": 3,
-      "avg_tone": 0.334
+      "avg_tone": -0.066
     },
     {
-      "source": "english.news.cn",
+      "source": "nzcity.co.nz",
       "n": 3,
-      "avg_tone": 4.366
-    },
-    {
-      "source": "en.tempo.co",
-      "n": 3,
-      "avg_tone": 0.304
-    },
-    {
-      "source": "advocate-news.com",
-      "n": 2,
-      "avg_tone": -4.683
-    },
-    {
-      "source": "krgv.com",
-      "n": 2,
-      "avg_tone": -2.545
-    },
-    {
-      "source": "nbcmiami.com",
-      "n": 2,
-      "avg_tone": -1.542
-    },
-    {
-      "source": "newkerala.com",
-      "n": 2,
-      "avg_tone": 0.22
+      "avg_tone": -2.281
     },
     {
       "source": "troyrecord.com",
       "n": 2,
-      "avg_tone": 0.641
+      "avg_tone": 2.113
     },
     {
-      "source": "freepressseries.co.uk",
+      "source": "broomfieldenterprise.com",
       "n": 2,
-      "avg_tone": 3.878
+      "avg_tone": 2.113
     },
     {
-      "source": "cp24.com",
+      "source": "thegazette.com",
       "n": 2,
-      "avg_tone": 1.871
+      "avg_tone": -1.139
+    },
+    {
+      "source": "guampdn.com",
+      "n": 2,
+      "avg_tone": 0.643
+    },
+    {
+      "source": "timesfreepress.com",
+      "n": 2,
+      "avg_tone": 0.263
+    },
+    {
+      "source": "e-flux.com",
+      "n": 2,
+      "avg_tone": -0.176
+    },
+    {
+      "source": "theoaklandpress.com",
+      "n": 2,
+      "avg_tone": 2.113
+    },
+    {
+      "source": "union-bulletin.com",
+      "n": 2,
+      "avg_tone": 2.712
+    },
+    {
+      "source": "dailytrust.com",
+      "n": 2,
+      "avg_tone": 1.038
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_698_TRADE",
-      "n": 199
+      "theme": "SELF_IDENTIFIED_HUMAN_RIGHTS",
+      "n": 102
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 84
+      "theme": "UNGP_POLITICAL_FREEDOMS",
+      "n": 102
+    },
+    {
+      "theme": "TAX_FNCACT_QUEENS",
+      "n": 101
+    },
+    {
+      "theme": "ETH_INDIGINOUS",
+      "n": 101
+    },
+    {
+      "theme": "TAX_ETHNICITY_INDIGENOUS",
+      "n": 100
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 83
-    },
-    {
-      "theme": "LEADER",
-      "n": 78
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 78
+      "n": 100
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 77
+      "n": 88
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 76
+      "theme": "TAX_ETHNICITY_ASIAN",
+      "n": 81
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 71
+      "theme": "TAX_DISEASE_FLUSHING",
+      "n": 80
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 68
+      "theme": "TAX_WORLDLANGUAGES_ALABAMA",
+      "n": 80
     },
     {
-      "theme": "USPEC_POLICY1",
+      "theme": "WB_3007_NATIONAL_PARKS",
       "n": 66
     },
     {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 64
+      "theme": "WB_1833_PROTECTED_AREAS_SYSTEMS",
+      "n": 66
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 63
+      "theme": "WB_1829_ECOSYSTEM_MANAGEMENT",
+      "n": 66
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 63
+      "theme": "TAX_FNCACT_WOMEN",
+      "n": 65
     },
     {
-      "theme": "NATURAL_DISASTER_EARTHQUAKES",
+      "theme": "TAX_FNCACT_KING",
       "n": 61
-    },
-    {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 60
     }
   ]
 }
