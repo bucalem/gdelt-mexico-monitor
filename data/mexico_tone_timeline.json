@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-03T09:33:27.540644+00:00",
-  "rows_total_scanned_last_run": 3612,
-  "rows_mexico_last_run": 51,
-  "overall_avg_tone_4h": 0.325,
+  "generated_at": "2026-07-03T11:54:46.631613+00:00",
+  "rows_total_scanned_last_run": 4807,
+  "rows_mexico_last_run": 108,
+  "overall_avg_tone_4h": 0.667,
   "timeline": [
     {
       "time": "2026-06-30T19:45",
@@ -528,145 +528,165 @@
       "time": "2026-07-03T09:30",
       "avg_tone": 0.638,
       "n_articles": 20
+    },
+    {
+      "time": "2026-07-03T11:15",
+      "avg_tone": 1.962,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-07-03T11:30",
+      "avg_tone": 1.266,
+      "n_articles": 30
+    },
+    {
+      "time": "2026-07-03T11:45",
+      "avg_tone": 1.191,
+      "n_articles": 29
+    },
+    {
+      "time": "2026-07-03T12:00",
+      "avg_tone": 1.02,
+      "n_articles": 28
     }
   ],
   "top_sources": [
     {
-      "source": "archdaily.com",
-      "n": 3,
-      "avg_tone": 1.887
-    },
-    {
-      "source": "arsenalnews.co.uk",
-      "n": 2,
-      "avg_tone": 0.447
-    },
-    {
-      "source": "asiaone.com",
-      "n": 2,
-      "avg_tone": -2.216
-    },
-    {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -3.024
-    },
-    {
-      "source": "somersetlive.co.uk",
-      "n": 2,
-      "avg_tone": 1.263
-    },
-    {
       "source": "metro.co.uk",
+      "n": 4,
+      "avg_tone": -0.083
+    },
+    {
+      "source": "postregister.com",
       "n": 2,
-      "avg_tone": -0.321
+      "avg_tone": 0.942
     },
     {
-      "source": "manchestereveningnews.co.uk",
+      "source": "suntimes.com",
       "n": 2,
-      "avg_tone": 0.816
+      "avg_tone": 1.513
     },
     {
-      "source": "proactiveinvestors.co.uk",
-      "n": 1,
-      "avg_tone": 2.294
+      "source": "theglobeandmail.com",
+      "n": 2,
+      "avg_tone": -1.493
     },
     {
-      "source": "esmmagazine.com",
-      "n": 1,
-      "avg_tone": 0.214
+      "source": "riotimesonline.com",
+      "n": 2,
+      "avg_tone": -0.123
     },
     {
-      "source": "niagarafallsreview.ca",
-      "n": 1,
-      "avg_tone": -1.012
+      "source": "finanznachrichten.de",
+      "n": 2,
+      "avg_tone": 2.214
     },
     {
-      "source": "rediff.com",
-      "n": 1,
-      "avg_tone": 2.433
+      "source": "newsweek.com",
+      "n": 2,
+      "avg_tone": -3.981
     },
     {
-      "source": "ktvu.com",
-      "n": 1,
-      "avg_tone": 0.913
+      "source": "prnewswire.com",
+      "n": 2,
+      "avg_tone": 1.699
     },
     {
-      "source": "theepochtimes.com",
-      "n": 1,
-      "avg_tone": -0.963
+      "source": "cambridge-news.co.uk",
+      "n": 2,
+      "avg_tone": 1.083
     },
     {
-      "source": "irishtimes.com",
-      "n": 1,
-      "avg_tone": -1.59
+      "source": "newsday.com",
+      "n": 2,
+      "avg_tone": -0.49
     },
     {
-      "source": "fortune.com",
-      "n": 1,
-      "avg_tone": -1.038
+      "source": "stockhouse.com",
+      "n": 2,
+      "avg_tone": 0.882
+    },
+    {
+      "source": "edp24.co.uk",
+      "n": 2,
+      "avg_tone": 1.924
+    },
+    {
+      "source": "theguardian.com",
+      "n": 2,
+      "avg_tone": -2.126
+    },
+    {
+      "source": "watfordobserver.co.uk",
+      "n": 2,
+      "avg_tone": 1.685
+    },
+    {
+      "source": "basingstokegazette.co.uk",
+      "n": 2,
+      "avg_tone": 3.206
     }
   ],
   "top_themes": [
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 45
-    },
-    {
       "theme": "WB_2670_JOBS",
-      "n": 38
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 36
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 33
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 32
+      "n": 109
     },
     {
       "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 31
+      "n": 104
     },
     {
       "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 31
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 28
+      "n": 104
     },
     {
       "theme": "WB_2837_IMMIGRATION",
-      "n": 28
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 27
+      "n": 91
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 25
+      "n": 82
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 51
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 41
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 39
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 39
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 33
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 24
+      "n": 32
     },
     {
-      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
-      "n": 24
+      "theme": "WB_698_TRADE",
+      "n": 31
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 22
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 29
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 20
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 29
+    },
+    {
+      "theme": "LEADER",
+      "n": 29
     }
   ]
 }
