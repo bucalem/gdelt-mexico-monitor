@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-03T02:05:12.173003+00:00",
-  "rows_total_scanned_last_run": 3757,
-  "rows_mexico_last_run": 122,
-  "overall_avg_tone_4h": 0.384,
+  "generated_at": "2026-07-03T06:02:45.103937+00:00",
+  "rows_total_scanned_last_run": 3319,
+  "rows_mexico_last_run": 54,
+  "overall_avg_tone_4h": 0.115,
   "timeline": [
     {
       "time": "2026-06-30T08:00",
@@ -508,145 +508,165 @@
       "time": "2026-07-03T02:15",
       "avg_tone": 0.758,
       "n_articles": 27
+    },
+    {
+      "time": "2026-07-03T05:15",
+      "avg_tone": -1.075,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-07-03T05:30",
+      "avg_tone": -0.167,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-07-03T05:45",
+      "avg_tone": -1.899,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-07-03T06:00",
+      "avg_tone": 0.021,
+      "n_articles": 14
     }
   ],
   "top_sources": [
     {
-      "source": "chinadaily.com.cn",
+      "source": "medicaldaily.com",
       "n": 3,
-      "avg_tone": 0.502
+      "avg_tone": -4.904
     },
     {
-      "source": "whittierdailynews.com",
+      "source": "greenevillesun.com",
       "n": 2,
-      "avg_tone": -0.075
+      "avg_tone": -0.746
     },
     {
-      "source": "krgv.com",
+      "source": "ewn.co.za",
       "n": 2,
-      "avg_tone": -10.765
+      "avg_tone": -2.324
     },
     {
-      "source": "prnewswire.com",
+      "source": "asiaone.com",
       "n": 2,
-      "avg_tone": 7.014
+      "avg_tone": 2.282
     },
     {
-      "source": "journalstar.com",
+      "source": "stardem.com",
       "n": 2,
-      "avg_tone": 3.937
+      "avg_tone": -1.478
     },
     {
-      "source": "thegazette.com",
-      "n": 2,
-      "avg_tone": -2.67
-    },
-    {
-      "source": "ksat.com",
+      "source": "theboltonnews.co.uk",
       "n": 1,
-      "avg_tone": -0.515
+      "avg_tone": 0.735
     },
     {
-      "source": "ketr.org",
+      "source": "nwaonline.com",
+      "n": 1,
+      "avg_tone": -4.643
+    },
+    {
+      "source": "dw.com",
+      "n": 1,
+      "avg_tone": 1.357
+    },
+    {
+      "source": "lbc.co.uk",
+      "n": 1,
+      "avg_tone": -2.109
+    },
+    {
+      "source": "dailygazette.com",
+      "n": 1,
+      "avg_tone": 1.124
+    },
+    {
+      "source": "icij.org",
+      "n": 1,
+      "avg_tone": -2.42
+    },
+    {
+      "source": "upr.org",
       "n": 1,
       "avg_tone": 2.676
     },
     {
       "source": "manilatimes.net",
       "n": 1,
-      "avg_tone": 6.618
+      "avg_tone": 2.184
     },
     {
-      "source": "news3lv.com",
+      "source": "smdailyjournal.com",
       "n": 1,
-      "avg_tone": 0.24
+      "avg_tone": 4.262
     },
     {
-      "source": "reflector.com",
+      "source": "tribuneonlineng.com",
       "n": 1,
-      "avg_tone": -1.368
-    },
-    {
-      "source": "abc.net.au",
-      "n": 1,
-      "avg_tone": 0.653
-    },
-    {
-      "source": "whtimes.co.uk",
-      "n": 1,
-      "avg_tone": 0.96
-    },
-    {
-      "source": "wpde.com",
-      "n": 1,
-      "avg_tone": 0.24
-    },
-    {
-      "source": "newsshopper.co.uk",
-      "n": 1,
-      "avg_tone": 0.96
+      "avg_tone": -2.352
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_698_TRADE",
-      "n": 121
+      "theme": "GENERAL_HEALTH",
+      "n": 62
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 97
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 68
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 64
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 59
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 59
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 58
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 58
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 56
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 55
+      "n": 54
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "theme": "TAX_WEAPONS_GUN",
       "n": 51
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 50
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 47
     },
     {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 50
+      "theme": "LEGISLATION",
+      "n": 44
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 46
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 44
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 44
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 43
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 43
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 41
+    },
+    {
+      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
+      "n": 39
+    },
+    {
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 38
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 41
+      "n": 37
     },
     {
-      "theme": "BORDER",
-      "n": 41
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 36
     }
   ]
 }
