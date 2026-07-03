@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-02T23:46:08.787898+00:00",
-  "rows_total_scanned_last_run": 4844,
-  "rows_mexico_last_run": 134,
-  "overall_avg_tone_4h": 0.259,
+  "generated_at": "2026-07-03T02:05:12.173003+00:00",
+  "rows_total_scanned_last_run": 3757,
+  "rows_mexico_last_run": 122,
+  "overall_avg_tone_4h": 0.384,
   "timeline": [
     {
       "time": "2026-06-30T08:00",
@@ -488,145 +488,165 @@
       "time": "2026-07-02T23:45",
       "avg_tone": 0.19,
       "n_articles": 46
+    },
+    {
+      "time": "2026-07-03T01:30",
+      "avg_tone": 0.387,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-07-03T01:45",
+      "avg_tone": 1.107,
+      "n_articles": 39
+    },
+    {
+      "time": "2026-07-03T02:00",
+      "avg_tone": 0.826,
+      "n_articles": 31
+    },
+    {
+      "time": "2026-07-03T02:15",
+      "avg_tone": 0.758,
+      "n_articles": 27
     }
   ],
   "top_sources": [
     {
-      "source": "mynorthwest.com",
+      "source": "chinadaily.com.cn",
       "n": 3,
-      "avg_tone": 2.417
+      "avg_tone": 0.502
     },
     {
-      "source": "theconservativetreehouse.com",
-      "n": 3,
-      "avg_tone": -0.647
-    },
-    {
-      "source": "myfox28columbus.com",
+      "source": "whittierdailynews.com",
       "n": 2,
-      "avg_tone": -3.824
+      "avg_tone": -0.075
     },
     {
-      "source": "harwichandmanningtreestandard.co.uk",
+      "source": "krgv.com",
       "n": 2,
-      "avg_tone": 3.432
+      "avg_tone": -10.765
     },
     {
-      "source": "timesandstar.co.uk",
+      "source": "prnewswire.com",
       "n": 2,
-      "avg_tone": 3.432
+      "avg_tone": 7.014
     },
     {
-      "source": "fox17.com",
+      "source": "journalstar.com",
       "n": 2,
-      "avg_tone": -3.824
+      "avg_tone": 3.937
     },
     {
-      "source": "thewestonmercury.co.uk",
+      "source": "thegazette.com",
       "n": 2,
-      "avg_tone": 3.432
+      "avg_tone": -2.67
     },
     {
-      "source": "kjzz.org",
-      "n": 2,
-      "avg_tone": 0.586
+      "source": "ksat.com",
+      "n": 1,
+      "avg_tone": -0.515
     },
     {
-      "source": "newschannel9.com",
-      "n": 2,
-      "avg_tone": -3.824
+      "source": "ketr.org",
+      "n": 1,
+      "avg_tone": 2.676
     },
     {
-      "source": "weartv.com",
-      "n": 2,
-      "avg_tone": -3.824
+      "source": "manilatimes.net",
+      "n": 1,
+      "avg_tone": 6.618
     },
     {
-      "source": "wjla.com",
-      "n": 2,
-      "avg_tone": -3.824
+      "source": "news3lv.com",
+      "n": 1,
+      "avg_tone": 0.24
     },
     {
-      "source": "newsandstar.co.uk",
-      "n": 2,
-      "avg_tone": 3.432
+      "source": "reflector.com",
+      "n": 1,
+      "avg_tone": -1.368
     },
     {
-      "source": "greenocktelegraph.co.uk",
-      "n": 2,
-      "avg_tone": 3.432
+      "source": "abc.net.au",
+      "n": 1,
+      "avg_tone": 0.653
     },
     {
-      "source": "wjactv.com",
-      "n": 2,
-      "avg_tone": -3.824
+      "source": "whtimes.co.uk",
+      "n": 1,
+      "avg_tone": 0.96
     },
     {
-      "source": "dunfermlinepress.com",
-      "n": 2,
-      "avg_tone": 3.432
+      "source": "wpde.com",
+      "n": 1,
+      "avg_tone": 0.24
+    },
+    {
+      "source": "newsshopper.co.uk",
+      "n": 1,
+      "avg_tone": 0.96
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 128
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 126
+      "n": 121
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 125
-    },
-    {
-      "theme": "LEADER",
-      "n": 115
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 112
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 110
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 102
-    },
-    {
-      "theme": "TERROR",
-      "n": 100
-    },
-    {
-      "theme": "BORDER",
-      "n": 93
-    },
-    {
-      "theme": "ORGANIZED_CRIME",
-      "n": 91
-    },
-    {
-      "theme": "WB_2452_GANGS",
-      "n": 91
-    },
-    {
-      "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
-      "n": 91
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 79
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 71
+      "n": 97
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 67
+      "n": 68
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 64
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 59
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 59
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 58
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 58
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 55
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 51
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 50
+    },
+    {
+      "theme": "TAX_FNCACT_CHILDREN",
+      "n": 50
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 46
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 41
+    },
+    {
+      "theme": "BORDER",
+      "n": 41
     }
   ]
 }
