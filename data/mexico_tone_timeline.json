@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-04T21:25:29.139091+00:00",
-  "rows_total_scanned_last_run": 2321,
-  "rows_mexico_last_run": 58,
-  "overall_avg_tone_4h": 0.689,
+  "generated_at": "2026-07-04T22:25:47.265125+00:00",
+  "rows_total_scanned_last_run": 2285,
+  "rows_mexico_last_run": 71,
+  "overall_avg_tone_4h": 0.74,
   "timeline": [
-    {
-      "time": "2026-07-01T21:30",
-      "avg_tone": 0.342,
-      "n_articles": 59
-    },
-    {
-      "time": "2026-07-01T21:45",
-      "avg_tone": 1.026,
-      "n_articles": 58
-    },
-    {
-      "time": "2026-07-01T22:00",
-      "avg_tone": 0.412,
-      "n_articles": 44
-    },
     {
       "time": "2026-07-01T23:00",
       "avg_tone": -0.469,
@@ -753,145 +738,165 @@
       "time": "2026-07-04T21:30",
       "avg_tone": 0.504,
       "n_articles": 14
+    },
+    {
+      "time": "2026-07-04T21:45",
+      "avg_tone": 0.725,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-07-04T22:00",
+      "avg_tone": 0.829,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-07-04T22:15",
+      "avg_tone": 0.028,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-07-04T22:30",
+      "avg_tone": 0.787,
+      "n_articles": 22
     }
   ],
   "top_sources": [
     {
-      "source": "argentinastar.com",
+      "source": "fox10phoenix.com",
+      "n": 3,
+      "avg_tone": -0.07
+    },
+    {
+      "source": "theepochtimes.com",
+      "n": 3,
+      "avg_tone": -0.431
+    },
+    {
+      "source": "hanfordsentinel.com",
       "n": 2,
-      "avg_tone": 0.663
+      "avg_tone": -1.19
     },
     {
-      "source": "eastcountymagazine.org",
+      "source": "news-herald.com",
       "n": 2,
-      "avg_tone": -2.161
+      "avg_tone": -0.222
     },
     {
-      "source": "brazilsun.com",
+      "source": "morningjournal.com",
       "n": 2,
-      "avg_tone": 0.441
+      "avg_tone": -0.222
     },
     {
-      "source": "ghanamma.com",
+      "source": "abqjournal.com",
       "n": 2,
-      "avg_tone": 2.171
+      "avg_tone": -0.198
     },
     {
-      "source": "summitdaily.com",
+      "source": "saratogian.com",
       "n": 1,
-      "avg_tone": 2.07
+      "avg_tone": 3.144
     },
     {
-      "source": "stratford-herald.com",
+      "source": "kenyastar.com",
       "n": 1,
-      "avg_tone": 0.462
+      "avg_tone": 1.786
     },
     {
-      "source": "bracknellnews.co.uk",
+      "source": "nypost.com",
       "n": 1,
-      "avg_tone": 1.106
+      "avg_tone": -4.719
     },
     {
-      "source": "gazetteseries.co.uk",
+      "source": "vicnews.com",
       "n": 1,
-      "avg_tone": 1.106
+      "avg_tone": 5.868
     },
     {
-      "source": "caughtoffside.com",
+      "source": "eyemagazine.com",
       "n": 1,
-      "avg_tone": -2.431
+      "avg_tone": 2.048
     },
     {
-      "source": "clydebankpost.co.uk",
+      "source": "newburytoday.co.uk",
       "n": 1,
-      "avg_tone": 1.106
+      "avg_tone": 0.756
     },
     {
-      "source": "thetimes.com",
+      "source": "thewestonmercury.co.uk",
       "n": 1,
-      "avg_tone": -1.412
+      "avg_tone": 1.277
     },
     {
-      "source": "outdoorlife.com",
+      "source": "runcornandwidnesworld.co.uk",
       "n": 1,
-      "avg_tone": 2.122
+      "avg_tone": 1.277
     },
     {
-      "source": "collider.com",
+      "source": "dailymail.com",
       "n": 1,
-      "avg_tone": -1.075
-    },
-    {
-      "source": "lynnnews.co.uk",
-      "n": 1,
-      "avg_tone": 0.462
-    },
-    {
-      "source": "chelmsfordweeklynews.co.uk",
-      "n": 1,
-      "avg_tone": 1.106
+      "avg_tone": 3.378
     }
   ],
   "top_themes": [
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
+      "theme": "UNGP_HEALTHCARE",
+      "n": 194
+    },
+    {
+      "theme": "HEALTH_VACCINATION",
+      "n": 192
+    },
+    {
+      "theme": "WB_1406_DISEASES",
       "n": 56
     },
     {
-      "theme": "MARITIME_INCIDENT",
+      "theme": "TAX_DISEASE_INFLUENZA",
+      "n": 55
+    },
+    {
+      "theme": "WB_1421_INFLUENZA",
+      "n": 55
+    },
+    {
+      "theme": "WB_1415_COMMUNICABLE_DISEASE",
+      "n": 55
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 51
+    },
+    {
+      "theme": "TAX_DISEASE_DISEASE",
       "n": 47
     },
     {
-      "theme": "MARITIME",
-      "n": 46
+      "theme": "WB_2670_JOBS",
+      "n": 45
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 25
+      "theme": "TAX_DISEASE_EPIDEMIC",
+      "n": 45
     },
     {
-      "theme": "LEADER",
-      "n": 24
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 44
     },
     {
-      "theme": "WB_137_WATER",
-      "n": 23
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 44
     },
     {
-      "theme": "WB_135_TRANSPORT",
-      "n": 20
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 41
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 20
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 38
     },
     {
-      "theme": "SOC_POINTSOFINTEREST_AIRPORT",
-      "n": 18
-    },
-    {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 18
-    },
-    {
-      "theme": "WB_1804_AIRPORTS",
-      "n": 18
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 17
-    },
-    {
-      "theme": "TAX_FNCACT_MAN",
-      "n": 17
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 16
-    },
-    {
-      "theme": "WB_1014_CRIMINAL_JUSTICE",
-      "n": 16
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 37
     }
   ]
 }
