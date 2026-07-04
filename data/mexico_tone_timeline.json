@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-07-04T19:08:07.429053+00:00",
-  "rows_total_scanned_last_run": 3060,
-  "rows_mexico_last_run": 68,
-  "overall_avg_tone_4h": 0.136,
+  "generated_at": "2026-07-04T20:15:58.378848+00:00",
+  "rows_total_scanned_last_run": 2759,
+  "rows_mexico_last_run": 77,
+  "overall_avg_tone_4h": 0.483,
   "timeline": [
-    {
-      "time": "2026-07-01T19:45",
-      "avg_tone": 1.452,
-      "n_articles": 58
-    },
-    {
-      "time": "2026-07-01T20:00",
-      "avg_tone": 0.997,
-      "n_articles": 39
-    },
     {
       "time": "2026-07-01T20:15",
       "avg_tone": 0.819,
@@ -738,145 +728,165 @@
       "time": "2026-07-04T19:15",
       "avg_tone": 2.223,
       "n_articles": 17
+    },
+    {
+      "time": "2026-07-04T19:30",
+      "avg_tone": 1.402,
+      "n_articles": 31
+    },
+    {
+      "time": "2026-07-04T19:45",
+      "avg_tone": 1.019,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-07-04T20:00",
+      "avg_tone": 0.857,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-07-04T20:15",
+      "avg_tone": 0.746,
+      "n_articles": 14
     }
   ],
   "top_sources": [
     {
-      "source": "thetidenewsonline.com",
+      "source": "dailystar.co.uk",
       "n": 4,
-      "avg_tone": -1.433
+      "avg_tone": -0.732
     },
     {
-      "source": "caribbeanherald.com",
+      "source": "cubaheadlines.com",
+      "n": 3,
+      "avg_tone": -0.689
+    },
+    {
+      "source": "kidderminstershuttle.co.uk",
       "n": 2,
-      "avg_tone": 0.853
+      "avg_tone": 1.085
     },
     {
-      "source": "riotimesonline.com",
+      "source": "theage.com.au",
       "n": 2,
-      "avg_tone": -0.814
+      "avg_tone": 1.852
     },
     {
-      "source": "andoveradvertiser.co.uk",
+      "source": "krgv.com",
       "n": 2,
-      "avg_tone": 1.541
+      "avg_tone": 0.051
     },
     {
-      "source": "aol.co.uk",
+      "source": "themarketsdaily.com",
       "n": 2,
-      "avg_tone": 0.155
+      "avg_tone": 2.26
     },
     {
-      "source": "dailypolitical.com",
-      "n": 2,
-      "avg_tone": 0.8
-    },
-    {
-      "source": "ktvu.com",
-      "n": 2,
-      "avg_tone": -0.855
-    },
-    {
-      "source": "taosnews.com",
-      "n": 2,
-      "avg_tone": -3.561
-    },
-    {
-      "source": "haitisun.com",
-      "n": 2,
-      "avg_tone": 0.853
-    },
-    {
-      "source": "foxnews.com",
-      "n": 2,
-      "avg_tone": 3.75
-    },
-    {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -0.788
-    },
-    {
-      "source": "globalnews.ca",
+      "source": "brisbanetimes.com.au",
       "n": 1,
-      "avg_tone": 0.526
+      "avg_tone": 2.116
     },
     {
-      "source": "chesterstandard.co.uk",
+      "source": "cravenherald.co.uk",
       "n": 1,
       "avg_tone": 1.392
     },
     {
-      "source": "impartialreporter.com",
+      "source": "foxla.com",
+      "n": 1,
+      "avg_tone": -0.979
+    },
+    {
+      "source": "theboltonnews.co.uk",
       "n": 1,
       "avg_tone": 1.392
     },
     {
-      "source": "brandonsun.com",
+      "source": "cotswoldjournal.co.uk",
       "n": 1,
-      "avg_tone": 9.36
+      "avg_tone": 1.392
+    },
+    {
+      "source": "breitbart.com",
+      "n": 1,
+      "avg_tone": -3.636
+    },
+    {
+      "source": "freepressseries.co.uk",
+      "n": 1,
+      "avg_tone": 1.392
+    },
+    {
+      "source": "eveshamjournal.co.uk",
+      "n": 1,
+      "avg_tone": 1.392
+    },
+    {
+      "source": "thecharlottepost.com",
+      "n": 1,
+      "avg_tone": -1.283
     }
   ],
   "top_themes": [
     {
-      "theme": "LEADER",
-      "n": 100
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 98
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 98
-    },
-    {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 96
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 57
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICANS",
-      "n": 48
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 44
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 41
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "theme": "TAX_FNCACT_CHILDREN",
       "n": 39
     },
     {
-      "theme": "EDUCATION",
+      "theme": "TAX_ETHNICITY_AMERICAN",
       "n": 35
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 34
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
       "n": 33
     },
     {
-      "theme": "TAX_FNCACT_AUTHOR",
-      "n": 33
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "theme": "MEDIA_MSM",
       "n": 31
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 29
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 25
     },
     {
-      "theme": "EPU_POLICY_BUDGET",
-      "n": 26
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 21
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 20
+    },
+    {
+      "theme": "TAX_FNCACT_IMMIGRANT",
+      "n": 19
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 19
+    },
+    {
+      "theme": "AFFECT",
+      "n": 19
+    },
+    {
+      "theme": "LEADER",
+      "n": 17
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 17
+    },
+    {
+      "theme": "BORDER",
+      "n": 17
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 17
     }
   ]
 }
