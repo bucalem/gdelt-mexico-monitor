@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-04T05:02:02.601820+00:00",
-  "rows_total_scanned_last_run": 2168,
-  "rows_mexico_last_run": 79,
-  "overall_avg_tone_4h": 0.594,
+  "generated_at": "2026-07-04T08:03:51.500089+00:00",
+  "rows_total_scanned_last_run": 2318,
+  "rows_mexico_last_run": 150,
+  "overall_avg_tone_4h": 0.715,
   "timeline": [
     {
       "time": "2026-07-01T08:15",
@@ -648,145 +648,165 @@
       "time": "2026-07-04T05:00",
       "avg_tone": 1.55,
       "n_articles": 28
+    },
+    {
+      "time": "2026-07-04T07:15",
+      "avg_tone": 1.679,
+      "n_articles": 43
+    },
+    {
+      "time": "2026-07-04T07:30",
+      "avg_tone": 0.941,
+      "n_articles": 37
+    },
+    {
+      "time": "2026-07-04T07:45",
+      "avg_tone": 0.999,
+      "n_articles": 42
+    },
+    {
+      "time": "2026-07-04T08:00",
+      "avg_tone": 1.691,
+      "n_articles": 28
     }
   ],
   "top_sources": [
     {
-      "source": "countypress.co.uk",
-      "n": 3,
-      "avg_tone": -0.298
-    },
-    {
       "source": "iheart.com",
-      "n": 2,
+      "n": 30,
       "avg_tone": 1.282
     },
     {
-      "source": "eppingforestguardian.co.uk",
+      "source": "aol.co.uk",
+      "n": 5,
+      "avg_tone": -1.567
+    },
+    {
+      "source": "clactonandfrintongazette.co.uk",
+      "n": 3,
+      "avg_tone": 2.159
+    },
+    {
+      "source": "bucksfreepress.co.uk",
+      "n": 3,
+      "avg_tone": 0.743
+    },
+    {
+      "source": "burytimes.co.uk",
+      "n": 3,
+      "avg_tone": 2.159
+    },
+    {
+      "source": "yourlocalguardian.co.uk",
+      "n": 3,
+      "avg_tone": 2.159
+    },
+    {
+      "source": "messengernewspapers.co.uk",
+      "n": 3,
+      "avg_tone": 2.159
+    },
+    {
+      "source": "newsshopper.co.uk",
+      "n": 3,
+      "avg_tone": 2.159
+    },
+    {
+      "source": "lancashiretelegraph.co.uk",
       "n": 2,
-      "avg_tone": 2.532
+      "avg_tone": 0.963
     },
     {
-      "source": "maldonandburnhamstandard.co.uk",
+      "source": "barryanddistrictnews.co.uk",
       "n": 2,
-      "avg_tone": 2.532
+      "avg_tone": 0.963
     },
     {
-      "source": "thisisoxfordshire.co.uk",
+      "source": "swindonadvertiser.co.uk",
       "n": 2,
-      "avg_tone": 1.778
+      "avg_tone": 0.963
     },
     {
-      "source": "fourfourtwo.com",
+      "source": "gazette-news.co.uk",
       "n": 2,
-      "avg_tone": 1.225
+      "avg_tone": 0.963
     },
     {
-      "source": "emagazine.com",
+      "source": "sloughobserver.co.uk",
       "n": 2,
-      "avg_tone": -0.395
+      "avg_tone": 0.963
     },
     {
-      "source": "cp24.com",
+      "source": "dudleynews.co.uk",
       "n": 2,
-      "avg_tone": -7.262
+      "avg_tone": 0.963
     },
     {
-      "source": "richmondandtwickenhamtimes.co.uk",
+      "source": "southwalesargus.co.uk",
       "n": 2,
-      "avg_tone": 2.532
-    },
-    {
-      "source": "bicesteradvertiser.net",
-      "n": 2,
-      "avg_tone": 2.532
-    },
-    {
-      "source": "thetelegraphandargus.co.uk",
-      "n": 2,
-      "avg_tone": -0.061
-    },
-    {
-      "source": "leighjournal.co.uk",
-      "n": 2,
-      "avg_tone": -0.061
-    },
-    {
-      "source": "greenocktelegraph.co.uk",
-      "n": 2,
-      "avg_tone": -0.061
-    },
-    {
-      "source": "wxxinews.org",
-      "n": 1,
-      "avg_tone": 2.136
-    },
-    {
-      "source": "somersetcountygazette.co.uk",
-      "n": 1,
-      "avg_tone": 4.549
+      "avg_tone": 0.963
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLICY1",
-      "n": 72
-    },
-    {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 66
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 49
-    },
-    {
-      "theme": "ECON_TAXATION",
-      "n": 49
-    },
-    {
-      "theme": "EPU_POLICY_TAX",
-      "n": 49
-    },
-    {
-      "theme": "EPU_CATS_TAXES",
-      "n": 49
-    },
-    {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 39
-    },
-    {
-      "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 39
-    },
-    {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 39
+      "n": 188
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 39
+      "n": 79
     },
     {
       "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 38
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 35
+      "n": 71
     },
     {
       "theme": "TAX_FOODSTAPLES_EGGS",
-      "n": 35
+      "n": 70
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 34
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 64
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 64
+    },
+    {
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 63
+    },
+    {
+      "theme": "TAX_ETHNICITY_BLACK",
+      "n": 63
     },
     {
       "theme": "LEADER",
-      "n": 33
+      "n": 59
+    },
+    {
+      "theme": "TAX_ETHNICITY_IRISH",
+      "n": 57
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_IRISH",
+      "n": 57
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_BREAD",
+      "n": 56
+    },
+    {
+      "theme": "SOC_SLAVERY",
+      "n": 51
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 51
+    },
+    {
+      "theme": "UNGP_POLITICAL_FREEDOMS",
+      "n": 50
     }
   ]
 }
