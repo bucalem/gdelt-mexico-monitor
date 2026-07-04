@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-04T17:57:20.552646+00:00",
-  "rows_total_scanned_last_run": 2337,
-  "rows_mexico_last_run": 39,
-  "overall_avg_tone_4h": -0.147,
+  "generated_at": "2026-07-04T19:08:07.429053+00:00",
+  "rows_total_scanned_last_run": 3060,
+  "rows_mexico_last_run": 68,
+  "overall_avg_tone_4h": 0.136,
   "timeline": [
-    {
-      "time": "2026-07-01T18:00",
-      "avg_tone": 0.626,
-      "n_articles": 75
-    },
-    {
-      "time": "2026-07-01T18:15",
-      "avg_tone": 1.204,
-      "n_articles": 75
-    },
-    {
-      "time": "2026-07-01T18:30",
-      "avg_tone": 0.531,
-      "n_articles": 83
-    },
     {
       "time": "2026-07-01T19:45",
       "avg_tone": 1.452,
@@ -733,145 +718,165 @@
       "time": "2026-07-04T18:00",
       "avg_tone": 0.735,
       "n_articles": 13
+    },
+    {
+      "time": "2026-07-04T18:30",
+      "avg_tone": -0.266,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-07-04T18:45",
+      "avg_tone": -1.37,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-07-04T19:00",
+      "avg_tone": 0.976,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-07-04T19:15",
+      "avg_tone": 2.223,
+      "n_articles": 17
     }
   ],
   "top_sources": [
     {
-      "source": "atlantaleader.com",
-      "n": 2,
-      "avg_tone": -1.179
+      "source": "thetidenewsonline.com",
+      "n": 4,
+      "avg_tone": -1.433
     },
     {
-      "source": "torontosun.com",
+      "source": "caribbeanherald.com",
       "n": 2,
-      "avg_tone": -0.731
+      "avg_tone": 0.853
+    },
+    {
+      "source": "riotimesonline.com",
+      "n": 2,
+      "avg_tone": -0.814
+    },
+    {
+      "source": "andoveradvertiser.co.uk",
+      "n": 2,
+      "avg_tone": 1.541
     },
     {
       "source": "aol.co.uk",
       "n": 2,
-      "avg_tone": 0.69
+      "avg_tone": 0.155
     },
     {
-      "source": "abc7.com",
+      "source": "dailypolitical.com",
       "n": 2,
-      "avg_tone": 1.585
+      "avg_tone": 0.8
     },
     {
-      "source": "the-star.co.ke",
-      "n": 2,
-      "avg_tone": -0.856
-    },
-    {
-      "source": "fox9.com",
+      "source": "ktvu.com",
       "n": 2,
       "avg_tone": -0.855
     },
     {
-      "source": "augustafreepress.com",
-      "n": 1,
-      "avg_tone": -1.35
+      "source": "taosnews.com",
+      "n": 2,
+      "avg_tone": -3.561
     },
     {
-      "source": "seattletimes.com",
-      "n": 1,
-      "avg_tone": 0.974
+      "source": "haitisun.com",
+      "n": 2,
+      "avg_tone": 0.853
     },
     {
-      "source": "theprideoflondon.com",
-      "n": 1,
-      "avg_tone": -1.699
+      "source": "foxnews.com",
+      "n": 2,
+      "avg_tone": 3.75
     },
     {
-      "source": "ckom.com",
-      "n": 1,
-      "avg_tone": 1.634
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": -0.788
     },
     {
-      "source": "reporterherald.com",
+      "source": "globalnews.ca",
       "n": 1,
-      "avg_tone": -0.085
+      "avg_tone": 0.526
     },
     {
-      "source": "metro.co.uk",
+      "source": "chesterstandard.co.uk",
       "n": 1,
-      "avg_tone": 0.684
+      "avg_tone": 1.392
     },
     {
-      "source": "manchestereveningnews.co.uk",
+      "source": "impartialreporter.com",
       "n": 1,
-      "avg_tone": 3.22
+      "avg_tone": 1.392
     },
     {
-      "source": "silverbirdtv.com",
+      "source": "brandonsun.com",
       "n": 1,
-      "avg_tone": 8.434
-    },
-    {
-      "source": "catholicworldreport.com",
-      "n": 1,
-      "avg_tone": 1.567
+      "avg_tone": 9.36
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 169
+      "theme": "LEADER",
+      "n": 100
     },
     {
       "theme": "ARMEDCONFLICT",
-      "n": 153
-    },
-    {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 153
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICANS",
       "n": 98
     },
     {
-      "theme": "TAX_FNCACT_AUTHOR",
-      "n": 65
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 98
     },
     {
-      "theme": "LEADER",
-      "n": 46
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 96
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 43
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 57
     },
     {
-      "theme": "MOVEMENT_GENERAL",
-      "n": 40
+      "theme": "TAX_ETHNICITY_AMERICANS",
+      "n": 48
     },
     {
-      "theme": "TAX_FNCACT_PROFESSOR",
-      "n": 40
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 44
     },
     {
-      "theme": "TAX_FNCACT_MAN",
-      "n": 39
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 41
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
       "n": 39
     },
     {
-      "theme": "MEDIA_MSM",
-      "n": 36
+      "theme": "EDUCATION",
+      "n": 35
     },
     {
-      "theme": "TAX_ETHNICITY_BLACK",
-      "n": 34
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 33
     },
     {
-      "theme": "SELF_IDENTIFIED_HUMAN_RIGHTS",
-      "n": 34
+      "theme": "TAX_FNCACT_AUTHOR",
+      "n": 33
     },
     {
-      "theme": "TAX_FNCACT_SIGNER",
-      "n": 34
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 31
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 29
+    },
+    {
+      "theme": "EPU_POLICY_BUDGET",
+      "n": 26
     }
   ]
 }
