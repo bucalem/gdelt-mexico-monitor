@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-04T01:15:34.427532+00:00",
-  "rows_total_scanned_last_run": 2808,
-  "rows_mexico_last_run": 116,
-  "overall_avg_tone_4h": 1.05,
+  "generated_at": "2026-07-04T05:02:02.601820+00:00",
+  "rows_total_scanned_last_run": 2168,
+  "rows_mexico_last_run": 79,
+  "overall_avg_tone_4h": 0.594,
   "timeline": [
-    {
-      "time": "2026-07-01T04:15",
-      "avg_tone": 0.335,
-      "n_articles": 41
-    },
-    {
-      "time": "2026-07-01T04:30",
-      "avg_tone": 0.488,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-07-01T04:45",
-      "avg_tone": 0.017,
-      "n_articles": 23
-    },
-    {
-      "time": "2026-07-01T05:00",
-      "avg_tone": -0.051,
-      "n_articles": 34
-    },
     {
       "time": "2026-07-01T08:15",
       "avg_tone": 0.53,
@@ -648,145 +628,165 @@
       "time": "2026-07-04T01:15",
       "avg_tone": -0.167,
       "n_articles": 36
+    },
+    {
+      "time": "2026-07-04T04:15",
+      "avg_tone": -0.294,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-07-04T04:30",
+      "avg_tone": -0.868,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-07-04T04:45",
+      "avg_tone": 0.861,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-07-04T05:00",
+      "avg_tone": 1.55,
+      "n_articles": 28
     }
   ],
   "top_sources": [
     {
-      "source": "trinidadtimes.com",
+      "source": "countypress.co.uk",
       "n": 3,
-      "avg_tone": -0.821
+      "avg_tone": -0.298
     },
     {
-      "source": "caribbeanherald.com",
-      "n": 3,
-      "avg_tone": -0.821
+      "source": "iheart.com",
+      "n": 2,
+      "avg_tone": 1.282
     },
     {
-      "source": "nwemail.co.uk",
+      "source": "eppingforestguardian.co.uk",
+      "n": 2,
+      "avg_tone": 2.532
+    },
+    {
+      "source": "maldonandburnhamstandard.co.uk",
+      "n": 2,
+      "avg_tone": 2.532
+    },
+    {
+      "source": "thisisoxfordshire.co.uk",
+      "n": 2,
+      "avg_tone": 1.778
+    },
+    {
+      "source": "fourfourtwo.com",
+      "n": 2,
+      "avg_tone": 1.225
+    },
+    {
+      "source": "emagazine.com",
+      "n": 2,
+      "avg_tone": -0.395
+    },
+    {
+      "source": "cp24.com",
+      "n": 2,
+      "avg_tone": -7.262
+    },
+    {
+      "source": "richmondandtwickenhamtimes.co.uk",
+      "n": 2,
+      "avg_tone": 2.532
+    },
+    {
+      "source": "bicesteradvertiser.net",
+      "n": 2,
+      "avg_tone": 2.532
+    },
+    {
+      "source": "thetelegraphandargus.co.uk",
       "n": 2,
       "avg_tone": -0.061
     },
     {
-      "source": "gringogazette.com",
-      "n": 2,
-      "avg_tone": 2.632
-    },
-    {
-      "source": "tivysideadvertiser.co.uk",
+      "source": "leighjournal.co.uk",
       "n": 2,
       "avg_tone": -0.061
     },
     {
-      "source": "rutland-times.co.uk",
-      "n": 2,
-      "avg_tone": -0.699
-    },
-    {
-      "source": "oxfordmail.co.uk",
+      "source": "greenocktelegraph.co.uk",
       "n": 2,
       "avg_tone": -0.061
     },
     {
-      "source": "harwichandmanningtreestandard.co.uk",
-      "n": 2,
-      "avg_tone": -0.061
+      "source": "wxxinews.org",
+      "n": 1,
+      "avg_tone": 2.136
     },
     {
-      "source": "warringtonguardian.co.uk",
-      "n": 2,
-      "avg_tone": -0.061
-    },
-    {
-      "source": "cotswoldjournal.co.uk",
-      "n": 2,
-      "avg_tone": -0.061
-    },
-    {
-      "source": "southwalesargus.co.uk",
-      "n": 2,
-      "avg_tone": -0.061
-    },
-    {
-      "source": "thenorthernecho.co.uk",
-      "n": 2,
-      "avg_tone": -0.061
-    },
-    {
-      "source": "countytimes.co.uk",
-      "n": 2,
-      "avg_tone": -0.061
-    },
-    {
-      "source": "krgv.com",
-      "n": 2,
-      "avg_tone": -3.265
-    },
-    {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": 1.071
+      "source": "somersetcountygazette.co.uk",
+      "n": 1,
+      "avg_tone": 4.549
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_1467_EDUCATION_FOR_ALL",
-      "n": 111
-    },
-    {
-      "theme": "WB_470_EDUCATION",
-      "n": 111
-    },
-    {
-      "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
-      "n": 111
-    },
-    {
-      "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
-      "n": 111
-    },
-    {
-      "theme": "WB_2748_EMPLOYMENT",
+      "theme": "USPEC_POLICY1",
       "n": 72
     },
     {
-      "theme": "WB_855_LABOR_MARKETS",
-      "n": 72
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 66
     },
     {
-      "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
-      "n": 72
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 49
+    },
+    {
+      "theme": "ECON_TAXATION",
+      "n": 49
+    },
+    {
+      "theme": "EPU_POLICY_TAX",
+      "n": 49
+    },
+    {
+      "theme": "EPU_CATS_TAXES",
+      "n": 49
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 39
+    },
+    {
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 39
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 39
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 39
+    },
+    {
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 38
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 35
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_EGGS",
+      "n": 35
     },
     {
       "theme": "GENERAL_GOVERNMENT",
-      "n": 63
+      "n": 34
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 58
-    },
-    {
-      "theme": "TAX_FNCACT_ECONOMISTS",
-      "n": 54
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 50
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 48
-    },
-    {
-      "theme": "ECON_STOCKMARKET",
-      "n": 47
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 45
-    },
-    {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 45
+      "theme": "LEADER",
+      "n": 33
     }
   ]
 }
