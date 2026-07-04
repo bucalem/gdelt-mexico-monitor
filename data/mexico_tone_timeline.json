@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-07-04T22:25:47.265125+00:00",
-  "rows_total_scanned_last_run": 2285,
-  "rows_mexico_last_run": 71,
-  "overall_avg_tone_4h": 0.74,
+  "generated_at": "2026-07-04T23:29:13.676514+00:00",
+  "rows_total_scanned_last_run": 2081,
+  "rows_mexico_last_run": 47,
+  "overall_avg_tone_4h": 0.806,
   "timeline": [
-    {
-      "time": "2026-07-01T23:00",
-      "avg_tone": -0.469,
-      "n_articles": 54
-    },
-    {
-      "time": "2026-07-01T23:15",
-      "avg_tone": 0.75,
-      "n_articles": 47
-    },
     {
       "time": "2026-07-01T23:30",
       "avg_tone": 0.42,
@@ -758,145 +748,165 @@
       "time": "2026-07-04T22:30",
       "avg_tone": 0.787,
       "n_articles": 22
+    },
+    {
+      "time": "2026-07-04T22:45",
+      "avg_tone": 0.4,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-07-04T23:00",
+      "avg_tone": 0.598,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-07-04T23:15",
+      "avg_tone": 0.359,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-07-04T23:30",
+      "avg_tone": 1.727,
+      "n_articles": 10
     }
   ],
   "top_sources": [
     {
-      "source": "fox10phoenix.com",
-      "n": 3,
-      "avg_tone": -0.07
-    },
-    {
-      "source": "theepochtimes.com",
-      "n": 3,
-      "avg_tone": -0.431
-    },
-    {
-      "source": "hanfordsentinel.com",
+      "source": "haitisun.com",
       "n": 2,
-      "avg_tone": -1.19
+      "avg_tone": 0.618
     },
     {
-      "source": "news-herald.com",
+      "source": "venezuelastar.com",
       "n": 2,
-      "avg_tone": -0.222
+      "avg_tone": 0.663
     },
     {
-      "source": "morningjournal.com",
+      "source": "bignewsnetwork.com",
       "n": 2,
-      "avg_tone": -0.222
+      "avg_tone": 0.618
     },
     {
-      "source": "abqjournal.com",
-      "n": 2,
-      "avg_tone": -0.198
-    },
-    {
-      "source": "saratogian.com",
+      "source": "southwalesguardian.co.uk",
       "n": 1,
-      "avg_tone": 3.144
+      "avg_tone": 1.277
     },
     {
-      "source": "kenyastar.com",
+      "source": "tpr.org",
       "n": 1,
-      "avg_tone": 1.786
+      "avg_tone": 2.584
     },
     {
-      "source": "nypost.com",
+      "source": "middleeastmonitor.com",
       "n": 1,
-      "avg_tone": -4.719
+      "avg_tone": 2.616
     },
     {
-      "source": "vicnews.com",
+      "source": "thisiswiltshire.co.uk",
+      "n": 1,
+      "avg_tone": 1.277
+    },
+    {
+      "source": "heraldglobe.com",
+      "n": 1,
+      "avg_tone": -0.549
+    },
+    {
+      "source": "road.cc",
+      "n": 1,
+      "avg_tone": 0.705
+    },
+    {
+      "source": "burnham-on-sea.com",
+      "n": 1,
+      "avg_tone": 2.252
+    },
+    {
+      "source": "sookenewsmirror.com",
       "n": 1,
       "avg_tone": 5.868
     },
     {
-      "source": "eyemagazine.com",
+      "source": "thepoultrysite.com",
       "n": 1,
-      "avg_tone": 2.048
+      "avg_tone": -1.402
     },
     {
-      "source": "newburytoday.co.uk",
-      "n": 1,
-      "avg_tone": 0.756
-    },
-    {
-      "source": "thewestonmercury.co.uk",
+      "source": "eveningnews24.co.uk",
       "n": 1,
       "avg_tone": 1.277
     },
     {
-      "source": "runcornandwidnesworld.co.uk",
+      "source": "bridportnews.co.uk",
       "n": 1,
       "avg_tone": 1.277
     },
     {
-      "source": "dailymail.com",
+      "source": "myfox28columbus.com",
       "n": 1,
-      "avg_tone": 3.378
+      "avg_tone": -0.712
     }
   ],
   "top_themes": [
     {
-      "theme": "UNGP_HEALTHCARE",
-      "n": 194
+      "theme": "TAX_WORLDMAMMALS_DOG",
+      "n": 30
     },
     {
-      "theme": "HEALTH_VACCINATION",
-      "n": 192
+      "theme": "AGRICULTURE",
+      "n": 27
     },
     {
-      "theme": "WB_1406_DISEASES",
-      "n": 56
-    },
-    {
-      "theme": "TAX_DISEASE_INFLUENZA",
-      "n": 55
-    },
-    {
-      "theme": "WB_1421_INFLUENZA",
-      "n": 55
-    },
-    {
-      "theme": "WB_1415_COMMUNICABLE_DISEASE",
-      "n": 55
+      "theme": "TAX_FOODSTAPLES_MILK",
+      "n": 19
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 51
+      "n": 16
     },
     {
-      "theme": "TAX_DISEASE_DISEASE",
-      "n": 47
+      "theme": "WB_698_TRADE",
+      "n": 16
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 45
+      "theme": "TAX_WORLDMAMMALS_DOGS",
+      "n": 16
     },
     {
-      "theme": "TAX_DISEASE_EPIDEMIC",
-      "n": 45
+      "theme": "MEDICAL",
+      "n": 15
     },
     {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 44
+      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
+      "n": 15
     },
     {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 44
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 13
     },
     {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 41
+      "theme": "WB_1979_NATURAL_RESOURCE_MANAGEMENT",
+      "n": 13
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 38
+      "theme": "WB_1986_MOUNTAINS",
+      "n": 13
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 37
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 12
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 10
+    },
+    {
+      "theme": "BORDER",
+      "n": 9
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
+      "n": 8
     }
   ]
 }
