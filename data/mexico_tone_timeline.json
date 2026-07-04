@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-07-04T11:49:30.364137+00:00",
-  "rows_total_scanned_last_run": 2690,
-  "rows_mexico_last_run": 73,
+  "generated_at": "2026-07-04T13:02:51.366029+00:00",
+  "rows_total_scanned_last_run": 2654,
+  "rows_mexico_last_run": 56,
   "overall_avg_tone_4h": 0.978,
   "timeline": [
-    {
-      "time": "2026-07-01T12:00",
-      "avg_tone": 0.292,
-      "n_articles": 46
-    },
     {
       "time": "2026-07-01T13:30",
       "avg_tone": 0.311,
@@ -673,145 +668,165 @@
       "time": "2026-07-04T11:45",
       "avg_tone": 0.975,
       "n_articles": 12
+    },
+    {
+      "time": "2026-07-04T12:15",
+      "avg_tone": 0.128,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-07-04T12:30",
+      "avg_tone": -0.167,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-07-04T12:45",
+      "avg_tone": 1.029,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-07-04T13:00",
+      "avg_tone": 0.293,
+      "n_articles": 17
     }
   ],
   "top_sources": [
     {
-      "source": "falmouthpacket.co.uk",
-      "n": 3,
-      "avg_tone": 2.17
+      "source": "metro.co.uk",
+      "n": 4,
+      "avg_tone": -0.271
     },
     {
-      "source": "argentinastar.com",
+      "source": "nypost.com",
       "n": 2,
-      "avg_tone": 2.374
+      "avg_tone": 1.55
     },
     {
-      "source": "bignewsnetwork.com",
+      "source": "mirror.co.uk",
       "n": 2,
-      "avg_tone": 0.797
+      "avg_tone": -0.227
     },
     {
-      "source": "stourbridgenews.co.uk",
+      "source": "blueprint.ng",
       "n": 2,
-      "avg_tone": 0.963
+      "avg_tone": 2.074
     },
     {
-      "source": "times-series.co.uk",
+      "source": "newkerala.com",
       "n": 2,
-      "avg_tone": 0.963
+      "avg_tone": 1.126
     },
     {
-      "source": "harrowtimes.co.uk",
+      "source": "newsweek.com",
       "n": 2,
-      "avg_tone": 0.963
+      "avg_tone": -0.147
     },
     {
-      "source": "esquire.com",
+      "source": "inquirer.com",
       "n": 2,
-      "avg_tone": -1.895
+      "avg_tone": 1.674
     },
     {
-      "source": "irvinetimes.com",
-      "n": 2,
-      "avg_tone": 0.963
+      "source": "wctrib.com",
+      "n": 1,
+      "avg_tone": 1.287
     },
     {
-      "source": "heraldglobe.com",
-      "n": 2,
-      "avg_tone": 0.796
+      "source": "mexicoledger.com",
+      "n": 1,
+      "avg_tone": 3.345
     },
     {
-      "source": "theboltonnews.co.uk",
-      "n": 2,
-      "avg_tone": 0.963
+      "source": "the-independent.com",
+      "n": 1,
+      "avg_tone": 3.087
     },
     {
-      "source": "chesterstandard.co.uk",
-      "n": 2,
-      "avg_tone": 0.963
+      "source": "indianexpress.com",
+      "n": 1,
+      "avg_tone": -2.759
     },
     {
-      "source": "bristolpost.co.uk",
-      "n": 2,
-      "avg_tone": -2.244
+      "source": "fox35orlando.com",
+      "n": 1,
+      "avg_tone": -0.979
     },
     {
-      "source": "theargus.co.uk",
-      "n": 2,
-      "avg_tone": 0.963
+      "source": "montrealgazette.com",
+      "n": 1,
+      "avg_tone": 0.626
     },
     {
-      "source": "bromsgroveadvertiser.co.uk",
-      "n": 2,
-      "avg_tone": 0.963
+      "source": "sfexaminer.com",
+      "n": 1,
+      "avg_tone": -2.612
     },
     {
-      "source": "cotswoldjournal.co.uk",
-      "n": 2,
-      "avg_tone": 0.963
+      "source": "atlantaleader.com",
+      "n": 1,
+      "avg_tone": 1.776
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 18
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 13
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 12
-    },
-    {
-      "theme": "LEADER",
-      "n": 11
-    },
-    {
-      "theme": "TAX_FNCACT_MAN",
-      "n": 11
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 11
-    },
-    {
-      "theme": "TAX_RELIGION_CATHOLICS",
-      "n": 11
-    },
-    {
-      "theme": "TAX_ETHNICITY_CATHOLICS",
-      "n": 11
-    },
-    {
-      "theme": "TAX_ETHNICITY_IRISH",
-      "n": 10
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_IRISH",
-      "n": 10
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 9
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 9
-    },
-    {
-      "theme": "TAX_FNCACT_FATHER",
-      "n": 9
-    },
-    {
-      "theme": "MEDIA_MSM",
-      "n": 8
+      "n": 63
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 8
+      "n": 27
+    },
+    {
+      "theme": "TAX_ETHNICITY_BLACK",
+      "n": 24
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 22
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 22
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 21
+    },
+    {
+      "theme": "LEADER",
+      "n": 20
+    },
+    {
+      "theme": "TAX_FNCACT_MAN",
+      "n": 20
+    },
+    {
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 20
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 18
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 17
+    },
+    {
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 16
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 16
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 15
+    },
+    {
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 15
     }
   ]
 }
