@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-05T12:03:08.354009+00:00",
-  "rows_total_scanned_last_run": 2325,
-  "rows_mexico_last_run": 38,
-  "overall_avg_tone_4h": 1.529,
+  "generated_at": "2026-07-05T14:06:53.701718+00:00",
+  "rows_total_scanned_last_run": 2454,
+  "rows_mexico_last_run": 83,
+  "overall_avg_tone_4h": 0.939,
   "timeline": [
-    {
-      "time": "2026-07-02T12:30",
-      "avg_tone": -0.207,
-      "n_articles": 31
-    },
-    {
-      "time": "2026-07-02T12:45",
-      "avg_tone": 0.245,
-      "n_articles": 34
-    },
-    {
-      "time": "2026-07-02T13:00",
-      "avg_tone": 1.381,
-      "n_articles": 36
-    },
     {
       "time": "2026-07-02T14:45",
       "avg_tone": 0.352,
@@ -778,145 +763,165 @@
       "time": "2026-07-05T12:00",
       "avg_tone": 1.838,
       "n_articles": 9
+    },
+    {
+      "time": "2026-07-05T13:30",
+      "avg_tone": 0.497,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-07-05T13:45",
+      "avg_tone": 0.64,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-07-05T14:00",
+      "avg_tone": 0.945,
+      "n_articles": 28
+    },
+    {
+      "time": "2026-07-05T14:15",
+      "avg_tone": -0.111,
+      "n_articles": 18
     }
   ],
   "top_sources": [
     {
-      "source": "africaleader.com",
+      "source": "bbc.co.uk",
       "n": 4,
-      "avg_tone": -1.357
+      "avg_tone": -0.469
     },
     {
-      "source": "metro.co.uk",
+      "source": "caribbeanherald.com",
       "n": 3,
-      "avg_tone": -0.438
+      "avg_tone": -0.474
     },
     {
-      "source": "sierraleonetimes.com",
+      "source": "mirror.co.uk",
       "n": 2,
-      "avg_tone": -0.043
+      "avg_tone": -1.146
     },
     {
-      "source": "westmeathexaminer.ie",
+      "source": "ibtimes.co.uk",
+      "n": 2,
+      "avg_tone": -0.628
+    },
+    {
+      "source": "nypost.com",
+      "n": 2,
+      "avg_tone": 3.104
+    },
+    {
+      "source": "tourism-review.com",
+      "n": 2,
+      "avg_tone": 1.146
+    },
+    {
+      "source": "westmeathindependent.ie",
       "n": 2,
       "avg_tone": 2.185
     },
     {
-      "source": "birminghammail.co.uk",
+      "source": "dailystar.co.uk",
       "n": 2,
-      "avg_tone": -0.189
+      "avg_tone": 2.226
     },
     {
-      "source": "dailymail.com",
-      "n": 1,
-      "avg_tone": 1.612
+      "source": "nwemail.co.uk",
+      "n": 2,
+      "avg_tone": 0.749
     },
     {
-      "source": "orangeville.com",
+      "source": "eppingforestguardian.co.uk",
       "n": 1,
-      "avg_tone": 5.76
+      "avg_tone": -1.015
     },
     {
-      "source": "insidehalton.com",
+      "source": "asianimage.co.uk",
       "n": 1,
-      "avg_tone": 5.76
+      "avg_tone": -1.015
     },
     {
-      "source": "cambodiantimes.com",
+      "source": "chicagotribune.com",
       "n": 1,
-      "avg_tone": -0.952
+      "avg_tone": 0.604
     },
     {
-      "source": "mendocinobeacon.com",
+      "source": "dallasobserver.com",
       "n": 1,
-      "avg_tone": -0.085
+      "avg_tone": 2.381
     },
     {
-      "source": "cambridgetimes.ca",
+      "source": "sbnation.com",
       "n": 1,
-      "avg_tone": 5.76
+      "avg_tone": -0.484
     },
     {
-      "source": "geosuper.tv",
+      "source": "fox7austin.com",
       "n": 1,
-      "avg_tone": 1.007
-    },
-    {
-      "source": "prokerala.com",
-      "n": 1,
-      "avg_tone": 1.83
-    },
-    {
-      "source": "pokernews.com",
-      "n": 1,
-      "avg_tone": -0.576
-    },
-    {
-      "source": "bignewsnetwork.com",
-      "n": 1,
-      "avg_tone": -0.951
+      "avg_tone": -0.958
     }
   ],
   "top_themes": [
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 21
+      "theme": "GENERAL_HEALTH",
+      "n": 143
     },
     {
-      "theme": "ARMEDCONFLICT",
-      "n": 21
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 143
     },
     {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 21
+      "theme": "MEDICAL",
+      "n": 142
+    },
+    {
+      "theme": "NATURAL_DISASTER_HEATWAVE",
+      "n": 140
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 84
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 20
+      "n": 47
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 40
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 19
+      "n": 30
     },
     {
-      "theme": "LEADER",
-      "n": 14
+      "theme": "WB_695_POVERTY",
+      "n": 29
     },
     {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 12
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 29
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICANS",
-      "n": 11
+      "theme": "WB_1160_SHOCKS_AND_VULNERABILITY",
+      "n": 28
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 11
+      "theme": "BAN",
+      "n": 28
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIANS",
-      "n": 10
+      "theme": "TAX_FNCACT_FORECASTER",
+      "n": 28
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 9
+      "theme": "TAX_FNCACT_METEOROLOGIST",
+      "n": 28
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 9
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 9
-    },
-    {
-      "theme": "TAX_WORLDMAMMALS_HUMAN",
-      "n": 8
-    },
-    {
-      "theme": "TAX_FNCACT_AUTHOR",
-      "n": 8
+      "theme": "TAX_ETHNICITY_CZECH",
+      "n": 22
     }
   ]
 }
