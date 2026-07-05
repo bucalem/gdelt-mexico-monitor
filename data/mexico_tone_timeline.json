@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-07-05T22:28:32.007443+00:00",
-  "rows_total_scanned_last_run": 1721,
-  "rows_mexico_last_run": 37,
-  "overall_avg_tone_4h": 1.24,
+  "generated_at": "2026-07-05T23:35:18.473579+00:00",
+  "rows_total_scanned_last_run": 1915,
+  "rows_mexico_last_run": 102,
+  "overall_avg_tone_4h": 0.545,
   "timeline": [
-    {
-      "time": "2026-07-02T22:30",
-      "avg_tone": -0.826,
-      "n_articles": 36
-    },
-    {
-      "time": "2026-07-02T22:45",
-      "avg_tone": 0.509,
-      "n_articles": 39
-    },
-    {
-      "time": "2026-07-02T23:00",
-      "avg_tone": 0.075,
-      "n_articles": 30
-    },
-    {
-      "time": "2026-07-02T23:15",
-      "avg_tone": 0.303,
-      "n_articles": 27
-    },
-    {
-      "time": "2026-07-02T23:30",
-      "avg_tone": 0.55,
-      "n_articles": 31
-    },
     {
       "time": "2026-07-02T23:45",
       "avg_tone": 0.19,
@@ -808,145 +783,165 @@
       "time": "2026-07-05T22:15",
       "avg_tone": -0.472,
       "n_articles": 11
+    },
+    {
+      "time": "2026-07-05T23:00",
+      "avg_tone": 0.725,
+      "n_articles": 24
+    },
+    {
+      "time": "2026-07-05T23:15",
+      "avg_tone": 0.108,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-07-05T23:30",
+      "avg_tone": -0.477,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-07-05T23:45",
+      "avg_tone": -0.122,
+      "n_articles": 33
     }
   ],
   "top_sources": [
     {
-      "source": "atlantaleader.com",
+      "source": "cubaheadlines.com",
+      "n": 4,
+      "avg_tone": -1.218
+    },
+    {
+      "source": "nzcity.co.nz",
+      "n": 4,
+      "avg_tone": 0.481
+    },
+    {
+      "source": "bignewsnetwork.com",
+      "n": 4,
+      "avg_tone": -0.586
+    },
+    {
+      "source": "caribbeanherald.com",
       "n": 3,
-      "avg_tone": -0.772
-    },
-    {
-      "source": "metro.co.uk",
-      "n": 2,
-      "avg_tone": -1.332
-    },
-    {
-      "source": "theboltonnews.co.uk",
-      "n": 2,
-      "avg_tone": 2.761
-    },
-    {
-      "source": "calgary.citynews.ca",
-      "n": 2,
-      "avg_tone": 0.915
-    },
-    {
-      "source": "screenrant.com",
-      "n": 1,
-      "avg_tone": 1.657
-    },
-    {
-      "source": "yahoo.com",
-      "n": 1,
-      "avg_tone": 3.386
-    },
-    {
-      "source": "theprideoflondon.com",
-      "n": 1,
-      "avg_tone": -2.778
-    },
-    {
-      "source": "gizmodo.com",
-      "n": 1,
-      "avg_tone": 3.248
-    },
-    {
-      "source": "brentwoodlive.co.uk",
-      "n": 1,
-      "avg_tone": -2.222
-    },
-    {
-      "source": "halsteadgazette.co.uk",
-      "n": 1,
-      "avg_tone": -2.222
-    },
-    {
-      "source": "thewestmorlandgazette.co.uk",
-      "n": 1,
-      "avg_tone": -2.222
+      "avg_tone": -0.84
     },
     {
       "source": "el-balad.com",
-      "n": 1,
-      "avg_tone": -1.72
+      "n": 3,
+      "avg_tone": -1.207
     },
     {
-      "source": "yourlocalguardian.co.uk",
-      "n": 1,
-      "avg_tone": -2.222
+      "source": "express.co.uk",
+      "n": 3,
+      "avg_tone": -3.133
     },
     {
-      "source": "jcpost.com",
-      "n": 1,
-      "avg_tone": 3.947
+      "source": "mexicostar.com",
+      "n": 3,
+      "avg_tone": 0.992
     },
     {
-      "source": "nytimes.com",
+      "source": "caribjournal.com",
+      "n": 2,
+      "avg_tone": 2.631
+    },
+    {
+      "source": "sbs.com.au",
+      "n": 2,
+      "avg_tone": 0.275
+    },
+    {
+      "source": "dailytrust.com",
+      "n": 2,
+      "avg_tone": -0.684
+    },
+    {
+      "source": "fourfourtwo.com",
+      "n": 2,
+      "avg_tone": 1.7
+    },
+    {
+      "source": "richmondandtwickenhamtimes.co.uk",
+      "n": 2,
+      "avg_tone": -1.111
+    },
+    {
+      "source": "theindianawaaz.com",
+      "n": 2,
+      "avg_tone": 4.008
+    },
+    {
+      "source": "timesandstar.co.uk",
+      "n": 2,
+      "avg_tone": -1.111
+    },
+    {
+      "source": "braintreeandwithamtimes.co.uk",
       "n": 1,
-      "avg_tone": 0.676
+      "avg_tone": 0.0
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FOODSTAPLES_EGGS",
-      "n": 39
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 24
+    },
+    {
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 20
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 19
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 21
+      "n": 18
     },
     {
-      "theme": "EDUCATION",
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 15
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 14
+    },
+    {
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 14
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 14
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 14
+    },
+    {
+      "theme": "TAX_FNCACT_KING",
+      "n": 14
+    },
+    {
+      "theme": "MARITIME",
+      "n": 12
+    },
+    {
+      "theme": "MARITIME_INCIDENT",
+      "n": 12
+    },
+    {
+      "theme": "TAX_FNCACT_SAILORS",
       "n": 11
     },
     {
-      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
-      "n": 9
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 9
-    },
-    {
-      "theme": "TOURISM",
-      "n": 9
-    },
-    {
-      "theme": "WB_825_TOURISM",
-      "n": 9
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 9
-    },
-    {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 9
-    },
-    {
-      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 9
-    },
-    {
-      "theme": "TAX_ETHNICITY_BLACK",
-      "n": 8
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 8
-    },
-    {
-      "theme": "MEDIA_MSM",
-      "n": 8
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 8
+      "theme": "TAX_FNCACT_CHAMPIONS",
+      "n": 10
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 7
+      "n": 10
     }
   ]
 }
