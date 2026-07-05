@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-07-05T01:15:53.866177+00:00",
-  "rows_total_scanned_last_run": 1681,
-  "rows_mexico_last_run": 37,
-  "overall_avg_tone_4h": 0.601,
+  "generated_at": "2026-07-05T05:30:13.715181+00:00",
+  "rows_total_scanned_last_run": 1980,
+  "rows_mexico_last_run": 70,
+  "overall_avg_tone_4h": 1.171,
   "timeline": [
-    {
-      "time": "2026-07-02T01:15",
-      "avg_tone": 0.215,
-      "n_articles": 37
-    },
-    {
-      "time": "2026-07-02T01:30",
-      "avg_tone": -0.408,
-      "n_articles": 33
-    },
-    {
-      "time": "2026-07-02T01:45",
-      "avg_tone": -0.472,
-      "n_articles": 34
-    },
-    {
-      "time": "2026-07-02T05:00",
-      "avg_tone": 0.633,
-      "n_articles": 34
-    },
-    {
-      "time": "2026-07-02T05:15",
-      "avg_tone": 0.91,
-      "n_articles": 32
-    },
     {
       "time": "2026-07-02T05:30",
       "avg_tone": 0.636,
@@ -773,145 +748,165 @@
       "time": "2026-07-05T01:15",
       "avg_tone": -0.932,
       "n_articles": 11
+    },
+    {
+      "time": "2026-07-05T04:45",
+      "avg_tone": 2.205,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-07-05T05:00",
+      "avg_tone": 3.119,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-07-05T05:15",
+      "avg_tone": 1.748,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-07-05T05:30",
+      "avg_tone": 2.62,
+      "n_articles": 20
     }
   ],
   "top_sources": [
     {
-      "source": "boxingnews24.com",
-      "n": 4,
-      "avg_tone": -0.841
+      "source": "iheart.com",
+      "n": 15,
+      "avg_tone": 3.687
     },
     {
-      "source": "beniciaindependent.com",
-      "n": 4,
-      "avg_tone": -4.555
-    },
-    {
-      "source": "foxla.com",
+      "source": "echo-news.co.uk",
       "n": 3,
-      "avg_tone": -2.096
+      "avg_tone": 3.572
     },
     {
-      "source": "dailymail.com",
-      "n": 3,
-      "avg_tone": 0.075
-    },
-    {
-      "source": "science20.com",
+      "source": "eveshamjournal.co.uk",
       "n": 1,
-      "avg_tone": -1.695
+      "avg_tone": 2.228
     },
     {
-      "source": "thesun.ng",
+      "source": "punchng.com",
       "n": 1,
-      "avg_tone": -2.985
+      "avg_tone": -2.277
     },
     {
-      "source": "middleeaststar.com",
+      "source": "salisburyjournal.co.uk",
       "n": 1,
-      "avg_tone": -0.549
+      "avg_tone": 2.228
     },
     {
-      "source": "timesheraldonline.com",
+      "source": "cravenherald.co.uk",
       "n": 1,
-      "avg_tone": 4.628
+      "avg_tone": 2.228
     },
     {
-      "source": "usmagazine.com",
+      "source": "denbighshirefreepress.co.uk",
       "n": 1,
-      "avg_tone": 5.522
+      "avg_tone": 2.228
     },
     {
-      "source": "wfyi.org",
+      "source": "theargus.co.uk",
       "n": 1,
-      "avg_tone": 2.136
+      "avg_tone": 2.228
     },
     {
-      "source": "thepointsguy.com",
+      "source": "theboltonnews.co.uk",
       "n": 1,
-      "avg_tone": 4.862
+      "avg_tone": 2.228
     },
     {
-      "source": "stcatharinesstandard.ca",
+      "source": "tvguide.co.uk",
       "n": 1,
-      "avg_tone": 1.174
+      "avg_tone": -1.087
     },
     {
-      "source": "leadertelegram.com",
+      "source": "malverngazette.co.uk",
       "n": 1,
-      "avg_tone": -0.845
+      "avg_tone": 2.228
     },
     {
-      "source": "bignewsnetwork.com",
+      "source": "tigersroar.com",
       "n": 1,
-      "avg_tone": 1.786
+      "avg_tone": 6.363
     },
     {
-      "source": "screenrant.com",
+      "source": "bristolpost.co.uk",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": 0.977
+    },
+    {
+      "source": "pottsmerc.com",
+      "n": 1,
+      "avg_tone": -4.187
+    },
+    {
+      "source": "countytimes.co.uk",
+      "n": 1,
+      "avg_tone": 2.228
     }
   ],
   "top_themes": [
     {
-      "theme": "IMMIGRATION",
-      "n": 54
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 52
-    },
-    {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 51
-    },
-    {
-      "theme": "TAX_FNCACT_IMMIGRANTS",
-      "n": 45
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 37
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 37
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 34
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 29
-    },
-    {
-      "theme": "WB_1467_EDUCATION_FOR_ALL",
-      "n": 25
-    },
-    {
-      "theme": "WB_470_EDUCATION",
-      "n": 25
-    },
-    {
-      "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
-      "n": 25
-    },
-    {
-      "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
-      "n": 25
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 22
-    },
-    {
-      "theme": "TAX_FOODSTAPLES_MILK",
-      "n": 21
+      "n": 15
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 20
+      "n": 13
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 11
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 9
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 9
+    },
+    {
+      "theme": "LEADER",
+      "n": 9
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 9
+    },
+    {
+      "theme": "TAX_RELIGION_CHRISTIAN",
+      "n": 9
+    },
+    {
+      "theme": "TAX_ETHNICITY_CHRISTIAN",
+      "n": 9
+    },
+    {
+      "theme": "EPU_ECONOMY",
+      "n": 8
+    },
+    {
+      "theme": "TAX_FNCACT_AGENT",
+      "n": 8
+    },
+    {
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 7
+    },
+    {
+      "theme": "TAX_WORLDINSECTS_ANT",
+      "n": 6
+    },
+    {
+      "theme": "ARMEDCONFLICT",
+      "n": 6
+    },
+    {
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 6
     }
   ]
 }
