@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-05T14:06:53.701718+00:00",
-  "rows_total_scanned_last_run": 2454,
-  "rows_mexico_last_run": 83,
-  "overall_avg_tone_4h": 0.939,
+  "generated_at": "2026-07-05T15:36:04.864110+00:00",
+  "rows_total_scanned_last_run": 2595,
+  "rows_mexico_last_run": 120,
+  "overall_avg_tone_4h": 1.12,
   "timeline": [
-    {
-      "time": "2026-07-02T14:45",
-      "avg_tone": 0.352,
-      "n_articles": 33
-    },
-    {
-      "time": "2026-07-02T15:00",
-      "avg_tone": -0.476,
-      "n_articles": 48
-    },
-    {
-      "time": "2026-07-02T15:15",
-      "avg_tone": 0.013,
-      "n_articles": 53
-    },
-    {
-      "time": "2026-07-02T15:30",
-      "avg_tone": -0.05,
-      "n_articles": 66
-    },
     {
       "time": "2026-07-02T16:30",
       "avg_tone": 0.368,
@@ -783,145 +763,165 @@
       "time": "2026-07-05T14:15",
       "avg_tone": -0.111,
       "n_articles": 18
+    },
+    {
+      "time": "2026-07-05T15:00",
+      "avg_tone": 2.154,
+      "n_articles": 29
+    },
+    {
+      "time": "2026-07-05T15:15",
+      "avg_tone": 2.702,
+      "n_articles": 30
+    },
+    {
+      "time": "2026-07-05T15:30",
+      "avg_tone": 0.946,
+      "n_articles": 34
+    },
+    {
+      "time": "2026-07-05T15:45",
+      "avg_tone": 0.733,
+      "n_articles": 27
     }
   ],
   "top_sources": [
     {
-      "source": "bbc.co.uk",
+      "source": "iheart.com",
+      "n": 34,
+      "avg_tone": 5.091
+    },
+    {
+      "source": "latintimes.com",
       "n": 4,
-      "avg_tone": -0.469
+      "avg_tone": -2.574
     },
     {
-      "source": "caribbeanherald.com",
+      "source": "el-balad.com",
       "n": 3,
-      "avg_tone": -0.474
+      "avg_tone": 0.161
     },
     {
-      "source": "mirror.co.uk",
+      "source": "kidderminstershuttle.co.uk",
       "n": 2,
-      "avg_tone": -1.146
+      "avg_tone": -1.304
     },
     {
-      "source": "ibtimes.co.uk",
+      "source": "lbc.co.uk",
       "n": 2,
-      "avg_tone": -0.628
+      "avg_tone": -0.321
     },
     {
-      "source": "nypost.com",
+      "source": "kesq.com",
       "n": 2,
-      "avg_tone": 3.104
+      "avg_tone": 1.351
     },
     {
-      "source": "tourism-review.com",
+      "source": "plymouthherald.co.uk",
       "n": 2,
-      "avg_tone": 1.146
+      "avg_tone": 3.823
     },
     {
-      "source": "westmeathindependent.ie",
+      "source": "bignewsnetwork.com",
       "n": 2,
-      "avg_tone": 2.185
+      "avg_tone": -1.283
     },
     {
-      "source": "dailystar.co.uk",
-      "n": 2,
-      "avg_tone": 2.226
+      "source": "hometownregister.com",
+      "n": 1,
+      "avg_tone": 0.625
     },
     {
-      "source": "nwemail.co.uk",
-      "n": 2,
-      "avg_tone": 0.749
-    },
-    {
-      "source": "eppingforestguardian.co.uk",
+      "source": "falmouthpacket.co.uk",
       "n": 1,
       "avg_tone": -1.015
     },
     {
-      "source": "asianimage.co.uk",
+      "source": "eptrail.com",
+      "n": 1,
+      "avg_tone": 2.219
+    },
+    {
+      "source": "the-sun.com",
+      "n": 1,
+      "avg_tone": -5.688
+    },
+    {
+      "source": "wandsworthguardian.co.uk",
       "n": 1,
       "avg_tone": -1.015
     },
     {
-      "source": "chicagotribune.com",
+      "source": "wharfedaleobserver.co.uk",
       "n": 1,
-      "avg_tone": 0.604
+      "avg_tone": -1.015
     },
     {
-      "source": "dallasobserver.com",
+      "source": "bromsgroveadvertiser.co.uk",
       "n": 1,
-      "avg_tone": 2.381
-    },
-    {
-      "source": "sbnation.com",
-      "n": 1,
-      "avg_tone": -0.484
-    },
-    {
-      "source": "fox7austin.com",
-      "n": 1,
-      "avg_tone": -0.958
+      "avg_tone": -1.015
     }
   ],
   "top_themes": [
     {
       "theme": "GENERAL_HEALTH",
-      "n": 143
-    },
-    {
-      "theme": "CRISISLEX_O01_WEATHER",
-      "n": 143
+      "n": 182
     },
     {
       "theme": "MEDICAL",
-      "n": 142
+      "n": 182
+    },
+    {
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 176
     },
     {
       "theme": "NATURAL_DISASTER_HEATWAVE",
-      "n": 140
+      "n": 175
     },
     {
       "theme": "WB_137_WATER",
-      "n": 84
+      "n": 106
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 47
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 40
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 30
+      "theme": "TAX_FNCACT_ARTIST",
+      "n": 41
     },
     {
       "theme": "WB_695_POVERTY",
-      "n": 29
+      "n": 39
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 38
     },
     {
       "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 29
+      "n": 38
     },
     {
       "theme": "WB_1160_SHOCKS_AND_VULNERABILITY",
-      "n": 28
+      "n": 36
     },
     {
       "theme": "BAN",
-      "n": 28
+      "n": 35
     },
     {
       "theme": "TAX_FNCACT_FORECASTER",
-      "n": 28
+      "n": 35
     },
     {
       "theme": "TAX_FNCACT_METEOROLOGIST",
-      "n": 28
+      "n": 35
     },
     {
-      "theme": "TAX_ETHNICITY_CZECH",
-      "n": 22
+      "theme": "TAX_RELIGION_JEWS",
+      "n": 33
+    },
+    {
+      "theme": "TAX_WORLDMAMMALS_DOGS",
+      "n": 31
     }
   ]
 }
