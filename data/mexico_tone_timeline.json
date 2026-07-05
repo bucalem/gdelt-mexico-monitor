@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-05T21:18:05.540519+00:00",
-  "rows_total_scanned_last_run": 2499,
-  "rows_mexico_last_run": 58,
-  "overall_avg_tone_4h": 1.548,
+  "generated_at": "2026-07-05T22:28:32.007443+00:00",
+  "rows_total_scanned_last_run": 1721,
+  "rows_mexico_last_run": 37,
+  "overall_avg_tone_4h": 1.24,
   "timeline": [
-    {
-      "time": "2026-07-02T21:30",
-      "avg_tone": -1.282,
-      "n_articles": 30
-    },
-    {
-      "time": "2026-07-02T22:00",
-      "avg_tone": -0.507,
-      "n_articles": 36
-    },
-    {
-      "time": "2026-07-02T22:15",
-      "avg_tone": -0.356,
-      "n_articles": 38
-    },
     {
       "time": "2026-07-02T22:30",
       "avg_tone": -0.826,
@@ -808,145 +793,160 @@
       "time": "2026-07-05T21:15",
       "avg_tone": 0.961,
       "n_articles": 8
+    },
+    {
+      "time": "2026-07-05T21:45",
+      "avg_tone": 0.654,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-07-05T22:00",
+      "avg_tone": 0.375,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-07-05T22:15",
+      "avg_tone": -0.472,
+      "n_articles": 11
     }
   ],
   "top_sources": [
     {
-      "source": "aol.co.uk",
+      "source": "atlantaleader.com",
       "n": 3,
-      "avg_tone": 0.067
+      "avg_tone": -0.772
     },
     {
-      "source": "slashfilm.com",
+      "source": "metro.co.uk",
       "n": 2,
-      "avg_tone": -0.26
+      "avg_tone": -1.332
     },
     {
-      "source": "el-balad.com",
+      "source": "theboltonnews.co.uk",
       "n": 2,
-      "avg_tone": 0.374
+      "avg_tone": 2.761
     },
     {
-      "source": "toronto.citynews.ca",
+      "source": "calgary.citynews.ca",
       "n": 2,
       "avg_tone": 0.915
     },
     {
-      "source": "cubaheadlines.com",
-      "n": 2,
-      "avg_tone": 0.356
-    },
-    {
-      "source": "leadership.ng",
-      "n": 2,
-      "avg_tone": -1.169
-    },
-    {
-      "source": "unm.edu",
-      "n": 2,
-      "avg_tone": 2.707
-    },
-    {
-      "source": "pittsburghstar.com",
+      "source": "screenrant.com",
       "n": 1,
-      "avg_tone": 7.901
+      "avg_tone": 1.657
     },
     {
-      "source": "somersetlive.co.uk",
+      "source": "yahoo.com",
       "n": 1,
-      "avg_tone": 2.812
+      "avg_tone": 3.386
     },
     {
-      "source": "enfieldindependent.co.uk",
+      "source": "theprideoflondon.com",
+      "n": 1,
+      "avg_tone": -2.778
+    },
+    {
+      "source": "gizmodo.com",
+      "n": 1,
+      "avg_tone": 3.248
+    },
+    {
+      "source": "brentwoodlive.co.uk",
       "n": 1,
       "avg_tone": -2.222
     },
     {
-      "source": "ealingtimes.co.uk",
+      "source": "halsteadgazette.co.uk",
       "n": 1,
       "avg_tone": -2.222
     },
     {
-      "source": "sounderatheart.com",
-      "n": 1,
-      "avg_tone": 3.265
-    },
-    {
-      "source": "newhamrecorder.co.uk",
+      "source": "thewestmorlandgazette.co.uk",
       "n": 1,
       "avg_tone": -2.222
     },
     {
-      "source": "burytimes.co.uk",
+      "source": "el-balad.com",
+      "n": 1,
+      "avg_tone": -1.72
+    },
+    {
+      "source": "yourlocalguardian.co.uk",
       "n": 1,
       "avg_tone": -2.222
     },
     {
-      "source": "runnermag.ca",
+      "source": "jcpost.com",
       "n": 1,
-      "avg_tone": 2.597
+      "avg_tone": 3.947
+    },
+    {
+      "source": "nytimes.com",
+      "n": 1,
+      "avg_tone": 0.676
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 35
+      "theme": "TAX_FOODSTAPLES_EGGS",
+      "n": 39
     },
     {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 30
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 21
     },
     {
-      "theme": "TAX_ETHNICITY_AUSTRALIAN",
-      "n": 27
+      "theme": "EDUCATION",
+      "n": 11
     },
     {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 26
+      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
+      "n": 9
     },
     {
-      "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 26
+      "theme": "WB_698_TRADE",
+      "n": 9
     },
     {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 26
+      "theme": "TOURISM",
+      "n": 9
+    },
+    {
+      "theme": "WB_825_TOURISM",
+      "n": 9
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 9
+    },
+    {
+      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "n": 9
+    },
+    {
+      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
+      "n": 9
+    },
+    {
+      "theme": "TAX_ETHNICITY_BLACK",
+      "n": 8
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 8
     },
     {
       "theme": "MEDIA_MSM",
-      "n": 25
+      "n": 8
     },
     {
-      "theme": "LEADER",
-      "n": 21
+      "theme": "USPEC_POLICY1",
+      "n": 8
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 21
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 20
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 19
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 18
-    },
-    {
-      "theme": "TAX_FNCACT_ACTOR",
-      "n": 16
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 16
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 16
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 7
     }
   ]
 }
