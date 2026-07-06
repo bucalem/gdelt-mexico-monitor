@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-07-05T23:35:18.473579+00:00",
-  "rows_total_scanned_last_run": 1915,
-  "rows_mexico_last_run": 102,
-  "overall_avg_tone_4h": 0.545,
+  "generated_at": "2026-07-06T01:22:02.997783+00:00",
+  "rows_total_scanned_last_run": 1888,
+  "rows_mexico_last_run": 152,
+  "overall_avg_tone_4h": -0.335,
   "timeline": [
-    {
-      "time": "2026-07-02T23:45",
-      "avg_tone": 0.19,
-      "n_articles": 46
-    },
     {
       "time": "2026-07-03T01:30",
       "avg_tone": 0.387,
@@ -803,145 +798,165 @@
       "time": "2026-07-05T23:45",
       "avg_tone": -0.122,
       "n_articles": 33
+    },
+    {
+      "time": "2026-07-06T00:45",
+      "avg_tone": -0.51,
+      "n_articles": 45
+    },
+    {
+      "time": "2026-07-06T01:00",
+      "avg_tone": -1.069,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-07-06T01:15",
+      "avg_tone": -0.872,
+      "n_articles": 41
+    },
+    {
+      "time": "2026-07-06T01:30",
+      "avg_tone": -1.263,
+      "n_articles": 46
     }
   ],
   "top_sources": [
     {
-      "source": "cubaheadlines.com",
-      "n": 4,
-      "avg_tone": -1.218
+      "source": "nbcwashington.com",
+      "n": 3,
+      "avg_tone": 0.232
     },
     {
-      "source": "nzcity.co.nz",
-      "n": 4,
-      "avg_tone": 0.481
+      "source": "britainnews.net",
+      "n": 3,
+      "avg_tone": -1.855
     },
     {
       "source": "bignewsnetwork.com",
-      "n": 4,
-      "avg_tone": -0.586
-    },
-    {
-      "source": "caribbeanherald.com",
       "n": 3,
-      "avg_tone": -0.84
+      "avg_tone": -2.763
     },
     {
-      "source": "el-balad.com",
+      "source": "argentinastar.com",
       "n": 3,
-      "avg_tone": -1.207
+      "avg_tone": -3.106
     },
     {
-      "source": "express.co.uk",
+      "source": "heraldglobe.com",
       "n": 3,
-      "avg_tone": -3.133
+      "avg_tone": -1.149
     },
     {
-      "source": "mexicostar.com",
+      "source": "lbc.co.uk",
       "n": 3,
-      "avg_tone": 0.992
+      "avg_tone": -4.85
     },
     {
-      "source": "caribjournal.com",
+      "source": "nbcnewyork.com",
+      "n": 3,
+      "avg_tone": 0.232
+    },
+    {
+      "source": "nbcphiladelphia.com",
+      "n": 3,
+      "avg_tone": 0.233
+    },
+    {
+      "source": "falmouthpacket.co.uk",
       "n": 2,
-      "avg_tone": 2.631
+      "avg_tone": -0.947
     },
     {
-      "source": "sbs.com.au",
+      "source": "greekherald.com",
       "n": 2,
-      "avg_tone": 0.275
+      "avg_tone": -2.287
     },
     {
-      "source": "dailytrust.com",
+      "source": "wharfedaleobserver.co.uk",
       "n": 2,
-      "avg_tone": -0.684
+      "avg_tone": -0.947
     },
     {
-      "source": "fourfourtwo.com",
+      "source": "northwalespioneer.co.uk",
       "n": 2,
-      "avg_tone": 1.7
+      "avg_tone": -0.947
     },
     {
-      "source": "richmondandtwickenhamtimes.co.uk",
+      "source": "bromsgroveadvertiser.co.uk",
       "n": 2,
-      "avg_tone": -1.111
+      "avg_tone": -0.947
     },
     {
-      "source": "theindianawaaz.com",
+      "source": "echo-news.co.uk",
       "n": 2,
-      "avg_tone": 4.008
+      "avg_tone": -0.947
     },
     {
-      "source": "timesandstar.co.uk",
+      "source": "ipswichstar.co.uk",
       "n": 2,
-      "avg_tone": -1.111
-    },
-    {
-      "source": "braintreeandwithamtimes.co.uk",
-      "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -0.947
     }
   ],
   "top_themes": [
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 24
+      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
+      "n": 37
     },
     {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 20
+      "theme": "TAX_FNCACT_OFFICERS",
+      "n": 36
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 19
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 18
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 15
+      "theme": "MEDIA_MSM",
+      "n": 33
     },
     {
       "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 14
-    },
-    {
-      "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 14
+      "n": 32
     },
     {
       "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 14
+      "n": 32
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 14
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 30
     },
     {
-      "theme": "TAX_FNCACT_KING",
-      "n": 14
+      "theme": "KILL",
+      "n": 29
     },
     {
-      "theme": "MARITIME",
-      "n": 12
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 29
     },
     {
-      "theme": "MARITIME_INCIDENT",
-      "n": 12
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 26
     },
     {
-      "theme": "TAX_FNCACT_SAILORS",
-      "n": 11
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 25
     },
     {
-      "theme": "TAX_FNCACT_CHAMPIONS",
-      "n": 10
+      "theme": "KIDNAP",
+      "n": 24
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 10
+      "theme": "SECURITY_SERVICES",
+      "n": 24
+    },
+    {
+      "theme": "TAX_FNCACT_POLICE",
+      "n": 24
+    },
+    {
+      "theme": "TAX_FNCACT_JOURNALIST",
+      "n": 24
+    },
+    {
+      "theme": "ARREST",
+      "n": 24
     }
   ]
 }
