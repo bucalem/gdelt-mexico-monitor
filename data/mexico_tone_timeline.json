@@ -1,39 +1,9 @@
 {
-  "generated_at": "2026-07-06T13:45:05.572332+00:00",
-  "rows_total_scanned_last_run": 5045,
-  "rows_mexico_last_run": 196,
-  "overall_avg_tone_4h": 0.407,
+  "generated_at": "2026-07-06T16:45:22.368859+00:00",
+  "rows_total_scanned_last_run": 6019,
+  "rows_mexico_last_run": 239,
+  "overall_avg_tone_4h": 0.687,
   "timeline": [
-    {
-      "time": "2026-07-03T15:00",
-      "avg_tone": 0.619,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-07-03T15:15",
-      "avg_tone": 1.506,
-      "n_articles": 28
-    },
-    {
-      "time": "2026-07-03T15:30",
-      "avg_tone": 0.926,
-      "n_articles": 48
-    },
-    {
-      "time": "2026-07-03T15:45",
-      "avg_tone": 0.221,
-      "n_articles": 33
-    },
-    {
-      "time": "2026-07-03T16:15",
-      "avg_tone": 0.411,
-      "n_articles": 42
-    },
-    {
-      "time": "2026-07-03T16:30",
-      "avg_tone": 0.791,
-      "n_articles": 30
-    },
     {
       "time": "2026-07-03T16:45",
       "avg_tone": 1.256,
@@ -783,145 +753,165 @@
       "time": "2026-07-06T13:45",
       "avg_tone": 1.366,
       "n_articles": 44
+    },
+    {
+      "time": "2026-07-06T16:00",
+      "avg_tone": 0.371,
+      "n_articles": 54
+    },
+    {
+      "time": "2026-07-06T16:15",
+      "avg_tone": 0.225,
+      "n_articles": 67
+    },
+    {
+      "time": "2026-07-06T16:30",
+      "avg_tone": 0.246,
+      "n_articles": 66
+    },
+    {
+      "time": "2026-07-06T16:45",
+      "avg_tone": 0.66,
+      "n_articles": 52
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
       "n": 37,
-      "avg_tone": 0.53
-    },
-    {
-      "source": "riotimesonline.com",
-      "n": 5,
-      "avg_tone": 0.226
-    },
-    {
-      "source": "dailycamera.com",
-      "n": 4,
-      "avg_tone": 1.59
-    },
-    {
-      "source": "nwemail.co.uk",
-      "n": 3,
-      "avg_tone": 2.149
+      "avg_tone": 0.942
     },
     {
       "source": "aol.co.uk",
+      "n": 5,
+      "avg_tone": -1.223
+    },
+    {
+      "source": "thebiglead.com",
       "n": 3,
-      "avg_tone": -2.566
+      "avg_tone": 0.337
     },
     {
-      "source": "floridastatesman.com",
+      "source": "enfieldindependent.co.uk",
       "n": 3,
-      "avg_tone": 2.13
+      "avg_tone": 2.233
     },
     {
-      "source": "forbes.com",
+      "source": "banderasnews.com",
       "n": 3,
-      "avg_tone": -0.436
+      "avg_tone": 7.224
     },
     {
-      "source": "greeleytribune.com",
+      "source": "times-series.co.uk",
       "n": 3,
-      "avg_tone": 0.887
+      "avg_tone": 2.233
     },
     {
-      "source": "timescall.com",
+      "source": "newsshopper.co.uk",
       "n": 3,
-      "avg_tone": 0.887
+      "avg_tone": 2.233
     },
     {
-      "source": "yahoo.com",
+      "source": "rollingstone.com",
       "n": 2,
-      "avg_tone": -0.435
+      "avg_tone": -0.413
     },
     {
-      "source": "thenews.com.pk",
+      "source": "venezuelastar.com",
       "n": 2,
-      "avg_tone": 3.678
+      "avg_tone": 3.115
     },
     {
-      "source": "dailymail.com",
+      "source": "london-now.co.uk",
       "n": 2,
-      "avg_tone": 3.669
+      "avg_tone": 1.246
     },
     {
-      "source": "abnnewswire.net",
+      "source": "wiltsglosstandard.co.uk",
       "n": 2,
-      "avg_tone": 2.775
+      "avg_tone": 1.985
     },
     {
-      "source": "mirror.co.uk",
+      "source": "dailystar.co.uk",
       "n": 2,
-      "avg_tone": 0.115
+      "avg_tone": 1.098
     },
     {
-      "source": "thewestmorlandgazette.co.uk",
+      "source": "swindonadvertiser.co.uk",
       "n": 2,
-      "avg_tone": 3.109
+      "avg_tone": 1.985
+    },
+    {
+      "source": "dorsetecho.co.uk",
+      "n": 2,
+      "avg_tone": 1.985
+    },
+    {
+      "source": "thewestonmercury.co.uk",
+      "n": 2,
+      "avg_tone": 1.985
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ETHNICITY_BLACK",
-      "n": 93
+      "theme": "TAX_FOODSTAPLES_MILK",
+      "n": 144
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 75
+      "theme": "TAX_WORLDCRUSTACEANS_SHRIMP",
+      "n": 133
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 74
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 81
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 60
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 78
     },
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 55
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 76
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
+      "theme": "BORDER",
+      "n": 66
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 65
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 62
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 56
+    },
+    {
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 56
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 56
+    },
+    {
+      "theme": "WB_1014_CRIMINAL_JUSTICE",
+      "n": 54
+    },
+    {
+      "theme": "IMMIGRATION",
       "n": 53
     },
     {
-      "theme": "WB_137_WATER",
+      "theme": "WB_2769_JOBS_STRATEGIES",
       "n": 52
     },
     {
       "theme": "LEADER",
-      "n": 50
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 49
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 49
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 45
-    },
-    {
-      "theme": "SANITATION",
-      "n": 45
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 43
-    },
-    {
-      "theme": "WB_2936_GOLD",
-      "n": 37
-    },
-    {
-      "theme": "WB_2937_SILVER",
-      "n": 31
+      "n": 51
     }
   ]
 }
