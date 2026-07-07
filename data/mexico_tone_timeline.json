@@ -1,49 +1,9 @@
 {
-  "generated_at": "2026-07-07T13:34:55.443528+00:00",
-  "rows_total_scanned_last_run": 5352,
-  "rows_mexico_last_run": 126,
-  "overall_avg_tone_4h": 0.372,
+  "generated_at": "2026-07-07T16:10:42.416251+00:00",
+  "rows_total_scanned_last_run": 6499,
+  "rows_mexico_last_run": 114,
+  "overall_avg_tone_4h": 0.478,
   "timeline": [
-    {
-      "time": "2026-07-04T14:00",
-      "avg_tone": -0.999,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-07-04T14:15",
-      "avg_tone": -0.547,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-07-04T14:30",
-      "avg_tone": -0.262,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-07-04T14:45",
-      "avg_tone": -0.161,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-07-04T15:00",
-      "avg_tone": 0.315,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-07-04T15:15",
-      "avg_tone": 0.186,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-07-04T15:30",
-      "avg_tone": -0.252,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-07-04T15:45",
-      "avg_tone": -1.127,
-      "n_articles": 11
-    },
     {
       "time": "2026-07-04T16:15",
       "avg_tone": 1.105,
@@ -718,145 +678,165 @@
       "time": "2026-07-07T13:30",
       "avg_tone": 1.625,
       "n_articles": 31
+    },
+    {
+      "time": "2026-07-07T15:30",
+      "avg_tone": 0.016,
+      "n_articles": 38
+    },
+    {
+      "time": "2026-07-07T15:45",
+      "avg_tone": -0.053,
+      "n_articles": 30
+    },
+    {
+      "time": "2026-07-07T16:00",
+      "avg_tone": 1.171,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-07-07T16:15",
+      "avg_tone": 1.062,
+      "n_articles": 27
     }
   ],
   "top_sources": [
     {
-      "source": "iheart.com",
-      "n": 21,
-      "avg_tone": 3.745
-    },
-    {
-      "source": "manilatimes.net",
+      "source": "metro.co.uk",
       "n": 5,
-      "avg_tone": 3.666
+      "avg_tone": -0.398
     },
     {
-      "source": "riotimesonline.com",
-      "n": 4,
-      "avg_tone": -1.248
-    },
-    {
-      "source": "heraldglobe.com",
+      "source": "nypost.com",
       "n": 3,
-      "avg_tone": -0.202
+      "avg_tone": -4.253
     },
     {
-      "source": "fourfourtwo.com",
+      "source": "southernminn.com",
       "n": 2,
-      "avg_tone": 0.034
+      "avg_tone": 2.385
     },
     {
-      "source": "lancashiretelegraph.co.uk",
+      "source": "bankingnews.gr",
       "n": 2,
-      "avg_tone": 1.738
+      "avg_tone": -1.323
     },
     {
-      "source": "the42.ie",
+      "source": "venezuelastar.com",
       "n": 2,
-      "avg_tone": -0.028
+      "avg_tone": 4.034
     },
     {
-      "source": "bbc.co.uk",
+      "source": "parking.net",
       "n": 2,
-      "avg_tone": 1.015
+      "avg_tone": 4.313
     },
     {
-      "source": "pr-inside.com",
+      "source": "punchng.com",
       "n": 2,
-      "avg_tone": 1.225
+      "avg_tone": 1.374
+    },
+    {
+      "source": "wyomingnewsnow.tv",
+      "n": 2,
+      "avg_tone": 2.353
+    },
+    {
+      "source": "wbaltv.com",
+      "n": 2,
+      "avg_tone": -0.056
+    },
+    {
+      "source": "mesabitribune.com",
+      "n": 2,
+      "avg_tone": 2.353
+    },
+    {
+      "source": "grandrapidsmn.com",
+      "n": 2,
+      "avg_tone": 2.353
     },
     {
       "source": "indiatimes.com",
       "n": 2,
-      "avg_tone": 0.421
+      "avg_tone": -5.771
     },
     {
-      "source": "theepochtimes.com",
+      "source": "rawstory.com",
       "n": 2,
-      "avg_tone": -2.163
+      "avg_tone": -4.639
     },
     {
-      "source": "en.tempo.co",
+      "source": "the-star.co.ke",
       "n": 2,
-      "avg_tone": 3.573
+      "avg_tone": -1.45
     },
     {
-      "source": "shanghaisun.com",
+      "source": "kunm.org",
       "n": 2,
-      "avg_tone": -9.168
-    },
-    {
-      "source": "shanghainews.net",
-      "n": 2,
-      "avg_tone": -9.168
-    },
-    {
-      "source": "easternmirrornagaland.com",
-      "n": 2,
-      "avg_tone": -1.152
+      "avg_tone": -0.226
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 105
-    },
-    {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 100
-    },
-    {
-      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 100
-    },
-    {
-      "theme": "WB_1281_MANUFACTURING",
-      "n": 99
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 78
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 55
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 55
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 52
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 49
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 42
+      "theme": "TAX_WORLDLANGUAGES_RUSSIA",
+      "n": 218
     },
     {
       "theme": "GENERAL_GOVERNMENT",
-      "n": 40
+      "n": 104
     },
     {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 39
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 100
     },
     {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 38
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 84
     },
     {
-      "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 37
+      "theme": "TAX_ETHNICITY_INDIAN",
+      "n": 80
     },
     {
-      "theme": "LEADER",
-      "n": 36
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 78
+    },
+    {
+      "theme": "TAX_ETHNICITY_PUNJABI",
+      "n": 75
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_PUNJABI",
+      "n": 75
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 75
+    },
+    {
+      "theme": "TAX_FNCACT_COOK",
+      "n": 71
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 69
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 69
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 66
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 64
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 61
     }
   ]
 }
