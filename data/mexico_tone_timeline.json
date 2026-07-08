@@ -1,44 +1,9 @@
 {
-  "generated_at": "2026-07-08T09:58:59.738931+00:00",
-  "rows_total_scanned_last_run": 4067,
-  "rows_mexico_last_run": 61,
-  "overall_avg_tone_4h": -2.231,
+  "generated_at": "2026-07-08T11:47:36.123385+00:00",
+  "rows_total_scanned_last_run": 4910,
+  "rows_mexico_last_run": 70,
+  "overall_avg_tone_4h": -1.157,
   "timeline": [
-    {
-      "time": "2026-07-05T10:00",
-      "avg_tone": 1.818,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-07-05T10:15",
-      "avg_tone": 1.487,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-07-05T10:30",
-      "avg_tone": 1.496,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-07-05T10:45",
-      "avg_tone": 0.078,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-07-05T11:15",
-      "avg_tone": 0.254,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-07-05T11:30",
-      "avg_tone": 0.13,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-07-05T11:45",
-      "avg_tone": 1.079,
-      "n_articles": 10
-    },
     {
       "time": "2026-07-05T12:00",
       "avg_tone": 1.838,
@@ -678,145 +643,165 @@
       "time": "2026-07-08T10:00",
       "avg_tone": 1.02,
       "n_articles": 13
+    },
+    {
+      "time": "2026-07-08T11:00",
+      "avg_tone": 0.211,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-07-08T11:15",
+      "avg_tone": 0.615,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-07-08T11:30",
+      "avg_tone": 0.581,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-07-08T11:45",
+      "avg_tone": 0.996,
+      "n_articles": 20
     }
   ],
   "top_sources": [
     {
       "source": "boredpanda.com",
-      "n": 5,
-      "avg_tone": -0.599
+      "n": 6,
+      "avg_tone": 1.162
     },
     {
-      "source": "yahoo.com",
-      "n": 4,
-      "avg_tone": 1.155
-    },
-    {
-      "source": "femalefirst.co.uk",
+      "source": "nme.com",
       "n": 3,
-      "avg_tone": 0.626
+      "avg_tone": 0.352
     },
     {
-      "source": "stockhouse.com",
-      "n": 3,
-      "avg_tone": 3.204
-    },
-    {
-      "source": "aol.co.uk",
+      "source": "riotimesonline.com",
       "n": 2,
-      "avg_tone": 0.52
+      "avg_tone": 3.509
     },
     {
-      "source": "metro.co.uk",
+      "source": "pcmag.com",
       "n": 2,
-      "avg_tone": -0.318
+      "avg_tone": 1.106
     },
     {
-      "source": "timesandstar.co.uk",
+      "source": "westmeathindependent.ie",
       "n": 2,
-      "avg_tone": 3.178
+      "avg_tone": 7.151
     },
     {
-      "source": "arabnews.com",
-      "n": 1,
-      "avg_tone": 2.564
+      "source": "dailystar.co.uk",
+      "n": 2,
+      "avg_tone": -1.331
     },
     {
-      "source": "zerohedge.com",
-      "n": 1,
-      "avg_tone": -3.053
+      "source": "southernminn.com",
+      "n": 2,
+      "avg_tone": 4.239
     },
     {
-      "source": "harwichandmanningtreestandard.co.uk",
-      "n": 1,
-      "avg_tone": 3.178
+      "source": "arkansasonline.com",
+      "n": 2,
+      "avg_tone": -1.69
     },
     {
-      "source": "retailtimes.co.uk",
-      "n": 1,
-      "avg_tone": 2.034
+      "source": "torontotelegraph.com",
+      "n": 2,
+      "avg_tone": -0.108
     },
     {
-      "source": "theboltonnews.co.uk",
+      "source": "fortune.com",
       "n": 1,
-      "avg_tone": 3.178
+      "avg_tone": 3.226
     },
     {
-      "source": "virginislandsdailynews.com",
+      "source": "ibtimes.co.uk",
       "n": 1,
-      "avg_tone": 4.942
+      "avg_tone": -5.86
     },
     {
-      "source": "mirror.co.uk",
+      "source": "con-telegraph.ie",
       "n": 1,
-      "avg_tone": 1.67
+      "avg_tone": 4.762
     },
     {
-      "source": "bostonglobe.com",
+      "source": "easttexasradio.com",
       "n": 1,
-      "avg_tone": 1.518
+      "avg_tone": 0.0
+    },
+    {
+      "source": "latimes.com",
+      "n": 1,
+      "avg_tone": -3.641
+    },
+    {
+      "source": "eppgroup.eu",
+      "n": 1,
+      "avg_tone": 4.03
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_GROOMSMAN",
-      "n": 84
-    },
-    {
-      "theme": "TAX_FNCACT_GROOM",
-      "n": 60
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 52
-    },
-    {
-      "theme": "TAX_FNCACT_THE_GROOM",
-      "n": 44
-    },
-    {
-      "theme": "TAX_FNCACT_WOMAN",
-      "n": 41
-    },
-    {
       "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 37
+      "n": 129
     },
     {
       "theme": "WB_895_MINING_SYSTEMS",
-      "n": 37
+      "n": 121
     },
     {
       "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 37
-    },
-    {
-      "theme": "TAX_FNCACT_MAN",
-      "n": 37
+      "n": 120
     },
     {
       "theme": "ENV_METALS",
-      "n": 36
+      "n": 119
     },
     {
-      "theme": "WB_2936_GOLD",
-      "n": 36
+      "theme": "WB_2937_SILVER",
+      "n": 118
     },
     {
-      "theme": "WB_855_LABOR_MARKETS",
-      "n": 35
+      "theme": "WB_698_TRADE",
+      "n": 83
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 81
+    },
+    {
+      "theme": "WB_405_BUSINESS_CLIMATE",
+      "n": 65
+    },
+    {
+      "theme": "WB_2531_INSPECTIONS_LICENSING_AND_PERMITS",
+      "n": 65
+    },
+    {
+      "theme": "WB_2530_BUSINESS_ENVIRONMENT",
+      "n": 65
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 59
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 56
     },
     {
       "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
-      "n": 35
+      "n": 51
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 34
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 50
     },
     {
-      "theme": "DELAY",
-      "n": 33
+      "theme": "WB_855_LABOR_MARKETS",
+      "n": 50
     }
   ]
 }
