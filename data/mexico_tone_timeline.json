@@ -1,44 +1,9 @@
 {
-  "generated_at": "2026-07-08T13:43:03.782723+00:00",
-  "rows_total_scanned_last_run": 5997,
-  "rows_mexico_last_run": 85,
-  "overall_avg_tone_4h": -0.484,
+  "generated_at": "2026-07-08T15:53:35.969295+00:00",
+  "rows_total_scanned_last_run": 6806,
+  "rows_mexico_last_run": 115,
+  "overall_avg_tone_4h": -0.08,
   "timeline": [
-    {
-      "time": "2026-07-05T13:45",
-      "avg_tone": 0.64,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-07-05T14:00",
-      "avg_tone": 0.945,
-      "n_articles": 28
-    },
-    {
-      "time": "2026-07-05T14:15",
-      "avg_tone": -0.111,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-07-05T15:00",
-      "avg_tone": 2.154,
-      "n_articles": 29
-    },
-    {
-      "time": "2026-07-05T15:15",
-      "avg_tone": 2.702,
-      "n_articles": 30
-    },
-    {
-      "time": "2026-07-05T15:30",
-      "avg_tone": 0.946,
-      "n_articles": 34
-    },
-    {
-      "time": "2026-07-05T15:45",
-      "avg_tone": 0.733,
-      "n_articles": 27
-    },
     {
       "time": "2026-07-05T16:00",
       "avg_tone": 1.028,
@@ -673,145 +638,165 @@
       "time": "2026-07-08T13:45",
       "avg_tone": -0.685,
       "n_articles": 23
+    },
+    {
+      "time": "2026-07-08T15:15",
+      "avg_tone": -0.949,
+      "n_articles": 30
+    },
+    {
+      "time": "2026-07-08T15:30",
+      "avg_tone": 0.12,
+      "n_articles": 32
+    },
+    {
+      "time": "2026-07-08T15:45",
+      "avg_tone": -2.089,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-07-08T16:00",
+      "avg_tone": 0.567,
+      "n_articles": 26
     }
   ],
   "top_sources": [
     {
-      "source": "finanznachrichten.de",
+      "source": "iheart.com",
+      "n": 6,
+      "avg_tone": 3.59
+    },
+    {
+      "source": "boredpanda.com",
       "n": 3,
-      "avg_tone": 0.918
+      "avg_tone": 2.419
     },
     {
-      "source": "stereoboard.com",
+      "source": "banderasnews.com",
+      "n": 3,
+      "avg_tone": 4.692
+    },
+    {
+      "source": "torontotelegraph.com",
+      "n": 3,
+      "avg_tone": -0.255
+    },
+    {
+      "source": "aol.co.uk",
       "n": 2,
-      "avg_tone": 1.449
-    },
-    {
-      "source": "newjerseytelegraph.com",
-      "n": 2,
-      "avg_tone": -0.383
-    },
-    {
-      "source": "lancasteronline.com",
-      "n": 2,
-      "avg_tone": -5.417
-    },
-    {
-      "source": "zerohedge.com",
-      "n": 2,
-      "avg_tone": -2.904
-    },
-    {
-      "source": "koat.com",
-      "n": 2,
-      "avg_tone": -0.42
-    },
-    {
-      "source": "bignewsnetwork.com",
-      "n": 2,
-      "avg_tone": 0.111
-    },
-    {
-      "source": "cnn.com",
-      "n": 1,
-      "avg_tone": 0.897
-    },
-    {
-      "source": "republicanherald.com",
-      "n": 1,
-      "avg_tone": -9.38
-    },
-    {
-      "source": "kfru.com",
-      "n": 1,
-      "avg_tone": 3.55
-    },
-    {
-      "source": "indiagazette.com",
-      "n": 1,
-      "avg_tone": -9.189
-    },
-    {
-      "source": "cbc.ca",
-      "n": 1,
-      "avg_tone": -2.216
+      "avg_tone": -2.161
     },
     {
       "source": "yahoo.com",
-      "n": 1,
-      "avg_tone": -3.636
+      "n": 2,
+      "avg_tone": -2.192
     },
     {
-      "source": "wxkr.com",
-      "n": 1,
-      "avg_tone": 3.55
+      "source": "prnewswire.com",
+      "n": 2,
+      "avg_tone": 4.113
     },
     {
-      "source": "citizensvoice.com",
+      "source": "ckom.com",
+      "n": 2,
+      "avg_tone": 0.447
+    },
+    {
+      "source": "wlwt.com",
+      "n": 2,
+      "avg_tone": -3.2
+    },
+    {
+      "source": "grandrapidsmn.com",
+      "n": 2,
+      "avg_tone": 1.095
+    },
+    {
+      "source": "eastbaytimes.com",
+      "n": 2,
+      "avg_tone": 2.183
+    },
+    {
+      "source": "thenational.scot",
+      "n": 2,
+      "avg_tone": 0.136
+    },
+    {
+      "source": "wyomingnewsnow.tv",
+      "n": 2,
+      "avg_tone": 1.095
+    },
+    {
+      "source": "bleacherreport.com",
+      "n": 2,
+      "avg_tone": -0.458
+    },
+    {
+      "source": "wokv.com",
       "n": 1,
-      "avg_tone": -9.38
+      "avg_tone": 0.847
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 100
-    },
-    {
-      "theme": "LEADER",
-      "n": 99
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 96
-    },
-    {
       "theme": "TAX_FNCACT_JUDGE",
-      "n": 81
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 76
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 72
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 69
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 66
+      "n": 152
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 65
+      "n": 111
     },
     {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 62
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 62
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 60
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 57
+      "theme": "WB_2670_JOBS",
+      "n": 109
     },
     {
       "theme": "TAX_FNCACT_AGENTS",
-      "n": 56
+      "n": 103
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 52
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 97
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 95
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 93
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 91
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 91
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 85
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 84
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 84
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 82
+    },
+    {
+      "theme": "TAX_FNCACT_ATTORNEYS",
+      "n": 81
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 80
     }
   ]
 }
