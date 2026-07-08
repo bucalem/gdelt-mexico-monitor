@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-07-08T11:47:36.123385+00:00",
-  "rows_total_scanned_last_run": 4910,
-  "rows_mexico_last_run": 70,
-  "overall_avg_tone_4h": -1.157,
+  "generated_at": "2026-07-08T13:43:03.782723+00:00",
+  "rows_total_scanned_last_run": 5997,
+  "rows_mexico_last_run": 85,
+  "overall_avg_tone_4h": -0.484,
   "timeline": [
-    {
-      "time": "2026-07-05T12:00",
-      "avg_tone": 1.838,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-07-05T13:30",
-      "avg_tone": 0.497,
-      "n_articles": 17
-    },
     {
       "time": "2026-07-05T13:45",
       "avg_tone": 0.64,
@@ -663,145 +653,165 @@
       "time": "2026-07-08T11:45",
       "avg_tone": 0.996,
       "n_articles": 20
+    },
+    {
+      "time": "2026-07-08T13:00",
+      "avg_tone": 0.341,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-07-08T13:15",
+      "avg_tone": -0.229,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-07-08T13:30",
+      "avg_tone": -1.862,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-07-08T13:45",
+      "avg_tone": -0.685,
+      "n_articles": 23
     }
   ],
   "top_sources": [
     {
-      "source": "boredpanda.com",
-      "n": 6,
-      "avg_tone": 1.162
-    },
-    {
-      "source": "nme.com",
+      "source": "finanznachrichten.de",
       "n": 3,
-      "avg_tone": 0.352
+      "avg_tone": 0.918
     },
     {
-      "source": "riotimesonline.com",
+      "source": "stereoboard.com",
       "n": 2,
-      "avg_tone": 3.509
+      "avg_tone": 1.449
     },
     {
-      "source": "pcmag.com",
+      "source": "newjerseytelegraph.com",
       "n": 2,
-      "avg_tone": 1.106
+      "avg_tone": -0.383
     },
     {
-      "source": "westmeathindependent.ie",
+      "source": "lancasteronline.com",
       "n": 2,
-      "avg_tone": 7.151
+      "avg_tone": -5.417
     },
     {
-      "source": "dailystar.co.uk",
+      "source": "zerohedge.com",
       "n": 2,
-      "avg_tone": -1.331
+      "avg_tone": -2.904
     },
     {
-      "source": "southernminn.com",
+      "source": "koat.com",
       "n": 2,
-      "avg_tone": 4.239
+      "avg_tone": -0.42
     },
     {
-      "source": "arkansasonline.com",
+      "source": "bignewsnetwork.com",
       "n": 2,
-      "avg_tone": -1.69
+      "avg_tone": 0.111
     },
     {
-      "source": "torontotelegraph.com",
-      "n": 2,
-      "avg_tone": -0.108
-    },
-    {
-      "source": "fortune.com",
+      "source": "cnn.com",
       "n": 1,
-      "avg_tone": 3.226
+      "avg_tone": 0.897
     },
     {
-      "source": "ibtimes.co.uk",
+      "source": "republicanherald.com",
       "n": 1,
-      "avg_tone": -5.86
+      "avg_tone": -9.38
     },
     {
-      "source": "con-telegraph.ie",
+      "source": "kfru.com",
       "n": 1,
-      "avg_tone": 4.762
+      "avg_tone": 3.55
     },
     {
-      "source": "easttexasradio.com",
+      "source": "indiagazette.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -9.189
     },
     {
-      "source": "latimes.com",
+      "source": "cbc.ca",
       "n": 1,
-      "avg_tone": -3.641
+      "avg_tone": -2.216
     },
     {
-      "source": "eppgroup.eu",
+      "source": "yahoo.com",
       "n": 1,
-      "avg_tone": 4.03
+      "avg_tone": -3.636
+    },
+    {
+      "source": "wxkr.com",
+      "n": 1,
+      "avg_tone": 3.55
+    },
+    {
+      "source": "citizensvoice.com",
+      "n": 1,
+      "avg_tone": -9.38
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 129
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 100
     },
     {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 121
+      "theme": "LEADER",
+      "n": 99
     },
     {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 120
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 96
     },
     {
-      "theme": "ENV_METALS",
-      "n": 119
-    },
-    {
-      "theme": "WB_2937_SILVER",
-      "n": 118
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 83
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "theme": "TAX_FNCACT_JUDGE",
       "n": 81
     },
     {
-      "theme": "WB_405_BUSINESS_CLIMATE",
+      "theme": "WB_2670_JOBS",
+      "n": 76
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 72
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 69
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 66
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 65
     },
     {
-      "theme": "WB_2531_INSPECTIONS_LICENSING_AND_PERMITS",
-      "n": 65
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 62
     },
     {
-      "theme": "WB_2530_BUSINESS_ENVIRONMENT",
-      "n": 65
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 62
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 59
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 60
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
+      "theme": "MEDICAL",
+      "n": 57
+    },
+    {
+      "theme": "TAX_FNCACT_AGENTS",
       "n": 56
     },
     {
-      "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
-      "n": 51
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 50
-    },
-    {
-      "theme": "WB_855_LABOR_MARKETS",
-      "n": 50
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 52
     }
   ]
 }
