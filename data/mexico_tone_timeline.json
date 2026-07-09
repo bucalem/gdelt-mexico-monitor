@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-08T23:44:01.050402+00:00",
-  "rows_total_scanned_last_run": 5020,
-  "rows_mexico_last_run": 226,
-  "overall_avg_tone_4h": -0.397,
+  "generated_at": "2026-07-09T01:16:38.788735+00:00",
+  "rows_total_scanned_last_run": 4269,
+  "rows_mexico_last_run": 155,
+  "overall_avg_tone_4h": -0.227,
   "timeline": [
-    {
-      "time": "2026-07-05T23:45",
-      "avg_tone": -0.122,
-      "n_articles": 33
-    },
-    {
-      "time": "2026-07-06T00:45",
-      "avg_tone": -0.51,
-      "n_articles": 45
-    },
-    {
-      "time": "2026-07-06T01:00",
-      "avg_tone": -1.069,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-07-06T01:15",
-      "avg_tone": -0.872,
-      "n_articles": 41
-    },
     {
       "time": "2026-07-06T01:30",
       "avg_tone": -1.263,
@@ -643,145 +623,165 @@
       "time": "2026-07-08T23:45",
       "avg_tone": 0.55,
       "n_articles": 43
+    },
+    {
+      "time": "2026-07-09T00:30",
+      "avg_tone": -0.192,
+      "n_articles": 50
+    },
+    {
+      "time": "2026-07-09T00:45",
+      "avg_tone": -0.172,
+      "n_articles": 28
+    },
+    {
+      "time": "2026-07-09T01:00",
+      "avg_tone": -0.742,
+      "n_articles": 32
+    },
+    {
+      "time": "2026-07-09T01:15",
+      "avg_tone": 0.759,
+      "n_articles": 45
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 58,
+      "n": 38,
       "avg_tone": 2.922
     },
     {
-      "source": "twincities.com",
-      "n": 4,
-      "avg_tone": -1.335
-    },
-    {
-      "source": "capitalgazette.com",
+      "source": "dailymail.com",
       "n": 3,
-      "avg_tone": -0.762
+      "avg_tone": -2.327
     },
     {
-      "source": "wboc.com",
+      "source": "breitbart.com",
       "n": 3,
-      "avg_tone": -5.709
+      "avg_tone": -7.856
     },
     {
-      "source": "redlandsdailyfacts.com",
-      "n": 3,
-      "avg_tone": 1.81
+      "source": "heraldglobe.com",
+      "n": 2,
+      "avg_tone": 0.14
     },
     {
-      "source": "tpr.org",
-      "n": 3,
-      "avg_tone": -3.26
+      "source": "bignewsnetwork.com",
+      "n": 2,
+      "avg_tone": 2.029
     },
     {
-      "source": "cubaheadlines.com",
-      "n": 3,
-      "avg_tone": -4.668
-    },
-    {
-      "source": "sitkasentinel.com",
-      "n": 3,
-      "avg_tone": -4.587
-    },
-    {
-      "source": "wdio.com",
-      "n": 3,
-      "avg_tone": -5.735
-    },
-    {
-      "source": "wgan.com",
+      "source": "beaver1003.com",
       "n": 2,
       "avg_tone": 1.84
     },
     {
-      "source": "dailyexcelsior.com",
-      "n": 2,
-      "avg_tone": -5.172
-    },
-    {
-      "source": "kafe.com",
+      "source": "wvax.com",
       "n": 2,
       "avg_tone": 1.84
     },
     {
-      "source": "sgvtribune.com",
+      "source": "calgary.citynews.ca",
       "n": 2,
-      "avg_tone": 4.321
+      "avg_tone": 3.591
     },
     {
-      "source": "nbcphiladelphia.com",
+      "source": "pasadenastarnews.com",
       "n": 2,
-      "avg_tone": -0.65
+      "avg_tone": 2.418
     },
     {
-      "source": "journal-advocate.com",
+      "source": "english.news.cn",
       "n": 2,
-      "avg_tone": -0.871
+      "avg_tone": -1.709
+    },
+    {
+      "source": "argentinastar.com",
+      "n": 2,
+      "avg_tone": 0.14
+    },
+    {
+      "source": "nbcchicago.com",
+      "n": 2,
+      "avg_tone": -0.645
+    },
+    {
+      "source": "mymotherlode.com",
+      "n": 2,
+      "avg_tone": -4.346
+    },
+    {
+      "source": "star997.com",
+      "n": 2,
+      "avg_tone": 1.84
+    },
+    {
+      "source": "wcbi.com",
+      "n": 2,
+      "avg_tone": -5.364
     }
   ],
   "top_themes": [
     {
-      "theme": "EDUCATION",
-      "n": 266
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 245
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 203
-    },
-    {
-      "theme": "TAX_DISEASE_CYCLOSPORA",
-      "n": 189
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 184
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 179
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 179
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 177
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 172
-    },
-    {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 171
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 160
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 149
+      "theme": "EDUCATION",
+      "n": 152
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 144
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 127
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 103
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 146
+      "n": 82
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 133
+      "n": 80
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 130
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 80
+    },
+    {
+      "theme": "TAX_DISEASE_CYCLOSPORA",
+      "n": 77
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 75
+    },
+    {
+      "theme": "WB_1014_CRIMINAL_JUSTICE",
+      "n": 71
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 68
+    },
+    {
+      "theme": "LEGISLATION",
+      "n": 68
+    },
+    {
+      "theme": "EPU_POLICY_LAW",
+      "n": 68
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 63
     }
   ]
 }
