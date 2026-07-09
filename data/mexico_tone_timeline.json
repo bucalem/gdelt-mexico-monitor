@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-09T08:51:40.401979+00:00",
-  "rows_total_scanned_last_run": 3846,
-  "rows_mexico_last_run": 92,
-  "overall_avg_tone_4h": -0.09,
+  "generated_at": "2026-07-09T11:46:38.916884+00:00",
+  "rows_total_scanned_last_run": 5426,
+  "rows_mexico_last_run": 117,
+  "overall_avg_tone_4h": 0.025,
   "timeline": [
-    {
-      "time": "2026-07-06T09:15",
-      "avg_tone": 1.24,
-      "n_articles": 21
-    },
-    {
-      "time": "2026-07-06T09:30",
-      "avg_tone": 1.682,
-      "n_articles": 39
-    },
-    {
-      "time": "2026-07-06T09:45",
-      "avg_tone": 0.603,
-      "n_articles": 35
-    },
-    {
-      "time": "2026-07-06T10:00",
-      "avg_tone": 2.599,
-      "n_articles": 22
-    },
     {
       "time": "2026-07-06T13:00",
       "avg_tone": 1.178,
@@ -658,145 +638,165 @@
       "time": "2026-07-09T09:00",
       "avg_tone": -1.43,
       "n_articles": 17
+    },
+    {
+      "time": "2026-07-09T11:00",
+      "avg_tone": -0.293,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-07-09T11:15",
+      "avg_tone": 0.354,
+      "n_articles": 45
+    },
+    {
+      "time": "2026-07-09T11:30",
+      "avg_tone": 1.277,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-07-09T11:45",
+      "avg_tone": -0.037,
+      "n_articles": 29
     }
   ],
   "top_sources": [
     {
-      "source": "austinchronicle.com",
-      "n": 4,
-      "avg_tone": 0.447
+      "source": "manilatimes.net",
+      "n": 5,
+      "avg_tone": 4.036
     },
     {
-      "source": "arkansasonline.com",
-      "n": 4,
-      "avg_tone": -2.602
+      "source": "europesun.com",
+      "n": 5,
+      "avg_tone": -1.346
     },
     {
-      "source": "haitisun.com",
+      "source": "nme.com",
       "n": 3,
-      "avg_tone": -1.564
+      "avg_tone": -2.085
     },
     {
-      "source": "birminghammail.co.uk",
+      "source": "prnewswire.com",
       "n": 3,
-      "avg_tone": 1.35
-    },
-    {
-      "source": "metro.co.uk",
-      "n": 3,
-      "avg_tone": 1.046
-    },
-    {
-      "source": "caribbeanherald.com",
-      "n": 3,
-      "avg_tone": -1.564
+      "avg_tone": 0.177
     },
     {
       "source": "finanznachrichten.de",
       "n": 3,
-      "avg_tone": 2.037
+      "avg_tone": 3.64
     },
     {
-      "source": "cambodiantimes.com",
-      "n": 2,
-      "avg_tone": -2.542
+      "source": "bostonglobe.com",
+      "n": 3,
+      "avg_tone": -2.023
     },
     {
-      "source": "indiatimes.com",
-      "n": 2,
-      "avg_tone": 0.118
+      "source": "juniorminingnetwork.com",
+      "n": 3,
+      "avg_tone": 2.388
     },
     {
-      "source": "newjerseytelegraph.com",
+      "source": "westmeathindependent.ie",
       "n": 2,
-      "avg_tone": 1.379
+      "avg_tone": 1.663
     },
     {
-      "source": "lavozcolorado.com",
+      "source": "aol.co.uk",
       "n": 2,
-      "avg_tone": -1.93
+      "avg_tone": 4.177
     },
     {
-      "source": "manilatimes.net",
+      "source": "metro.co.uk",
       "n": 2,
-      "avg_tone": 3.708
+      "avg_tone": -0.569
     },
     {
-      "source": "miragenews.com",
+      "source": "myanmarnews.net",
       "n": 2,
-      "avg_tone": 1.741
+      "avg_tone": -1.721
     },
     {
-      "source": "floridastatesman.com",
+      "source": "nottinghampost.com",
       "n": 2,
-      "avg_tone": 1.674
+      "avg_tone": -2.862
     },
     {
-      "source": "aninews.in",
+      "source": "birminghammail.co.uk",
       "n": 2,
-      "avg_tone": -6.873
+      "avg_tone": 5.324
+    },
+    {
+      "source": "proactiveinvestors.co.uk",
+      "n": 2,
+      "avg_tone": -0.399
+    },
+    {
+      "source": "con-telegraph.ie",
+      "n": 2,
+      "avg_tone": 1.663
     }
   ],
   "top_themes": [
     {
       "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 159
-    },
-    {
-      "theme": "WB_2936_GOLD",
-      "n": 157
+      "n": 249
     },
     {
       "theme": "WB_895_MINING_SYSTEMS",
-      "n": 157
+      "n": 244
     },
     {
       "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 157
-    },
-    {
-      "theme": "WB_855_LABOR_MARKETS",
-      "n": 78
-    },
-    {
-      "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
-      "n": 78
-    },
-    {
-      "theme": "WB_1668_LABOR_STANDARDS",
-      "n": 77
-    },
-    {
-      "theme": "WB_1669_FORCED_LABOR",
-      "n": 77
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 63
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 59
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 57
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 52
+      "n": 244
     },
     {
       "theme": "ENV_METALS",
-      "n": 48
+      "n": 231
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 45
+      "theme": "WB_2936_GOLD",
+      "n": 224
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 44
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 109
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 81
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 80
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 72
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 70
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 64
+    },
+    {
+      "theme": "LEADER",
+      "n": 61
+    },
+    {
+      "theme": "TAX_FNCACT_MAN",
+      "n": 59
+    },
+    {
+      "theme": "TAX_FNCACT_FATHER",
+      "n": 56
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 55
     }
   ]
 }
