@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-11T08:58:07.045889+00:00",
-  "rows_total_scanned_last_run": 2615,
+  "generated_at": "2026-07-11T10:14:15.644883+00:00",
+  "rows_total_scanned_last_run": 2327,
   "rows_mexico_last_run": 39,
-  "overall_avg_tone_4h": -1.049,
+  "overall_avg_tone_4h": -0.524,
   "timeline": [
-    {
-      "time": "2026-07-08T09:15",
-      "avg_tone": 1.654,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-07-08T09:30",
-      "avg_tone": 0.866,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-07-08T09:45",
-      "avg_tone": -0.007,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-07-08T10:00",
-      "avg_tone": 1.02,
-      "n_articles": 13
-    },
     {
       "time": "2026-07-08T11:00",
       "avg_tone": 0.211,
@@ -698,144 +678,164 @@
       "time": "2026-07-11T09:00",
       "avg_tone": 2.765,
       "n_articles": 6
+    },
+    {
+      "time": "2026-07-11T09:30",
+      "avg_tone": -0.67,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-07-11T09:45",
+      "avg_tone": 0.182,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-07-11T10:00",
+      "avg_tone": 1.571,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-07-11T10:15",
+      "avg_tone": 0.236,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 5,
-      "avg_tone": -2.342
+      "source": "express.co.uk",
+      "n": 3,
+      "avg_tone": 1.213
     },
     {
-      "source": "the42.ie",
-      "n": 3,
-      "avg_tone": 1.174
+      "source": "leadership.ng",
+      "n": 2,
+      "avg_tone": -2.525
+    },
+    {
+      "source": "channelstv.com",
+      "n": 2,
+      "avg_tone": 0.985
+    },
+    {
+      "source": "venezuelastar.com",
+      "n": 2,
+      "avg_tone": -0.05
     },
     {
       "source": "metro.co.uk",
       "n": 2,
-      "avg_tone": -1.023
+      "avg_tone": -0.673
     },
     {
-      "source": "krgv.com",
+      "source": "nujournal.com",
       "n": 2,
-      "avg_tone": -5.747
+      "avg_tone": 0.423
     },
     {
-      "source": "vanguardngr.com",
+      "source": "mexicostar.com",
       "n": 2,
-      "avg_tone": -1.187
+      "avg_tone": 1.426
     },
     {
-      "source": "thewhig.com",
+      "source": "bristolpost.co.uk",
       "n": 1,
-      "avg_tone": 4.828
+      "avg_tone": 4.418
     },
     {
-      "source": "independent.co.uk",
+      "source": "si.com",
       "n": 1,
-      "avg_tone": 1.087
+      "avg_tone": 3.155
     },
     {
-      "source": "eonline.com",
+      "source": "92q.com",
       "n": 1,
-      "avg_tone": 0.091
+      "avg_tone": -5.47
     },
     {
-      "source": "nypost.com",
+      "source": "indiatimes.com",
       "n": 1,
-      "avg_tone": -0.383
+      "avg_tone": 2.865
     },
     {
-      "source": "northwestsignal.net",
+      "source": "dailymail.com",
       "n": 1,
-      "avg_tone": 0.478
+      "avg_tone": -0.553
     },
     {
-      "source": "herald-zeitung.com",
+      "source": "kezj.com",
       "n": 1,
-      "avg_tone": 10.491
+      "avg_tone": 4.432
     },
     {
-      "source": "mercopress.com",
+      "source": "epw.in",
       "n": 1,
-      "avg_tone": -7.181
+      "avg_tone": -1.328
     },
     {
-      "source": "el-balad.com",
+      "source": "bravotv.com",
       "n": 1,
-      "avg_tone": -2.203
-    },
-    {
-      "source": "thenation.com",
-      "n": 1,
-      "avg_tone": -3.641
-    },
-    {
-      "source": "mirror.co.uk",
-      "n": 1,
-      "avg_tone": -0.68
+      "avg_tone": 0.541
     }
   ],
   "top_themes": [
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
+      "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
       "n": 25
     },
     {
-      "theme": "MARITIME",
-      "n": 23
+      "theme": "WB_1668_LABOR_STANDARDS",
+      "n": 24
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "theme": "WB_855_LABOR_MARKETS",
+      "n": 24
+    },
+    {
+      "theme": "WB_1669_FORCED_LABOR",
+      "n": 24
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 20
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_RICE",
+      "n": 20
+    },
+    {
+      "theme": "WB_698_TRADE",
       "n": 19
     },
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 19
-    },
-    {
-      "theme": "LEADER",
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
       "n": 18
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 18
-    },
-    {
-      "theme": "TAX_MILITARY_TITLE_OFFICERS",
-      "n": 18
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICERS",
-      "n": 18
-    },
-    {
-      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
-      "n": 17
-    },
-    {
-      "theme": "GENERAL_HEALTH",
+      "theme": "TAX_FNCACT_JUDGE",
       "n": 16
     },
     {
-      "theme": "GEN_HOLIDAY",
-      "n": 14
+      "theme": "WB_1331_HEALTH_TECHNOLOGIES",
+      "n": 15
     },
     {
-      "theme": "SECURITY_SERVICES",
-      "n": 14
+      "theme": "WB_2453_ORGANIZED_CRIME",
+      "n": 15
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 14
+      "theme": "WB_1350_PHARMACEUTICALS",
+      "n": 15
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 13
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 15
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
+      "theme": "WB_2456_DRUGS_AND_NARCOTICS",
+      "n": 15
+    },
+    {
+      "theme": "WB_1014_CRIMINAL_JUSTICE",
       "n": 13
     }
   ]
