@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-11T15:38:22.490212+00:00",
-  "rows_total_scanned_last_run": 2177,
-  "rows_mexico_last_run": 36,
-  "overall_avg_tone_4h": -0.093,
+  "generated_at": "2026-07-11T16:32:12.821565+00:00",
+  "rows_total_scanned_last_run": 3256,
+  "rows_mexico_last_run": 57,
+  "overall_avg_tone_4h": 0.101,
   "timeline": [
-    {
-      "time": "2026-07-08T15:45",
-      "avg_tone": -2.089,
-      "n_articles": 27
-    },
-    {
-      "time": "2026-07-08T16:00",
-      "avg_tone": 0.567,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-07-08T16:30",
-      "avg_tone": -0.399,
-      "n_articles": 37
-    },
     {
       "time": "2026-07-08T16:45",
       "avg_tone": 0.113,
@@ -738,145 +723,165 @@
       "time": "2026-07-11T15:30",
       "avg_tone": 0.2,
       "n_articles": 9
+    },
+    {
+      "time": "2026-07-11T15:45",
+      "avg_tone": 1.056,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-07-11T16:00",
+      "avg_tone": -0.034,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-07-11T16:15",
+      "avg_tone": -0.848,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-07-11T16:30",
+      "avg_tone": 0.158,
+      "n_articles": 12
     }
   ],
   "top_sources": [
     {
-      "source": "bignewsnetwork.com",
+      "source": "pcmag.com",
+      "n": 3,
+      "avg_tone": 1.246
+    },
+    {
+      "source": "heraldglobe.com",
       "n": 2,
-      "avg_tone": 0.346
+      "avg_tone": 0.349
     },
     {
-      "source": "ibtimes.co.uk",
+      "source": "wellandtribune.ca",
       "n": 2,
-      "avg_tone": -0.868
+      "avg_tone": -2.188
     },
     {
-      "source": "chicagotribune.com",
+      "source": "niagarafallsreview.ca",
       "n": 2,
-      "avg_tone": 2.359
+      "avg_tone": -2.188
     },
     {
-      "source": "yahoo.com",
+      "source": "tickerreport.com",
       "n": 2,
-      "avg_tone": -0.335
+      "avg_tone": 3.539
     },
     {
-      "source": "guelphmercury.com",
+      "source": "latinamericanpost.com",
       "n": 1,
-      "avg_tone": -4.801
+      "avg_tone": -0.609
     },
     {
-      "source": "businessinsider.com",
+      "source": "newsweek.com",
       "n": 1,
-      "avg_tone": 4.804
+      "avg_tone": -2.883
     },
     {
-      "source": "forbes.com",
+      "source": "westword.com",
       "n": 1,
-      "avg_tone": 2.015
+      "avg_tone": 1.333
     },
     {
-      "source": "mesabitribune.com",
+      "source": "kpq.com",
       "n": 1,
-      "avg_tone": 1.585
+      "avg_tone": 1.479
     },
     {
-      "source": "aol.com",
+      "source": "iheart.com",
       "n": 1,
-      "avg_tone": -0.763
+      "avg_tone": -5.628
     },
     {
-      "source": "jamaicaobserver.com",
+      "source": "floridastatesman.com",
       "n": 1,
-      "avg_tone": 0.464
+      "avg_tone": 2.083
     },
     {
-      "source": "thehardtackle.com",
+      "source": "fox13news.com",
       "n": 1,
-      "avg_tone": -1.307
+      "avg_tone": 1.173
     },
     {
-      "source": "sierraleonetimes.com",
+      "source": "kawowo.com",
       "n": 1,
-      "avg_tone": 1.548
+      "avg_tone": 1.194
     },
     {
-      "source": "gringogazette.com",
+      "source": "targetednews.com",
       "n": 1,
-      "avg_tone": 5.461
+      "avg_tone": 1.064
     },
     {
-      "source": "tvguide.co.uk",
+      "source": "namibian.com.na",
       "n": 1,
-      "avg_tone": 1.899
-    },
-    {
-      "source": "southernminn.com",
-      "n": 1,
-      "avg_tone": 1.628
+      "avg_tone": 1.693
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_DISEASE_CYCLOSPORA",
-      "n": 52
+      "theme": "WB_137_WATER",
+      "n": 165
     },
     {
-      "theme": "TAX_FNCACT_COOK",
-      "n": 45
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 111
+    },
+    {
+      "theme": "TAX_DISEASE_CYCLOSPORA",
+      "n": 104
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 82
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 81
+    },
+    {
+      "theme": "ECON_TAXATION",
+      "n": 68
+    },
+    {
+      "theme": "EPU_POLICY_TAX",
+      "n": 68
+    },
+    {
+      "theme": "EPU_CATS_TAXES",
+      "n": 68
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 63
+    },
+    {
+      "theme": "AFFECT",
+      "n": 53
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 25
+      "n": 51
     },
     {
       "theme": "MEDICAL",
-      "n": 25
+      "n": 50
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 50
     },
     {
       "theme": "TAX_DISEASE_CYCLOSPORIASIS",
-      "n": 24
+      "n": 48
     },
     {
-      "theme": "WB_137_WATER",
-      "n": 22
-    },
-    {
-      "theme": "TAX_FOODSTAPLES_CORN",
-      "n": 21
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 20
-    },
-    {
-      "theme": "TAX_FOODSTAPLES_POTATOES",
-      "n": 20
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 17
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 17
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 17
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 17
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 16
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 16
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 48
     }
   ]
 }
