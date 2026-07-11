@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-11T07:08:39.656364+00:00",
-  "rows_total_scanned_last_run": 1898,
-  "rows_mexico_last_run": 58,
-  "overall_avg_tone_4h": -1.065,
+  "generated_at": "2026-07-11T08:58:07.045889+00:00",
+  "rows_total_scanned_last_run": 2615,
+  "rows_mexico_last_run": 39,
+  "overall_avg_tone_4h": -1.049,
   "timeline": [
-    {
-      "time": "2026-07-08T07:15",
-      "avg_tone": -3.713,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-07-08T07:30",
-      "avg_tone": -1.767,
-      "n_articles": 21
-    },
-    {
-      "time": "2026-07-08T07:45",
-      "avg_tone": -2.396,
-      "n_articles": 12
-    },
     {
       "time": "2026-07-08T09:15",
       "avg_tone": 1.654,
@@ -693,68 +678,53 @@
       "time": "2026-07-11T07:00",
       "avg_tone": -0.822,
       "n_articles": 13
+    },
+    {
+      "time": "2026-07-11T08:15",
+      "avg_tone": 1.048,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-07-11T08:30",
+      "avg_tone": -0.394,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-07-11T08:45",
+      "avg_tone": -1.706,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-07-11T09:00",
+      "avg_tone": 2.765,
+      "n_articles": 6
     }
   ],
   "top_sources": [
     {
-      "source": "caribbeanherald.com",
+      "source": "riotimesonline.com",
+      "n": 5,
+      "avg_tone": -2.342
+    },
+    {
+      "source": "the42.ie",
       "n": 3,
-      "avg_tone": -1.913
+      "avg_tone": 1.174
     },
     {
-      "source": "brazilsun.com",
-      "n": 3,
-      "avg_tone": -1.913
-    },
-    {
-      "source": "timesfreepress.com",
-      "n": 3,
-      "avg_tone": 0.909
-    },
-    {
-      "source": "nigeriasun.com",
+      "source": "metro.co.uk",
       "n": 2,
-      "avg_tone": -1.652
+      "avg_tone": -1.023
     },
     {
-      "source": "gazetteandherald.co.uk",
+      "source": "krgv.com",
       "n": 2,
-      "avg_tone": 2.971
+      "avg_tone": -5.747
     },
     {
-      "source": "mexicostar.com",
+      "source": "vanguardngr.com",
       "n": 2,
-      "avg_tone": -4.037
-    },
-    {
-      "source": "sierraleonetimes.com",
-      "n": 2,
-      "avg_tone": -1.652
-    },
-    {
-      "source": "paradisepost.com",
-      "n": 2,
-      "avg_tone": -1.077
-    },
-    {
-      "source": "messenger-inquirer.com",
-      "n": 1,
-      "avg_tone": -5.049
-    },
-    {
-      "source": "phoenixherald.com",
-      "n": 1,
-      "avg_tone": -5.64
-    },
-    {
-      "source": "britainnews.net",
-      "n": 1,
-      "avg_tone": -5.64
-    },
-    {
-      "source": "kenyastar.com",
-      "n": 1,
-      "avg_tone": 2.335
+      "avg_tone": -1.187
     },
     {
       "source": "thewhig.com",
@@ -762,76 +732,111 @@
       "avg_tone": 4.828
     },
     {
-      "source": "asiaone.com",
+      "source": "independent.co.uk",
       "n": 1,
-      "avg_tone": -0.352
+      "avg_tone": 1.087
     },
     {
-      "source": "bangladeshsun.com",
+      "source": "eonline.com",
       "n": 1,
-      "avg_tone": -5.64
+      "avg_tone": 0.091
+    },
+    {
+      "source": "nypost.com",
+      "n": 1,
+      "avg_tone": -0.383
+    },
+    {
+      "source": "northwestsignal.net",
+      "n": 1,
+      "avg_tone": 0.478
+    },
+    {
+      "source": "herald-zeitung.com",
+      "n": 1,
+      "avg_tone": 10.491
+    },
+    {
+      "source": "mercopress.com",
+      "n": 1,
+      "avg_tone": -7.181
+    },
+    {
+      "source": "el-balad.com",
+      "n": 1,
+      "avg_tone": -2.203
+    },
+    {
+      "source": "thenation.com",
+      "n": 1,
+      "avg_tone": -3.641
+    },
+    {
+      "source": "mirror.co.uk",
+      "n": 1,
+      "avg_tone": -0.68
     }
   ],
   "top_themes": [
     {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 72
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 25
     },
     {
-      "theme": "NATURAL_DISASTER_WILDFIRE",
-      "n": 70
+      "theme": "MARITIME",
+      "n": 23
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 49
-    },
-    {
-      "theme": "KILL",
-      "n": 47
-    },
-    {
-      "theme": "CRISISLEX_T03_DEAD",
-      "n": 47
-    },
-    {
-      "theme": "AFFECT",
-      "n": 44
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 42
-    },
-    {
-      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
-      "n": 42
-    },
-    {
-      "theme": "WB_590_ECOSYSTEMS",
-      "n": 42
-    },
-    {
-      "theme": "WB_1777_FORESTS",
-      "n": 40
-    },
-    {
-      "theme": "DISASTER_FIRE",
-      "n": 40
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 39
-    },
-    {
-      "theme": "LEADER",
-      "n": 36
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 19
     },
     {
       "theme": "NATURAL_DISASTER_ICE",
-      "n": 34
+      "n": 19
+    },
+    {
+      "theme": "LEADER",
+      "n": 18
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 32
+      "n": 18
+    },
+    {
+      "theme": "TAX_MILITARY_TITLE_OFFICERS",
+      "n": 18
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICERS",
+      "n": 18
+    },
+    {
+      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
+      "n": 17
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 16
+    },
+    {
+      "theme": "GEN_HOLIDAY",
+      "n": 14
+    },
+    {
+      "theme": "SECURITY_SERVICES",
+      "n": 14
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 14
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 13
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 13
     }
   ]
 }
