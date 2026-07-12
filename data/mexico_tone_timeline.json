@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-07-12T22:29:33.228870+00:00",
-  "rows_total_scanned_last_run": 2413,
-  "rows_mexico_last_run": 70,
-  "overall_avg_tone_4h": -0.024,
+  "generated_at": "2026-07-12T23:27:34.439935+00:00",
+  "rows_total_scanned_last_run": 2464,
+  "rows_mexico_last_run": 54,
+  "overall_avg_tone_4h": 0.428,
   "timeline": [
-    {
-      "time": "2026-07-09T23:00",
-      "avg_tone": -0.732,
-      "n_articles": 22
-    },
-    {
-      "time": "2026-07-09T23:15",
-      "avg_tone": -1.391,
-      "n_articles": 29
-    },
     {
       "time": "2026-07-09T23:30",
       "avg_tone": -2.265,
@@ -888,145 +878,165 @@
       "time": "2026-07-12T22:30",
       "avg_tone": 2.171,
       "n_articles": 17
+    },
+    {
+      "time": "2026-07-12T22:45",
+      "avg_tone": 1.226,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-07-12T23:00",
+      "avg_tone": 0.773,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-07-12T23:15",
+      "avg_tone": 1.106,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-07-12T23:30",
+      "avg_tone": 1.362,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -4.164
+      "source": "cubaheadlines.com",
+      "n": 3,
+      "avg_tone": -1.248
     },
     {
-      "source": "el-balad.com",
+      "source": "hellenicshippingnews.com",
       "n": 2,
-      "avg_tone": 0.572
+      "avg_tone": -0.894
     },
     {
-      "source": "trussvilletribune.com",
+      "source": "newsweek.com",
       "n": 2,
-      "avg_tone": 3.733
+      "avg_tone": -5.286
     },
     {
-      "source": "oxfordmail.co.uk",
+      "source": "tpr.org",
+      "n": 2,
+      "avg_tone": -1.226
+    },
+    {
+      "source": "thisisoxfordshire.co.uk",
       "n": 2,
       "avg_tone": 3.523
     },
     {
-      "source": "newburytoday.co.uk",
-      "n": 1,
-      "avg_tone": 3.614
-    },
-    {
-      "source": "peeblesshirenews.com",
+      "source": "chesterstandard.co.uk",
       "n": 1,
       "avg_tone": 3.846
     },
     {
-      "source": "thebiglead.com",
-      "n": 1,
-      "avg_tone": 1.655
-    },
-    {
-      "source": "leaderlive.co.uk",
+      "source": "newsshopper.co.uk",
       "n": 1,
       "avg_tone": 3.846
     },
     {
-      "source": "collider.com",
+      "source": "thedigitalcourier.com",
       "n": 1,
-      "avg_tone": 1.545
+      "avg_tone": 1.752
     },
     {
-      "source": "timesandstar.co.uk",
+      "source": "bromsgroveadvertiser.co.uk",
       "n": 1,
       "avg_tone": 3.846
     },
     {
-      "source": "krvs.org",
+      "source": "daytondailynews.com",
       "n": 1,
-      "avg_tone": -4.819
+      "avg_tone": 1.887
     },
     {
-      "source": "ledburyreporter.co.uk",
+      "source": "irvinetimes.com",
       "n": 1,
       "avg_tone": 3.846
     },
     {
-      "source": "watfordobserver.co.uk",
+      "source": "dumbartonreporter.co.uk",
       "n": 1,
       "avg_tone": 3.846
+    },
+    {
+      "source": "abqjournal.com",
+      "n": 1,
+      "avg_tone": 0.367
+    },
+    {
+      "source": "yahoo.com",
+      "n": 1,
+      "avg_tone": -1.869
     },
     {
       "source": "dailygazette.com",
       "n": 1,
       "avg_tone": 1.214
-    },
-    {
-      "source": "theargus.co.uk",
-      "n": 1,
-      "avg_tone": 3.846
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_DISEASE_CYCLOSPORIASIS",
-      "n": 131
-    },
-    {
-      "theme": "TAX_WORLDFISH_TROUT",
-      "n": 87
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 77
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 47
-    },
-    {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 42
+      "n": 34
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 39
+      "n": 31
     },
     {
       "theme": "NATURAL_DISASTER_ICE",
-      "n": 39
+      "n": 26
     },
     {
-      "theme": "AFFECT",
-      "n": 38
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 37
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 25
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 33
+      "n": 20
+    },
+    {
+      "theme": "TOURISM",
+      "n": 18
+    },
+    {
+      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "n": 18
+    },
+    {
+      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
+      "n": 18
+    },
+    {
+      "theme": "WB_825_TOURISM",
+      "n": 17
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 17
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 16
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 16
     },
     {
       "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 32
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 32
-    },
-    {
-      "theme": "SICKENED",
-      "n": 30
+      "n": 16
     },
     {
       "theme": "WB_2837_IMMIGRATION",
-      "n": 30
+      "n": 16
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 30
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 16
     }
   ]
 }
