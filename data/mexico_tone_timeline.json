@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-07-12T20:36:01.534106+00:00",
-  "rows_total_scanned_last_run": 2737,
-  "rows_mexico_last_run": 93,
-  "overall_avg_tone_4h": -0.509,
+  "generated_at": "2026-07-12T21:31:49.147826+00:00",
+  "rows_total_scanned_last_run": 2509,
+  "rows_mexico_last_run": 86,
+  "overall_avg_tone_4h": -0.348,
   "timeline": [
-    {
-      "time": "2026-07-09T20:45",
-      "avg_tone": -0.232,
-      "n_articles": 35
-    },
-    {
-      "time": "2026-07-09T21:30",
-      "avg_tone": -1.662,
-      "n_articles": 23
-    },
     {
       "time": "2026-07-09T21:45",
       "avg_tone": -0.85,
@@ -878,18 +868,33 @@
       "time": "2026-07-12T20:45",
       "avg_tone": 0.354,
       "n_articles": 24
+    },
+    {
+      "time": "2026-07-12T21:00",
+      "avg_tone": -0.298,
+      "n_articles": 24
+    },
+    {
+      "time": "2026-07-12T21:15",
+      "avg_tone": -0.636,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-07-12T21:30",
+      "avg_tone": 0.564,
+      "n_articles": 24
     }
   ],
   "top_sources": [
     {
-      "source": "caughtoffside.com",
-      "n": 4,
-      "avg_tone": 1.07
+      "source": "el-balad.com",
+      "n": 2,
+      "avg_tone": 1.104
     },
     {
-      "source": "navajotimes.com",
-      "n": 3,
-      "avg_tone": -0.297
+      "source": "dailypolitical.com",
+      "n": 2,
+      "avg_tone": 2.342
     },
     {
       "source": "ft.lk",
@@ -902,81 +907,81 @@
       "avg_tone": 1.966
     },
     {
-      "source": "aawsat.com",
-      "n": 2,
-      "avg_tone": -1.083
-    },
-    {
-      "source": "kjzz.org",
-      "n": 2,
-      "avg_tone": -1.536
-    },
-    {
-      "source": "capeandislands.org",
+      "source": "kmxt.org",
       "n": 1,
       "avg_tone": -4.819
     },
     {
-      "source": "walkermn.com",
-      "n": 1,
-      "avg_tone": 1.663
-    },
-    {
-      "source": "upr.org",
+      "source": "knau.org",
       "n": 1,
       "avg_tone": -4.819
     },
     {
-      "source": "bordertelegraph.com",
-      "n": 1,
-      "avg_tone": 4.62
-    },
-    {
-      "source": "kwbu.org",
+      "source": "kalw.org",
       "n": 1,
       "avg_tone": -4.819
     },
     {
-      "source": "messengernewspapers.co.uk",
+      "source": "barryanddistrictnews.co.uk",
       "n": 1,
-      "avg_tone": 4.62
+      "avg_tone": 3.846
     },
     {
-      "source": "rhyljournal.co.uk",
+      "source": "businesstimes.com.sg",
       "n": 1,
-      "avg_tone": 4.62
+      "avg_tone": 0.673
     },
     {
-      "source": "kyuk.org",
+      "source": "lansingcitypulse.com",
       "n": 1,
-      "avg_tone": -4.819
+      "avg_tone": 0.957
     },
     {
-      "source": "thenorthernecho.co.uk",
+      "source": "warringtonguardian.co.uk",
       "n": 1,
-      "avg_tone": 4.62
+      "avg_tone": 3.846
+    },
+    {
+      "source": "eppingforestguardian.co.uk",
+      "n": 1,
+      "avg_tone": 3.846
+    },
+    {
+      "source": "falmouthpacket.co.uk",
+      "n": 1,
+      "avg_tone": 3.846
+    },
+    {
+      "source": "gazette-news.co.uk",
+      "n": 1,
+      "avg_tone": 3.846
+    },
+    {
+      "source": "redditchadvertiser.co.uk",
+      "n": 1,
+      "avg_tone": 3.846
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_DISEASE_CYCLOSPORIASIS",
-      "n": 338
+      "n": 340
     },
     {
       "theme": "MEDICAL",
-      "n": 183
+      "n": 186
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 106
-    },
-    {
-      "theme": "AFFECT",
-      "n": 81
+      "n": 108
     },
     {
       "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 80
+      "n": 83
+    },
+    {
+      "theme": "AFFECT",
+      "n": 82
     },
     {
       "theme": "SICKENED",
@@ -984,39 +989,39 @@
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 64
+      "n": 65
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 56
+      "n": 58
     },
     {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 55
+      "theme": "WB_1406_DISEASES",
+      "n": 57
     },
     {
       "theme": "WB_137_WATER",
-      "n": 54
+      "n": 55
     },
     {
       "theme": "TAX_FNCACT_AUTHORITIES",
-      "n": 53
+      "n": 55
     },
     {
       "theme": "EPU_POLICY_AUTHORITIES",
-      "n": 53
+      "n": 55
     },
     {
-      "theme": "TAX_DISEASE_CYCLOSPORA",
-      "n": 52
+      "theme": "TAX_DISEASE_DISEASE",
+      "n": 54
     },
     {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 52
+      "theme": "UNGP_HEALTHCARE",
+      "n": 54
     },
     {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 52
+      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
+      "n": 54
     }
   ]
 }
