@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-12T04:36:03.713248+00:00",
-  "rows_total_scanned_last_run": 1981,
-  "rows_mexico_last_run": 69,
-  "overall_avg_tone_4h": -0.11,
+  "generated_at": "2026-07-12T07:14:12.952895+00:00",
+  "rows_total_scanned_last_run": 926,
+  "rows_mexico_last_run": 8,
+  "overall_avg_tone_4h": -0.161,
   "timeline": [
-    {
-      "time": "2026-07-09T04:45",
-      "avg_tone": 0.385,
-      "n_articles": 19
-    },
-    {
-      "time": "2026-07-09T05:00",
-      "avg_tone": 0.184,
-      "n_articles": 25
-    },
-    {
-      "time": "2026-07-09T05:15",
-      "avg_tone": 0.008,
-      "n_articles": 28
-    },
-    {
-      "time": "2026-07-09T05:30",
-      "avg_tone": 0.124,
-      "n_articles": 17
-    },
     {
       "time": "2026-07-09T08:15",
       "avg_tone": 0.097,
@@ -773,145 +753,115 @@
       "time": "2026-07-12T04:45",
       "avg_tone": 0.651,
       "n_articles": 19
+    },
+    {
+      "time": "2026-07-12T06:30",
+      "avg_tone": -2.701,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-07-12T06:45",
+      "avg_tone": 1.111,
+      "n_articles": 4
     }
   ],
   "top_sources": [
     {
-      "source": "santafenewmexican.com",
-      "n": 3,
-      "avg_tone": -2.323
-    },
-    {
-      "source": "el-balad.com",
-      "n": 3,
-      "avg_tone": -1.096
-    },
-    {
-      "source": "thetimes.com",
+      "source": "indiatimes.com",
       "n": 2,
-      "avg_tone": 5.12
+      "avg_tone": 2.822
     },
     {
-      "source": "fox35orlando.com",
-      "n": 2,
-      "avg_tone": -1.997
-    },
-    {
-      "source": "fox5dc.com",
-      "n": 2,
-      "avg_tone": -1.997
-    },
-    {
-      "source": "moneycontrol.com",
+      "source": "bangordailynews.com",
       "n": 1,
-      "avg_tone": -10.407
+      "avg_tone": 1.56
     },
     {
-      "source": "malverngazette.co.uk",
-      "n": 1,
-      "avg_tone": 3.737
-    },
-    {
-      "source": "sentinelandenterprise.com",
-      "n": 1,
-      "avg_tone": -1.001
-    },
-    {
-      "source": "wgcu.org",
+      "source": "nhpr.org",
       "n": 1,
       "avg_tone": -0.317
     },
     {
-      "source": "cityam.com",
+      "source": "theshillongtimes.com",
       "n": 1,
-      "avg_tone": 0.528
+      "avg_tone": -1.562
     },
     {
-      "source": "yorkpress.co.uk",
+      "source": "winknews.com",
       "n": 1,
-      "avg_tone": 3.737
+      "avg_tone": -3.573
     },
     {
-      "source": "nbcbayarea.com",
+      "source": "idahostatejournal.com",
       "n": 1,
-      "avg_tone": 0.199
+      "avg_tone": -3.573
     },
     {
-      "source": "nwaonline.com",
+      "source": "yahoo.com",
       "n": 1,
-      "avg_tone": -7.576
-    },
-    {
-      "source": "wharfedaleobserver.co.uk",
-      "n": 1,
-      "avg_tone": 3.737
-    },
-    {
-      "source": "ghanamma.com",
-      "n": 1,
-      "avg_tone": -0.943
+      "avg_tone": -4.539
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 50
+      "theme": "TAX_FNCACT_STUDENTS",
+      "n": 16
     },
     {
-      "theme": "WB_1406_DISEASES",
-      "n": 38
+      "theme": "WB_470_EDUCATION",
+      "n": 8
     },
     {
-      "theme": "MEDICAL",
-      "n": 32
+      "theme": "EDUCATION",
+      "n": 8
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 31
+      "theme": "TAX_WORLDCRUSTACEANS_SHRIMP",
+      "n": 8
     },
     {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 31
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 7
     },
     {
-      "theme": "GEN_HOLIDAY",
-      "n": 25
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 24
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 24
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 24
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 24
-    },
-    {
-      "theme": "LEGISLATION",
-      "n": 23
-    },
-    {
-      "theme": "EPU_POLICY_LAW",
-      "n": 23
+      "theme": "WB_2670_JOBS",
+      "n": 5
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 23
+      "n": 5
     },
     {
-      "theme": "LEADER",
-      "n": 22
+      "theme": "WB_482_TERTIARY_EDUCATION",
+      "n": 5
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 20
+      "theme": "WB_478_LEVELS_OF_EDUCATION",
+      "n": 5
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 5
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 4
+    },
+    {
+      "theme": "TAX_ETHNICITY_ACADIAN",
+      "n": 4
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_ACADIAN",
+      "n": 4
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 4
+    },
+    {
+      "theme": "TAX_FNCACT_SPOKESPERSON",
+      "n": 4
     }
   ]
 }
