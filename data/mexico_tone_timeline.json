@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-12T07:14:12.952895+00:00",
-  "rows_total_scanned_last_run": 926,
-  "rows_mexico_last_run": 8,
-  "overall_avg_tone_4h": -0.161,
+  "generated_at": "2026-07-12T09:16:34.257801+00:00",
+  "rows_total_scanned_last_run": 2310,
+  "rows_mexico_last_run": 51,
+  "overall_avg_tone_4h": -0.384,
   "timeline": [
-    {
-      "time": "2026-07-09T08:15",
-      "avg_tone": 0.097,
-      "n_articles": 21
-    },
-    {
-      "time": "2026-07-09T08:30",
-      "avg_tone": -0.332,
-      "n_articles": 28
-    },
-    {
-      "time": "2026-07-09T08:45",
-      "avg_tone": -0.467,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-07-09T09:00",
-      "avg_tone": -1.43,
-      "n_articles": 17
-    },
     {
       "time": "2026-07-09T11:00",
       "avg_tone": -0.293,
@@ -763,105 +743,165 @@
       "time": "2026-07-12T06:45",
       "avg_tone": 1.111,
       "n_articles": 4
+    },
+    {
+      "time": "2026-07-12T08:30",
+      "avg_tone": -1.574,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-07-12T08:45",
+      "avg_tone": 0.132,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-07-12T09:00",
+      "avg_tone": -0.57,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-07-12T09:15",
+      "avg_tone": -1.634,
+      "n_articles": 17
     }
   ],
   "top_sources": [
     {
+      "source": "santafenewmexican.com",
+      "n": 2,
+      "avg_tone": -0.613
+    },
+    {
+      "source": "cubaheadlines.com",
+      "n": 2,
+      "avg_tone": 2.295
+    },
+    {
       "source": "indiatimes.com",
       "n": 2,
-      "avg_tone": 2.822
+      "avg_tone": 0.508
     },
     {
-      "source": "bangordailynews.com",
+      "source": "braintreeandwithamtimes.co.uk",
       "n": 1,
-      "avg_tone": 1.56
+      "avg_tone": -1.695
     },
     {
-      "source": "nhpr.org",
+      "source": "harrowtimes.co.uk",
       "n": 1,
-      "avg_tone": -0.317
+      "avg_tone": -1.695
     },
     {
-      "source": "theshillongtimes.com",
+      "source": "malverngazette.co.uk",
       "n": 1,
-      "avg_tone": -1.562
+      "avg_tone": -1.695
     },
     {
-      "source": "winknews.com",
+      "source": "leaderlive.co.uk",
       "n": 1,
-      "avg_tone": -3.573
+      "avg_tone": -1.695
     },
     {
-      "source": "idahostatejournal.com",
+      "source": "nytimes.com",
       "n": 1,
-      "avg_tone": -3.573
+      "avg_tone": -1.414
     },
     {
-      "source": "yahoo.com",
+      "source": "thelocal.no",
       "n": 1,
-      "avg_tone": -4.539
+      "avg_tone": -3.111
+    },
+    {
+      "source": "stourbridgenews.co.uk",
+      "n": 1,
+      "avg_tone": -1.695
+    },
+    {
+      "source": "bromsgroveadvertiser.co.uk",
+      "n": 1,
+      "avg_tone": -1.695
+    },
+    {
+      "source": "wharfedaleobserver.co.uk",
+      "n": 1,
+      "avg_tone": -1.695
+    },
+    {
+      "source": "dudleynews.co.uk",
+      "n": 1,
+      "avg_tone": -1.695
+    },
+    {
+      "source": "gazetteseries.co.uk",
+      "n": 1,
+      "avg_tone": -1.695
+    },
+    {
+      "source": "cravenherald.co.uk",
+      "n": 1,
+      "avg_tone": -1.695
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_STUDENTS",
-      "n": 16
+      "theme": "USPEC_POLICY1",
+      "n": 151
     },
     {
-      "theme": "WB_470_EDUCATION",
-      "n": 8
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 8
-    },
-    {
-      "theme": "TAX_WORLDCRUSTACEANS_SHRIMP",
-      "n": 8
+      "theme": "EPU_ECONOMY",
+      "n": 148
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 7
+      "n": 68
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 5
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 59
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 5
+      "theme": "ARMEDCONFLICT",
+      "n": 58
     },
     {
-      "theme": "WB_482_TERTIARY_EDUCATION",
-      "n": 5
+      "theme": "TAX_FNCACT_STUDENTS",
+      "n": 44
     },
     {
-      "theme": "WB_478_LEVELS_OF_EDUCATION",
-      "n": 5
+      "theme": "TAX_FNCACT_CHIEF",
+      "n": 30
     },
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 5
+      "theme": "TAX_ECON_PRICE",
+      "n": 30
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 4
+      "theme": "TAX_FNCACT_ECONOMIST",
+      "n": 29
     },
     {
-      "theme": "TAX_ETHNICITY_ACADIAN",
-      "n": 4
+      "theme": "TAX_FNCACT_CHANCELLOR",
+      "n": 29
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_ACADIAN",
-      "n": 4
+      "theme": "ECON_HOUSING_PRICES",
+      "n": 29
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 4
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 29
     },
     {
-      "theme": "TAX_FNCACT_SPOKESPERSON",
-      "n": 4
+      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "n": 29
+    },
+    {
+      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
+      "n": 29
+    },
+    {
+      "theme": "WB_1281_MANUFACTURING",
+      "n": 29
     }
   ]
 }
