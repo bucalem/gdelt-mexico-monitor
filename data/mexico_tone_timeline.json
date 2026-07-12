@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-12T11:51:53.111001+00:00",
-  "rows_total_scanned_last_run": 2298,
-  "rows_mexico_last_run": 78,
-  "overall_avg_tone_4h": -0.397,
+  "generated_at": "2026-07-12T12:59:02.070409+00:00",
+  "rows_total_scanned_last_run": 2460,
+  "rows_mexico_last_run": 71,
+  "overall_avg_tone_4h": -0.504,
   "timeline": [
     {
       "time": "2026-07-09T13:45",
@@ -783,145 +783,165 @@
       "time": "2026-07-12T12:00",
       "avg_tone": -0.315,
       "n_articles": 18
+    },
+    {
+      "time": "2026-07-12T12:15",
+      "avg_tone": 0.047,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-07-12T12:30",
+      "avg_tone": -0.261,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-07-12T12:45",
+      "avg_tone": -0.383,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-07-12T13:00",
+      "avg_tone": -1.441,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
-      "source": "boredpanda.com",
+      "source": "indiatimes.com",
+      "n": 3,
+      "avg_tone": 0.544
+    },
+    {
+      "source": "themag.co.uk",
       "n": 2,
+      "avg_tone": 0.705
+    },
+    {
+      "source": "nova.ie",
+      "n": 2,
+      "avg_tone": 1.936
+    },
+    {
+      "source": "riotimesonline.com",
+      "n": 2,
+      "avg_tone": 0.041
+    },
+    {
+      "source": "wyomingpublicmedia.org",
+      "n": 1,
+      "avg_tone": 0.876
+    },
+    {
+      "source": "boredpanda.com",
+      "n": 1,
       "avg_tone": -7.331
     },
     {
-      "source": "vanguardngr.com",
-      "n": 2,
-      "avg_tone": 0.278
-    },
-    {
-      "source": "ibtimes.com.au",
-      "n": 2,
-      "avg_tone": 0.02
-    },
-    {
-      "source": "echo-news.co.uk",
+      "source": "timesandstar.co.uk",
       "n": 1,
       "avg_tone": -1.695
     },
     {
-      "source": "thetelegraphandargus.co.uk",
+      "source": "northcountrypublicradio.org",
+      "n": 1,
+      "avg_tone": 1.023
+    },
+    {
+      "source": "dailyecho.co.uk",
       "n": 1,
       "avg_tone": -1.695
     },
     {
-      "source": "moneyweek.com",
-      "n": 1,
-      "avg_tone": 2.211
-    },
-    {
-      "source": "freerepublic.com",
-      "n": 1,
-      "avg_tone": -3.595
-    },
-    {
-      "source": "koat.com",
-      "n": 1,
-      "avg_tone": -3.063
-    },
-    {
-      "source": "thetottenhamindependent.co.uk",
+      "source": "andoveradvertiser.co.uk",
       "n": 1,
       "avg_tone": -1.695
     },
     {
-      "source": "gazetteandherald.co.uk",
+      "source": "maldonandburnhamstandard.co.uk",
       "n": 1,
       "avg_tone": -1.695
     },
     {
-      "source": "tspr.org",
+      "source": "hillingdontimes.co.uk",
+      "n": 1,
+      "avg_tone": -1.695
+    },
+    {
+      "source": "ualrpublicradio.org",
       "n": 1,
       "avg_tone": 0.876
     },
     {
-      "source": "metro.co.uk",
+      "source": "latimes.com",
       "n": 1,
-      "avg_tone": 2.273
+      "avg_tone": -5.855
     },
     {
-      "source": "glasgowtimes.co.uk",
+      "source": "aol.co.uk",
       "n": 1,
-      "avg_tone": -1.695
-    },
-    {
-      "source": "thenewsherald.com",
-      "n": 1,
-      "avg_tone": 3.156
-    },
-    {
-      "source": "waer.org",
-      "n": 1,
-      "avg_tone": 0.876
+      "avg_tone": -0.334
     }
   ],
   "top_themes": [
     {
       "theme": "USPEC_POLICY1",
-      "n": 166
+      "n": 133
     },
     {
       "theme": "EDUCATION",
-      "n": 164
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 156
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_UNIVERSITIES",
-      "n": 150
+      "n": 123
     },
     {
       "theme": "EPU_ECONOMY",
-      "n": 137
+      "n": 112
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
+      "n": 111
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_UNIVERSITIES",
+      "n": 108
     },
     {
       "theme": "TAX_FNCACT_STUDENTS",
-      "n": 102
+      "n": 73
     },
     {
-      "theme": "TAX_FNCACT_ARTIST",
-      "n": 79
+      "theme": "AGRICULTURE",
+      "n": 66
     },
     {
       "theme": "TAX_FNCACT_QUEENS",
-      "n": 79
+      "n": 55
     },
     {
       "theme": "SOC_POINTSOFINTEREST_SCHOOL",
-      "n": 76
+      "n": 55
+    },
+    {
+      "theme": "TAX_FNCACT_ARTIST",
+      "n": 55
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 59
+      "n": 51
     },
     {
-      "theme": "LEADER",
-      "n": 59
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 44
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 57
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 56
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 56
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 43
     },
     {
       "theme": "ARMEDCONFLICT",
-      "n": 55
+      "n": 43
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 42
     }
   ]
 }
