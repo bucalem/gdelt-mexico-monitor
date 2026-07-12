@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-07-12T14:26:31.549130+00:00",
-  "rows_total_scanned_last_run": 2675,
-  "rows_mexico_last_run": 52,
-  "overall_avg_tone_4h": -0.367,
+  "generated_at": "2026-07-12T15:32:24.570891+00:00",
+  "rows_total_scanned_last_run": 2995,
+  "rows_mexico_last_run": 46,
+  "overall_avg_tone_4h": -0.307,
   "timeline": [
-    {
-      "time": "2026-07-09T14:30",
-      "avg_tone": -0.648,
-      "n_articles": 31
-    },
     {
       "time": "2026-07-09T16:15",
       "avg_tone": 1.219,
@@ -808,145 +803,165 @@
       "time": "2026-07-12T14:30",
       "avg_tone": -0.061,
       "n_articles": 11
+    },
+    {
+      "time": "2026-07-12T14:45",
+      "avg_tone": 0.292,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-07-12T15:00",
+      "avg_tone": 0.597,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-07-12T15:15",
+      "avg_tone": 0.877,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-07-12T15:30",
+      "avg_tone": -0.326,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
-      "source": "abqjournal.com",
-      "n": 5,
-      "avg_tone": -2.676
+      "source": "caribbeanherald.com",
+      "n": 3,
+      "avg_tone": 1.167
     },
     {
-      "source": "bignewsnetwork.com",
+      "source": "hometownregister.com",
       "n": 2,
-      "avg_tone": 0.618
+      "avg_tone": 1.656
     },
     {
-      "source": "fox4news.com",
+      "source": "kcbd.com",
       "n": 2,
-      "avg_tone": -1.997
+      "avg_tone": -2.518
     },
     {
-      "source": "fox7austin.com",
-      "n": 2,
-      "avg_tone": -1.997
-    },
-    {
-      "source": "lasvegassun.com",
-      "n": 2,
-      "avg_tone": -2.903
-    },
-    {
-      "source": "si.com",
+      "source": "unitaid.eu",
       "n": 1,
-      "avg_tone": 1.884
+      "avg_tone": -1.144
     },
     {
-      "source": "wamc.org",
+      "source": "wlwt.com",
       "n": 1,
-      "avg_tone": 0.876
+      "avg_tone": -3.063
     },
     {
-      "source": "nationnews.com",
+      "source": "oxfordmail.co.uk",
       "n": 1,
-      "avg_tone": 2.011
+      "avg_tone": -1.2
     },
     {
-      "source": "theglobeandmail.com",
+      "source": "dailypolitical.com",
       "n": 1,
-      "avg_tone": -2.099
+      "avg_tone": 0.714
     },
     {
-      "source": "stratfordobserver.co.uk",
+      "source": "cairoscene.com",
       "n": 1,
-      "avg_tone": -0.24
+      "avg_tone": 2.597
     },
     {
-      "source": "yahoo.com",
+      "source": "fox13news.com",
       "n": 1,
-      "avg_tone": -5.167
+      "avg_tone": 0.0
     },
     {
-      "source": "wirralglobe.co.uk",
+      "source": "unionleader.com",
       "n": 1,
-      "avg_tone": -1.632
+      "avg_tone": -2.259
     },
     {
-      "source": "newkerala.com",
+      "source": "koco.com",
       "n": 1,
-      "avg_tone": 2.703
+      "avg_tone": -3.063
     },
     {
-      "source": "droitwichstandard.co.uk",
+      "source": "thedailymeal.com",
       "n": 1,
-      "avg_tone": -0.24
+      "avg_tone": 3.738
     },
     {
-      "source": "fortune.com",
+      "source": "webindia123.com",
       "n": 1,
-      "avg_tone": 0.168
+      "avg_tone": -0.815
+    },
+    {
+      "source": "rollingstone.com",
+      "n": 1,
+      "avg_tone": 0.281
+    },
+    {
+      "source": "sierraleonetimes.com",
+      "n": 1,
+      "avg_tone": 2.26
     }
   ],
   "top_themes": [
     {
-      "theme": "EDUCATION",
-      "n": 56
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 95
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 48
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 44
-    },
-    {
-      "theme": "TAX_FNCACT_STUDENTS",
-      "n": 37
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_UNIVERSITIES",
-      "n": 37
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 34
-    },
-    {
-      "theme": "TAX_FNCACT_MAN",
-      "n": 34
-    },
-    {
-      "theme": "LEADER",
-      "n": 32
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 32
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 31
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 31
-    },
-    {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 30
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 94
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 29
+      "n": 53
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 29
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 51
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 28
+      "theme": "WB_470_EDUCATION",
+      "n": 48
+    },
+    {
+      "theme": "WB_1467_EDUCATION_FOR_ALL",
+      "n": 47
+    },
+    {
+      "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
+      "n": 47
+    },
+    {
+      "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
+      "n": 47
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 38
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 37
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 37
+    },
+    {
+      "theme": "CRIME_CARTELS",
+      "n": 35
+    },
+    {
+      "theme": "ORGANIZED_CRIME",
+      "n": 35
+    },
+    {
+      "theme": "EPU_CATS_REGULATION",
+      "n": 35
+    },
+    {
+      "theme": "WB_1743_ANTICARTEL_ENFORCEMENT",
+      "n": 34
     }
   ]
 }
