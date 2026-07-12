@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-07-12T15:32:24.570891+00:00",
-  "rows_total_scanned_last_run": 2995,
-  "rows_mexico_last_run": 46,
-  "overall_avg_tone_4h": -0.307,
+  "generated_at": "2026-07-12T16:33:42.756615+00:00",
+  "rows_total_scanned_last_run": 2593,
+  "rows_mexico_last_run": 43,
+  "overall_avg_tone_4h": 0.036,
   "timeline": [
-    {
-      "time": "2026-07-09T16:15",
-      "avg_tone": 1.219,
-      "n_articles": 30
-    },
-    {
-      "time": "2026-07-09T16:30",
-      "avg_tone": -0.803,
-      "n_articles": 32
-    },
     {
       "time": "2026-07-09T16:45",
       "avg_tone": 1.033,
@@ -823,145 +813,165 @@
       "time": "2026-07-12T15:30",
       "avg_tone": -0.326,
       "n_articles": 13
+    },
+    {
+      "time": "2026-07-12T15:45",
+      "avg_tone": 1.148,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-07-12T16:00",
+      "avg_tone": 0.539,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-07-12T16:15",
+      "avg_tone": 0.57,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-07-12T16:30",
+      "avg_tone": 1.346,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "caribbeanherald.com",
+      "source": "haitisun.com",
       "n": 3,
       "avg_tone": 1.167
     },
     {
-      "source": "hometownregister.com",
+      "source": "heraldglobe.com",
+      "n": 3,
+      "avg_tone": 1.043
+    },
+    {
+      "source": "brazilsun.com",
+      "n": 3,
+      "avg_tone": 1.167
+    },
+    {
+      "source": "ringsidereport.com",
+      "n": 2,
+      "avg_tone": 2.23
+    },
+    {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": 0.418
+    },
+    {
+      "source": "bignewsnetwork.com",
+      "n": 2,
+      "avg_tone": 0.495
+    },
+    {
+      "source": "kenyastar.com",
+      "n": 2,
+      "avg_tone": 0.542
+    },
+    {
+      "source": "grandrapidsmn.com",
       "n": 2,
       "avg_tone": 1.656
     },
     {
-      "source": "kcbd.com",
+      "source": "mesabitribune.com",
       "n": 2,
-      "avg_tone": -2.518
+      "avg_tone": 1.656
     },
     {
-      "source": "unitaid.eu",
+      "source": "freepressjournal.in",
       "n": 1,
-      "avg_tone": -1.144
+      "avg_tone": 2.966
     },
     {
-      "source": "wlwt.com",
+      "source": "aol.co.uk",
       "n": 1,
-      "avg_tone": -3.063
+      "avg_tone": 2.972
     },
     {
-      "source": "oxfordmail.co.uk",
+      "source": "middleeaststar.com",
       "n": 1,
-      "avg_tone": -1.2
+      "avg_tone": -1.176
     },
     {
-      "source": "dailypolitical.com",
+      "source": "independent.co.uk",
       "n": 1,
-      "avg_tone": 0.714
+      "avg_tone": 0.711
     },
     {
-      "source": "cairoscene.com",
+      "source": "rappler.com",
       "n": 1,
-      "avg_tone": 2.597
+      "avg_tone": 2.729
     },
     {
-      "source": "fox13news.com",
+      "source": "europesun.com",
       "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "unionleader.com",
-      "n": 1,
-      "avg_tone": -2.259
-    },
-    {
-      "source": "koco.com",
-      "n": 1,
-      "avg_tone": -3.063
-    },
-    {
-      "source": "thedailymeal.com",
-      "n": 1,
-      "avg_tone": 3.738
-    },
-    {
-      "source": "webindia123.com",
-      "n": 1,
-      "avg_tone": -0.815
-    },
-    {
-      "source": "rollingstone.com",
-      "n": 1,
-      "avg_tone": 0.281
-    },
-    {
-      "source": "sierraleonetimes.com",
-      "n": 1,
-      "avg_tone": 2.26
+      "avg_tone": -1.176
     }
   ],
   "top_themes": [
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 95
+      "theme": "TAX_ECON_PRICE",
+      "n": 31
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 94
+      "theme": "AGRICULTURE",
+      "n": 30
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 53
+      "theme": "TAX_ETHNICITY_BLACK",
+      "n": 27
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_RICE",
+      "n": 25
+    },
+    {
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 24
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 13
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 12
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_OLIVE_OIL",
+      "n": 12
     },
     {
       "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 51
+      "n": 11
     },
     {
-      "theme": "WB_470_EDUCATION",
-      "n": 48
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 11
     },
     {
-      "theme": "WB_1467_EDUCATION_FOR_ALL",
-      "n": 47
+      "theme": "TAX_ETHNICITY_ITALIAN",
+      "n": 11
     },
     {
-      "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
-      "n": 47
+      "theme": "TAX_WORLDLANGUAGES_ITALIAN",
+      "n": 11
     },
     {
-      "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
-      "n": 47
+      "theme": "GENERAL_HEALTH",
+      "n": 10
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 38
+      "theme": "LEADER",
+      "n": 10
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 37
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 37
-    },
-    {
-      "theme": "CRIME_CARTELS",
-      "n": 35
-    },
-    {
-      "theme": "ORGANIZED_CRIME",
-      "n": 35
-    },
-    {
-      "theme": "EPU_CATS_REGULATION",
-      "n": 35
-    },
-    {
-      "theme": "WB_1743_ANTICARTEL_ENFORCEMENT",
-      "n": 34
+      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "n": 9
     }
   ]
 }
