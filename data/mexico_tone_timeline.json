@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-12T10:50:42.629437+00:00",
-  "rows_total_scanned_last_run": 2445,
-  "rows_mexico_last_run": 64,
-  "overall_avg_tone_4h": -0.151,
+  "generated_at": "2026-07-12T11:51:53.111001+00:00",
+  "rows_total_scanned_last_run": 2298,
+  "rows_mexico_last_run": 78,
+  "overall_avg_tone_4h": -0.397,
   "timeline": [
-    {
-      "time": "2026-07-09T11:00",
-      "avg_tone": -0.293,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-07-09T11:15",
-      "avg_tone": 0.354,
-      "n_articles": 45
-    },
-    {
-      "time": "2026-07-09T11:30",
-      "avg_tone": 1.277,
-      "n_articles": 27
-    },
-    {
-      "time": "2026-07-09T11:45",
-      "avg_tone": -0.037,
-      "n_articles": 29
-    },
     {
       "time": "2026-07-09T13:45",
       "avg_tone": 1.098,
@@ -783,145 +763,165 @@
       "time": "2026-07-12T11:00",
       "avg_tone": -0.758,
       "n_articles": 20
+    },
+    {
+      "time": "2026-07-12T11:15",
+      "avg_tone": -0.655,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-07-12T11:30",
+      "avg_tone": -0.777,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-07-12T11:45",
+      "avg_tone": -0.574,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-07-12T12:00",
+      "avg_tone": -0.315,
+      "n_articles": 18
     }
   ],
   "top_sources": [
     {
-      "source": "tradearabia.com",
+      "source": "boredpanda.com",
       "n": 2,
-      "avg_tone": -2.949
+      "avg_tone": -7.331
     },
     {
-      "source": "newyorker.com",
+      "source": "vanguardngr.com",
       "n": 2,
-      "avg_tone": -0.725
+      "avg_tone": 0.278
     },
     {
-      "source": "dailystar.co.uk",
+      "source": "ibtimes.com.au",
       "n": 2,
-      "avg_tone": 4.697
+      "avg_tone": 0.02
     },
     {
-      "source": "upr.org",
+      "source": "echo-news.co.uk",
+      "n": 1,
+      "avg_tone": -1.695
+    },
+    {
+      "source": "thetelegraphandargus.co.uk",
+      "n": 1,
+      "avg_tone": -1.695
+    },
+    {
+      "source": "moneyweek.com",
+      "n": 1,
+      "avg_tone": 2.211
+    },
+    {
+      "source": "freerepublic.com",
+      "n": 1,
+      "avg_tone": -3.595
+    },
+    {
+      "source": "koat.com",
+      "n": 1,
+      "avg_tone": -3.063
+    },
+    {
+      "source": "thetottenhamindependent.co.uk",
+      "n": 1,
+      "avg_tone": -1.695
+    },
+    {
+      "source": "gazetteandherald.co.uk",
+      "n": 1,
+      "avg_tone": -1.695
+    },
+    {
+      "source": "tspr.org",
       "n": 1,
       "avg_tone": 0.876
     },
     {
-      "source": "brentwoodlive.co.uk",
+      "source": "metro.co.uk",
+      "n": 1,
+      "avg_tone": 2.273
+    },
+    {
+      "source": "glasgowtimes.co.uk",
       "n": 1,
       "avg_tone": -1.695
     },
     {
-      "source": "wnyc.org",
+      "source": "thenewsherald.com",
       "n": 1,
-      "avg_tone": 0.86
+      "avg_tone": 3.156
     },
     {
-      "source": "dorsetecho.co.uk",
-      "n": 1,
-      "avg_tone": -1.695
-    },
-    {
-      "source": "eveshamjournal.co.uk",
-      "n": 1,
-      "avg_tone": -1.695
-    },
-    {
-      "source": "ksfr.org",
+      "source": "waer.org",
       "n": 1,
       "avg_tone": 0.876
-    },
-    {
-      "source": "arkansasonline.com",
-      "n": 1,
-      "avg_tone": -0.784
-    },
-    {
-      "source": "leamingtonobserver.co.uk",
-      "n": 1,
-      "avg_tone": -0.24
-    },
-    {
-      "source": "theboltonnews.co.uk",
-      "n": 1,
-      "avg_tone": -1.695
-    },
-    {
-      "source": "kbia.org",
-      "n": 1,
-      "avg_tone": 0.876
-    },
-    {
-      "source": "en.tempo.co",
-      "n": 1,
-      "avg_tone": 2.461
-    },
-    {
-      "source": "dnews.com",
-      "n": 1,
-      "avg_tone": -4.329
     }
   ],
   "top_themes": [
     {
-      "theme": "EDUCATION",
+      "theme": "USPEC_POLICY1",
       "n": 166
     },
     {
+      "theme": "EDUCATION",
+      "n": 164
+    },
+    {
       "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 162
+      "n": 156
     },
     {
       "theme": "SOC_POINTSOFINTEREST_UNIVERSITIES",
-      "n": 162
+      "n": 150
     },
     {
-      "theme": "USPEC_POLICY1",
+      "theme": "EPU_ECONOMY",
       "n": 137
     },
     {
       "theme": "TAX_FNCACT_STUDENTS",
-      "n": 108
-    },
-    {
-      "theme": "EPU_ECONOMY",
-      "n": 104
+      "n": 102
     },
     {
       "theme": "TAX_FNCACT_ARTIST",
-      "n": 82
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
-      "n": 81
+      "n": 79
     },
     {
       "theme": "TAX_FNCACT_QUEENS",
-      "n": 80
+      "n": 79
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
+      "n": 76
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 59
+    },
+    {
+      "theme": "LEADER",
+      "n": 59
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 64
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
       "n": 57
     },
     {
-      "theme": "TAX_FNCACT_PROVOST",
-      "n": 54
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 56
     },
     {
-      "theme": "WB_1675_GRADUATION",
-      "n": 54
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 56
     },
     {
-      "theme": "WB_855_LABOR_MARKETS",
-      "n": 54
-    },
-    {
-      "theme": "WB_1673_PASSIVE_LABOR_MARKETS_POLICIES",
-      "n": 54
+      "theme": "ARMEDCONFLICT",
+      "n": 55
     }
   ]
 }
