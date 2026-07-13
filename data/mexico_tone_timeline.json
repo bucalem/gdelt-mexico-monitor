@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-07-13T01:03:16.218708+00:00",
-  "rows_total_scanned_last_run": 2383,
-  "rows_mexico_last_run": 26,
-  "overall_avg_tone_4h": 0.67,
+  "generated_at": "2026-07-13T04:43:52.335683+00:00",
+  "rows_total_scanned_last_run": 2496,
+  "rows_mexico_last_run": 22,
+  "overall_avg_tone_4h": 0.785,
   "timeline": [
-    {
-      "time": "2026-07-10T01:15",
-      "avg_tone": -1.507,
-      "n_articles": 23
-    },
-    {
-      "time": "2026-07-10T04:30",
-      "avg_tone": -4.104,
-      "n_articles": 27
-    },
     {
       "time": "2026-07-10T04:45",
       "avg_tone": -3.265,
@@ -893,145 +883,165 @@
       "time": "2026-07-13T01:00",
       "avg_tone": 2.25,
       "n_articles": 4
+    },
+    {
+      "time": "2026-07-13T04:00",
+      "avg_tone": -0.419,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-07-13T04:15",
+      "avg_tone": 2.689,
+      "n_articles": 2
+    },
+    {
+      "time": "2026-07-13T04:30",
+      "avg_tone": -1.92,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-07-13T04:45",
+      "avg_tone": -1.153,
+      "n_articles": 7
     }
   ],
   "top_sources": [
     {
-      "source": "chinadaily.com.cn",
+      "source": "mexicostar.com",
       "n": 2,
-      "avg_tone": -0.11
+      "avg_tone": -1.95
     },
     {
-      "source": "islands.com",
-      "n": 1,
-      "avg_tone": 2.892
+      "source": "wsws.org",
+      "n": 2,
+      "avg_tone": -3.359
     },
     {
-      "source": "wataugademocrat.com",
-      "n": 1,
-      "avg_tone": 3.11
+      "source": "venezuelastar.com",
+      "n": 2,
+      "avg_tone": 1.323
     },
     {
-      "source": "dailypolitical.com",
+      "source": "architecturalrecord.com",
       "n": 1,
-      "avg_tone": 3.109
+      "avg_tone": -0.578
     },
     {
-      "source": "dailymail.com",
+      "source": "dailypioneer.com",
       "n": 1,
-      "avg_tone": -0.833
+      "avg_tone": -0.929
     },
     {
-      "source": "afaqs.com",
+      "source": "ironmountaindailynews.com",
       "n": 1,
-      "avg_tone": -0.559
+      "avg_tone": -4.651
     },
     {
-      "source": "el-balad.com",
+      "source": "connexionfrance.com",
       "n": 1,
-      "avg_tone": -1.591
+      "avg_tone": 3.856
     },
     {
-      "source": "burnhamandhighbridgeweeklynews.co.uk",
+      "source": "pentictonherald.ca",
       "n": 1,
-      "avg_tone": 3.846
+      "avg_tone": -1.868
     },
     {
-      "source": "gringogazette.com",
+      "source": "fox5dc.com",
       "n": 1,
-      "avg_tone": -1.498
+      "avg_tone": 0.0
     },
     {
-      "source": "dailygazette.com",
+      "source": "news-medical.net",
       "n": 1,
-      "avg_tone": 1.214
+      "avg_tone": -2.137
     },
     {
-      "source": "eastlothiancourier.com",
+      "source": "e-flux.com",
       "n": 1,
-      "avg_tone": 3.846
+      "avg_tone": 1.288
     },
     {
-      "source": "bloodhorse.com",
+      "source": "kotaradio.com",
       "n": 1,
-      "avg_tone": -2.672
+      "avg_tone": -6.614
     },
     {
-      "source": "bracknellnews.co.uk",
+      "source": "khaama.com",
       "n": 1,
-      "avg_tone": 3.846
+      "avg_tone": -6.707
     },
     {
-      "source": "abc.net.au",
+      "source": "timesleader.com",
       "n": 1,
-      "avg_tone": 0.322
+      "avg_tone": 2.65
     },
     {
-      "source": "theglobeandmail.com",
+      "source": "europesun.com",
       "n": 1,
-      "avg_tone": 0.291
+      "avg_tone": 1.364
     }
   ],
   "top_themes": [
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 57
-    },
-    {
-      "theme": "ENV_MINING",
+      "theme": "TAX_FNCACT_WORKERS",
       "n": 35
     },
     {
-      "theme": "MARITIME_INCIDENT",
-      "n": 23
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 20
     },
     {
-      "theme": "MARITIME",
-      "n": 23
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 16
     },
     {
-      "theme": "WB_2936_GOLD",
-      "n": 14
+      "theme": "LEADER",
+      "n": 15
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 12
+    },
+    {
+      "theme": "TAX_FNCACT_WOMEN",
       "n": 11
     },
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "theme": "GENERAL_HEALTH",
       "n": 10
     },
     {
-      "theme": "WB_895_MINING_SYSTEMS",
+      "theme": "MEDICAL",
+      "n": 10
+    },
+    {
+      "theme": "WB_135_TRANSPORT",
+      "n": 10
+    },
+    {
+      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
+      "n": 10
+    },
+    {
+      "theme": "SECURITY_SERVICES",
+      "n": 10
+    },
+    {
+      "theme": "EDUCATION",
       "n": 9
     },
     {
-      "theme": "WB_1699_METAL_ORE_MINING",
+      "theme": "KILL",
       "n": 9
     },
     {
-      "theme": "WB_698_TRADE",
+      "theme": "WB_168_ROADS_AND_HIGHWAYS",
       "n": 9
     },
     {
-      "theme": "ENV_METALS",
-      "n": 8
-    },
-    {
-      "theme": "WB_2937_SILVER",
-      "n": 8
-    },
-    {
-      "theme": "BORDER",
-      "n": 7
-    },
-    {
-      "theme": "TAX_FNCACT_AUTHOR",
-      "n": 6
-    },
-    {
-      "theme": "WB_2934_COPPER",
-      "n": 6
+      "theme": "WB_1809_HIGHWAYS",
+      "n": 9
     }
   ]
 }
