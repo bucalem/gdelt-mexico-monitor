@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-13T04:43:52.335683+00:00",
-  "rows_total_scanned_last_run": 2496,
-  "rows_mexico_last_run": 22,
-  "overall_avg_tone_4h": 0.785,
+  "generated_at": "2026-07-13T07:54:29.176701+00:00",
+  "rows_total_scanned_last_run": 3441,
+  "rows_mexico_last_run": 21,
+  "overall_avg_tone_4h": 0.693,
   "timeline": [
-    {
-      "time": "2026-07-10T04:45",
-      "avg_tone": -3.265,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-07-10T05:00",
-      "avg_tone": -1.474,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-07-10T05:15",
-      "avg_tone": -2.673,
-      "n_articles": 23
-    },
     {
       "time": "2026-07-10T08:00",
       "avg_tone": -4.016,
@@ -903,145 +888,165 @@
       "time": "2026-07-13T04:45",
       "avg_tone": -1.153,
       "n_articles": 7
+    },
+    {
+      "time": "2026-07-13T07:15",
+      "avg_tone": 1.07,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-07-13T07:30",
+      "avg_tone": -1.651,
+      "n_articles": 1
+    },
+    {
+      "time": "2026-07-13T07:45",
+      "avg_tone": 0.627,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-07-13T08:00",
+      "avg_tone": -0.894,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
-      "source": "mexicostar.com",
+      "source": "bignewsnetwork.com",
       "n": 2,
-      "avg_tone": -1.95
+      "avg_tone": 0.897
     },
     {
-      "source": "wsws.org",
+      "source": "heraldglobe.com",
       "n": 2,
-      "avg_tone": -3.359
+      "avg_tone": 0.899
     },
     {
-      "source": "venezuelastar.com",
-      "n": 2,
-      "avg_tone": 1.323
-    },
-    {
-      "source": "architecturalrecord.com",
+      "source": "asiabulletin.com",
       "n": 1,
-      "avg_tone": -0.578
+      "avg_tone": -1.651
     },
     {
-      "source": "dailypioneer.com",
+      "source": "nepalnational.com",
       "n": 1,
-      "avg_tone": -0.929
+      "avg_tone": -1.651
     },
     {
-      "source": "ironmountaindailynews.com",
+      "source": "krdo.com",
       "n": 1,
-      "avg_tone": -4.651
+      "avg_tone": -2.963
     },
     {
-      "source": "connexionfrance.com",
+      "source": "vietnamtribune.com",
       "n": 1,
-      "avg_tone": 3.856
+      "avg_tone": -1.651
     },
     {
-      "source": "pentictonherald.ca",
+      "source": "austinglobe.com",
       "n": 1,
-      "avg_tone": -1.868
+      "avg_tone": 3.448
     },
     {
-      "source": "fox5dc.com",
+      "source": "rte.ie",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": 1.327
     },
     {
-      "source": "news-medical.net",
+      "source": "aginfo.net",
       "n": 1,
-      "avg_tone": -2.137
+      "avg_tone": 1.639
     },
     {
-      "source": "e-flux.com",
+      "source": "livemint.com",
       "n": 1,
-      "avg_tone": 1.288
+      "avg_tone": 1.127
     },
     {
-      "source": "kotaradio.com",
+      "source": "metro.co.uk",
       "n": 1,
-      "avg_tone": -6.614
+      "avg_tone": 0.154
     },
     {
-      "source": "khaama.com",
+      "source": "californiatelegraph.com",
       "n": 1,
-      "avg_tone": -6.707
+      "avg_tone": -1.651
     },
     {
-      "source": "timesleader.com",
+      "source": "greekherald.com",
       "n": 1,
-      "avg_tone": 2.65
+      "avg_tone": -1.651
     },
     {
-      "source": "europesun.com",
+      "source": "educationtimes.com",
       "n": 1,
-      "avg_tone": 1.364
+      "avg_tone": 1.928
+    },
+    {
+      "source": "kmbc.com",
+      "n": 1,
+      "avg_tone": 3.215
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_WORKERS",
-      "n": 35
+      "theme": "USPEC_POLICY1",
+      "n": 23
     },
     {
       "theme": "NATURAL_DISASTER_ICE",
-      "n": 20
+      "n": 22
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 16
+      "theme": "EPU_POLICY_SPENDING",
+      "n": 22
     },
     {
-      "theme": "LEADER",
-      "n": 15
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
+      "theme": "TAX_FNCACT_AGENTS",
       "n": 12
     },
     {
-      "theme": "TAX_FNCACT_WOMEN",
-      "n": 11
-    },
-    {
-      "theme": "GENERAL_HEALTH",
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 10
     },
     {
-      "theme": "MEDICAL",
+      "theme": "TAX_FNCACT_STUDENTS",
       "n": 10
     },
     {
-      "theme": "WB_135_TRANSPORT",
-      "n": 10
-    },
-    {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 10
-    },
-    {
-      "theme": "SECURITY_SERVICES",
-      "n": 10
-    },
-    {
-      "theme": "EDUCATION",
+      "theme": "TAX_FNCACT_FATHER",
       "n": 9
     },
     {
-      "theme": "KILL",
-      "n": 9
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 8
     },
     {
-      "theme": "WB_168_ROADS_AND_HIGHWAYS",
-      "n": 9
+      "theme": "WB_2024_ANTI_CORRUPTION_AUTHORITIES",
+      "n": 8
     },
     {
-      "theme": "WB_1809_HIGHWAYS",
-      "n": 9
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 8
+    },
+    {
+      "theme": "WB_831_GOVERNANCE",
+      "n": 8
+    },
+    {
+      "theme": "WB_832_ANTI_CORRUPTION",
+      "n": 8
+    },
+    {
+      "theme": "TRIAL",
+      "n": 8
+    },
+    {
+      "theme": "TAX_FNCACT_ATTORNEY",
+      "n": 8
+    },
+    {
+      "theme": "TAX_FNCACT_AGENT",
+      "n": 7
     }
   ]
 }
