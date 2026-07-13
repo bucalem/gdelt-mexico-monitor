@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-07-12T23:27:34.439935+00:00",
-  "rows_total_scanned_last_run": 2464,
-  "rows_mexico_last_run": 54,
-  "overall_avg_tone_4h": 0.428,
+  "generated_at": "2026-07-13T01:03:16.218708+00:00",
+  "rows_total_scanned_last_run": 2383,
+  "rows_mexico_last_run": 26,
+  "overall_avg_tone_4h": 0.67,
   "timeline": [
-    {
-      "time": "2026-07-09T23:30",
-      "avg_tone": -2.265,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-07-09T23:45",
-      "avg_tone": -1.912,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-07-10T00:30",
-      "avg_tone": -0.86,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-07-10T00:45",
-      "avg_tone": -1.451,
-      "n_articles": 30
-    },
-    {
-      "time": "2026-07-10T01:00",
-      "avg_tone": -1.1,
-      "n_articles": 24
-    },
     {
       "time": "2026-07-10T01:15",
       "avg_tone": -1.507,
@@ -898,145 +873,165 @@
       "time": "2026-07-12T23:30",
       "avg_tone": 1.362,
       "n_articles": 13
+    },
+    {
+      "time": "2026-07-13T00:15",
+      "avg_tone": 3.846,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-07-13T00:30",
+      "avg_tone": 0.042,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-07-13T00:45",
+      "avg_tone": 0.592,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-07-13T01:00",
+      "avg_tone": 2.25,
+      "n_articles": 4
     }
   ],
   "top_sources": [
     {
-      "source": "cubaheadlines.com",
-      "n": 3,
-      "avg_tone": -1.248
-    },
-    {
-      "source": "hellenicshippingnews.com",
+      "source": "chinadaily.com.cn",
       "n": 2,
-      "avg_tone": -0.894
+      "avg_tone": -0.11
     },
     {
-      "source": "newsweek.com",
-      "n": 2,
-      "avg_tone": -5.286
+      "source": "islands.com",
+      "n": 1,
+      "avg_tone": 2.892
     },
     {
-      "source": "tpr.org",
-      "n": 2,
-      "avg_tone": -1.226
+      "source": "wataugademocrat.com",
+      "n": 1,
+      "avg_tone": 3.11
     },
     {
-      "source": "thisisoxfordshire.co.uk",
-      "n": 2,
-      "avg_tone": 3.523
+      "source": "dailypolitical.com",
+      "n": 1,
+      "avg_tone": 3.109
     },
     {
-      "source": "chesterstandard.co.uk",
+      "source": "dailymail.com",
+      "n": 1,
+      "avg_tone": -0.833
+    },
+    {
+      "source": "afaqs.com",
+      "n": 1,
+      "avg_tone": -0.559
+    },
+    {
+      "source": "el-balad.com",
+      "n": 1,
+      "avg_tone": -1.591
+    },
+    {
+      "source": "burnhamandhighbridgeweeklynews.co.uk",
       "n": 1,
       "avg_tone": 3.846
     },
     {
-      "source": "newsshopper.co.uk",
+      "source": "gringogazette.com",
       "n": 1,
-      "avg_tone": 3.846
-    },
-    {
-      "source": "thedigitalcourier.com",
-      "n": 1,
-      "avg_tone": 1.752
-    },
-    {
-      "source": "bromsgroveadvertiser.co.uk",
-      "n": 1,
-      "avg_tone": 3.846
-    },
-    {
-      "source": "daytondailynews.com",
-      "n": 1,
-      "avg_tone": 1.887
-    },
-    {
-      "source": "irvinetimes.com",
-      "n": 1,
-      "avg_tone": 3.846
-    },
-    {
-      "source": "dumbartonreporter.co.uk",
-      "n": 1,
-      "avg_tone": 3.846
-    },
-    {
-      "source": "abqjournal.com",
-      "n": 1,
-      "avg_tone": 0.367
-    },
-    {
-      "source": "yahoo.com",
-      "n": 1,
-      "avg_tone": -1.869
+      "avg_tone": -1.498
     },
     {
       "source": "dailygazette.com",
       "n": 1,
       "avg_tone": 1.214
+    },
+    {
+      "source": "eastlothiancourier.com",
+      "n": 1,
+      "avg_tone": 3.846
+    },
+    {
+      "source": "bloodhorse.com",
+      "n": 1,
+      "avg_tone": -2.672
+    },
+    {
+      "source": "bracknellnews.co.uk",
+      "n": 1,
+      "avg_tone": 3.846
+    },
+    {
+      "source": "abc.net.au",
+      "n": 1,
+      "avg_tone": 0.322
+    },
+    {
+      "source": "theglobeandmail.com",
+      "n": 1,
+      "avg_tone": 0.291
     }
   ],
   "top_themes": [
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 34
+      "n": 57
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 31
+      "theme": "ENV_MINING",
+      "n": 35
     },
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 26
+      "theme": "MARITIME_INCIDENT",
+      "n": 23
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 25
+      "theme": "MARITIME",
+      "n": 23
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 20
+      "theme": "WB_2936_GOLD",
+      "n": 14
     },
     {
-      "theme": "TOURISM",
-      "n": 18
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 11
     },
     {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 18
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 10
     },
     {
-      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 18
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 9
     },
     {
-      "theme": "WB_825_TOURISM",
-      "n": 17
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 9
     },
     {
-      "theme": "EDUCATION",
-      "n": 17
+      "theme": "WB_698_TRADE",
+      "n": 9
     },
     {
-      "theme": "MEDICAL",
-      "n": 16
+      "theme": "ENV_METALS",
+      "n": 8
     },
     {
-      "theme": "IMMIGRATION",
-      "n": 16
+      "theme": "WB_2937_SILVER",
+      "n": 8
     },
     {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 16
+      "theme": "BORDER",
+      "n": 7
     },
     {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 16
+      "theme": "TAX_FNCACT_AUTHOR",
+      "n": 6
     },
     {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 16
+      "theme": "WB_2934_COPPER",
+      "n": 6
     }
   ]
 }
