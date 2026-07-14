@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-14T17:46:10.710152+00:00",
-  "rows_total_scanned_last_run": 6789,
-  "rows_mexico_last_run": 177,
-  "overall_avg_tone_4h": 0.376,
+  "generated_at": "2026-07-14T19:04:26.523085+00:00",
+  "rows_total_scanned_last_run": 6856,
+  "rows_mexico_last_run": 179,
+  "overall_avg_tone_4h": 0.048,
   "timeline": [
-    {
-      "time": "2026-07-11T18:00",
-      "avg_tone": 0.145,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-07-11T18:15",
-      "avg_tone": -0.876,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-07-11T18:30",
-      "avg_tone": -0.137,
-      "n_articles": 9
-    },
     {
       "time": "2026-07-11T19:15",
       "avg_tone": 0.474,
@@ -853,145 +838,165 @@
       "time": "2026-07-14T17:45",
       "avg_tone": -0.028,
       "n_articles": 52
+    },
+    {
+      "time": "2026-07-14T18:15",
+      "avg_tone": 0.411,
+      "n_articles": 41
+    },
+    {
+      "time": "2026-07-14T18:30",
+      "avg_tone": 0.216,
+      "n_articles": 50
+    },
+    {
+      "time": "2026-07-14T18:45",
+      "avg_tone": 0.38,
+      "n_articles": 44
+    },
+    {
+      "time": "2026-07-14T19:00",
+      "avg_tone": -0.341,
+      "n_articles": 44
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 41,
-      "avg_tone": -0.828
+      "n": 42,
+      "avg_tone": -0.936
     },
     {
-      "source": "newkerala.com",
+      "source": "mercurynews.com",
       "n": 4,
-      "avg_tone": 1.933
+      "avg_tone": -5.03
     },
     {
-      "source": "riotimesonline.com",
+      "source": "wsoctv.com",
       "n": 3,
-      "avg_tone": 0.893
+      "avg_tone": 3.562
     },
     {
-      "source": "riviera-maya-news.com",
+      "source": "siliconvalley.com",
       "n": 3,
-      "avg_tone": -2.466
+      "avg_tone": -1.382
     },
     {
-      "source": "localnews8.com",
+      "source": "whio.com",
       "n": 3,
-      "avg_tone": -4.911
+      "avg_tone": 5.211
     },
     {
-      "source": "sacurrent.com",
-      "n": 3,
-      "avg_tone": -2.825
+      "source": "australianherald.com",
+      "n": 2,
+      "avg_tone": -1.753
     },
     {
-      "source": "elpais.com",
-      "n": 3,
-      "avg_tone": -3.997
+      "source": "bostonherald.com",
+      "n": 2,
+      "avg_tone": 3.676
     },
     {
-      "source": "dglobe.com",
+      "source": "aol.co.uk",
+      "n": 2,
+      "avg_tone": 0.897
+    },
+    {
+      "source": "theguardian.com",
+      "n": 2,
+      "avg_tone": 3.296
+    },
+    {
+      "source": "ocregister.com",
+      "n": 2,
+      "avg_tone": 3.248
+    },
+    {
+      "source": "mxdwn.com",
+      "n": 2,
+      "avg_tone": -0.872
+    },
+    {
+      "source": "wadenapj.com",
       "n": 2,
       "avg_tone": 0.714
     },
     {
-      "source": "winnipegfreepress.com",
+      "source": "wgauradio.com",
       "n": 2,
-      "avg_tone": 0.309
+      "avg_tone": 6.65
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "pcmag.com",
       "n": 2,
-      "avg_tone": 2.331
+      "avg_tone": 1.402
     },
     {
-      "source": "sandiegouniontribune.com",
+      "source": "americanbazaaronline.com",
       "n": 2,
-      "avg_tone": 1.212
-    },
-    {
-      "source": "ianslive.in",
-      "n": 2,
-      "avg_tone": 3.858
-    },
-    {
-      "source": "wjcl.com",
-      "n": 2,
-      "avg_tone": -7.705
-    },
-    {
-      "source": "inforum.com",
-      "n": 2,
-      "avg_tone": 0.714
-    },
-    {
-      "source": "newjerseytelegraph.com",
-      "n": 2,
-      "avg_tone": 2.062
+      "avg_tone": -0.433
     }
   ],
   "top_themes": [
     {
       "theme": "NATURAL_DISASTER_ICE",
-      "n": 404
+      "n": 423
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 284
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 263
+      "n": 232
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 257
+      "n": 223
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 191
     },
     {
       "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 238
+      "n": 178
     },
     {
       "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 237
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 236
+      "n": 177
     },
     {
       "theme": "IMMIGRATION",
-      "n": 220
+      "n": 176
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 175
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 220
-    },
-    {
-      "theme": "TAX_FNCACT_AGENTS",
-      "n": 187
-    },
-    {
-      "theme": "KILL",
-      "n": 164
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 159
+      "n": 175
     },
     {
       "theme": "TAX_FNCACT_PRINCESS",
-      "n": 150
+      "n": 144
+    },
+    {
+      "theme": "KILL",
+      "n": 143
     },
     {
       "theme": "CRISISLEX_T03_DEAD",
-      "n": 149
+      "n": 132
     },
     {
-      "theme": "TAX_FNCACT_OFFICERS",
-      "n": 146
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 110
+    },
+    {
+      "theme": "TAX_FNCACT_AGENTS",
+      "n": 110
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 106
     }
   ]
 }
