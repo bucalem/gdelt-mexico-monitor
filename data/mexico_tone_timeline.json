@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-14T20:21:20.768697+00:00",
-  "rows_total_scanned_last_run": 2984,
-  "rows_mexico_last_run": 53,
-  "overall_avg_tone_4h": -0.255,
+  "generated_at": "2026-07-14T21:28:44.451358+00:00",
+  "rows_total_scanned_last_run": 6218,
+  "rows_mexico_last_run": 132,
+  "overall_avg_tone_4h": -0.693,
   "timeline": [
-    {
-      "time": "2026-07-11T20:30",
-      "avg_tone": -1.997,
-      "n_articles": 19
-    },
-    {
-      "time": "2026-07-11T20:45",
-      "avg_tone": -0.664,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-07-11T21:00",
-      "avg_tone": -0.334,
-      "n_articles": 23
-    },
-    {
-      "time": "2026-07-11T21:15",
-      "avg_tone": 0.058,
-      "n_articles": 26
-    },
     {
       "time": "2026-07-11T21:30",
       "avg_tone": 0.576,
@@ -848,145 +828,165 @@
       "time": "2026-07-14T20:00",
       "avg_tone": -1.803,
       "n_articles": 25
+    },
+    {
+      "time": "2026-07-14T20:45",
+      "avg_tone": -1.16,
+      "n_articles": 43
+    },
+    {
+      "time": "2026-07-14T21:00",
+      "avg_tone": -0.629,
+      "n_articles": 29
+    },
+    {
+      "time": "2026-07-14T21:15",
+      "avg_tone": -0.368,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-07-14T21:30",
+      "avg_tone": -0.929,
+      "n_articles": 34
     }
   ],
   "top_sources": [
     {
-      "source": "iheart.com",
-      "n": 14,
-      "avg_tone": -4.026
+      "source": "bignewsnetwork.com",
+      "n": 5,
+      "avg_tone": -0.908
     },
     {
-      "source": "timesofsandiego.com",
+      "source": "billboard.com",
+      "n": 4,
+      "avg_tone": 2.983
+    },
+    {
+      "source": "journal-advocate.com",
+      "n": 3,
+      "avg_tone": -2.629
+    },
+    {
+      "source": "news4jax.com",
+      "n": 3,
+      "avg_tone": -2.092
+    },
+    {
+      "source": "el-balad.com",
+      "n": 3,
+      "avg_tone": 0.57
+    },
+    {
+      "source": "wsls.com",
+      "n": 3,
+      "avg_tone": -2.092
+    },
+    {
+      "source": "texastribune.org",
       "n": 2,
-      "avg_tone": 1.627
+      "avg_tone": -3.814
     },
     {
-      "source": "cp24.com",
+      "source": "kxl.com",
       "n": 2,
-      "avg_tone": -1.135
+      "avg_tone": -6.11
     },
     {
-      "source": "hispanicoutlook.com",
+      "source": "mediaite.com",
       "n": 2,
-      "avg_tone": 0.987
+      "avg_tone": -1.304
     },
     {
-      "source": "techstory.in",
+      "source": "rrobserver.com",
       "n": 2,
-      "avg_tone": 4.053
+      "avg_tone": -2.241
     },
     {
-      "source": "aljazeera.com",
+      "source": "actionnewsjax.com",
       "n": 2,
-      "avg_tone": -8.108
+      "avg_tone": 5.177
     },
     {
-      "source": "mitchellrepublic.com",
+      "source": "americamagazine.org",
       "n": 2,
-      "avg_tone": 0.714
+      "avg_tone": -0.435
     },
     {
-      "source": "jalopnik.com",
-      "n": 1,
-      "avg_tone": -0.307
+      "source": "ktvo.com",
+      "n": 2,
+      "avg_tone": -5.165
     },
     {
-      "source": "eater.com",
-      "n": 1,
-      "avg_tone": -0.266
+      "source": "orlandosentinel.com",
+      "n": 2,
+      "avg_tone": -0.945
     },
     {
-      "source": "humaneworld.org",
-      "n": 1,
-      "avg_tone": -3.633
-    },
-    {
-      "source": "koat.com",
-      "n": 1,
-      "avg_tone": 0.629
-    },
-    {
-      "source": "edmontonsun.com",
-      "n": 1,
-      "avg_tone": 1.351
-    },
-    {
-      "source": "collider.com",
-      "n": 1,
-      "avg_tone": 0.404
-    },
-    {
-      "source": "nbcsandiego.com",
-      "n": 1,
-      "avg_tone": 6.462
-    },
-    {
-      "source": "rfdtv.com",
-      "n": 1,
-      "avg_tone": -3.684
+      "source": "wpxi.com",
+      "n": 2,
+      "avg_tone": 5.177
     }
   ],
   "top_themes": [
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 112
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 82
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 74
-    },
-    {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 71
+      "n": 218
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 212
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICERS",
+      "n": 200
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 70
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 68
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 65
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 65
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 64
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 64
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 64
-    },
-    {
-      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
-      "n": 54
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 47
-    },
-    {
-      "theme": "CRISISLEX_T03_DEAD",
-      "n": 41
+      "n": 190
     },
     {
       "theme": "KILL",
-      "n": 40
+      "n": 183
+    },
+    {
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 179
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 176
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 176
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 176
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 176
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 175
+    },
+    {
+      "theme": "TAX_MILITARY_TITLE_OFFICERS",
+      "n": 164
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 157
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICER",
+      "n": 150
+    },
+    {
+      "theme": "TAX_MILITARY_TITLE_OFFICER",
+      "n": 121
     }
   ]
 }
