@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-07-15T23:12:04.025799+00:00",
-  "rows_total_scanned_last_run": 5498,
-  "rows_mexico_last_run": 217,
-  "overall_avg_tone_4h": -1.075,
+  "generated_at": "2026-07-16T00:08:57.833970+00:00",
+  "rows_total_scanned_last_run": 4950,
+  "rows_mexico_last_run": 197,
+  "overall_avg_tone_4h": -1.14,
   "timeline": [
-    {
-      "time": "2026-07-12T23:15",
-      "avg_tone": 1.106,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-07-12T23:30",
-      "avg_tone": 1.362,
-      "n_articles": 13
-    },
     {
       "time": "2026-07-13T00:15",
       "avg_tone": 3.846,
@@ -828,145 +818,165 @@
       "time": "2026-07-15T23:15",
       "avg_tone": -0.673,
       "n_articles": 56
+    },
+    {
+      "time": "2026-07-15T23:30",
+      "avg_tone": -1.224,
+      "n_articles": 47
+    },
+    {
+      "time": "2026-07-15T23:45",
+      "avg_tone": -0.83,
+      "n_articles": 46
+    },
+    {
+      "time": "2026-07-16T00:00",
+      "avg_tone": -1.3,
+      "n_articles": 50
+    },
+    {
+      "time": "2026-07-16T00:15",
+      "avg_tone": -0.864,
+      "n_articles": 54
     }
   ],
   "top_sources": [
     {
-      "source": "aol.co.uk",
-      "n": 5,
-      "avg_tone": -1.723
-    },
-    {
-      "source": "artdaily.com",
+      "source": "cubaheadlines.com",
       "n": 4,
-      "avg_tone": 3.809
+      "avg_tone": -2.886
     },
     {
-      "source": "newsweek.com",
+      "source": "abc17news.com",
       "n": 3,
-      "avg_tone": -3.211
+      "avg_tone": -2.804
     },
     {
-      "source": "fox7austin.com",
+      "source": "deadline.com",
       "n": 3,
-      "avg_tone": -3.22
+      "avg_tone": -0.657
     },
     {
-      "source": "dailycaller.com",
-      "n": 2,
-      "avg_tone": -4.553
-    },
-    {
-      "source": "messengernewspapers.co.uk",
+      "source": "eppingforestguardian.co.uk",
       "n": 2,
       "avg_tone": -1.919
     },
     {
-      "source": "fourfourtwo.com",
-      "n": 2,
-      "avg_tone": -0.602
-    },
-    {
-      "source": "wiltsglosstandard.co.uk",
+      "source": "thisisoxfordshire.co.uk",
       "n": 2,
       "avg_tone": -1.919
     },
     {
-      "source": "bridgwatermercury.co.uk",
+      "source": "hamhigh.co.uk",
       "n": 2,
       "avg_tone": -1.919
     },
     {
-      "source": "thewestmorlandgazette.co.uk",
+      "source": "hampshirechronicle.co.uk",
       "n": 2,
       "avg_tone": -1.919
     },
     {
-      "source": "easternriverinachronicle.com.au",
-      "n": 2,
-      "avg_tone": -0.182
-    },
-    {
-      "source": "oxfordmail.co.uk",
+      "source": "somersetcountygazette.co.uk",
       "n": 2,
       "avg_tone": -1.919
     },
     {
-      "source": "newser.com",
+      "source": "nbcsandiego.com",
       "n": 2,
-      "avg_tone": -2.766
+      "avg_tone": 3.157
     },
     {
-      "source": "bucksfreepress.co.uk",
+      "source": "bloodhorse.com",
       "n": 2,
-      "avg_tone": -1.889
+      "avg_tone": -2.011
     },
     {
-      "source": "whittierdailynews.com",
+      "source": "leighjournal.co.uk",
       "n": 2,
-      "avg_tone": -0.684
+      "avg_tone": -1.919
+    },
+    {
+      "source": "malverngazette.co.uk",
+      "n": 2,
+      "avg_tone": -1.919
+    },
+    {
+      "source": "newsandstar.co.uk",
+      "n": 2,
+      "avg_tone": -1.919
+    },
+    {
+      "source": "ibtimes.co.uk",
+      "n": 2,
+      "avg_tone": 0.971
+    },
+    {
+      "source": "richmondandtwickenhamtimes.co.uk",
+      "n": 2,
+      "avg_tone": -1.919
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 349
-    },
-    {
-      "theme": "LEADER",
-      "n": 324
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 305
-    },
-    {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 263
-    },
-    {
       "theme": "TAX_DISEASE_DISEASE",
-      "n": 239
-    },
-    {
-      "theme": "KILL",
-      "n": 233
+      "n": 228
     },
     {
       "theme": "TAX_DISEASE_STROKE",
-      "n": 217
+      "n": 210
+    },
+    {
+      "theme": "KILL",
+      "n": 194
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 164
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 156
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 153
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 142
+      "n": 192
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 138
+      "n": 166
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 134
+      "n": 151
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 127
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 120
     },
     {
-      "theme": "WB_2670_JOBS",
+      "theme": "TAX_DISEASE_CYCLOSPORA",
+      "n": 118
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 116
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 113
+    },
+    {
+      "theme": "WB_1458_HEALTH_PROMOTION_AND_DISEASE_PREVENTION",
+      "n": 112
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 105
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 103
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 102
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 101
     }
   ]
 }
