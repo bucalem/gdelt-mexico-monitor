@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-16T18:17:55.050455+00:00",
-  "rows_total_scanned_last_run": 7233,
-  "rows_mexico_last_run": 163,
-  "overall_avg_tone_4h": 0.865,
+  "generated_at": "2026-07-16T19:38:41.760602+00:00",
+  "rows_total_scanned_last_run": 5522,
+  "rows_mexico_last_run": 154,
+  "overall_avg_tone_4h": 1.045,
   "timeline": [
-    {
-      "time": "2026-07-13T18:30",
-      "avg_tone": -2.427,
-      "n_articles": 31
-    },
-    {
-      "time": "2026-07-13T18:45",
-      "avg_tone": -0.933,
-      "n_articles": 38
-    },
-    {
-      "time": "2026-07-13T19:00",
-      "avg_tone": -1.794,
-      "n_articles": 46
-    },
-    {
-      "time": "2026-07-13T19:15",
-      "avg_tone": -1.68,
-      "n_articles": 40
-    },
     {
       "time": "2026-07-13T19:45",
       "avg_tone": -2.165,
@@ -878,145 +858,160 @@
       "time": "2026-07-16T18:15",
       "avg_tone": 2.196,
       "n_articles": 44
+    },
+    {
+      "time": "2026-07-16T19:00",
+      "avg_tone": 1.244,
+      "n_articles": 53
+    },
+    {
+      "time": "2026-07-16T19:15",
+      "avg_tone": 0.661,
+      "n_articles": 49
+    },
+    {
+      "time": "2026-07-16T19:30",
+      "avg_tone": 1.353,
+      "n_articles": 52
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 69,
-      "avg_tone": 4.52
+      "n": 54,
+      "avg_tone": 4.556
     },
     {
-      "source": "targetednews.com",
+      "source": "tickerreport.com",
+      "n": 5,
+      "avg_tone": 1.555
+    },
+    {
+      "source": "yahoo.com",
       "n": 4,
-      "avg_tone": 3.325
+      "avg_tone": 0.429
     },
     {
-      "source": "abqjournal.com",
-      "n": 3,
-      "avg_tone": 0.886
-    },
-    {
-      "source": "local10.com",
-      "n": 3,
-      "avg_tone": -5.207
-    },
-    {
-      "source": "webwire.com",
-      "n": 3,
-      "avg_tone": 2.925
-    },
-    {
-      "source": "netscape.com",
+      "source": "newswiretoday.com",
       "n": 2,
-      "avg_tone": -4.327
+      "avg_tone": 3.06
     },
     {
-      "source": "shanghaisun.com",
+      "source": "intelligencer.ca",
+      "n": 2,
+      "avg_tone": -2.138
+    },
+    {
+      "source": "chinanationalnews.com",
       "n": 2,
       "avg_tone": 1.432
     },
     {
-      "source": "rrdailyherald.com",
+      "source": "wowt.com",
       "n": 2,
-      "avg_tone": 0.876
+      "avg_tone": -1.556
     },
     {
-      "source": "baystreet.ca",
+      "source": "mesabitribune.com",
       "n": 2,
-      "avg_tone": -0.586
+      "avg_tone": -4.938
     },
     {
-      "source": "kwtx.com",
+      "source": "nplusonemag.com",
       "n": 2,
-      "avg_tone": -3.723
-    },
-    {
-      "source": "kten.com",
-      "n": 2,
-      "avg_tone": -3.974
+      "avg_tone": -1.905
     },
     {
       "source": "dailypolitical.com",
       "n": 2,
-      "avg_tone": 3.273
+      "avg_tone": 3.385
     },
     {
-      "source": "ksfa860.com",
-      "n": 2,
-      "avg_tone": -0.604
-    },
-    {
-      "source": "edmontonsun.com",
+      "source": "simcoereformer.ca",
       "n": 1,
-      "avg_tone": 0.207
+      "avg_tone": -2.573
     },
     {
-      "source": "laschoolreport.com",
+      "source": "niagarafallsreview.ca",
       "n": 1,
-      "avg_tone": -0.647
+      "avg_tone": -1.314
+    },
+    {
+      "source": "winnipegfreepress.com",
+      "n": 1,
+      "avg_tone": 0.508
+    },
+    {
+      "source": "kvia.com",
+      "n": 1,
+      "avg_tone": -2.0
+    },
+    {
+      "source": "times-herald.com",
+      "n": 1,
+      "avg_tone": 2.767
     }
   ],
   "top_themes": [
     {
-      "theme": "NATURAL_DISASTER_FLOODS",
-      "n": 104
-    },
-    {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 95
+      "n": 172
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 88
+      "theme": "TAX_DISEASE_CYCLOSPORIASIS",
+      "n": 170
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 85
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 147
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 82
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 142
     },
     {
-      "theme": "NATURAL_DISASTER_FLOODING",
-      "n": 80
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 141
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 73
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 66
-    },
-    {
-      "theme": "EPU_CATS_REGULATION",
-      "n": 62
-    },
-    {
-      "theme": "LEADER",
-      "n": 59
+      "theme": "WB_2167_PANDEMICS",
+      "n": 141
     },
     {
       "theme": "MEDICAL",
-      "n": 59
+      "n": 140
     },
     {
-      "theme": "WB_1331_HEALTH_TECHNOLOGIES",
-      "n": 58
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 139
     },
     {
-      "theme": "WB_1350_PHARMACEUTICALS",
-      "n": 58
+      "theme": "GENERAL_HEALTH",
+      "n": 137
     },
     {
-      "theme": "WB_2456_DRUGS_AND_NARCOTICS",
-      "n": 58
+      "theme": "TAX_DISEASE_CYCLOSPORA",
+      "n": 119
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 57
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 110
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 87
+    },
+    {
+      "theme": "TAX_DISEASE_DIARRHEA",
+      "n": 85
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 85
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 74
     }
   ]
 }
