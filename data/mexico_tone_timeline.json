@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-07-17T18:31:49.466846+00:00",
-  "rows_total_scanned_last_run": 6719,
-  "rows_mexico_last_run": 275,
-  "overall_avg_tone_4h": -1.786,
+  "generated_at": "2026-07-17T19:44:52.725230+00:00",
+  "rows_total_scanned_last_run": 6329,
+  "rows_mexico_last_run": 253,
+  "overall_avg_tone_4h": -2.229,
   "timeline": [
-    {
-      "time": "2026-07-14T18:45",
-      "avg_tone": 0.38,
-      "n_articles": 44
-    },
-    {
-      "time": "2026-07-14T19:00",
-      "avg_tone": -0.341,
-      "n_articles": 44
-    },
     {
       "time": "2026-07-14T19:45",
       "avg_tone": -1.76,
@@ -888,145 +878,165 @@
       "time": "2026-07-17T18:30",
       "avg_tone": -2.478,
       "n_articles": 86
+    },
+    {
+      "time": "2026-07-17T19:00",
+      "avg_tone": -2.698,
+      "n_articles": 63
+    },
+    {
+      "time": "2026-07-17T19:15",
+      "avg_tone": -2.431,
+      "n_articles": 64
+    },
+    {
+      "time": "2026-07-17T19:30",
+      "avg_tone": -2.864,
+      "n_articles": 57
+    },
+    {
+      "time": "2026-07-17T19:45",
+      "avg_tone": -3.247,
+      "n_articles": 69
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 21,
-      "avg_tone": -1.107
+      "n": 18,
+      "avg_tone": -3.352
     },
     {
-      "source": "bostonherald.com",
-      "n": 5,
-      "avg_tone": -3.962
-    },
-    {
-      "source": "yahoo.com",
-      "n": 5,
-      "avg_tone": -2.872
-    },
-    {
-      "source": "eastbaytimes.com",
+      "source": "timescall.com",
       "n": 4,
-      "avg_tone": -2.276
+      "avg_tone": -3.643
     },
     {
-      "source": "reporterherald.com",
-      "n": 4,
-      "avg_tone": -3.661
-    },
-    {
-      "source": "baltimoresun.com",
+      "source": "dailylocal.com",
       "n": 3,
-      "avg_tone": -3.442
+      "avg_tone": -3.418
     },
     {
-      "source": "bostonglobe.com",
+      "source": "broomfieldenterprise.com",
       "n": 3,
-      "avg_tone": -0.798
+      "avg_tone": -3.418
     },
     {
-      "source": "1370wfea.com",
+      "source": "dailycamera.com",
       "n": 3,
-      "avg_tone": -2.433
+      "avg_tone": -3.418
     },
     {
-      "source": "969wsig.com",
-      "n": 3,
-      "avg_tone": -2.433
+      "source": "nbcdfw.com",
+      "n": 2,
+      "avg_tone": -3.051
     },
     {
-      "source": "stcatharinesstandard.ca",
-      "n": 3,
-      "avg_tone": -2.401
+      "source": "advocate-news.com",
+      "n": 2,
+      "avg_tone": -4.859
     },
     {
-      "source": "lowellsun.com",
-      "n": 3,
-      "avg_tone": -3.442
+      "source": "mymotherlode.com",
+      "n": 2,
+      "avg_tone": -5.3
     },
     {
-      "source": "thesudburystar.com",
-      "n": 3,
-      "avg_tone": 2.087
+      "source": "dailypolitical.com",
+      "n": 2,
+      "avg_tone": 1.084
     },
     {
-      "source": "lasvegassun.com",
-      "n": 3,
-      "avg_tone": -5.43
+      "source": "wapt.com",
+      "n": 2,
+      "avg_tone": -4.705
     },
     {
-      "source": "kvia.com",
-      "n": 3,
-      "avg_tone": -2.558
+      "source": "idahostatejournal.com",
+      "n": 2,
+      "avg_tone": -5.689
     },
     {
-      "source": "dailypress.com",
-      "n": 3,
-      "avg_tone": -3.442
+      "source": "the-messenger.com",
+      "n": 2,
+      "avg_tone": -4.029
+    },
+    {
+      "source": "niagarafallsreview.ca",
+      "n": 2,
+      "avg_tone": -4.778
+    },
+    {
+      "source": "toronto.citynews.ca",
+      "n": 2,
+      "avg_tone": -0.126
+    },
+    {
+      "source": "variety.com",
+      "n": 2,
+      "avg_tone": 0.821
     }
   ],
   "top_themes": [
     {
-      "theme": "LEADER",
-      "n": 343
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 325
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 307
+      "theme": "TAX_FNCACT_JUDGE",
+      "n": 425
     },
     {
       "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 273
+      "n": 283
     },
     {
       "theme": "NATURAL_DISASTER_EARTHQUAKE",
-      "n": 264
+      "n": 266
     },
     {
-      "theme": "TAX_ETHNICITY_VIETNAMESE",
-      "n": 256
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_VIETNAMESE",
-      "n": 256
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 195
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 193
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 250
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 189
+      "n": 246
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 182
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 177
+      "theme": "MEDICAL",
+      "n": 245
     },
     {
       "theme": "TAX_DISEASE_CYCLOSPORA",
-      "n": 175
+      "n": 207
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 175
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 206
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 199
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 195
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 169
+      "n": 194
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 187
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 186
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 186
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 186
     }
   ]
 }
