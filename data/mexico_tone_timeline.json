@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-17T06:34:30.328191+00:00",
-  "rows_total_scanned_last_run": 3527,
-  "rows_mexico_last_run": 50,
-  "overall_avg_tone_4h": -0.756,
+  "generated_at": "2026-07-17T08:54:58.290316+00:00",
+  "rows_total_scanned_last_run": 3918,
+  "rows_mexico_last_run": 52,
+  "overall_avg_tone_4h": -1.043,
   "timeline": [
-    {
-      "time": "2026-07-14T08:15",
-      "avg_tone": -0.293,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-07-14T08:30",
-      "avg_tone": 1.008,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-07-14T08:45",
-      "avg_tone": -0.325,
-      "n_articles": 11
-    },
     {
       "time": "2026-07-14T09:00",
       "avg_tone": 0.783,
@@ -873,145 +858,165 @@
       "time": "2026-07-17T06:30",
       "avg_tone": -1.602,
       "n_articles": 7
+    },
+    {
+      "time": "2026-07-17T08:15",
+      "avg_tone": -2.561,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-07-17T08:30",
+      "avg_tone": -1.257,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-07-17T08:45",
+      "avg_tone": -2.653,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-07-17T09:00",
+      "avg_tone": -0.426,
+      "n_articles": 16
     }
   ],
   "top_sources": [
     {
-      "source": "indiatimes.com",
-      "n": 2,
-      "avg_tone": -0.982
+      "source": "prnewswire.com",
+      "n": 4,
+      "avg_tone": 0.959
     },
     {
-      "source": "kcra.com",
-      "n": 2,
-      "avg_tone": -0.936
+      "source": "caribbeanherald.com",
+      "n": 3,
+      "avg_tone": -4.237
     },
     {
-      "source": "bignewsnetwork.com",
+      "source": "brazilsun.com",
       "n": 2,
       "avg_tone": 0.144
     },
     {
-      "source": "iheart.com",
+      "source": "geographical.co.uk",
       "n": 2,
-      "avg_tone": 6.868
+      "avg_tone": -0.439
     },
     {
-      "source": "el-balad.com",
-      "n": 1,
-      "avg_tone": -5.995
+      "source": "boredpanda.com",
+      "n": 2,
+      "avg_tone": 6.312
     },
     {
-      "source": "mirror.co.uk",
-      "n": 1,
-      "avg_tone": -1.261
+      "source": "birminghammail.co.uk",
+      "n": 2,
+      "avg_tone": 0.529
     },
     {
-      "source": "wjcl.com",
-      "n": 1,
-      "avg_tone": -0.779
+      "source": "nytimes.com",
+      "n": 2,
+      "avg_tone": -0.367
     },
     {
-      "source": "wtae.com",
+      "source": "readingeagle.com",
       "n": 1,
-      "avg_tone": -0.735
+      "avg_tone": -2.807
     },
     {
-      "source": "antaranews.com",
+      "source": "740thefan.com",
       "n": 1,
-      "avg_tone": 4.938
+      "avg_tone": 0.82
     },
     {
-      "source": "centralasiatimes.com",
+      "source": "cnet.com",
       "n": 1,
-      "avg_tone": -9.623
+      "avg_tone": 0.19
     },
     {
-      "source": "winknews.com",
+      "source": "sandiegosun.com",
       "n": 1,
-      "avg_tone": -7.497
+      "avg_tone": 1.053
     },
     {
-      "source": "koco.com",
+      "source": "countercurrents.org",
       "n": 1,
-      "avg_tone": -0.735
+      "avg_tone": -5.872
     },
     {
-      "source": "sina.com.hk",
+      "source": "newyorkstatesman.com",
       "n": 1,
-      "avg_tone": 3.378
+      "avg_tone": 1.053
     },
     {
-      "source": "livemint.com",
+      "source": "maritime-executive.com",
       "n": 1,
-      "avg_tone": -1.032
+      "avg_tone": -0.677
     },
     {
-      "source": "nypost.com",
+      "source": "92q.com",
       "n": 1,
-      "avg_tone": -5.132
+      "avg_tone": 0.0
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_WORLDLANGUAGES_BARBADOS",
-      "n": 41
+      "theme": "LEADER",
+      "n": 68
     },
     {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 39
+      "theme": "KILL",
+      "n": 61
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 32
-    },
-    {
-      "theme": "WB_286_TELECOMMUNICATIONS_AND_BROADBAND_ACCESS",
-      "n": 30
-    },
-    {
-      "theme": "WB_2120_SATELLITES",
-      "n": 30
-    },
-    {
-      "theme": "WB_2329_ACCESS_AND_CONNECTIVITY",
-      "n": 30
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 60
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 30
-    },
-    {
-      "theme": "BORDER",
-      "n": 27
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 26
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 26
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 25
+      "n": 37
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 31
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 29
+    },
+    {
+      "theme": "MEDIA_MSM",
+      "n": 27
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
       "n": 24
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 24
-    },
-    {
-      "theme": "WB_1014_CRIMINAL_JUSTICE",
+      "theme": "WB_635_PUBLIC_HEALTH",
       "n": 23
     },
     {
-      "theme": "AGRICULTURE",
+      "theme": "ARMEDCONFLICT",
       "n": 22
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 21
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 20
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 19
+    },
+    {
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 19
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 18
     }
   ]
 }
