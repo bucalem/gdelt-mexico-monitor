@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-18T19:22:28.404844+00:00",
-  "rows_total_scanned_last_run": 2330,
-  "rows_mexico_last_run": 45,
-  "overall_avg_tone_4h": -0.389,
+  "generated_at": "2026-07-18T20:11:09.959421+00:00",
+  "rows_total_scanned_last_run": 2362,
+  "rows_mexico_last_run": 50,
+  "overall_avg_tone_4h": -0.492,
   "timeline": [
-    {
-      "time": "2026-07-15T19:30",
-      "avg_tone": -1.71,
-      "n_articles": 32
-    },
-    {
-      "time": "2026-07-15T19:45",
-      "avg_tone": -0.463,
-      "n_articles": 34
-    },
-    {
-      "time": "2026-07-15T20:00",
-      "avg_tone": -0.618,
-      "n_articles": 24
-    },
     {
       "time": "2026-07-15T20:30",
       "avg_tone": -0.134,
@@ -953,18 +938,43 @@
       "time": "2026-07-18T19:30",
       "avg_tone": -0.953,
       "n_articles": 16
+    },
+    {
+      "time": "2026-07-18T19:45",
+      "avg_tone": -1.711,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-07-18T20:00",
+      "avg_tone": -0.877,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-07-18T20:15",
+      "avg_tone": -0.378,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "independent.co.uk",
-      "n": 3,
-      "avg_tone": -1.379
+      "source": "news-herald.com",
+      "n": 2,
+      "avg_tone": 0.719
     },
     {
-      "source": "elpasoinc.com",
-      "n": 3,
-      "avg_tone": -1.006
+      "source": "fourfourtwo.com",
+      "n": 2,
+      "avg_tone": -1.07
+    },
+    {
+      "source": "smh.com.au",
+      "n": 2,
+      "avg_tone": 0.11
+    },
+    {
+      "source": "foodsafetynews.com",
+      "n": 2,
+      "avg_tone": -5.383
     },
     {
       "source": "wapt.com",
@@ -987,111 +997,101 @@
       "avg_tone": -2.119
     },
     {
-      "source": "bignewsnetwork.com",
-      "n": 2,
-      "avg_tone": -4.796
+      "source": "news8000.com",
+      "n": 1,
+      "avg_tone": -4.207
     },
     {
-      "source": "idahopress.com",
+      "source": "pakobserver.net",
       "n": 1,
-      "avg_tone": 1.678
+      "avg_tone": 5.28
     },
     {
-      "source": "sunjournal.com",
+      "source": "abc11.com",
       "n": 1,
-      "avg_tone": -0.125
+      "avg_tone": -4.577
     },
     {
-      "source": "winnipegfreepress.com",
+      "source": "live5news.com",
       "n": 1,
-      "avg_tone": 1.364
+      "avg_tone": -1.299
     },
     {
-      "source": "dailynews.com",
+      "source": "outdoorlife.com",
       "n": 1,
-      "avg_tone": 3.812
+      "avg_tone": -2.575
     },
     {
-      "source": "wcvb.com",
+      "source": "mirror.co.uk",
       "n": 1,
-      "avg_tone": -4.482
+      "avg_tone": 2.919
     },
     {
-      "source": "americanthinker.com",
+      "source": "vanguardngr.com",
       "n": 1,
-      "avg_tone": -3.262
-    },
-    {
-      "source": "sun-sentinel.com",
-      "n": 1,
-      "avg_tone": 1.671
-    },
-    {
-      "source": "erienewsnow.com",
-      "n": 1,
-      "avg_tone": 1.678
+      "avg_tone": 2.697
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 51
+      "n": 122
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 51
+      "n": 117
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 51
+      "n": 117
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 51
+      "n": 117
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 44
+      "n": 107
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 34
+      "n": 102
     },
     {
-      "theme": "AFFECT",
-      "n": 29
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 27
-    },
-    {
-      "theme": "TAX_DISEASE_CYCLOSPORIASIS",
-      "n": 26
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 25
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 25
-    },
-    {
-      "theme": "KILL",
-      "n": 25
-    },
-    {
-      "theme": "CRISISLEX_T03_DEAD",
-      "n": 25
+      "theme": "AGRICULTURE",
+      "n": 57
     },
     {
       "theme": "TAX_DISEASE_CYCLOSPORA",
-      "n": 24
+      "n": 41
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 21
+      "theme": "TAX_DISEASE_CYCLOSPORIASIS",
+      "n": 40
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 38
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 36
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 35
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 35
+    },
+    {
+      "theme": "EPU_CATS_HEALTHCARE",
+      "n": 33
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 29
     }
   ]
 }
