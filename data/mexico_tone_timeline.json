@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-18T12:36:41.312184+00:00",
-  "rows_total_scanned_last_run": 2400,
-  "rows_mexico_last_run": 56,
-  "overall_avg_tone_4h": -0.075,
+  "generated_at": "2026-07-18T14:06:43.631992+00:00",
+  "rows_total_scanned_last_run": 2768,
+  "rows_mexico_last_run": 67,
+  "overall_avg_tone_4h": 0.205,
   "timeline": [
-    {
-      "time": "2026-07-15T13:00",
-      "avg_tone": -2.217,
-      "n_articles": 33
-    },
-    {
-      "time": "2026-07-15T13:15",
-      "avg_tone": -2.979,
-      "n_articles": 27
-    },
-    {
-      "time": "2026-07-15T13:30",
-      "avg_tone": -2.859,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-07-15T13:45",
-      "avg_tone": -0.578,
-      "n_articles": 51
-    },
     {
       "time": "2026-07-15T14:30",
       "avg_tone": -1.153,
@@ -938,18 +918,33 @@
       "time": "2026-07-18T12:45",
       "avg_tone": -0.879,
       "n_articles": 14
+    },
+    {
+      "time": "2026-07-18T13:30",
+      "avg_tone": -0.08,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-07-18T13:45",
+      "avg_tone": 0.977,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-07-18T14:00",
+      "avg_tone": 1.03,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-07-18T14:15",
+      "avg_tone": 0.637,
+      "n_articles": 16
     }
   ],
   "top_sources": [
     {
-      "source": "santafenewmexican.com",
-      "n": 3,
-      "avg_tone": 1.236
-    },
-    {
-      "source": "mega979.com",
+      "source": "timescall.com",
       "n": 2,
-      "avg_tone": 1.783
+      "avg_tone": -0.691
     },
     {
       "source": "cnn.com",
@@ -957,126 +952,131 @@
       "avg_tone": -5.127
     },
     {
-      "source": "wxfx.com",
+      "source": "97rock.com",
       "n": 2,
       "avg_tone": 1.783
     },
     {
-      "source": "aol.co.uk",
-      "n": 2,
-      "avg_tone": 0.269
-    },
-    {
-      "source": "v100rocks.com",
+      "source": "1021thefox.com",
       "n": 2,
       "avg_tone": 1.783
     },
     {
-      "source": "y-103.com",
+      "source": "955glo.com",
       "n": 2,
       "avg_tone": 1.783
     },
     {
-      "source": "vanguardngr.com",
-      "n": 2,
-      "avg_tone": 3.233
-    },
-    {
-      "source": "999thefoxrocks.com",
+      "source": "kkfm.com",
       "n": 2,
       "avg_tone": 1.783
     },
     {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -3.477
-    },
-    {
-      "source": "wgrr.com",
+      "source": "wogb.fm",
       "n": 2,
       "avg_tone": 1.783
     },
     {
-      "source": "kysdc.com",
-      "n": 1,
-      "avg_tone": -5.967
+      "source": "kggo.com",
+      "n": 2,
+      "avg_tone": 1.783
     },
     {
-      "source": "dailythepatriot.com",
-      "n": 1,
-      "avg_tone": -6.707
+      "source": "wqut.com",
+      "n": 2,
+      "avg_tone": 1.783
     },
     {
-      "source": "khop.com",
-      "n": 1,
-      "avg_tone": 2.353
+      "source": "949kcmo.com",
+      "n": 2,
+      "avg_tone": 1.783
     },
     {
-      "source": "gulf104.com",
+      "source": "kkgb.com",
+      "n": 2,
+      "avg_tone": 1.783
+    },
+    {
+      "source": "newsweek.com",
+      "n": 2,
+      "avg_tone": -4.114
+    },
+    {
+      "source": "wxkr.com",
+      "n": 2,
+      "avg_tone": 1.783
+    },
+    {
+      "source": "pensacolasjet.com",
       "n": 1,
       "avg_tone": 1.212
+    },
+    {
+      "source": "talkingpointsmemo.com",
+      "n": 1,
+      "avg_tone": -3.902
     }
   ],
   "top_themes": [
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 65
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 64
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 49
-    },
-    {
-      "theme": "TAX_DISEASE_COVID",
-      "n": 47
-    },
-    {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 45
+      "n": 58
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 41
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 57
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 40
-    },
-    {
-      "theme": "TAX_FNCACT_AGENTS",
-      "n": 35
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 33
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 31
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 31
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 31
+      "n": 50
     },
     {
       "theme": "GENERAL_HEALTH",
+      "n": 45
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 43
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 43
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 43
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 43
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 40
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 35
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 35
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 34
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 32
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
       "n": 30
     },
     {
-      "theme": "TAX_FNCACT_WOMEN",
-      "n": 29
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 29
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 30
     }
   ]
 }
