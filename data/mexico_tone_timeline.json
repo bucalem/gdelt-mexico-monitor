@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-07-19T14:01:35.819678+00:00",
-  "rows_total_scanned_last_run": 2502,
-  "rows_mexico_last_run": 36,
-  "overall_avg_tone_4h": 0.152,
+  "generated_at": "2026-07-19T15:12:35.224227+00:00",
+  "rows_total_scanned_last_run": 2689,
+  "rows_mexico_last_run": 69,
+  "overall_avg_tone_4h": -0.283,
   "timeline": [
-    {
-      "time": "2026-07-16T14:15",
-      "avg_tone": 0.094,
-      "n_articles": 32
-    },
     {
       "time": "2026-07-16T15:15",
       "avg_tone": 0.998,
@@ -978,145 +973,165 @@
       "time": "2026-07-19T14:00",
       "avg_tone": 0.9,
       "n_articles": 6
+    },
+    {
+      "time": "2026-07-19T14:30",
+      "avg_tone": -0.213,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-07-19T14:45",
+      "avg_tone": -2.651,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-07-19T15:00",
+      "avg_tone": -0.295,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-07-19T15:15",
+      "avg_tone": -0.004,
+      "n_articles": 20
     }
   ],
   "top_sources": [
     {
-      "source": "newsweek.com",
+      "source": "newstribune.com",
+      "n": 3,
+      "avg_tone": -3.244
+    },
+    {
+      "source": "nytimes.com",
       "n": 2,
-      "avg_tone": -0.933
+      "avg_tone": 0.885
     },
     {
-      "source": "orlandosentinel.com",
+      "source": "newsday.com",
       "n": 2,
-      "avg_tone": -2.449
+      "avg_tone": -2.429
     },
     {
-      "source": "abc7ny.com",
+      "source": "hayspost.com",
       "n": 2,
-      "avg_tone": 0.019
+      "avg_tone": -1.516
     },
     {
-      "source": "sun-sentinel.com",
+      "source": "timminspress.com",
       "n": 1,
-      "avg_tone": 0.173
+      "avg_tone": -0.117
     },
     {
-      "source": "castanetkamloops.net",
+      "source": "wchstv.com",
       "n": 1,
-      "avg_tone": 3.607
+      "avg_tone": 1.072
     },
     {
-      "source": "newkerala.com",
+      "source": "aol.com",
       "n": 1,
-      "avg_tone": 2.926
+      "avg_tone": 5.17
     },
     {
-      "source": "travelerstoday.com",
+      "source": "ktxs.com",
       "n": 1,
-      "avg_tone": 0.559
+      "avg_tone": 1.072
     },
     {
-      "source": "wellandtribune.ca",
+      "source": "elliotlakestandard.ca",
       "n": 1,
-      "avg_tone": -7.377
+      "avg_tone": -0.394
     },
     {
-      "source": "atlantanewsfirst.com",
+      "source": "wlec.com",
+      "n": 1,
+      "avg_tone": -4.878
+    },
+    {
+      "source": "delcotimes.com",
+      "n": 1,
+      "avg_tone": 3.191
+    },
+    {
+      "source": "ky3.com",
       "n": 1,
       "avg_tone": 0.174
     },
     {
-      "source": "indiatimes.com",
+      "source": "athens-times.com",
       "n": 1,
-      "avg_tone": 0.836
+      "avg_tone": -5.016
     },
     {
-      "source": "kamloopsbcnow.com",
+      "source": "mitchelladvocate.com",
       "n": 1,
-      "avg_tone": 6.529
+      "avg_tone": -0.394
     },
     {
-      "source": "abc7news.com",
+      "source": "news-herald.com",
       "n": 1,
-      "avg_tone": 4.615
-    },
-    {
-      "source": "express.co.uk",
-      "n": 1,
-      "avg_tone": 3.368
-    },
-    {
-      "source": "manilatimes.net",
-      "n": 1,
-      "avg_tone": 1.297
-    },
-    {
-      "source": "yorkregion.com",
-      "n": 1,
-      "avg_tone": -6.096
+      "avg_tone": 3.191
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 237
-    },
-    {
-      "theme": "LEADER",
-      "n": 236
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 232
-    },
-    {
       "theme": "TAX_DISEASE_CYCLOSPORA",
-      "n": 57
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 31
+      "n": 114
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 31
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 30
+      "n": 61
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 30
+      "n": 53
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 30
+      "n": 53
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 30
+      "n": 53
     },
     {
-      "theme": "MEDICAL",
-      "n": 20
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 20
-    },
-    {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 19
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 52
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 17
+      "n": 50
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 48
+    },
+    {
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 47
+    },
+    {
+      "theme": "TAX_DISEASE_CYCLOSPORIASIS",
+      "n": 43
+    },
+    {
+      "theme": "URBAN",
+      "n": 36
+    },
+    {
+      "theme": "AFFECT",
+      "n": 33
     },
     {
       "theme": "WB_137_WATER",
-      "n": 16
+      "n": 29
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 28
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 26
     }
   ]
 }
