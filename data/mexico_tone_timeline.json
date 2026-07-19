@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-19T12:28:02.362064+00:00",
-  "rows_total_scanned_last_run": 2237,
-  "rows_mexico_last_run": 39,
-  "overall_avg_tone_4h": 0.146,
+  "generated_at": "2026-07-19T14:01:35.819678+00:00",
+  "rows_total_scanned_last_run": 2502,
+  "rows_mexico_last_run": 36,
+  "overall_avg_tone_4h": 0.152,
   "timeline": [
-    {
-      "time": "2026-07-16T13:30",
-      "avg_tone": -1.137,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-07-16T13:45",
-      "avg_tone": -1.596,
-      "n_articles": 28
-    },
-    {
-      "time": "2026-07-16T14:00",
-      "avg_tone": 0.707,
-      "n_articles": 26
-    },
     {
       "time": "2026-07-16T14:15",
       "avg_tone": 0.094,
@@ -973,145 +958,165 @@
       "time": "2026-07-19T12:30",
       "avg_tone": 1.03,
       "n_articles": 10
+    },
+    {
+      "time": "2026-07-19T13:15",
+      "avg_tone": 1.175,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-07-19T13:30",
+      "avg_tone": 0.372,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-07-19T13:45",
+      "avg_tone": 0.068,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-07-19T14:00",
+      "avg_tone": 0.9,
+      "n_articles": 6
     }
   ],
   "top_sources": [
     {
-      "source": "thenationalnews.com",
-      "n": 3,
-      "avg_tone": 1.627
-    },
-    {
-      "source": "arkansasonline.com",
+      "source": "newsweek.com",
       "n": 2,
-      "avg_tone": 0.888
+      "avg_tone": -0.933
     },
     {
-      "source": "salinapost.com",
-      "n": 1,
-      "avg_tone": 1.435
+      "source": "orlandosentinel.com",
+      "n": 2,
+      "avg_tone": -2.449
     },
     {
-      "source": "dailypost.ng",
-      "n": 1,
-      "avg_tone": 9.664
+      "source": "abc7ny.com",
+      "n": 2,
+      "avg_tone": 0.019
     },
     {
-      "source": "thenews.com.pk",
+      "source": "sun-sentinel.com",
       "n": 1,
-      "avg_tone": -0.346
+      "avg_tone": 0.173
     },
     {
-      "source": "chicagotribune.com",
+      "source": "castanetkamloops.net",
       "n": 1,
-      "avg_tone": 1.597
+      "avg_tone": 3.607
     },
     {
-      "source": "theguardian.com",
+      "source": "newkerala.com",
       "n": 1,
-      "avg_tone": -2.888
+      "avg_tone": 2.926
     },
     {
-      "source": "washingtonexaminer.com",
+      "source": "travelerstoday.com",
       "n": 1,
-      "avg_tone": -1.587
+      "avg_tone": 0.559
     },
     {
-      "source": "eastbaytimes.com",
+      "source": "wellandtribune.ca",
       "n": 1,
-      "avg_tone": 0.782
+      "avg_tone": -7.377
     },
     {
-      "source": "ibtimes.com.au",
+      "source": "atlantanewsfirst.com",
       "n": 1,
-      "avg_tone": 0.09
+      "avg_tone": 0.174
     },
     {
-      "source": "929theticket.com",
+      "source": "indiatimes.com",
       "n": 1,
-      "avg_tone": 1.552
+      "avg_tone": 0.836
     },
     {
-      "source": "mykeystrokes.com",
+      "source": "kamloopsbcnow.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": 6.529
     },
     {
-      "source": "theintercept.com",
+      "source": "abc7news.com",
       "n": 1,
-      "avg_tone": -3.527
+      "avg_tone": 4.615
     },
     {
-      "source": "forbes.com",
+      "source": "express.co.uk",
       "n": 1,
-      "avg_tone": -0.44
+      "avg_tone": 3.368
     },
     {
-      "source": "dw.com",
+      "source": "manilatimes.net",
       "n": 1,
-      "avg_tone": 1.898
+      "avg_tone": 1.297
+    },
+    {
+      "source": "yorkregion.com",
+      "n": 1,
+      "avg_tone": -6.096
     }
   ],
   "top_themes": [
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 36
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 26
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 25
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 25
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 25
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 23
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 21
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 237
     },
     {
       "theme": "LEADER",
+      "n": 236
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 232
+    },
+    {
+      "theme": "TAX_DISEASE_CYCLOSPORA",
+      "n": 57
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 31
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 31
+    },
+    {
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 30
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 30
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 30
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 30
+    },
+    {
+      "theme": "MEDICAL",
       "n": 20
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
+      "theme": "AGRICULTURE",
       "n": 20
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
+      "theme": "NATURAL_DISASTER_ICE",
       "n": 19
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 19
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICERS",
-      "n": 19
-    },
-    {
-      "theme": "KILL",
-      "n": 18
-    },
-    {
-      "theme": "ENV_OIL",
-      "n": 18
-    },
-    {
-      "theme": "CRISISLEX_T03_DEAD",
+      "theme": "GENERAL_HEALTH",
       "n": 17
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 16
     }
   ]
 }
