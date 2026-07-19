@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-19T17:13:22.741730+00:00",
-  "rows_total_scanned_last_run": 2746,
-  "rows_mexico_last_run": 106,
-  "overall_avg_tone_4h": 0.186,
+  "generated_at": "2026-07-19T18:07:34.502056+00:00",
+  "rows_total_scanned_last_run": 2665,
+  "rows_mexico_last_run": 80,
+  "overall_avg_tone_4h": 0.341,
   "timeline": [
-    {
-      "time": "2026-07-16T17:30",
-      "avg_tone": 1.779,
-      "n_articles": 39
-    },
-    {
-      "time": "2026-07-16T17:45",
-      "avg_tone": 0.231,
-      "n_articles": 46
-    },
-    {
-      "time": "2026-07-16T18:00",
-      "avg_tone": 0.396,
-      "n_articles": 34
-    },
     {
       "time": "2026-07-16T18:15",
       "avg_tone": 2.196,
@@ -993,145 +978,165 @@
       "time": "2026-07-19T17:15",
       "avg_tone": 1.436,
       "n_articles": 30
+    },
+    {
+      "time": "2026-07-19T17:30",
+      "avg_tone": 0.551,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-07-19T17:45",
+      "avg_tone": 1.642,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-07-19T18:00",
+      "avg_tone": 0.71,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-07-19T18:15",
+      "avg_tone": 0.919,
+      "n_articles": 22
     }
   ],
   "top_sources": [
     {
-      "source": "lankanewspapers.com",
+      "source": "dailygazette.com",
       "n": 2,
-      "avg_tone": 4.67
+      "avg_tone": 3.751
     },
     {
-      "source": "faribaultcountyregister.com",
+      "source": "cbs12.com",
       "n": 2,
-      "avg_tone": 0.807
+      "avg_tone": -0.15
     },
     {
-      "source": "prescottenews.com",
+      "source": "abqjournal.com",
       "n": 2,
-      "avg_tone": -4.006
+      "avg_tone": 2.085
     },
     {
-      "source": "wsau.com",
+      "source": "cjme.com",
       "n": 2,
-      "avg_tone": -3.919
+      "avg_tone": -0.736
     },
     {
-      "source": "mirror.co.uk",
+      "source": "cubaheadlines.com",
       "n": 2,
-      "avg_tone": 4.368
+      "avg_tone": 1.55
     },
     {
-      "source": "fox8live.com",
-      "n": 2,
-      "avg_tone": 0.767
+      "source": "foxwilmington.com",
+      "n": 1,
+      "avg_tone": -0.471
     },
     {
-      "source": "ktul.com",
+      "source": "timminspress.com",
+      "n": 1,
+      "avg_tone": -0.117
+    },
+    {
+      "source": "kfoxtv.com",
       "n": 1,
       "avg_tone": 1.072
     },
     {
-      "source": "wafb.com",
-      "n": 1,
-      "avg_tone": 1.506
-    },
-    {
-      "source": "express.co.uk",
-      "n": 1,
-      "avg_tone": -3.533
-    },
-    {
-      "source": "dailyfreeman.com",
-      "n": 1,
-      "avg_tone": 3.191
-    },
-    {
-      "source": "freepressjournal.in",
-      "n": 1,
-      "avg_tone": 3.356
-    },
-    {
-      "source": "comoxvalleyrecord.com",
-      "n": 1,
-      "avg_tone": 3.0
-    },
-    {
-      "source": "wsbt.com",
+      "source": "krcrtv.com",
       "n": 1,
       "avg_tone": 1.072
     },
     {
-      "source": "napaneeguide.com",
+      "source": "fortsaskatchewanrecord.com",
       "n": 1,
       "avg_tone": -0.394
     },
     {
-      "source": "indiatimes.com",
+      "source": "katv.com",
       "n": 1,
-      "avg_tone": 3.836
+      "avg_tone": 1.072
+    },
+    {
+      "source": "foxsanantonio.com",
+      "n": 1,
+      "avg_tone": 1.072
+    },
+    {
+      "source": "cloverdalereporter.com",
+      "n": 1,
+      "avg_tone": 3.0
+    },
+    {
+      "source": "nanaimobulletin.com",
+      "n": 1,
+      "avg_tone": 3.0
+    },
+    {
+      "source": "readingeagle.com",
+      "n": 1,
+      "avg_tone": 3.191
     }
   ],
   "top_themes": [
     {
       "theme": "URBAN",
-      "n": 84
-    },
-    {
-      "theme": "TAX_DISEASE_CYCLOSPORA",
-      "n": 84
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 71
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 64
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 52
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 47
-    },
-    {
-      "theme": "TAX_FOODSTAPLES_POTATOES",
-      "n": 47
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 46
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 46
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 46
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 45
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 42
+      "n": 97
     },
     {
       "theme": "TAX_FNCACT_WORKER",
-      "n": 42
+      "n": 48
     },
     {
-      "theme": "AFFECT",
-      "n": 41
+      "theme": "EDUCATION",
+      "n": 47
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 47
     },
     {
       "theme": "SCIENCE",
-      "n": 39
+      "n": 46
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 46
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_COLLEGE",
+      "n": 43
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 41
+    },
+    {
+      "theme": "AFFECT",
+      "n": 37
+    },
+    {
+      "theme": "TAX_FNCACT_FATHER",
+      "n": 33
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 33
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 32
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_CORN",
+      "n": 32
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 31
+    },
+    {
+      "theme": "TAX_DISEASE_CYCLOSPORA",
+      "n": 31
     }
   ]
 }
