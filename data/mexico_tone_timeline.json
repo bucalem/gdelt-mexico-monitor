@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-19T15:12:35.224227+00:00",
-  "rows_total_scanned_last_run": 2689,
-  "rows_mexico_last_run": 69,
-  "overall_avg_tone_4h": -0.283,
+  "generated_at": "2026-07-19T16:09:22.359125+00:00",
+  "rows_total_scanned_last_run": 2574,
+  "rows_mexico_last_run": 106,
+  "overall_avg_tone_4h": -0.089,
   "timeline": [
-    {
-      "time": "2026-07-16T15:15",
-      "avg_tone": 0.998,
-      "n_articles": 49
-    },
-    {
-      "time": "2026-07-16T15:30",
-      "avg_tone": 0.544,
-      "n_articles": 46
-    },
-    {
-      "time": "2026-07-16T15:45",
-      "avg_tone": 1.767,
-      "n_articles": 48
-    },
-    {
-      "time": "2026-07-16T16:00",
-      "avg_tone": 1.027,
-      "n_articles": 46
-    },
     {
       "time": "2026-07-16T16:15",
       "avg_tone": 1.958,
@@ -993,145 +973,165 @@
       "time": "2026-07-19T15:15",
       "avg_tone": -0.004,
       "n_articles": 20
+    },
+    {
+      "time": "2026-07-19T15:30",
+      "avg_tone": 0.365,
+      "n_articles": 30
+    },
+    {
+      "time": "2026-07-19T15:45",
+      "avg_tone": -1.148,
+      "n_articles": 30
+    },
+    {
+      "time": "2026-07-19T16:00",
+      "avg_tone": 0.512,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-07-19T16:15",
+      "avg_tone": -0.06,
+      "n_articles": 20
     }
   ],
   "top_sources": [
     {
-      "source": "newstribune.com",
-      "n": 3,
-      "avg_tone": -3.244
-    },
-    {
-      "source": "nytimes.com",
+      "source": "riviera-maya-news.com",
       "n": 2,
-      "avg_tone": 0.885
+      "avg_tone": -2.32
     },
     {
-      "source": "newsday.com",
+      "source": "leaderpost.com",
       "n": 2,
-      "avg_tone": -2.429
+      "avg_tone": 4.929
     },
     {
-      "source": "hayspost.com",
+      "source": "katu.com",
+      "n": 2,
+      "avg_tone": -0.679
+    },
+    {
+      "source": "liverpoolecho.co.uk",
+      "n": 2,
+      "avg_tone": 1.843
+    },
+    {
+      "source": "lex18.com",
+      "n": 2,
+      "avg_tone": -3.619
+    },
+    {
+      "source": "mercurynews.com",
+      "n": 2,
+      "avg_tone": 1.987
+    },
+    {
+      "source": "cnycentral.com",
+      "n": 2,
+      "avg_tone": 1.565
+    },
+    {
+      "source": "x1071.com",
+      "n": 2,
+      "avg_tone": 1.783
+    },
+    {
+      "source": "aol.co.uk",
+      "n": 2,
+      "avg_tone": -5.681
+    },
+    {
+      "source": "theguardian.com",
+      "n": 2,
+      "avg_tone": -5.681
+    },
+    {
+      "source": "kait8.com",
+      "n": 2,
+      "avg_tone": 0.84
+    },
+    {
+      "source": "niagarafallsreview.ca",
+      "n": 2,
+      "avg_tone": -5.979
+    },
+    {
+      "source": "bssnews.net",
+      "n": 2,
+      "avg_tone": 3.187
+    },
+    {
+      "source": "jcpost.com",
       "n": 2,
       "avg_tone": -1.516
     },
     {
-      "source": "timminspress.com",
+      "source": "nypost.com",
       "n": 1,
-      "avg_tone": -0.117
-    },
-    {
-      "source": "wchstv.com",
-      "n": 1,
-      "avg_tone": 1.072
-    },
-    {
-      "source": "aol.com",
-      "n": 1,
-      "avg_tone": 5.17
-    },
-    {
-      "source": "ktxs.com",
-      "n": 1,
-      "avg_tone": 1.072
-    },
-    {
-      "source": "elliotlakestandard.ca",
-      "n": 1,
-      "avg_tone": -0.394
-    },
-    {
-      "source": "wlec.com",
-      "n": 1,
-      "avg_tone": -4.878
-    },
-    {
-      "source": "delcotimes.com",
-      "n": 1,
-      "avg_tone": 3.191
-    },
-    {
-      "source": "ky3.com",
-      "n": 1,
-      "avg_tone": 0.174
-    },
-    {
-      "source": "athens-times.com",
-      "n": 1,
-      "avg_tone": -5.016
-    },
-    {
-      "source": "mitchelladvocate.com",
-      "n": 1,
-      "avg_tone": -0.394
-    },
-    {
-      "source": "news-herald.com",
-      "n": 1,
-      "avg_tone": 3.191
+      "avg_tone": -4.049
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_DISEASE_CYCLOSPORA",
-      "n": 114
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 61
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 53
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 53
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 53
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 52
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 50
+      "theme": "MEDIA_MSM",
+      "n": 93
     },
     {
       "theme": "MEDICAL",
-      "n": 48
+      "n": 87
     },
     {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 47
+      "theme": "GENERAL_HEALTH",
+      "n": 80
     },
     {
-      "theme": "TAX_DISEASE_CYCLOSPORIASIS",
-      "n": 43
+      "theme": "SCIENCE",
+      "n": 71
     },
     {
       "theme": "URBAN",
-      "n": 36
-    },
-    {
-      "theme": "AFFECT",
-      "n": 33
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 29
+      "n": 62
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 28
+      "n": 49
+    },
+    {
+      "theme": "TAX_DISEASE_CYCLOSPORA",
+      "n": 48
+    },
+    {
+      "theme": "AFFECT",
+      "n": 46
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 43
     },
     {
       "theme": "EDUCATION",
-      "n": 26
+      "n": 38
+    },
+    {
+      "theme": "TAX_FNCACT_WORKER",
+      "n": 34
+    },
+    {
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 34
+    },
+    {
+      "theme": "TAX_FNCACT_CHILDREN",
+      "n": 32
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_COLLEGE",
+      "n": 31
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 30
     }
   ]
 }
