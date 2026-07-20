@@ -1,39 +1,9 @@
 {
-  "generated_at": "2026-07-20T10:23:59.425559+00:00",
-  "rows_total_scanned_last_run": 3751,
-  "rows_mexico_last_run": 89,
-  "overall_avg_tone_4h": -0.129,
+  "generated_at": "2026-07-20T12:29:31.830106+00:00",
+  "rows_total_scanned_last_run": 4674,
+  "rows_mexico_last_run": 111,
+  "overall_avg_tone_4h": -1.175,
   "timeline": [
-    {
-      "time": "2026-07-17T10:30",
-      "avg_tone": -0.102,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-07-17T10:45",
-      "avg_tone": -0.094,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-07-17T11:15",
-      "avg_tone": -1.024,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-07-17T11:30",
-      "avg_tone": -0.894,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-07-17T11:45",
-      "avg_tone": -0.796,
-      "n_articles": 22
-    },
-    {
-      "time": "2026-07-17T12:00",
-      "avg_tone": -0.81,
-      "n_articles": 22
-    },
     {
       "time": "2026-07-17T12:30",
       "avg_tone": -0.502,
@@ -993,145 +963,165 @@
       "time": "2026-07-20T10:30",
       "avg_tone": -0.514,
       "n_articles": 31
+    },
+    {
+      "time": "2026-07-20T11:45",
+      "avg_tone": -1.089,
+      "n_articles": 24
+    },
+    {
+      "time": "2026-07-20T12:00",
+      "avg_tone": -2.557,
+      "n_articles": 24
+    },
+    {
+      "time": "2026-07-20T12:15",
+      "avg_tone": -3.134,
+      "n_articles": 32
+    },
+    {
+      "time": "2026-07-20T12:30",
+      "avg_tone": -3.421,
+      "n_articles": 31
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 15,
+      "n": 30,
       "avg_tone": -7.911
     },
     {
-      "source": "wcfcourier.com",
-      "n": 6,
-      "avg_tone": 5.333
-    },
-    {
-      "source": "santafenewmexican.com",
+      "source": "yahoo.com",
       "n": 3,
-      "avg_tone": 0.918
-    },
-    {
-      "source": "the-star.co.ke",
-      "n": 3,
-      "avg_tone": 6.295
-    },
-    {
-      "source": "bostonglobe.com",
-      "n": 3,
-      "avg_tone": 1.114
-    },
-    {
-      "source": "foxnews.com",
-      "n": 2,
-      "avg_tone": 2.926
+      "avg_tone": -1.691
     },
     {
       "source": "aol.co.uk",
+      "n": 3,
+      "avg_tone": 1.829
+    },
+    {
+      "source": "netscape.com",
       "n": 2,
-      "avg_tone": -0.637
+      "avg_tone": -2.12
     },
     {
-      "source": "metro.co.uk",
+      "source": "cnn.com",
       "n": 2,
-      "avg_tone": 0.906
+      "avg_tone": -1.361
     },
     {
-      "source": "kitv.com",
+      "source": "archdaily.com",
       "n": 2,
-      "avg_tone": 1.118
+      "avg_tone": 2.536
     },
     {
-      "source": "foodpoisoningbulletin.com",
+      "source": "jamaica-gleaner.com",
       "n": 2,
-      "avg_tone": -2.798
+      "avg_tone": -1.36
     },
     {
-      "source": "kfvs12.com",
-      "n": 1,
-      "avg_tone": 1.164
+      "source": "mexicostar.com",
+      "n": 2,
+      "avg_tone": 5.907
     },
     {
-      "source": "aljazeera.com",
-      "n": 1,
-      "avg_tone": 2.437
+      "source": "siouxcityjournal.com",
+      "n": 2,
+      "avg_tone": 5.333
     },
     {
-      "source": "kmbc.com",
-      "n": 1,
-      "avg_tone": -3.103
+      "source": "theguardian.com",
+      "n": 2,
+      "avg_tone": -0.999
     },
     {
-      "source": "nwaonline.com",
+      "source": "whittierdailynews.com",
       "n": 1,
-      "avg_tone": -2.958
+      "avg_tone": -5.042
     },
     {
-      "source": "saharareporters.com",
+      "source": "hospitalityireland.com",
       "n": 1,
-      "avg_tone": -6.414
+      "avg_tone": 5.384
+    },
+    {
+      "source": "abc7chicago.com",
+      "n": 1,
+      "avg_tone": -0.226
+    },
+    {
+      "source": "sgvtribune.com",
+      "n": 1,
+      "avg_tone": -5.042
+    },
+    {
+      "source": "nj1015.com",
+      "n": 1,
+      "avg_tone": -1.695
     }
   ],
   "top_themes": [
     {
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 241
+    },
+    {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 121
+      "n": 234
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 114
+      "n": 233
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 114
+      "n": 233
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 114
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 111
+      "n": 233
     },
     {
       "theme": "EPU_CATS_HEALTHCARE",
-      "n": 100
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 70
-    },
-    {
-      "theme": "LEADER",
-      "n": 65
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 65
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 53
+      "n": 207
     },
     {
       "theme": "TAX_DISEASE_CYCLOSPORA",
-      "n": 53
+      "n": 189
     },
     {
       "theme": "WB_137_WATER",
-      "n": 51
+      "n": 132
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 51
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 120
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 46
+      "theme": "WB_405_BUSINESS_CLIMATE",
+      "n": 112
+    },
+    {
+      "theme": "WB_2531_INSPECTIONS_LICENSING_AND_PERMITS",
+      "n": 112
+    },
+    {
+      "theme": "WB_2530_BUSINESS_ENVIRONMENT",
+      "n": 112
     },
     {
       "theme": "AFFECT",
-      "n": 42
+      "n": 103
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 89
+    },
+    {
+      "theme": "TAX_DISEASE_DIARRHEA",
+      "n": 81
     }
   ]
 }
