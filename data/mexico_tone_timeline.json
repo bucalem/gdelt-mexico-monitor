@@ -1,39 +1,9 @@
 {
-  "generated_at": "2026-07-21T11:27:49.573861+00:00",
-  "rows_total_scanned_last_run": 4519,
-  "rows_mexico_last_run": 112,
-  "overall_avg_tone_4h": -1.184,
+  "generated_at": "2026-07-21T12:52:17.326621+00:00",
+  "rows_total_scanned_last_run": 5374,
+  "rows_mexico_last_run": 99,
+  "overall_avg_tone_4h": -0.565,
   "timeline": [
-    {
-      "time": "2026-07-18T11:30",
-      "avg_tone": -0.958,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-07-18T11:45",
-      "avg_tone": 0.184,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-07-18T12:00",
-      "avg_tone": 0.461,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-07-18T12:15",
-      "avg_tone": 1.555,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-07-18T12:30",
-      "avg_tone": 0.012,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-07-18T12:45",
-      "avg_tone": -0.879,
-      "n_articles": 14
-    },
     {
       "time": "2026-07-18T13:30",
       "avg_tone": -0.08,
@@ -873,145 +843,165 @@
       "time": "2026-07-21T11:30",
       "avg_tone": -2.116,
       "n_articles": 24
+    },
+    {
+      "time": "2026-07-21T12:15",
+      "avg_tone": -0.588,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-07-21T12:30",
+      "avg_tone": -0.455,
+      "n_articles": 35
+    },
+    {
+      "time": "2026-07-21T12:45",
+      "avg_tone": -0.775,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-07-21T13:00",
+      "avg_tone": -1.032,
+      "n_articles": 24
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 5,
-      "avg_tone": 0.505
+      "source": "wfae.org",
+      "n": 4,
+      "avg_tone": -0.655
     },
     {
-      "source": "wmra.org",
+      "source": "naharnet.com",
       "n": 3,
-      "avg_tone": -1.75
+      "avg_tone": -2.014
     },
     {
-      "source": "wknofm.org",
-      "n": 3,
-      "avg_tone": 0.092
-    },
-    {
-      "source": "aspenpublicradio.org",
-      "n": 3,
-      "avg_tone": 0.092
-    },
-    {
-      "source": "kgou.org",
-      "n": 3,
-      "avg_tone": -0.717
-    },
-    {
-      "source": "yahoo.com",
-      "n": 3,
-      "avg_tone": -0.599
-    },
-    {
-      "source": "ualrpublicradio.org",
-      "n": 3,
-      "avg_tone": 0.092
-    },
-    {
-      "source": "aol.co.uk",
+      "source": "greatbendpost.com",
       "n": 2,
-      "avg_tone": 4.318
+      "avg_tone": -0.904
     },
     {
-      "source": "kmuw.org",
+      "source": "kansaspublicradio.org",
       "n": 2,
-      "avg_tone": -1.322
+      "avg_tone": -1.982
     },
     {
-      "source": "news.am",
+      "source": "ghanaiantimes.com.gh",
       "n": 2,
-      "avg_tone": -8.805
+      "avg_tone": -2.067
     },
     {
-      "source": "apr.org",
+      "source": "eastbaytimes.com",
       "n": 2,
-      "avg_tone": -1.322
+      "avg_tone": -5.416
     },
     {
-      "source": "ironmountaindailynews.com",
+      "source": "edmontonsun.com",
       "n": 2,
-      "avg_tone": -2.431
+      "avg_tone": 2.26
     },
     {
-      "source": "kenw.org",
+      "source": "wglt.org",
       "n": 2,
-      "avg_tone": -1.322
+      "avg_tone": -2.625
     },
     {
-      "source": "nwaonline.com",
+      "source": "kunc.org",
+      "n": 2,
+      "avg_tone": -2.625
+    },
+    {
+      "source": "albawaba.com",
+      "n": 2,
+      "avg_tone": -1.25
+    },
+    {
+      "source": "albawaba.net",
+      "n": 2,
+      "avg_tone": -1.25
+    },
+    {
+      "source": "gilmermirror.com",
       "n": 2,
       "avg_tone": -3.4
     },
     {
-      "source": "theguardian.com",
-      "n": 2,
-      "avg_tone": -1.053
+      "source": "newsweek.com",
+      "n": 1,
+      "avg_tone": -2.9
+    },
+    {
+      "source": "messengernewspapers.co.uk",
+      "n": 1,
+      "avg_tone": 3.59
+    },
+    {
+      "source": "kcbx.org",
+      "n": 1,
+      "avg_tone": -2.644
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 244
-    },
-    {
       "theme": "LEADER",
-      "n": 233
+      "n": 180
     },
     {
-      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
-      "n": 160
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 147
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 98
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 94
-    },
-    {
-      "theme": "TAX_POLITICAL_PARTY_REPUBLICANS",
-      "n": 90
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 170
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 88
-    },
-    {
-      "theme": "TAX_FNCACT_GOVERNOR",
-      "n": 87
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 73
+      "n": 100
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 91
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 79
+    },
+    {
+      "theme": "TAX_FNCACT_CHILDREN",
       "n": 73
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 70
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 68
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 65
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 63
+    },
+    {
+      "theme": "DEMOCRACY",
+      "n": 63
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
       "n": 62
     },
     {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 62
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 62
+    },
+    {
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 61
+    },
+    {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 55
+      "n": 59
+    },
+    {
+      "theme": "EPU_CATS_HEALTHCARE",
+      "n": 54
     }
   ]
 }
