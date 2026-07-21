@@ -1,39 +1,9 @@
 {
-  "generated_at": "2026-07-21T19:05:05.786828+00:00",
-  "rows_total_scanned_last_run": 6602,
-  "rows_mexico_last_run": 139,
-  "overall_avg_tone_4h": -0.288,
+  "generated_at": "2026-07-21T20:34:16.405470+00:00",
+  "rows_total_scanned_last_run": 6385,
+  "rows_mexico_last_run": 151,
+  "overall_avg_tone_4h": -0.246,
   "timeline": [
-    {
-      "time": "2026-07-18T19:15",
-      "avg_tone": -2.438,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-07-18T19:30",
-      "avg_tone": -0.953,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-07-18T19:45",
-      "avg_tone": -1.711,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-07-18T20:00",
-      "avg_tone": -0.877,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-07-18T20:15",
-      "avg_tone": -0.378,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-07-18T20:30",
-      "avg_tone": -0.296,
-      "n_articles": 10
-    },
     {
       "time": "2026-07-18T20:45",
       "avg_tone": -0.733,
@@ -833,145 +803,165 @@
       "time": "2026-07-21T19:00",
       "avg_tone": -0.015,
       "n_articles": 37
+    },
+    {
+      "time": "2026-07-21T19:45",
+      "avg_tone": -0.731,
+      "n_articles": 40
+    },
+    {
+      "time": "2026-07-21T20:00",
+      "avg_tone": -0.497,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-07-21T20:15",
+      "avg_tone": -0.096,
+      "n_articles": 37
+    },
+    {
+      "time": "2026-07-21T20:30",
+      "avg_tone": -0.934,
+      "n_articles": 47
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 24,
-      "avg_tone": 1.933
+      "n": 10,
+      "avg_tone": 1.602
     },
     {
-      "source": "cubaheadlines.com",
-      "n": 5,
-      "avg_tone": -2.404
-    },
-    {
-      "source": "tickerreport.com",
+      "source": "dailynews.com",
       "n": 4,
-      "avg_tone": 1.844
-    },
-    {
-      "source": "dailylocal.com",
-      "n": 3,
-      "avg_tone": 1.382
-    },
-    {
-      "source": "gasgoo.com",
-      "n": 3,
-      "avg_tone": -0.043
+      "avg_tone": 0.216
     },
     {
       "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -1.768
+      "n": 3,
+      "avg_tone": -0.297
     },
     {
-      "source": "ocregister.com",
+      "source": "sbsun.com",
+      "n": 3,
+      "avg_tone": 1.345
+    },
+    {
+      "source": "mainlinemedianews.com",
+      "n": 3,
+      "avg_tone": 0.009
+    },
+    {
+      "source": "thereporteronline.com",
+      "n": 3,
+      "avg_tone": 0.009
+    },
+    {
+      "source": "ladailypost.com",
+      "n": 3,
+      "avg_tone": 2.576
+    },
+    {
+      "source": "sandiegouniontribune.com",
+      "n": 3,
+      "avg_tone": -0.875
+    },
+    {
+      "source": "pasadenastarnews.com",
+      "n": 3,
+      "avg_tone": 1.474
+    },
+    {
+      "source": "laist.com",
+      "n": 2,
+      "avg_tone": -0.497
+    },
+    {
+      "source": "gringogazette.com",
+      "n": 2,
+      "avg_tone": -0.372
+    },
+    {
+      "source": "pakistantoday.com.pk",
+      "n": 2,
+      "avg_tone": 0.057
+    },
+    {
+      "source": "delcotimes.com",
       "n": 2,
       "avg_tone": 1.791
     },
     {
-      "source": "dailycamera.com",
+      "source": "wral.com",
       "n": 2,
-      "avg_tone": 1.791
+      "avg_tone": -2.581
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "hottalkradio.com",
       "n": 2,
-      "avg_tone": 1.317
-    },
-    {
-      "source": "theoaklandpress.com",
-      "n": 2,
-      "avg_tone": 0.418
-    },
-    {
-      "source": "tpr.org",
-      "n": 2,
-      "avg_tone": -1.537
-    },
-    {
-      "source": "foxnews.com",
-      "n": 2,
-      "avg_tone": -3.872
-    },
-    {
-      "source": "winnipegfreepress.com",
-      "n": 2,
-      "avg_tone": -1.288
-    },
-    {
-      "source": "harpersbazaar.com",
-      "n": 2,
-      "avg_tone": 0.851
-    },
-    {
-      "source": "wcrz.com",
-      "n": 1,
-      "avg_tone": -2.947
+      "avg_tone": -8.244
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 139
+      "n": 181
     },
     {
       "theme": "LEADER",
-      "n": 95
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 95
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 81
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 79
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 77
+      "n": 159
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 76
+      "n": 158
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 69
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 154
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 69
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 147
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 64
+      "theme": "EPU_POLICY_POLITICAL",
+      "n": 99
+    },
+    {
+      "theme": "ELECTION",
+      "n": 94
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 94
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 86
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 60
+      "n": 78
     },
     {
-      "theme": "MEDICAL",
-      "n": 60
+      "theme": "TAX_ECON_PRICE",
+      "n": 70
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 58
+      "theme": "LEGISLATION",
+      "n": 70
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 53
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 64
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 53
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 64
+    },
+    {
+      "theme": "EPU_POLICY_LAW",
+      "n": 64
     }
   ]
 }
