@@ -1,44 +1,9 @@
 {
-  "generated_at": "2026-07-22T13:09:40.112061+00:00",
-  "rows_total_scanned_last_run": 5523,
-  "rows_mexico_last_run": 73,
-  "overall_avg_tone_4h": -0.526,
+  "generated_at": "2026-07-22T15:15:35.051134+00:00",
+  "rows_total_scanned_last_run": 6337,
+  "rows_mexico_last_run": 96,
+  "overall_avg_tone_4h": -0.89,
   "timeline": [
-    {
-      "time": "2026-07-19T13:15",
-      "avg_tone": 1.175,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-07-19T13:30",
-      "avg_tone": 0.372,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-07-19T13:45",
-      "avg_tone": 0.068,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-07-19T14:00",
-      "avg_tone": 0.9,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-07-19T14:30",
-      "avg_tone": -0.213,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-07-19T14:45",
-      "avg_tone": -2.651,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-07-19T15:00",
-      "avg_tone": -0.295,
-      "n_articles": 17
-    },
     {
       "time": "2026-07-19T15:15",
       "avg_tone": -0.004,
@@ -808,145 +773,165 @@
       "time": "2026-07-22T13:15",
       "avg_tone": -1.485,
       "n_articles": 16
+    },
+    {
+      "time": "2026-07-22T14:30",
+      "avg_tone": -1.891,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-07-22T14:45",
+      "avg_tone": -1.016,
+      "n_articles": 31
+    },
+    {
+      "time": "2026-07-22T15:00",
+      "avg_tone": -0.744,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-07-22T15:15",
+      "avg_tone": -1.581,
+      "n_articles": 18
     }
   ],
   "top_sources": [
     {
-      "source": "torontotelegraph.com",
-      "n": 3,
-      "avg_tone": 0.544
+      "source": "stcatharinesstandard.ca",
+      "n": 5,
+      "avg_tone": -2.353
     },
     {
-      "source": "newjerseytelegraph.com",
+      "source": "homenewshere.com",
       "n": 3,
-      "avg_tone": 0.544
+      "avg_tone": 0.917
     },
     {
-      "source": "bostonglobe.com",
+      "source": "wellandtribune.ca",
       "n": 3,
-      "avg_tone": 0.158
+      "avg_tone": -2.094
     },
     {
-      "source": "yahoo.com",
-      "n": 2,
+      "source": "bnnbloomberg.ca",
+      "n": 3,
       "avg_tone": -0.849
     },
     {
-      "source": "freshfruitportal.com",
+      "source": "dailygazette.com",
       "n": 2,
-      "avg_tone": -0.418
-    },
-    {
-      "source": "aol.co.uk",
-      "n": 2,
-      "avg_tone": 4.538
-    },
-    {
-      "source": "forbes.com",
-      "n": 2,
-      "avg_tone": -1.755
-    },
-    {
-      "source": "kfgo.com",
-      "n": 1,
-      "avg_tone": -5.536
-    },
-    {
-      "source": "pembinavalleyonline.com",
-      "n": 1,
-      "avg_tone": 4.636
-    },
-    {
-      "source": "marinelink.com",
-      "n": 1,
-      "avg_tone": -6.128
-    },
-    {
-      "source": "actionnewsjax.com",
-      "n": 1,
       "avg_tone": -2.632
     },
     {
-      "source": "miragenews.com",
-      "n": 1,
-      "avg_tone": 1.616
+      "source": "wsls.com",
+      "n": 2,
+      "avg_tone": -2.99
     },
     {
-      "source": "govexec.com",
-      "n": 1,
-      "avg_tone": -7.635
+      "source": "tnledger.com",
+      "n": 2,
+      "avg_tone": -1.995
     },
     {
-      "source": "radioink.com",
-      "n": 1,
-      "avg_tone": -0.797
+      "source": "dailypolitical.com",
+      "n": 2,
+      "avg_tone": 2.242
     },
     {
-      "source": "theepochtimes.com",
+      "source": "mexicoledger.com",
+      "n": 2,
+      "avg_tone": 2.206
+    },
+    {
+      "source": "kten.com",
+      "n": 2,
+      "avg_tone": -0.102
+    },
+    {
+      "source": "nbcnews.com",
+      "n": 2,
+      "avg_tone": -3.258
+    },
+    {
+      "source": "finanznachrichten.de",
+      "n": 2,
+      "avg_tone": 1.433
+    },
+    {
+      "source": "thepeterboroughexaminer.com",
+      "n": 2,
+      "avg_tone": -2.279
+    },
+    {
+      "source": "wral.com",
       "n": 1,
-      "avg_tone": -2.268
+      "avg_tone": -2.623
+    },
+    {
+      "source": "wmal.com",
+      "n": 1,
+      "avg_tone": -7.66
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 210
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 208
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 208
-    },
-    {
-      "theme": "ENV_METALS",
-      "n": 207
-    },
-    {
-      "theme": "WB_2937_SILVER",
-      "n": 190
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 132
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 94
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 84
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 73
-    },
-    {
-      "theme": "EPU_ECONOMY",
-      "n": 67
+      "theme": "WB_137_WATER",
+      "n": 298
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 66
+      "n": 158
     },
     {
-      "theme": "WB_137_WATER",
-      "n": 65
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 99
     },
     {
-      "theme": "LEADER",
-      "n": 61
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 99
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 55
+      "n": 85
+    },
+    {
+      "theme": "LEADER",
+      "n": 78
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 78
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 78
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 77
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 55
+      "n": 75
+    },
+    {
+      "theme": "WB_2937_SILVER",
+      "n": 74
+    },
+    {
+      "theme": "ENV_METALS",
+      "n": 73
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 68
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 66
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 58
     }
   ]
 }
