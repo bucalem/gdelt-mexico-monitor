@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-23T16:53:59.300847+00:00",
-  "rows_total_scanned_last_run": 7051,
-  "rows_mexico_last_run": 110,
-  "overall_avg_tone_4h": -0.829,
+  "generated_at": "2026-07-23T18:08:06.154814+00:00",
+  "rows_total_scanned_last_run": 7021,
+  "rows_mexico_last_run": 99,
+  "overall_avg_tone_4h": -0.71,
   "timeline": [
-    {
-      "time": "2026-07-20T17:30",
-      "avg_tone": -1.86,
-      "n_articles": 49
-    },
-    {
-      "time": "2026-07-20T17:45",
-      "avg_tone": -2.456,
-      "n_articles": 41
-    },
-    {
-      "time": "2026-07-20T18:00",
-      "avg_tone": -1.488,
-      "n_articles": 63
-    },
     {
       "time": "2026-07-20T18:15",
       "avg_tone": -2.032,
@@ -783,145 +768,165 @@
       "time": "2026-07-23T17:00",
       "avg_tone": -0.038,
       "n_articles": 26
+    },
+    {
+      "time": "2026-07-23T17:30",
+      "avg_tone": -0.395,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-07-23T17:45",
+      "avg_tone": -0.127,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-07-23T18:00",
+      "avg_tone": -0.42,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-07-23T18:15",
+      "avg_tone": 0.067,
+      "n_articles": 27
     }
   ],
   "top_sources": [
     {
-      "source": "taosnews.com",
+      "source": "larouchepub.com",
       "n": 4,
-      "avg_tone": -0.438
+      "avg_tone": -0.727
     },
     {
-      "source": "banderasnews.com",
+      "source": "mercurynews.com",
       "n": 3,
-      "avg_tone": 3.261
+      "avg_tone": -4.782
     },
     {
-      "source": "clickondetroit.com",
-      "n": 3,
-      "avg_tone": -2.393
-    },
-    {
-      "source": "finanznachrichten.de",
-      "n": 3,
-      "avg_tone": 2.598
-    },
-    {
-      "source": "cruisehive.com",
+      "source": "webwire.com",
       "n": 2,
-      "avg_tone": -0.61
+      "avg_tone": 6.727
     },
     {
-      "source": "aol.co.uk",
+      "source": "caledoncitizen.com",
       "n": 2,
-      "avg_tone": -6.332
+      "avg_tone": -0.711
     },
     {
-      "source": "cbsnews.com",
+      "source": "morningstaronline.co.uk",
       "n": 2,
-      "avg_tone": -4.078
+      "avg_tone": -2.141
     },
     {
-      "source": "news4jax.com",
+      "source": "medicaldaily.com",
       "n": 2,
-      "avg_tone": -2.404
+      "avg_tone": -3.113
     },
     {
-      "source": "livemint.com",
+      "source": "intelligencer.ca",
       "n": 2,
-      "avg_tone": -0.89
+      "avg_tone": -4.003
     },
     {
-      "source": "indiatimes.com",
+      "source": "pressdemocrat.com",
       "n": 2,
-      "avg_tone": -6.374
+      "avg_tone": -2.284
     },
     {
-      "source": "californiatelegraph.com",
-      "n": 2,
-      "avg_tone": -2.815
-    },
-    {
-      "source": "cp24.com",
+      "source": "bnnbloomberg.ca",
       "n": 2,
       "avg_tone": -0.009
     },
     {
-      "source": "ksat.com",
+      "source": "screenrant.com",
       "n": 2,
-      "avg_tone": -2.404
+      "avg_tone": -0.774
     },
     {
-      "source": "tvguide.co.uk",
-      "n": 2,
-      "avg_tone": 2.604
+      "source": "tickerreport.com",
+      "n": 1,
+      "avg_tone": 2.797
     },
     {
-      "source": "koolfmabilene.com",
-      "n": 2,
-      "avg_tone": 0.892
+      "source": "cleveland19.com",
+      "n": 1,
+      "avg_tone": -4.433
+    },
+    {
+      "source": "marinelink.com",
+      "n": 1,
+      "avg_tone": -1.408
+    },
+    {
+      "source": "azerbaijannews.net",
+      "n": 1,
+      "avg_tone": 3.113
+    },
+    {
+      "source": "krui.fm",
+      "n": 1,
+      "avg_tone": 1.227
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 318
+      "n": 344
     },
     {
       "theme": "MEDICAL",
-      "n": 245
+      "n": 284
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 230
+      "n": 274
     },
     {
       "theme": "WB_1331_HEALTH_TECHNOLOGIES",
-      "n": 187
+      "n": 189
     },
     {
       "theme": "WB_1350_PHARMACEUTICALS",
-      "n": 187
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 145
-    },
-    {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 126
-    },
-    {
-      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 126
-    },
-    {
-      "theme": "WB_1281_MANUFACTURING",
-      "n": 123
+      "n": 189
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 122
+      "n": 117
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 109
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 113
     },
     {
-      "theme": "TAX_DISEASE_CYCLOSPORIASIS",
-      "n": 101
+      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "n": 108
+    },
+    {
+      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
+      "n": 108
+    },
+    {
+      "theme": "WB_1281_MANUFACTURING",
+      "n": 108
     },
     {
       "theme": "TAX_DISEASE_CYCLOSPORA",
-      "n": 100
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 94
+      "n": 105
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 93
+      "n": 104
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 103
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 103
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 100
     }
   ]
 }
