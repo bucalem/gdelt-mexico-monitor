@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-23T11:33:22.304182+00:00",
-  "rows_total_scanned_last_run": 4692,
-  "rows_mexico_last_run": 55,
-  "overall_avg_tone_4h": -1.001,
+  "generated_at": "2026-07-23T13:12:05.458917+00:00",
+  "rows_total_scanned_last_run": 5284,
+  "rows_mexico_last_run": 85,
+  "overall_avg_tone_4h": -0.898,
   "timeline": [
-    {
-      "time": "2026-07-20T11:45",
-      "avg_tone": -1.089,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-07-20T12:00",
-      "avg_tone": -2.557,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-07-20T12:15",
-      "avg_tone": -3.134,
-      "n_articles": 32
-    },
-    {
-      "time": "2026-07-20T12:30",
-      "avg_tone": -3.421,
-      "n_articles": 31
-    },
     {
       "time": "2026-07-20T14:00",
       "avg_tone": -1.197,
@@ -778,145 +758,165 @@
       "time": "2026-07-23T11:30",
       "avg_tone": -0.623,
       "n_articles": 15
+    },
+    {
+      "time": "2026-07-23T12:30",
+      "avg_tone": -0.934,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-07-23T12:45",
+      "avg_tone": 0.263,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-07-23T13:00",
+      "avg_tone": -1.803,
+      "n_articles": 24
+    },
+    {
+      "time": "2026-07-23T13:15",
+      "avg_tone": -2.036,
+      "n_articles": 19
     }
   ],
   "top_sources": [
     {
-      "source": "elpais.com",
-      "n": 4,
-      "avg_tone": -3.555
+      "source": "news-bulletin.com",
+      "n": 6,
+      "avg_tone": 0.614
     },
     {
-      "source": "aginfo.net",
-      "n": 3,
-      "avg_tone": -2.117
-    },
-    {
-      "source": "observertoday.com",
-      "n": 2,
-      "avg_tone": -2.369
-    },
-    {
-      "source": "finanznachrichten.de",
-      "n": 2,
-      "avg_tone": -0.469
-    },
-    {
-      "source": "aa.com.tr",
-      "n": 2,
-      "avg_tone": -5.861
-    },
-    {
-      "source": "thespiritsbusiness.com",
-      "n": 1,
-      "avg_tone": -1.149
-    },
-    {
-      "source": "independent.co.uk",
-      "n": 1,
-      "avg_tone": -8.036
+      "source": "freshplaza.com",
+      "n": 6,
+      "avg_tone": 1.787
     },
     {
       "source": "prnewswire.com",
-      "n": 1,
-      "avg_tone": 3.086
+      "n": 4,
+      "avg_tone": 2.695
     },
     {
-      "source": "cruiseindustrynews.com",
-      "n": 1,
-      "avg_tone": 3.421
+      "source": "yahoo.com",
+      "n": 4,
+      "avg_tone": -1.56
     },
     {
-      "source": "power1057.com",
-      "n": 1,
-      "avg_tone": -1.087
+      "source": "freshfruitportal.com",
+      "n": 4,
+      "avg_tone": 0.86
     },
     {
-      "source": "power103.com",
-      "n": 1,
-      "avg_tone": -1.087
+      "source": "koat.com",
+      "n": 3,
+      "avg_tone": -3.651
     },
     {
-      "source": "vietnamtribune.com",
-      "n": 1,
-      "avg_tone": 5.049
+      "source": "lasvegassun.com",
+      "n": 2,
+      "avg_tone": -1.48
     },
     {
-      "source": "cp24.com",
-      "n": 1,
-      "avg_tone": 2.24
+      "source": "whbl.com",
+      "n": 2,
+      "avg_tone": -2.102
     },
     {
-      "source": "dailypolitical.com",
-      "n": 1,
-      "avg_tone": 0.0
+      "source": "athens-times.com",
+      "n": 2,
+      "avg_tone": -5.352
     },
     {
-      "source": "mix103.com",
+      "source": "kfgo.com",
+      "n": 2,
+      "avg_tone": -3.893
+    },
+    {
+      "source": "lethbridgeherald.com",
+      "n": 2,
+      "avg_tone": -2.221
+    },
+    {
+      "source": "dailymail.com",
+      "n": 2,
+      "avg_tone": -3.296
+    },
+    {
+      "source": "ivpressonline.com",
+      "n": 2,
+      "avg_tone": -1.481
+    },
+    {
+      "source": "kmbc.com",
       "n": 1,
-      "avg_tone": -1.087
+      "avg_tone": -6.357
+    },
+    {
+      "source": "wlrn.org",
+      "n": 1,
+      "avg_tone": -7.086
     }
   ],
   "top_themes": [
     {
-      "theme": "MEDICAL",
-      "n": 167
-    },
-    {
       "theme": "GENERAL_HEALTH",
-      "n": 130
+      "n": 197
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 128
+      "theme": "MEDICAL",
+      "n": 183
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 131
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 124
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 105
+      "n": 85
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 88
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 82
     },
     {
-      "theme": "WB_1458_HEALTH_PROMOTION_AND_DISEASE_PREVENTION",
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
       "n": 76
     },
     {
-      "theme": "WB_1462_WATER_SANITATION_AND_HYGIENE",
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
       "n": 75
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 67
+      "theme": "WB_2167_PANDEMICS",
+      "n": 75
     },
     {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 54
+      "theme": "EDUCATION",
+      "n": 74
     },
     {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 51
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 73
     },
     {
-      "theme": "LEADER",
-      "n": 51
+      "theme": "TAX_DISEASE_CYCLOSPORA",
+      "n": 70
     },
     {
-      "theme": "WB_1331_HEALTH_TECHNOLOGIES",
-      "n": 48
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 65
     },
     {
-      "theme": "WB_1350_PHARMACEUTICALS",
-      "n": 48
+      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
+      "n": 64
     },
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 47
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 46
+      "theme": "AFFECT",
+      "n": 62
     }
   ]
 }
