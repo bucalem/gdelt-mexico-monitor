@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-24T04:29:52.196586+00:00",
-  "rows_total_scanned_last_run": 2974,
-  "rows_mexico_last_run": 56,
-  "overall_avg_tone_4h": -1.739,
+  "generated_at": "2026-07-24T07:08:44.352649+00:00",
+  "rows_total_scanned_last_run": 3575,
+  "rows_mexico_last_run": 81,
+  "overall_avg_tone_4h": -1.654,
   "timeline": [
-    {
-      "time": "2026-07-21T04:30",
-      "avg_tone": -0.614,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-07-21T06:30",
-      "avg_tone": -1.102,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-07-21T06:45",
-      "avg_tone": -0.31,
-      "n_articles": 17
-    },
     {
       "time": "2026-07-21T09:00",
       "avg_tone": 0.935,
@@ -823,145 +808,165 @@
       "time": "2026-07-24T04:30",
       "avg_tone": -1.387,
       "n_articles": 14
+    },
+    {
+      "time": "2026-07-24T06:30",
+      "avg_tone": -0.01,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-07-24T06:45",
+      "avg_tone": -1.311,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-07-24T07:00",
+      "avg_tone": -0.836,
+      "n_articles": 32
+    },
+    {
+      "time": "2026-07-24T07:15",
+      "avg_tone": -1.026,
+      "n_articles": 22
     }
   ],
   "top_sources": [
     {
-      "source": "chinadaily.com.cn",
-      "n": 4,
-      "avg_tone": -0.114
+      "source": "riotimesonline.com",
+      "n": 15,
+      "avg_tone": -2.248
     },
     {
-      "source": "calgarysun.com",
+      "source": "brownfieldagnews.com",
+      "n": 11,
+      "avg_tone": 0.175
+    },
+    {
+      "source": "china.org.cn",
       "n": 3,
-      "avg_tone": -0.317
+      "avg_tone": -2.545
     },
     {
-      "source": "bgnes.com",
+      "source": "econotimes.com",
+      "n": 3,
+      "avg_tone": -2.155
+    },
+    {
+      "source": "theguardian.com",
       "n": 2,
-      "avg_tone": -2.883
+      "avg_tone": -2.888
     },
     {
-      "source": "jpost.com",
+      "source": "yahoo.com",
       "n": 2,
-      "avg_tone": 0.168
+      "avg_tone": 0.58
     },
     {
-      "source": "trinidadtimes.com",
+      "source": "indiatimes.com",
       "n": 2,
-      "avg_tone": -3.85
+      "avg_tone": 1.2
     },
     {
-      "source": "tvguide.co.uk",
+      "source": "demingheadlight.com",
       "n": 2,
-      "avg_tone": -4.916
+      "avg_tone": 1.468
     },
     {
-      "source": "foxbusiness.com",
-      "n": 1,
-      "avg_tone": -2.895
+      "source": "asiaone.com",
+      "n": 2,
+      "avg_tone": -0.024
     },
     {
-      "source": "nbcnews.com",
+      "source": "leadership.ng",
       "n": 1,
-      "avg_tone": 2.81
+      "avg_tone": -3.955
     },
     {
-      "source": "odt.co.nz",
+      "source": "indianexpress.com",
       "n": 1,
-      "avg_tone": -5.186
+      "avg_tone": -1.799
     },
     {
-      "source": "kctv5.com",
+      "source": "vietnamnews.vn",
       "n": 1,
-      "avg_tone": -3.356
+      "avg_tone": -2.948
     },
     {
-      "source": "mix1043fm.com",
+      "source": "stardem.com",
       "n": 1,
-      "avg_tone": 3.499
+      "avg_tone": -5.505
     },
     {
-      "source": "calgaryherald.com",
+      "source": "dailypost.ng",
       "n": 1,
-      "avg_tone": -1.167
+      "avg_tone": -3.986
     },
     {
-      "source": "businessday.co.za",
+      "source": "newstalk1010.com",
       "n": 1,
-      "avg_tone": 3.35
-    },
-    {
-      "source": "dominicantoday.com",
-      "n": 1,
-      "avg_tone": -4.762
-    },
-    {
-      "source": "dailyliberal.com.au",
-      "n": 1,
-      "avg_tone": -3.141
+      "avg_tone": -0.73
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 192
+      "n": 157
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 107
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 102
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 102
+    },
+    {
+      "theme": "ECON_WORLDCURRENCIES_PESO",
+      "n": 96
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 92
     },
     {
       "theme": "WB_1669_FORCED_LABOR",
-      "n": 111
-    },
-    {
-      "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
-      "n": 111
+      "n": 82
     },
     {
       "theme": "WB_1668_LABOR_STANDARDS",
-      "n": 105
+      "n": 80
     },
     {
       "theme": "WB_855_LABOR_MARKETS",
-      "n": 105
+      "n": 80
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 79
+      "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
+      "n": 80
     },
     {
-      "theme": "LEADER",
-      "n": 77
-    },
-    {
-      "theme": "HUMAN_TRAFFICKING",
+      "theme": "TAX_ECON_PRICE",
       "n": 76
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 70
+      "theme": "USPEC_POLICY1",
+      "n": 68
     },
     {
       "theme": "ENV_OIL",
-      "n": 60
+      "n": 67
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 49
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 63
     },
     {
-      "theme": "TAX_FNCACT_OFFICIAL",
-      "n": 48
-    },
-    {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 48
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 47
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 44
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 59
     }
   ]
 }
