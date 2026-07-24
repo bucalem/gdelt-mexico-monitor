@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-24T21:46:25.542810+00:00",
-  "rows_total_scanned_last_run": 5854,
-  "rows_mexico_last_run": 177,
-  "overall_avg_tone_4h": -1.975,
+  "generated_at": "2026-07-24T22:54:13.527000+00:00",
+  "rows_total_scanned_last_run": 3489,
+  "rows_mexico_last_run": 101,
+  "overall_avg_tone_4h": -2.137,
   "timeline": [
-    {
-      "time": "2026-07-21T22:00",
-      "avg_tone": -1.726,
-      "n_articles": 47
-    },
-    {
-      "time": "2026-07-21T22:15",
-      "avg_tone": -2.371,
-      "n_articles": 42
-    },
-    {
-      "time": "2026-07-21T22:30",
-      "avg_tone": -1.046,
-      "n_articles": 32
-    },
-    {
-      "time": "2026-07-21T22:45",
-      "avg_tone": -1.789,
-      "n_articles": 26
-    },
     {
       "time": "2026-07-21T23:00",
       "avg_tone": -2.187,
@@ -788,145 +768,160 @@
       "time": "2026-07-24T21:45",
       "avg_tone": -2.198,
       "n_articles": 43
+    },
+    {
+      "time": "2026-07-24T22:15",
+      "avg_tone": -3.123,
+      "n_articles": 41
+    },
+    {
+      "time": "2026-07-24T22:45",
+      "avg_tone": -2.873,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-07-24T23:00",
+      "avg_tone": -3.136,
+      "n_articles": 34
     }
   ],
   "top_sources": [
     {
-      "source": "yahoo.com",
-      "n": 3,
-      "avg_tone": -3.075
-    },
-    {
-      "source": "kob.com",
-      "n": 3,
-      "avg_tone": -0.903
-    },
-    {
-      "source": "wlox.com",
+      "source": "koat.com",
       "n": 2,
-      "avg_tone": -2.535
+      "avg_tone": -3.792
     },
     {
-      "source": "northwalespioneer.co.uk",
-      "n": 2,
-      "avg_tone": -3.996
-    },
-    {
-      "source": "stroudnewsandjournal.co.uk",
-      "n": 2,
-      "avg_tone": -3.996
-    },
-    {
-      "source": "wwmt.com",
-      "n": 2,
-      "avg_tone": -0.399
-    },
-    {
-      "source": "independent.co.uk",
-      "n": 2,
-      "avg_tone": -3.189
-    },
-    {
-      "source": "watfordobserver.co.uk",
-      "n": 2,
-      "avg_tone": -3.996
-    },
-    {
-      "source": "bostonherald.com",
-      "n": 2,
-      "avg_tone": -3.547
-    },
-    {
-      "source": "mainlinemedianews.com",
-      "n": 2,
-      "avg_tone": -3.547
-    },
-    {
-      "source": "gazetteseries.co.uk",
-      "n": 2,
-      "avg_tone": -3.996
-    },
-    {
-      "source": "redditchadvertiser.co.uk",
-      "n": 2,
-      "avg_tone": -3.996
-    },
-    {
-      "source": "unionleader.com",
-      "n": 2,
-      "avg_tone": -2.499
-    },
-    {
-      "source": "thewestonmercury.co.uk",
-      "n": 2,
-      "avg_tone": -3.996
-    },
-    {
-      "source": "wcbe.org",
+      "source": "ypradio.org",
       "n": 2,
       "avg_tone": -2.162
+    },
+    {
+      "source": "techtimes.com",
+      "n": 2,
+      "avg_tone": -0.282
+    },
+    {
+      "source": "lbc.co.uk",
+      "n": 2,
+      "avg_tone": -2.642
+    },
+    {
+      "source": "wesh.com",
+      "n": 2,
+      "avg_tone": -3.792
+    },
+    {
+      "source": "upi.com",
+      "n": 2,
+      "avg_tone": -4.401
+    },
+    {
+      "source": "reporterherald.com",
+      "n": 2,
+      "avg_tone": -3.817
+    },
+    {
+      "source": "wjcl.com",
+      "n": 2,
+      "avg_tone": -3.792
+    },
+    {
+      "source": "cotswoldjournal.co.uk",
+      "n": 2,
+      "avg_tone": -4.126
+    },
+    {
+      "source": "wyff4.com",
+      "n": 2,
+      "avg_tone": -3.789
+    },
+    {
+      "source": "salisburyjournal.co.uk",
+      "n": 2,
+      "avg_tone": -4.126
+    },
+    {
+      "source": "aol.com",
+      "n": 2,
+      "avg_tone": -1.814
+    },
+    {
+      "source": "milfordmercury.co.uk",
+      "n": 2,
+      "avg_tone": -4.126
+    },
+    {
+      "source": "eveshamjournal.co.uk",
+      "n": 1,
+      "avg_tone": -4.037
+    },
+    {
+      "source": "calgarysun.com",
+      "n": 1,
+      "avg_tone": 0.685
     }
   ],
   "top_themes": [
     {
-      "theme": "NATURAL_DISASTER_WILDFIRES",
-      "n": 507
-    },
-    {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 471
+      "n": 406
     },
     {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 425
+      "theme": "NATURAL_DISASTER_WILDFIRES",
+      "n": 381
     },
     {
       "theme": "NATURAL_DISASTER_WILDFIRE",
-      "n": 345
+      "n": 270
     },
     {
-      "theme": "MEDICAL",
-      "n": 282
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 264
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 256
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 169
     },
     {
       "theme": "WB_137_WATER",
-      "n": 250
+      "n": 166
+    },
+    {
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 165
+    },
+    {
+      "theme": "TAX_FNCACT_AUTHORITIES",
+      "n": 150
+    },
+    {
+      "theme": "EPU_POLICY_AUTHORITIES",
+      "n": 150
+    },
+    {
+      "theme": "ARMEDCONFLICT",
+      "n": 149
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 145
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 138
+    },
+    {
+      "theme": "TAX_ETHNICITY_SPANISH",
+      "n": 137
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_SPANISH",
+      "n": 137
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 135
     },
     {
       "theme": "LEADER",
-      "n": 234
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 220
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 209
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 209
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 209
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 209
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 204
+      "n": 134
     }
   ]
 }
