@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-24T07:08:44.352649+00:00",
-  "rows_total_scanned_last_run": 3575,
-  "rows_mexico_last_run": 81,
-  "overall_avg_tone_4h": -1.654,
+  "generated_at": "2026-07-24T09:31:28.516822+00:00",
+  "rows_total_scanned_last_run": 1812,
+  "rows_mexico_last_run": 33,
+  "overall_avg_tone_4h": -1.567,
   "timeline": [
-    {
-      "time": "2026-07-21T09:00",
-      "avg_tone": 0.935,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-07-21T09:15",
-      "avg_tone": 0.533,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-07-21T09:30",
-      "avg_tone": -1.426,
-      "n_articles": 24
-    },
     {
       "time": "2026-07-21T09:45",
       "avg_tone": 1.253,
@@ -828,145 +813,155 @@
       "time": "2026-07-24T07:15",
       "avg_tone": -1.026,
       "n_articles": 22
+    },
+    {
+      "time": "2026-07-24T08:45",
+      "avg_tone": -0.929,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-07-24T09:15",
+      "avg_tone": -0.913,
+      "n_articles": 15
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 15,
-      "avg_tone": -2.248
-    },
-    {
-      "source": "brownfieldagnews.com",
-      "n": 11,
-      "avg_tone": 0.175
-    },
-    {
-      "source": "china.org.cn",
+      "source": "arkansasonline.com",
       "n": 3,
-      "avg_tone": -2.545
+      "avg_tone": -0.349
     },
     {
-      "source": "econotimes.com",
-      "n": 3,
-      "avg_tone": -2.155
-    },
-    {
-      "source": "theguardian.com",
+      "source": "chronicle.lu",
       "n": 2,
-      "avg_tone": -2.888
+      "avg_tone": -3.481
     },
     {
-      "source": "yahoo.com",
+      "source": "union-bulletin.com",
       "n": 2,
-      "avg_tone": 0.58
+      "avg_tone": -1.176
     },
     {
-      "source": "indiatimes.com",
+      "source": "mirror.co.uk",
       "n": 2,
-      "avg_tone": 1.2
+      "avg_tone": 1.118
     },
     {
-      "source": "demingheadlight.com",
-      "n": 2,
-      "avg_tone": 1.468
-    },
-    {
-      "source": "asiaone.com",
-      "n": 2,
-      "avg_tone": -0.024
-    },
-    {
-      "source": "leadership.ng",
+      "source": "naroomanewsonline.com.au",
       "n": 1,
-      "avg_tone": -3.955
+      "avg_tone": -1.444
     },
     {
-      "source": "indianexpress.com",
+      "source": "northerndailyleader.com.au",
       "n": 1,
-      "avg_tone": -1.799
+      "avg_tone": -1.453
     },
     {
-      "source": "vietnamnews.vn",
+      "source": "queanbeyanage.com.au",
       "n": 1,
-      "avg_tone": -2.948
+      "avg_tone": -1.455
     },
     {
-      "source": "stardem.com",
+      "source": "standard.net.au",
       "n": 1,
-      "avg_tone": -5.505
+      "avg_tone": -1.453
     },
     {
-      "source": "dailypost.ng",
+      "source": "zerohedge.com",
       "n": 1,
-      "avg_tone": -3.986
+      "avg_tone": -3.905
     },
     {
-      "source": "newstalk1010.com",
+      "source": "tickerreport.com",
       "n": 1,
-      "avg_tone": -0.73
+      "avg_tone": 4.179
+    },
+    {
+      "source": "livetradingnews.com",
+      "n": 1,
+      "avg_tone": 0.447
+    },
+    {
+      "source": "naija247news.com",
+      "n": 1,
+      "avg_tone": -1.743
+    },
+    {
+      "source": "hani.co.kr",
+      "n": 1,
+      "avg_tone": -2.461
+    },
+    {
+      "source": "aninews.in",
+      "n": 1,
+      "avg_tone": -0.37
+    },
+    {
+      "source": "morningstar.com",
+      "n": 1,
+      "avg_tone": -2.299
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 157
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 107
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 102
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 102
-    },
-    {
-      "theme": "ECON_WORLDCURRENCIES_PESO",
-      "n": 96
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 92
-    },
-    {
-      "theme": "WB_1669_FORCED_LABOR",
-      "n": 82
+      "n": 91
     },
     {
       "theme": "WB_1668_LABOR_STANDARDS",
-      "n": 80
+      "n": 86
     },
     {
       "theme": "WB_855_LABOR_MARKETS",
-      "n": 80
+      "n": 86
+    },
+    {
+      "theme": "WB_1669_FORCED_LABOR",
+      "n": 86
     },
     {
       "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
-      "n": 80
+      "n": 86
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 76
+      "theme": "LEADER",
+      "n": 57
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 68
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 56
     },
     {
-      "theme": "ENV_OIL",
-      "n": 67
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 53
     },
     {
       "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 63
+      "n": 41
+    },
+    {
+      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "n": 37
+    },
+    {
+      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
+      "n": 37
+    },
+    {
+      "theme": "WB_1281_MANUFACTURING",
+      "n": 37
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 35
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 59
+      "n": 33
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 33
     }
   ]
 }
