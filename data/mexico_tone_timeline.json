@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-25T11:56:57.666880+00:00",
-  "rows_total_scanned_last_run": 3225,
+  "generated_at": "2026-07-25T13:17:04.463024+00:00",
+  "rows_total_scanned_last_run": 3313,
   "rows_mexico_last_run": 45,
-  "overall_avg_tone_4h": -1.646,
+  "overall_avg_tone_4h": -1.656,
   "timeline": [
-    {
-      "time": "2026-07-22T12:30",
-      "avg_tone": -1.908,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-07-22T12:45",
-      "avg_tone": 0.326,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-07-22T13:00",
-      "avg_tone": 0.054,
-      "n_articles": 25
-    },
-    {
-      "time": "2026-07-22T13:15",
-      "avg_tone": -1.485,
-      "n_articles": 16
-    },
     {
       "time": "2026-07-22T14:30",
       "avg_tone": -1.891,
@@ -798,145 +778,165 @@
       "time": "2026-07-25T12:00",
       "avg_tone": -2.426,
       "n_articles": 13
+    },
+    {
+      "time": "2026-07-25T12:30",
+      "avg_tone": -1.457,
+      "n_articles": 22
+    },
+    {
+      "time": "2026-07-25T12:45",
+      "avg_tone": -2.071,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-07-25T13:00",
+      "avg_tone": -1.483,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-07-25T13:15",
+      "avg_tone": -0.685,
+      "n_articles": 3
     }
   ],
   "top_sources": [
     {
-      "source": "newsday.com",
-      "n": 2,
-      "avg_tone": -2.108
+      "source": "hawaiitribune-herald.com",
+      "n": 4,
+      "avg_tone": -2.507
     },
     {
-      "source": "taylorvilledailynews.com",
+      "source": "arkansasonline.com",
+      "n": 3,
+      "avg_tone": -5.245
+    },
+    {
+      "source": "themarketsdaily.com",
       "n": 2,
-      "avg_tone": -1.941
+      "avg_tone": 2.41
+    },
+    {
+      "source": "elpais.com",
+      "n": 2,
+      "avg_tone": -4.889
+    },
+    {
+      "source": "cnn.com",
+      "n": 2,
+      "avg_tone": -3.798
     },
     {
       "source": "dailypolitical.com",
       "n": 2,
-      "avg_tone": 2.087
+      "avg_tone": 0.632
     },
     {
-      "source": "en.tempo.co",
-      "n": 1,
-      "avg_tone": -4.025
-    },
-    {
-      "source": "wataugademocrat.com",
-      "n": 1,
-      "avg_tone": -3.613
-    },
-    {
-      "source": "latimes.com",
-      "n": 1,
-      "avg_tone": 1.777
-    },
-    {
-      "source": "bozemandailychronicle.com",
-      "n": 1,
-      "avg_tone": -2.104
-    },
-    {
-      "source": "niagarafallsreview.ca",
-      "n": 1,
-      "avg_tone": -0.915
-    },
-    {
-      "source": "thenews.com.pk",
-      "n": 1,
-      "avg_tone": -7.407
-    },
-    {
-      "source": "stockhouse.com",
-      "n": 1,
-      "avg_tone": -0.708
-    },
-    {
-      "source": "clickorlando.com",
+      "source": "clickondetroit.com",
       "n": 1,
       "avg_tone": -2.041
     },
     {
-      "source": "mendocinobeacon.com",
+      "source": "yoursourceone.com",
       "n": 1,
-      "avg_tone": -3.628
+      "avg_tone": -2.157
     },
     {
-      "source": "pressdemocrat.com",
+      "source": "ladailypost.com",
       "n": 1,
-      "avg_tone": -3.628
+      "avg_tone": 3.62
     },
     {
-      "source": "el-balad.com",
+      "source": "sitkasentinel.com",
       "n": 1,
-      "avg_tone": -2.279
+      "avg_tone": -2.149
     },
     {
-      "source": "worldcasinodirectory.com",
+      "source": "news.tuoitre.vn",
       "n": 1,
-      "avg_tone": -1.063
+      "avg_tone": -3.741
+    },
+    {
+      "source": "moneycontrol.com",
+      "n": 1,
+      "avg_tone": -6.25
+    },
+    {
+      "source": "wctrib.com",
+      "n": 1,
+      "avg_tone": 2.468
+    },
+    {
+      "source": "mizonews.net",
+      "n": 1,
+      "avg_tone": -5.439
+    },
+    {
+      "source": "click2houston.com",
+      "n": 1,
+      "avg_tone": -2.041
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 233
+      "n": 181
     },
     {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 58
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 75
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 56
+      "n": 66
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 55
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 54
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 53
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 50
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 50
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 50
-    },
-    {
-      "theme": "LEADER",
-      "n": 43
-    },
-    {
-      "theme": "UNGP_HEALTHCARE",
-      "n": 42
-    },
-    {
-      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
-      "n": 42
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 40
+      "theme": "TAX_FNCACT_IMMIGRANTS",
+      "n": 57
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 40
+      "n": 53
     },
     {
-      "theme": "ECON_INFLATION",
-      "n": 40
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 49
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 48
+    },
+    {
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 47
+    },
+    {
+      "theme": "LEADER",
+      "n": 46
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 46
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 45
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 44
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 44
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 43
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 43
     }
   ]
 }
