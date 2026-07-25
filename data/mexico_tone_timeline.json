@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-25T20:06:40.534057+00:00",
-  "rows_total_scanned_last_run": 597,
-  "rows_mexico_last_run": 7,
-  "overall_avg_tone_4h": -1.139,
+  "generated_at": "2026-07-25T21:07:20.718915+00:00",
+  "rows_total_scanned_last_run": 2261,
+  "rows_mexico_last_run": 38,
+  "overall_avg_tone_4h": -0.961,
   "timeline": [
-    {
-      "time": "2026-07-22T20:15",
-      "avg_tone": -2.145,
-      "n_articles": 28
-    },
-    {
-      "time": "2026-07-22T20:30",
-      "avg_tone": -0.688,
-      "n_articles": 31
-    },
-    {
-      "time": "2026-07-22T20:45",
-      "avg_tone": -1.116,
-      "n_articles": 35
-    },
-    {
-      "time": "2026-07-22T21:00",
-      "avg_tone": -1.214,
-      "n_articles": 25
-    },
     {
       "time": "2026-07-22T21:15",
       "avg_tone": -1.659,
@@ -823,105 +803,165 @@
       "time": "2026-07-25T20:00",
       "avg_tone": -2.044,
       "n_articles": 7
+    },
+    {
+      "time": "2026-07-25T20:30",
+      "avg_tone": 0.117,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-07-25T20:45",
+      "avg_tone": 0.824,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-07-25T21:00",
+      "avg_tone": -0.305,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-07-25T21:15",
+      "avg_tone": -0.269,
+      "n_articles": 10
     }
   ],
   "top_sources": [
     {
-      "source": "pasadenastarnews.com",
+      "source": "yahoo.com",
+      "n": 3,
+      "avg_tone": -0.162
+    },
+    {
+      "source": "f4wonline.com",
+      "n": 2,
+      "avg_tone": -1.295
+    },
+    {
+      "source": "heraldglobe.com",
+      "n": 2,
+      "avg_tone": 0.765
+    },
+    {
+      "source": "vanguardngr.com",
+      "n": 2,
+      "avg_tone": -1.259
+    },
+    {
+      "source": "kenyastar.com",
+      "n": 2,
+      "avg_tone": 0.765
+    },
+    {
+      "source": "theautochannel.com",
+      "n": 1,
+      "avg_tone": 3.835
+    },
+    {
+      "source": "techdirt.com",
+      "n": 1,
+      "avg_tone": 2.961
+    },
+    {
+      "source": "kcbd.com",
+      "n": 1,
+      "avg_tone": 1.431
+    },
+    {
+      "source": "weeklyblitz.net",
+      "n": 1,
+      "avg_tone": -7.739
+    },
+    {
+      "source": "sbsun.com",
       "n": 1,
       "avg_tone": -1.326
     },
     {
-      "source": "zerohedge.com",
+      "source": "aninews.in",
       "n": 1,
-      "avg_tone": -6.457
+      "avg_tone": -3.234
     },
     {
-      "source": "orovillemr.com",
+      "source": "themarketsdaily.com",
       "n": 1,
-      "avg_tone": -4.651
+      "avg_tone": 2.196
     },
     {
-      "source": "dailypolitical.com",
+      "source": "foxnews.com",
       "n": 1,
-      "avg_tone": 0.676
+      "avg_tone": 1.775
     },
     {
-      "source": "jpost.com",
+      "source": "cbc.bb",
       "n": 1,
-      "avg_tone": 5.463
+      "avg_tone": -6.568
     },
     {
-      "source": "weathernationtv.com",
+      "source": "740thefan.com",
       "n": 1,
-      "avg_tone": -4.661
-    },
-    {
-      "source": "flickeringmyth.com",
-      "n": 1,
-      "avg_tone": -3.353
+      "avg_tone": 5.814
     }
   ],
   "top_themes": [
     {
+      "theme": "WB_137_WATER",
+      "n": 174
+    },
+    {
+      "theme": "EPU_CATS_HEALTHCARE",
+      "n": 43
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 40
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 40
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 40
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 40
+    },
+    {
+      "theme": "TAX_DISEASE_CYCLOSPORA",
+      "n": 40
+    },
+    {
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 39
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 38
+    },
+    {
       "theme": "CRISISLEX_O01_WEATHER",
-      "n": 21
+      "n": 35
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 35
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 13
+      "n": 34
     },
     {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 13
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 28
     },
     {
-      "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 13
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 26
     },
     {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 13
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 12
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 11
-    },
-    {
-      "theme": "NATURAL_DISASTER_WILDFIRE",
-      "n": 10
-    },
-    {
-      "theme": "MEDIA_MSM",
-      "n": 9
-    },
-    {
-      "theme": "TAX_FNCACT_COUNSELOR",
-      "n": 8
-    },
-    {
-      "theme": "MOVEMENT_GENERAL",
-      "n": 7
-    },
-    {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 7
-    },
-    {
-      "theme": "ECON_DEVELOPMENTORGS_USAID",
-      "n": 6
-    },
-    {
-      "theme": "TAX_ETHNICITY_SPANISH",
-      "n": 6
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_SPANISH",
-      "n": 6
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 25
     }
   ]
 }
