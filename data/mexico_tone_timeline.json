@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-26T08:57:02.709398+00:00",
-  "rows_total_scanned_last_run": 2152,
-  "rows_mexico_last_run": 29,
-  "overall_avg_tone_4h": -1.382,
+  "generated_at": "2026-07-26T10:42:07.783123+00:00",
+  "rows_total_scanned_last_run": 2246,
+  "rows_mexico_last_run": 23,
+  "overall_avg_tone_4h": -1.941,
   "timeline": [
-    {
-      "time": "2026-07-23T09:00",
-      "avg_tone": -0.641,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-07-23T09:15",
-      "avg_tone": -0.913,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-07-23T09:30",
-      "avg_tone": -1.557,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-07-23T09:45",
-      "avg_tone": 0.008,
-      "n_articles": 20
-    },
     {
       "time": "2026-07-23T10:45",
       "avg_tone": -0.458,
@@ -833,145 +813,165 @@
       "time": "2026-07-26T09:00",
       "avg_tone": -1.003,
       "n_articles": 5
+    },
+    {
+      "time": "2026-07-26T10:00",
+      "avg_tone": -2.302,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-07-26T10:15",
+      "avg_tone": -4.455,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-07-26T10:30",
+      "avg_tone": -1.226,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-07-26T10:45",
+      "avg_tone": -2.49,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "thedailystar.net",
+      "source": "riotimesonline.com",
+      "n": 3,
+      "avg_tone": -2.009
+    },
+    {
+      "source": "cnn.com",
       "n": 2,
-      "avg_tone": -1.164
+      "avg_tone": 0.51
     },
     {
-      "source": "aol.co.uk",
-      "n": 2,
-      "avg_tone": -2.197
-    },
-    {
-      "source": "dailystar.co.uk",
-      "n": 2,
-      "avg_tone": -3.143
-    },
-    {
-      "source": "smdailyjournal.com",
-      "n": 2,
-      "avg_tone": -5.448
-    },
-    {
-      "source": "yumasun.com",
+      "source": "couriernews.com",
       "n": 1,
-      "avg_tone": -1.535
+      "avg_tone": -2.49
     },
     {
-      "source": "pmnewsnigeria.com",
+      "source": "parisguardian.com",
       "n": 1,
-      "avg_tone": 3.822
+      "avg_tone": -5.618
     },
     {
-      "source": "somdnews.com",
+      "source": "egyptindependent.com",
       "n": 1,
-      "avg_tone": -4.971
+      "avg_tone": -1.948
     },
     {
-      "source": "cecildaily.com",
+      "source": "latimes.com",
       "n": 1,
-      "avg_tone": -5.232
+      "avg_tone": -2.269
     },
     {
-      "source": "reflector.com",
+      "source": "tvguide.co.uk",
       "n": 1,
-      "avg_tone": -5.232
+      "avg_tone": 1.527
     },
     {
-      "source": "bignewsnetwork.com",
+      "source": "ksat.com",
       "n": 1,
-      "avg_tone": -5.61
+      "avg_tone": -5.814
     },
     {
-      "source": "jhu.edu",
+      "source": "westhawaiitoday.com",
       "n": 1,
-      "avg_tone": -1.498
+      "avg_tone": -3.816
     },
     {
-      "source": "2news.com",
+      "source": "cp24.com",
       "n": 1,
-      "avg_tone": -5.232
+      "avg_tone": 0.0
     },
     {
-      "source": "asiaone.com",
+      "source": "geo.tv",
       "n": 1,
-      "avg_tone": -5.837
+      "avg_tone": -3.704
     },
     {
-      "source": "london-now.co.uk",
+      "source": "kaieteurnewsonline.com",
       "n": 1,
-      "avg_tone": 4.104
+      "avg_tone": 0.913
     },
     {
-      "source": "wesh.com",
+      "source": "nytimes.com",
       "n": 1,
-      "avg_tone": 2.043
+      "avg_tone": -0.818
+    },
+    {
+      "source": "thenewsnigeria.com.ng",
+      "n": 1,
+      "avg_tone": 1.293
+    },
+    {
+      "source": "cbsnews.com",
+      "n": 1,
+      "avg_tone": -5.042
     }
   ],
   "top_themes": [
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 43
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 41
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 41
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 35
-    },
-    {
       "theme": "LEADER",
-      "n": 32
+      "n": 47
     },
     {
-      "theme": "TAX_FNCACT_PIONEER",
-      "n": 31
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 29
-    },
-    {
-      "theme": "CORRUPTION",
-      "n": 29
+      "theme": "WB_698_TRADE",
+      "n": 42
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 28
+      "n": 37
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 26
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 32
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 31
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 24
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 24
+    },
+    {
+      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
+      "n": 24
+    },
+    {
+      "theme": "ECON_INFLATION",
+      "n": 23
+    },
+    {
+      "theme": "WB_442_INFLATION",
+      "n": 23
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 23
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 26
+      "n": 21
     },
     {
-      "theme": "WB_1331_HEALTH_TECHNOLOGIES",
-      "n": 25
+      "theme": "WB_840_JUSTICE",
+      "n": 21
     },
     {
-      "theme": "WB_2453_ORGANIZED_CRIME",
-      "n": 25
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 21
     },
     {
-      "theme": "WB_1350_PHARMACEUTICALS",
-      "n": 25
-    },
-    {
-      "theme": "WB_2456_DRUGS_AND_NARCOTICS",
-      "n": 25
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 19
     }
   ]
 }
