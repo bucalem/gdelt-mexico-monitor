@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-07-26T00:11:26.183337+00:00",
-  "rows_total_scanned_last_run": 1841,
-  "rows_mexico_last_run": 29,
-  "overall_avg_tone_4h": -0.31,
+  "generated_at": "2026-07-26T03:53:24.431592+00:00",
+  "rows_total_scanned_last_run": 1994,
+  "rows_mexico_last_run": 24,
+  "overall_avg_tone_4h": -0.503,
   "timeline": [
-    {
-      "time": "2026-07-23T00:30",
-      "avg_tone": -3.57,
-      "n_articles": 22
-    },
-    {
-      "time": "2026-07-23T00:45",
-      "avg_tone": -0.832,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-07-23T01:00",
-      "avg_tone": -1.977,
-      "n_articles": 21
-    },
-    {
-      "time": "2026-07-23T01:15",
-      "avg_tone": -1.273,
-      "n_articles": 35
-    },
-    {
-      "time": "2026-07-23T03:45",
-      "avg_tone": -2.883,
-      "n_articles": 16
-    },
     {
       "time": "2026-07-23T04:00",
       "avg_tone": -2.259,
@@ -833,145 +808,165 @@
       "time": "2026-07-26T00:15",
       "avg_tone": -0.087,
       "n_articles": 5
+    },
+    {
+      "time": "2026-07-26T03:15",
+      "avg_tone": 0.559,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-07-26T03:30",
+      "avg_tone": -1.55,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-07-26T03:45",
+      "avg_tone": -0.999,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-07-26T04:00",
+      "avg_tone": -2.128,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
-      "source": "e-know.ca",
-      "n": 1,
-      "avg_tone": 7.244
+      "source": "yahoo.com",
+      "n": 4,
+      "avg_tone": -0.507
     },
     {
-      "source": "sun-sentinel.com",
+      "source": "businesstimes.com.sg",
       "n": 1,
-      "avg_tone": -6.835
+      "avg_tone": -1.471
     },
     {
-      "source": "gator995.com",
+      "source": "wandtv.com",
       "n": 1,
-      "avg_tone": 1.633
+      "avg_tone": -5.2
     },
     {
-      "source": "cajunradio.com",
-      "n": 1,
-      "avg_tone": 1.633
-    },
-    {
-      "source": "kake.com",
-      "n": 1,
-      "avg_tone": -4.111
-    },
-    {
-      "source": "americansongwriter.com",
-      "n": 1,
-      "avg_tone": -5.123
-    },
-    {
-      "source": "ketv.com",
+      "source": "wcvb.com",
       "n": 1,
       "avg_tone": 2.043
     },
     {
-      "source": "boxingnewsonline.net",
+      "source": "panow.com",
       "n": 1,
-      "avg_tone": -1.911
+      "avg_tone": -5.521
     },
     {
-      "source": "caribjournal.com",
+      "source": "slashgear.com",
       "n": 1,
-      "avg_tone": 1.008
+      "avg_tone": -0.49
     },
     {
-      "source": "fox5atlanta.com",
+      "source": "tvguide.co.uk",
       "n": 1,
-      "avg_tone": -2.259
+      "avg_tone": 3.261
     },
     {
-      "source": "chinadaily.com.cn",
+      "source": "wpbf.com",
       "n": 1,
-      "avg_tone": 3.486
+      "avg_tone": -6.323
     },
     {
-      "source": "dallasobserver.com",
+      "source": "warrackherald.com.au",
       "n": 1,
-      "avg_tone": 3.555
+      "avg_tone": 1.206
     },
     {
-      "source": "caribbeanherald.com",
+      "source": "screenrant.com",
       "n": 1,
-      "avg_tone": 6.584
+      "avg_tone": -0.855
     },
     {
-      "source": "hawaiitelegraph.com",
+      "source": "slguardian.org",
       "n": 1,
-      "avg_tone": 6.423
+      "avg_tone": -8.099
     },
     {
-      "source": "webindia123.com",
+      "source": "standard.net",
       "n": 1,
-      "avg_tone": -3.611
+      "avg_tone": 3.97
+    },
+    {
+      "source": "clickorlando.com",
+      "n": 1,
+      "avg_tone": -5.426
+    },
+    {
+      "source": "pjmedia.com",
+      "n": 1,
+      "avg_tone": -10.261
+    },
+    {
+      "source": "leadership.ng",
+      "n": 1,
+      "avg_tone": -3.689
     }
   ],
   "top_themes": [
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 42
-    },
-    {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 34
+      "n": 30
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 31
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 28
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 28
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 27
-    },
-    {
-      "theme": "LEADER",
+      "theme": "TAX_RELIGION_CATHOLIC",
       "n": 26
     },
     {
-      "theme": "ECON_CURRENCY_EXCHANGE_RATE",
-      "n": 26
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 24
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 25
+      "theme": "TAX_ETHNICITY_SPANISH",
+      "n": 22
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 25
-    },
-    {
-      "theme": "TRIAL",
-      "n": 23
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
+      "theme": "TAX_WORLDLANGUAGES_SPANISH",
       "n": 22
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 20
+      "n": 19
     },
     {
-      "theme": "TAX_ETHNICITY_FRENCH",
-      "n": 20
+      "theme": "USPEC_POLICY1",
+      "n": 17
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_FRENCH",
-      "n": 20
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 17
+    },
+    {
+      "theme": "TAX_FNCACT_ARTISTS",
+      "n": 17
+    },
+    {
+      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
+      "n": 16
+    },
+    {
+      "theme": "WB_1920_FINANCIAL_SECTOR_DEVELOPMENT",
+      "n": 14
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 14
+    },
+    {
+      "theme": "ECON_INFLATION",
+      "n": 14
+    },
+    {
+      "theme": "WB_442_INFLATION",
+      "n": 14
+    },
+    {
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 14
     }
   ]
 }
