@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-26T16:49:42.060236+00:00",
-  "rows_total_scanned_last_run": 2876,
-  "rows_mexico_last_run": 41,
-  "overall_avg_tone_4h": -0.654,
+  "generated_at": "2026-07-26T17:55:19.354345+00:00",
+  "rows_total_scanned_last_run": 2783,
+  "rows_mexico_last_run": 43,
+  "overall_avg_tone_4h": -0.312,
   "timeline": [
-    {
-      "time": "2026-07-23T17:00",
-      "avg_tone": -0.038,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-07-23T17:30",
-      "avg_tone": -0.395,
-      "n_articles": 27
-    },
-    {
-      "time": "2026-07-23T17:45",
-      "avg_tone": -0.127,
-      "n_articles": 25
-    },
     {
       "time": "2026-07-23T18:00",
       "avg_tone": -0.42,
@@ -858,145 +843,165 @@
       "time": "2026-07-26T16:45",
       "avg_tone": 0.243,
       "n_articles": 9
+    },
+    {
+      "time": "2026-07-26T17:15",
+      "avg_tone": -0.781,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-07-26T17:30",
+      "avg_tone": -1.774,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-07-26T17:45",
+      "avg_tone": 0.503,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-07-26T18:00",
+      "avg_tone": 1.27,
+      "n_articles": 12
     }
   ],
   "top_sources": [
     {
-      "source": "abqjournal.com",
-      "n": 4,
-      "avg_tone": 0.34
+      "source": "theoaklandpress.com",
+      "n": 2,
+      "avg_tone": -2.306
     },
     {
-      "source": "drgnews.com",
+      "source": "sanfordherald.com",
       "n": 1,
-      "avg_tone": 1.08
+      "avg_tone": 1.911
     },
     {
-      "source": "973thedawg.com",
-      "n": 1,
-      "avg_tone": 0.462
-    },
-    {
-      "source": "tickerreport.com",
-      "n": 1,
-      "avg_tone": 0.713
-    },
-    {
-      "source": "reporterherald.com",
-      "n": 1,
-      "avg_tone": -0.769
-    },
-    {
-      "source": "taipeitimes.com",
-      "n": 1,
-      "avg_tone": 2.82
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "wyomingnewsnow.tv",
-      "n": 1,
-      "avg_tone": 0.453
-    },
-    {
-      "source": "tvguide.co.uk",
-      "n": 1,
-      "avg_tone": -3.03
-    },
-    {
-      "source": "wnaw.com",
+      "source": "wbkr.com",
       "n": 1,
       "avg_tone": 0.462
     },
     {
-      "source": "somersetlive.co.uk",
+      "source": "grandrapidsmn.com",
       "n": 1,
-      "avg_tone": 0.972
+      "avg_tone": 1.888
     },
     {
-      "source": "dailymail.com",
+      "source": "kyssfm.com",
       "n": 1,
-      "avg_tone": 0.723
+      "avg_tone": 0.462
     },
     {
-      "source": "thepointsguy.com",
+      "source": "knue.com",
       "n": 1,
-      "avg_tone": 3.891
+      "avg_tone": 0.462
     },
     {
-      "source": "arynews.tv",
+      "source": "winnipegfreepress.com",
       "n": 1,
-      "avg_tone": -1.125
+      "avg_tone": -1.143
     },
     {
-      "source": "agri-pulse.com",
+      "source": "us105fm.com",
       "n": 1,
-      "avg_tone": 3.478
+      "avg_tone": 0.462
+    },
+    {
+      "source": "vaildaily.com",
+      "n": 1,
+      "avg_tone": 5.306
+    },
+    {
+      "source": "islands.com",
+      "n": 1,
+      "avg_tone": 3.792
+    },
+    {
+      "source": "cbsnews.com",
+      "n": 1,
+      "avg_tone": -1.635
+    },
+    {
+      "source": "929thebull.com",
+      "n": 1,
+      "avg_tone": 0.462
+    },
+    {
+      "source": "dailyhive.com",
+      "n": 1,
+      "avg_tone": 2.817
+    },
+    {
+      "source": "klaw.com",
+      "n": 1,
+      "avg_tone": 0.462
+    },
+    {
+      "source": "yahoo.com",
+      "n": 1,
+      "avg_tone": 0.325
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_135_TRANSPORT",
-      "n": 39
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 243
+    },
+    {
+      "theme": "LEADER",
+      "n": 237
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 233
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 38
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 36
-    },
-    {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 32
-    },
-    {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 29
-    },
-    {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 28
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 27
-    },
-    {
-      "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 26
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 25
+      "n": 57
     },
     {
       "theme": "DELAY",
-      "n": 25
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 25
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 23
-    },
-    {
-      "theme": "TAX_FNCACT_WOMEN",
-      "n": 23
+      "n": 40
     },
     {
       "theme": "MEDIA_SOCIAL",
-      "n": 23
+      "n": 34
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 22
+      "theme": "WB_652_ICT_APPLICATIONS",
+      "n": 34
+    },
+    {
+      "theme": "WB_662_SOCIAL_MEDIA",
+      "n": 34
+    },
+    {
+      "theme": "WB_658_ENTERPRISE_APPLICATIONS",
+      "n": 34
+    },
+    {
+      "theme": "TAX_FNCACT_WOMEN",
+      "n": 34
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 34
+    },
+    {
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 34
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 34
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_CORN",
+      "n": 31
+    },
+    {
+      "theme": "TAX_ETHNICITY_INDIANS",
+      "n": 30
     }
   ]
 }
