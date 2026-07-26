@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-07-26T17:55:19.354345+00:00",
-  "rows_total_scanned_last_run": 2783,
-  "rows_mexico_last_run": 43,
-  "overall_avg_tone_4h": -0.312,
+  "generated_at": "2026-07-26T18:58:55.273889+00:00",
+  "rows_total_scanned_last_run": 2624,
+  "rows_mexico_last_run": 30,
+  "overall_avg_tone_4h": -0.573,
   "timeline": [
-    {
-      "time": "2026-07-23T18:00",
-      "avg_tone": -0.42,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-07-23T18:15",
-      "avg_tone": 0.067,
-      "n_articles": 27
-    },
     {
       "time": "2026-07-23T19:00",
       "avg_tone": -1.582,
@@ -863,145 +853,165 @@
       "time": "2026-07-26T18:00",
       "avg_tone": 1.27,
       "n_articles": 12
+    },
+    {
+      "time": "2026-07-26T18:15",
+      "avg_tone": -1.294,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-07-26T18:30",
+      "avg_tone": -1.787,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-07-26T18:45",
+      "avg_tone": -0.743,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-07-26T19:00",
+      "avg_tone": -4.155,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
-      "source": "theoaklandpress.com",
+      "source": "deadline.com",
+      "n": 3,
+      "avg_tone": 0.929
+    },
+    {
+      "source": "newsweek.com",
       "n": 2,
-      "avg_tone": -2.306
+      "avg_tone": -6.7
     },
     {
-      "source": "sanfordherald.com",
+      "source": "wral.com",
       "n": 1,
-      "avg_tone": 1.911
+      "avg_tone": 1.733
     },
     {
-      "source": "wbkr.com",
+      "source": "hottalkradio.com",
       "n": 1,
-      "avg_tone": 0.462
+      "avg_tone": -4.874
     },
     {
-      "source": "grandrapidsmn.com",
+      "source": "wcvb.com",
       "n": 1,
-      "avg_tone": 1.888
+      "avg_tone": -4.236
     },
     {
-      "source": "kyssfm.com",
+      "source": "wbtv.com",
       "n": 1,
-      "avg_tone": 0.462
+      "avg_tone": -5.373
     },
     {
-      "source": "knue.com",
+      "source": "tickerreport.com",
       "n": 1,
-      "avg_tone": 0.462
+      "avg_tone": 1.508
     },
     {
-      "source": "winnipegfreepress.com",
+      "source": "arynews.tv",
       "n": 1,
-      "avg_tone": -1.143
+      "avg_tone": -1.654
     },
     {
-      "source": "us105fm.com",
+      "source": "djournal.com",
       "n": 1,
-      "avg_tone": 0.462
+      "avg_tone": -2.479
     },
     {
-      "source": "vaildaily.com",
+      "source": "butlereagle.com",
       "n": 1,
-      "avg_tone": 5.306
+      "avg_tone": -0.926
     },
     {
-      "source": "islands.com",
+      "source": "textileworld.com",
       "n": 1,
-      "avg_tone": 3.792
+      "avg_tone": 1.309
     },
     {
-      "source": "cbsnews.com",
+      "source": "themarketsdaily.com",
       "n": 1,
-      "avg_tone": -1.635
+      "avg_tone": 0.495
     },
     {
-      "source": "929thebull.com",
+      "source": "theglobeandmail.com",
       "n": 1,
-      "avg_tone": 0.462
+      "avg_tone": -1.06
     },
     {
-      "source": "dailyhive.com",
+      "source": "mvariety.com",
       "n": 1,
-      "avg_tone": 2.817
+      "avg_tone": -3.517
     },
     {
-      "source": "klaw.com",
+      "source": "panow.com",
       "n": 1,
-      "avg_tone": 0.462
-    },
-    {
-      "source": "yahoo.com",
-      "n": 1,
-      "avg_tone": 0.325
+      "avg_tone": -1.705
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 243
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 45
     },
     {
-      "theme": "LEADER",
-      "n": 237
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 38
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 233
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 23
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 23
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 22
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 22
+    },
+    {
+      "theme": "TAX_FNCACT_SLAVE",
+      "n": 22
+    },
+    {
+      "theme": "SOC_SLAVERY",
+      "n": 22
+    },
+    {
+      "theme": "TAX_FNCACT_SLAVES",
+      "n": 22
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 57
+      "n": 21
     },
     {
-      "theme": "DELAY",
-      "n": 40
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 21
     },
     {
-      "theme": "MEDIA_SOCIAL",
-      "n": 34
+      "theme": "WB_698_TRADE",
+      "n": 21
     },
     {
-      "theme": "WB_652_ICT_APPLICATIONS",
-      "n": 34
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 19
     },
     {
-      "theme": "WB_662_SOCIAL_MEDIA",
-      "n": 34
+      "theme": "WB_2024_ANTI_CORRUPTION_AUTHORITIES",
+      "n": 19
     },
     {
-      "theme": "WB_658_ENTERPRISE_APPLICATIONS",
-      "n": 34
-    },
-    {
-      "theme": "TAX_FNCACT_WOMEN",
-      "n": 34
-    },
-    {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 34
-    },
-    {
-      "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 34
-    },
-    {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 34
-    },
-    {
-      "theme": "TAX_FOODSTAPLES_CORN",
-      "n": 31
-    },
-    {
-      "theme": "TAX_ETHNICITY_INDIANS",
-      "n": 30
+      "theme": "WB_840_JUSTICE",
+      "n": 19
     }
   ]
 }
