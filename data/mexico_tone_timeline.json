@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-26T20:10:34.941333+00:00",
-  "rows_total_scanned_last_run": 1941,
-  "rows_mexico_last_run": 32,
-  "overall_avg_tone_4h": -0.623,
+  "generated_at": "2026-07-26T21:09:56.785557+00:00",
+  "rows_total_scanned_last_run": 2481,
+  "rows_mexico_last_run": 35,
+  "overall_avg_tone_4h": -0.574,
   "timeline": [
-    {
-      "time": "2026-07-23T20:15",
-      "avg_tone": -1.517,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-07-23T20:30",
-      "avg_tone": 0.307,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-07-23T20:45",
-      "avg_tone": 0.007,
-      "n_articles": 25
-    },
-    {
-      "time": "2026-07-23T21:00",
-      "avg_tone": -1.698,
-      "n_articles": 30
-    },
     {
       "time": "2026-07-23T21:15",
       "avg_tone": -1.045,
@@ -863,145 +843,165 @@
       "time": "2026-07-26T20:15",
       "avg_tone": -0.689,
       "n_articles": 9
+    },
+    {
+      "time": "2026-07-26T20:30",
+      "avg_tone": -0.376,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-07-26T20:45",
+      "avg_tone": 0.478,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-07-26T21:00",
+      "avg_tone": -1.354,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-07-26T21:15",
+      "avg_tone": -1.021,
+      "n_articles": 9
     }
   ],
   "top_sources": [
     {
-      "source": "cubaheadlines.com",
+      "source": "tvguide.co.uk",
       "n": 2,
-      "avg_tone": -0.935
+      "avg_tone": -1.504
     },
     {
-      "source": "dailypolitical.com",
+      "source": "pentictonherald.ca",
+      "n": 2,
+      "avg_tone": -0.307
+    },
+    {
+      "source": "the42.ie",
       "n": 1,
-      "avg_tone": 1.279
+      "avg_tone": 1.463
     },
     {
-      "source": "elpais.com",
+      "source": "taylorvilledailynews.com",
       "n": 1,
-      "avg_tone": -3.929
+      "avg_tone": -5.556
     },
     {
-      "source": "rttnews.com",
-      "n": 1,
-      "avg_tone": 6.957
-    },
-    {
-      "source": "theyeshivaworld.com",
-      "n": 1,
-      "avg_tone": -6.275
-    },
-    {
-      "source": "dailymail.com",
-      "n": 1,
-      "avg_tone": -2.647
-    },
-    {
-      "source": "wsbradio.com",
-      "n": 1,
-      "avg_tone": -5.303
-    },
-    {
-      "source": "winnipegfreepress.com",
-      "n": 1,
-      "avg_tone": -5.797
-    },
-    {
-      "source": "billboard.com",
-      "n": 1,
-      "avg_tone": 3.681
-    },
-    {
-      "source": "watoday.com.au",
-      "n": 1,
-      "avg_tone": 5.828
-    },
-    {
-      "source": "courant.com",
-      "n": 1,
-      "avg_tone": -6.25
-    },
-    {
-      "source": "parisguardian.com",
+      "source": "haitisun.com",
       "n": 1,
       "avg_tone": 2.058
     },
     {
-      "source": "greenwichfreepress.com",
+      "source": "torontotelegraph.com",
       "n": 1,
-      "avg_tone": 6.916
+      "avg_tone": -3.81
     },
     {
-      "source": "wltribune.com",
+      "source": "nydailynews.com",
       "n": 1,
-      "avg_tone": -0.931
+      "avg_tone": -3.86
     },
     {
-      "source": "thesun.ng",
+      "source": "brazilsun.com",
       "n": 1,
-      "avg_tone": 2.821
+      "avg_tone": 2.058
+    },
+    {
+      "source": "thejournal.ie",
+      "n": 1,
+      "avg_tone": 1.463
+    },
+    {
+      "source": "gringogazette.com",
+      "n": 1,
+      "avg_tone": -6.444
+    },
+    {
+      "source": "tucson.com",
+      "n": 1,
+      "avg_tone": -1.716
+    },
+    {
+      "source": "abc.net.au",
+      "n": 1,
+      "avg_tone": 0.504
+    },
+    {
+      "source": "tribune.com.pk",
+      "n": 1,
+      "avg_tone": -2.464
+    },
+    {
+      "source": "bizarro.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "montereyherald.com",
+      "n": 1,
+      "avg_tone": 1.103
     }
   ],
   "top_themes": [
     {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 55
+    },
+    {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 79
+      "n": 38
     },
     {
-      "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 64
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 25
+      "theme": "NATURAL_DISASTER_WILDFIRE",
+      "n": 32
     },
     {
       "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 24
+      "n": 17
     },
     {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 23
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 17
     },
     {
-      "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
-      "n": 22
+      "theme": "SOC_POINTSOFINTEREST_JAIL",
+      "n": 15
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 21
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 14
     },
     {
-      "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
-      "n": 21
+      "theme": "WB_840_JUSTICE",
+      "n": 13
+    },
+    {
+      "theme": "WB_135_TRANSPORT",
+      "n": 13
+    },
+    {
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 12
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 20
-    },
-    {
-      "theme": "NATURAL_DISASTER_SUSTAINED_WINDS",
-      "n": 20
+      "n": 12
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 17
+      "n": 12
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 17
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 12
     },
     {
-      "theme": "MEDICAL",
-      "n": 17
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 12
     },
     {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 17
-    },
-    {
-      "theme": "CRISISLEX_T03_DEAD",
-      "n": 17
+      "theme": "TAX_WORLDFISH_SHARK",
+      "n": 12
     }
   ]
 }
