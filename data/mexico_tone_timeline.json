@@ -1,44 +1,9 @@
 {
-  "generated_at": "2026-07-27T03:59:25.393162+00:00",
-  "rows_total_scanned_last_run": 2282,
-  "rows_mexico_last_run": 52,
-  "overall_avg_tone_4h": -1.926,
+  "generated_at": "2026-07-27T07:35:33.425527+00:00",
+  "rows_total_scanned_last_run": 3069,
+  "rows_mexico_last_run": 34,
+  "overall_avg_tone_4h": -1.943,
   "timeline": [
-    {
-      "time": "2026-07-24T04:00",
-      "avg_tone": -1.621,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-07-24T04:15",
-      "avg_tone": -2.469,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-07-24T04:30",
-      "avg_tone": -1.387,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-07-24T06:30",
-      "avg_tone": -0.01,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-07-24T06:45",
-      "avg_tone": -1.311,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-07-24T07:00",
-      "avg_tone": -0.836,
-      "n_articles": 32
-    },
-    {
-      "time": "2026-07-24T07:15",
-      "avg_tone": -1.026,
-      "n_articles": 22
-    },
     {
       "time": "2026-07-24T08:45",
       "avg_tone": -0.929,
@@ -863,145 +828,165 @@
       "time": "2026-07-27T04:00",
       "avg_tone": -1.55,
       "n_articles": 11
+    },
+    {
+      "time": "2026-07-27T07:00",
+      "avg_tone": -2.855,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-07-27T07:15",
+      "avg_tone": -2.886,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-07-27T07:30",
+      "avg_tone": 0.108,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-07-27T07:45",
+      "avg_tone": -1.484,
+      "n_articles": 4
     }
   ],
   "top_sources": [
     {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": 1.917
+    },
+    {
+      "source": "aol.co.uk",
+      "n": 2,
+      "avg_tone": -1.692
+    },
+    {
+      "source": "f4wonline.com",
+      "n": 2,
+      "avg_tone": -2.229
+    },
+    {
       "source": "tvguide.co.uk",
-      "n": 4,
-      "avg_tone": -0.971
-    },
-    {
-      "source": "chinadaily.com.cn",
-      "n": 2,
-      "avg_tone": 2.291
-    },
-    {
-      "source": "mexicostar.com",
-      "n": 2,
-      "avg_tone": -1.653
-    },
-    {
-      "source": "sanantoniomag.com",
       "n": 1,
-      "avg_tone": 4.133
+      "avg_tone": -2.273
     },
     {
-      "source": "indiagazette.com",
+      "source": "ibtimes.com.au",
       "n": 1,
-      "avg_tone": -3.965
+      "avg_tone": 2.442
     },
     {
-      "source": "bruneinews.net",
+      "source": "benzinga.com",
       "n": 1,
-      "avg_tone": -3.965
+      "avg_tone": -4.326
     },
     {
-      "source": "africaleader.com",
+      "source": "dailyhive.com",
       "n": 1,
-      "avg_tone": -3.965
+      "avg_tone": 2.966
     },
     {
-      "source": "europesun.com",
+      "source": "blayneychronicle.com.au",
       "n": 1,
-      "avg_tone": -3.965
+      "avg_tone": 0.467
     },
     {
-      "source": "businessday.co.za",
+      "source": "euronews.com",
       "n": 1,
-      "avg_tone": 2.347
+      "avg_tone": 5.68
     },
     {
-      "source": "english.news.cn",
+      "source": "indianexpress.com",
       "n": 1,
-      "avg_tone": 0.673
+      "avg_tone": -0.661
     },
     {
-      "source": "hawaiitelegraph.com",
+      "source": "texasguardian.com",
       "n": 1,
       "avg_tone": -3.965
     },
     {
-      "source": "oklahomacitysun.com",
+      "source": "indiatimes.com",
+      "n": 1,
+      "avg_tone": -0.156
+    },
+    {
+      "source": "zimbabwestar.com",
       "n": 1,
       "avg_tone": -3.965
     },
     {
-      "source": "foreignpolicyjournal.com",
+      "source": "irishsun.com",
       "n": 1,
-      "avg_tone": -0.285
+      "avg_tone": -3.965
     },
     {
-      "source": "theshillongtimes.com",
+      "source": "sanantoniopost.com",
       "n": 1,
-      "avg_tone": -0.133
-    },
-    {
-      "source": "islands.com",
-      "n": 1,
-      "avg_tone": 3.994
+      "avg_tone": -3.965
     }
   ],
   "top_themes": [
     {
-      "theme": "NATURAL_DISASTER_WILDFIRES",
-      "n": 126
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 78
     },
     {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 126
+      "theme": "NATURAL_DISASTER_WILDFIRES",
+      "n": 70
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 95
+      "n": 58
     },
     {
       "theme": "DISASTER_FIRE",
-      "n": 77
-    },
-    {
-      "theme": "LEADER",
-      "n": 65
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 64
-    },
-    {
-      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
-      "n": 60
-    },
-    {
-      "theme": "NATURAL_DISASTER_WILDFIRE",
-      "n": 57
-    },
-    {
-      "theme": "EVACUATION",
-      "n": 56
-    },
-    {
-      "theme": "CRISISLEX_T09_DISPLACEDRELOCATEDEVACUATED",
-      "n": 56
+      "n": 43
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 56
+      "n": 36
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 35
+    },
+    {
+      "theme": "LEADER",
+      "n": 35
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 35
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 35
     },
     {
       "theme": "CRISISLEX_O01_WEATHER",
-      "n": 51
+      "n": 34
     },
     {
-      "theme": "WB_1777_FORESTS",
-      "n": 51
-    },
-    {
-      "theme": "WB_590_ECOSYSTEMS",
-      "n": 51
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 33
     },
     {
       "theme": "TAX_FNCACT_PRIME_MINISTER",
-      "n": 50
+      "n": 31
+    },
+    {
+      "theme": "TAX_FNCACT_KNIGHT",
+      "n": 30
+    },
+    {
+      "theme": "NATURAL_DISASTER_WILDFIRE",
+      "n": 28
+    },
+    {
+      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
+      "n": 28
     }
   ]
 }
