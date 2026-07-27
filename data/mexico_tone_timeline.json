@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-07-27T20:43:37.472737+00:00",
-  "rows_total_scanned_last_run": 6281,
-  "rows_mexico_last_run": 80,
-  "overall_avg_tone_4h": -0.428,
+  "generated_at": "2026-07-27T21:47:43.030928+00:00",
+  "rows_total_scanned_last_run": 5440,
+  "rows_mexico_last_run": 78,
+  "overall_avg_tone_4h": -0.485,
   "timeline": [
-    {
-      "time": "2026-07-24T20:45",
-      "avg_tone": -1.602,
-      "n_articles": 33
-    },
-    {
-      "time": "2026-07-24T21:00",
-      "avg_tone": -2.393,
-      "n_articles": 42
-    },
-    {
-      "time": "2026-07-24T21:15",
-      "avg_tone": -1.484,
-      "n_articles": 39
-    },
-    {
-      "time": "2026-07-24T21:30",
-      "avg_tone": -2.486,
-      "n_articles": 53
-    },
-    {
-      "time": "2026-07-24T21:45",
-      "avg_tone": -2.198,
-      "n_articles": 43
-    },
     {
       "time": "2026-07-24T22:15",
       "avg_tone": -3.123,
@@ -848,145 +823,165 @@
       "time": "2026-07-27T20:45",
       "avg_tone": -1.631,
       "n_articles": 17
+    },
+    {
+      "time": "2026-07-27T21:00",
+      "avg_tone": 0.036,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-07-27T21:15",
+      "avg_tone": 0.499,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-07-27T21:30",
+      "avg_tone": -0.254,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-07-27T21:45",
+      "avg_tone": -2.213,
+      "n_articles": 25
     }
   ],
   "top_sources": [
     {
-      "source": "cubaheadlines.com",
-      "n": 3,
-      "avg_tone": -2.187
+      "source": "pressdemocrat.com",
+      "n": 2,
+      "avg_tone": -1.657
     },
     {
-      "source": "quesnelobserver.com",
+      "source": "kjzz.org",
+      "n": 2,
+      "avg_tone": -0.974
+    },
+    {
+      "source": "terracestandard.com",
       "n": 2,
       "avg_tone": -0.441
     },
     {
-      "source": "manilatimes.net",
+      "source": "newstalk1280.com",
       "n": 2,
-      "avg_tone": -0.243
+      "avg_tone": 3.04
     },
     {
-      "source": "abqjournal.com",
+      "source": "kiss951.com",
       "n": 2,
-      "avg_tone": -0.879
+      "avg_tone": 1.31
     },
     {
-      "source": "wwaytv3.com",
-      "n": 2,
-      "avg_tone": -2.481
-    },
-    {
-      "source": "kelownacapnews.com",
+      "source": "caledoniacourier.com",
       "n": 2,
       "avg_tone": -0.441
     },
     {
-      "source": "thefreepress.ca",
+      "source": "amandala.com.bz",
+      "n": 2,
+      "avg_tone": 0.975
+    },
+    {
+      "source": "vicnews.com",
       "n": 2,
       "avg_tone": -0.441
     },
     {
-      "source": "dfnionline.com",
-      "n": 2,
-      "avg_tone": 2.233
-    },
-    {
-      "source": "clearwatertimes.com",
+      "source": "cranbrooktownsman.com",
       "n": 2,
       "avg_tone": -0.441
     },
     {
-      "source": "sbsun.com",
-      "n": 2,
-      "avg_tone": -1.462
-    },
-    {
-      "source": "northislandgazette.com",
+      "source": "westerlynews.ca",
       "n": 2,
       "avg_tone": -0.441
     },
     {
-      "source": "finanznachrichten.de",
-      "n": 2,
-      "avg_tone": 3.66
-    },
-    {
-      "source": "billboard.com",
-      "n": 2,
-      "avg_tone": 2.174
-    },
-    {
-      "source": "umn.edu",
+      "source": "texasguardian.com",
       "n": 1,
-      "avg_tone": -3.226
+      "avg_tone": -4.255
     },
     {
-      "source": "kfmx.com",
+      "source": "abc17news.com",
       "n": 1,
-      "avg_tone": 3.323
+      "avg_tone": -2.073
+    },
+    {
+      "source": "bursa.ro",
+      "n": 1,
+      "avg_tone": 0.911
+    },
+    {
+      "source": "nhpr.org",
+      "n": 1,
+      "avg_tone": -8.275
+    },
+    {
+      "source": "yoursourceone.com",
+      "n": 1,
+      "avg_tone": -3.836
     }
   ],
   "top_themes": [
     {
       "theme": "AGRICULTURE",
-      "n": 64
+      "n": 101
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 60
+      "theme": "BORDER",
+      "n": 67
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 55
+      "n": 58
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 53
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 54
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 50
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 45
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 45
+      "n": 51
     },
     {
       "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 41
+      "n": 44
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 41
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 40
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 40
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 42
     },
     {
       "theme": "NATURAL_DISASTER_WILDFIRES",
-      "n": 40
+      "n": 42
     },
     {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
       "n": 39
     },
     {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
       "n": 39
     },
     {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 39
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 38
+    },
+    {
+      "theme": "NATURAL_DISASTER_WILDFIRE",
+      "n": 36
+    },
+    {
+      "theme": "LEADER",
+      "n": 35
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 35
+    },
+    {
+      "theme": "TAX_FNCACT_DIRECTOR",
+      "n": 35
     }
   ]
 }
