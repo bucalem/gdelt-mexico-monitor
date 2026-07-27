@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-27T07:35:33.425527+00:00",
-  "rows_total_scanned_last_run": 3069,
-  "rows_mexico_last_run": 34,
-  "overall_avg_tone_4h": -1.943,
+  "generated_at": "2026-07-27T10:56:05.034725+00:00",
+  "rows_total_scanned_last_run": 4322,
+  "rows_mexico_last_run": 42,
+  "overall_avg_tone_4h": -1.712,
   "timeline": [
-    {
-      "time": "2026-07-24T08:45",
-      "avg_tone": -0.929,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-07-24T09:15",
-      "avg_tone": -0.913,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-07-24T10:45",
-      "avg_tone": -1.829,
-      "n_articles": 23
-    },
     {
       "time": "2026-07-24T11:00",
       "avg_tone": -0.923,
@@ -848,145 +833,165 @@
       "time": "2026-07-27T07:45",
       "avg_tone": -1.484,
       "n_articles": 4
+    },
+    {
+      "time": "2026-07-27T10:15",
+      "avg_tone": -1.655,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-07-27T10:30",
+      "avg_tone": -1.126,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-07-27T10:45",
+      "avg_tone": -1.537,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-07-27T11:00",
+      "avg_tone": 0.629,
+      "n_articles": 7
     }
   ],
   "top_sources": [
     {
+      "source": "riotimesonline.com",
+      "n": 9,
+      "avg_tone": 0.192
+    },
+    {
       "source": "yahoo.com",
       "n": 2,
-      "avg_tone": 1.917
+      "avg_tone": 0.917
     },
     {
-      "source": "aol.co.uk",
+      "source": "investegate.co.uk",
       "n": 2,
-      "avg_tone": -1.692
+      "avg_tone": 0.297
     },
     {
-      "source": "f4wonline.com",
-      "n": 2,
-      "avg_tone": -2.229
-    },
-    {
-      "source": "tvguide.co.uk",
+      "source": "cnn.com",
       "n": 1,
-      "avg_tone": -2.273
+      "avg_tone": -6.516
     },
     {
-      "source": "ibtimes.com.au",
+      "source": "theglobeandmail.com",
       "n": 1,
-      "avg_tone": 2.442
+      "avg_tone": 2.697
     },
     {
-      "source": "benzinga.com",
+      "source": "thespiritsbusiness.com",
       "n": 1,
-      "avg_tone": -4.326
+      "avg_tone": 11.914
     },
     {
-      "source": "dailyhive.com",
+      "source": "wkzo.com",
       "n": 1,
-      "avg_tone": 2.966
+      "avg_tone": -2.368
     },
     {
-      "source": "blayneychronicle.com.au",
+      "source": "governing.com",
       "n": 1,
-      "avg_tone": 0.467
+      "avg_tone": -2.035
     },
     {
-      "source": "euronews.com",
+      "source": "scifinow.co.uk",
       "n": 1,
-      "avg_tone": 5.68
+      "avg_tone": 1.789
     },
     {
-      "source": "indianexpress.com",
+      "source": "dailypost.ng",
       "n": 1,
-      "avg_tone": -0.661
+      "avg_tone": -1.079
     },
     {
-      "source": "texasguardian.com",
+      "source": "thenews.com.pk",
       "n": 1,
-      "avg_tone": -3.965
+      "avg_tone": -6.167
     },
     {
-      "source": "indiatimes.com",
+      "source": "arynews.tv",
       "n": 1,
-      "avg_tone": -0.156
+      "avg_tone": -7.063
     },
     {
-      "source": "zimbabwestar.com",
+      "source": "sana.sy",
       "n": 1,
-      "avg_tone": -3.965
+      "avg_tone": -1.987
     },
     {
-      "source": "irishsun.com",
+      "source": "cp24.com",
       "n": 1,
-      "avg_tone": -3.965
+      "avg_tone": -6.25
     },
     {
-      "source": "sanantoniopost.com",
+      "source": "mercopress.com",
       "n": 1,
-      "avg_tone": -3.965
+      "avg_tone": 2.013
     }
   ],
   "top_themes": [
     {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 78
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 92
     },
     {
-      "theme": "NATURAL_DISASTER_WILDFIRES",
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
       "n": 70
     },
     {
+      "theme": "TAX_ECON_PRICE",
+      "n": 59
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 57
+    },
+    {
+      "theme": "EPU_CATS_TAXES",
+      "n": 53
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 52
+    },
+    {
+      "theme": "ECON_TAXATION",
+      "n": 52
+    },
+    {
+      "theme": "EPU_POLICY_TAX",
+      "n": 52
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 51
+    },
+    {
+      "theme": "ECON_WORLDCURRENCIES_PESO",
+      "n": 51
+    },
+    {
+      "theme": "WB_368_LEASING",
+      "n": 51
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 48
+    },
+    {
+      "theme": "WB_1458_HEALTH_PROMOTION_AND_DISEASE_PREVENTION",
+      "n": 45
+    },
+    {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 58
-    },
-    {
-      "theme": "DISASTER_FIRE",
-      "n": 43
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 36
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 35
+      "n": 44
     },
     {
       "theme": "LEADER",
-      "n": 35
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 35
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 35
-    },
-    {
-      "theme": "CRISISLEX_O01_WEATHER",
-      "n": 34
-    },
-    {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 33
-    },
-    {
-      "theme": "TAX_FNCACT_PRIME_MINISTER",
-      "n": 31
-    },
-    {
-      "theme": "TAX_FNCACT_KNIGHT",
-      "n": 30
-    },
-    {
-      "theme": "NATURAL_DISASTER_WILDFIRE",
-      "n": 28
-    },
-    {
-      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
-      "n": 28
+      "n": 43
     }
   ]
 }
