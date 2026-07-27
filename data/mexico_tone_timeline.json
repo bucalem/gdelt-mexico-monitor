@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-07-26T23:10:25.032609+00:00",
-  "rows_total_scanned_last_run": 2079,
-  "rows_mexico_last_run": 28,
-  "overall_avg_tone_4h": -1.366,
+  "generated_at": "2026-07-27T00:10:42.135408+00:00",
+  "rows_total_scanned_last_run": 2174,
+  "rows_mexico_last_run": 36,
+  "overall_avg_tone_4h": -1.624,
   "timeline": [
-    {
-      "time": "2026-07-23T23:15",
-      "avg_tone": -1.462,
-      "n_articles": 38
-    },
-    {
-      "time": "2026-07-23T23:30",
-      "avg_tone": -1.705,
-      "n_articles": 29
-    },
-    {
-      "time": "2026-07-23T23:45",
-      "avg_tone": -2.84,
-      "n_articles": 31
-    },
     {
       "time": "2026-07-24T00:30",
       "avg_tone": -1.964,
@@ -863,145 +848,165 @@
       "time": "2026-07-26T23:15",
       "avg_tone": -1.51,
       "n_articles": 9
+    },
+    {
+      "time": "2026-07-26T23:30",
+      "avg_tone": -3.763,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-07-26T23:45",
+      "avg_tone": -0.059,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-07-27T00:00",
+      "avg_tone": -1.96,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-07-27T00:15",
+      "avg_tone": -3.195,
+      "n_articles": 7
     }
   ],
   "top_sources": [
     {
-      "source": "sitkasentinel.com",
+      "source": "krgv.com",
+      "n": 3,
+      "avg_tone": -3.857
+    },
+    {
+      "source": "hellenicshippingnews.com",
+      "n": 3,
+      "avg_tone": 0.177
+    },
+    {
+      "source": "lethbridgeherald.com",
       "n": 2,
-      "avg_tone": -2.857
+      "avg_tone": -2.779
     },
     {
-      "source": "penbaypilot.com",
-      "n": 1,
-      "avg_tone": -1.892
+      "source": "el-balad.com",
+      "n": 2,
+      "avg_tone": 0.559
     },
     {
-      "source": "thepeoplesperson.com",
+      "source": "abcnews.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -5.556
     },
     {
-      "source": "bnonews.com",
+      "source": "bangordailynews.com",
       "n": 1,
-      "avg_tone": -3.922
+      "avg_tone": -5.714
     },
     {
-      "source": "sandiegouniontribune.com",
+      "source": "pqbnews.com",
       "n": 1,
-      "avg_tone": -1.493
+      "avg_tone": 3.756
     },
     {
-      "source": "wwnytv.com",
+      "source": "freemalaysiatoday.com",
       "n": 1,
-      "avg_tone": 2.1
+      "avg_tone": -3.279
     },
     {
-      "source": "globalnews.ca",
+      "source": "wattsupwiththat.com",
       "n": 1,
-      "avg_tone": -3.851
+      "avg_tone": 0.117
     },
     {
-      "source": "metro.co.uk",
+      "source": "dailygazette.com",
       "n": 1,
-      "avg_tone": -5.452
+      "avg_tone": -5.714
     },
     {
-      "source": "foxbusiness.com",
+      "source": "wistv.com",
       "n": 1,
-      "avg_tone": 3.073
+      "avg_tone": -5.373
     },
     {
-      "source": "cheknews.ca",
+      "source": "gringogazette.com",
       "n": 1,
-      "avg_tone": -2.157
+      "avg_tone": -0.984
     },
     {
-      "source": "cubaheadlines.com",
+      "source": "prnewswire.com",
       "n": 1,
-      "avg_tone": -7.32
+      "avg_tone": -2.62
     },
     {
-      "source": "yoursourceone.com",
+      "source": "thedigitalcourier.com",
       "n": 1,
-      "avg_tone": -5.691
+      "avg_tone": 1.911
     },
     {
-      "source": "nzcity.co.nz",
+      "source": "hawaiitribune-herald.com",
       "n": 1,
-      "avg_tone": 0.795
-    },
-    {
-      "source": "unm.edu",
-      "n": 1,
-      "avg_tone": 3.243
-    },
-    {
-      "source": "mexicostar.com",
-      "n": 1,
-      "avg_tone": 2.058
+      "avg_tone": -2.491
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 230
-    },
-    {
-      "theme": "LEADER",
-      "n": 230
-    },
-    {
-      "theme": "TAX_MILITARY_TITLE_CAPTAIN",
-      "n": 55
-    },
-    {
-      "theme": "TAX_FNCACT_CAPTAIN",
-      "n": 55
-    },
-    {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 46
+      "n": 69
     },
     {
       "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 30
+      "n": 44
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 44
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 41
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 26
+      "n": 29
     },
     {
-      "theme": "TRIAL",
-      "n": 22
-    },
-    {
-      "theme": "NATURAL_DISASTER_WILDFIRE",
-      "n": 19
-    },
-    {
-      "theme": "IDEOLOGY",
-      "n": 17
-    },
-    {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 16
-    },
-    {
-      "theme": "TAX_FNCACT_CRIMINAL",
-      "n": 16
-    },
-    {
-      "theme": "LEGISLATION",
-      "n": 15
-    },
-    {
-      "theme": "EPU_POLICY_LAW",
-      "n": 15
+      "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
+      "n": 28
     },
     {
       "theme": "CRISISLEX_O01_WEATHER",
-      "n": 14
+      "n": 27
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 27
+    },
+    {
+      "theme": "ENV_COAL",
+      "n": 27
+    },
+    {
+      "theme": "WB_1668_LABOR_STANDARDS",
+      "n": 27
+    },
+    {
+      "theme": "WB_855_LABOR_MARKETS",
+      "n": 27
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_MILK",
+      "n": 27
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 24
+    },
+    {
+      "theme": "TRIAL",
+      "n": 23
+    },
+    {
+      "theme": "NATURAL_DISASTER_WILDFIRE",
+      "n": 23
     }
   ]
 }
