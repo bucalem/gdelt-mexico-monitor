@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-27T22:53:15.894065+00:00",
-  "rows_total_scanned_last_run": 5226,
-  "rows_mexico_last_run": 118,
-  "overall_avg_tone_4h": -0.762,
+  "generated_at": "2026-07-27T23:56:09.259770+00:00",
+  "rows_total_scanned_last_run": 5131,
+  "rows_mexico_last_run": 108,
+  "overall_avg_tone_4h": -1.166,
   "timeline": [
-    {
-      "time": "2026-07-24T23:00",
-      "avg_tone": -3.136,
-      "n_articles": 34
-    },
-    {
-      "time": "2026-07-24T23:15",
-      "avg_tone": -2.097,
-      "n_articles": 45
-    },
-    {
-      "time": "2026-07-24T23:30",
-      "avg_tone": -2.765,
-      "n_articles": 34
-    },
-    {
-      "time": "2026-07-24T23:45",
-      "avg_tone": -1.411,
-      "n_articles": 52
-    },
     {
       "time": "2026-07-25T00:00",
       "avg_tone": -2.755,
@@ -853,145 +833,165 @@
       "time": "2026-07-27T23:00",
       "avg_tone": -1.203,
       "n_articles": 31
+    },
+    {
+      "time": "2026-07-27T23:15",
+      "avg_tone": -1.542,
+      "n_articles": 38
+    },
+    {
+      "time": "2026-07-27T23:30",
+      "avg_tone": -1.886,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-07-27T23:45",
+      "avg_tone": -1.766,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-07-28T00:00",
+      "avg_tone": -0.787,
+      "n_articles": 24
     }
   ],
   "top_sources": [
     {
-      "source": "prnewswire.com",
-      "n": 6,
-      "avg_tone": 0.949
-    },
-    {
-      "source": "yahoo.com",
-      "n": 3,
-      "avg_tone": -0.123
-    },
-    {
-      "source": "mercurynews.com",
-      "n": 3,
-      "avg_tone": -2.674
-    },
-    {
-      "source": "eastbaytimes.com",
-      "n": 3,
-      "avg_tone": -2.674
-    },
-    {
-      "source": "ladysmithchronicle.com",
+      "source": "cloverdalereporter.com",
       "n": 2,
       "avg_tone": -0.441
     },
     {
-      "source": "peacearchnews.com",
+      "source": "abbynews.com",
       "n": 2,
       "avg_tone": -0.441
     },
     {
-      "source": "missioncityrecord.com",
+      "source": "mongabay.com",
+      "n": 2,
+      "avg_tone": -2.177
+    },
+    {
+      "source": "vernonmorningstar.com",
       "n": 2,
       "avg_tone": -0.441
     },
     {
-      "source": "agassizharrisonobserver.com",
+      "source": "punchng.com",
+      "n": 2,
+      "avg_tone": 0.336
+    },
+    {
+      "source": "riotimesonline.com",
+      "n": 2,
+      "avg_tone": 0.887
+    },
+    {
+      "source": "comoxvalleyrecord.com",
       "n": 2,
       "avg_tone": -0.441
     },
     {
-      "source": "lasvegassun.com",
+      "source": "tpr.org",
       "n": 2,
-      "avg_tone": -0.421
+      "avg_tone": -1.031
     },
     {
-      "source": "intelligencer.ca",
-      "n": 2,
-      "avg_tone": 2.245
-    },
-    {
-      "source": "wgme.com",
-      "n": 2,
-      "avg_tone": -2.894
-    },
-    {
-      "source": "campbellrivermirror.com",
+      "source": "ominecaexpress.com",
       "n": 2,
       "avg_tone": -0.441
     },
     {
-      "source": "sookenewsmirror.com",
+      "source": "grandforksgazette.ca",
       "n": 2,
       "avg_tone": -0.441
     },
     {
-      "source": "latimes.com",
-      "n": 2,
-      "avg_tone": -0.462
-    },
-    {
-      "source": "interior-news.com",
+      "source": "cowichanvalleycitizen.com",
       "n": 2,
       "avg_tone": -0.441
+    },
+    {
+      "source": "nanaimobulletin.com",
+      "n": 2,
+      "avg_tone": -0.441
+    },
+    {
+      "source": "mapleridgenews.com",
+      "n": 2,
+      "avg_tone": -0.441
+    },
+    {
+      "source": "saobserver.net",
+      "n": 2,
+      "avg_tone": -0.441
+    },
+    {
+      "source": "europesun.com",
+      "n": 1,
+      "avg_tone": 4.795
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 114
+      "theme": "TAX_FNCACT_POLICE",
+      "n": 165
     },
     {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 113
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 113
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 113
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 110
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 109
+      "theme": "SECURITY_SERVICES",
+      "n": 164
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 106
+      "n": 135
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 127
     },
     {
       "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 104
+      "n": 120
     },
     {
-      "theme": "AGRICULTURE",
-      "n": 99
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 119
     },
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 91
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 114
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 114
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 114
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 113
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 113
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 109
+    },
+    {
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 107
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 85
+      "n": 100
     },
     {
-      "theme": "IMMIGRATION",
-      "n": 80
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 80
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 80
-    },
-    {
-      "theme": "SOC_RANSOM",
-      "n": 80
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 99
     }
   ]
 }
