@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-29T21:33:41.668316+00:00",
-  "rows_total_scanned_last_run": 6257,
-  "rows_mexico_last_run": 107,
-  "overall_avg_tone_4h": -0.412,
+  "generated_at": "2026-07-29T22:37:03.673399+00:00",
+  "rows_total_scanned_last_run": 5092,
+  "rows_mexico_last_run": 81,
+  "overall_avg_tone_4h": -0.166,
   "timeline": [
-    {
-      "time": "2026-07-26T21:45",
-      "avg_tone": -2.432,
-      "n_articles": 3
-    },
-    {
-      "time": "2026-07-26T22:00",
-      "avg_tone": -5.714,
-      "n_articles": 1
-    },
-    {
-      "time": "2026-07-26T22:15",
-      "avg_tone": -1.244,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-07-26T22:30",
-      "avg_tone": -1.514,
-      "n_articles": 3
-    },
     {
       "time": "2026-07-26T22:45",
       "avg_tone": 0.669,
@@ -713,145 +693,165 @@
       "time": "2026-07-29T21:30",
       "avg_tone": 0.492,
       "n_articles": 38
+    },
+    {
+      "time": "2026-07-29T22:00",
+      "avg_tone": 0.812,
+      "n_articles": 28
+    },
+    {
+      "time": "2026-07-29T22:15",
+      "avg_tone": -0.933,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-07-29T22:30",
+      "avg_tone": 0.314,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-07-29T22:45",
+      "avg_tone": 2.067,
+      "n_articles": 12
     }
   ],
   "top_sources": [
     {
-      "source": "finanznachrichten.de",
-      "n": 4,
-      "avg_tone": 1.872
-    },
-    {
-      "source": "f4wonline.com",
-      "n": 3,
-      "avg_tone": 0.379
+      "source": "cubaheadlines.com",
+      "n": 5,
+      "avg_tone": -1.684
     },
     {
       "source": "manilatimes.net",
-      "n": 3,
-      "avg_tone": 0.849
+      "n": 5,
+      "avg_tone": 0.324
     },
     {
-      "source": "asiabulletin.com",
-      "n": 2,
-      "avg_tone": 1.501
+      "source": "iheart.com",
+      "n": 4,
+      "avg_tone": 0.91
     },
     {
-      "source": "zimbabwestar.com",
+      "source": "sanantoniomag.com",
       "n": 2,
-      "avg_tone": 1.501
+      "avg_tone": 3.536
     },
     {
-      "source": "torontotelegraph.com",
+      "source": "wlrn.org",
       "n": 2,
-      "avg_tone": -1.052
+      "avg_tone": -4.832
+    },
+    {
+      "source": "sbsun.com",
+      "n": 1,
+      "avg_tone": -0.676
+    },
+    {
+      "source": "canberratimes.com.au",
+      "n": 1,
+      "avg_tone": -2.323
     },
     {
       "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": 1.019
-    },
-    {
-      "source": "bramptonguardian.com",
-      "n": 2,
-      "avg_tone": 3.332
-    },
-    {
-      "source": "fivb.com",
       "n": 1,
-      "avg_tone": 4.202
+      "avg_tone": 1.603
     },
     {
-      "source": "ksbw.com",
+      "source": "rttnews.com",
       "n": 1,
-      "avg_tone": -1.858
+      "avg_tone": 0.602
     },
     {
-      "source": "deadline.com",
+      "source": "jckonline.com",
       "n": 1,
-      "avg_tone": 0.143
+      "avg_tone": 2.3
     },
     {
-      "source": "sandiegouniontribune.com",
+      "source": "q985online.com",
       "n": 1,
-      "avg_tone": 3.254
+      "avg_tone": 4.299
     },
     {
-      "source": "thestarphoenix.com",
+      "source": "dailypolitical.com",
       "n": 1,
-      "avg_tone": -0.263
+      "avg_tone": 1.243
     },
     {
-      "source": "financialcontent.com",
+      "source": "aninews.in",
       "n": 1,
-      "avg_tone": 2.259
+      "avg_tone": -7.359
     },
     {
-      "source": "kansaspublicradio.org",
+      "source": "nigeriasun.com",
       "n": 1,
-      "avg_tone": -4.726
+      "avg_tone": 4.741
+    },
+    {
+      "source": "silverbirdtv.com",
+      "n": 1,
+      "avg_tone": 11.565
     }
   ],
   "top_themes": [
     {
       "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 313
+      "n": 101
     },
     {
       "theme": "WB_895_MINING_SYSTEMS",
-      "n": 298
+      "n": 89
     },
     {
       "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 298
-    },
-    {
-      "theme": "ENV_METALS",
-      "n": 295
-    },
-    {
-      "theme": "WB_2936_GOLD",
-      "n": 261
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 152
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 132
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 105
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 103
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 95
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 95
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 95
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 94
+      "n": 89
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 91
+      "n": 81
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 72
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 71
+    },
+    {
+      "theme": "ENV_METALS",
+      "n": 69
+    },
+    {
+      "theme": "WB_2937_SILVER",
+      "n": 69
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 61
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 86
+      "n": 54
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 54
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 53
+    },
+    {
+      "theme": "MEDIA_MSM",
+      "n": 50
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 48
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 47
     }
   ]
 }
