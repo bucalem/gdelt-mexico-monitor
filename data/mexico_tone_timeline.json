@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-07-29T06:17:34.317823+00:00",
-  "rows_total_scanned_last_run": 3425,
-  "rows_mexico_last_run": 36,
-  "overall_avg_tone_4h": -0.801,
+  "generated_at": "2026-07-29T09:19:11.357280+00:00",
+  "rows_total_scanned_last_run": 4010,
+  "rows_mexico_last_run": 40,
+  "overall_avg_tone_4h": -0.554,
   "timeline": [
-    {
-      "time": "2026-07-26T06:30",
-      "avg_tone": -0.226,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-07-26T08:15",
-      "avg_tone": -2.299,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-07-26T08:30",
-      "avg_tone": -2.291,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-07-26T08:45",
-      "avg_tone": -2.454,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-07-26T09:00",
-      "avg_tone": -1.003,
-      "n_articles": 5
-    },
     {
       "time": "2026-07-26T10:00",
       "avg_tone": -2.302,
@@ -768,144 +743,164 @@
       "time": "2026-07-29T06:15",
       "avg_tone": -0.673,
       "n_articles": 10
+    },
+    {
+      "time": "2026-07-29T08:30",
+      "avg_tone": 0.251,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-07-29T08:45",
+      "avg_tone": -2.639,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-07-29T09:00",
+      "avg_tone": 0.772,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-07-29T09:15",
+      "avg_tone": 3.04,
+      "n_articles": 3
     }
   ],
   "top_sources": [
     {
-      "source": "finanznachrichten.de",
-      "n": 2,
-      "avg_tone": 2.442
+      "source": "philboxing.com",
+      "n": 5,
+      "avg_tone": 2.984
     },
     {
-      "source": "niagarafallsreview.ca",
-      "n": 2,
-      "avg_tone": 2.838
+      "source": "yahoo.com",
+      "n": 4,
+      "avg_tone": -0.628
     },
     {
-      "source": "prnewswire.com",
-      "n": 2,
-      "avg_tone": -1.236
+      "source": "dailypolitical.com",
+      "n": 3,
+      "avg_tone": 1.621
     },
     {
-      "source": "fortworthbusiness.com",
+      "source": "arkansasonline.com",
       "n": 2,
-      "avg_tone": 5.171
+      "avg_tone": 2.917
     },
     {
-      "source": "kob.com",
-      "n": 2,
-      "avg_tone": 0.179
-    },
-    {
-      "source": "citizen.co.za",
+      "source": "bangordailynews.com",
       "n": 1,
-      "avg_tone": -5.263
+      "avg_tone": 1.832
     },
     {
-      "source": "koaa.com",
+      "source": "ariananews.af",
+      "n": 1,
+      "avg_tone": 3.073
+    },
+    {
+      "source": "eastoregonian.com",
+      "n": 1,
+      "avg_tone": 4.216
+    },
+    {
+      "source": "news3lv.com",
+      "n": 1,
+      "avg_tone": 0.549
+    },
+    {
+      "source": "thefilipinopost.com",
+      "n": 1,
+      "avg_tone": -0.87
+    },
+    {
+      "source": "foxwilmington.com",
+      "n": 1,
+      "avg_tone": -2.936
+    },
+    {
+      "source": "aginfo.net",
+      "n": 1,
+      "avg_tone": 0.24
+    },
+    {
+      "source": "kjrh.com",
       "n": 1,
       "avg_tone": -3.494
     },
     {
-      "source": "mcall.com",
+      "source": "leadertelegram.com",
       "n": 1,
-      "avg_tone": 0.618
+      "avg_tone": -4.854
     },
     {
-      "source": "manilatimes.net",
+      "source": "omanobserver.om",
       "n": 1,
-      "avg_tone": 2.566
+      "avg_tone": -2.775
     },
     {
-      "source": "kelownadailycourier.ca",
-      "n": 1,
-      "avg_tone": -2.404
-    },
-    {
-      "source": "keysnews.com",
-      "n": 1,
-      "avg_tone": 5.231
-    },
-    {
-      "source": "ktvq.com",
+      "source": "turnto23.com",
       "n": 1,
       "avg_tone": -3.494
-    },
-    {
-      "source": "mariettatimes.com",
-      "n": 1,
-      "avg_tone": -5.376
-    },
-    {
-      "source": "10news.com",
-      "n": 1,
-      "avg_tone": -3.494
-    },
-    {
-      "source": "cbs4local.com",
-      "n": 1,
-      "avg_tone": 0.81
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_2670_JOBS",
-      "n": 50
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 40
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 39
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 38
-    },
-    {
-      "theme": "IMMIGRATION",
+      "theme": "ECON_STOCKMARKET",
       "n": 37
     },
     {
+      "theme": "WB_2670_JOBS",
+      "n": 34
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 32
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 32
+    },
+    {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 36
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 26
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 23
+      "n": 31
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 22
+      "n": 30
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 22
+      "theme": "IMMIGRATION",
+      "n": 30
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 21
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 30
     },
     {
-      "theme": "WB_137_WATER",
-      "n": 19
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 27
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 18
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 18
+      "theme": "LEADER",
+      "n": 27
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
+      "n": 25
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 25
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 24
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 22
+    },
+    {
+      "theme": "WB_698_TRADE",
       "n": 17
     }
   ]
