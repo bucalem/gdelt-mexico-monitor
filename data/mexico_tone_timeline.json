@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-07-30T22:03:54.757795+00:00",
-  "rows_total_scanned_last_run": 5439,
-  "rows_mexico_last_run": 90,
-  "overall_avg_tone_4h": -0.433,
+  "generated_at": "2026-07-30T23:17:01.040396+00:00",
+  "rows_total_scanned_last_run": 5027,
+  "rows_mexico_last_run": 113,
+  "overall_avg_tone_4h": -1.0,
   "timeline": [
-    {
-      "time": "2026-07-27T22:15",
-      "avg_tone": -1.737,
-      "n_articles": 22
-    },
-    {
-      "time": "2026-07-27T22:30",
-      "avg_tone": -1.524,
-      "n_articles": 38
-    },
-    {
-      "time": "2026-07-27T22:45",
-      "avg_tone": -1.099,
-      "n_articles": 27
-    },
-    {
-      "time": "2026-07-27T23:00",
-      "avg_tone": -1.203,
-      "n_articles": 31
-    },
-    {
-      "time": "2026-07-27T23:15",
-      "avg_tone": -1.542,
-      "n_articles": 38
-    },
     {
       "time": "2026-07-27T23:30",
       "avg_tone": -1.886,
@@ -748,145 +723,165 @@
       "time": "2026-07-30T22:00",
       "avg_tone": -1.118,
       "n_articles": 26
+    },
+    {
+      "time": "2026-07-30T22:30",
+      "avg_tone": -2.023,
+      "n_articles": 29
+    },
+    {
+      "time": "2026-07-30T22:45",
+      "avg_tone": -1.467,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-07-30T23:00",
+      "avg_tone": -1.762,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-07-30T23:15",
+      "avg_tone": -0.967,
+      "n_articles": 31
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 17,
-      "avg_tone": -4.741
+      "n": 22,
+      "avg_tone": -5.213
     },
     {
-      "source": "thestarphoenix.com",
-      "n": 2,
-      "avg_tone": 0.0
+      "source": "kfoxtv.com",
+      "n": 3,
+      "avg_tone": -0.349
     },
     {
-      "source": "watoday.com.au",
+      "source": "timesofsandiego.com",
       "n": 2,
-      "avg_tone": 2.117
+      "avg_tone": 1.134
     },
     {
-      "source": "shanghainews.net",
+      "source": "unitaid.eu",
       "n": 2,
-      "avg_tone": -4.348
+      "avg_tone": -2.441
+    },
+    {
+      "source": "timescall.com",
+      "n": 2,
+      "avg_tone": -1.0
+    },
+    {
+      "source": "thewhig.com",
+      "n": 2,
+      "avg_tone": 0.239
+    },
+    {
+      "source": "nvdaily.com",
+      "n": 2,
+      "avg_tone": -2.155
+    },
+    {
+      "source": "bostonherald.com",
+      "n": 2,
+      "avg_tone": -2.202
     },
     {
       "source": "themarketsdaily.com",
       "n": 2,
-      "avg_tone": -0.318
+      "avg_tone": 1.561
     },
     {
-      "source": "sbsun.com",
+      "source": "aljazeera.com",
       "n": 2,
-      "avg_tone": 0.813
+      "avg_tone": -3.639
     },
     {
-      "source": "brisbanetimes.com.au",
+      "source": "lasillarota.com",
       "n": 2,
-      "avg_tone": 2.117
+      "avg_tone": -5.581
     },
     {
-      "source": "punknews.org",
-      "n": 1,
-      "avg_tone": 2.004
+      "source": "deadline.com",
+      "n": 2,
+      "avg_tone": 0.616
     },
     {
-      "source": "rimonthly.com",
+      "source": "cpapracticeadvisor.com",
       "n": 1,
-      "avg_tone": 0.808
+      "avg_tone": 0.0
     },
     {
-      "source": "recorder.ca",
+      "source": "967theeagle.net",
       "n": 1,
-      "avg_tone": -1.092
+      "avg_tone": 1.942
     },
     {
-      "source": "wdez.com",
+      "source": "pilotonline.com",
       "n": 1,
-      "avg_tone": 2.326
-    },
-    {
-      "source": "clichemag.com",
-      "n": 1,
-      "avg_tone": -1.639
-    },
-    {
-      "source": "manilatimes.net",
-      "n": 1,
-      "avg_tone": -0.358
-    },
-    {
-      "source": "cltampa.com",
-      "n": 1,
-      "avg_tone": 2.632
-    },
-    {
-      "source": "trbusiness.com",
-      "n": 1,
-      "avg_tone": 1.22
+      "avg_tone": -2.486
     }
   ],
   "top_themes": [
     {
+      "theme": "TAX_FNCACT_CHILD",
+      "n": 230
+    },
+    {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 148
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 146
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 145
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 145
+      "n": 218
     },
     {
       "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 139
+      "n": 216
     },
     {
-      "theme": "TAX_FNCACT_CHILD",
-      "n": 126
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 216
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 216
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 216
     },
     {
       "theme": "BORDER",
-      "n": 97
+      "n": 151
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 92
+      "n": 136
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 92
-    },
-    {
-      "theme": "LEADER",
-      "n": 89
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 71
+      "n": 132
     },
     {
       "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 70
+      "n": 116
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 106
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 103
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 99
     },
     {
       "theme": "EPU_CATS_HEALTHCARE",
-      "n": 69
+      "n": 97
     },
     {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 69
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 69
+      "theme": "WB_1014_CRIMINAL_JUSTICE",
+      "n": 91
     }
   ]
 }
