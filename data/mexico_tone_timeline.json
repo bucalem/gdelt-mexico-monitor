@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-07-31T21:58:01.229568+00:00",
-  "rows_total_scanned_last_run": 5392,
-  "rows_mexico_last_run": 169,
-  "overall_avg_tone_4h": -1.379,
+  "generated_at": "2026-07-31T22:58:28.610792+00:00",
+  "rows_total_scanned_last_run": 4667,
+  "rows_mexico_last_run": 149,
+  "overall_avg_tone_4h": -1.367,
   "timeline": [
-    {
-      "time": "2026-07-28T22:00",
-      "avg_tone": 0.187,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-07-28T22:15",
-      "avg_tone": -1.403,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-07-28T22:30",
-      "avg_tone": -1.174,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-07-28T22:45",
-      "avg_tone": -2.628,
-      "n_articles": 21
-    },
     {
       "time": "2026-07-28T23:00",
       "avg_tone": 0.882,
@@ -763,145 +743,165 @@
       "time": "2026-07-31T22:00",
       "avg_tone": -1.684,
       "n_articles": 43
+    },
+    {
+      "time": "2026-07-31T22:15",
+      "avg_tone": -1.165,
+      "n_articles": 30
+    },
+    {
+      "time": "2026-07-31T22:30",
+      "avg_tone": -1.365,
+      "n_articles": 45
+    },
+    {
+      "time": "2026-07-31T22:45",
+      "avg_tone": -1.651,
+      "n_articles": 35
+    },
+    {
+      "time": "2026-07-31T23:00",
+      "avg_tone": -1.595,
+      "n_articles": 39
     }
   ],
   "top_sources": [
     {
-      "source": "dailygazette.com",
-      "n": 4,
-      "avg_tone": -2.594
-    },
-    {
-      "source": "nypost.com",
-      "n": 3,
-      "avg_tone": -4.829
-    },
-    {
-      "source": "bozemandailychronicle.com",
-      "n": 3,
-      "avg_tone": -3.366
-    },
-    {
-      "source": "wlrn.org",
-      "n": 3,
-      "avg_tone": -2.634
-    },
-    {
-      "source": "ladailypost.com",
-      "n": 3,
-      "avg_tone": -0.527
-    },
-    {
-      "source": "latimes.com",
-      "n": 3,
-      "avg_tone": -3.827
-    },
-    {
-      "source": "ksfr.org",
-      "n": 2,
-      "avg_tone": -2.339
-    },
-    {
-      "source": "foxnews.com",
-      "n": 2,
-      "avg_tone": -7.975
-    },
-    {
-      "source": "businessinsider.com",
-      "n": 2,
-      "avg_tone": -0.884
-    },
-    {
-      "source": "chinafile.com",
-      "n": 2,
-      "avg_tone": -0.404
-    },
-    {
       "source": "yahoo.com",
+      "n": 3,
+      "avg_tone": -0.199
+    },
+    {
+      "source": "ksat.com",
+      "n": 3,
+      "avg_tone": -1.651
+    },
+    {
+      "source": "bostonherald.com",
       "n": 2,
-      "avg_tone": -3.183
+      "avg_tone": -3.298
+    },
+    {
+      "source": "dailygazette.com",
+      "n": 2,
+      "avg_tone": -0.19
+    },
+    {
+      "source": "local10.com",
+      "n": 2,
+      "avg_tone": -1.789
+    },
+    {
+      "source": "netscape.com",
+      "n": 2,
+      "avg_tone": -1.371
+    },
+    {
+      "source": "tsln.com",
+      "n": 2,
+      "avg_tone": -3.018
+    },
+    {
+      "source": "klkntv.com",
+      "n": 2,
+      "avg_tone": -2.555
     },
     {
       "source": "themarketsdaily.com",
       "n": 2,
-      "avg_tone": 1.964
+      "avg_tone": 2.26
     },
     {
-      "source": "kunc.org",
+      "source": "sandiegouniontribune.com",
+      "n": 2,
+      "avg_tone": -5.526
+    },
+    {
+      "source": "chinanationalnews.com",
+      "n": 2,
+      "avg_tone": -1.521
+    },
+    {
+      "source": "upr.org",
+      "n": 2,
+      "avg_tone": -1.918
+    },
+    {
+      "source": "wyomingpublicmedia.org",
       "n": 2,
       "avg_tone": -1.919
     },
     {
-      "source": "rivergrandrapids.com",
+      "source": "cjme.com",
       "n": 2,
-      "avg_tone": 3.617
+      "avg_tone": -1.582
     },
     {
-      "source": "bignewsnetwork.com",
-      "n": 2,
-      "avg_tone": -1.521
+      "source": "tennesseedaily.com",
+      "n": 1,
+      "avg_tone": -0.943
     }
   ],
   "top_themes": [
     {
       "theme": "WB_137_WATER",
-      "n": 297
+      "n": 383
     },
     {
       "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 286
+      "n": 202
     },
     {
       "theme": "WB_286_TELECOMMUNICATIONS_AND_BROADBAND_ACCESS",
-      "n": 255
+      "n": 166
     },
     {
       "theme": "WB_2120_SATELLITES",
-      "n": 255
+      "n": 165
     },
     {
       "theme": "WB_2329_ACCESS_AND_CONNECTIVITY",
-      "n": 255
+      "n": 165
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 170
+      "n": 152
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 161
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 159
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 151
+      "n": 152
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 147
+      "n": 149
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 141
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 139
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 127
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 126
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
+      "n": 126
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 124
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 115
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 106
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 103
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 101
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 100
+      "n": 102
     }
   ]
 }
