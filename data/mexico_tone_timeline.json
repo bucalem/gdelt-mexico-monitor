@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-01T12:37:16.332895+00:00",
-  "rows_total_scanned_last_run": 3131,
-  "rows_mexico_last_run": 28,
-  "overall_avg_tone_4h": -0.748,
+  "generated_at": "2026-08-01T14:10:30.364786+00:00",
+  "rows_total_scanned_last_run": 2865,
+  "rows_mexico_last_run": 32,
+  "overall_avg_tone_4h": -1.111,
   "timeline": [
-    {
-      "time": "2026-07-29T12:45",
-      "avg_tone": 0.351,
-      "n_articles": 22
-    },
-    {
-      "time": "2026-07-29T13:00",
-      "avg_tone": -1.33,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-07-29T13:15",
-      "avg_tone": 0.331,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-07-29T13:30",
-      "avg_tone": 0.589,
-      "n_articles": 22
-    },
     {
       "time": "2026-07-29T14:45",
       "avg_tone": -1.624,
@@ -773,145 +753,165 @@
       "time": "2026-08-01T12:45",
       "avg_tone": 0.471,
       "n_articles": 4
+    },
+    {
+      "time": "2026-08-01T13:30",
+      "avg_tone": -1.544,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-08-01T13:45",
+      "avg_tone": -0.147,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-08-01T14:00",
+      "avg_tone": -2.372,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-08-01T14:15",
+      "avg_tone": -1.121,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "theguardian.com",
-      "n": 3,
-      "avg_tone": -0.67
+      "source": "riviera-maya-news.com",
+      "n": 4,
+      "avg_tone": -3.961
     },
     {
-      "source": "english.news.cn",
+      "source": "ktbb.com",
       "n": 2,
-      "avg_tone": -2.373
+      "avg_tone": -2.048
     },
     {
-      "source": "signalscv.com",
-      "n": 2,
-      "avg_tone": -2.617
-    },
-    {
-      "source": "ynetnews.com",
+      "source": "naturalnews.com",
       "n": 1,
-      "avg_tone": -0.24
+      "avg_tone": -6.505
     },
     {
-      "source": "forbes.com",
+      "source": "wlj.net",
       "n": 1,
-      "avg_tone": 1.769
+      "avg_tone": 0.467
     },
     {
-      "source": "newsitem.com",
-      "n": 1,
-      "avg_tone": -0.393
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 0.748
-    },
-    {
-      "source": "mixmag.net",
-      "n": 1,
-      "avg_tone": 1.313
-    },
-    {
-      "source": "thelocal.de",
+      "source": "thelocal.es",
       "n": 1,
       "avg_tone": -4.222
     },
     {
-      "source": "springer.com",
+      "source": "decider.com",
       "n": 1,
-      "avg_tone": 1.376
+      "avg_tone": 0.0
     },
     {
-      "source": "ksat.com",
+      "source": "kilgorenewsherald.com",
       "n": 1,
-      "avg_tone": -3.281
+      "avg_tone": 4.103
     },
     {
-      "source": "toronto.com",
+      "source": "kcur.org",
       "n": 1,
-      "avg_tone": 4.251
+      "avg_tone": 1.281
     },
     {
-      "source": "arynews.tv",
+      "source": "chronogram.com",
       "n": 1,
-      "avg_tone": 0.405
+      "avg_tone": 1.098
     },
     {
-      "source": "andoveradvertiser.co.uk",
+      "source": "foxsanantonio.com",
       "n": 1,
-      "avg_tone": -7.692
+      "avg_tone": -1.37
     },
     {
-      "source": "thereporterethiopia.com",
+      "source": "fourfourtwo.com",
       "n": 1,
-      "avg_tone": -2.681
+      "avg_tone": 1.675
+    },
+    {
+      "source": "wellandtribune.ca",
+      "n": 1,
+      "avg_tone": -6.773
+    },
+    {
+      "source": "ign.com",
+      "n": 1,
+      "avg_tone": 0.459
+    },
+    {
+      "source": "gulfnews.com",
+      "n": 1,
+      "avg_tone": 2.786
+    },
+    {
+      "source": "thelinkpaper.ca",
+      "n": 1,
+      "avg_tone": -8.125
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_MILITARY_TITLE_COMMANDER",
-      "n": 45
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 38
     },
     {
-      "theme": "TAX_FNCACT_COMMANDER",
-      "n": 45
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 45
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 44
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 43
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 43
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 42
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 42
-    },
-    {
-      "theme": "RELEASE_HOSTAGE",
-      "n": 37
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 24
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 22
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 33
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 33
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 29
+    },
+    {
+      "theme": "SECURITY_SERVICES",
+      "n": 26
+    },
+    {
+      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
+      "n": 26
+    },
+    {
+      "theme": "WB_590_ECOSYSTEMS",
+      "n": 24
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_JAIL",
+      "n": 24
+    },
+    {
+      "theme": "WB_1777_FORESTS",
+      "n": 23
+    },
+    {
+      "theme": "WB_135_TRANSPORT",
+      "n": 23
+    },
+    {
+      "theme": "TAX_FNCACT_POLICE",
+      "n": 22
+    },
+    {
+      "theme": "TAX_DISEASE_DEMENTIA",
+      "n": 22
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 21
     },
     {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 20
+      "theme": "IMMIGRATION",
+      "n": 21
     },
     {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 20
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 20
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 21
     }
   ]
 }
