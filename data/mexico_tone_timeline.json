@@ -1,59 +1,9 @@
 {
-  "generated_at": "2026-07-31T22:58:28.610792+00:00",
-  "rows_total_scanned_last_run": 4667,
-  "rows_mexico_last_run": 149,
-  "overall_avg_tone_4h": -1.367,
+  "generated_at": "2026-08-01T03:46:38.120379+00:00",
+  "rows_total_scanned_last_run": 2086,
+  "rows_mexico_last_run": 43,
+  "overall_avg_tone_4h": -1.417,
   "timeline": [
-    {
-      "time": "2026-07-28T23:00",
-      "avg_tone": 0.882,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-07-28T23:15",
-      "avg_tone": -0.14,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-07-28T23:30",
-      "avg_tone": -1.107,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-07-28T23:45",
-      "avg_tone": -0.878,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-07-29T00:00",
-      "avg_tone": -0.396,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-07-29T00:15",
-      "avg_tone": -1.187,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-07-29T03:00",
-      "avg_tone": -1.059,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-07-29T03:15",
-      "avg_tone": 0.589,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-07-29T03:30",
-      "avg_tone": -1.013,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-07-29T03:45",
-      "avg_tone": -1.596,
-      "n_articles": 9
-    },
     {
       "time": "2026-07-29T05:30",
       "avg_tone": 1.085,
@@ -763,145 +713,165 @@
       "time": "2026-07-31T23:00",
       "avg_tone": -1.595,
       "n_articles": 39
+    },
+    {
+      "time": "2026-08-01T03:00",
+      "avg_tone": -1.609,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-01T03:15",
+      "avg_tone": 0.015,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-01T03:30",
+      "avg_tone": -1.034,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-08-01T03:45",
+      "avg_tone": -0.816,
+      "n_articles": 10
     }
   ],
   "top_sources": [
     {
       "source": "yahoo.com",
-      "n": 3,
-      "avg_tone": -0.199
-    },
-    {
-      "source": "ksat.com",
-      "n": 3,
-      "avg_tone": -1.651
-    },
-    {
-      "source": "bostonherald.com",
       "n": 2,
-      "avg_tone": -3.298
+      "avg_tone": 0.031
     },
     {
-      "source": "dailygazette.com",
+      "source": "singaporestar.com",
       "n": 2,
-      "avg_tone": -0.19
+      "avg_tone": -0.999
+    },
+    {
+      "source": "herald-dispatch.com",
+      "n": 1,
+      "avg_tone": -3.953
+    },
+    {
+      "source": "mercurynews.com",
+      "n": 1,
+      "avg_tone": -2.414
+    },
+    {
+      "source": "wrganews.com",
+      "n": 1,
+      "avg_tone": -4.148
     },
     {
       "source": "local10.com",
-      "n": 2,
-      "avg_tone": -1.789
-    },
-    {
-      "source": "netscape.com",
-      "n": 2,
-      "avg_tone": -1.371
-    },
-    {
-      "source": "tsln.com",
-      "n": 2,
-      "avg_tone": -3.018
-    },
-    {
-      "source": "klkntv.com",
-      "n": 2,
-      "avg_tone": -2.555
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 2,
-      "avg_tone": 2.26
-    },
-    {
-      "source": "sandiegouniontribune.com",
-      "n": 2,
-      "avg_tone": -5.526
-    },
-    {
-      "source": "chinanationalnews.com",
-      "n": 2,
-      "avg_tone": -1.521
-    },
-    {
-      "source": "upr.org",
-      "n": 2,
-      "avg_tone": -1.918
-    },
-    {
-      "source": "wyomingpublicmedia.org",
-      "n": 2,
-      "avg_tone": -1.919
-    },
-    {
-      "source": "cjme.com",
-      "n": 2,
-      "avg_tone": -1.582
-    },
-    {
-      "source": "tennesseedaily.com",
       "n": 1,
-      "avg_tone": -0.943
+      "avg_tone": -2.626
+    },
+    {
+      "source": "whyy.org",
+      "n": 1,
+      "avg_tone": 1.523
+    },
+    {
+      "source": "english.news.cn",
+      "n": 1,
+      "avg_tone": 2.153
+    },
+    {
+      "source": "wokv.com",
+      "n": 1,
+      "avg_tone": 3.911
+    },
+    {
+      "source": "cambridgetimes.ca",
+      "n": 1,
+      "avg_tone": -2.662
+    },
+    {
+      "source": "sydneysun.com",
+      "n": 1,
+      "avg_tone": 0.101
+    },
+    {
+      "source": "wwd.com",
+      "n": 1,
+      "avg_tone": -4.085
+    },
+    {
+      "source": "ktvo.com",
+      "n": 1,
+      "avg_tone": 4.062
+    },
+    {
+      "source": "kfoxtv.com",
+      "n": 1,
+      "avg_tone": -0.253
+    },
+    {
+      "source": "malaysiasun.com",
+      "n": 1,
+      "avg_tone": 0.101
     }
   ],
   "top_themes": [
     {
       "theme": "WB_137_WATER",
-      "n": 383
+      "n": 71
     },
     {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 202
-    },
-    {
-      "theme": "WB_286_TELECOMMUNICATIONS_AND_BROADBAND_ACCESS",
-      "n": 166
-    },
-    {
-      "theme": "WB_2120_SATELLITES",
-      "n": 165
-    },
-    {
-      "theme": "WB_2329_ACCESS_AND_CONNECTIVITY",
-      "n": 165
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 152
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 152
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 149
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 141
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 139
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 127
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 126
+      "theme": "TAX_FNCACT_AGENT",
+      "n": 55
     },
     {
       "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 126
+      "n": 40
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 124
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 37
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 102
+      "theme": "TAX_FNCACT_AGENTS",
+      "n": 30
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 29
+    },
+    {
+      "theme": "KILL",
+      "n": 29
+    },
+    {
+      "theme": "LEADER",
+      "n": 27
+    },
+    {
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 27
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 26
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 26
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 26
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 26
+    },
+    {
+      "theme": "TAX_WORLDMAMMALS_BEAR",
+      "n": 26
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 25
     }
   ]
 }
