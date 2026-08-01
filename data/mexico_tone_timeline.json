@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-01T22:35:58.735136+00:00",
-  "rows_total_scanned_last_run": 2161,
-  "rows_mexico_last_run": 21,
-  "overall_avg_tone_4h": 0.059,
+  "generated_at": "2026-08-01T23:38:35.419273+00:00",
+  "rows_total_scanned_last_run": 2183,
+  "rows_mexico_last_run": 28,
+  "overall_avg_tone_4h": -0.313,
   "timeline": [
-    {
-      "time": "2026-07-29T22:45",
-      "avg_tone": 2.067,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-07-29T23:00",
-      "avg_tone": 0.203,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-07-29T23:15",
-      "avg_tone": -0.559,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-07-29T23:30",
-      "avg_tone": -1.011,
-      "n_articles": 10
-    },
     {
       "time": "2026-07-29T23:45",
       "avg_tone": 2.467,
@@ -803,92 +783,136 @@
       "time": "2026-08-01T22:45",
       "avg_tone": 0.443,
       "n_articles": 6
+    },
+    {
+      "time": "2026-08-01T23:00",
+      "avg_tone": -0.167,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-08-01T23:15",
+      "avg_tone": -1.926,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-08-01T23:30",
+      "avg_tone": 0.336,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-08-01T23:45",
+      "avg_tone": -0.962,
+      "n_articles": 7
     }
   ],
   "top_sources": [
     {
-      "source": "mlbtraderumors.com",
+      "source": "abqjournal.com",
       "n": 2,
-      "avg_tone": 0.0
+      "avg_tone": -0.254
     },
     {
-      "source": "cincinnatisun.com",
+      "source": "timesofsandiego.com",
+      "n": 2,
+      "avg_tone": 0.074
+    },
+    {
+      "source": "rawstory.com",
+      "n": 1,
+      "avg_tone": -2.768
+    },
+    {
+      "source": "carscoops.com",
+      "n": 1,
+      "avg_tone": -3.795
+    },
+    {
+      "source": "punchng.com",
+      "n": 1,
+      "avg_tone": -1.022
+    },
+    {
+      "source": "nypost.com",
+      "n": 1,
+      "avg_tone": -5.109
+    },
+    {
+      "source": "burgundywave.com",
+      "n": 1,
+      "avg_tone": -0.334
+    },
+    {
+      "source": "collider.com",
+      "n": 1,
+      "avg_tone": 0.149
+    },
+    {
+      "source": "billboard.com",
+      "n": 1,
+      "avg_tone": 6.143
+    },
+    {
+      "source": "dailynews.com",
+      "n": 1,
+      "avg_tone": 2.311
+    },
+    {
+      "source": "dailykos.com",
+      "n": 1,
+      "avg_tone": 0.454
+    },
+    {
+      "source": "thescore1260.com",
+      "n": 1,
+      "avg_tone": -0.837
+    },
+    {
+      "source": "953thescore.com",
+      "n": 1,
+      "avg_tone": -0.837
+    },
+    {
+      "source": "lonestarball.com",
+      "n": 1,
+      "avg_tone": 1.538
+    },
+    {
+      "source": "haitisun.com",
       "n": 1,
       "avg_tone": -0.616
-    },
-    {
-      "source": "screenrant.com",
-      "n": 1,
-      "avg_tone": 0.056
-    },
-    {
-      "source": "mentalfloss.com",
-      "n": 1,
-      "avg_tone": 0.63
-    },
-    {
-      "source": "constructiondive.com",
-      "n": 1,
-      "avg_tone": 0.563
-    },
-    {
-      "source": "tucson.com",
-      "n": 1,
-      "avg_tone": 1.11
-    },
-    {
-      "source": "stlouisreview.com",
-      "n": 1,
-      "avg_tone": 0.912
-    },
-    {
-      "source": "yahoo.com",
-      "n": 1,
-      "avg_tone": -4.738
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 6.537
-    },
-    {
-      "source": "caribbeanherald.com",
-      "n": 1,
-      "avg_tone": -0.616
-    },
-    {
-      "source": "cleantechnica.com",
-      "n": 1,
-      "avg_tone": 1.395
-    },
-    {
-      "source": "mexicostar.com",
-      "n": 1,
-      "avg_tone": -0.616
-    },
-    {
-      "source": "thecherrycreeknews.com",
-      "n": 1,
-      "avg_tone": -6.699
-    },
-    {
-      "source": "cbc.bb",
-      "n": 1,
-      "avg_tone": 0.571
-    },
-    {
-      "source": "almanacnews.com",
-      "n": 1,
-      "avg_tone": -5.396
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 19
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 29
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 26
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 26
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 25
+    },
+    {
+      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
+      "n": 18
+    },
+    {
+      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
+      "n": 16
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 15
+    },
+    {
+      "theme": "WB_590_ECOSYSTEMS",
       "n": 14
     },
     {
@@ -896,52 +920,28 @@
       "n": 14
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "theme": "WB_168_ROADS_AND_HIGHWAYS",
       "n": 14
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 13
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 13
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 13
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 13
-    },
-    {
-      "theme": "BORDER",
-      "n": 12
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 11
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 10
-    },
-    {
-      "theme": "LEADER",
-      "n": 10
+      "theme": "WB_1809_HIGHWAYS",
+      "n": 14
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 10
+      "n": 13
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 9
+      "theme": "WB_1777_FORESTS",
+      "n": 13
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 9
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 13
+    },
+    {
+      "theme": "AFFECT",
+      "n": 12
     }
   ]
 }
