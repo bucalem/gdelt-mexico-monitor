@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-02T16:49:40.363196+00:00",
-  "rows_total_scanned_last_run": 2800,
-  "rows_mexico_last_run": 56,
-  "overall_avg_tone_4h": -1.414,
+  "generated_at": "2026-08-02T17:54:20.236698+00:00",
+  "rows_total_scanned_last_run": 2448,
+  "rows_mexico_last_run": 33,
+  "overall_avg_tone_4h": -1.007,
   "timeline": [
-    {
-      "time": "2026-07-30T17:00",
-      "avg_tone": 1.17,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-07-30T17:30",
-      "avg_tone": 1.521,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-07-30T17:45",
-      "avg_tone": -1.313,
-      "n_articles": 25
-    },
     {
       "time": "2026-07-30T18:00",
       "avg_tone": 1.806,
@@ -843,81 +828,101 @@
       "time": "2026-08-02T17:00",
       "avg_tone": -0.479,
       "n_articles": 19
+    },
+    {
+      "time": "2026-08-02T17:15",
+      "avg_tone": -1.717,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-02T17:30",
+      "avg_tone": 0.945,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-08-02T17:45",
+      "avg_tone": -0.472,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-02T18:00",
+      "avg_tone": 0.791,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
-      "source": "pauldavisoncrime.com",
-      "n": 6,
-      "avg_tone": -6.61
-    },
-    {
-      "source": "deadline.com",
-      "n": 4,
-      "avg_tone": -0.48
-    },
-    {
-      "source": "riotimesonline.com",
-      "n": 3,
-      "avg_tone": 1.044
-    },
-    {
-      "source": "timescall.com",
+      "source": "yahoo.com",
       "n": 2,
-      "avg_tone": 3.319
+      "avg_tone": -0.415
     },
     {
-      "source": "dailymail.com",
+      "source": "dailygazette.com",
       "n": 1,
-      "avg_tone": -0.457
+      "avg_tone": 2.64
     },
     {
-      "source": "stcatharinesstandard.ca",
+      "source": "nichegamer.com",
       "n": 1,
-      "avg_tone": -1.384
+      "avg_tone": -1.146
     },
     {
-      "source": "nigeriasun.com",
+      "source": "myspiritfm.com",
       "n": 1,
-      "avg_tone": -2.247
+      "avg_tone": 3.226
     },
     {
-      "source": "nineoclock.ro",
+      "source": "engadget.com",
       "n": 1,
-      "avg_tone": 4.286
+      "avg_tone": 1.483
     },
     {
-      "source": "jamaicaobserver.com",
-      "n": 1,
-      "avg_tone": -3.458
-    },
-    {
-      "source": "chinanationalnews.com",
+      "source": "myanmarnews.net",
       "n": 1,
       "avg_tone": -2.247
     },
     {
-      "source": "philboxing.com",
+      "source": "mirror.co.uk",
       "n": 1,
-      "avg_tone": 0.236
+      "avg_tone": 0.0
     },
     {
-      "source": "slashfilm.com",
+      "source": "themarketsdaily.com",
       "n": 1,
-      "avg_tone": -3.247
+      "avg_tone": 2.009
     },
     {
-      "source": "redstate.com",
+      "source": "boxingnewsonline.net",
       "n": 1,
-      "avg_tone": -3.733
+      "avg_tone": 1.761
     },
     {
-      "source": "afghanistannews.net",
+      "source": "cbc.ca",
+      "n": 1,
+      "avg_tone": -2.405
+    },
+    {
+      "source": "cincinnatisun.com",
       "n": 1,
       "avg_tone": -2.247
     },
     {
-      "source": "srilankasource.com",
+      "source": "northkoreatimes.com",
+      "n": 1,
+      "avg_tone": -2.247
+    },
+    {
+      "source": "saratogian.com",
+      "n": 1,
+      "avg_tone": 1.306
+    },
+    {
+      "source": "grandrapidsmn.com",
+      "n": 1,
+      "avg_tone": 1.628
+    },
+    {
+      "source": "caribbeanherald.com",
       "n": 1,
       "avg_tone": -2.247
     }
@@ -925,63 +930,63 @@
   "top_themes": [
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 112
+      "n": 78
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 109
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 103
-    },
-    {
-      "theme": "WB_1331_HEALTH_TECHNOLOGIES",
-      "n": 97
-    },
-    {
-      "theme": "WB_1350_PHARMACEUTICALS",
-      "n": 97
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 89
-    },
-    {
-      "theme": "WB_2453_ORGANIZED_CRIME",
-      "n": 86
-    },
-    {
-      "theme": "WB_2456_DRUGS_AND_NARCOTICS",
-      "n": 86
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 58
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 56
+      "theme": "TAX_FNCACT_COOK",
+      "n": 42
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 53
+      "n": 34
     },
     {
-      "theme": "TAX_FNCACT_CRIMINAL",
-      "n": 50
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 30
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 48
+      "theme": "TRAFFIC",
+      "n": 28
     },
     {
-      "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
-      "n": 48
+      "theme": "WB_2670_JOBS",
+      "n": 23
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 48
+      "theme": "IMMIGRATION",
+      "n": 22
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 22
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 22
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 22
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 22
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 20
+    },
+    {
+      "theme": "TAX_FNCACT_DIRECTOR",
+      "n": 20
+    },
+    {
+      "theme": "EPU_UNCERTAINTY",
+      "n": 20
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 20
     }
   ]
 }
