@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-02T12:06:15.015921+00:00",
-  "rows_total_scanned_last_run": 2445,
-  "rows_mexico_last_run": 45,
-  "overall_avg_tone_4h": -2.472,
+  "generated_at": "2026-08-02T13:51:07.991657+00:00",
+  "rows_total_scanned_last_run": 2401,
+  "rows_mexico_last_run": 47,
+  "overall_avg_tone_4h": -2.629,
   "timeline": [
-    {
-      "time": "2026-07-30T12:30",
-      "avg_tone": -0.003,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-07-30T12:45",
-      "avg_tone": -0.59,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-07-30T13:00",
-      "avg_tone": 0.47,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-07-30T13:15",
-      "avg_tone": 0.317,
-      "n_articles": 24
-    },
     {
       "time": "2026-07-30T14:45",
       "avg_tone": -0.322,
@@ -818,81 +798,101 @@
       "time": "2026-08-02T12:15",
       "avg_tone": -3.587,
       "n_articles": 10
+    },
+    {
+      "time": "2026-08-02T13:15",
+      "avg_tone": -3.243,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-08-02T13:30",
+      "avg_tone": -1.294,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-08-02T13:45",
+      "avg_tone": -2.779,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-08-02T14:00",
+      "avg_tone": -2.665,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 3,
-      "avg_tone": 0.237
+      "source": "aol.co.uk",
+      "n": 2,
+      "avg_tone": -0.098
     },
     {
-      "source": "worcesternews.co.uk",
+      "source": "bignewsnetwork.com",
+      "n": 1,
+      "avg_tone": -2.247
+    },
+    {
+      "source": "rollingstone.com",
+      "n": 1,
+      "avg_tone": -2.43
+    },
+    {
+      "source": "parisguardian.com",
+      "n": 1,
+      "avg_tone": -2.247
+    },
+    {
+      "source": "birminghamstar.com",
+      "n": 1,
+      "avg_tone": -2.247
+    },
+    {
+      "source": "ualrpublicradio.org",
+      "n": 1,
+      "avg_tone": -4.81
+    },
+    {
+      "source": "newyorkstatesman.com",
+      "n": 1,
+      "avg_tone": -2.247
+    },
+    {
+      "source": "theguardian.com",
+      "n": 1,
+      "avg_tone": 0.713
+    },
+    {
+      "source": "ledburyreporter.co.uk",
       "n": 1,
       "avg_tone": -7.692
     },
     {
-      "source": "kedm.org",
+      "source": "wgcu.org",
       "n": 1,
       "avg_tone": -4.81
     },
     {
-      "source": "wutc.org",
+      "source": "wvxu.org",
       "n": 1,
       "avg_tone": -4.81
     },
     {
-      "source": "theglobeandmail.com",
+      "source": "greekherald.com",
       "n": 1,
-      "avg_tone": -3.238
+      "avg_tone": -2.247
     },
     {
-      "source": "wcsufm.org",
+      "source": "cambodiantimes.com",
       "n": 1,
-      "avg_tone": -4.81
+      "avg_tone": -2.247
     },
     {
-      "source": "getsurrey.co.uk",
+      "source": "rockymounttelegram.com",
       "n": 1,
-      "avg_tone": -6.637
+      "avg_tone": 2.679
     },
     {
-      "source": "cbc.ca",
-      "n": 1,
-      "avg_tone": 2.26
-    },
-    {
-      "source": "kenw.org",
-      "n": 1,
-      "avg_tone": -4.81
-    },
-    {
-      "source": "express.co.uk",
-      "n": 1,
-      "avg_tone": 1.474
-    },
-    {
-      "source": "sott.net",
-      "n": 1,
-      "avg_tone": -2.797
-    },
-    {
-      "source": "bmwblog.com",
-      "n": 1,
-      "avg_tone": -0.904
-    },
-    {
-      "source": "philstar.com",
-      "n": 1,
-      "avg_tone": 3.462
-    },
-    {
-      "source": "thegardenisland.com",
-      "n": 1,
-      "avg_tone": -1.175
-    },
-    {
-      "source": "krvs.org",
+      "source": "wemu.org",
       "n": 1,
       "avg_tone": -4.81
     }
@@ -900,63 +900,63 @@
   "top_themes": [
     {
       "theme": "TAX_DISEASE_CYCLOSPORA",
-      "n": 227
+      "n": 141
     },
     {
       "theme": "TAX_DISEASE_CYCLOSPORIASIS",
-      "n": 175
+      "n": 119
     },
     {
       "theme": "TAX_WORLDMAMMALS_HUMAN",
-      "n": 146
+      "n": 97
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 90
     },
     {
       "theme": "WB_137_WATER",
-      "n": 108
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 83
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 77
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 75
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 75
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 75
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 75
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 75
+      "n": 65
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 74
+      "n": 59
     },
     {
-      "theme": "MEDICAL",
+      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
       "n": 57
     },
     {
-      "theme": "WB_1406_DISEASES",
-      "n": 56
+      "theme": "EDUCATION",
+      "n": 57
     },
     {
-      "theme": "SCIENCE",
-      "n": 53
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 51
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 50
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 50
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 50
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 50
+    },
+    {
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 49
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 47
     }
   ]
 }
