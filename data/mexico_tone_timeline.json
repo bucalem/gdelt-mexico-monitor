@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-02T17:54:20.236698+00:00",
-  "rows_total_scanned_last_run": 2448,
-  "rows_mexico_last_run": 33,
-  "overall_avg_tone_4h": -1.007,
+  "generated_at": "2026-08-02T18:56:45.780291+00:00",
+  "rows_total_scanned_last_run": 2487,
+  "rows_mexico_last_run": 35,
+  "overall_avg_tone_4h": -0.512,
   "timeline": [
-    {
-      "time": "2026-07-30T18:00",
-      "avg_tone": 1.806,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-07-30T18:15",
-      "avg_tone": -0.144,
-      "n_articles": 19
-    },
     {
       "time": "2026-07-30T19:30",
       "avg_tone": -0.163,
@@ -848,145 +838,165 @@
       "time": "2026-08-02T18:00",
       "avg_tone": 0.791,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-02T18:15",
+      "avg_tone": 1.847,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-02T18:30",
+      "avg_tone": -0.456,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-08-02T18:45",
+      "avg_tone": 0.15,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-08-02T19:00",
+      "avg_tone": -0.427,
+      "n_articles": 6
     }
   ],
   "top_sources": [
     {
+      "source": "indiatimes.com",
+      "n": 2,
+      "avg_tone": -2.273
+    },
+    {
+      "source": "tickerreport.com",
+      "n": 2,
+      "avg_tone": 3.897
+    },
+    {
       "source": "yahoo.com",
       "n": 2,
-      "avg_tone": -0.415
+      "avg_tone": -2.314
     },
     {
       "source": "dailygazette.com",
-      "n": 1,
+      "n": 2,
       "avg_tone": 2.64
     },
     {
-      "source": "nichegamer.com",
-      "n": 1,
-      "avg_tone": -1.146
+      "source": "manilatimes.net",
+      "n": 2,
+      "avg_tone": 1.825
     },
     {
-      "source": "myspiritfm.com",
-      "n": 1,
-      "avg_tone": 3.226
+      "source": "billboard.com",
+      "n": 2,
+      "avg_tone": 1.616
     },
     {
-      "source": "engadget.com",
-      "n": 1,
-      "avg_tone": 1.483
-    },
-    {
-      "source": "myanmarnews.net",
-      "n": 1,
-      "avg_tone": -2.247
-    },
-    {
-      "source": "mirror.co.uk",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 2.009
-    },
-    {
-      "source": "boxingnewsonline.net",
-      "n": 1,
-      "avg_tone": 1.761
-    },
-    {
-      "source": "cbc.ca",
-      "n": 1,
-      "avg_tone": -2.405
-    },
-    {
-      "source": "cincinnatisun.com",
-      "n": 1,
-      "avg_tone": -2.247
-    },
-    {
-      "source": "northkoreatimes.com",
-      "n": 1,
-      "avg_tone": -2.247
-    },
-    {
-      "source": "saratogian.com",
+      "source": "dailypress.com",
       "n": 1,
       "avg_tone": 1.306
     },
     {
-      "source": "grandrapidsmn.com",
+      "source": "timesfreepress.com",
       "n": 1,
-      "avg_tone": 1.628
+      "avg_tone": -0.583
     },
     {
-      "source": "caribbeanherald.com",
+      "source": "nzherald.co.nz",
       "n": 1,
-      "avg_tone": -2.247
+      "avg_tone": -4.312
+    },
+    {
+      "source": "rollingstone.com",
+      "n": 1,
+      "avg_tone": 1.87
+    },
+    {
+      "source": "cambridgetimes.ca",
+      "n": 1,
+      "avg_tone": 1.695
+    },
+    {
+      "source": "dailynews.com",
+      "n": 1,
+      "avg_tone": -2.54
+    },
+    {
+      "source": "mmamania.com",
+      "n": 1,
+      "avg_tone": -1.042
+    },
+    {
+      "source": "themorningsun.com",
+      "n": 1,
+      "avg_tone": 1.306
+    },
+    {
+      "source": "dailypolitical.com",
+      "n": 1,
+      "avg_tone": 3.203
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 78
+      "theme": "EDUCATION",
+      "n": 64
     },
     {
-      "theme": "TAX_FNCACT_COOK",
-      "n": 42
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 34
+      "theme": "TAX_FNCACT_STUDENTS",
+      "n": 45
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 30
+      "n": 40
     },
     {
-      "theme": "TRAFFIC",
-      "n": 28
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 38
     },
     {
-      "theme": "WB_2670_JOBS",
+      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
+      "n": 37
+    },
+    {
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 24
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 23
     },
     {
-      "theme": "IMMIGRATION",
+      "theme": "TAX_FNCACT_OFFICIALS",
       "n": 22
     },
     {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 22
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 21
     },
     {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 22
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 21
     },
     {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 22
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 21
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 22
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 19
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
+      "n": 19
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 20
+      "n": 17
     },
     {
-      "theme": "TAX_FNCACT_DIRECTOR",
-      "n": 20
-    },
-    {
-      "theme": "EPU_UNCERTAINTY",
-      "n": 20
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 20
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 17
     }
   ]
 }
