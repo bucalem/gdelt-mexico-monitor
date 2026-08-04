@@ -1,49 +1,9 @@
 {
-  "generated_at": "2026-08-04T13:21:46.218135+00:00",
-  "rows_total_scanned_last_run": 5431,
-  "rows_mexico_last_run": 54,
-  "overall_avg_tone_4h": -0.822,
+  "generated_at": "2026-08-04T15:43:44.293247+00:00",
+  "rows_total_scanned_last_run": 6129,
+  "rows_mexico_last_run": 93,
+  "overall_avg_tone_4h": -0.583,
   "timeline": [
-    {
-      "time": "2026-08-01T13:30",
-      "avg_tone": -1.544,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-01T13:45",
-      "avg_tone": -0.147,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-01T14:00",
-      "avg_tone": -2.372,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-08-01T14:15",
-      "avg_tone": -1.121,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-01T14:30",
-      "avg_tone": -0.332,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-08-01T14:45",
-      "avg_tone": -2.817,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-01T15:00",
-      "avg_tone": -1.265,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-01T15:15",
-      "avg_tone": -2.057,
-      "n_articles": 9
-    },
     {
       "time": "2026-08-01T15:45",
       "avg_tone": 0.221,
@@ -833,145 +793,165 @@
       "time": "2026-08-04T13:30",
       "avg_tone": -0.726,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-04T15:00",
+      "avg_tone": -0.471,
+      "n_articles": 24
+    },
+    {
+      "time": "2026-08-04T15:15",
+      "avg_tone": -0.888,
+      "n_articles": 28
+    },
+    {
+      "time": "2026-08-04T15:30",
+      "avg_tone": -0.43,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-08-04T15:45",
+      "avg_tone": 0.393,
+      "n_articles": 21
     }
   ],
   "top_sources": [
     {
-      "source": "torontosun.com",
-      "n": 6,
-      "avg_tone": -0.076
-    },
-    {
-      "source": "manilatimes.net",
+      "source": "prnewswire.com",
       "n": 3,
-      "avg_tone": 2.576
+      "avg_tone": 3.384
     },
     {
-      "source": "finanznachrichten.de",
-      "n": 2,
-      "avg_tone": 1.341
+      "source": "eastbaytimes.com",
+      "n": 3,
+      "avg_tone": -4.228
     },
     {
-      "source": "thewhiskeywash.com",
+      "source": "wzid.com",
       "n": 2,
-      "avg_tone": 3.555
+      "avg_tone": 0.231
     },
     {
       "source": "indiatimes.com",
       "n": 2,
-      "avg_tone": -0.013
+      "avg_tone": 1.992
     },
     {
-      "source": "zerohedge.com",
+      "source": "travelmarketreport.com",
       "n": 2,
-      "avg_tone": -1.167
+      "avg_tone": 5.387
     },
     {
-      "source": "thehindubusinessline.com",
+      "source": "wgan.com",
       "n": 2,
-      "avg_tone": 0.577
+      "avg_tone": 0.231
     },
     {
-      "source": "aol.co.uk",
+      "source": "speedwaymedia.com",
       "n": 2,
-      "avg_tone": -1.676
+      "avg_tone": 1.961
     },
     {
-      "source": "dailymaverick.co.za",
+      "source": "1029thehog.com",
       "n": 2,
-      "avg_tone": -4.316
+      "avg_tone": 0.231
     },
     {
-      "source": "theconversation.com",
-      "n": 1,
-      "avg_tone": -4.724
+      "source": "eagle1005.com",
+      "n": 2,
+      "avg_tone": 0.231
     },
     {
-      "source": "medicaldaily.com",
-      "n": 1,
-      "avg_tone": -6.897
+      "source": "kob.com",
+      "n": 2,
+      "avg_tone": -1.484
     },
     {
-      "source": "naturalnews.com",
-      "n": 1,
-      "avg_tone": -3.263
+      "source": "latintimes.com",
+      "n": 2,
+      "avg_tone": 1.327
     },
     {
-      "source": "trucknews.com",
-      "n": 1,
-      "avg_tone": -0.253
+      "source": "wymg.com",
+      "n": 2,
+      "avg_tone": 0.231
     },
     {
-      "source": "hollywoodreporter.com",
-      "n": 1,
-      "avg_tone": -2.503
+      "source": "boothbayregister.com",
+      "n": 2,
+      "avg_tone": 3.754
     },
     {
-      "source": "geo.tv",
-      "n": 1,
-      "avg_tone": -0.739
+      "source": "kafe.com",
+      "n": 2,
+      "avg_tone": 0.231
+    },
+    {
+      "source": "lazer1033.com",
+      "n": 2,
+      "avg_tone": 0.231
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 70
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 70
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 70
-    },
-    {
-      "theme": "LEADER",
-      "n": 65
-    },
-    {
-      "theme": "ENV_METALS",
-      "n": 65
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 58
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 57
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 54
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 54
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 51
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 49
+      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
+      "n": 130
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 44
+      "n": 112
     },
     {
-      "theme": "WB_2936_GOLD",
-      "n": 41
+      "theme": "MEDICAL",
+      "n": 110
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 104
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 104
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 86
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 77
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_COLLEGE",
+      "n": 71
+    },
+    {
+      "theme": "TAX_DISEASE_CYCLOSPORIASIS",
+      "n": 70
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 69
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 69
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 69
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 39
+      "n": 65
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 38
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 65
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 61
     }
   ]
 }
