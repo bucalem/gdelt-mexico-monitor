@@ -1,49 +1,9 @@
 {
-  "generated_at": "2026-08-05T10:14:46.345511+00:00",
-  "rows_total_scanned_last_run": 4567,
-  "rows_mexico_last_run": 49,
-  "overall_avg_tone_4h": -1.187,
+  "generated_at": "2026-08-05T12:17:09.481384+00:00",
+  "rows_total_scanned_last_run": 5450,
+  "rows_mexico_last_run": 74,
+  "overall_avg_tone_4h": -0.607,
   "timeline": [
-    {
-      "time": "2026-08-02T10:15",
-      "avg_tone": -2.578,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-02T10:30",
-      "avg_tone": -2.765,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-08-02T10:45",
-      "avg_tone": -1.778,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-08-02T11:00",
-      "avg_tone": -3.01,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-08-02T11:30",
-      "avg_tone": -3.606,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-08-02T11:45",
-      "avg_tone": -2.217,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-08-02T12:00",
-      "avg_tone": -1.786,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-08-02T12:15",
-      "avg_tone": -3.587,
-      "n_articles": 10
-    },
     {
       "time": "2026-08-02T13:15",
       "avg_tone": -3.243,
@@ -773,145 +733,165 @@
       "time": "2026-08-05T10:15",
       "avg_tone": -0.807,
       "n_articles": 9
+    },
+    {
+      "time": "2026-08-05T11:30",
+      "avg_tone": -0.018,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-08-05T11:45",
+      "avg_tone": -1.614,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-08-05T12:00",
+      "avg_tone": 0.088,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-08-05T12:15",
+      "avg_tone": -1.085,
+      "n_articles": 20
     }
   ],
   "top_sources": [
     {
-      "source": "aol.co.uk",
-      "n": 2,
-      "avg_tone": -3.31
+      "source": "winnipegfreepress.com",
+      "n": 3,
+      "avg_tone": -2.153
     },
     {
-      "source": "theguardian.com",
+      "source": "yahoo.com",
+      "n": 3,
+      "avg_tone": -0.123
+    },
+    {
+      "source": "riotimesonline.com",
+      "n": 3,
+      "avg_tone": 1.901
+    },
+    {
+      "source": "latimes.com",
       "n": 2,
-      "avg_tone": -3.026
+      "avg_tone": 2.594
+    },
+    {
+      "source": "cbc.ca",
+      "n": 2,
+      "avg_tone": -2.831
+    },
+    {
+      "source": "chicagotribune.com",
+      "n": 2,
+      "avg_tone": -1.149
+    },
+    {
+      "source": "gazettextra.com",
+      "n": 2,
+      "avg_tone": -2.782
+    },
+    {
+      "source": "finanznachrichten.de",
+      "n": 2,
+      "avg_tone": 0.417
+    },
+    {
+      "source": "indiatimes.com",
+      "n": 2,
+      "avg_tone": 0.905
+    },
+    {
+      "source": "wokv.com",
+      "n": 2,
+      "avg_tone": -1.668
+    },
+    {
+      "source": "thegazette.com",
+      "n": 2,
+      "avg_tone": -2.09
+    },
+    {
+      "source": "mining.com",
+      "n": 2,
+      "avg_tone": 0.459
     },
     {
       "source": "prnewswire.com",
       "n": 2,
-      "avg_tone": -1.667
+      "avg_tone": -0.917
     },
     {
-      "source": "timesfreepress.com",
+      "source": "kiro7.com",
       "n": 2,
-      "avg_tone": -0.513
+      "avg_tone": -4.458
     },
     {
-      "source": "theepochtimes.com",
-      "n": 2,
-      "avg_tone": -2.135
-    },
-    {
-      "source": "medindia.net",
+      "source": "abcnews.com",
       "n": 1,
-      "avg_tone": -7.37
-    },
-    {
-      "source": "crash.net",
-      "n": 1,
-      "avg_tone": -1.572
-    },
-    {
-      "source": "medscape.com",
-      "n": 1,
-      "avg_tone": -3.815
-    },
-    {
-      "source": "trinidadtimes.com",
-      "n": 1,
-      "avg_tone": 3.996
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 2.961
-    },
-    {
-      "source": "miragenews.com",
-      "n": 1,
-      "avg_tone": -0.327
-    },
-    {
-      "source": "stcatharinesstandard.ca",
-      "n": 1,
-      "avg_tone": -4.047
-    },
-    {
-      "source": "minotdailynews.com",
-      "n": 1,
-      "avg_tone": 0.156
-    },
-    {
-      "source": "glassonweb.com",
-      "n": 1,
-      "avg_tone": 2.752
-    },
-    {
-      "source": "nationalgeographic.com",
-      "n": 1,
-      "avg_tone": 0.67
+      "avg_tone": -1.17
     }
   ],
   "top_themes": [
     {
-      "theme": "MEDICAL",
-      "n": 63
+      "theme": "WB_2670_JOBS",
+      "n": 228
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 60
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 220
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 58
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 218
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 55
+      "theme": "IMMIGRATION",
+      "n": 191
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 53
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 189
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 46
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 188
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 45
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 140
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 45
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 44
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 37
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 37
+      "theme": "ARREST",
+      "n": 121
     },
     {
       "theme": "LEADER",
-      "n": 36
+      "n": 99
     },
     {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 35
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 96
     },
     {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 34
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 86
     },
     {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 34
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 84
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 76
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 73
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 73
     }
   ]
 }
