@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-05T07:35:55.934575+00:00",
-  "rows_total_scanned_last_run": 3605,
+  "generated_at": "2026-08-05T10:14:46.345511+00:00",
+  "rows_total_scanned_last_run": 4567,
   "rows_mexico_last_run": 49,
-  "overall_avg_tone_4h": -1.358,
+  "overall_avg_tone_4h": -1.187,
   "timeline": [
-    {
-      "time": "2026-08-02T08:45",
-      "avg_tone": -3.752,
-      "n_articles": 2
-    },
-    {
-      "time": "2026-08-02T09:00",
-      "avg_tone": -2.136,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-02T09:15",
-      "avg_tone": -6.812,
-      "n_articles": 3
-    },
-    {
-      "time": "2026-08-02T09:30",
-      "avg_tone": -2.084,
-      "n_articles": 8
-    },
     {
       "time": "2026-08-02T10:15",
       "avg_tone": -2.578,
@@ -773,145 +753,165 @@
       "time": "2026-08-05T07:30",
       "avg_tone": -1.534,
       "n_articles": 19
+    },
+    {
+      "time": "2026-08-05T09:30",
+      "avg_tone": -1.389,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-08-05T09:45",
+      "avg_tone": 0.631,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-08-05T10:00",
+      "avg_tone": -0.35,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-08-05T10:15",
+      "avg_tone": -0.807,
+      "n_articles": 9
     }
   ],
   "top_sources": [
     {
-      "source": "malibutimes.com",
-      "n": 3,
-      "avg_tone": 1.145
+      "source": "aol.co.uk",
+      "n": 2,
+      "avg_tone": -3.31
+    },
+    {
+      "source": "theguardian.com",
+      "n": 2,
+      "avg_tone": -3.026
     },
     {
       "source": "prnewswire.com",
       "n": 2,
-      "avg_tone": 8.123
+      "avg_tone": -1.667
     },
     {
-      "source": "financialcontent.com",
+      "source": "timesfreepress.com",
       "n": 2,
-      "avg_tone": 3.083
+      "avg_tone": -0.513
     },
     {
-      "source": "claimsjournal.com",
-      "n": 1,
-      "avg_tone": -5.578
+      "source": "theepochtimes.com",
+      "n": 2,
+      "avg_tone": -2.135
     },
     {
-      "source": "kbat.com",
+      "source": "medindia.net",
       "n": 1,
-      "avg_tone": -2.866
+      "avg_tone": -7.37
     },
     {
-      "source": "hongkongherald.com",
+      "source": "crash.net",
       "n": 1,
-      "avg_tone": 3.926
+      "avg_tone": -1.572
     },
     {
-      "source": "insurancejournal.com",
+      "source": "medscape.com",
       "n": 1,
-      "avg_tone": -2.719
+      "avg_tone": -3.815
     },
     {
-      "source": "sydneysun.com",
+      "source": "trinidadtimes.com",
       "n": 1,
-      "avg_tone": 3.157
+      "avg_tone": 3.996
     },
     {
-      "source": "newsweek.com",
+      "source": "themarketsdaily.com",
       "n": 1,
-      "avg_tone": -6.374
+      "avg_tone": 2.961
     },
     {
-      "source": "nypost.com",
+      "source": "miragenews.com",
       "n": 1,
-      "avg_tone": -5.099
+      "avg_tone": -0.327
     },
     {
-      "source": "netscape.com",
+      "source": "stcatharinesstandard.ca",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -4.047
     },
     {
-      "source": "yourdemocracy.net.au",
+      "source": "minotdailynews.com",
       "n": 1,
-      "avg_tone": -3.824
+      "avg_tone": 0.156
     },
     {
-      "source": "thestar.com.my",
+      "source": "glassonweb.com",
       "n": 1,
-      "avg_tone": -0.946
+      "avg_tone": 2.752
     },
     {
-      "source": "channelafrica.co.za",
+      "source": "nationalgeographic.com",
       "n": 1,
-      "avg_tone": -2.053
-    },
-    {
-      "source": "oakdaleleader.com",
-      "n": 1,
-      "avg_tone": -7.11
+      "avg_tone": 0.67
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 78
+      "theme": "MEDICAL",
+      "n": 63
     },
     {
-      "theme": "SOC_POINTSOFINTEREST_AIRPORT",
-      "n": 73
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 60
     },
     {
-      "theme": "WB_135_TRANSPORT",
-      "n": 73
+      "theme": "WB_698_TRADE",
+      "n": 58
     },
     {
-      "theme": "WB_1804_AIRPORTS",
-      "n": 73
-    },
-    {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 42
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 37
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_RUSSIA",
-      "n": 36
-    },
-    {
-      "theme": "ENV_OIL",
-      "n": 35
+      "theme": "GENERAL_HEALTH",
+      "n": 55
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 33
+      "n": 53
     },
     {
-      "theme": "EPU_ECONOMY",
-      "n": 32
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 31
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 29
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 46
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 28
+      "n": 45
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 45
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 44
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 37
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 37
     },
     {
       "theme": "LEADER",
-      "n": 26
+      "n": 36
     },
     {
-      "theme": "MEDICAL",
-      "n": 25
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 35
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 34
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 34
     }
   ]
 }
