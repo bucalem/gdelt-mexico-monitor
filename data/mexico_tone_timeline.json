@@ -1,39 +1,9 @@
 {
-  "generated_at": "2026-08-05T18:00:03.981240+00:00",
-  "rows_total_scanned_last_run": 6523,
-  "rows_mexico_last_run": 153,
-  "overall_avg_tone_4h": -1.632,
+  "generated_at": "2026-08-05T19:41:32.384891+00:00",
+  "rows_total_scanned_last_run": 6176,
+  "rows_mexico_last_run": 142,
+  "overall_avg_tone_4h": -2.053,
   "timeline": [
-    {
-      "time": "2026-08-02T18:00",
-      "avg_tone": 0.791,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-02T18:15",
-      "avg_tone": 1.847,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-02T18:30",
-      "avg_tone": -0.456,
-      "n_articles": 3
-    },
-    {
-      "time": "2026-08-02T18:45",
-      "avg_tone": 0.15,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-08-02T19:00",
-      "avg_tone": -0.427,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-08-02T19:30",
-      "avg_tone": 0.93,
-      "n_articles": 4
-    },
     {
       "time": "2026-08-02T19:45",
       "avg_tone": 0.059,
@@ -718,145 +688,165 @@
       "time": "2026-08-05T18:00",
       "avg_tone": -2.83,
       "n_articles": 40
+    },
+    {
+      "time": "2026-08-05T19:00",
+      "avg_tone": -2.572,
+      "n_articles": 48
+    },
+    {
+      "time": "2026-08-05T19:15",
+      "avg_tone": -2.157,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-08-05T19:30",
+      "avg_tone": -3.378,
+      "n_articles": 34
+    },
+    {
+      "time": "2026-08-05T19:45",
+      "avg_tone": -2.578,
+      "n_articles": 35
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 20,
+      "n": 3,
       "avg_tone": -8.25
     },
     {
-      "source": "riviera-maya-news.com",
+      "source": "thetimes-tribune.com",
       "n": 3,
-      "avg_tone": 2.649
+      "avg_tone": -0.542
     },
     {
-      "source": "fortmorgantimes.com",
-      "n": 3,
-      "avg_tone": -0.328
-    },
-    {
-      "source": "republicanherald.com",
-      "n": 3,
-      "avg_tone": -0.328
-    },
-    {
-      "source": "orlandosentinel.com",
-      "n": 3,
-      "avg_tone": -3.182
-    },
-    {
-      "source": "citizensvoice.com",
+      "source": "sandiegouniontribune.com",
       "n": 2,
-      "avg_tone": -1.86
+      "avg_tone": -2.105
     },
     {
-      "source": "agri-pulse.com",
+      "source": "tickerreport.com",
       "n": 2,
-      "avg_tone": -1.031
+      "avg_tone": 1.648
     },
     {
-      "source": "theepochtimes.com",
+      "source": "wpsdlocal6.com",
       "n": 2,
-      "avg_tone": -6.322
+      "avg_tone": -2.065
     },
     {
-      "source": "denverpost.com",
+      "source": "tmz.com",
       "n": 2,
-      "avg_tone": 0.115
+      "avg_tone": -4.757
+    },
+    {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": -2.718
+    },
+    {
+      "source": "dailylocal.com",
+      "n": 2,
+      "avg_tone": -2.18
+    },
+    {
+      "source": "culturemap.com",
+      "n": 2,
+      "avg_tone": -0.579
+    },
+    {
+      "source": "canoncitydailyrecord.com",
+      "n": 2,
+      "avg_tone": -2.18
+    },
+    {
+      "source": "cityweekly.net",
+      "n": 2,
+      "avg_tone": 1.565
     },
     {
       "source": "themarketsdaily.com",
-      "n": 2,
-      "avg_tone": 1.526
+      "n": 1,
+      "avg_tone": 0.932
     },
     {
-      "source": "kvia.com",
-      "n": 2,
-      "avg_tone": -2.562
+      "source": "timesherald.com",
+      "n": 1,
+      "avg_tone": -1.215
     },
     {
-      "source": "nepalnational.com",
-      "n": 2,
-      "avg_tone": -0.054
+      "source": "ominecaexpress.com",
+      "n": 1,
+      "avg_tone": -0.956
     },
     {
-      "source": "dailymail.com",
-      "n": 2,
-      "avg_tone": -0.503
-    },
-    {
-      "source": "nbcdfw.com",
-      "n": 2,
-      "avg_tone": -3.106
-    },
-    {
-      "source": "independent.co.uk",
-      "n": 2,
-      "avg_tone": -4.956
+      "source": "local12.com",
+      "n": 1,
+      "avg_tone": -6.349
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_2670_JOBS",
-      "n": 432
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 423
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 422
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 422
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 421
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 421
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 320
-    },
-    {
-      "theme": "ARREST",
-      "n": 301
-    },
-    {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 250
+      "n": 243
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 172
+    },
+    {
+      "theme": "CRIME_CARTELS",
+      "n": 169
+    },
+    {
+      "theme": "EPU_CATS_REGULATION",
+      "n": 168
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 163
+    },
+    {
+      "theme": "WB_1743_ANTICARTEL_ENFORCEMENT",
+      "n": 162
+    },
+    {
+      "theme": "WB_2446_CARTELS",
+      "n": 162
+    },
+    {
+      "theme": "WB_406_COMPETITION_POLICY",
+      "n": 162
+    },
+    {
+      "theme": "WB_2101_ANTITRUST",
+      "n": 162
+    },
+    {
+      "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
+      "n": 162
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 161
+    },
+    {
+      "theme": "ORGANIZED_CRIME",
+      "n": 159
+    },
+    {
+      "theme": "NATURAL_DISASTER_WILDFIRE",
+      "n": 121
+    },
+    {
+      "theme": "DISASTER_FIRE",
+      "n": 113
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 211
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 211
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 209
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 209
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 208
-    },
-    {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 190
+      "n": 111
     }
   ]
 }
