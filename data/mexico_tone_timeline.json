@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-08-05T20:46:51.914654+00:00",
-  "rows_total_scanned_last_run": 6149,
-  "rows_mexico_last_run": 156,
-  "overall_avg_tone_4h": -2.468,
+  "generated_at": "2026-08-05T22:05:59.009545+00:00",
+  "rows_total_scanned_last_run": 2852,
+  "rows_mexico_last_run": 79,
+  "overall_avg_tone_4h": -2.648,
   "timeline": [
-    {
-      "time": "2026-08-02T21:00",
-      "avg_tone": -2.471,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-02T21:15",
-      "avg_tone": -1.798,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-02T21:30",
-      "avg_tone": -0.846,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-02T21:45",
-      "avg_tone": -2.932,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-02T22:00",
-      "avg_tone": -2.158,
-      "n_articles": 4
-    },
     {
       "time": "2026-08-02T22:15",
       "avg_tone": 0.828,
@@ -703,145 +678,155 @@
       "time": "2026-08-05T20:45",
       "avg_tone": -3.574,
       "n_articles": 27
+    },
+    {
+      "time": "2026-08-05T21:30",
+      "avg_tone": -2.32,
+      "n_articles": 36
+    },
+    {
+      "time": "2026-08-05T21:45",
+      "avg_tone": -2.842,
+      "n_articles": 43
     }
   ],
   "top_sources": [
     {
-      "source": "el-balad.com",
+      "source": "cubaheadlines.com",
       "n": 4,
-      "avg_tone": 0.959
-    },
-    {
-      "source": "iheart.com",
-      "n": 4,
-      "avg_tone": -8.25
-    },
-    {
-      "source": "wdbo.com",
-      "n": 2,
-      "avg_tone": -3.468
-    },
-    {
-      "source": "prnewswire.com",
-      "n": 2,
-      "avg_tone": -4.378
-    },
-    {
-      "source": "forbes.com",
-      "n": 2,
-      "avg_tone": 3.337
-    },
-    {
-      "source": "arabnews.com",
-      "n": 2,
-      "avg_tone": -7.376
-    },
-    {
-      "source": "journal-advocate.com",
-      "n": 2,
-      "avg_tone": -3.113
-    },
-    {
-      "source": "sacurrent.com",
-      "n": 2,
-      "avg_tone": -1.541
+      "avg_tone": -4.216
     },
     {
       "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": 0.066
+      "n": 3,
+      "avg_tone": 0.567
     },
     {
-      "source": "latimes.com",
+      "source": "wsbradio.com",
       "n": 2,
-      "avg_tone": -5.715
+      "avg_tone": -4.296
     },
     {
-      "source": "wrestlezone.com",
-      "n": 2,
-      "avg_tone": -0.399
-    },
-    {
-      "source": "timescall.com",
-      "n": 2,
-      "avg_tone": -3.113
-    },
-    {
-      "source": "dailykos.com",
-      "n": 2,
-      "avg_tone": -6.413
-    },
-    {
-      "source": "pressdemocrat.com",
-      "n": 2,
-      "avg_tone": -0.806
-    },
-    {
-      "source": "cheknews.ca",
+      "source": "winnipegfreepress.com",
       "n": 2,
       "avg_tone": -2.117
+    },
+    {
+      "source": "clickondetroit.com",
+      "n": 2,
+      "avg_tone": -4.633
+    },
+    {
+      "source": "finanznachrichten.de",
+      "n": 2,
+      "avg_tone": -0.945
+    },
+    {
+      "source": "thegazette.com",
+      "n": 2,
+      "avg_tone": -3.909
+    },
+    {
+      "source": "semissourian.com",
+      "n": 1,
+      "avg_tone": -5.214
+    },
+    {
+      "source": "pikecountycourier.com",
+      "n": 1,
+      "avg_tone": -5.208
+    },
+    {
+      "source": "wpbf.com",
+      "n": 1,
+      "avg_tone": -4.5
+    },
+    {
+      "source": "740thefan.com",
+      "n": 1,
+      "avg_tone": -0.324
+    },
+    {
+      "source": "fortmorgantimes.com",
+      "n": 1,
+      "avg_tone": -5.568
+    },
+    {
+      "source": "wlwt.com",
+      "n": 1,
+      "avg_tone": -4.5
+    },
+    {
+      "source": "wptv.com",
+      "n": 1,
+      "avg_tone": -4.186
+    },
+    {
+      "source": "soundersfc.com",
+      "n": 1,
+      "avg_tone": 3.19
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 297
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 275
     },
     {
-      "theme": "EPU_CATS_REGULATION",
-      "n": 281
+      "theme": "LEADER",
+      "n": 271
     },
     {
-      "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
-      "n": 277
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 264
     },
     {
-      "theme": "CRIME_CARTELS",
-      "n": 274
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 134
     },
     {
-      "theme": "WB_1743_ANTICARTEL_ENFORCEMENT",
-      "n": 274
+      "theme": "WB_840_JUSTICE",
+      "n": 113
     },
     {
-      "theme": "WB_2446_CARTELS",
-      "n": 274
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 80
     },
     {
-      "theme": "WB_406_COMPETITION_POLICY",
-      "n": 274
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 77
     },
     {
-      "theme": "WB_2101_ANTITRUST",
-      "n": 274
+      "theme": "WB_2934_COPPER",
+      "n": 77
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 261
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 77
     },
     {
-      "theme": "ORGANIZED_CRIME",
-      "n": 259
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 236
+      "theme": "ENV_METALS",
+      "n": 76
     },
     {
       "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 217
+      "n": 72
     },
     {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 183
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 71
     },
     {
-      "theme": "WB_1350_PHARMACEUTICALS",
-      "n": 157
+      "theme": "WB_831_GOVERNANCE",
+      "n": 70
     },
     {
-      "theme": "WB_1331_HEALTH_TECHNOLOGIES",
-      "n": 156
+      "theme": "WB_2024_ANTI_CORRUPTION_AUTHORITIES",
+      "n": 69
+    },
+    {
+      "theme": "WB_832_ANTI_CORRUPTION",
+      "n": 69
     }
   ]
 }
