@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-07T08:58:34.170947+00:00",
-  "rows_total_scanned_last_run": 2697,
-  "rows_mexico_last_run": 35,
-  "overall_avg_tone_4h": -1.779,
+  "generated_at": "2026-08-07T10:01:25.321086+00:00",
+  "rows_total_scanned_last_run": 3877,
+  "rows_mexico_last_run": 28,
+  "overall_avg_tone_4h": -0.988,
   "timeline": [
-    {
-      "time": "2026-08-04T09:00",
-      "avg_tone": -1.55,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-08-04T09:15",
-      "avg_tone": -0.719,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-08-04T09:30",
-      "avg_tone": -0.504,
-      "n_articles": 5
-    },
     {
       "time": "2026-08-04T11:00",
       "avg_tone": -0.897,
@@ -658,145 +643,160 @@
       "time": "2026-08-07T08:45",
       "avg_tone": -2.057,
       "n_articles": 9
+    },
+    {
+      "time": "2026-08-07T09:15",
+      "avg_tone": 1.8,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-08-07T09:45",
+      "avg_tone": 1.864,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-08-07T10:00",
+      "avg_tone": 0.627,
+      "n_articles": 18
     }
   ],
   "top_sources": [
     {
-      "source": "theguardian.com",
-      "n": 3,
-      "avg_tone": -2.402
-    },
-    {
-      "source": "foodsafetynews.com",
+      "source": "themarketsdaily.com",
       "n": 2,
-      "avg_tone": -3.508
+      "avg_tone": 2.334
     },
     {
-      "source": "santafenewmexican.com",
-      "n": 2,
-      "avg_tone": -0.779
-    },
-    {
-      "source": "leadertelegram.com",
-      "n": 2,
-      "avg_tone": -4.245
-    },
-    {
-      "source": "sitkasentinel.com",
-      "n": 2,
-      "avg_tone": -2.582
-    },
-    {
-      "source": "sdpb.org",
-      "n": 2,
-      "avg_tone": 0.709
-    },
-    {
-      "source": "investegate.co.uk",
-      "n": 2,
-      "avg_tone": 2.846
-    },
-    {
-      "source": "kasu.org",
+      "source": "staradvertiser.com",
       "n": 1,
-      "avg_tone": -1.487
+      "avg_tone": -1.766
     },
     {
-      "source": "yahoo.com",
+      "source": "wiltshiretimes.co.uk",
       "n": 1,
-      "avg_tone": 2.135
+      "avg_tone": 1.562
     },
     {
-      "source": "thegazette.com",
+      "source": "guardian-series.co.uk",
       "n": 1,
-      "avg_tone": -4.545
+      "avg_tone": 1.562
     },
     {
-      "source": "caribbeanherald.com",
+      "source": "dailysabah.com",
       "n": 1,
-      "avg_tone": 1.449
+      "avg_tone": -1.179
     },
     {
-      "source": "rte.ie",
+      "source": "aninews.in",
       "n": 1,
-      "avg_tone": 1.663
+      "avg_tone": 2.797
     },
     {
-      "source": "dailygazette.com",
+      "source": "sfstation.com",
       "n": 1,
-      "avg_tone": -4.545
+      "avg_tone": 4.557
     },
     {
-      "source": "laosnews.net",
+      "source": "nzherald.co.nz",
       "n": 1,
-      "avg_tone": 5.383
+      "avg_tone": 0.211
     },
     {
-      "source": "theblaze.com",
+      "source": "hampshirechronicle.co.uk",
       "n": 1,
-      "avg_tone": -1.741
+      "avg_tone": 1.562
+    },
+    {
+      "source": "chesterstandard.co.uk",
+      "n": 1,
+      "avg_tone": 1.562
+    },
+    {
+      "source": "times-series.co.uk",
+      "n": 1,
+      "avg_tone": 1.562
+    },
+    {
+      "source": "nj1015.com",
+      "n": 1,
+      "avg_tone": -1.899
+    },
+    {
+      "source": "dorsetecho.co.uk",
+      "n": 1,
+      "avg_tone": 1.562
+    },
+    {
+      "source": "harrowtimes.co.uk",
+      "n": 1,
+      "avg_tone": 1.562
+    },
+    {
+      "source": "kilburntimes.co.uk",
+      "n": 1,
+      "avg_tone": 1.562
     }
   ],
   "top_themes": [
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 56
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 148
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 51
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
       "n": 40
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 39
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 39
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 39
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 38
-    },
-    {
-      "theme": "WB_590_ECOSYSTEMS",
+      "theme": "ECON_STOCKMARKET",
       "n": 37
     },
     {
-      "theme": "WB_137_WATER",
-      "n": 36
+      "theme": "TAX_FNCACT_ARTIST",
+      "n": 33
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 35
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 28
     },
     {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 35
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 26
     },
     {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 35
+      "theme": "GENERAL_HEALTH",
+      "n": 25
     },
     {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 35
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 25
     },
     {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 35
+      "theme": "MEDICAL",
+      "n": 24
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 32
+      "theme": "WB_840_JUSTICE",
+      "n": 24
+    },
+    {
+      "theme": "WB_1014_CRIMINAL_JUSTICE",
+      "n": 23
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 23
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 22
+    },
+    {
+      "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
+      "n": 22
+    },
+    {
+      "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
+      "n": 22
     }
   ]
 }
