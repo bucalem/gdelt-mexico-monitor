@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-07T15:44:52.364022+00:00",
-  "rows_total_scanned_last_run": 5803,
-  "rows_mexico_last_run": 80,
-  "overall_avg_tone_4h": 0.079,
+  "generated_at": "2026-08-07T16:35:24.350393+00:00",
+  "rows_total_scanned_last_run": 6404,
+  "rows_mexico_last_run": 117,
+  "overall_avg_tone_4h": -0.187,
   "timeline": [
-    {
-      "time": "2026-08-04T15:45",
-      "avg_tone": 0.393,
-      "n_articles": 21
-    },
     {
       "time": "2026-08-04T16:45",
       "avg_tone": -0.378,
@@ -698,13 +693,28 @@
       "time": "2026-08-07T15:45",
       "avg_tone": -1.118,
       "n_articles": 30
+    },
+    {
+      "time": "2026-08-07T16:00",
+      "avg_tone": -0.565,
+      "n_articles": 34
+    },
+    {
+      "time": "2026-08-07T16:15",
+      "avg_tone": -0.358,
+      "n_articles": 29
+    },
+    {
+      "time": "2026-08-07T16:30",
+      "avg_tone": -0.813,
+      "n_articles": 24
     }
   ],
   "top_sources": [
     {
-      "source": "taosnews.com",
-      "n": 5,
-      "avg_tone": -1.126
+      "source": "dailymail.com",
+      "n": 3,
+      "avg_tone": -8.575
     },
     {
       "source": "gringogazette.com",
@@ -712,131 +722,131 @@
       "avg_tone": -0.912
     },
     {
+      "source": "mexicostar.com",
+      "n": 2,
+      "avg_tone": 3.024
+    },
+    {
+      "source": "houstonpress.com",
+      "n": 2,
+      "avg_tone": -3.03
+    },
+    {
+      "source": "aol.co.uk",
+      "n": 2,
+      "avg_tone": 2.353
+    },
+    {
+      "source": "krwg.org",
+      "n": 2,
+      "avg_tone": -0.944
+    },
+    {
+      "source": "chroniclelive.co.uk",
+      "n": 2,
+      "avg_tone": 2.066
+    },
+    {
       "source": "nbcnews.com",
       "n": 2,
       "avg_tone": -3.941
     },
     {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": 2.126
-    },
-    {
-      "source": "dailypolitical.com",
-      "n": 2,
-      "avg_tone": 2.868
-    },
-    {
-      "source": "riotimesonline.com",
-      "n": 2,
-      "avg_tone": -0.054
-    },
-    {
-      "source": "cnn.com",
-      "n": 2,
-      "avg_tone": -1.217
-    },
-    {
-      "source": "kingfm.com",
-      "n": 1,
-      "avg_tone": -8.533
-    },
-    {
-      "source": "cbsnews.com",
-      "n": 1,
-      "avg_tone": 0.669
-    },
-    {
-      "source": "oxfordmail.co.uk",
+      "source": "lancashiretelegraph.co.uk",
       "n": 1,
       "avg_tone": 0.42
     },
     {
-      "source": "aol.co.uk",
-      "n": 1,
-      "avg_tone": 0.549
-    },
-    {
-      "source": "95rockfm.com",
-      "n": 1,
-      "avg_tone": 0.789
-    },
-    {
-      "source": "richmondandtwickenhamtimes.co.uk",
+      "source": "rhyljournal.co.uk",
       "n": 1,
       "avg_tone": 0.42
     },
     {
-      "source": "foxnews.com",
+      "source": "androidcentral.com",
       "n": 1,
-      "avg_tone": -1.503
+      "avg_tone": 1.422
     },
     {
-      "source": "sbnation.com",
+      "source": "morningstar.com",
       "n": 1,
-      "avg_tone": 1.692
+      "avg_tone": -1.326
+    },
+    {
+      "source": "whec.com",
+      "n": 1,
+      "avg_tone": -6.072
+    },
+    {
+      "source": "westminsterextra.co.uk",
+      "n": 1,
+      "avg_tone": 0.455
+    },
+    {
+      "source": "pagosasun.com",
+      "n": 1,
+      "avg_tone": 3.586
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 88
+      "theme": "ENV_SOLAR",
+      "n": 158
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 149
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 73
+      "n": 134
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 70
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 68
     },
     {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 58
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 56
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 55
-    },
-    {
-      "theme": "BORDER",
-      "n": 53
-    },
-    {
-      "theme": "ENV_SOLAR",
-      "n": 50
+      "theme": "LEADER",
+      "n": 62
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 49
+      "n": 60
     },
     {
-      "theme": "WB_137_WATER",
-      "n": 49
+      "theme": "USPEC_POLICY1",
+      "n": 56
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 49
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 52
     },
     {
-      "theme": "ENV_METALS",
-      "n": 49
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 50
     },
     {
-      "theme": "TAX_ECON_PRICE",
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 48
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
       "n": 46
     },
     {
-      "theme": "WB_635_PUBLIC_HEALTH",
+      "theme": "USPEC_POLITICS_GENERAL1",
       "n": 46
     },
     {
-      "theme": "WB_2670_JOBS",
+      "theme": "CRISISLEX_C07_SAFETY",
       "n": 45
+    },
+    {
+      "theme": "TAX_ETHNICITY_SPANISH",
+      "n": 42
     }
   ]
 }
