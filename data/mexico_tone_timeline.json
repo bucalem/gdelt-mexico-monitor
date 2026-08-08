@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-08T06:36:16.509923+00:00",
-  "rows_total_scanned_last_run": 2074,
-  "rows_mexico_last_run": 53,
-  "overall_avg_tone_4h": -0.166,
+  "generated_at": "2026-08-08T07:34:06.589098+00:00",
+  "rows_total_scanned_last_run": 2441,
+  "rows_mexico_last_run": 64,
+  "overall_avg_tone_4h": -0.053,
   "timeline": [
-    {
-      "time": "2026-08-05T06:45",
-      "avg_tone": 0.524,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-08-05T07:00",
-      "avg_tone": 0.441,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-08-05T07:15",
-      "avg_tone": 2.107,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-08-05T07:30",
-      "avg_tone": -1.534,
-      "n_articles": 19
-    },
     {
       "time": "2026-08-05T09:30",
       "avg_tone": -1.389,
@@ -808,13 +788,33 @@
       "time": "2026-08-08T06:45",
       "avg_tone": -0.504,
       "n_articles": 18
+    },
+    {
+      "time": "2026-08-08T07:00",
+      "avg_tone": 0.103,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-08-08T07:15",
+      "avg_tone": -0.041,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-08T07:30",
+      "avg_tone": 0.433,
+      "n_articles": 18
     }
   ],
   "top_sources": [
     {
-      "source": "indiatimes.com",
-      "n": 3,
-      "avg_tone": 0.46
+      "source": "el-balad.com",
+      "n": 2,
+      "avg_tone": -0.56
+    },
+    {
+      "source": "nbcsandiego.com",
+      "n": 2,
+      "avg_tone": -1.799
     },
     {
       "source": "wsws.org",
@@ -822,87 +822,82 @@
       "avg_tone": -4.432
     },
     {
-      "source": "chathamdailynews.ca",
-      "n": 2,
-      "avg_tone": 2.41
-    },
-    {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": 0.076
-    },
-    {
-      "source": "nbcwashington.com",
-      "n": 2,
-      "avg_tone": -1.806
-    },
-    {
-      "source": "nbcphiladelphia.com",
-      "n": 2,
-      "avg_tone": -1.802
-    },
-    {
-      "source": "theguardian.com",
+      "source": "kpbs.org",
       "n": 1,
-      "avg_tone": 2.351
+      "avg_tone": 3.571
     },
     {
-      "source": "news4sanantonio.com",
+      "source": "clickondetroit.com",
       "n": 1,
-      "avg_tone": -5.915
+      "avg_tone": -0.819
     },
     {
-      "source": "thepeterboroughexaminer.com",
+      "source": "voiceonline.com",
       "n": 1,
-      "avg_tone": -0.749
+      "avg_tone": 0.781
     },
     {
-      "source": "f4wonline.com",
+      "source": "standard.net",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": 3.546
     },
     {
-      "source": "krgv.com",
-      "n": 1,
-      "avg_tone": -1.049
-    },
-    {
-      "source": "stthomastimesjournal.com",
+      "source": "elliotlakestandard.ca",
       "n": 1,
       "avg_tone": 2.41
     },
     {
-      "source": "thehindubusinessline.com",
+      "source": "fortsaskatchewanrecord.com",
       "n": 1,
-      "avg_tone": -0.918
+      "avg_tone": 2.41
     },
     {
-      "source": "vanmag.com",
+      "source": "vernonmorningstar.com",
+      "n": 1,
+      "avg_tone": 2.594
+    },
+    {
+      "source": "laist.com",
+      "n": 1,
+      "avg_tone": 0.915
+    },
+    {
+      "source": "deccanchronicle.com",
+      "n": 1,
+      "avg_tone": 0.481
+    },
+    {
+      "source": "woodstocksentinelreview.com",
+      "n": 1,
+      "avg_tone": 2.41
+    },
+    {
+      "source": "caribbeanherald.com",
+      "n": 1,
+      "avg_tone": -4.839
+    },
+    {
+      "source": "businesstoday.in",
       "n": 1,
       "avg_tone": 0.0
-    },
-    {
-      "source": "dailykos.com",
-      "n": 1,
-      "avg_tone": -6.271
     }
   ],
   "top_themes": [
     {
-      "theme": "TOURISM",
-      "n": 141
-    },
-    {
       "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 133
+      "n": 137
     },
     {
       "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 130
+      "n": 129
     },
     {
       "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 130
+      "n": 129
+    },
+    {
+      "theme": "TOURISM",
+      "n": 121
     },
     {
       "theme": "WB_825_TOURISM",
@@ -910,43 +905,43 @@
     },
     {
       "theme": "TAX_FNCACT_SCOUT",
-      "n": 90
+      "n": 114
     },
     {
       "theme": "TAX_FNCACT_EXECUTIVE",
-      "n": 89
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 49
+      "n": 81
     },
     {
       "theme": "AGRICULTURE",
-      "n": 49
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 48
+      "n": 71
     },
     {
       "theme": "LEADER",
-      "n": 47
+      "n": 62
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 61
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 60
     },
     {
       "theme": "TAX_FNCACT_FARMER",
-      "n": 45
+      "n": 57
     },
     {
-      "theme": "TAX_DISEASE_CYCLOSPORA",
-      "n": 40
+      "theme": "WB_135_TRANSPORT",
+      "n": 52
     },
     {
       "theme": "EDUCATION",
-      "n": 38
+      "n": 48
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 37
+      "n": 48
     }
   ]
 }
