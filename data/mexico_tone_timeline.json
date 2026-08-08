@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-08T09:52:07.048191+00:00",
-  "rows_total_scanned_last_run": 2473,
-  "rows_mexico_last_run": 22,
-  "overall_avg_tone_4h": -0.297,
+  "generated_at": "2026-08-08T10:22:02.108869+00:00",
+  "rows_total_scanned_last_run": 2357,
+  "rows_mexico_last_run": 11,
+  "overall_avg_tone_4h": -0.253,
   "timeline": [
-    {
-      "time": "2026-08-05T10:00",
-      "avg_tone": -0.35,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-08-05T10:15",
-      "avg_tone": -0.807,
-      "n_articles": 9
-    },
     {
       "time": "2026-08-05T11:30",
       "avg_tone": -0.018,
@@ -843,13 +833,48 @@
       "time": "2026-08-08T10:00",
       "avg_tone": -3.52,
       "n_articles": 4
+    },
+    {
+      "time": "2026-08-08T10:15",
+      "avg_tone": 4.708,
+      "n_articles": 1
+    },
+    {
+      "time": "2026-08-08T10:30",
+      "avg_tone": 1.239,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
-      "source": "arkansasonline.com",
-      "n": 3,
-      "avg_tone": -4.75
+      "source": "kten.com",
+      "n": 1,
+      "avg_tone": -0.908
+    },
+    {
+      "source": "wakingthered.com",
+      "n": 1,
+      "avg_tone": -3.246
+    },
+    {
+      "source": "prnewswire.com",
+      "n": 1,
+      "avg_tone": 7.68
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 1,
+      "avg_tone": 3.165
+    },
+    {
+      "source": "thepampanews.com",
+      "n": 1,
+      "avg_tone": -0.495
+    },
+    {
+      "source": "navajotimes.com",
+      "n": 1,
+      "avg_tone": 4.708
     },
     {
       "source": "travelextra.ie",
@@ -875,113 +900,68 @@
       "source": "postregister.com",
       "n": 1,
       "avg_tone": -0.912
-    },
-    {
-      "source": "californiadiver.com",
-      "n": 1,
-      "avg_tone": 2.764
-    },
-    {
-      "source": "businesstoday.in",
-      "n": 1,
-      "avg_tone": 1.839
-    },
-    {
-      "source": "gjsentinel.com",
-      "n": 1,
-      "avg_tone": -1.809
-    },
-    {
-      "source": "ivpressonline.com",
-      "n": 1,
-      "avg_tone": 1.809
-    },
-    {
-      "source": "winnipegfreepress.com",
-      "n": 1,
-      "avg_tone": -2.222
-    },
-    {
-      "source": "idahostatejournal.com",
-      "n": 1,
-      "avg_tone": -0.912
-    },
-    {
-      "source": "brandonsun.com",
-      "n": 1,
-      "avg_tone": -2.222
-    },
-    {
-      "source": "pasadenastarnews.com",
-      "n": 1,
-      "avg_tone": -2.635
-    },
-    {
-      "source": "tribune.com.pk",
-      "n": 1,
-      "avg_tone": -0.534
     }
   ],
   "top_themes": [
     {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 27
+    },
+    {
       "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 54
+      "n": 25
     },
     {
       "theme": "TOURISM",
-      "n": 48
+      "n": 24
     },
     {
       "theme": "WB_825_TOURISM",
-      "n": 48
+      "n": 24
     },
     {
       "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 48
+      "n": 24
     },
     {
       "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 48
+      "n": 24
+    },
+    {
+      "theme": "WB_135_TRANSPORT",
+      "n": 14
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 13
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 12
     },
     {
       "theme": "TAX_FNCACT_EXECUTIVE",
-      "n": 26
+      "n": 12
     },
     {
-      "theme": "BORDER",
-      "n": 19
+      "theme": "TAX_ECON_PRICE",
+      "n": 11
+    },
+    {
+      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
+      "n": 11
+    },
+    {
+      "theme": "WB_167_PORTS",
+      "n": 11
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 17
+      "n": 8
     },
     {
-      "theme": "TAX_FNCACT_POLICE",
-      "n": 15
-    },
-    {
-      "theme": "MARITIME_INCIDENT",
-      "n": 14
-    },
-    {
-      "theme": "MARITIME",
-      "n": 14
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 14
-    },
-    {
-      "theme": "LEADER",
-      "n": 14
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 13
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 13
+      "theme": "TAX_ETHNICITY_INDIAN",
+      "n": 8
     }
   ]
 }
