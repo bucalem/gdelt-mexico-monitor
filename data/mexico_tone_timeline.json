@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T05:54:04.922906+00:00",
-  "rows_total_scanned_last_run": 2061,
-  "rows_mexico_last_run": 45,
-  "overall_avg_tone_4h": -0.203,
+  "generated_at": "2026-08-08T06:36:16.509923+00:00",
+  "rows_total_scanned_last_run": 2074,
+  "rows_mexico_last_run": 53,
+  "overall_avg_tone_4h": -0.166,
   "timeline": [
     {
       "time": "2026-08-05T06:45",
@@ -793,145 +793,160 @@
       "time": "2026-08-08T06:00",
       "avg_tone": -0.563,
       "n_articles": 15
+    },
+    {
+      "time": "2026-08-08T06:15",
+      "avg_tone": 0.239,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-08-08T06:30",
+      "avg_tone": -0.117,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-08-08T06:45",
+      "avg_tone": -0.504,
+      "n_articles": 18
     }
   ],
   "top_sources": [
+    {
+      "source": "indiatimes.com",
+      "n": 3,
+      "avg_tone": 0.46
+    },
+    {
+      "source": "wsws.org",
+      "n": 2,
+      "avg_tone": -4.432
+    },
+    {
+      "source": "chathamdailynews.ca",
+      "n": 2,
+      "avg_tone": 2.41
+    },
+    {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": 0.076
+    },
+    {
+      "source": "nbcwashington.com",
+      "n": 2,
+      "avg_tone": -1.806
+    },
     {
       "source": "nbcphiladelphia.com",
       "n": 2,
       "avg_tone": -1.802
     },
     {
-      "source": "nzcity.co.nz",
-      "n": 2,
-      "avg_tone": 1.846
-    },
-    {
-      "source": "thewhig.com",
-      "n": 2,
-      "avg_tone": 3.914
-    },
-    {
-      "source": "nbcchicago.com",
-      "n": 2,
-      "avg_tone": -1.804
-    },
-    {
-      "source": "erienewsnow.com",
-      "n": 2,
-      "avg_tone": 1.184
-    },
-    {
-      "source": "abcnews.com",
+      "source": "theguardian.com",
       "n": 1,
-      "avg_tone": -0.836
+      "avg_tone": 2.351
     },
     {
-      "source": "zerohedge.com",
+      "source": "news4sanantonio.com",
       "n": 1,
-      "avg_tone": -3.822
+      "avg_tone": -5.915
     },
     {
-      "source": "yahoo.com",
+      "source": "thepeterboroughexaminer.com",
       "n": 1,
-      "avg_tone": -0.9
+      "avg_tone": -0.749
     },
     {
-      "source": "governing.com",
+      "source": "f4wonline.com",
       "n": 1,
-      "avg_tone": -0.739
+      "avg_tone": 0.0
     },
     {
-      "source": "montereycountynow.com",
+      "source": "krgv.com",
       "n": 1,
-      "avg_tone": -6.367
+      "avg_tone": -1.049
     },
     {
-      "source": "nypost.com",
-      "n": 1,
-      "avg_tone": -6.884
-    },
-    {
-      "source": "noozhawk.com",
-      "n": 1,
-      "avg_tone": 2.746
-    },
-    {
-      "source": "draytonvalleywesternreview.com",
+      "source": "stthomastimesjournal.com",
       "n": 1,
       "avg_tone": 2.41
     },
     {
-      "source": "taylorvilledailynews.com",
+      "source": "thehindubusinessline.com",
       "n": 1,
-      "avg_tone": -0.831
+      "avg_tone": -0.918
     },
     {
-      "source": "bloodhorse.com",
+      "source": "vanmag.com",
       "n": 1,
-      "avg_tone": 1.567
+      "avg_tone": 0.0
+    },
+    {
+      "source": "dailykos.com",
+      "n": 1,
+      "avg_tone": -6.271
     }
   ],
   "top_themes": [
     {
       "theme": "TOURISM",
-      "n": 116
+      "n": 141
     },
     {
       "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 109
+      "n": 133
     },
     {
       "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 109
+      "n": 130
     },
     {
       "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 109
+      "n": 130
     },
     {
       "theme": "WB_825_TOURISM",
-      "n": 96
-    },
-    {
-      "theme": "TAX_FNCACT_EXECUTIVE",
-      "n": 71
+      "n": 121
     },
     {
       "theme": "TAX_FNCACT_SCOUT",
-      "n": 60
+      "n": 90
     },
     {
-      "theme": "LEADER",
-      "n": 57
+      "theme": "TAX_FNCACT_EXECUTIVE",
+      "n": 89
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 49
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 49
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
       "n": 48
     },
     {
-      "theme": "EDUCATION",
-      "n": 37
+      "theme": "LEADER",
+      "n": 47
+    },
+    {
+      "theme": "TAX_FNCACT_FARMER",
+      "n": 45
     },
     {
       "theme": "TAX_DISEASE_CYCLOSPORA",
-      "n": 34
+      "n": 40
     },
     {
-      "theme": "EPU_POLICY_POLITICAL",
-      "n": 34
+      "theme": "EDUCATION",
+      "n": 38
     },
     {
-      "theme": "BORDER",
-      "n": 32
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 32
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 31
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 37
     }
   ]
 }
