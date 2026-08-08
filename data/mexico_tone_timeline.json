@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T16:21:56.701110+00:00",
-  "rows_total_scanned_last_run": 2934,
-  "rows_mexico_last_run": 85,
-  "overall_avg_tone_4h": -0.757,
+  "generated_at": "2026-08-08T17:00:08.444491+00:00",
+  "rows_total_scanned_last_run": 2811,
+  "rows_mexico_last_run": 79,
+  "overall_avg_tone_4h": -0.684,
   "timeline": [
     {
       "time": "2026-08-05T17:15",
@@ -903,9 +903,39 @@
       "time": "2026-08-08T16:30",
       "avg_tone": -0.021,
       "n_articles": 21
+    },
+    {
+      "time": "2026-08-08T16:45",
+      "avg_tone": -0.636,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-08-08T17:00",
+      "avg_tone": -0.421,
+      "n_articles": 18
     }
   ],
   "top_sources": [
+    {
+      "source": "themarketsdaily.com",
+      "n": 3,
+      "avg_tone": 0.784
+    },
+    {
+      "source": "wokv.com",
+      "n": 2,
+      "avg_tone": -2.008
+    },
+    {
+      "source": "kasu.org",
+      "n": 2,
+      "avg_tone": 0.859
+    },
+    {
+      "source": "news4jax.com",
+      "n": 2,
+      "avg_tone": -1.915
+    },
     {
       "source": "fool.com",
       "n": 2,
@@ -927,59 +957,39 @@
       "avg_tone": -1.915
     },
     {
-      "source": "middleeaststar.com",
-      "n": 2,
-      "avg_tone": -3.446
+      "source": "carrollspaper.com",
+      "n": 1,
+      "avg_tone": -2.466
     },
     {
-      "source": "kelo.com",
-      "n": 2,
-      "avg_tone": -4.343
-    },
-    {
-      "source": "tickerreport.com",
-      "n": 2,
-      "avg_tone": 3.226
-    },
-    {
-      "source": "newyorktelegraph.com",
-      "n": 2,
-      "avg_tone": -3.446
-    },
-    {
-      "source": "wsbradio.com",
-      "n": 2,
-      "avg_tone": -2.008
-    },
-    {
-      "source": "hot96.com",
-      "n": 2,
-      "avg_tone": -4.343
-    },
-    {
-      "source": "wutc.org",
+      "source": "capeandislands.org",
       "n": 1,
       "avg_tone": 3.748
     },
     {
-      "source": "kiplinger.com",
-      "n": 1,
-      "avg_tone": 2.916
-    },
-    {
-      "source": "moroccoworldnews.com",
-      "n": 1,
-      "avg_tone": 2.82
-    },
-    {
-      "source": "kawowo.com",
-      "n": 1,
-      "avg_tone": 2.284
-    },
-    {
-      "source": "wuft.org",
+      "source": "kvpr.org",
       "n": 1,
       "avg_tone": 3.748
+    },
+    {
+      "source": "newyorkstatesman.com",
+      "n": 1,
+      "avg_tone": -4.057
+    },
+    {
+      "source": "europesun.com",
+      "n": 1,
+      "avg_tone": -4.057
+    },
+    {
+      "source": "stcatharinesstandard.ca",
+      "n": 1,
+      "avg_tone": -3.467
+    },
+    {
+      "source": "wboc.com",
+      "n": 1,
+      "avg_tone": -3.495
     }
   ],
   "top_themes": [
@@ -993,55 +1003,55 @@
     },
     {
       "theme": "LEADER",
-      "n": 118
+      "n": 136
     },
     {
       "theme": "WB_137_WATER",
-      "n": 88
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 79
+      "n": 102
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 77
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 75
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 75
+      "n": 88
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 74
+      "n": 85
     },
     {
-      "theme": "TAX_DISEASE_OUTBREAK",
+      "theme": "TAX_FNCACT_CANDIDATES",
+      "n": 68
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
       "n": 66
     },
     {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 66
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 64
     },
     {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 66
+      "theme": "DEMOCRACY",
+      "n": 61
     },
     {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 66
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 60
     },
     {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 66
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 57
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 65
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 53
+    },
+    {
+      "theme": "TAX_FNCACT_WORKERS",
+      "n": 52
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 50
     }
   ]
 }
