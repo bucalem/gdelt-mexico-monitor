@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-08T11:26:41.165753+00:00",
-  "rows_total_scanned_last_run": 2723,
-  "rows_mexico_last_run": 60,
-  "overall_avg_tone_4h": -0.851,
+  "generated_at": "2026-08-08T11:52:20.612430+00:00",
+  "rows_total_scanned_last_run": 2693,
+  "rows_mexico_last_run": 79,
+  "overall_avg_tone_4h": -1.131,
   "timeline": [
-    {
-      "time": "2026-08-05T11:30",
-      "avg_tone": -0.018,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-08-05T11:45",
-      "avg_tone": -1.614,
-      "n_articles": 14
-    },
     {
       "time": "2026-08-05T12:00",
       "avg_tone": 0.088,
@@ -863,145 +853,155 @@
       "time": "2026-08-08T11:30",
       "avg_tone": -1.632,
       "n_articles": 15
+    },
+    {
+      "time": "2026-08-08T11:45",
+      "avg_tone": -1.61,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-08-08T12:00",
+      "avg_tone": -1.514,
+      "n_articles": 24
     }
   ],
   "top_sources": [
+    {
+      "source": "lethbridgeherald.com",
+      "n": 2,
+      "avg_tone": -3.173
+    },
     {
       "source": "livemint.com",
       "n": 2,
       "avg_tone": -2.042
     },
     {
-      "source": "nbcnewyork.com",
-      "n": 2,
-      "avg_tone": -1.808
+      "source": "theepochtimes.com",
+      "n": 1,
+      "avg_tone": -4.011
     },
     {
-      "source": "tickerreport.com",
-      "n": 2,
-      "avg_tone": 3.402
-    },
-    {
-      "source": "thereporterethiopia.com",
-      "n": 2,
-      "avg_tone": -1.696
-    },
-    {
-      "source": "latimes.com",
-      "n": 2,
-      "avg_tone": -2.492
-    },
-    {
-      "source": "thailandnews.net",
+      "source": "baltimorestar.com",
       "n": 1,
       "avg_tone": -2.836
     },
     {
-      "source": "bangladeshsun.com",
+      "source": "medicinehatnews.com",
+      "n": 1,
+      "avg_tone": -2.284
+    },
+    {
+      "source": "orovillemr.com",
+      "n": 1,
+      "avg_tone": -5.815
+    },
+    {
+      "source": "arabherald.com",
       "n": 1,
       "avg_tone": -2.836
     },
     {
-      "source": "ohiostandard.com",
+      "source": "falmouthpacket.co.uk",
+      "n": 1,
+      "avg_tone": -0.642
+    },
+    {
+      "source": "coventrytelegraph.net",
+      "n": 1,
+      "avg_tone": 0.325
+    },
+    {
+      "source": "greenocktelegraph.co.uk",
+      "n": 1,
+      "avg_tone": -0.642
+    },
+    {
+      "source": "srilankasource.com",
       "n": 1,
       "avg_tone": -2.836
     },
     {
-      "source": "dmagazine.com",
+      "source": "chvnradio.com",
       "n": 1,
-      "avg_tone": 1.532
+      "avg_tone": 1.618
     },
     {
-      "source": "dailypioneer.com",
+      "source": "countypress.co.uk",
       "n": 1,
-      "avg_tone": -5.115
+      "avg_tone": -0.642
     },
     {
-      "source": "fultonsun.com",
+      "source": "themarysue.com",
       "n": 1,
-      "avg_tone": -2.443
+      "avg_tone": -3.283
     },
     {
-      "source": "africaleader.com",
+      "source": "stourbridgenews.co.uk",
       "n": 1,
-      "avg_tone": -2.836
-    },
-    {
-      "source": "kvia.com",
-      "n": 1,
-      "avg_tone": -1.415
-    },
-    {
-      "source": "dailymail.com",
-      "n": 1,
-      "avg_tone": -6.218
-    },
-    {
-      "source": "coloradostar.com",
-      "n": 1,
-      "avg_tone": -2.836
+      "avg_tone": -0.642
     }
   ],
   "top_themes": [
     {
       "theme": "ENV_SOLAR",
-      "n": 141
+      "n": 202
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 70
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 58
+      "n": 129
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 57
+      "n": 122
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 55
+      "n": 122
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 55
+      "n": 122
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 55
+      "n": 122
     },
     {
       "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 49
-    },
-    {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 49
-    },
-    {
-      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 49
-    },
-    {
-      "theme": "WB_825_TOURISM",
-      "n": 48
-    },
-    {
-      "theme": "TOURISM",
-      "n": 44
+      "n": 121
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 37
+      "n": 84
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 36
+      "theme": "WB_831_GOVERNANCE",
+      "n": 82
+    },
+    {
+      "theme": "WB_832_ANTI_CORRUPTION",
+      "n": 82
+    },
+    {
+      "theme": "TAX_DISEASE_SALMONELLA",
+      "n": 82
+    },
+    {
+      "theme": "WB_2024_ANTI_CORRUPTION_AUTHORITIES",
+      "n": 81
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 36
+      "n": 80
+    },
+    {
+      "theme": "EPU_CATS_HEALTHCARE",
+      "n": 80
+    },
+    {
+      "theme": "WB_2025_INVESTIGATION",
+      "n": 78
     }
   ]
 }
