@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T10:22:02.108869+00:00",
-  "rows_total_scanned_last_run": 2357,
-  "rows_mexico_last_run": 11,
-  "overall_avg_tone_4h": -0.253,
+  "generated_at": "2026-08-08T10:57:54.701173+00:00",
+  "rows_total_scanned_last_run": 2514,
+  "rows_mexico_last_run": 34,
+  "overall_avg_tone_4h": -0.45,
   "timeline": [
     {
       "time": "2026-08-05T11:30",
@@ -843,125 +843,155 @@
       "time": "2026-08-08T10:30",
       "avg_tone": 1.239,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-08T10:45",
+      "avg_tone": -1.955,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-08T11:00",
+      "avg_tone": -0.952,
+      "n_articles": 19
     }
   ],
   "top_sources": [
     {
-      "source": "kten.com",
-      "n": 1,
-      "avg_tone": -0.908
+      "source": "nbcnewyork.com",
+      "n": 2,
+      "avg_tone": -1.808
     },
     {
-      "source": "wakingthered.com",
-      "n": 1,
-      "avg_tone": -3.246
+      "source": "tickerreport.com",
+      "n": 2,
+      "avg_tone": 3.402
     },
     {
-      "source": "prnewswire.com",
-      "n": 1,
-      "avg_tone": 7.68
+      "source": "thereporterethiopia.com",
+      "n": 2,
+      "avg_tone": -1.696
     },
     {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 3.165
+      "source": "latimes.com",
+      "n": 2,
+      "avg_tone": -2.492
     },
     {
-      "source": "thepampanews.com",
+      "source": "surreycomet.co.uk",
       "n": 1,
-      "avg_tone": -0.495
+      "avg_tone": -0.642
     },
     {
-      "source": "navajotimes.com",
+      "source": "northwichguardian.co.uk",
       "n": 1,
-      "avg_tone": 4.708
+      "avg_tone": -0.642
     },
     {
-      "source": "travelextra.ie",
+      "source": "chardandilminsternews.co.uk",
       "n": 1,
-      "avg_tone": 0.73
+      "avg_tone": -0.642
     },
     {
-      "source": "yahoo.com",
+      "source": "courant.com",
       "n": 1,
-      "avg_tone": -10.16
+      "avg_tone": 1.39
     },
     {
-      "source": "nationalgeographic.com",
+      "source": "newsweek.com",
       "n": 1,
-      "avg_tone": 0.402
+      "avg_tone": -0.544
     },
     {
-      "source": "thehindubusinessline.com",
+      "source": "malverngazette.co.uk",
       "n": 1,
-      "avg_tone": -5.051
+      "avg_tone": -0.642
     },
     {
-      "source": "postregister.com",
+      "source": "aol.co.uk",
       "n": 1,
-      "avg_tone": -0.912
+      "avg_tone": -0.455
+    },
+    {
+      "source": "bracknellnews.co.uk",
+      "n": 1,
+      "avg_tone": -0.642
+    },
+    {
+      "source": "texarkanagazette.com",
+      "n": 1,
+      "avg_tone": -4.478
+    },
+    {
+      "source": "ianslive.in",
+      "n": 1,
+      "avg_tone": -5.22
+    },
+    {
+      "source": "peeblesshirenews.com",
+      "n": 1,
+      "avg_tone": -0.642
     }
   ],
   "top_themes": [
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 68
+    },
+    {
+      "theme": "ENV_SOLAR",
+      "n": 67
+    },
+    {
+      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "n": 59
+    },
+    {
+      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
+      "n": 59
+    },
+    {
+      "theme": "WB_825_TOURISM",
+      "n": 58
+    },
+    {
+      "theme": "TOURISM",
+      "n": 54
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 29
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 27
+    },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
       "n": 27
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
       "n": 25
     },
     {
-      "theme": "TOURISM",
-      "n": 24
-    },
-    {
-      "theme": "WB_825_TOURISM",
-      "n": 24
-    },
-    {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 24
-    },
-    {
-      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 24
-    },
-    {
-      "theme": "WB_135_TRANSPORT",
-      "n": 14
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 13
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 25
     },
     {
       "theme": "EDUCATION",
-      "n": 12
+      "n": 24
     },
     {
-      "theme": "TAX_FNCACT_EXECUTIVE",
-      "n": 12
+      "theme": "WB_652_ICT_APPLICATIONS",
+      "n": 23
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 11
+      "theme": "WB_658_ENTERPRISE_APPLICATIONS",
+      "n": 23
     },
     {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 11
-    },
-    {
-      "theme": "WB_167_PORTS",
-      "n": 11
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 8
-    },
-    {
-      "theme": "TAX_ETHNICITY_INDIAN",
-      "n": 8
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 23
     }
   ]
 }
