@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-08T17:00:08.444491+00:00",
-  "rows_total_scanned_last_run": 2811,
-  "rows_mexico_last_run": 79,
-  "overall_avg_tone_4h": -0.684,
+  "generated_at": "2026-08-08T17:34:58.092238+00:00",
+  "rows_total_scanned_last_run": 2889,
+  "rows_mexico_last_run": 93,
+  "overall_avg_tone_4h": -0.469,
   "timeline": [
-    {
-      "time": "2026-08-05T17:15",
-      "avg_tone": -2.466,
-      "n_articles": 31
-    },
-    {
-      "time": "2026-08-05T17:30",
-      "avg_tone": -2.668,
-      "n_articles": 42
-    },
     {
       "time": "2026-08-05T17:45",
       "avg_tone": -2.898,
@@ -913,83 +903,98 @@
       "time": "2026-08-08T17:00",
       "avg_tone": -0.421,
       "n_articles": 18
+    },
+    {
+      "time": "2026-08-08T17:15",
+      "avg_tone": -1.082,
+      "n_articles": 22
+    },
+    {
+      "time": "2026-08-08T17:30",
+      "avg_tone": -1.091,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-08-08T17:45",
+      "avg_tone": 0.754,
+      "n_articles": 27
     }
   ],
   "top_sources": [
     {
       "source": "themarketsdaily.com",
       "n": 3,
-      "avg_tone": 0.784
+      "avg_tone": 1.982
     },
     {
-      "source": "wokv.com",
+      "source": "brazilsun.com",
+      "n": 2,
+      "avg_tone": -4.065
+    },
+    {
+      "source": "el-balad.com",
+      "n": 2,
+      "avg_tone": 1.266
+    },
+    {
+      "source": "dailypolitical.com",
+      "n": 2,
+      "avg_tone": 3.269
+    },
+    {
+      "source": "click2houston.com",
+      "n": 2,
+      "avg_tone": -2.065
+    },
+    {
+      "source": "averyjournal.com",
+      "n": 2,
+      "avg_tone": -2.334
+    },
+    {
+      "source": "sacurrent.com",
+      "n": 2,
+      "avg_tone": -0.552
+    },
+    {
+      "source": "wdbo.com",
       "n": 2,
       "avg_tone": -2.008
     },
     {
-      "source": "kasu.org",
+      "source": "jamaicantimes.com",
+      "n": 2,
+      "avg_tone": -4.065
+    },
+    {
+      "source": "kuer.org",
+      "n": 2,
+      "avg_tone": -2.694
+    },
+    {
+      "source": "fox21online.com",
+      "n": 2,
+      "avg_tone": -1.584
+    },
+    {
+      "source": "caribbeanherald.com",
+      "n": 2,
+      "avg_tone": -4.065
+    },
+    {
+      "source": "forbes.com",
+      "n": 2,
+      "avg_tone": -3.503
+    },
+    {
+      "source": "wkyufm.org",
       "n": 2,
       "avg_tone": 0.859
     },
     {
-      "source": "news4jax.com",
+      "source": "whbl.com",
       "n": 2,
-      "avg_tone": -1.915
-    },
-    {
-      "source": "fool.com",
-      "n": 2,
-      "avg_tone": -0.337
-    },
-    {
-      "source": "netscape.com",
-      "n": 2,
-      "avg_tone": -2.144
-    },
-    {
-      "source": "wknofm.org",
-      "n": 2,
-      "avg_tone": 0.859
-    },
-    {
-      "source": "clickondetroit.com",
-      "n": 2,
-      "avg_tone": -1.915
-    },
-    {
-      "source": "carrollspaper.com",
-      "n": 1,
-      "avg_tone": -2.466
-    },
-    {
-      "source": "capeandislands.org",
-      "n": 1,
-      "avg_tone": 3.748
-    },
-    {
-      "source": "kvpr.org",
-      "n": 1,
-      "avg_tone": 3.748
-    },
-    {
-      "source": "newyorkstatesman.com",
-      "n": 1,
-      "avg_tone": -4.057
-    },
-    {
-      "source": "europesun.com",
-      "n": 1,
-      "avg_tone": -4.057
-    },
-    {
-      "source": "stcatharinesstandard.ca",
-      "n": 1,
-      "avg_tone": -3.467
-    },
-    {
-      "source": "wboc.com",
-      "n": 1,
-      "avg_tone": -3.495
+      "avg_tone": -4.343
     }
   ],
   "top_themes": [
@@ -1003,55 +1008,55 @@
     },
     {
       "theme": "LEADER",
-      "n": 136
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 102
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 88
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 85
-    },
-    {
-      "theme": "TAX_FNCACT_CANDIDATES",
-      "n": 68
+      "n": 155
     },
     {
       "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 66
+      "n": 120
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 64
+      "theme": "WB_137_WATER",
+      "n": 113
     },
     {
-      "theme": "DEMOCRACY",
-      "n": 61
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 108
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 60
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 57
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 53
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 105
     },
     {
       "theme": "TAX_FNCACT_WORKERS",
-      "n": 52
+      "n": 72
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 50
+      "n": 66
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 65
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 64
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 61
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_RUSSIA",
+      "n": 60
+    },
+    {
+      "theme": "EPU_POLICY_POLITICAL",
+      "n": 60
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 60
     }
   ]
 }
