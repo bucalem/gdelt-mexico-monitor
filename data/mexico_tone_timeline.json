@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-08T20:18:15.184424+00:00",
-  "rows_total_scanned_last_run": 2483,
-  "rows_mexico_last_run": 47,
-  "overall_avg_tone_4h": -0.739,
+  "generated_at": "2026-08-08T20:55:52.821155+00:00",
+  "rows_total_scanned_last_run": 2212,
+  "rows_mexico_last_run": 53,
+  "overall_avg_tone_4h": -1.09,
   "timeline": [
-    {
-      "time": "2026-08-05T20:30",
-      "avg_tone": -2.369,
-      "n_articles": 48
-    },
-    {
-      "time": "2026-08-05T20:45",
-      "avg_tone": -3.574,
-      "n_articles": 27
-    },
     {
       "time": "2026-08-05T21:30",
       "avg_tone": -2.32,
@@ -928,145 +918,160 @@
       "time": "2026-08-08T20:15",
       "avg_tone": 1.199,
       "n_articles": 6
+    },
+    {
+      "time": "2026-08-08T20:30",
+      "avg_tone": -0.865,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-08T20:45",
+      "avg_tone": -2.035,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-08-08T21:00",
+      "avg_tone": -2.827,
+      "n_articles": 24
     }
   ],
   "top_sources": [
+    {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": -3.764
+    },
+    {
+      "source": "latinpost.com",
+      "n": 2,
+      "avg_tone": -3.248
+    },
     {
       "source": "nypost.com",
       "n": 2,
       "avg_tone": -1.228
     },
     {
-      "source": "cagesideseats.com",
-      "n": 2,
-      "avg_tone": 2.705
-    },
-    {
-      "source": "vanguardngr.com",
-      "n": 2,
-      "avg_tone": -6.803
-    },
-    {
-      "source": "orlandosentinel.com",
+      "source": "middleeaststar.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -3.72
     },
     {
-      "source": "dailynews.com",
+      "source": "bignewsnetwork.com",
       "n": 1,
-      "avg_tone": 2.594
+      "avg_tone": -3.712
     },
     {
-      "source": "combatpress.com",
+      "source": "northkoreatimes.com",
       "n": 1,
-      "avg_tone": 1.871
+      "avg_tone": -3.72
     },
     {
-      "source": "manilatimes.net",
+      "source": "texarkanagazette.com",
       "n": 1,
-      "avg_tone": 5.182
+      "avg_tone": -0.847
     },
     {
-      "source": "hindustantimes.com",
-      "n": 1,
-      "avg_tone": -6.792
-    },
-    {
-      "source": "worldathletics.org",
-      "n": 1,
-      "avg_tone": 1.66
-    },
-    {
-      "source": "dailyadvertiser.com.au",
+      "source": "newcastleherald.com.au",
       "n": 1,
       "avg_tone": -6.534
     },
     {
-      "source": "fox5ny.com",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "redriverradio.org",
-      "n": 1,
-      "avg_tone": -2.03
-    },
-    {
-      "source": "kelownadailycourier.ca",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "dominicanrepublicpost.com",
-      "n": 1,
-      "avg_tone": -3.804
-    },
-    {
-      "source": "queanbeyanage.com.au",
+      "source": "maitlandmercury.com.au",
       "n": 1,
       "avg_tone": -6.553
+    },
+    {
+      "source": "hongkongherald.com",
+      "n": 1,
+      "avg_tone": -3.72
+    },
+    {
+      "source": "claycord.com",
+      "n": 1,
+      "avg_tone": 2.02
+    },
+    {
+      "source": "ohiostandard.com",
+      "n": 1,
+      "avg_tone": -3.72
+    },
+    {
+      "source": "ktvu.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "saltlakecitysun.com",
+      "n": 1,
+      "avg_tone": -3.72
+    },
+    {
+      "source": "wataugademocrat.com",
+      "n": 1,
+      "avg_tone": -3.856
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ETHNICITY_KOREAN",
-      "n": 90
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_KOREAN",
-      "n": 90
-    },
-    {
-      "theme": "LEADER",
-      "n": 33
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 29
-    },
-    {
-      "theme": "NATURAL_DISASTER_WILDFIRE",
-      "n": 24
-    },
-    {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 23
+      "n": 75
     },
     {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 23
-    },
-    {
-      "theme": "UNGP_HEALTHCARE",
-      "n": 20
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 18
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 18
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 18
-    },
-    {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 18
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 18
-    },
-    {
-      "theme": "TAX_DISEASE_MEASLES",
-      "n": 18
+      "theme": "EPU_CATS_REGULATION",
+      "n": 60
     },
     {
       "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 17
+      "n": 45
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 41
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 40
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 37
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 36
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 35
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 34
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 32
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 31
+    },
+    {
+      "theme": "UNGP_CRIME_VIOLENCE",
+      "n": 31
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 30
+    },
+    {
+      "theme": "NATURAL_DISASTER_WILDFIRE",
+      "n": 30
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 30
     }
   ]
 }
