@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-08T19:50:22.564681+00:00",
-  "rows_total_scanned_last_run": 2612,
-  "rows_mexico_last_run": 56,
-  "overall_avg_tone_4h": -0.737,
+  "generated_at": "2026-08-08T20:18:15.184424+00:00",
+  "rows_total_scanned_last_run": 2483,
+  "rows_mexico_last_run": 47,
+  "overall_avg_tone_4h": -0.739,
   "timeline": [
-    {
-      "time": "2026-08-05T20:00",
-      "avg_tone": -3.034,
-      "n_articles": 44
-    },
-    {
-      "time": "2026-08-05T20:15",
-      "avg_tone": -2.669,
-      "n_articles": 37
-    },
     {
       "time": "2026-08-05T20:30",
       "avg_tone": -2.369,
@@ -933,9 +923,19 @@
       "time": "2026-08-08T20:00",
       "avg_tone": -1.258,
       "n_articles": 16
+    },
+    {
+      "time": "2026-08-08T20:15",
+      "avg_tone": 1.199,
+      "n_articles": 6
     }
   ],
   "top_sources": [
+    {
+      "source": "nypost.com",
+      "n": 2,
+      "avg_tone": -1.228
+    },
     {
       "source": "cagesideseats.com",
       "n": 2,
@@ -947,14 +947,24 @@
       "avg_tone": -6.803
     },
     {
-      "source": "winnipegfreepress.com",
-      "n": 2,
-      "avg_tone": 1.214
+      "source": "orlandosentinel.com",
+      "n": 1,
+      "avg_tone": 0.0
     },
     {
-      "source": "targetednews.com",
-      "n": 2,
-      "avg_tone": -5.6
+      "source": "dailynews.com",
+      "n": 1,
+      "avg_tone": 2.594
+    },
+    {
+      "source": "combatpress.com",
+      "n": 1,
+      "avg_tone": 1.871
+    },
+    {
+      "source": "manilatimes.net",
+      "n": 1,
+      "avg_tone": 5.182
     },
     {
       "source": "hindustantimes.com",
@@ -995,66 +1005,31 @@
       "source": "queanbeyanage.com.au",
       "n": 1,
       "avg_tone": -6.553
-    },
-    {
-      "source": "foxla.com",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "theglobeandmail.com",
-      "n": 1,
-      "avg_tone": -1.149
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 1.736
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_KOREAN",
-      "n": 144
+      "n": 90
     },
     {
       "theme": "TAX_WORLDLANGUAGES_KOREAN",
-      "n": 144
+      "n": 90
     },
     {
       "theme": "LEADER",
-      "n": 50
-    },
-    {
-      "theme": "NATURAL_DISASTER_WILDFIRE",
-      "n": 39
+      "n": 33
     },
     {
       "theme": "WB_137_WATER",
-      "n": 39
+      "n": 29
+    },
+    {
+      "theme": "NATURAL_DISASTER_WILDFIRE",
+      "n": 24
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 32
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 30
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 28
-    },
-    {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 27
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 25
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
       "n": 23
     },
     {
@@ -1062,16 +1037,36 @@
       "n": 23
     },
     {
-      "theme": "NATURAL_DISASTER_WILDFIRES",
-      "n": 22
-    },
-    {
-      "theme": "POLITICAL_TURMOIL",
+      "theme": "UNGP_HEALTHCARE",
       "n": 20
     },
     {
-      "theme": "STATE_OF_EMERGENCY",
-      "n": 20
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 18
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 18
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 18
+    },
+    {
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 18
+    },
+    {
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 18
+    },
+    {
+      "theme": "TAX_DISEASE_MEASLES",
+      "n": 18
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 17
     }
   ]
 }
