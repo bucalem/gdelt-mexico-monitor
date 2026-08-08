@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T07:34:06.589098+00:00",
-  "rows_total_scanned_last_run": 2441,
-  "rows_mexico_last_run": 64,
-  "overall_avg_tone_4h": -0.053,
+  "generated_at": "2026-08-08T08:20:13.260612+00:00",
+  "rows_total_scanned_last_run": 2620,
+  "rows_mexico_last_run": 45,
+  "overall_avg_tone_4h": 0.03,
   "timeline": [
     {
       "time": "2026-08-05T09:30",
@@ -803,145 +803,165 @@
       "time": "2026-08-08T07:30",
       "avg_tone": 0.433,
       "n_articles": 18
+    },
+    {
+      "time": "2026-08-08T07:45",
+      "avg_tone": -0.339,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-08-08T08:00",
+      "avg_tone": 0.018,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-08T08:15",
+      "avg_tone": -1.061,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-08T08:30",
+      "avg_tone": 0.416,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
-      "source": "el-balad.com",
+      "source": "riotimesonline.com",
+      "n": 3,
+      "avg_tone": 0.644
+    },
+    {
+      "source": "themarketsdaily.com",
       "n": 2,
-      "avg_tone": -0.56
+      "avg_tone": 2.86
     },
     {
-      "source": "nbcsandiego.com",
+      "source": "dailypolitical.com",
       "n": 2,
-      "avg_tone": -1.799
+      "avg_tone": 2.997
     },
     {
-      "source": "wsws.org",
+      "source": "simcoereformer.ca",
       "n": 2,
-      "avg_tone": -4.432
+      "avg_tone": 2.41
     },
     {
-      "source": "kpbs.org",
+      "source": "nbcdfw.com",
+      "n": 2,
+      "avg_tone": -1.633
+    },
+    {
+      "source": "nbclosangeles.com",
       "n": 1,
-      "avg_tone": 3.571
+      "avg_tone": -0.817
     },
     {
-      "source": "clickondetroit.com",
-      "n": 1,
-      "avg_tone": -0.819
-    },
-    {
-      "source": "voiceonline.com",
-      "n": 1,
-      "avg_tone": 0.781
-    },
-    {
-      "source": "standard.net",
-      "n": 1,
-      "avg_tone": 3.546
-    },
-    {
-      "source": "elliotlakestandard.ca",
+      "source": "pinchercreekecho.com",
       "n": 1,
       "avg_tone": 2.41
     },
     {
-      "source": "fortsaskatchewanrecord.com",
+      "source": "sitkasentinel.com",
+      "n": 1,
+      "avg_tone": -0.909
+    },
+    {
+      "source": "links.org.au",
+      "n": 1,
+      "avg_tone": -3.968
+    },
+    {
+      "source": "clintonnewsrecord.com",
       "n": 1,
       "avg_tone": 2.41
     },
     {
-      "source": "vernonmorningstar.com",
+      "source": "kesq.com",
       "n": 1,
-      "avg_tone": 2.594
+      "avg_tone": -2.975
     },
     {
-      "source": "laist.com",
+      "source": "indiatimes.com",
       "n": 1,
-      "avg_tone": 0.915
+      "avg_tone": -2.463
     },
     {
-      "source": "deccanchronicle.com",
+      "source": "shacknews.com",
       "n": 1,
-      "avg_tone": 0.481
+      "avg_tone": 2.107
     },
     {
-      "source": "woodstocksentinelreview.com",
-      "n": 1,
-      "avg_tone": 2.41
-    },
-    {
-      "source": "caribbeanherald.com",
+      "source": "jamaicantimes.com",
       "n": 1,
       "avg_tone": -4.839
     },
     {
-      "source": "businesstoday.in",
+      "source": "kincardinenews.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": 2.41
     }
   ],
   "top_themes": [
     {
       "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 137
-    },
-    {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 129
-    },
-    {
-      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 129
-    },
-    {
-      "theme": "TOURISM",
-      "n": 121
-    },
-    {
-      "theme": "WB_825_TOURISM",
-      "n": 121
+      "n": 73
     },
     {
       "theme": "TAX_FNCACT_SCOUT",
-      "n": 114
+      "n": 72
     },
     {
-      "theme": "TAX_FNCACT_EXECUTIVE",
-      "n": 81
+      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "n": 64
     },
     {
-      "theme": "AGRICULTURE",
-      "n": 71
+      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
+      "n": 63
     },
     {
-      "theme": "LEADER",
+      "theme": "TOURISM",
       "n": 62
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 61
+      "theme": "WB_825_TOURISM",
+      "n": 62
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 60
+      "theme": "WB_698_TRADE",
+      "n": 62
     },
     {
-      "theme": "TAX_FNCACT_FARMER",
+      "theme": "LEADER",
       "n": 57
     },
     {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 56
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 56
+    },
+    {
       "theme": "WB_135_TRANSPORT",
-      "n": 52
+      "n": 50
     },
     {
-      "theme": "EDUCATION",
-      "n": 48
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 47
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 48
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 45
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 44
+    },
+    {
+      "theme": "NATURAL_DISASTER_FLOOD",
+      "n": 43
     }
   ]
 }
