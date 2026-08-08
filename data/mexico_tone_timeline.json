@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-08T15:20:29.139557+00:00",
-  "rows_total_scanned_last_run": 3081,
-  "rows_mexico_last_run": 81,
-  "overall_avg_tone_4h": -1.049,
+  "generated_at": "2026-08-08T15:53:48.156362+00:00",
+  "rows_total_scanned_last_run": 3005,
+  "rows_mexico_last_run": 94,
+  "overall_avg_tone_4h": -0.909,
   "timeline": [
-    {
-      "time": "2026-08-05T15:30",
-      "avg_tone": -0.329,
-      "n_articles": 33
-    },
-    {
-      "time": "2026-08-05T15:45",
-      "avg_tone": -1.086,
-      "n_articles": 19
-    },
     {
       "time": "2026-08-05T16:00",
       "avg_tone": -1.59,
@@ -903,13 +893,48 @@
       "time": "2026-08-08T15:30",
       "avg_tone": -0.34,
       "n_articles": 21
+    },
+    {
+      "time": "2026-08-08T15:45",
+      "avg_tone": -0.799,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-08-08T16:00",
+      "avg_tone": -0.292,
+      "n_articles": 23
     }
   ],
   "top_sources": [
     {
-      "source": "themarketsdaily.com",
-      "n": 3,
-      "avg_tone": 3.518
+      "source": "middleeaststar.com",
+      "n": 2,
+      "avg_tone": -3.446
+    },
+    {
+      "source": "kelo.com",
+      "n": 2,
+      "avg_tone": -4.343
+    },
+    {
+      "source": "tickerreport.com",
+      "n": 2,
+      "avg_tone": 3.226
+    },
+    {
+      "source": "newyorktelegraph.com",
+      "n": 2,
+      "avg_tone": -3.446
+    },
+    {
+      "source": "wsbradio.com",
+      "n": 2,
+      "avg_tone": -2.008
+    },
+    {
+      "source": "hot96.com",
+      "n": 2,
+      "avg_tone": -4.343
     },
     {
       "source": "dailypolitical.com",
@@ -932,112 +957,87 @@
       "avg_tone": -2.848
     },
     {
-      "source": "dailygazette.com",
-      "n": 2,
-      "avg_tone": -3.495
+      "source": "lasvegassun.com",
+      "n": 1,
+      "avg_tone": -0.702
     },
     {
-      "source": "wtvbam.com",
-      "n": 2,
-      "avg_tone": -4.343
+      "source": "blessyouboys.com",
+      "n": 1,
+      "avg_tone": -1.701
     },
     {
-      "source": "wxpr.org",
+      "source": "indiatimes.com",
+      "n": 1,
+      "avg_tone": 1.813
+    },
+    {
+      "source": "singaporestar.com",
+      "n": 1,
+      "avg_tone": -2.836
+    },
+    {
+      "source": "wvxu.org",
       "n": 1,
       "avg_tone": 3.748
-    },
-    {
-      "source": "wtop.com",
-      "n": 1,
-      "avg_tone": -0.895
-    },
-    {
-      "source": "kccu.org",
-      "n": 1,
-      "avg_tone": 3.748
-    },
-    {
-      "source": "kwbu.org",
-      "n": 1,
-      "avg_tone": 3.748
-    },
-    {
-      "source": "cecildaily.com",
-      "n": 1,
-      "avg_tone": -3.495
-    },
-    {
-      "source": "theepochtimes.com",
-      "n": 1,
-      "avg_tone": -2.909
-    },
-    {
-      "source": "wrur.org",
-      "n": 1,
-      "avg_tone": 3.748
-    },
-    {
-      "source": "orlandosentinel.com",
-      "n": 1,
-      "avg_tone": -0.7
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_KOREAN",
-      "n": 360
+      "n": 450
     },
     {
       "theme": "TAX_WORLDLANGUAGES_KOREAN",
-      "n": 360
+      "n": 450
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 115
+      "n": 117
+    },
+    {
+      "theme": "LEADER",
+      "n": 113
     },
     {
       "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 101
+      "n": 96
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 98
+      "n": 96
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 97
+      "n": 96
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 97
+      "n": 96
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 97
+      "n": 96
     },
     {
       "theme": "WB_137_WATER",
-      "n": 90
+      "n": 89
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 83
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
       "n": 81
     },
     {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 74
-    },
-    {
-      "theme": "LEADER",
-      "n": 72
-    },
-    {
       "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 72
+      "n": 75
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 70
+      "n": 72
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
