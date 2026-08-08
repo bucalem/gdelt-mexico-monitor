@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T08:20:13.260612+00:00",
-  "rows_total_scanned_last_run": 2620,
-  "rows_mexico_last_run": 45,
-  "overall_avg_tone_4h": 0.03,
+  "generated_at": "2026-08-08T09:08:07.245066+00:00",
+  "rows_total_scanned_last_run": 2672,
+  "rows_mexico_last_run": 43,
+  "overall_avg_tone_4h": -0.173,
   "timeline": [
     {
       "time": "2026-08-05T09:30",
@@ -823,13 +823,58 @@
       "time": "2026-08-08T08:30",
       "avg_tone": 0.416,
       "n_articles": 13
+    },
+    {
+      "time": "2026-08-08T08:45",
+      "avg_tone": 0.176,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-08T09:00",
+      "avg_tone": -1.079,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-08T09:15",
+      "avg_tone": -1.802,
+      "n_articles": 10
     }
   ],
   "top_sources": [
     {
+      "source": "arkansasonline.com",
+      "n": 3,
+      "avg_tone": -4.75
+    },
+    {
       "source": "riotimesonline.com",
       "n": 3,
       "avg_tone": 0.644
+    },
+    {
+      "source": "theconservativetreehouse.com",
+      "n": 2,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "thepeninsulaqatar.com",
+      "n": 2,
+      "avg_tone": -2.494
+    },
+    {
+      "source": "timminspress.com",
+      "n": 2,
+      "avg_tone": 2.39
+    },
+    {
+      "source": "mxdwn.com",
+      "n": 2,
+      "avg_tone": -7.874
+    },
+    {
+      "source": "indiatimes.com",
+      "n": 2,
+      "avg_tone": -1.691
     },
     {
       "source": "themarketsdaily.com",
@@ -837,67 +882,37 @@
       "avg_tone": 2.86
     },
     {
-      "source": "dailypolitical.com",
-      "n": 2,
-      "avg_tone": 2.997
+      "source": "pasadenastarnews.com",
+      "n": 1,
+      "avg_tone": -2.635
     },
     {
-      "source": "simcoereformer.ca",
-      "n": 2,
-      "avg_tone": 2.41
+      "source": "tribune.com.pk",
+      "n": 1,
+      "avg_tone": -0.534
     },
     {
-      "source": "nbcdfw.com",
-      "n": 2,
-      "avg_tone": -1.633
+      "source": "tickerreport.com",
+      "n": 1,
+      "avg_tone": 1.535
     },
     {
-      "source": "nbclosangeles.com",
+      "source": "cbc.ca",
+      "n": 1,
+      "avg_tone": -2.813
+    },
+    {
+      "source": "nbcconnecticut.com",
       "n": 1,
       "avg_tone": -0.817
     },
     {
-      "source": "pinchercreekecho.com",
+      "source": "dailygazette.com",
       "n": 1,
-      "avg_tone": 2.41
+      "avg_tone": -0.912
     },
     {
-      "source": "sitkasentinel.com",
-      "n": 1,
-      "avg_tone": -0.909
-    },
-    {
-      "source": "links.org.au",
-      "n": 1,
-      "avg_tone": -3.968
-    },
-    {
-      "source": "clintonnewsrecord.com",
-      "n": 1,
-      "avg_tone": 2.41
-    },
-    {
-      "source": "kesq.com",
-      "n": 1,
-      "avg_tone": -2.975
-    },
-    {
-      "source": "indiatimes.com",
-      "n": 1,
-      "avg_tone": -2.463
-    },
-    {
-      "source": "shacknews.com",
-      "n": 1,
-      "avg_tone": 2.107
-    },
-    {
-      "source": "jamaicantimes.com",
-      "n": 1,
-      "avg_tone": -4.839
-    },
-    {
-      "source": "kincardinenews.com",
+      "source": "brantfordexpositor.ca",
       "n": 1,
       "avg_tone": 2.41
     }
@@ -908,60 +923,60 @@
       "n": 73
     },
     {
-      "theme": "TAX_FNCACT_SCOUT",
-      "n": 72
-    },
-    {
       "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 64
+      "n": 62
     },
     {
       "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 63
+      "n": 61
     },
     {
       "theme": "TOURISM",
-      "n": 62
+      "n": 60
     },
     {
       "theme": "WB_825_TOURISM",
-      "n": 62
+      "n": 60
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 62
+      "n": 55
     },
     {
-      "theme": "LEADER",
-      "n": 57
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 49
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 56
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 56
-    },
-    {
-      "theme": "WB_135_TRANSPORT",
-      "n": 50
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 48
     },
     {
       "theme": "TAX_WORLDLANGUAGES_LATIN",
       "n": 47
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
+      "theme": "TAX_ETHNICITY_CANADIAN",
       "n": 45
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 44
+      "theme": "TAX_FNCACT_SCOUT",
+      "n": 42
     },
     {
-      "theme": "NATURAL_DISASTER_FLOOD",
-      "n": 43
+      "theme": "TAX_FNCACT_EXECUTIVE",
+      "n": 40
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 37
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 37
+    },
+    {
+      "theme": "WB_2936_GOLD",
+      "n": 35
     }
   ]
 }
