@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T10:57:54.701173+00:00",
-  "rows_total_scanned_last_run": 2514,
-  "rows_mexico_last_run": 34,
-  "overall_avg_tone_4h": -0.45,
+  "generated_at": "2026-08-08T11:26:41.165753+00:00",
+  "rows_total_scanned_last_run": 2723,
+  "rows_mexico_last_run": 60,
+  "overall_avg_tone_4h": -0.851,
   "timeline": [
     {
       "time": "2026-08-05T11:30",
@@ -853,9 +853,24 @@
       "time": "2026-08-08T11:00",
       "avg_tone": -0.952,
       "n_articles": 19
+    },
+    {
+      "time": "2026-08-08T11:15",
+      "avg_tone": -1.797,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-08-08T11:30",
+      "avg_tone": -1.632,
+      "n_articles": 15
     }
   ],
   "top_sources": [
+    {
+      "source": "livemint.com",
+      "n": 2,
+      "avg_tone": -2.042
+    },
     {
       "source": "nbcnewyork.com",
       "n": 2,
@@ -877,121 +892,116 @@
       "avg_tone": -2.492
     },
     {
-      "source": "surreycomet.co.uk",
+      "source": "thailandnews.net",
       "n": 1,
-      "avg_tone": -0.642
+      "avg_tone": -2.836
     },
     {
-      "source": "northwichguardian.co.uk",
+      "source": "bangladeshsun.com",
       "n": 1,
-      "avg_tone": -0.642
+      "avg_tone": -2.836
     },
     {
-      "source": "chardandilminsternews.co.uk",
+      "source": "ohiostandard.com",
       "n": 1,
-      "avg_tone": -0.642
+      "avg_tone": -2.836
     },
     {
-      "source": "courant.com",
+      "source": "dmagazine.com",
       "n": 1,
-      "avg_tone": 1.39
+      "avg_tone": 1.532
     },
     {
-      "source": "newsweek.com",
+      "source": "dailypioneer.com",
       "n": 1,
-      "avg_tone": -0.544
+      "avg_tone": -5.115
     },
     {
-      "source": "malverngazette.co.uk",
+      "source": "fultonsun.com",
       "n": 1,
-      "avg_tone": -0.642
+      "avg_tone": -2.443
     },
     {
-      "source": "aol.co.uk",
+      "source": "africaleader.com",
       "n": 1,
-      "avg_tone": -0.455
+      "avg_tone": -2.836
     },
     {
-      "source": "bracknellnews.co.uk",
+      "source": "kvia.com",
       "n": 1,
-      "avg_tone": -0.642
+      "avg_tone": -1.415
     },
     {
-      "source": "texarkanagazette.com",
+      "source": "dailymail.com",
       "n": 1,
-      "avg_tone": -4.478
+      "avg_tone": -6.218
     },
     {
-      "source": "ianslive.in",
+      "source": "coloradostar.com",
       "n": 1,
-      "avg_tone": -5.22
-    },
-    {
-      "source": "peeblesshirenews.com",
-      "n": 1,
-      "avg_tone": -0.642
+      "avg_tone": -2.836
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 68
-    },
-    {
       "theme": "ENV_SOLAR",
-      "n": 67
-    },
-    {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 59
-    },
-    {
-      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 59
-    },
-    {
-      "theme": "WB_825_TOURISM",
-      "n": 58
-    },
-    {
-      "theme": "TOURISM",
-      "n": 54
+      "n": 141
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 29
+      "n": 70
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 27
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 58
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 27
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 57
     },
     {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 25
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 55
     },
     {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 25
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 55
     },
     {
-      "theme": "EDUCATION",
-      "n": 24
+      "theme": "WB_2167_PANDEMICS",
+      "n": 55
     },
     {
-      "theme": "WB_652_ICT_APPLICATIONS",
-      "n": 23
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 49
     },
     {
-      "theme": "WB_658_ENTERPRISE_APPLICATIONS",
-      "n": 23
+      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "n": 49
     },
     {
-      "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 23
+      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
+      "n": 49
+    },
+    {
+      "theme": "WB_825_TOURISM",
+      "n": 48
+    },
+    {
+      "theme": "TOURISM",
+      "n": 44
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 37
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 36
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 36
     }
   ]
 }
