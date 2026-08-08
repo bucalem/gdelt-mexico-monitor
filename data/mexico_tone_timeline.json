@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-08T05:08:19.559238+00:00",
-  "rows_total_scanned_last_run": 2308,
-  "rows_mexico_last_run": 52,
-  "overall_avg_tone_4h": -0.655,
+  "generated_at": "2026-08-08T05:54:04.922906+00:00",
+  "rows_total_scanned_last_run": 2061,
+  "rows_mexico_last_run": 45,
+  "overall_avg_tone_4h": -0.203,
   "timeline": [
     {
       "time": "2026-08-05T06:45",
@@ -778,28 +778,33 @@
       "time": "2026-08-08T05:15",
       "avg_tone": 1.582,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-08T05:30",
+      "avg_tone": 0.695,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-08-08T05:45",
+      "avg_tone": -0.352,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-08-08T06:00",
+      "avg_tone": -0.563,
+      "n_articles": 15
     }
   ],
   "top_sources": [
     {
-      "source": "fool.com",
-      "n": 8,
-      "avg_tone": 1.748
+      "source": "nbcphiladelphia.com",
+      "n": 2,
+      "avg_tone": -1.802
     },
     {
-      "source": "dailygazette.com",
+      "source": "nzcity.co.nz",
       "n": 2,
-      "avg_tone": -0.912
-    },
-    {
-      "source": "elpais.com",
-      "n": 2,
-      "avg_tone": -2.273
-    },
-    {
-      "source": "lfpress.com",
-      "n": 2,
-      "avg_tone": 3.107
+      "avg_tone": 1.846
     },
     {
       "source": "thewhig.com",
@@ -807,116 +812,126 @@
       "avg_tone": 3.914
     },
     {
-      "source": "navajotimes.com",
-      "n": 1,
-      "avg_tone": 4.708
+      "source": "nbcchicago.com",
+      "n": 2,
+      "avg_tone": -1.804
     },
     {
-      "source": "coventryobserver.co.uk",
-      "n": 1,
-      "avg_tone": -0.135
+      "source": "erienewsnow.com",
+      "n": 2,
+      "avg_tone": 1.184
     },
     {
-      "source": "theobserver.ca",
+      "source": "abcnews.com",
+      "n": 1,
+      "avg_tone": -0.836
+    },
+    {
+      "source": "zerohedge.com",
+      "n": 1,
+      "avg_tone": -3.822
+    },
+    {
+      "source": "yahoo.com",
+      "n": 1,
+      "avg_tone": -0.9
+    },
+    {
+      "source": "governing.com",
+      "n": 1,
+      "avg_tone": -0.739
+    },
+    {
+      "source": "montereycountynow.com",
+      "n": 1,
+      "avg_tone": -6.367
+    },
+    {
+      "source": "nypost.com",
+      "n": 1,
+      "avg_tone": -6.884
+    },
+    {
+      "source": "noozhawk.com",
+      "n": 1,
+      "avg_tone": 2.746
+    },
+    {
+      "source": "draytonvalleywesternreview.com",
       "n": 1,
       "avg_tone": 2.41
     },
     {
-      "source": "reflector.com",
+      "source": "taylorvilledailynews.com",
       "n": 1,
-      "avg_tone": 1.824
+      "avg_tone": -0.831
     },
     {
-      "source": "wgauradio.com",
+      "source": "bloodhorse.com",
       "n": 1,
-      "avg_tone": -0.895
-    },
-    {
-      "source": "intelligencer.ca",
-      "n": 1,
-      "avg_tone": 2.41
-    },
-    {
-      "source": "khaama.com",
-      "n": 1,
-      "avg_tone": -2.894
-    },
-    {
-      "source": "wellandtribune.ca",
-      "n": 1,
-      "avg_tone": -0.749
-    },
-    {
-      "source": "nzcity.co.nz",
-      "n": 1,
-      "avg_tone": 1.846
-    },
-    {
-      "source": "stcatharinesstandard.ca",
-      "n": 1,
-      "avg_tone": -0.749
+      "avg_tone": 1.567
     }
   ],
   "top_themes": [
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 218
+      "theme": "TOURISM",
+      "n": 116
     },
     {
       "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 122
+      "n": 109
     },
     {
       "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 121
+      "n": 109
     },
     {
       "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 121
-    },
-    {
-      "theme": "TOURISM",
-      "n": 98
+      "n": 109
     },
     {
       "theme": "WB_825_TOURISM",
-      "n": 98
-    },
-    {
-      "theme": "EPU_POLICY_POLITICAL",
-      "n": 95
-    },
-    {
-      "theme": "TAX_FNCACT_SCOUT",
-      "n": 92
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 87
-    },
-    {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 87
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 86
+      "n": 96
     },
     {
       "theme": "TAX_FNCACT_EXECUTIVE",
-      "n": 84
+      "n": 71
+    },
+    {
+      "theme": "TAX_FNCACT_SCOUT",
+      "n": 60
     },
     {
       "theme": "LEADER",
-      "n": 83
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 81
+      "n": 57
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 78
+      "n": 48
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 37
+    },
+    {
+      "theme": "TAX_DISEASE_CYCLOSPORA",
+      "n": 34
+    },
+    {
+      "theme": "EPU_POLICY_POLITICAL",
+      "n": 34
+    },
+    {
+      "theme": "BORDER",
+      "n": 32
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 32
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 31
     }
   ]
 }
