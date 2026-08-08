@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-07T23:46:05.285189+00:00",
-  "rows_total_scanned_last_run": 4287,
-  "rows_mexico_last_run": 77,
-  "overall_avg_tone_4h": -1.975,
+  "generated_at": "2026-08-08T00:58:20.187489+00:00",
+  "rows_total_scanned_last_run": 3283,
+  "rows_mexico_last_run": 75,
+  "overall_avg_tone_4h": -1.912,
   "timeline": [
-    {
-      "time": "2026-08-05T00:00",
-      "avg_tone": -1.465,
-      "n_articles": 18
-    },
     {
       "time": "2026-08-05T01:15",
       "avg_tone": -4.591,
@@ -743,145 +738,165 @@
       "time": "2026-08-07T23:45",
       "avg_tone": -3.743,
       "n_articles": 12
+    },
+    {
+      "time": "2026-08-08T00:15",
+      "avg_tone": -3.312,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-08-08T00:30",
+      "avg_tone": -0.503,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-08-08T00:45",
+      "avg_tone": -1.446,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-08-08T01:00",
+      "avg_tone": -0.253,
+      "n_articles": 19
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 23,
+      "n": 20,
       "avg_tone": -3.781
     },
     {
-      "source": "cbs4local.com",
+      "source": "kfoxtv.com",
       "n": 3,
       "avg_tone": 0.951
     },
     {
-      "source": "kbzk.com",
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": 0.352
+    },
+    {
+      "source": "ktvq.com",
       "n": 2,
       "avg_tone": -4.822
     },
     {
-      "source": "kpax.com",
+      "source": "wakingthered.com",
       "n": 2,
-      "avg_tone": -4.822
+      "avg_tone": 0.592
     },
     {
-      "source": "dailycamera.com",
+      "source": "tickerreport.com",
       "n": 2,
-      "avg_tone": -0.88
+      "avg_tone": 1.199
     },
     {
-      "source": "krtv.com",
+      "source": "kpcnews.com",
       "n": 2,
-      "avg_tone": -4.822
+      "avg_tone": -1.697
     },
     {
-      "source": "hola.com",
+      "source": "sandiegouniontribune.com",
       "n": 2,
-      "avg_tone": 3.216
+      "avg_tone": -5.88
     },
     {
-      "source": "abc7.com",
-      "n": 2,
-      "avg_tone": 2.361
-    },
-    {
-      "source": "b100quadcities.com",
+      "source": "wlky.com",
       "n": 1,
-      "avg_tone": -2.367
+      "avg_tone": 3.042
     },
     {
-      "source": "times-standard.com",
+      "source": "mtlblog.com",
       "n": 1,
-      "avg_tone": -5.815
+      "avg_tone": 6.414
     },
     {
-      "source": "wdbj7.com",
+      "source": "theupcoming.co.uk",
       "n": 1,
-      "avg_tone": 2.507
+      "avg_tone": 4.082
     },
     {
-      "source": "capitalgazette.com",
+      "source": "koco.com",
       "n": 1,
-      "avg_tone": -5.815
+      "avg_tone": 3.042
     },
     {
-      "source": "wsfa.com",
+      "source": "santafenewmexican.com",
       "n": 1,
-      "avg_tone": -4.876
+      "avg_tone": -0.935
     },
     {
-      "source": "bmwblog.com",
+      "source": "wjcl.com",
       "n": 1,
-      "avg_tone": 0.863
+      "avg_tone": 3.042
     },
     {
-      "source": "seapowermagazine.org",
+      "source": "dailymail.com",
       "n": 1,
-      "avg_tone": 1.489
+      "avg_tone": -1.779
     }
   ],
   "top_themes": [
     {
       "theme": "WB_137_WATER",
-      "n": 378
-    },
-    {
-      "theme": "TAX_DISEASE_SALMONELLA",
-      "n": 89
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 80
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 80
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 77
+      "n": 321
     },
     {
       "theme": "EDUCATION",
-      "n": 67
+      "n": 89
+    },
+    {
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 76
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 73
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 58
     },
     {
       "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 61
+      "n": 58
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 60
+      "n": 53
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 54
-    },
-    {
-      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
-      "n": 54
-    },
-    {
-      "theme": "TAX_DISEASE_DIARRHEA",
+      "theme": "TAX_FNCACT_BUTLER",
       "n": 52
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 51
-    },
-    {
-      "theme": "NATURAL_DISASTER_DROUGHT",
-      "n": 50
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 46
     },
     {
       "theme": "WATER_SECURITY",
-      "n": 49
+      "n": 42
+    },
+    {
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 42
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 41
+    },
+    {
+      "theme": "NATURAL_DISASTER_DROUGHT",
+      "n": 40
     },
     {
       "theme": "MEDICAL",
-      "n": 47
+      "n": 40
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 37
     }
   ]
 }
