@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-08T17:34:58.092238+00:00",
-  "rows_total_scanned_last_run": 2889,
-  "rows_mexico_last_run": 93,
-  "overall_avg_tone_4h": -0.469,
+  "generated_at": "2026-08-08T18:02:01.796432+00:00",
+  "rows_total_scanned_last_run": 2900,
+  "rows_mexico_last_run": 90,
+  "overall_avg_tone_4h": -0.485,
   "timeline": [
-    {
-      "time": "2026-08-05T17:45",
-      "avg_tone": -2.898,
-      "n_articles": 40
-    },
-    {
-      "time": "2026-08-05T18:00",
-      "avg_tone": -2.83,
-      "n_articles": 40
-    },
     {
       "time": "2026-08-05T19:00",
       "avg_tone": -2.572,
@@ -918,13 +908,28 @@
       "time": "2026-08-08T17:45",
       "avg_tone": 0.754,
       "n_articles": 27
+    },
+    {
+      "time": "2026-08-08T18:00",
+      "avg_tone": -0.932,
+      "n_articles": 15
     }
   ],
   "top_sources": [
     {
+      "source": "wkzo.com",
+      "n": 2,
+      "avg_tone": -4.343
+    },
+    {
+      "source": "haitisun.com",
+      "n": 2,
+      "avg_tone": -4.065
+    },
+    {
       "source": "themarketsdaily.com",
-      "n": 3,
-      "avg_tone": 1.982
+      "n": 2,
+      "avg_tone": 1.97
     },
     {
       "source": "brazilsun.com",
@@ -985,78 +990,68 @@
       "source": "forbes.com",
       "n": 2,
       "avg_tone": -3.503
-    },
-    {
-      "source": "wkyufm.org",
-      "n": 2,
-      "avg_tone": 0.859
-    },
-    {
-      "source": "whbl.com",
-      "n": 2,
-      "avg_tone": -4.343
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_KOREAN",
-      "n": 360
+      "n": 342
     },
     {
       "theme": "TAX_WORLDLANGUAGES_KOREAN",
-      "n": 360
+      "n": 342
     },
     {
       "theme": "LEADER",
-      "n": 155
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 120
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 113
+      "n": 150
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 108
+      "n": 107
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 106
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 105
+      "n": 101
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 83
     },
     {
       "theme": "TAX_FNCACT_WORKERS",
       "n": 72
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 66
-    },
-    {
       "theme": "GENERAL_GOVERNMENT",
       "n": 65
     },
     {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 62
+    },
+    {
       "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 64
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 61
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_RUSSIA",
-      "n": 60
     },
     {
       "theme": "EPU_POLICY_POLITICAL",
       "n": 60
     },
     {
-      "theme": "AGRICULTURE",
+      "theme": "TAX_WORLDLANGUAGES_RUSSIA",
       "n": 60
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 59
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 59
     }
   ]
 }
