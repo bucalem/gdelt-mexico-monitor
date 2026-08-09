@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-09T15:44:06.334234+00:00",
-  "rows_total_scanned_last_run": 2559,
-  "rows_mexico_last_run": 28,
-  "overall_avg_tone_4h": -1.383,
+  "generated_at": "2026-08-09T16:04:28.123996+00:00",
+  "rows_total_scanned_last_run": 2511,
+  "rows_mexico_last_run": 26,
+  "overall_avg_tone_4h": -1.398,
   "timeline": [
-    {
-      "time": "2026-08-06T15:45",
-      "avg_tone": -1.385,
-      "n_articles": 25
-    },
     {
       "time": "2026-08-07T00:00",
       "avg_tone": -1.279,
@@ -1118,13 +1113,48 @@
       "time": "2026-08-09T15:45",
       "avg_tone": -0.134,
       "n_articles": 6
+    },
+    {
+      "time": "2026-08-09T16:00",
+      "avg_tone": -0.363,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "independent.co.uk",
+      "source": "dailypolitical.com",
       "n": 2,
-      "avg_tone": -1.466
+      "avg_tone": 2.451
+    },
+    {
+      "source": "whec.com",
+      "n": 1,
+      "avg_tone": -2.1
+    },
+    {
+      "source": "insideevs.com",
+      "n": 1,
+      "avg_tone": 2.807
+    },
+    {
+      "source": "niagarafallsreview.ca",
+      "n": 1,
+      "avg_tone": -4.118
+    },
+    {
+      "source": "chroniclejournal.com",
+      "n": 1,
+      "avg_tone": -1.446
+    },
+    {
+      "source": "vanguardngr.com",
+      "n": 1,
+      "avg_tone": -0.484
+    },
+    {
+      "source": "walkermn.com",
+      "n": 1,
+      "avg_tone": -2.466
     },
     {
       "source": "deccanchronicle.com",
@@ -1165,50 +1195,20 @@
       "source": "koco.com",
       "n": 1,
       "avg_tone": -4.152
-    },
-    {
-      "source": "chicagotribune.com",
-      "n": 1,
-      "avg_tone": -4.927
-    },
-    {
-      "source": "cecildaily.com",
-      "n": 1,
-      "avg_tone": -2.133
-    },
-    {
-      "source": "somdnews.com",
-      "n": 1,
-      "avg_tone": -2.03
-    },
-    {
-      "source": "news4jax.com",
-      "n": 1,
-      "avg_tone": -2.052
-    },
-    {
-      "source": "sott.net",
-      "n": 1,
-      "avg_tone": -4.878
-    },
-    {
-      "source": "the-independent.com",
-      "n": 1,
-      "avg_tone": -3.906
     }
   ],
   "top_themes": [
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 93
-    },
     {
       "theme": "IMMIGRATION",
       "n": 93
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 91
+      "n": 93
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 92
     },
     {
       "theme": "WB_2769_JOBS_STRATEGIES",
@@ -1228,15 +1228,7 @@
     },
     {
       "theme": "AFFECT",
-      "n": 75
-    },
-    {
-      "theme": "TAX_FNCACT_CANDIDATES",
-      "n": 63
-    },
-    {
-      "theme": "DEMOCRACY",
-      "n": 61
+      "n": 70
     },
     {
       "theme": "TAX_FNCACT_LAWYER",
@@ -1248,15 +1240,23 @@
     },
     {
       "theme": "TRIAL",
-      "n": 58
+      "n": 59
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 41
+      "theme": "TAX_FNCACT_ATTORNEY",
+      "n": 37
     },
     {
-      "theme": "ECON_INFLATION",
-      "n": 39
+      "theme": "TAX_FNCACT_JUDGE",
+      "n": 31
+    },
+    {
+      "theme": "TAX_FNCACT_MAN",
+      "n": 27
+    },
+    {
+      "theme": "TAX_FNCACT_LAWYERS",
+      "n": 26
     }
   ]
 }
