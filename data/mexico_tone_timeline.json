@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T09:53:25.423095+00:00",
-  "rows_total_scanned_last_run": 2082,
-  "rows_mexico_last_run": 52,
-  "overall_avg_tone_4h": 0.735,
+  "generated_at": "2026-08-09T10:23:27.334253+00:00",
+  "rows_total_scanned_last_run": 2402,
+  "rows_mexico_last_run": 45,
+  "overall_avg_tone_4h": 0.905,
   "timeline": [
     {
       "time": "2026-08-06T11:00",
@@ -1058,145 +1058,155 @@
       "time": "2026-08-09T10:00",
       "avg_tone": 0.79,
       "n_articles": 12
+    },
+    {
+      "time": "2026-08-09T10:15",
+      "avg_tone": 0.921,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-08-09T10:30",
+      "avg_tone": 1.582,
+      "n_articles": 2
     }
   ],
   "top_sources": [
     {
-      "source": "poncacitynews.com",
-      "n": 2,
-      "avg_tone": 12.734
+      "source": "themarketsdaily.com",
+      "n": 3,
+      "avg_tone": 1.482
     },
     {
-      "source": "spectator.org",
+      "source": "ruidosonews.com",
       "n": 1,
-      "avg_tone": -6.767
+      "avg_tone": 3.061
     },
     {
-      "source": "walesonline.co.uk",
+      "source": "trinidadexpress.com",
       "n": 1,
-      "avg_tone": 1.518
+      "avg_tone": 0.103
     },
     {
-      "source": "yorkpress.co.uk",
+      "source": "journalismpakistan.com",
       "n": 1,
-      "avg_tone": 1.449
+      "avg_tone": -5.052
     },
     {
-      "source": "burnhamandhighbridgeweeklynews.co.uk",
-      "n": 1,
-      "avg_tone": 1.449
-    },
-    {
-      "source": "ynetnews.com",
-      "n": 1,
-      "avg_tone": 1.676
-    },
-    {
-      "source": "harrowtimes.co.uk",
+      "source": "rhyljournal.co.uk",
       "n": 1,
       "avg_tone": 1.449
     },
     {
-      "source": "westerntelegraph.co.uk",
+      "source": "irishtimes.com",
+      "n": 1,
+      "avg_tone": -4.878
+    },
+    {
+      "source": "edp24.co.uk",
       "n": 1,
       "avg_tone": 1.449
     },
     {
-      "source": "shanghaisun.com",
-      "n": 1,
-      "avg_tone": 2.436
-    },
-    {
-      "source": "foreignpolicyjournal.com",
-      "n": 1,
-      "avg_tone": 0.472
-    },
-    {
-      "source": "thenorthernecho.co.uk",
+      "source": "northwichguardian.co.uk",
       "n": 1,
       "avg_tone": 1.449
     },
     {
-      "source": "tivysideadvertiser.co.uk",
+      "source": "elpais.com",
+      "n": 1,
+      "avg_tone": -3.675
+    },
+    {
+      "source": "clydebankpost.co.uk",
       "n": 1,
       "avg_tone": 1.449
     },
     {
-      "source": "wiltsglosstandard.co.uk",
+      "source": "times-series.co.uk",
       "n": 1,
       "avg_tone": 1.449
     },
     {
-      "source": "dw.com",
+      "source": "sloughobserver.co.uk",
       "n": 1,
-      "avg_tone": -9.129
+      "avg_tone": 1.449
     },
     {
-      "source": "jpost.com",
+      "source": "heraldseries.co.uk",
       "n": 1,
-      "avg_tone": 1.408
+      "avg_tone": 1.449
+    },
+    {
+      "source": "stroudnewsandjournal.co.uk",
+      "n": 1,
+      "avg_tone": 1.449
+    },
+    {
+      "source": "clactonandfrintongazette.co.uk",
+      "n": 1,
+      "avg_tone": 1.449
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_FNCACT_SCOUT",
-      "n": 94
+      "n": 86
+    },
+    {
+      "theme": "MEDIA_MSM",
+      "n": 43
     },
     {
       "theme": "TAX_FNCACT_PILOT",
-      "n": 47
-    },
-    {
-      "theme": "TAX_ETHNICITY_CHINESE",
-      "n": 41
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_CHINESE",
-      "n": 41
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 37
-    },
-    {
-      "theme": "LEADER",
-      "n": 31
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 30
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 29
+      "n": 43
     },
     {
       "theme": "ECON_STOCKMARKET",
+      "n": 40
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 33
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 33
+    },
+    {
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 32
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 32
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
       "n": 27
     },
     {
+      "theme": "TAX_ECON_PRICE",
+      "n": 26
+    },
+    {
+      "theme": "TAX_ETHNICITY_CHINESE",
+      "n": 24
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_CHINESE",
+      "n": 24
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 22
+    },
+    {
       "theme": "TAX_FNCACT_LEADER",
-      "n": 23
+      "n": 22
     },
     {
-      "theme": "TAX_ETHNICITY_BELGIAN",
-      "n": 23
-    },
-    {
-      "theme": "ECON_DEFLATION",
-      "n": 23
-    },
-    {
-      "theme": "TAX_FNCACT_TREASURER",
-      "n": 23
-    },
-    {
-      "theme": "TAX_FNCACT_BALLOONISTS",
-      "n": 23
-    },
-    {
-      "theme": "TAX_DISEASE_CANCER",
-      "n": 19
+      "theme": "TAX_FNCACT_JOURNALIST",
+      "n": 21
     }
   ]
 }
