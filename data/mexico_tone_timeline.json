@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T16:04:28.123996+00:00",
-  "rows_total_scanned_last_run": 2511,
-  "rows_mexico_last_run": 26,
-  "overall_avg_tone_4h": -1.398,
+  "generated_at": "2026-08-09T16:51:56.611637+00:00",
+  "rows_total_scanned_last_run": 2636,
+  "rows_mexico_last_run": 35,
+  "overall_avg_tone_4h": -1.144,
   "timeline": [
     {
       "time": "2026-08-07T00:00",
@@ -1118,145 +1118,165 @@
       "time": "2026-08-09T16:00",
       "avg_tone": -0.363,
       "n_articles": 8
+    },
+    {
+      "time": "2026-08-09T16:15",
+      "avg_tone": -1.214,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-08-09T16:30",
+      "avg_tone": -1.948,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-08-09T16:45",
+      "avg_tone": 0.122,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-08-09T17:00",
+      "avg_tone": -0.177,
+      "n_articles": 10
     }
   ],
   "top_sources": [
     {
-      "source": "dailypolitical.com",
+      "source": "themarketsdaily.com",
+      "n": 3,
+      "avg_tone": 1.024
+    },
+    {
+      "source": "abqjournal.com",
+      "n": 3,
+      "avg_tone": -1.038
+    },
+    {
+      "source": "nationalenquirer.com",
+      "n": 3,
+      "avg_tone": -5.322
+    },
+    {
+      "source": "theprovince.com",
       "n": 2,
-      "avg_tone": 2.451
+      "avg_tone": -1.615
     },
     {
-      "source": "whec.com",
+      "source": "vogue.com",
       "n": 1,
-      "avg_tone": -2.1
-    },
-    {
-      "source": "insideevs.com",
-      "n": 1,
-      "avg_tone": 2.807
-    },
-    {
-      "source": "niagarafallsreview.ca",
-      "n": 1,
-      "avg_tone": -4.118
-    },
-    {
-      "source": "chroniclejournal.com",
-      "n": 1,
-      "avg_tone": -1.446
-    },
-    {
-      "source": "vanguardngr.com",
-      "n": 1,
-      "avg_tone": -0.484
-    },
-    {
-      "source": "walkermn.com",
-      "n": 1,
-      "avg_tone": -2.466
-    },
-    {
-      "source": "deccanchronicle.com",
-      "n": 1,
-      "avg_tone": -2.283
-    },
-    {
-      "source": "inquirer.com",
-      "n": 1,
-      "avg_tone": 3.814
-    },
-    {
-      "source": "sanews.gov.za",
-      "n": 1,
-      "avg_tone": 3.54
+      "avg_tone": 0.627
     },
     {
       "source": "yahoo.com",
       "n": 1,
-      "avg_tone": 0.116
+      "avg_tone": 1.02
     },
     {
-      "source": "netscape.com",
+      "source": "dailypress.com",
       "n": 1,
-      "avg_tone": -2.162
+      "avg_tone": 0.299
     },
     {
-      "source": "aol.com",
+      "source": "businessinsider.com",
       "n": 1,
-      "avg_tone": -3.831
+      "avg_tone": 1.389
     },
     {
-      "source": "cruiseindustrynews.com",
+      "source": "kicks105.com",
       "n": 1,
-      "avg_tone": 2.97
+      "avg_tone": -4.952
     },
     {
-      "source": "koco.com",
+      "source": "bernews.com",
       "n": 1,
-      "avg_tone": -4.152
+      "avg_tone": 5.899
+    },
+    {
+      "source": "cbc.ca",
+      "n": 1,
+      "avg_tone": -1.391
+    },
+    {
+      "source": "click2houston.com",
+      "n": 1,
+      "avg_tone": -2.052
+    },
+    {
+      "source": "kiplinger.com",
+      "n": 1,
+      "avg_tone": 1.511
+    },
+    {
+      "source": "thepeterboroughexaminer.com",
+      "n": 1,
+      "avg_tone": -4.118
+    },
+    {
+      "source": "mainlinemedianews.com",
+      "n": 1,
+      "avg_tone": 1.948
     }
   ],
   "top_themes": [
     {
-      "theme": "IMMIGRATION",
-      "n": 93
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 93
-    },
-    {
       "theme": "WB_2670_JOBS",
-      "n": 92
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 90
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 90
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 90
+      "n": 65
     },
     {
       "theme": "TAX_FNCACT_IMMIGRANTS",
-      "n": 86
+      "n": 56
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 54
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 54
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 54
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 54
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 54
     },
     {
       "theme": "AFFECT",
-      "n": 70
-    },
-    {
-      "theme": "TAX_FNCACT_LAWYER",
-      "n": 60
+      "n": 48
     },
     {
       "theme": "REFUGEES",
-      "n": 60
+      "n": 40
     },
     {
       "theme": "TRIAL",
-      "n": 59
+      "n": 38
     },
     {
-      "theme": "TAX_FNCACT_ATTORNEY",
-      "n": 37
+      "theme": "TAX_FNCACT_LAWYER",
+      "n": 36
     },
     {
-      "theme": "TAX_FNCACT_JUDGE",
-      "n": 31
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 28
     },
     {
-      "theme": "TAX_FNCACT_MAN",
+      "theme": "WB_135_TRANSPORT",
       "n": 27
     },
     {
-      "theme": "TAX_FNCACT_LAWYERS",
-      "n": 26
+      "theme": "TAX_FNCACT_MAN",
+      "n": 22
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 22
     }
   ]
 }
