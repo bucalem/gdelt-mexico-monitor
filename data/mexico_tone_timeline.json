@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-09T06:26:42.068824+00:00",
-  "rows_total_scanned_last_run": 1752,
-  "rows_mexico_last_run": 20,
-  "overall_avg_tone_4h": -1.495,
+  "generated_at": "2026-08-09T07:30:31.817113+00:00",
+  "rows_total_scanned_last_run": 1809,
+  "rows_mexico_last_run": 23,
+  "overall_avg_tone_4h": -1.121,
   "timeline": [
-    {
-      "time": "2026-08-06T06:30",
-      "avg_tone": -2.616,
-      "n_articles": 13
-    },
     {
       "time": "2026-08-06T08:45",
       "avg_tone": 2.062,
@@ -1008,145 +1003,165 @@
       "time": "2026-08-09T06:30",
       "avg_tone": -3.465,
       "n_articles": 3
+    },
+    {
+      "time": "2026-08-09T06:45",
+      "avg_tone": -0.903,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-09T07:00",
+      "avg_tone": -0.845,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-08-09T07:15",
+      "avg_tone": 2.307,
+      "n_articles": 2
+    },
+    {
+      "time": "2026-08-09T07:30",
+      "avg_tone": -0.151,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "wpbf.com",
-      "n": 2,
-      "avg_tone": -2.387
+      "source": "yahoo.com",
+      "n": 4,
+      "avg_tone": 1.802
+    },
+    {
+      "source": "cbn.com",
+      "n": 1,
+      "avg_tone": 0.598
+    },
+    {
+      "source": "kashmirreader.com",
+      "n": 1,
+      "avg_tone": -5.025
+    },
+    {
+      "source": "whittierdailynews.com",
+      "n": 1,
+      "avg_tone": 0.493
+    },
+    {
+      "source": "redlandsdailyfacts.com",
+      "n": 1,
+      "avg_tone": 0.493
     },
     {
       "source": "indiatimes.com",
-      "n": 2,
-      "avg_tone": -0.103
+      "n": 1,
+      "avg_tone": -4.64
     },
     {
-      "source": "rightspeak.net",
+      "source": "bgnes.com",
       "n": 1,
-      "avg_tone": -6.785
+      "avg_tone": 0.457
     },
     {
-      "source": "f4wonline.com",
+      "source": "itnewsonline.com",
       "n": 1,
-      "avg_tone": -0.505
+      "avg_tone": 4.158
     },
     {
-      "source": "union-bulletin.com",
+      "source": "dunyanews.tv",
       "n": 1,
-      "avg_tone": -3.106
+      "avg_tone": -6.593
     },
     {
-      "source": "worthynews.com",
+      "source": "israelnationalnews.com",
       "n": 1,
-      "avg_tone": 1.23
+      "avg_tone": 1.325
     },
     {
-      "source": "drudge.com",
+      "source": "wlox.com",
       "n": 1,
-      "avg_tone": -0.847
+      "avg_tone": 1.395
     },
     {
-      "source": "hindustantimes.com",
+      "source": "dailybreeze.com",
       "n": 1,
-      "avg_tone": 0.845
+      "avg_tone": 0.493
     },
     {
-      "source": "dailypioneer.com",
+      "source": "texarkanagazette.com",
       "n": 1,
-      "avg_tone": -5.564
+      "avg_tone": -1.751
     },
     {
-      "source": "manilatimes.net",
+      "source": "wastedive.com",
       "n": 1,
-      "avg_tone": -3.488
+      "avg_tone": -1.723
     },
     {
-      "source": "nwaonline.com",
+      "source": "ocregister.com",
       "n": 1,
-      "avg_tone": 1.327
-    },
-    {
-      "source": "dailymirror.lk",
-      "n": 1,
-      "avg_tone": -5.686
-    },
-    {
-      "source": "tonyskansascity.com",
-      "n": 1,
-      "avg_tone": -6.287
-    },
-    {
-      "source": "ksbw.com",
-      "n": 1,
-      "avg_tone": -4.406
-    },
-    {
-      "source": "wthitv.com",
-      "n": 1,
-      "avg_tone": -2.812
+      "avg_tone": 0.493
     }
   ],
   "top_themes": [
     {
       "theme": "WB_137_WATER",
-      "n": 30
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
       "n": 28
     },
     {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 28
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 28
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 28
-    },
-    {
-      "theme": "TAX_DISEASE_SALMONELLA",
-      "n": 27
-    },
-    {
-      "theme": "EPU_CATS_HEALTHCARE",
-      "n": 25
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 19
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 19
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 18
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 17
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 17
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 17
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
+      "theme": "BORDER",
       "n": 16
     },
     {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 14
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 12
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 11
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 10
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 9
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 9
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 9
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 8
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 8
+    },
+    {
+      "theme": "LEADER",
+      "n": 8
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 8
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_CORN",
+      "n": 8
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 7
+    },
+    {
+      "theme": "TAX_ETHNICITY_INDIAN",
+      "n": 7
     }
   ]
 }
