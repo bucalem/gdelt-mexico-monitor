@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T20:59:54.188927+00:00",
-  "rows_total_scanned_last_run": 2325,
-  "rows_mexico_last_run": 26,
-  "overall_avg_tone_4h": -0.575,
+  "generated_at": "2026-08-09T21:36:23.255866+00:00",
+  "rows_total_scanned_last_run": 2365,
+  "rows_mexico_last_run": 31,
+  "overall_avg_tone_4h": -0.711,
   "timeline": [
     {
       "time": "2026-08-07T00:00",
@@ -1218,145 +1218,160 @@
       "time": "2026-08-09T21:00",
       "avg_tone": -0.16,
       "n_articles": 7
+    },
+    {
+      "time": "2026-08-09T21:15",
+      "avg_tone": -1.308,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-08-09T21:30",
+      "avg_tone": -3.769,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-09T21:45",
+      "avg_tone": -0.994,
+      "n_articles": 11
     }
   ],
   "top_sources": [
+    {
+      "source": "cubaheadlines.com",
+      "n": 3,
+      "avg_tone": -1.903
+    },
+    {
+      "source": "theprovince.com",
+      "n": 2,
+      "avg_tone": -1.988
+    },
     {
       "source": "tickerreport.com",
       "n": 2,
       "avg_tone": 3.308
     },
     {
-      "source": "ckom.com",
-      "n": 2,
-      "avg_tone": -2.214
-    },
-    {
-      "source": "wastedive.com",
+      "source": "aceshowbiz.com",
       "n": 1,
-      "avg_tone": -1.723
-    },
-    {
-      "source": "elpasoinc.com",
-      "n": 1,
-      "avg_tone": -2.804
-    },
-    {
-      "source": "pjmedia.com",
-      "n": 1,
-      "avg_tone": -2.553
-    },
-    {
-      "source": "adn.com",
-      "n": 1,
-      "avg_tone": -2.106
-    },
-    {
-      "source": "japanherald.com",
-      "n": 1,
-      "avg_tone": 1.449
-    },
-    {
-      "source": "inquirer.com",
-      "n": 1,
-      "avg_tone": -2.148
-    },
-    {
-      "source": "leadertelegram.com",
-      "n": 1,
-      "avg_tone": -3.875
+      "avg_tone": 5.753
     },
     {
       "source": "dailypolitical.com",
       "n": 1,
-      "avg_tone": 4.258
+      "avg_tone": 2.58
     },
     {
-      "source": "indiatimes.com",
+      "source": "nola.com",
       "n": 1,
-      "avg_tone": 0.457
+      "avg_tone": 2.948
     },
     {
-      "source": "wataugademocrat.com",
+      "source": "jpost.com",
+      "n": 1,
+      "avg_tone": 1.484
+    },
+    {
+      "source": "abqjournal.com",
+      "n": 1,
+      "avg_tone": -0.375
+    },
+    {
+      "source": "spokanepublicradio.org",
+      "n": 1,
+      "avg_tone": -8.108
+    },
+    {
+      "source": "averyjournal.com",
       "n": 1,
       "avg_tone": -3.875
     },
     {
-      "source": "wdtimes.com",
+      "source": "fox13news.com",
       "n": 1,
-      "avg_tone": -3.806
+      "avg_tone": -3.216
     },
     {
-      "source": "wxyz.com",
+      "source": "wesh.com",
       "n": 1,
-      "avg_tone": -0.347
+      "avg_tone": -4.152
     },
     {
-      "source": "livemint.com",
+      "source": "yahoo.com",
       "n": 1,
-      "avg_tone": -3.714
+      "avg_tone": -12.0
+    },
+    {
+      "source": "wyomingnewsnow.tv",
+      "n": 1,
+      "avg_tone": -2.804
+    },
+    {
+      "source": "journal-news.net",
+      "n": 1,
+      "avg_tone": -2.133
     }
   ],
   "top_themes": [
     {
       "theme": "LEADER",
-      "n": 39
-    },
-    {
-      "theme": "AFFECT",
-      "n": 35
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 31
+      "n": 54
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 31
+      "n": 49
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 28
-    },
-    {
-      "theme": "TAX_FNCACT_IMMIGRANTS",
-      "n": 28
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 27
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 27
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 27
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 27
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 27
-    },
-    {
-      "theme": "TAX_FNCACT_WOMEN",
-      "n": 25
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 48
     },
     {
       "theme": "SOC_GENERALCRIME",
-      "n": 24
+      "n": 37
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 23
+      "theme": "AFFECT",
+      "n": 36
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 33
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
+      "n": 33
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 31
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 31
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 31
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 31
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 31
+    },
+    {
+      "theme": "TAX_FNCACT_IMMIGRANTS",
+      "n": 30
+    },
+    {
+      "theme": "TRIAL",
       "n": 23
+    },
+    {
+      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
+      "n": 21
     }
   ]
 }
