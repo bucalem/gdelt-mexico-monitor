@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T21:36:23.255866+00:00",
-  "rows_total_scanned_last_run": 2365,
-  "rows_mexico_last_run": 31,
-  "overall_avg_tone_4h": -0.711,
+  "generated_at": "2026-08-09T22:02:32.821498+00:00",
+  "rows_total_scanned_last_run": 2402,
+  "rows_mexico_last_run": 28,
+  "overall_avg_tone_4h": -0.568,
   "timeline": [
     {
       "time": "2026-08-07T00:00",
@@ -1233,6 +1233,11 @@
       "time": "2026-08-09T21:45",
       "avg_tone": -0.994,
       "n_articles": 11
+    },
+    {
+      "time": "2026-08-09T22:00",
+      "avg_tone": 0.293,
+      "n_articles": 4
     }
   ],
   "top_sources": [
@@ -1247,9 +1252,24 @@
       "avg_tone": -1.988
     },
     {
-      "source": "tickerreport.com",
-      "n": 2,
-      "avg_tone": 3.308
+      "source": "worldoil.com",
+      "n": 1,
+      "avg_tone": 3.187
+    },
+    {
+      "source": "attackofthefanboy.com",
+      "n": 1,
+      "avg_tone": -0.153
+    },
+    {
+      "source": "nzherald.co.nz",
+      "n": 1,
+      "avg_tone": 1.354
+    },
+    {
+      "source": "fox29.com",
+      "n": 1,
+      "avg_tone": -3.216
     },
     {
       "source": "aceshowbiz.com",
@@ -1295,83 +1315,68 @@
       "source": "wesh.com",
       "n": 1,
       "avg_tone": -4.152
-    },
-    {
-      "source": "yahoo.com",
-      "n": 1,
-      "avg_tone": -12.0
-    },
-    {
-      "source": "wyomingnewsnow.tv",
-      "n": 1,
-      "avg_tone": -2.804
-    },
-    {
-      "source": "journal-news.net",
-      "n": 1,
-      "avg_tone": -2.133
     }
   ],
   "top_themes": [
     {
       "theme": "LEADER",
-      "n": 54
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 49
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 48
-    },
-    {
-      "theme": "SOC_GENERALCRIME",
-      "n": 37
-    },
-    {
-      "theme": "AFFECT",
       "n": 36
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 33
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 36
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
-      "n": 33
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 35
     },
     {
-      "theme": "IMMIGRATION",
-      "n": 31
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 31
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 31
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 31
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 31
-    },
-    {
-      "theme": "TAX_FNCACT_IMMIGRANTS",
+      "theme": "WB_137_WATER",
       "n": 30
     },
     {
-      "theme": "TRIAL",
+      "theme": "SOC_GENERALCRIME",
+      "n": 25
+    },
+    {
+      "theme": "AFFECT",
       "n": 23
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
+      "n": 22
     },
     {
       "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
       "n": 21
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 21
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 21
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 21
+    },
+    {
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 20
+    },
+    {
+      "theme": "TAX_DISEASE_SALMONELLA",
+      "n": 19
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 18
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 18
     }
   ]
 }
