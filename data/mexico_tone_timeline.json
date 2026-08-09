@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-09T10:59:42.902329+00:00",
-  "rows_total_scanned_last_run": 1765,
-  "rows_mexico_last_run": 35,
-  "overall_avg_tone_4h": 0.908,
+  "generated_at": "2026-08-09T11:32:08.482146+00:00",
+  "rows_total_scanned_last_run": 1996,
+  "rows_mexico_last_run": 23,
+  "overall_avg_tone_4h": 0.981,
   "timeline": [
-    {
-      "time": "2026-08-06T11:00",
-      "avg_tone": -2.166,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-08-06T11:15",
-      "avg_tone": -3.036,
-      "n_articles": 28
-    },
     {
       "time": "2026-08-06T11:45",
       "avg_tone": -2.633,
@@ -1073,18 +1063,78 @@
       "time": "2026-08-09T10:45",
       "avg_tone": -0.291,
       "n_articles": 13
+    },
+    {
+      "time": "2026-08-09T11:00",
+      "avg_tone": 2.759,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-08-09T11:15",
+      "avg_tone": -1.168,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-08-09T11:30",
+      "avg_tone": -0.201,
+      "n_articles": 2
     }
   ],
   "top_sources": [
     {
       "source": "yahoo.com",
-      "n": 5,
-      "avg_tone": 0.663
+      "n": 4,
+      "avg_tone": 0.741
     },
     {
-      "source": "themarketsdaily.com",
-      "n": 3,
-      "avg_tone": 2.698
+      "source": "lbc.co.uk",
+      "n": 1,
+      "avg_tone": 1.322
+    },
+    {
+      "source": "wastedive.com",
+      "n": 1,
+      "avg_tone": -1.723
+    },
+    {
+      "source": "chinadaily.com.cn",
+      "n": 1,
+      "avg_tone": 2.332
+    },
+    {
+      "source": "adn.com",
+      "n": 1,
+      "avg_tone": -3.382
+    },
+    {
+      "source": "collider.com",
+      "n": 1,
+      "avg_tone": -2.454
+    },
+    {
+      "source": "vietnam.vnanet.vn",
+      "n": 1,
+      "avg_tone": 5.584
+    },
+    {
+      "source": "beijingbulletin.com",
+      "n": 1,
+      "avg_tone": 2.436
+    },
+    {
+      "source": "khaama.com",
+      "n": 1,
+      "avg_tone": 0.54
+    },
+    {
+      "source": "worldathletics.org",
+      "n": 1,
+      "avg_tone": 3.406
+    },
+    {
+      "source": "dailysabah.com",
+      "n": 1,
+      "avg_tone": 1.832
     },
     {
       "source": "dailynews.com",
@@ -1097,121 +1147,76 @@
       "avg_tone": -0.869
     },
     {
+      "source": "themarketsdaily.com",
+      "n": 1,
+      "avg_tone": 4.738
+    },
+    {
       "source": "eastbaytimes.com",
       "n": 1,
       "avg_tone": -5.81
-    },
-    {
-      "source": "latimes.com",
-      "n": 1,
-      "avg_tone": -1.313
-    },
-    {
-      "source": "mexicostar.com",
-      "n": 1,
-      "avg_tone": 2.436
-    },
-    {
-      "source": "lasvegassun.com",
-      "n": 1,
-      "avg_tone": -3.894
-    },
-    {
-      "source": "bristolpost.co.uk",
-      "n": 1,
-      "avg_tone": 1.636
-    },
-    {
-      "source": "news.tuoitre.vn",
-      "n": 1,
-      "avg_tone": -4.668
-    },
-    {
-      "source": "ruidosonews.com",
-      "n": 1,
-      "avg_tone": 3.061
-    },
-    {
-      "source": "trinidadexpress.com",
-      "n": 1,
-      "avg_tone": 0.103
-    },
-    {
-      "source": "journalismpakistan.com",
-      "n": 1,
-      "avg_tone": -5.052
-    },
-    {
-      "source": "rhyljournal.co.uk",
-      "n": 1,
-      "avg_tone": 1.449
-    },
-    {
-      "source": "irishtimes.com",
-      "n": 1,
-      "avg_tone": -4.878
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_SCOUT",
-      "n": 45
-    },
-    {
-      "theme": "MEDIA_MSM",
-      "n": 44
-    },
-    {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 37
-    },
-    {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 37
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 36
-    },
-    {
-      "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 36
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 32
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 32
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "theme": "WB_137_WATER",
       "n": 29
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "theme": "USPEC_POLITICS_GENERAL1",
       "n": 28
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 27
-    },
-    {
       "theme": "EPU_POLICY_POLITICAL",
-      "n": 26
+      "n": 28
     },
     {
-      "theme": "TAX_FNCACT_PILOT",
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 24
+    },
+    {
+      "theme": "LEADER",
       "n": 23
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 23
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 22
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
       "n": 21
     },
     {
-      "theme": "TAX_FNCACT_JOURNALIST",
-      "n": 21
+      "theme": "TAX_ECON_PRICE",
+      "n": 20
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 20
+    },
+    {
+      "theme": "TAX_ETHNICITY_CHINESE",
+      "n": 17
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_CHINESE",
+      "n": 17
+    },
+    {
+      "theme": "SOC_GENERALCRIME",
+      "n": 17
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
+      "n": 17
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 16
     }
   ]
 }
