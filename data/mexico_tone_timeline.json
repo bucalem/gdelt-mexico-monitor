@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-09T11:32:08.482146+00:00",
-  "rows_total_scanned_last_run": 1996,
-  "rows_mexico_last_run": 23,
-  "overall_avg_tone_4h": 0.981,
+  "generated_at": "2026-08-09T12:00:52.545955+00:00",
+  "rows_total_scanned_last_run": 2276,
+  "rows_mexico_last_run": 18,
+  "overall_avg_tone_4h": 0.884,
   "timeline": [
-    {
-      "time": "2026-08-06T11:45",
-      "avg_tone": -2.633,
-      "n_articles": 31
-    },
     {
       "time": "2026-08-06T12:30",
       "avg_tone": -1.776,
@@ -1078,13 +1073,78 @@
       "time": "2026-08-09T11:30",
       "avg_tone": -0.201,
       "n_articles": 2
+    },
+    {
+      "time": "2026-08-09T11:45",
+      "avg_tone": 0.028,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-08-09T12:00",
+      "avg_tone": -1.569,
+      "n_articles": 6
     }
   ],
   "top_sources": [
     {
-      "source": "yahoo.com",
-      "n": 4,
-      "avg_tone": 0.741
+      "source": "texarkanagazette.com",
+      "n": 2,
+      "avg_tone": -1.379
+    },
+    {
+      "source": "presstv.co.uk",
+      "n": 1,
+      "avg_tone": -3.652
+    },
+    {
+      "source": "clickondetroit.com",
+      "n": 1,
+      "avg_tone": -2.052
+    },
+    {
+      "source": "wral.com",
+      "n": 1,
+      "avg_tone": -2.126
+    },
+    {
+      "source": "tickerreport.com",
+      "n": 1,
+      "avg_tone": 3.877
+    },
+    {
+      "source": "jowhar.com",
+      "n": 1,
+      "avg_tone": -5.946
+    },
+    {
+      "source": "scmp.com",
+      "n": 1,
+      "avg_tone": 0.488
+    },
+    {
+      "source": "nakedcapitalism.com",
+      "n": 1,
+      "avg_tone": -5.797
+    },
+    {
+      "source": "chinanationalnews.com",
+      "n": 1,
+      "avg_tone": 2.436
+    },
+    {
+      "source": "aawsat.com",
+      "n": 1,
+      "avg_tone": -4.854
+    },
+    {
+      "source": "mexicoledger.com",
+      "n": 1,
+      "avg_tone": 8.734
+    },
+    {
+      "source": "russiaherald.com",
+      "n": 1,
+      "avg_tone": 2.436
     },
     {
       "source": "lbc.co.uk",
@@ -1100,123 +1160,68 @@
       "source": "chinadaily.com.cn",
       "n": 1,
       "avg_tone": 2.332
-    },
-    {
-      "source": "adn.com",
-      "n": 1,
-      "avg_tone": -3.382
-    },
-    {
-      "source": "collider.com",
-      "n": 1,
-      "avg_tone": -2.454
-    },
-    {
-      "source": "vietnam.vnanet.vn",
-      "n": 1,
-      "avg_tone": 5.584
-    },
-    {
-      "source": "beijingbulletin.com",
-      "n": 1,
-      "avg_tone": 2.436
-    },
-    {
-      "source": "khaama.com",
-      "n": 1,
-      "avg_tone": 0.54
-    },
-    {
-      "source": "worldathletics.org",
-      "n": 1,
-      "avg_tone": 3.406
-    },
-    {
-      "source": "dailysabah.com",
-      "n": 1,
-      "avg_tone": 1.832
-    },
-    {
-      "source": "dailynews.com",
-      "n": 1,
-      "avg_tone": 1.002
-    },
-    {
-      "source": "countercurrents.org",
-      "n": 1,
-      "avg_tone": -0.869
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 4.738
-    },
-    {
-      "source": "eastbaytimes.com",
-      "n": 1,
-      "avg_tone": -5.81
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_137_WATER",
-      "n": 29
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 28
-    },
-    {
-      "theme": "EPU_POLICY_POLITICAL",
-      "n": 28
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 24
-    },
-    {
-      "theme": "LEADER",
-      "n": 23
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 23
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 22
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 21
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 20
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 20
-    },
-    {
       "theme": "TAX_ETHNICITY_CHINESE",
-      "n": 17
+      "n": 47
     },
     {
       "theme": "TAX_WORLDLANGUAGES_CHINESE",
-      "n": 17
+      "n": 47
     },
     {
-      "theme": "SOC_GENERALCRIME",
-      "n": 17
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 43
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
-      "n": 17
+      "theme": "ARMEDCONFLICT",
+      "n": 42
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 16
+      "theme": "MILITARY",
+      "n": 38
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 31
+    },
+    {
+      "theme": "TAX_FNCACT_IMMIGRANTS",
+      "n": 28
+    },
+    {
+      "theme": "TAX_FNCACT_VOLUNTEER",
+      "n": 27
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 26
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 26
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 26
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 26
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 26
+    },
+    {
+      "theme": "TRIAL",
+      "n": 23
+    },
+    {
+      "theme": "TAX_FNCACT_LAWYER",
+      "n": 23
     }
   ]
 }
