@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T20:21:10.699241+00:00",
-  "rows_total_scanned_last_run": 2464,
-  "rows_mexico_last_run": 34,
-  "overall_avg_tone_4h": -0.507,
+  "generated_at": "2026-08-09T20:59:54.188927+00:00",
+  "rows_total_scanned_last_run": 2325,
+  "rows_mexico_last_run": 26,
+  "overall_avg_tone_4h": -0.575,
   "timeline": [
     {
       "time": "2026-08-07T00:00",
@@ -1208,18 +1208,23 @@
       "time": "2026-08-09T20:30",
       "avg_tone": -1.107,
       "n_articles": 6
+    },
+    {
+      "time": "2026-08-09T20:45",
+      "avg_tone": -1.036,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-08-09T21:00",
+      "avg_tone": -0.16,
+      "n_articles": 7
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 6,
-      "avg_tone": -0.006
-    },
-    {
-      "source": "themarketsdaily.com",
+      "source": "tickerreport.com",
       "n": 2,
-      "avg_tone": 3.245
+      "avg_tone": 3.308
     },
     {
       "source": "ckom.com",
@@ -1227,19 +1232,54 @@
       "avg_tone": -2.214
     },
     {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": 1.662
+      "source": "wastedive.com",
+      "n": 1,
+      "avg_tone": -1.723
     },
     {
-      "source": "santafenewmexican.com",
-      "n": 2,
-      "avg_tone": -3.757
+      "source": "elpasoinc.com",
+      "n": 1,
+      "avg_tone": -2.804
     },
     {
-      "source": "cjme.com",
-      "n": 2,
-      "avg_tone": -2.214
+      "source": "pjmedia.com",
+      "n": 1,
+      "avg_tone": -2.553
+    },
+    {
+      "source": "adn.com",
+      "n": 1,
+      "avg_tone": -2.106
+    },
+    {
+      "source": "japanherald.com",
+      "n": 1,
+      "avg_tone": 1.449
+    },
+    {
+      "source": "inquirer.com",
+      "n": 1,
+      "avg_tone": -2.148
+    },
+    {
+      "source": "leadertelegram.com",
+      "n": 1,
+      "avg_tone": -3.875
+    },
+    {
+      "source": "dailypolitical.com",
+      "n": 1,
+      "avg_tone": 4.258
+    },
+    {
+      "source": "indiatimes.com",
+      "n": 1,
+      "avg_tone": 0.457
+    },
+    {
+      "source": "wataugademocrat.com",
+      "n": 1,
+      "avg_tone": -3.875
     },
     {
       "source": "wdtimes.com",
@@ -1255,98 +1295,68 @@
       "source": "livemint.com",
       "n": 1,
       "avg_tone": -3.714
-    },
-    {
-      "source": "f4wonline.com",
-      "n": 1,
-      "avg_tone": -0.478
-    },
-    {
-      "source": "forbes.com",
-      "n": 1,
-      "avg_tone": -2.165
-    },
-    {
-      "source": "cecildaily.com",
-      "n": 1,
-      "avg_tone": -3.875
-    },
-    {
-      "source": "mentalfloss.com",
-      "n": 1,
-      "avg_tone": -0.912
-    },
-    {
-      "source": "cagesideseats.com",
-      "n": 1,
-      "avg_tone": -3.822
-    },
-    {
-      "source": "hometownregister.com",
-      "n": 1,
-      "avg_tone": -2.804
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "theme": "LEADER",
       "n": 39
     },
     {
-      "theme": "ENV_METALS",
-      "n": 37
+      "theme": "AFFECT",
+      "n": 35
     },
     {
-      "theme": "WB_2936_GOLD",
-      "n": 37
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 31
     },
     {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 37
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 31
     },
     {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 37
-    },
-    {
-      "theme": "ECON_TAXATION",
-      "n": 29
-    },
-    {
-      "theme": "EPU_POLICY_TAX",
-      "n": 29
-    },
-    {
-      "theme": "EPU_CATS_TAXES",
-      "n": 29
-    },
-    {
-      "theme": "UNGP_HEALTHCARE",
+      "theme": "WB_2670_JOBS",
       "n": 28
     },
     {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 26
+      "theme": "TAX_FNCACT_IMMIGRANTS",
+      "n": 28
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 27
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 27
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 27
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 27
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 27
     },
     {
       "theme": "TAX_FNCACT_WOMEN",
       "n": 25
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
+      "theme": "SOC_GENERALCRIME",
       "n": 24
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 24
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 23
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 24
-    },
-    {
-      "theme": "TAX_DISEASE_MEASLES",
-      "n": 24
+      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
+      "n": 23
     }
   ]
 }
