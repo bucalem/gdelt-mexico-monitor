@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T07:30:31.817113+00:00",
-  "rows_total_scanned_last_run": 1809,
-  "rows_mexico_last_run": 23,
-  "overall_avg_tone_4h": -1.121,
+  "generated_at": "2026-08-09T08:21:06.695298+00:00",
+  "rows_total_scanned_last_run": 2060,
+  "rows_mexico_last_run": 57,
+  "overall_avg_tone_4h": -0.01,
   "timeline": [
     {
       "time": "2026-08-06T08:45",
@@ -1023,145 +1023,165 @@
       "time": "2026-08-09T07:30",
       "avg_tone": -0.151,
       "n_articles": 8
+    },
+    {
+      "time": "2026-08-09T07:45",
+      "avg_tone": -0.628,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-09T08:00",
+      "avg_tone": 1.474,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-08-09T08:15",
+      "avg_tone": 1.624,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-08-09T08:30",
+      "avg_tone": 1.228,
+      "n_articles": 11
     }
   ],
   "top_sources": [
     {
+      "source": "yumasun.com",
+      "n": 3,
+      "avg_tone": 0.938
+    },
+    {
+      "source": "forbes.com",
+      "n": 2,
+      "avg_tone": -2.163
+    },
+    {
+      "source": "prowrestling.net",
+      "n": 2,
+      "avg_tone": -1.137
+    },
+    {
+      "source": "pmnewsnigeria.com",
+      "n": 1,
+      "avg_tone": 0.339
+    },
+    {
+      "source": "sthelensstar.co.uk",
+      "n": 1,
+      "avg_tone": 1.449
+    },
+    {
+      "source": "journalgazette.net",
+      "n": 1,
+      "avg_tone": -4.23
+    },
+    {
+      "source": "borehamwoodtimes.co.uk",
+      "n": 1,
+      "avg_tone": 1.449
+    },
+    {
+      "source": "parisguardian.com",
+      "n": 1,
+      "avg_tone": 2.436
+    },
+    {
+      "source": "lancashiretelegraph.co.uk",
+      "n": 1,
+      "avg_tone": 1.449
+    },
+    {
+      "source": "laosnews.net",
+      "n": 1,
+      "avg_tone": 2.436
+    },
+    {
+      "source": "punto.com.ph",
+      "n": 1,
+      "avg_tone": 3.293
+    },
+    {
+      "source": "burytimes.co.uk",
+      "n": 1,
+      "avg_tone": 1.449
+    },
+    {
+      "source": "london-now.co.uk",
+      "n": 1,
+      "avg_tone": 1.449
+    },
+    {
       "source": "yahoo.com",
-      "n": 4,
-      "avg_tone": 1.802
+      "n": 1,
+      "avg_tone": 1.992
     },
     {
-      "source": "cbn.com",
+      "source": "darlingtonandstocktontimes.co.uk",
       "n": 1,
-      "avg_tone": 0.598
-    },
-    {
-      "source": "kashmirreader.com",
-      "n": 1,
-      "avg_tone": -5.025
-    },
-    {
-      "source": "whittierdailynews.com",
-      "n": 1,
-      "avg_tone": 0.493
-    },
-    {
-      "source": "redlandsdailyfacts.com",
-      "n": 1,
-      "avg_tone": 0.493
-    },
-    {
-      "source": "indiatimes.com",
-      "n": 1,
-      "avg_tone": -4.64
-    },
-    {
-      "source": "bgnes.com",
-      "n": 1,
-      "avg_tone": 0.457
-    },
-    {
-      "source": "itnewsonline.com",
-      "n": 1,
-      "avg_tone": 4.158
-    },
-    {
-      "source": "dunyanews.tv",
-      "n": 1,
-      "avg_tone": -6.593
-    },
-    {
-      "source": "israelnationalnews.com",
-      "n": 1,
-      "avg_tone": 1.325
-    },
-    {
-      "source": "wlox.com",
-      "n": 1,
-      "avg_tone": 1.395
-    },
-    {
-      "source": "dailybreeze.com",
-      "n": 1,
-      "avg_tone": 0.493
-    },
-    {
-      "source": "texarkanagazette.com",
-      "n": 1,
-      "avg_tone": -1.751
-    },
-    {
-      "source": "wastedive.com",
-      "n": 1,
-      "avg_tone": -1.723
-    },
-    {
-      "source": "ocregister.com",
-      "n": 1,
-      "avg_tone": 0.493
+      "avg_tone": 1.449
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_137_WATER",
-      "n": 28
+      "theme": "TAX_FNCACT_SCOUT",
+      "n": 119
     },
     {
-      "theme": "BORDER",
-      "n": 16
+      "theme": "TAX_FNCACT_PILOT",
+      "n": 59
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 12
+      "theme": "TAX_ETHNICITY_CHINESE",
+      "n": 52
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 11
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 10
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 9
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 9
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 9
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 8
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 8
+      "theme": "TAX_WORLDLANGUAGES_CHINESE",
+      "n": 52
     },
     {
       "theme": "LEADER",
-      "n": 8
+      "n": 47
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 8
+      "n": 41
     },
     {
-      "theme": "TAX_FOODSTAPLES_CORN",
-      "n": 8
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 40
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 7
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 35
+    },
+    {
+      "theme": "TAX_FNCACT_TREASURER",
+      "n": 29
+    },
+    {
+      "theme": "TAX_FNCACT_BALLOONISTS",
+      "n": 29
+    },
+    {
+      "theme": "ECON_DEFLATION",
+      "n": 29
+    },
+    {
+      "theme": "TAX_FNCACT_LEADER",
+      "n": 29
+    },
+    {
+      "theme": "TAX_ETHNICITY_BELGIAN",
+      "n": 29
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 25
     },
     {
       "theme": "TAX_ETHNICITY_INDIAN",
-      "n": 7
+      "n": 17
     }
   ]
 }
