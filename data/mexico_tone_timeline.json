@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T19:46:59.894279+00:00",
-  "rows_total_scanned_last_run": 2506,
-  "rows_mexico_last_run": 32,
-  "overall_avg_tone_4h": -0.621,
+  "generated_at": "2026-08-09T20:21:10.699241+00:00",
+  "rows_total_scanned_last_run": 2464,
+  "rows_mexico_last_run": 34,
+  "overall_avg_tone_4h": -0.507,
   "timeline": [
     {
       "time": "2026-08-07T00:00",
@@ -1193,6 +1193,21 @@
       "time": "2026-08-09T19:45",
       "avg_tone": -0.553,
       "n_articles": 16
+    },
+    {
+      "time": "2026-08-09T20:00",
+      "avg_tone": 1.179,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-08-09T20:15",
+      "avg_tone": -1.688,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-08-09T20:30",
+      "avg_tone": -1.107,
+      "n_articles": 6
     }
   ],
   "top_sources": [
@@ -1200,6 +1215,21 @@
       "source": "riotimesonline.com",
       "n": 6,
       "avg_tone": -0.006
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 3.245
+    },
+    {
+      "source": "ckom.com",
+      "n": 2,
+      "avg_tone": -2.214
+    },
+    {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": 1.662
     },
     {
       "source": "santafenewmexican.com",
@@ -1212,125 +1242,110 @@
       "avg_tone": -2.214
     },
     {
-      "source": "dailygazette.com",
-      "n": 2,
-      "avg_tone": -0.596
+      "source": "wdtimes.com",
+      "n": 1,
+      "avg_tone": -3.806
     },
     {
-      "source": "leadership.ng",
+      "source": "wxyz.com",
       "n": 1,
-      "avg_tone": 0.763
+      "avg_tone": -0.347
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "livemint.com",
       "n": 1,
-      "avg_tone": 2.622
+      "avg_tone": -3.714
     },
     {
-      "source": "krwg.org",
+      "source": "f4wonline.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -0.478
     },
     {
-      "source": "gringogazette.com",
+      "source": "forbes.com",
       "n": 1,
-      "avg_tone": 0.208
+      "avg_tone": -2.165
     },
     {
-      "source": "theguardian.com",
+      "source": "cecildaily.com",
       "n": 1,
-      "avg_tone": -4.204
+      "avg_tone": -3.875
     },
     {
-      "source": "ladailypost.com",
+      "source": "mentalfloss.com",
       "n": 1,
-      "avg_tone": 3.738
+      "avg_tone": -0.912
     },
     {
-      "source": "thejournal.ie",
+      "source": "cagesideseats.com",
       "n": 1,
-      "avg_tone": -0.333
+      "avg_tone": -3.822
     },
     {
-      "source": "blueprint.ng",
+      "source": "hometownregister.com",
       "n": 1,
-      "avg_tone": 1.741
-    },
-    {
-      "source": "deadline.com",
-      "n": 1,
-      "avg_tone": -0.333
-    },
-    {
-      "source": "hindustantimes.com",
-      "n": 1,
-      "avg_tone": -1.818
-    },
-    {
-      "source": "usmagazine.com",
-      "n": 1,
-      "avg_tone": 4.167
+      "avg_tone": -2.804
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_SENATOR",
-      "n": 72
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 43
-    },
-    {
-      "theme": "MEDICAL",
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
       "n": 39
     },
     {
-      "theme": "LEADER",
-      "n": 30
+      "theme": "ENV_METALS",
+      "n": 37
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 29
+      "theme": "WB_2936_GOLD",
+      "n": 37
     },
     {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 28
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 37
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 37
     },
     {
       "theme": "ECON_TAXATION",
-      "n": 28
+      "n": 29
     },
     {
       "theme": "EPU_POLICY_TAX",
-      "n": 28
+      "n": 29
     },
     {
       "theme": "EPU_CATS_TAXES",
+      "n": 29
+    },
+    {
+      "theme": "UNGP_HEALTHCARE",
       "n": 28
     },
     {
+      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
+      "n": 26
+    },
+    {
+      "theme": "TAX_FNCACT_WOMEN",
+      "n": 25
+    },
+    {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 27
+      "n": 24
     },
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 27
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_AIRPORT",
-      "n": 25
-    },
-    {
-      "theme": "WB_1804_AIRPORTS",
-      "n": 25
+      "theme": "GENERAL_HEALTH",
+      "n": 24
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
       "n": 24
     },
     {
-      "theme": "WB_895_MINING_SYSTEMS",
+      "theme": "TAX_DISEASE_MEASLES",
       "n": 24
     }
   ]
