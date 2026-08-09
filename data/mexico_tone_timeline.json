@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T10:23:27.334253+00:00",
-  "rows_total_scanned_last_run": 2402,
-  "rows_mexico_last_run": 45,
-  "overall_avg_tone_4h": 0.905,
+  "generated_at": "2026-08-09T10:59:42.902329+00:00",
+  "rows_total_scanned_last_run": 1765,
+  "rows_mexico_last_run": 35,
+  "overall_avg_tone_4h": 0.908,
   "timeline": [
     {
       "time": "2026-08-06T11:00",
@@ -1068,13 +1068,63 @@
       "time": "2026-08-09T10:30",
       "avg_tone": 1.582,
       "n_articles": 2
+    },
+    {
+      "time": "2026-08-09T10:45",
+      "avg_tone": -0.291,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
+      "source": "yahoo.com",
+      "n": 5,
+      "avg_tone": 0.663
+    },
+    {
       "source": "themarketsdaily.com",
       "n": 3,
-      "avg_tone": 1.482
+      "avg_tone": 2.698
+    },
+    {
+      "source": "dailynews.com",
+      "n": 1,
+      "avg_tone": 1.002
+    },
+    {
+      "source": "countercurrents.org",
+      "n": 1,
+      "avg_tone": -0.869
+    },
+    {
+      "source": "eastbaytimes.com",
+      "n": 1,
+      "avg_tone": -5.81
+    },
+    {
+      "source": "latimes.com",
+      "n": 1,
+      "avg_tone": -1.313
+    },
+    {
+      "source": "mexicostar.com",
+      "n": 1,
+      "avg_tone": 2.436
+    },
+    {
+      "source": "lasvegassun.com",
+      "n": 1,
+      "avg_tone": -3.894
+    },
+    {
+      "source": "bristolpost.co.uk",
+      "n": 1,
+      "avg_tone": 1.636
+    },
+    {
+      "source": "news.tuoitre.vn",
+      "n": 1,
+      "avg_tone": -4.668
     },
     {
       "source": "ruidosonews.com",
@@ -1100,109 +1150,64 @@
       "source": "irishtimes.com",
       "n": 1,
       "avg_tone": -4.878
-    },
-    {
-      "source": "edp24.co.uk",
-      "n": 1,
-      "avg_tone": 1.449
-    },
-    {
-      "source": "northwichguardian.co.uk",
-      "n": 1,
-      "avg_tone": 1.449
-    },
-    {
-      "source": "elpais.com",
-      "n": 1,
-      "avg_tone": -3.675
-    },
-    {
-      "source": "clydebankpost.co.uk",
-      "n": 1,
-      "avg_tone": 1.449
-    },
-    {
-      "source": "times-series.co.uk",
-      "n": 1,
-      "avg_tone": 1.449
-    },
-    {
-      "source": "sloughobserver.co.uk",
-      "n": 1,
-      "avg_tone": 1.449
-    },
-    {
-      "source": "heraldseries.co.uk",
-      "n": 1,
-      "avg_tone": 1.449
-    },
-    {
-      "source": "stroudnewsandjournal.co.uk",
-      "n": 1,
-      "avg_tone": 1.449
-    },
-    {
-      "source": "clactonandfrintongazette.co.uk",
-      "n": 1,
-      "avg_tone": 1.449
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_FNCACT_SCOUT",
-      "n": 86
+      "n": 45
     },
     {
       "theme": "MEDIA_MSM",
-      "n": 43
-    },
-    {
-      "theme": "TAX_FNCACT_PILOT",
-      "n": 43
-    },
-    {
-      "theme": "ECON_STOCKMARKET",
-      "n": 40
+      "n": 44
     },
     {
       "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 33
+      "n": 37
     },
     {
       "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 33
+      "n": 37
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 36
     },
     {
       "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 32
+      "n": 36
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
       "n": 32
     },
     {
+      "theme": "TAX_ECON_PRICE",
+      "n": 32
+    },
+    {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 29
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 28
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 27
     },
     {
-      "theme": "TAX_ECON_PRICE",
+      "theme": "EPU_POLICY_POLITICAL",
       "n": 26
     },
     {
-      "theme": "TAX_ETHNICITY_CHINESE",
-      "n": 24
+      "theme": "TAX_FNCACT_PILOT",
+      "n": 23
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_CHINESE",
-      "n": 24
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 22
-    },
-    {
-      "theme": "TAX_FNCACT_LEADER",
-      "n": 22
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 21
     },
     {
       "theme": "TAX_FNCACT_JOURNALIST",
