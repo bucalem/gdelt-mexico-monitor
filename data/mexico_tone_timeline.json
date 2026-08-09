@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-09T17:55:22.888304+00:00",
-  "rows_total_scanned_last_run": 2511,
-  "rows_mexico_last_run": 30,
-  "overall_avg_tone_4h": -1.215,
+  "generated_at": "2026-08-09T18:28:02.131198+00:00",
+  "rows_total_scanned_last_run": 2662,
+  "rows_mexico_last_run": 33,
+  "overall_avg_tone_4h": -1.114,
   "timeline": [
     {
       "time": "2026-08-07T00:00",
@@ -1158,6 +1158,16 @@
       "time": "2026-08-09T18:00",
       "avg_tone": -2.499,
       "n_articles": 7
+    },
+    {
+      "time": "2026-08-09T18:15",
+      "avg_tone": 0.349,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-08-09T18:30",
+      "avg_tone": 1.022,
+      "n_articles": 10
     }
   ],
   "top_sources": [
@@ -1165,6 +1175,16 @@
       "source": "dailypolitical.com",
       "n": 3,
       "avg_tone": 3.342
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 1.858
+    },
+    {
+      "source": "dailygazette.com",
+      "n": 2,
+      "avg_tone": -0.596
     },
     {
       "source": "yahoo.com",
@@ -1177,126 +1197,116 @@
       "avg_tone": -2.259
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "calcoastnews.com",
       "n": 1,
-      "avg_tone": 3.088
+      "avg_tone": 4.63
     },
     {
-      "source": "dailygazette.com",
+      "source": "punchng.com",
       "n": 1,
-      "avg_tone": -0.596
+      "avg_tone": -0.485
     },
     {
-      "source": "thestar.com.my",
+      "source": "tvline.com",
       "n": 1,
-      "avg_tone": -2.807
+      "avg_tone": 1.151
     },
     {
-      "source": "journal-news.net",
+      "source": "taipeitimes.com",
       "n": 1,
-      "avg_tone": -3.915
+      "avg_tone": 0.759
     },
     {
-      "source": "independent.com",
+      "source": "dailymail.com",
       "n": 1,
-      "avg_tone": 3.812
+      "avg_tone": 3.427
     },
     {
-      "source": "nypost.com",
+      "source": "offalyindependent.ie",
       "n": 1,
-      "avg_tone": -1.385
+      "avg_tone": -3.089
     },
     {
-      "source": "hola.com",
+      "source": "thewrap.com",
       "n": 1,
-      "avg_tone": 3.361
+      "avg_tone": -0.424
     },
     {
-      "source": "alternet.org",
+      "source": "nny360.com",
       "n": 1,
-      "avg_tone": -6.37
+      "avg_tone": 4.863
     },
     {
-      "source": "vancouversun.com",
+      "source": "zerohedge.com",
       "n": 1,
-      "avg_tone": -2.073
+      "avg_tone": -1.241
     },
     {
-      "source": "kfox95.com",
+      "source": "napavalleyregister.com",
       "n": 1,
-      "avg_tone": -4.936
-    },
-    {
-      "source": "aol.co.uk",
-      "n": 1,
-      "avg_tone": -3.15
-    },
-    {
-      "source": "cbsnews.com",
-      "n": 1,
-      "avg_tone": -0.697
+      "avg_tone": 3.21
     }
   ],
   "top_themes": [
     {
       "theme": "LEADER",
-      "n": 259
+      "n": 251
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 256
+      "n": 248
     },
     {
       "theme": "EPU_POLICY_WHITE_HOUSE",
-      "n": 50
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 35
+      "n": 52
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 30
+      "n": 38
     },
     {
-      "theme": "WB_137_WATER",
+      "theme": "CRISISLEX_C07_SAFETY",
       "n": 29
     },
     {
+      "theme": "SOC_POINTSOFINTEREST_AIRPORT",
+      "n": 27
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 26
+    },
+    {
       "theme": "WB_698_TRADE",
-      "n": 25
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 25
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
       "n": 24
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 22
-    },
-    {
-      "theme": "MEDICAL",
+      "theme": "WB_135_TRANSPORT",
       "n": 21
     },
     {
-      "theme": "GENERAL_HEALTH",
+      "theme": "TAX_ECON_PRICE",
+      "n": 21
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 21
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
       "n": 20
     },
     {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 19
+      "theme": "WB_2670_JOBS",
+      "n": 18
     },
     {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 19
+      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
+      "n": 17
     },
     {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 19
+      "theme": "USPEC_POLICY1",
+      "n": 16
     }
   ]
 }
