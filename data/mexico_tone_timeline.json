@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-10T05:02:38.194629+00:00",
-  "rows_total_scanned_last_run": 2027,
+  "generated_at": "2026-08-10T06:20:48.024580+00:00",
+  "rows_total_scanned_last_run": 2515,
   "rows_mexico_last_run": 27,
-  "overall_avg_tone_4h": -2.035,
+  "overall_avg_tone_4h": -1.614,
   "timeline": [
-    {
-      "time": "2026-08-07T05:15",
-      "avg_tone": -3.177,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-08-07T06:00",
-      "avg_tone": -1.724,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-08-07T06:15",
-      "avg_tone": -1.387,
-      "n_articles": 9
-    },
     {
       "time": "2026-08-07T06:30",
       "avg_tone": -0.85,
@@ -1288,145 +1273,165 @@
       "time": "2026-08-10T05:00",
       "avg_tone": -0.437,
       "n_articles": 7
+    },
+    {
+      "time": "2026-08-10T05:45",
+      "avg_tone": -0.145,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-10T06:00",
+      "avg_tone": -5.443,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-08-10T06:15",
+      "avg_tone": -1.833,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-08-10T06:30",
+      "avg_tone": 1.286,
+      "n_articles": 6
     }
   ],
   "top_sources": [
     {
-      "source": "prokerala.com",
-      "n": 4,
-      "avg_tone": -2.65
-    },
-    {
-      "source": "travelextra.ie",
+      "source": "ghanamma.com",
       "n": 2,
-      "avg_tone": 0.004
+      "avg_tone": 2.925
     },
     {
-      "source": "mangalorean.com",
+      "source": "morungexpress.com",
       "n": 2,
-      "avg_tone": -3.548
+      "avg_tone": -1.405
     },
     {
-      "source": "businessinsider.com",
+      "source": "f4wonline.com",
+      "n": 2,
+      "avg_tone": -0.889
+    },
+    {
+      "source": "wabx.net",
       "n": 1,
-      "avg_tone": -2.439
+      "avg_tone": -5.045
     },
     {
-      "source": "fox32chicago.com",
+      "source": "stripes.com",
       "n": 1,
-      "avg_tone": -0.816
+      "avg_tone": 4.208
     },
     {
-      "source": "ynetnews.com",
+      "source": "manilatimes.net",
       "n": 1,
-      "avg_tone": -1.556
+      "avg_tone": 4.577
     },
     {
-      "source": "mymotherlode.com",
+      "source": "singersroom.com",
       "n": 1,
-      "avg_tone": 1.366
+      "avg_tone": 6.507
     },
     {
-      "source": "artsjournal.com",
+      "source": "superherohype.com",
       "n": 1,
-      "avg_tone": 0.379
+      "avg_tone": -1.412
     },
     {
-      "source": "965therock.com",
-      "n": 1,
-      "avg_tone": -4.944
-    },
-    {
-      "source": "dailypolitical.com",
-      "n": 1,
-      "avg_tone": 2.907
-    },
-    {
-      "source": "euronews.com",
-      "n": 1,
-      "avg_tone": -0.266
-    },
-    {
-      "source": "ocregister.com",
-      "n": 1,
-      "avg_tone": -8.0
-    },
-    {
-      "source": "anhuinews.com",
-      "n": 1,
-      "avg_tone": 2.205
-    },
-    {
-      "source": "travelweekly.com.au",
-      "n": 1,
-      "avg_tone": 1.714
-    },
-    {
-      "source": "abc7chicago.com",
+      "source": "abc7ny.com",
       "n": 1,
       "avg_tone": -1.119
+    },
+    {
+      "source": "adn.com",
+      "n": 1,
+      "avg_tone": -1.683
+    },
+    {
+      "source": "whbl.com",
+      "n": 1,
+      "avg_tone": -5.045
+    },
+    {
+      "source": "kelo.com",
+      "n": 1,
+      "avg_tone": -5.045
+    },
+    {
+      "source": "abc11.com",
+      "n": 1,
+      "avg_tone": -1.119
+    },
+    {
+      "source": "myswitzerland.com",
+      "n": 1,
+      "avg_tone": 3.727
+    },
+    {
+      "source": "wowt.com",
+      "n": 1,
+      "avg_tone": -2.288
     }
   ],
   "top_themes": [
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 41
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 40
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 36
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 35
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 35
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 35
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 35
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 33
-    },
-    {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 32
+      "n": 38
     },
     {
       "theme": "TAX_DISEASE_SALMONELLA",
-      "n": 29
+      "n": 34
     },
     {
-      "theme": "TAX_ETHNICITY_IRANIAN",
-      "n": 26
+      "theme": "TAX_FNCACT_BUYER",
+      "n": 32
     },
     {
-      "theme": "LEADER",
-      "n": 25
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 31
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 25
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 31
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 31
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 31
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 31
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 20
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 17
     },
     {
       "theme": "EPU_CATS_HEALTHCARE",
-      "n": 24
+      "n": 16
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 15
+    },
+    {
+      "theme": "TAX_DISEASE_CYCLOSPORIASIS",
+      "n": 15
     },
     {
       "theme": "AFFECT",
-      "n": 24
+      "n": 15
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 15
     }
   ]
 }
