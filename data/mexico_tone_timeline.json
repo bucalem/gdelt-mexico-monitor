@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-10T22:19:40.750512+00:00",
-  "rows_total_scanned_last_run": 5258,
-  "rows_mexico_last_run": 116,
-  "overall_avg_tone_4h": -1.73,
+  "generated_at": "2026-08-10T23:03:55.222742+00:00",
+  "rows_total_scanned_last_run": 5192,
+  "rows_mexico_last_run": 125,
+  "overall_avg_tone_4h": -1.483,
   "timeline": [
-    {
-      "time": "2026-08-07T22:30",
-      "avg_tone": -2.097,
-      "n_articles": 23
-    },
-    {
-      "time": "2026-08-07T22:45",
-      "avg_tone": -1.467,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-08-07T23:00",
-      "avg_tone": -1.931,
-      "n_articles": 28
-    },
     {
       "time": "2026-08-07T23:15",
       "avg_tone": -3.135,
@@ -1278,145 +1263,160 @@
       "time": "2026-08-10T22:15",
       "avg_tone": -0.593,
       "n_articles": 31
+    },
+    {
+      "time": "2026-08-10T22:30",
+      "avg_tone": -0.221,
+      "n_articles": 40
+    },
+    {
+      "time": "2026-08-10T22:45",
+      "avg_tone": -1.162,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-08-10T23:00",
+      "avg_tone": -2.349,
+      "n_articles": 33
     }
   ],
   "top_sources": [
     {
-      "source": "ksla.com",
+      "source": "wmra.org",
       "n": 2,
-      "avg_tone": -2.836
+      "avg_tone": -1.85
     },
     {
-      "source": "financialpost.com",
+      "source": "sunjournal.com",
       "n": 2,
-      "avg_tone": 0.172
+      "avg_tone": -2.209
     },
     {
-      "source": "themaneland.com",
+      "source": "finanznachrichten.de",
+      "n": 2,
+      "avg_tone": 0.143
+    },
+    {
+      "source": "wyff4.com",
+      "n": 2,
+      "avg_tone": -2.199
+    },
+    {
+      "source": "butlereagle.com",
+      "n": 2,
+      "avg_tone": -1.649
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 2.241
+    },
+    {
+      "source": "dailypolitical.com",
+      "n": 2,
+      "avg_tone": 1.674
+    },
+    {
+      "source": "islands.com",
       "n": 1,
-      "avg_tone": -1.214
+      "avg_tone": 5.182
     },
     {
-      "source": "businessreport.com",
-      "n": 1,
-      "avg_tone": 0.375
-    },
-    {
-      "source": "haitisun.com",
-      "n": 1,
-      "avg_tone": -1.683
-    },
-    {
-      "source": "mixx993.com",
-      "n": 1,
-      "avg_tone": 4.523
-    },
-    {
-      "source": "armidaleexpress.com.au",
-      "n": 1,
-      "avg_tone": 3.349
-    },
-    {
-      "source": "kidderminstershuttle.co.uk",
-      "n": 1,
-      "avg_tone": -4.31
-    },
-    {
-      "source": "ipswichstar.co.uk",
-      "n": 1,
-      "avg_tone": -4.31
-    },
-    {
-      "source": "barryanddistrictnews.co.uk",
+      "source": "echo-news.co.uk",
       "n": 1,
       "avg_tone": -4.31
     },
     {
-      "source": "wkyufm.org",
+      "source": "pressdemocrat.com",
       "n": 1,
-      "avg_tone": 5.556
+      "avg_tone": -5.746
     },
     {
-      "source": "bicesteradvertiser.net",
+      "source": "restaurantmagazine.com",
       "n": 1,
-      "avg_tone": -4.31
+      "avg_tone": 4.992
     },
     {
-      "source": "ksmu.org",
+      "source": "timescall.com",
       "n": 1,
-      "avg_tone": 5.556
+      "avg_tone": -5.746
     },
     {
-      "source": "kmbc.com",
+      "source": "recorder.com",
       "n": 1,
-      "avg_tone": -1.174
+      "avg_tone": -4.612
     },
     {
-      "source": "bromsgroveadvertiser.co.uk",
+      "source": "record-bee.com",
       "n": 1,
-      "avg_tone": -4.31
+      "avg_tone": -5.746
+    },
+    {
+      "source": "cbs4local.com",
+      "n": 1,
+      "avg_tone": -10.373
     }
   ],
   "top_themes": [
     {
       "theme": "NATURAL_DISASTER_EARTHQUAKE",
-      "n": 694
+      "n": 606
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 430
+      "n": 376
     },
     {
       "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 237
+      "n": 216
     },
     {
       "theme": "TAX_FNCACT_AUTHORITIES",
-      "n": 177
+      "n": 163
     },
     {
       "theme": "EPU_POLICY_AUTHORITIES",
-      "n": 177
+      "n": 163
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 160
+      "n": 145
     },
     {
       "theme": "NATURAL_DISASTER_EARTHQUAKES",
-      "n": 124
-    },
-    {
-      "theme": "TAX_FNCACT_MAYOR",
-      "n": 120
-    },
-    {
-      "theme": "CRISISLEX_C04_LOGISTICS_TRANSPORT",
-      "n": 115
-    },
-    {
-      "theme": "NATURAL_DISASTER_AFTERSHOCKS",
-      "n": 114
-    },
-    {
-      "theme": "CRISISLEX_O02_RESPONSEAGENCIESATCRISIS",
-      "n": 114
-    },
-    {
-      "theme": "TAX_FNCACT_WORKERS",
-      "n": 113
-    },
-    {
-      "theme": "LEADER",
-      "n": 105
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 103
+      "n": 130
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 101
+      "n": 116
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 116
+    },
+    {
+      "theme": "LEADER",
+      "n": 115
+    },
+    {
+      "theme": "TAX_FNCACT_WORKERS",
+      "n": 111
+    },
+    {
+      "theme": "CRISISLEX_C04_LOGISTICS_TRANSPORT",
+      "n": 108
+    },
+    {
+      "theme": "TAX_FNCACT_MAYOR",
+      "n": 105
+    },
+    {
+      "theme": "NATURAL_DISASTER_AFTERSHOCKS",
+      "n": 104
+    },
+    {
+      "theme": "CRISISLEX_O02_RESPONSEAGENCIESATCRISIS",
+      "n": 103
     }
   ]
 }
