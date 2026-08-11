@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-11T23:00:12.343087+00:00",
-  "rows_total_scanned_last_run": 3991,
-  "rows_mexico_last_run": 71,
-  "overall_avg_tone_4h": -0.869,
+  "generated_at": "2026-08-11T23:47:30.473213+00:00",
+  "rows_total_scanned_last_run": 5051,
+  "rows_mexico_last_run": 83,
+  "overall_avg_tone_4h": -0.802,
   "timeline": [
-    {
-      "time": "2026-08-08T23:00",
-      "avg_tone": -2.431,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-08-08T23:15",
-      "avg_tone": -4.232,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-08-08T23:30",
-      "avg_tone": -1.282,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-08-08T23:45",
-      "avg_tone": -2.658,
-      "n_articles": 4
-    },
     {
       "time": "2026-08-09T00:00",
       "avg_tone": -2.536,
@@ -1223,18 +1203,63 @@
       "time": "2026-08-11T23:00",
       "avg_tone": -1.667,
       "n_articles": 24
+    },
+    {
+      "time": "2026-08-11T23:15",
+      "avg_tone": 0.957,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-08-11T23:30",
+      "avg_tone": -1.222,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-08-11T23:45",
+      "avg_tone": -0.387,
+      "n_articles": 21
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 12,
-      "avg_tone": -0.094
+      "n": 5,
+      "avg_tone": 0.0
     },
     {
       "source": "radaronline.com",
       "n": 3,
       "avg_tone": -3.587
+    },
+    {
+      "source": "deadline.com",
+      "n": 2,
+      "avg_tone": 0.947
+    },
+    {
+      "source": "rawstory.com",
+      "n": 2,
+      "avg_tone": -4.3
+    },
+    {
+      "source": "standard-freeholder.com",
+      "n": 2,
+      "avg_tone": 0.256
+    },
+    {
+      "source": "pentictonherald.ca",
+      "n": 2,
+      "avg_tone": -4.342
+    },
+    {
+      "source": "krod.com",
+      "n": 2,
+      "avg_tone": 0.954
+    },
+    {
+      "source": "billboard.com",
+      "n": 2,
+      "avg_tone": 2.546
     },
     {
       "source": "californiatelegraph.com",
@@ -1247,121 +1272,91 @@
       "avg_tone": 0.228
     },
     {
-      "source": "orlandosentinel.com",
-      "n": 2,
-      "avg_tone": -2.931
-    },
-    {
-      "source": "kmhk.com",
-      "n": 2,
-      "avg_tone": 1.934
-    },
-    {
-      "source": "ksat.com",
-      "n": 2,
-      "avg_tone": -2.505
-    },
-    {
-      "source": "stardem.com",
-      "n": 2,
-      "avg_tone": -2.516
-    },
-    {
-      "source": "castanetkamloops.net",
-      "n": 2,
-      "avg_tone": -2.255
-    },
-    {
-      "source": "clickondetroit.com",
-      "n": 2,
-      "avg_tone": -2.505
-    },
-    {
-      "source": "toronto.citynews.ca",
+      "source": "ksut.org",
       "n": 1,
-      "avg_tone": -6.709
+      "avg_tone": -1.54
     },
     {
-      "source": "ign.com",
+      "source": "kurv.com",
       "n": 1,
-      "avg_tone": -4.734
+      "avg_tone": -4.601
     },
     {
-      "source": "dailybulletin.com",
+      "source": "torontosun.com",
       "n": 1,
-      "avg_tone": -4.797
+      "avg_tone": -3.524
     },
     {
-      "source": "hotair.com",
+      "source": "thefreepress.ca",
       "n": 1,
-      "avg_tone": -7.447
+      "avg_tone": 2.308
     },
     {
-      "source": "brainerddispatch.com",
+      "source": "peacearchnews.com",
       "n": 1,
-      "avg_tone": 7.502
+      "avg_tone": 2.308
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 100
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 99
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 99
-    },
-    {
-      "theme": "ENV_METALS",
-      "n": 86
-    },
-    {
-      "theme": "WB_2936_GOLD",
-      "n": 86
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 81
-    },
-    {
-      "theme": "WB_135_TRANSPORT",
-      "n": 62
-    },
-    {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 54
+      "n": 59
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 51
+      "n": 54
     },
     {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 51
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 52
     },
     {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 45
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
       "n": 43
     },
     {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "theme": "EPU_CATS_HEALTHCARE",
+      "n": 43
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 42
+    },
+    {
+      "theme": "MEDIA_MSM",
       "n": 41
     },
     {
-      "theme": "NATURAL_DISASTER_WILDFIRE",
+      "theme": "LEADER",
       "n": 40
     },
     {
-      "theme": "TAX_ECON_PRICE",
+      "theme": "AFFECT",
       "n": 39
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 38
+    },
+    {
+      "theme": "BORDER",
+      "n": 38
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 36
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 36
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 36
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 36
     }
   ]
 }
