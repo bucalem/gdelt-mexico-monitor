@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-11T22:03:32.098766+00:00",
-  "rows_total_scanned_last_run": 5236,
-  "rows_mexico_last_run": 105,
-  "overall_avg_tone_4h": -0.812,
+  "generated_at": "2026-08-11T23:00:12.343087+00:00",
+  "rows_total_scanned_last_run": 3991,
+  "rows_mexico_last_run": 71,
+  "overall_avg_tone_4h": -0.869,
   "timeline": [
-    {
-      "time": "2026-08-08T22:15",
-      "avg_tone": -0.838,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-08-08T22:30",
-      "avg_tone": -1.56,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-08-08T22:45",
-      "avg_tone": -1.596,
-      "n_articles": 14
-    },
     {
       "time": "2026-08-08T23:00",
       "avg_tone": -2.431,
@@ -1223,145 +1208,160 @@
       "time": "2026-08-11T22:00",
       "avg_tone": -1.159,
       "n_articles": 27
+    },
+    {
+      "time": "2026-08-11T22:15",
+      "avg_tone": -1.231,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-08-11T22:30",
+      "avg_tone": 0.358,
+      "n_articles": 22
+    },
+    {
+      "time": "2026-08-11T23:00",
+      "avg_tone": -1.667,
+      "n_articles": 24
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 28,
-      "avg_tone": -0.081
+      "n": 12,
+      "avg_tone": -0.094
     },
     {
-      "source": "finanznachrichten.de",
+      "source": "radaronline.com",
       "n": 3,
-      "avg_tone": -0.602
+      "avg_tone": -3.587
     },
     {
-      "source": "simcoereformer.ca",
-      "n": 2,
-      "avg_tone": 2.128
-    },
-    {
-      "source": "stcatharinesstandard.ca",
-      "n": 2,
-      "avg_tone": -2.835
-    },
-    {
-      "source": "wwki.com",
-      "n": 2,
-      "avg_tone": -6.59
-    },
-    {
-      "source": "sandiegouniontribune.com",
-      "n": 2,
-      "avg_tone": -2.931
-    },
-    {
-      "source": "news4jax.com",
-      "n": 2,
-      "avg_tone": -2.505
-    },
-    {
-      "source": "intelligencer.ca",
-      "n": 2,
-      "avg_tone": 2.128
-    },
-    {
-      "source": "dailylocal.com",
-      "n": 2,
-      "avg_tone": 0.228
-    },
-    {
-      "source": "juniorminingnetwork.com",
-      "n": 2,
-      "avg_tone": 0.083
-    },
-    {
-      "source": "tennesseedaily.com",
+      "source": "californiatelegraph.com",
       "n": 2,
       "avg_tone": -0.58
     },
     {
-      "source": "mynewsla.com",
+      "source": "mcall.com",
       "n": 2,
-      "avg_tone": -7.29
+      "avg_tone": 0.228
     },
     {
-      "source": "mainlinemedianews.com",
+      "source": "orlandosentinel.com",
       "n": 2,
       "avg_tone": -2.931
     },
     {
-      "source": "sacurrent.com",
-      "n": 1,
-      "avg_tone": 1.0
+      "source": "kmhk.com",
+      "n": 2,
+      "avg_tone": 1.934
     },
     {
-      "source": "parisstaronline.com",
+      "source": "ksat.com",
+      "n": 2,
+      "avg_tone": -2.505
+    },
+    {
+      "source": "stardem.com",
+      "n": 2,
+      "avg_tone": -2.516
+    },
+    {
+      "source": "castanetkamloops.net",
+      "n": 2,
+      "avg_tone": -2.255
+    },
+    {
+      "source": "clickondetroit.com",
+      "n": 2,
+      "avg_tone": -2.505
+    },
+    {
+      "source": "toronto.citynews.ca",
       "n": 1,
-      "avg_tone": 2.128
+      "avg_tone": -6.709
+    },
+    {
+      "source": "ign.com",
+      "n": 1,
+      "avg_tone": -4.734
+    },
+    {
+      "source": "dailybulletin.com",
+      "n": 1,
+      "avg_tone": -4.797
+    },
+    {
+      "source": "hotair.com",
+      "n": 1,
+      "avg_tone": -7.447
+    },
+    {
+      "source": "brainerddispatch.com",
+      "n": 1,
+      "avg_tone": 7.502
     }
   ],
   "top_themes": [
     {
       "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 176
+      "n": 100
     },
     {
       "theme": "WB_895_MINING_SYSTEMS",
-      "n": 176
+      "n": 99
     },
     {
       "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 175
-    },
-    {
-      "theme": "WB_2936_GOLD",
-      "n": 158
+      "n": 99
     },
     {
       "theme": "ENV_METALS",
-      "n": 152
+      "n": 86
+    },
+    {
+      "theme": "WB_2936_GOLD",
+      "n": 86
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 95
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 93
-    },
-    {
-      "theme": "LEADER",
-      "n": 85
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
       "n": 81
     },
     {
+      "theme": "WB_135_TRANSPORT",
+      "n": 62
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 54
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 51
+    },
+    {
+      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
+      "n": 51
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 45
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 43
+    },
+    {
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 41
+    },
+    {
+      "theme": "NATURAL_DISASTER_WILDFIRE",
+      "n": 40
+    },
+    {
       "theme": "TAX_ECON_PRICE",
-      "n": 80
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 72
-    },
-    {
-      "theme": "ECON_TAXATION",
-      "n": 69
-    },
-    {
-      "theme": "EPU_POLICY_TAX",
-      "n": 69
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 67
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 60
+      "n": 39
     }
   ]
 }
