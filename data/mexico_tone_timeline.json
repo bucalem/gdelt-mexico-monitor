@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-11T09:43:20.758887+00:00",
-  "rows_total_scanned_last_run": 3998,
-  "rows_mexico_last_run": 44,
-  "overall_avg_tone_4h": -2.264,
+  "generated_at": "2026-08-11T10:34:28.528483+00:00",
+  "rows_total_scanned_last_run": 4355,
+  "rows_mexico_last_run": 62,
+  "overall_avg_tone_4h": -1.918,
   "timeline": [
-    {
-      "time": "2026-08-08T09:45",
-      "avg_tone": -0.912,
-      "n_articles": 1
-    },
-    {
-      "time": "2026-08-08T10:00",
-      "avg_tone": -3.52,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-08-08T10:15",
-      "avg_tone": 4.708,
-      "n_articles": 1
-    },
-    {
-      "time": "2026-08-08T10:30",
-      "avg_tone": 1.239,
-      "n_articles": 5
-    },
     {
       "time": "2026-08-08T10:45",
       "avg_tone": -1.955,
@@ -1263,145 +1243,160 @@
       "time": "2026-08-11T09:45",
       "avg_tone": -0.255,
       "n_articles": 11
+    },
+    {
+      "time": "2026-08-11T10:00",
+      "avg_tone": -0.41,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-08-11T10:15",
+      "avg_tone": 0.504,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-11T10:30",
+      "avg_tone": -1.018,
+      "n_articles": 16
     }
   ],
   "top_sources": [
     {
-      "source": "winnipegfreepress.com",
-      "n": 2,
-      "avg_tone": -5.581
-    },
-    {
-      "source": "wrestlezone.com",
-      "n": 2,
-      "avg_tone": -0.12
-    },
-    {
-      "source": "suncommercial.com",
-      "n": 2,
-      "avg_tone": 0.336
+      "source": "aawsat.com",
+      "n": 3,
+      "avg_tone": -1.978
     },
     {
       "source": "dailypolitical.com",
-      "n": 1,
-      "avg_tone": 1.336
-    },
-    {
-      "source": "floridaweekly.com",
-      "n": 1,
-      "avg_tone": 3.156
-    },
-    {
-      "source": "brisbanetimes.com.au",
-      "n": 1,
-      "avg_tone": 0.265
-    },
-    {
-      "source": "wncw.org",
-      "n": 1,
-      "avg_tone": 1.598
-    },
-    {
-      "source": "aol.co.uk",
-      "n": 1,
-      "avg_tone": 0.988
-    },
-    {
-      "source": "hospitalityireland.com",
-      "n": 1,
-      "avg_tone": 0.408
-    },
-    {
-      "source": "scoop.co.nz",
-      "n": 1,
-      "avg_tone": 0.954
-    },
-    {
-      "source": "wyomingpublicmedia.org",
-      "n": 1,
-      "avg_tone": 1.598
-    },
-    {
-      "source": "asiabulletin.com",
-      "n": 1,
-      "avg_tone": 3.236
+      "n": 2,
+      "avg_tone": 1.364
     },
     {
       "source": "foxnews.com",
-      "n": 1,
-      "avg_tone": -13.265
+      "n": 2,
+      "avg_tone": -9.065
     },
     {
-      "source": "leadership.ng",
-      "n": 1,
-      "avg_tone": -3.077
+      "source": "freemalaysiatoday.com",
+      "n": 2,
+      "avg_tone": -2.137
     },
     {
-      "source": "indiatimes.com",
+      "source": "stcatharinesstandard.ca",
+      "n": 2,
+      "avg_tone": -3.064
+    },
+    {
+      "source": "wellandtribune.ca",
+      "n": 2,
+      "avg_tone": -3.064
+    },
+    {
+      "source": "redbluffdailynews.com",
       "n": 1,
-      "avg_tone": -2.957
+      "avg_tone": -5.746
+    },
+    {
+      "source": "kpcw.org",
+      "n": 1,
+      "avg_tone": 1.598
+    },
+    {
+      "source": "newsweek.com",
+      "n": 1,
+      "avg_tone": -2.296
+    },
+    {
+      "source": "aljazeera.com",
+      "n": 1,
+      "avg_tone": -2.496
+    },
+    {
+      "source": "dailymail.com",
+      "n": 1,
+      "avg_tone": -2.293
+    },
+    {
+      "source": "daily-tribune.com",
+      "n": 1,
+      "avg_tone": 3.468
+    },
+    {
+      "source": "peninsuladailynews.com",
+      "n": 1,
+      "avg_tone": 2.684
+    },
+    {
+      "source": "wiov.com",
+      "n": 1,
+      "avg_tone": 4.358
+    },
+    {
+      "source": "nypost.com",
+      "n": 1,
+      "avg_tone": -9.898
     }
   ],
   "top_themes": [
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 151
+      "n": 703
     },
     {
       "theme": "KILL",
-      "n": 112
+      "n": 683
     },
     {
       "theme": "CRISISLEX_T03_DEAD",
-      "n": 109
+      "n": 676
     },
     {
       "theme": "CRISISLEX_T02_INJURED",
-      "n": 105
+      "n": 671
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 89
-    },
-    {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 76
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 68
-    },
-    {
-      "theme": "LEADER",
-      "n": 65
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 63
-    },
-    {
-      "theme": "NATURAL_DISASTER_EARTHQUAKE",
-      "n": 59
+      "theme": "EDUCATION",
+      "n": 151
     },
     {
       "theme": "TAX_WORLDMAMMALS_DOGS",
-      "n": 56
+      "n": 119
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 52
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 51
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 51
+      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
+      "n": 115
     },
     {
       "theme": "TAX_WORLDMAMMALS_DOG",
-      "n": 51
+      "n": 95
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 94
+    },
+    {
+      "theme": "ENV_SOLAR",
+      "n": 73
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 63
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 61
+    },
+    {
+      "theme": "AFFECT",
+      "n": 61
+    },
+    {
+      "theme": "LEADER",
+      "n": 60
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 60
     }
   ]
 }
