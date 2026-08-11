@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-08-11T06:33:25.253496+00:00",
-  "rows_total_scanned_last_run": 3276,
-  "rows_mexico_last_run": 54,
-  "overall_avg_tone_4h": -1.982,
+  "generated_at": "2026-08-11T07:51:47.728818+00:00",
+  "rows_total_scanned_last_run": 3383,
+  "rows_mexico_last_run": 70,
+  "overall_avg_tone_4h": -2.299,
   "timeline": [
-    {
-      "time": "2026-08-08T06:45",
-      "avg_tone": -0.504,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-08-08T07:00",
-      "avg_tone": 0.103,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-08-08T07:15",
-      "avg_tone": -0.041,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-08T07:30",
-      "avg_tone": 0.433,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-08-08T07:45",
-      "avg_tone": -0.339,
-      "n_articles": 11
-    },
     {
       "time": "2026-08-08T08:00",
       "avg_tone": 0.018,
@@ -1268,145 +1243,165 @@
       "time": "2026-08-11T06:30",
       "avg_tone": -1.69,
       "n_articles": 11
+    },
+    {
+      "time": "2026-08-11T07:15",
+      "avg_tone": -3.234,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-08-11T07:30",
+      "avg_tone": -3.573,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-11T07:45",
+      "avg_tone": -2.108,
+      "n_articles": 28
+    },
+    {
+      "time": "2026-08-11T08:00",
+      "avg_tone": -2.501,
+      "n_articles": 17
     }
   ],
   "top_sources": [
     {
-      "source": "nuclear-news.net",
+      "source": "riotimesonline.com",
+      "n": 14,
+      "avg_tone": -1.584
+    },
+    {
+      "source": "foodsafetynews.com",
       "n": 2,
-      "avg_tone": -4.288
+      "avg_tone": -1.282
     },
     {
-      "source": "cagesideseats.com",
+      "source": "indiatimes.com",
       "n": 2,
-      "avg_tone": 0.382
+      "avg_tone": -2.153
     },
     {
-      "source": "proactiveinvestors.com.au",
+      "source": "finanznachrichten.de",
+      "n": 2,
+      "avg_tone": 3.225
+    },
+    {
+      "source": "aldianews.com",
+      "n": 2,
+      "avg_tone": -4.561
+    },
+    {
+      "source": "news4jax.com",
       "n": 1,
-      "avg_tone": 1.379
+      "avg_tone": -5.671
     },
     {
-      "source": "wral.com",
+      "source": "hindustantimes.com",
       "n": 1,
-      "avg_tone": -5.816
+      "avg_tone": -4.478
     },
     {
-      "source": "apr.org",
+      "source": "indiancooperative.com",
       "n": 1,
-      "avg_tone": -4.159
+      "avg_tone": 1.772
     },
     {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 1.602
-    },
-    {
-      "source": "wvik.org",
-      "n": 1,
-      "avg_tone": -4.159
-    },
-    {
-      "source": "kzyx.org",
-      "n": 1,
-      "avg_tone": -4.159
-    },
-    {
-      "source": "singaporestar.com",
-      "n": 1,
-      "avg_tone": 13.092
-    },
-    {
-      "source": "wnmufm.org",
+      "source": "wuky.org",
       "n": 1,
       "avg_tone": -4.159
     },
     {
-      "source": "wutc.org",
+      "source": "kunr.org",
       "n": 1,
       "avg_tone": -4.159
     },
     {
-      "source": "fox8live.com",
-      "n": 1,
-      "avg_tone": -3.891
-    },
-    {
-      "source": "delawarepublic.org",
+      "source": "wjct.org",
       "n": 1,
       "avg_tone": -4.159
     },
     {
-      "source": "wastedive.com",
+      "source": "theage.com.au",
       "n": 1,
-      "avg_tone": -1.455
+      "avg_tone": 0.412
     },
     {
-      "source": "mankatofreepress.com",
+      "source": "northcountrypublicradio.org",
       "n": 1,
-      "avg_tone": -2.97
+      "avg_tone": -3.803
+    },
+    {
+      "source": "interlochenpublicradio.org",
+      "n": 1,
+      "avg_tone": -4.159
+    },
+    {
+      "source": "wcsufm.org",
+      "n": 1,
+      "avg_tone": -4.159
     }
   ],
   "top_themes": [
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 238
-    },
-    {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 232
+      "n": 271
     },
     {
       "theme": "NATURAL_DISASTER_EARTHQUAKE",
-      "n": 186
+      "n": 251
+    },
+    {
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 242
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 151
+      "n": 203
     },
     {
-      "theme": "LEADER",
-      "n": 140
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 136
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 135
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 164
     },
     {
       "theme": "NATURAL_DISASTER_EARTHQUAKES",
-      "n": 128
+      "n": 163
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 162
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 159
+    },
+    {
+      "theme": "LEADER",
+      "n": 155
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 148
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 133
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 124
     },
     {
       "theme": "CRISISLEX_C04_LOGISTICS_TRANSPORT",
+      "n": 109
+    },
+    {
+      "theme": "ENV_METALS",
+      "n": 98
+    },
+    {
+      "theme": "ECON_INFLATION",
       "n": 95
-    },
-    {
-      "theme": "TAX_FNCACT_WORKERS",
-      "n": 82
-    },
-    {
-      "theme": "TAX_FNCACT_AUTHORITIES",
-      "n": 80
-    },
-    {
-      "theme": "EPU_POLICY_AUTHORITIES",
-      "n": 80
-    },
-    {
-      "theme": "AFFECT",
-      "n": 73
-    },
-    {
-      "theme": "CRISISLEX_O02_RESPONSEAGENCIESATCRISIS",
-      "n": 70
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 68
     }
   ]
 }
