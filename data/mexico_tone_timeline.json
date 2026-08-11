@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-11T17:37:56.218703+00:00",
-  "rows_total_scanned_last_run": 6214,
-  "rows_mexico_last_run": 103,
-  "overall_avg_tone_4h": -0.058,
+  "generated_at": "2026-08-11T18:33:08.212689+00:00",
+  "rows_total_scanned_last_run": 6155,
+  "rows_mexico_last_run": 93,
+  "overall_avg_tone_4h": -0.225,
   "timeline": [
-    {
-      "time": "2026-08-08T17:45",
-      "avg_tone": 0.754,
-      "n_articles": 27
-    },
-    {
-      "time": "2026-08-08T18:00",
-      "avg_tone": -0.932,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-08-08T18:15",
-      "avg_tone": -1.736,
-      "n_articles": 23
-    },
-    {
-      "time": "2026-08-08T18:30",
-      "avg_tone": 0.788,
-      "n_articles": 20
-    },
     {
       "time": "2026-08-08T18:45",
       "avg_tone": -1.792,
@@ -1233,18 +1213,43 @@
       "time": "2026-08-11T17:45",
       "avg_tone": -0.89,
       "n_articles": 21
+    },
+    {
+      "time": "2026-08-11T18:00",
+      "avg_tone": -1.069,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-08-11T18:15",
+      "avg_tone": -0.891,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-08-11T18:30",
+      "avg_tone": -0.129,
+      "n_articles": 35
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 23,
-      "avg_tone": 0.975
+      "n": 29,
+      "avg_tone": 0.441
+    },
+    {
+      "source": "riviera-maya-news.com",
+      "n": 5,
+      "avg_tone": -0.224
+    },
+    {
+      "source": "dailygazette.com",
+      "n": 3,
+      "avg_tone": 1.149
     },
     {
       "source": "fool.com",
-      "n": 5,
-      "avg_tone": 2.742
+      "n": 3,
+      "avg_tone": 2.691
     },
     {
       "source": "cubaheadlines.com",
@@ -1252,14 +1257,9 @@
       "avg_tone": -5.473
     },
     {
-      "source": "techdirt.com",
-      "n": 3,
-      "avg_tone": -6.832
-    },
-    {
-      "source": "breitbart.com",
-      "n": 3,
-      "avg_tone": -5.572
+      "source": "cbc.ca",
+      "n": 2,
+      "avg_tone": -1.169
     },
     {
       "source": "parisguardian.com",
@@ -1267,111 +1267,106 @@
       "avg_tone": -2.034
     },
     {
-      "source": "nypost.com",
-      "n": 2,
-      "avg_tone": -3.983
-    },
-    {
-      "source": "dailykos.com",
-      "n": 2,
-      "avg_tone": -0.205
-    },
-    {
-      "source": "sunjournal.com",
-      "n": 2,
-      "avg_tone": -0.435
-    },
-    {
-      "source": "jpost.com",
-      "n": 2,
-      "avg_tone": -2.702
-    },
-    {
-      "source": "tsn.ca",
-      "n": 2,
-      "avg_tone": 0.228
-    },
-    {
-      "source": "dailymail.com",
-      "n": 2,
-      "avg_tone": 1.949
-    },
-    {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -1.007
-    },
-    {
-      "source": "kgrt.com",
+      "source": "powelltribune.com",
       "n": 1,
-      "avg_tone": 1.653
+      "avg_tone": 2.951
     },
     {
-      "source": "b93.net",
+      "source": "dglobe.com",
       "n": 1,
-      "avg_tone": -0.398
+      "avg_tone": -2.232
+    },
+    {
+      "source": "pv-tech.org",
+      "n": 1,
+      "avg_tone": 3.62
+    },
+    {
+      "source": "businessinsider.com",
+      "n": 1,
+      "avg_tone": -0.931
+    },
+    {
+      "source": "moneylife.in",
+      "n": 1,
+      "avg_tone": 2.86
+    },
+    {
+      "source": "nzherald.co.nz",
+      "n": 1,
+      "avg_tone": -3.048
+    },
+    {
+      "source": "mycolumbuspower.com",
+      "n": 1,
+      "avg_tone": -5.072
+    },
+    {
+      "source": "ninersnation.com",
+      "n": 1,
+      "avg_tone": 0.0
     }
   ],
   "top_themes": [
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 205
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 257
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 112
+      "theme": "WB_405_BUSINESS_CLIMATE",
+      "n": 215
+    },
+    {
+      "theme": "WB_2531_INSPECTIONS_LICENSING_AND_PERMITS",
+      "n": 215
+    },
+    {
+      "theme": "WB_2530_BUSINESS_ENVIRONMENT",
+      "n": 215
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 80
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 104
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 73
-    },
-    {
-      "theme": "AFFECT",
-      "n": 66
+      "n": 80
     },
     {
       "theme": "LEADER",
-      "n": 64
+      "n": 79
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 62
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 59
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 58
-    },
-    {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 57
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 56
+      "n": 55
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 54
+      "n": 55
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 54
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "theme": "MEDICAL",
       "n": 53
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 52
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 47
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 47
+    },
+    {
+      "theme": "AFFECT",
+      "n": 46
+    },
+    {
+      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "n": 45
+    },
+    {
+      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
+      "n": 45
     }
   ]
 }
