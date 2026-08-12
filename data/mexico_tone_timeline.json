@@ -1,39 +1,9 @@
 {
-  "generated_at": "2026-08-12T06:42:23.079558+00:00",
-  "rows_total_scanned_last_run": 4143,
-  "rows_mexico_last_run": 95,
-  "overall_avg_tone_4h": -1.307,
+  "generated_at": "2026-08-12T08:03:18.223158+00:00",
+  "rows_total_scanned_last_run": 3520,
+  "rows_mexico_last_run": 105,
+  "overall_avg_tone_4h": -1.291,
   "timeline": [
-    {
-      "time": "2026-08-09T06:45",
-      "avg_tone": -0.903,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-08-09T07:00",
-      "avg_tone": -0.845,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-08-09T07:15",
-      "avg_tone": 2.307,
-      "n_articles": 2
-    },
-    {
-      "time": "2026-08-09T07:30",
-      "avg_tone": -0.151,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-09T07:45",
-      "avg_tone": -0.628,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-08-09T08:00",
-      "avg_tone": 1.474,
-      "n_articles": 21
-    },
     {
       "time": "2026-08-09T08:15",
       "avg_tone": 1.624,
@@ -1193,145 +1163,165 @@
       "time": "2026-08-12T06:45",
       "avg_tone": -1.008,
       "n_articles": 23
+    },
+    {
+      "time": "2026-08-12T07:15",
+      "avg_tone": -1.379,
+      "n_articles": 34
+    },
+    {
+      "time": "2026-08-12T07:30",
+      "avg_tone": -0.936,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-08-12T07:45",
+      "avg_tone": -1.307,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-08-12T08:00",
+      "avg_tone": 0.476,
+      "n_articles": 27
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 10,
-      "avg_tone": -2.659
+      "source": "clactonandfrintongazette.co.uk",
+      "n": 2,
+      "avg_tone": 0.939
     },
     {
-      "source": "laprensa.org",
-      "n": 4,
-      "avg_tone": -0.617
+      "source": "cravenherald.co.uk",
+      "n": 2,
+      "avg_tone": 0.939
     },
     {
-      "source": "wvik.org",
+      "source": "edp24.co.uk",
+      "n": 2,
+      "avg_tone": 2.241
+    },
+    {
+      "source": "somersetcountygazette.co.uk",
+      "n": 2,
+      "avg_tone": 0.939
+    },
+    {
+      "source": "interlochenpublicradio.org",
       "n": 2,
       "avg_tone": -2.681
     },
     {
-      "source": "kmuw.org",
+      "source": "eveningnews24.co.uk",
+      "n": 2,
+      "avg_tone": 2.241
+    },
+    {
+      "source": "lufkindailynews.com",
+      "n": 2,
+      "avg_tone": 2.065
+    },
+    {
+      "source": "kpbs.org",
+      "n": 2,
+      "avg_tone": 0.614
+    },
+    {
+      "source": "wuky.org",
       "n": 2,
       "avg_tone": -2.681
     },
     {
-      "source": "santamariatimes.com",
-      "n": 2,
-      "avg_tone": -1.088
-    },
-    {
-      "source": "foodpoisoningbulletin.com",
-      "n": 2,
-      "avg_tone": -4.399
-    },
-    {
-      "source": "texarkanagazette.com",
-      "n": 2,
-      "avg_tone": -2.723
-    },
-    {
-      "source": "wypr.org",
+      "source": "wvtf.org",
       "n": 2,
       "avg_tone": -2.681
     },
     {
-      "source": "kansaspublicradio.org",
+      "source": "enfieldindependent.co.uk",
+      "n": 2,
+      "avg_tone": 0.144
+    },
+    {
+      "source": "hillingdontimes.co.uk",
+      "n": 2,
+      "avg_tone": 0.144
+    },
+    {
+      "source": "wsws.org",
+      "n": 2,
+      "avg_tone": -4.401
+    },
+    {
+      "source": "witneygazette.co.uk",
+      "n": 2,
+      "avg_tone": 0.144
+    },
+    {
+      "source": "wpsu.org",
       "n": 2,
       "avg_tone": -2.681
-    },
-    {
-      "source": "spokesman.com",
-      "n": 2,
-      "avg_tone": -4.203
-    },
-    {
-      "source": "wfae.org",
-      "n": 2,
-      "avg_tone": -2.681
-    },
-    {
-      "source": "kzyx.org",
-      "n": 2,
-      "avg_tone": -2.681
-    },
-    {
-      "source": "theage.com.au",
-      "n": 1,
-      "avg_tone": -1.249
-    },
-    {
-      "source": "westerntelegraph.co.uk",
-      "n": 1,
-      "avg_tone": -0.253
-    },
-    {
-      "source": "pr-inside.com",
-      "n": 1,
-      "avg_tone": 2.102
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 155
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 150
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 149
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 149
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 186
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 141
+      "n": 170
     },
     {
       "theme": "NATURAL_DISASTER_EARTHQUAKE",
-      "n": 130
+      "n": 165
     },
     {
-      "theme": "LEADER",
-      "n": 128
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 125
+      "theme": "GENERAL_HEALTH",
+      "n": 147
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 125
+      "n": 134
     },
     {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "theme": "LEADER",
       "n": 125
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 116
+      "n": 122
     },
     {
-      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
-      "n": 112
+      "theme": "AFFECT",
+      "n": 118
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
+      "theme": "MEDICAL",
+      "n": 113
+    },
+    {
+      "theme": "ARMEDCONFLICT",
       "n": 110
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
       "n": 107
     },
     {
-      "theme": "ENV_METALS",
-      "n": 107
+      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
+      "n": 105
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 102
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 96
+    },
+    {
+      "theme": "TAX_FNCACT_WORKERS",
+      "n": 94
     }
   ]
 }
