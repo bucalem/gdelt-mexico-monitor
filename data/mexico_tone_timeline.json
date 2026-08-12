@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-12T22:08:49.657421+00:00",
-  "rows_total_scanned_last_run": 4960,
-  "rows_mexico_last_run": 66,
-  "overall_avg_tone_4h": -0.687,
+  "generated_at": "2026-08-12T22:58:11.896677+00:00",
+  "rows_total_scanned_last_run": 2684,
+  "rows_mexico_last_run": 49,
+  "overall_avg_tone_4h": -0.672,
   "timeline": [
-    {
-      "time": "2026-08-09T22:15",
-      "avg_tone": -2.668,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-08-09T22:30",
-      "avg_tone": -2.821,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-08-09T22:45",
-      "avg_tone": -2.667,
-      "n_articles": 9
-    },
     {
       "time": "2026-08-09T23:00",
       "avg_tone": -2.636,
@@ -1148,13 +1133,48 @@
       "time": "2026-08-12T22:15",
       "avg_tone": 0.94,
       "n_articles": 16
+    },
+    {
+      "time": "2026-08-12T22:30",
+      "avg_tone": -0.207,
+      "n_articles": 33
     }
   ],
   "top_sources": [
     {
+      "source": "latintimes.com",
+      "n": 2,
+      "avg_tone": -3.252
+    },
+    {
+      "source": "heraldnet.com",
+      "n": 2,
+      "avg_tone": 2.26
+    },
+    {
+      "source": "grandforksgazette.ca",
+      "n": 2,
+      "avg_tone": -1.76
+    },
+    {
+      "source": "kimberleybulletin.com",
+      "n": 2,
+      "avg_tone": -1.76
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 2.29
+    },
+    {
+      "source": "terracestandard.com",
+      "n": 2,
+      "avg_tone": -1.76
+    },
+    {
       "source": "iheart.com",
-      "n": 5,
-      "avg_tone": -3.526
+      "n": 2,
+      "avg_tone": -1.206
     },
     {
       "source": "sookenewsmirror.com",
@@ -1172,121 +1192,91 @@
       "avg_tone": 2.447
     },
     {
-      "source": "inmaricopa.com",
-      "n": 2,
-      "avg_tone": 2.241
-    },
-    {
-      "source": "mapleridgenews.com",
-      "n": 2,
-      "avg_tone": -1.76
-    },
-    {
-      "source": "morningjournal.com",
-      "n": 2,
-      "avg_tone": 0.441
-    },
-    {
-      "source": "nanaimobulletin.com",
-      "n": 2,
-      "avg_tone": -1.76
-    },
-    {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -1.807
-    },
-    {
-      "source": "wdtimes.com",
+      "source": "wvax.com",
       "n": 1,
-      "avg_tone": 2.905
+      "avg_tone": 1.983
     },
     {
-      "source": "niagarafallsreview.ca",
+      "source": "venezuelastar.com",
       "n": 1,
-      "avg_tone": 2.457
+      "avg_tone": 2.428
     },
     {
-      "source": "cornwallseawaynews.com",
+      "source": "insidehalton.com",
       "n": 1,
-      "avg_tone": -0.622
+      "avg_tone": 2.553
     },
     {
-      "source": "cbc.ca",
+      "source": "keyt.com",
       "n": 1,
-      "avg_tone": -1.687
+      "avg_tone": -5.997
     },
     {
-      "source": "aol.com",
+      "source": "tickerreport.com",
       "n": 1,
-      "avg_tone": 1.078
-    },
-    {
-      "source": "govtech.com",
-      "n": 1,
-      "avg_tone": 1.587
+      "avg_tone": 10.725
     }
   ],
   "top_themes": [
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 67
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 64
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 62
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 50
-    },
-    {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 50
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 46
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 45
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 41
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 41
-    },
-    {
-      "theme": "WB_2936_GOLD",
-      "n": 41
+      "n": 43
     },
     {
       "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 42
+    },
+    {
+      "theme": "AFFECT",
       "n": 40
     },
     {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 38
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 39
     },
     {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 38
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 35
     },
     {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 36
+      "theme": "GENERAL_HEALTH",
+      "n": 29
     },
     {
-      "theme": "ENV_METALS",
-      "n": 34
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 29
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 29
+    },
+    {
+      "theme": "CRISISLEX_T09_DISPLACEDRELOCATEDEVACUATED",
+      "n": 28
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 28
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 27
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 27
+    },
+    {
+      "theme": "NATURAL_DISASTER_EARTHQUAKE",
+      "n": 24
+    },
+    {
+      "theme": "CRISISLEX_T02_INJURED",
+      "n": 23
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 23
     }
   ]
 }
