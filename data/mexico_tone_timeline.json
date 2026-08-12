@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-08-12T08:03:18.223158+00:00",
-  "rows_total_scanned_last_run": 3520,
+  "generated_at": "2026-08-12T09:30:04.027495+00:00",
+  "rows_total_scanned_last_run": 4248,
   "rows_mexico_last_run": 105,
-  "overall_avg_tone_4h": -1.291,
+  "overall_avg_tone_4h": -0.962,
   "timeline": [
-    {
-      "time": "2026-08-09T08:15",
-      "avg_tone": 1.624,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-08-09T08:30",
-      "avg_tone": 1.228,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-08-09T08:45",
-      "avg_tone": 0.537,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-08-09T09:00",
-      "avg_tone": 1.556,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-09T09:15",
-      "avg_tone": 0.911,
-      "n_articles": 16
-    },
     {
       "time": "2026-08-09T09:30",
       "avg_tone": 2.444,
@@ -1183,145 +1158,165 @@
       "time": "2026-08-12T08:00",
       "avg_tone": 0.476,
       "n_articles": 27
+    },
+    {
+      "time": "2026-08-12T08:45",
+      "avg_tone": -0.298,
+      "n_articles": 30
+    },
+    {
+      "time": "2026-08-12T09:00",
+      "avg_tone": -1.034,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-08-12T09:15",
+      "avg_tone": -1.026,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-08-12T09:30",
+      "avg_tone": 0.403,
+      "n_articles": 29
     }
   ],
   "top_sources": [
     {
-      "source": "clactonandfrintongazette.co.uk",
+      "source": "artdaily.com",
+      "n": 3,
+      "avg_tone": 2.902
+    },
+    {
+      "source": "newstribune.com",
+      "n": 3,
+      "avg_tone": -0.579
+    },
+    {
+      "source": "harwichandmanningtreestandard.co.uk",
       "n": 2,
       "avg_tone": 0.939
     },
     {
-      "source": "cravenherald.co.uk",
+      "source": "wgcu.org",
+      "n": 2,
+      "avg_tone": -0.774
+    },
+    {
+      "source": "saultstar.com",
+      "n": 2,
+      "avg_tone": -2.054
+    },
+    {
+      "source": "moneycontrol.com",
+      "n": 2,
+      "avg_tone": 1.291
+    },
+    {
+      "source": "burytimes.co.uk",
       "n": 2,
       "avg_tone": 0.939
     },
     {
-      "source": "edp24.co.uk",
-      "n": 2,
-      "avg_tone": 2.241
-    },
-    {
-      "source": "somersetcountygazette.co.uk",
+      "source": "timesandstar.co.uk",
       "n": 2,
       "avg_tone": 0.939
     },
     {
-      "source": "interlochenpublicradio.org",
+      "source": "asianpacificpost.com",
       "n": 2,
-      "avg_tone": -2.681
+      "avg_tone": -4.646
     },
     {
-      "source": "eveningnews24.co.uk",
+      "source": "guardian-series.co.uk",
       "n": 2,
-      "avg_tone": 2.241
+      "avg_tone": 0.939
     },
     {
-      "source": "lufkindailynews.com",
+      "source": "heraldseries.co.uk",
       "n": 2,
-      "avg_tone": 2.065
+      "avg_tone": 0.939
     },
     {
-      "source": "kpbs.org",
+      "source": "kilburntimes.co.uk",
       "n": 2,
-      "avg_tone": 0.614
+      "avg_tone": 0.939
     },
     {
-      "source": "wuky.org",
-      "n": 2,
-      "avg_tone": -2.681
+      "source": "wboi.org",
+      "n": 1,
+      "avg_tone": -2.4
     },
     {
-      "source": "wvtf.org",
-      "n": 2,
-      "avg_tone": -2.681
+      "source": "kuow.org",
+      "n": 1,
+      "avg_tone": -2.4
     },
     {
-      "source": "enfieldindependent.co.uk",
-      "n": 2,
-      "avg_tone": 0.144
-    },
-    {
-      "source": "hillingdontimes.co.uk",
-      "n": 2,
-      "avg_tone": 0.144
-    },
-    {
-      "source": "wsws.org",
-      "n": 2,
-      "avg_tone": -4.401
-    },
-    {
-      "source": "witneygazette.co.uk",
-      "n": 2,
-      "avg_tone": 0.144
-    },
-    {
-      "source": "wpsu.org",
-      "n": 2,
-      "avg_tone": -2.681
+      "source": "torontotelegraph.com",
+      "n": 1,
+      "avg_tone": 0.347
     }
   ],
   "top_themes": [
     {
       "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 186
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 170
+      "n": 160
     },
     {
       "theme": "NATURAL_DISASTER_EARTHQUAKE",
-      "n": 165
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 147
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 134
+      "n": 127
     },
     {
       "theme": "LEADER",
-      "n": 125
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 122
-    },
-    {
-      "theme": "AFFECT",
       "n": 118
     },
     {
-      "theme": "MEDICAL",
+      "theme": "USPEC_POLITICS_GENERAL1",
       "n": 113
     },
     {
-      "theme": "ARMEDCONFLICT",
-      "n": 110
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 112
     },
     {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 107
-    },
-    {
-      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
-      "n": 105
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 112
     },
     {
       "theme": "GENERAL_GOVERNMENT",
-      "n": 102
+      "n": 98
     },
     {
       "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 96
+      "n": 95
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 92
+    },
+    {
+      "theme": "AFFECT",
+      "n": 86
     },
     {
       "theme": "TAX_FNCACT_WORKERS",
-      "n": 94
+      "n": 69
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 66
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 61
+    },
+    {
+      "theme": "CRISISLEX_T02_INJURED",
+      "n": 61
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 59
     }
   ]
 }
