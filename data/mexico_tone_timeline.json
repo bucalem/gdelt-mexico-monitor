@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-12T15:38:19.179640+00:00",
-  "rows_total_scanned_last_run": 6801,
-  "rows_mexico_last_run": 142,
-  "overall_avg_tone_4h": 0.361,
+  "generated_at": "2026-08-12T16:33:11.349732+00:00",
+  "rows_total_scanned_last_run": 6561,
+  "rows_mexico_last_run": 141,
+  "overall_avg_tone_4h": 0.133,
   "timeline": [
-    {
-      "time": "2026-08-09T15:45",
-      "avg_tone": -0.134,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-08-09T16:00",
-      "avg_tone": -0.363,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-09T16:15",
-      "avg_tone": -1.214,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-09T16:30",
-      "avg_tone": -1.948,
-      "n_articles": 13
-    },
     {
       "time": "2026-08-09T16:45",
       "avg_tone": 0.122,
@@ -1158,13 +1138,68 @@
       "time": "2026-08-12T15:45",
       "avg_tone": -0.379,
       "n_articles": 41
+    },
+    {
+      "time": "2026-08-12T16:00",
+      "avg_tone": 0.524,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-08-12T16:15",
+      "avg_tone": -0.023,
+      "n_articles": 34
+    },
+    {
+      "time": "2026-08-12T16:30",
+      "avg_tone": -0.685,
+      "n_articles": 43
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 11,
+      "n": 2,
       "avg_tone": -1.007
+    },
+    {
+      "source": "wklh.com",
+      "n": 2,
+      "avg_tone": 0.812
+    },
+    {
+      "source": "manilatimes.net",
+      "n": 2,
+      "avg_tone": -2.644
+    },
+    {
+      "source": "dailykos.com",
+      "n": 2,
+      "avg_tone": 0.19
+    },
+    {
+      "source": "rfdtv.com",
+      "n": 2,
+      "avg_tone": 0.265
+    },
+    {
+      "source": "rock102.com",
+      "n": 2,
+      "avg_tone": 0.809
+    },
+    {
+      "source": "wdbr.com",
+      "n": 2,
+      "avg_tone": 0.809
+    },
+    {
+      "source": "mesabitribune.com",
+      "n": 2,
+      "avg_tone": 1.606
+    },
+    {
+      "source": "juniorminingnetwork.com",
+      "n": 2,
+      "avg_tone": 0.954
     },
     {
       "source": "thegazette.com",
@@ -1175,11 +1210,6 @@
       "source": "mix1063.com",
       "n": 2,
       "avg_tone": 0.809
-    },
-    {
-      "source": "breitbart.com",
-      "n": 2,
-      "avg_tone": -1.217
     },
     {
       "source": "q101online.com",
@@ -1200,103 +1230,68 @@
       "source": "i100rocks.com",
       "n": 2,
       "avg_tone": 0.809
-    },
-    {
-      "source": "z955.com",
-      "n": 2,
-      "avg_tone": 0.809
-    },
-    {
-      "source": "969wsig.com",
-      "n": 2,
-      "avg_tone": 0.809
-    },
-    {
-      "source": "kafe.com",
-      "n": 2,
-      "avg_tone": 0.809
-    },
-    {
-      "source": "jammin983.com",
-      "n": 2,
-      "avg_tone": 0.812
-    },
-    {
-      "source": "wzid.com",
-      "n": 2,
-      "avg_tone": 0.809
-    },
-    {
-      "source": "more961.com",
-      "n": 2,
-      "avg_tone": 0.809
-    },
-    {
-      "source": "wyomingnewsnow.tv",
-      "n": 2,
-      "avg_tone": 1.606
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 169
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 146
+      "n": 196
     },
     {
       "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 129
+      "n": 128
     },
     {
-      "theme": "WB_137_WATER",
-      "n": 129
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 122
+      "theme": "LEADER",
+      "n": 121
     },
     {
       "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
-      "n": 113
-    },
-    {
-      "theme": "TAX_WORLDFISH_FISH",
-      "n": 111
+      "n": 116
     },
     {
       "theme": "ECON_INFLATION",
-      "n": 110
+      "n": 113
     },
     {
       "theme": "WB_442_INFLATION",
-      "n": 110
+      "n": 113
     },
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 104
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 106
     },
     {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 101
+      "theme": "GENERAL_HEALTH",
+      "n": 99
     },
     {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 93
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 87
     },
     {
-      "theme": "WB_2938_TIN",
-      "n": 90
+      "theme": "MEDICAL",
+      "n": 78
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 75
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 74
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 79
+      "n": 74
     },
     {
-      "theme": "NATURAL_DISASTER_EARTHQUAKE",
-      "n": 75
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 74
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 69
     }
   ]
 }
