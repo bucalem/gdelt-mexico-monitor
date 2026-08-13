@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-13T08:04:50.594314+00:00",
-  "rows_total_scanned_last_run": 3720,
-  "rows_mexico_last_run": 71,
-  "overall_avg_tone_4h": 0.603,
+  "generated_at": "2026-08-13T09:31:15.282867+00:00",
+  "rows_total_scanned_last_run": 3960,
+  "rows_mexico_last_run": 40,
+  "overall_avg_tone_4h": 0.613,
   "timeline": [
-    {
-      "time": "2026-08-10T08:15",
-      "avg_tone": -2.198,
-      "n_articles": 23
-    },
-    {
-      "time": "2026-08-10T09:00",
-      "avg_tone": -0.562,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-08-10T09:15",
-      "avg_tone": -0.568,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-08-10T09:30",
-      "avg_tone": -0.982,
-      "n_articles": 16
-    },
     {
       "time": "2026-08-10T09:45",
       "avg_tone": -2.143,
@@ -1138,145 +1118,165 @@
       "time": "2026-08-13T08:00",
       "avg_tone": 1.021,
       "n_articles": 13
+    },
+    {
+      "time": "2026-08-13T08:45",
+      "avg_tone": -1.346,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-13T09:00",
+      "avg_tone": -0.863,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-13T09:15",
+      "avg_tone": -0.223,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-08-13T09:30",
+      "avg_tone": -0.494,
+      "n_articles": 14
     }
   ],
   "top_sources": [
     {
-      "source": "fool.com",
-      "n": 6,
-      "avg_tone": 2.061
+      "source": "riotimesonline.com",
+      "n": 4,
+      "avg_tone": 0.084
     },
     {
-      "source": "santafenewmexican.com",
+      "source": "cnn.com",
       "n": 3,
-      "avg_tone": -1.739
+      "avg_tone": -2.558
     },
     {
-      "source": "caribbeanherald.com",
+      "source": "ivpressonline.com",
+      "n": 3,
+      "avg_tone": -0.747
+    },
+    {
+      "source": "aol.co.uk",
       "n": 2,
-      "avg_tone": 2.684
+      "avg_tone": -1.94
     },
     {
-      "source": "cincinnatisun.com",
+      "source": "grist.org",
       "n": 2,
-      "avg_tone": 2.684
+      "avg_tone": -0.396
     },
     {
-      "source": "coronadonewsca.com",
+      "source": "foodpoisonjournal.com",
       "n": 2,
-      "avg_tone": 0.691
+      "avg_tone": -1.357
     },
     {
-      "source": "zimbabwestar.com",
-      "n": 2,
-      "avg_tone": 2.496
-    },
-    {
-      "source": "asiaone.com",
-      "n": 2,
-      "avg_tone": -0.363
-    },
-    {
-      "source": "clevelandstar.com",
-      "n": 2,
-      "avg_tone": 2.684
-    },
-    {
-      "source": "newzealandstar.com",
-      "n": 2,
-      "avg_tone": 2.684
-    },
-    {
-      "source": "mainemirror.com",
+      "source": "rnanews.com",
       "n": 1,
-      "avg_tone": 4.0
+      "avg_tone": -1.07
     },
     {
-      "source": "pagesix.com",
+      "source": "sanews.gov.za",
       "n": 1,
-      "avg_tone": -3.125
+      "avg_tone": 1.286
     },
     {
-      "source": "indiagazette.com",
+      "source": "planetf1.com",
       "n": 1,
-      "avg_tone": 4.0
+      "avg_tone": 1.63
     },
     {
-      "source": "kpbs.org",
+      "source": "abcnews.com",
       "n": 1,
-      "avg_tone": 4.455
+      "avg_tone": 0.419
     },
     {
-      "source": "yahoo.com",
+      "source": "hurriyetdailynews.com",
       "n": 1,
-      "avg_tone": -2.247
+      "avg_tone": -0.687
     },
     {
-      "source": "jamaicaobserver.com",
+      "source": "prestigeonline.com",
       "n": 1,
-      "avg_tone": 4.076
+      "avg_tone": 2.24
+    },
+    {
+      "source": "journal-advocate.com",
+      "n": 1,
+      "avg_tone": 1.706
+    },
+    {
+      "source": "sbsun.com",
+      "n": 1,
+      "avg_tone": 1.108
+    },
+    {
+      "source": "cagesideseats.com",
+      "n": 1,
+      "avg_tone": -2.323
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 87
+      "theme": "TAX_ETHNICITY_INDIGENOUS",
+      "n": 143
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 80
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 76
-    },
-    {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 48
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 45
-    },
-    {
-      "theme": "LEADER",
-      "n": 44
+      "theme": "ETH_INDIGINOUS",
+      "n": 143
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 63
+    },
+    {
+      "theme": "BORDER",
+      "n": 54
+    },
+    {
+      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
+      "n": 41
+    },
+    {
+      "theme": "WB_3007_NATIONAL_PARKS",
+      "n": 40
+    },
+    {
+      "theme": "WB_1833_PROTECTED_AREAS_SYSTEMS",
+      "n": 40
+    },
+    {
+      "theme": "WB_1829_ECOSYSTEM_MANAGEMENT",
+      "n": 40
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 39
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 38
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 37
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 34
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 36
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 36
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 35
-    },
-    {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 35
-    },
-    {
-      "theme": "NATURAL_DISASTER_EARTHQUAKE",
+      "theme": "EPU_POLICY_GOVERNMENT",
       "n": 32
     },
     {
-      "theme": "TAX_FNCACT_CHIEF",
+      "theme": "GENERAL_GOVERNMENT",
       "n": 31
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 30
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 27
     }
   ]
 }
