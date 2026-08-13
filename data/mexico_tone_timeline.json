@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-13T10:42:21.964407+00:00",
-  "rows_total_scanned_last_run": 4376,
-  "rows_mexico_last_run": 40,
-  "overall_avg_tone_4h": 0.41,
+  "generated_at": "2026-08-13T11:27:09.032962+00:00",
+  "rows_total_scanned_last_run": 4357,
+  "rows_mexico_last_run": 57,
+  "overall_avg_tone_4h": -0.058,
   "timeline": [
-    {
-      "time": "2026-08-10T10:45",
-      "avg_tone": -2.588,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-08-10T11:00",
-      "avg_tone": -1.853,
-      "n_articles": 23
-    },
-    {
-      "time": "2026-08-10T11:15",
-      "avg_tone": -3.26,
-      "n_articles": 16
-    },
     {
       "time": "2026-08-10T11:30",
       "avg_tone": -2.506,
@@ -1143,117 +1128,128 @@
       "time": "2026-08-13T10:45",
       "avg_tone": -0.524,
       "n_articles": 11
+    },
+    {
+      "time": "2026-08-13T11:00",
+      "avg_tone": -0.904,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-08-13T11:15",
+      "avg_tone": -1.175,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-08-13T11:30",
+      "avg_tone": -1.65,
+      "n_articles": 15
     }
   ],
   "top_sources": [
     {
       "source": "cnn.com",
-      "n": 6,
-      "avg_tone": -2.172
+      "n": 5,
+      "avg_tone": -0.884
+    },
+    {
+      "source": "ksat.com",
+      "n": 2,
+      "avg_tone": -3.986
     },
     {
       "source": "mirror.co.uk",
       "n": 2,
-      "avg_tone": -1.928
+      "avg_tone": -2.188
     },
     {
-      "source": "japanherald.com",
-      "n": 1,
-      "avg_tone": 1.367
+      "source": "riotimesonline.com",
+      "n": 2,
+      "avg_tone": -1.198
     },
     {
-      "source": "finanznachrichten.de",
-      "n": 1,
-      "avg_tone": 1.036
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 3.061
     },
     {
-      "source": "thedailystar.net",
-      "n": 1,
-      "avg_tone": -1.767
+      "source": "thespiritsbusiness.com",
+      "n": 2,
+      "avg_tone": 1.358
     },
     {
-      "source": "sfbaytimes.com",
-      "n": 1,
-      "avg_tone": -1.493
+      "source": "fool.com",
+      "n": 2,
+      "avg_tone": 0.444
     },
     {
-      "source": "juniorminingnetwork.com",
-      "n": 1,
-      "avg_tone": 1.119
+      "source": "paultan.org",
+      "n": 2,
+      "avg_tone": 0.119
     },
     {
-      "source": "radiotimes.com",
+      "source": "latimes.com",
       "n": 1,
-      "avg_tone": 0.945
+      "avg_tone": -3.713
     },
     {
-      "source": "voiceofsandiego.org",
+      "source": "waste-management-world.com",
       "n": 1,
-      "avg_tone": -0.847
+      "avg_tone": 5.882
     },
     {
-      "source": "hulldailymail.co.uk",
+      "source": "healio.com",
       "n": 1,
-      "avg_tone": 3.122
+      "avg_tone": -4.612
     },
     {
-      "source": "singersroom.com",
+      "source": "sun-sentinel.com",
       "n": 1,
-      "avg_tone": 5.117
+      "avg_tone": -3.748
     },
     {
-      "source": "it-online.co.za",
+      "source": "mercopress.com",
       "n": 1,
-      "avg_tone": 0.343
+      "avg_tone": 0.399
     },
     {
-      "source": "prnewswire.com",
+      "source": "yahoo.com",
       "n": 1,
-      "avg_tone": 9.263
+      "avg_tone": 1.828
     },
     {
-      "source": "walesonline.co.uk",
+      "source": "hngn.com",
       "n": 1,
-      "avg_tone": -3.222
-    },
-    {
-      "source": "kesq.com",
-      "n": 1,
-      "avg_tone": -1.632
+      "avg_tone": -4.123
     }
   ],
   "top_themes": [
     {
       "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 269
+      "n": 286
     },
     {
       "theme": "WB_895_MINING_SYSTEMS",
-      "n": 269
+      "n": 286
     },
     {
       "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 269
+      "n": 286
     },
     {
       "theme": "WB_2936_GOLD",
-      "n": 267
+      "n": 266
     },
     {
       "theme": "ENV_METALS",
-      "n": 263
+      "n": 265
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 223
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 117
+      "n": 248
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 104
+      "n": 128
     },
     {
       "theme": "WB_713_PUBLIC_FINANCE",
@@ -1264,24 +1260,28 @@
       "n": 88
     },
     {
-      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
-      "n": 78
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 79
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
+      "theme": "EPU_ECONOMY_HISTORIC",
       "n": 71
     },
     {
-      "theme": "BORDER",
-      "n": 63
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 70
     },
     {
-      "theme": "WB_3007_NATIONAL_PARKS",
-      "n": 62
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 66
     },
     {
-      "theme": "WB_1833_PROTECTED_AREAS_SYSTEMS",
-      "n": 62
+      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
+      "n": 65
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 59
     }
   ]
 }
