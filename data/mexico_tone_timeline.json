@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-14T22:40:21.077673+00:00",
-  "rows_total_scanned_last_run": 4805,
-  "rows_mexico_last_run": 113,
-  "overall_avg_tone_4h": -1.641,
+  "generated_at": "2026-08-14T22:58:02.840202+00:00",
+  "rows_total_scanned_last_run": 4608,
+  "rows_mexico_last_run": 119,
+  "overall_avg_tone_4h": -1.589,
   "timeline": [
     {
       "time": "2026-08-11T23:00",
@@ -1128,18 +1128,33 @@
       "time": "2026-08-14T22:45",
       "avg_tone": -1.198,
       "n_articles": 27
+    },
+    {
+      "time": "2026-08-14T23:00",
+      "avg_tone": -0.409,
+      "n_articles": 31
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 33,
-      "avg_tone": -1.761
+      "n": 40,
+      "avg_tone": -1.616
+    },
+    {
+      "source": "deadline.com",
+      "n": 3,
+      "avg_tone": 0.25
     },
     {
       "source": "yahoo.com",
       "n": 3,
-      "avg_tone": -1.358
+      "avg_tone": 0.365
+    },
+    {
+      "source": "americanbanker.com",
+      "n": 2,
+      "avg_tone": -0.813
     },
     {
       "source": "gringogazette.com",
@@ -1167,106 +1182,96 @@
       "avg_tone": -4.229
     },
     {
-      "source": "sun-sentinel.com",
-      "n": 2,
-      "avg_tone": -4.229
-    },
-    {
-      "source": "wsbtv.com",
-      "n": 2,
-      "avg_tone": -2.806
-    },
-    {
-      "source": "fortmorgantimes.com",
-      "n": 2,
-      "avg_tone": -4.229
-    },
-    {
-      "source": "dailypolitical.com",
+      "source": "screenrant.com",
       "n": 1,
-      "avg_tone": 2.093
+      "avg_tone": 2.246
     },
     {
-      "source": "koolam.com",
+      "source": "livewireradio.org",
       "n": 1,
-      "avg_tone": 1.861
+      "avg_tone": 1.188
     },
     {
-      "source": "webwire.com",
+      "source": "wlj.net",
       "n": 1,
-      "avg_tone": 2.186
+      "avg_tone": -0.365
     },
     {
-      "source": "foxreno.com",
+      "source": "mcall.com",
       "n": 1,
-      "avg_tone": -8.123
+      "avg_tone": -1.388
     },
     {
-      "source": "krtv.com",
+      "source": "dailycamera.com",
       "n": 1,
-      "avg_tone": -2.346
+      "avg_tone": -1.388
+    },
+    {
+      "source": "wwno.org",
+      "n": 1,
+      "avg_tone": -0.114
     }
   ],
   "top_themes": [
     {
       "theme": "AGRICULTURE",
-      "n": 220
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 156
-    },
-    {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 138
+      "n": 233
     },
     {
       "theme": "BORDER",
-      "n": 133
+      "n": 176
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 168
+    },
+    {
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 156
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 122
+      "n": 115
     },
     {
       "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 117
+      "n": 99
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 87
-    },
-    {
-      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
-      "n": 65
-    },
-    {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 65
-    },
-    {
-      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 65
-    },
-    {
-      "theme": "WB_3007_NATIONAL_PARKS",
-      "n": 63
-    },
-    {
-      "theme": "WB_1833_PROTECTED_AREAS_SYSTEMS",
-      "n": 63
-    },
-    {
-      "theme": "WB_1829_ECOSYSTEM_MANAGEMENT",
-      "n": 63
+      "n": 91
     },
     {
       "theme": "ARMEDCONFLICT",
+      "n": 65
+    },
+    {
+      "theme": "TAX_WORLDFISH_ROACH",
+      "n": 63
+    },
+    {
+      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
+      "n": 63
+    },
+    {
+      "theme": "WB_3007_NATIONAL_PARKS",
       "n": 62
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
+      "theme": "WB_1833_PROTECTED_AREAS_SYSTEMS",
       "n": 62
+    },
+    {
+      "theme": "WB_1829_ECOSYSTEM_MANAGEMENT",
+      "n": 62
+    },
+    {
+      "theme": "LEADER",
+      "n": 59
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 57
     }
   ]
 }
