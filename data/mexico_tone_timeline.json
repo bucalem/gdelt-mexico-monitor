@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-14T20:53:11.744892+00:00",
-  "rows_total_scanned_last_run": 5713,
-  "rows_mexico_last_run": 96,
-  "overall_avg_tone_4h": -1.245,
+  "generated_at": "2026-08-14T21:16:45.360211+00:00",
+  "rows_total_scanned_last_run": 5459,
+  "rows_mexico_last_run": 95,
+  "overall_avg_tone_4h": -1.414,
   "timeline": [
-    {
-      "time": "2026-08-11T21:00",
-      "avg_tone": -0.708,
-      "n_articles": 27
-    },
-    {
-      "time": "2026-08-11T21:15",
-      "avg_tone": -0.91,
-      "n_articles": 24
-    },
     {
       "time": "2026-08-11T21:30",
       "avg_tone": -0.581,
@@ -1128,18 +1118,28 @@
       "time": "2026-08-14T21:00",
       "avg_tone": -0.938,
       "n_articles": 21
+    },
+    {
+      "time": "2026-08-14T21:15",
+      "avg_tone": -3.404,
+      "n_articles": 16
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 26,
+      "n": 24,
       "avg_tone": -2.273
     },
     {
       "source": "riotimesonline.com",
       "n": 4,
       "avg_tone": 1.523
+    },
+    {
+      "source": "foxsanantonio.com",
+      "n": 2,
+      "avg_tone": -6.604
     },
     {
       "source": "sacurrent.com",
@@ -1162,111 +1162,106 @@
       "avg_tone": 1.416
     },
     {
-      "source": "kfoxtv.com",
+      "source": "wgrd.com",
       "n": 1,
-      "avg_tone": -1.566
+      "avg_tone": 1.852
     },
     {
-      "source": "texarkanagazette.com",
-      "n": 1,
-      "avg_tone": -2.964
-    },
-    {
-      "source": "wcpo.com",
+      "source": "ktvh.com",
       "n": 1,
       "avg_tone": -2.346
     },
     {
-      "source": "el-observador.com",
+      "source": "hcamag.com",
       "n": 1,
-      "avg_tone": -1.91
+      "avg_tone": -8.468
     },
     {
-      "source": "secondwavemedia.com",
+      "source": "zerohedge.com",
       "n": 1,
-      "avg_tone": 1.76
+      "avg_tone": -6.021
     },
     {
-      "source": "wkbw.com",
+      "source": "1019therock.com",
       "n": 1,
-      "avg_tone": -2.346
+      "avg_tone": 1.861
     },
     {
-      "source": "yahoo.com",
+      "source": "wuwf.org",
       "n": 1,
-      "avg_tone": -3.512
+      "avg_tone": -0.114
     },
     {
-      "source": "motorsport.com",
+      "source": "koat.com",
       "n": 1,
-      "avg_tone": 0.099
+      "avg_tone": -4.918
     },
     {
-      "source": "cbs4local.com",
+      "source": "winnipegfreepress.com",
       "n": 1,
-      "avg_tone": -1.566
+      "avg_tone": -6.761
     }
   ],
   "top_themes": [
     {
       "theme": "AGRICULTURE",
-      "n": 223
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 103
+      "n": 205
     },
     {
       "theme": "BORDER",
-      "n": 94
+      "n": 153
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 97
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 92
+      "n": 87
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 92
+      "n": 87
     },
     {
       "theme": "CLOSURE",
-      "n": 83
+      "n": 84
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 80
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 60
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 57
+      "n": 73
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 50
+      "n": 63
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 49
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 62
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 45
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 62
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 44
+      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
+      "n": 62
     },
     {
-      "theme": "LEADER",
-      "n": 43
+      "theme": "WB_3007_NATIONAL_PARKS",
+      "n": 57
+    },
+    {
+      "theme": "WB_1833_PROTECTED_AREAS_SYSTEMS",
+      "n": 57
+    },
+    {
+      "theme": "WB_1829_ECOSYSTEM_MANAGEMENT",
+      "n": 57
     },
     {
       "theme": "WB_168_ROADS_AND_HIGHWAYS",
-      "n": 42
+      "n": 49
     }
   ]
 }
