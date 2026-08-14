@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-14T21:16:45.360211+00:00",
-  "rows_total_scanned_last_run": 5459,
-  "rows_mexico_last_run": 95,
-  "overall_avg_tone_4h": -1.414,
+  "generated_at": "2026-08-14T21:46:24.977244+00:00",
+  "rows_total_scanned_last_run": 5107,
+  "rows_mexico_last_run": 94,
+  "overall_avg_tone_4h": -1.597,
   "timeline": [
-    {
-      "time": "2026-08-11T21:30",
-      "avg_tone": -0.581,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-08-11T21:45",
-      "avg_tone": -0.93,
-      "n_articles": 30
-    },
     {
       "time": "2026-08-11T22:00",
       "avg_tone": -1.159,
@@ -1123,18 +1113,53 @@
       "time": "2026-08-14T21:15",
       "avg_tone": -3.404,
       "n_articles": 16
+    },
+    {
+      "time": "2026-08-14T21:30",
+      "avg_tone": -1.494,
+      "n_articles": 28
+    },
+    {
+      "time": "2026-08-14T21:45",
+      "avg_tone": -2.359,
+      "n_articles": 29
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 24,
+      "n": 21,
       "avg_tone": -2.273
     },
     {
       "source": "riotimesonline.com",
       "n": 4,
       "avg_tone": 1.523
+    },
+    {
+      "source": "dailypolitical.com",
+      "n": 2,
+      "avg_tone": 0.935
+    },
+    {
+      "source": "cubaheadlines.com",
+      "n": 2,
+      "avg_tone": -4.756
+    },
+    {
+      "source": "latimes.com",
+      "n": 2,
+      "avg_tone": -0.078
+    },
+    {
+      "source": "sandiegouniontribune.com",
+      "n": 2,
+      "avg_tone": -2.967
+    },
+    {
+      "source": "finanznachrichten.de",
+      "n": 2,
+      "avg_tone": 0.707
     },
     {
       "source": "foxsanantonio.com",
@@ -1147,121 +1172,96 @@
       "avg_tone": 0.562
     },
     {
-      "source": "courant.com",
-      "n": 2,
-      "avg_tone": -4.523
-    },
-    {
-      "source": "wrestlinginc.com",
-      "n": 2,
-      "avg_tone": -0.441
-    },
-    {
-      "source": "tickerreport.com",
-      "n": 2,
-      "avg_tone": 1.416
-    },
-    {
-      "source": "wgrd.com",
+      "source": "fox7austin.com",
       "n": 1,
-      "avg_tone": 1.852
+      "avg_tone": -8.444
     },
     {
-      "source": "ktvh.com",
+      "source": "euronews.com",
+      "n": 1,
+      "avg_tone": -4.348
+    },
+    {
+      "source": "deadline.com",
+      "n": 1,
+      "avg_tone": -2.523
+    },
+    {
+      "source": "kztv10.com",
       "n": 1,
       "avg_tone": -2.346
     },
     {
-      "source": "hcamag.com",
-      "n": 1,
-      "avg_tone": -8.468
-    },
-    {
-      "source": "zerohedge.com",
-      "n": 1,
-      "avg_tone": -6.021
-    },
-    {
-      "source": "1019therock.com",
+      "source": "b985.fm",
       "n": 1,
       "avg_tone": 1.861
     },
     {
-      "source": "wuwf.org",
+      "source": "fox26houston.com",
       "n": 1,
-      "avg_tone": -0.114
-    },
-    {
-      "source": "koat.com",
-      "n": 1,
-      "avg_tone": -4.918
-    },
-    {
-      "source": "winnipegfreepress.com",
-      "n": 1,
-      "avg_tone": -6.761
+      "avg_tone": -8.444
     }
   ],
   "top_themes": [
     {
       "theme": "AGRICULTURE",
-      "n": 205
+      "n": 187
     },
     {
       "theme": "BORDER",
-      "n": 153
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 97
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 87
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 87
+      "n": 155
     },
     {
       "theme": "CLOSURE",
-      "n": 84
+      "n": 86
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 85
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 79
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
       "n": 73
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 63
-    },
-    {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 62
+      "n": 64
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "theme": "CRISISLEX_C07_SAFETY",
       "n": 62
     },
     {
       "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
-      "n": 62
+      "n": 61
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 59
     },
     {
       "theme": "WB_3007_NATIONAL_PARKS",
-      "n": 57
+      "n": 58
     },
     {
       "theme": "WB_1833_PROTECTED_AREAS_SYSTEMS",
-      "n": 57
+      "n": 58
     },
     {
       "theme": "WB_1829_ECOSYSTEM_MANAGEMENT",
-      "n": 57
+      "n": 58
     },
     {
-      "theme": "WB_168_ROADS_AND_HIGHWAYS",
-      "n": 49
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 58
+    },
+    {
+      "theme": "AFFECT",
+      "n": 57
     }
   ]
 }
