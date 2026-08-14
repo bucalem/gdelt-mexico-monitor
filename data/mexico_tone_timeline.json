@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-14T23:20:10.437162+00:00",
-  "rows_total_scanned_last_run": 4511,
-  "rows_mexico_last_run": 137,
+  "generated_at": "2026-08-14T23:44:13.999967+00:00",
+  "rows_total_scanned_last_run": 4499,
+  "rows_mexico_last_run": 147,
   "overall_avg_tone_4h": -1.524,
   "timeline": [
-    {
-      "time": "2026-08-11T23:30",
-      "avg_tone": -1.222,
-      "n_articles": 21
-    },
     {
       "time": "2026-08-11T23:45",
       "avg_tone": -0.387,
@@ -1133,13 +1128,23 @@
       "time": "2026-08-14T23:30",
       "avg_tone": -0.931,
       "n_articles": 31
+    },
+    {
+      "time": "2026-08-14T23:45",
+      "avg_tone": -1.389,
+      "n_articles": 37
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
       "n": 58,
-      "avg_tone": -1.205
+      "avg_tone": -1.141
+    },
+    {
+      "source": "santafenewmexican.com",
+      "n": 7,
+      "avg_tone": -0.396
     },
     {
       "source": "yahoo.com",
@@ -1150,6 +1155,21 @@
       "source": "deadline.com",
       "n": 3,
       "avg_tone": 0.25
+    },
+    {
+      "source": "ksla.com",
+      "n": 2,
+      "avg_tone": 0.602
+    },
+    {
+      "source": "greeleytribune.com",
+      "n": 2,
+      "avg_tone": -4.229
+    },
+    {
+      "source": "elpais.com",
+      "n": 2,
+      "avg_tone": -1.257
     },
     {
       "source": "kjzz.org",
@@ -1187,91 +1207,71 @@
       "avg_tone": -0.813
     },
     {
-      "source": "gringogazette.com",
-      "n": 2,
-      "avg_tone": -3.471
-    },
-    {
-      "source": "cbs58.com",
+      "source": "horsesdaily.com",
       "n": 1,
-      "avg_tone": 7.576
-    },
-    {
-      "source": "twincities.com",
-      "n": 1,
-      "avg_tone": -1.388
-    },
-    {
-      "source": "bentelevision.com",
-      "n": 1,
-      "avg_tone": 3.368
-    },
-    {
-      "source": "coloradohometownweekly.com",
-      "n": 1,
-      "avg_tone": -1.388
+      "avg_tone": -0.748
     }
   ],
   "top_themes": [
     {
       "theme": "AGRICULTURE",
-      "n": 224
+      "n": 213
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 158
+      "n": 175
     },
     {
       "theme": "BORDER",
-      "n": 131
+      "n": 144
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 101
+      "n": 110
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 93
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 87
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 86
-    },
-    {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 81
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 70
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 68
+      "n": 75
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 73
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 72
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 72
+    },
+    {
+      "theme": "LEADER",
+      "n": 70
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 66
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_MILK",
       "n": 65
     },
     {
       "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 65
+      "n": 63
     },
     {
       "theme": "TAX_WORLDFISH_ROACH",
       "n": 63
-    },
-    {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 61
-    },
-    {
-      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
-      "n": 57
-    },
-    {
-      "theme": "WB_3007_NATIONAL_PARKS",
-      "n": 56
     }
   ]
 }
