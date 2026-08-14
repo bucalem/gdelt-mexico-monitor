@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-14T06:40:05.877917+00:00",
-  "rows_total_scanned_last_run": 3177,
-  "rows_mexico_last_run": 39,
-  "overall_avg_tone_4h": -1.083,
+  "generated_at": "2026-08-14T08:00:34.133895+00:00",
+  "rows_total_scanned_last_run": 3593,
+  "rows_mexico_last_run": 45,
+  "overall_avg_tone_4h": -1.203,
   "timeline": [
-    {
-      "time": "2026-08-11T07:15",
-      "avg_tone": -3.234,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-08-11T07:30",
-      "avg_tone": -3.573,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-11T07:45",
-      "avg_tone": -2.108,
-      "n_articles": 28
-    },
     {
       "time": "2026-08-11T08:00",
       "avg_tone": -2.501,
@@ -1113,145 +1098,165 @@
       "time": "2026-08-14T06:45",
       "avg_tone": -3.145,
       "n_articles": 8
+    },
+    {
+      "time": "2026-08-14T07:15",
+      "avg_tone": -0.501,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-14T07:30",
+      "avg_tone": -0.794,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-14T07:45",
+      "avg_tone": -0.64,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-14T08:00",
+      "avg_tone": -0.649,
+      "n_articles": 14
     }
   ],
   "top_sources": [
     {
-      "source": "english.news.cn",
+      "source": "kpbs.org",
+      "n": 3,
+      "avg_tone": 4.981
+    },
+    {
+      "source": "wallpaper.com",
       "n": 2,
-      "avg_tone": -2.189
+      "avg_tone": 3.505
     },
     {
-      "source": "yahoo.com",
+      "source": "rockymounttelegram.com",
       "n": 2,
-      "avg_tone": -0.493
+      "avg_tone": -4.835
     },
     {
-      "source": "chiangraitimes.com",
+      "source": "messenger-inquirer.com",
       "n": 2,
-      "avg_tone": -3.909
+      "avg_tone": -0.474
     },
     {
-      "source": "netscape.com",
+      "source": "investegate.co.uk",
       "n": 2,
-      "avg_tone": -5.341
+      "avg_tone": 3.641
     },
     {
-      "source": "winnipegfreepress.com",
-      "n": 1,
-      "avg_tone": -2.175
+      "source": "slguardian.org",
+      "n": 2,
+      "avg_tone": -3.964
     },
     {
-      "source": "dailyadvertiser.com.au",
-      "n": 1,
-      "avg_tone": -5.818
-    },
-    {
-      "source": "caribbeanherald.com",
+      "source": "argentinastar.com",
       "n": 1,
       "avg_tone": -4.386
     },
     {
-      "source": "newcastleherald.com.au",
+      "source": "whitecountycitizen.com",
       "n": 1,
-      "avg_tone": -5.818
+      "avg_tone": -3.548
     },
     {
-      "source": "mynewsla.com",
+      "source": "mymotherlode.com",
       "n": 1,
-      "avg_tone": -3.579
+      "avg_tone": -7.261
     },
     {
-      "source": "freepressjournal.in",
+      "source": "arabnews.com",
       "n": 1,
-      "avg_tone": -1.047
+      "avg_tone": -2.717
     },
     {
-      "source": "clickondetroit.com",
+      "source": "jamaica-star.com",
       "n": 1,
-      "avg_tone": -2.334
+      "avg_tone": -1.802
     },
     {
-      "source": "business-standard.com",
+      "source": "stcatharinesstandard.ca",
       "n": 1,
-      "avg_tone": -0.972
+      "avg_tone": -2.163
     },
     {
-      "source": "sfbaytimes.com",
+      "source": "thelineofbestfit.com",
       "n": 1,
-      "avg_tone": 2.836
+      "avg_tone": 0.504
     },
     {
-      "source": "koat.com",
+      "source": "wjcl.com",
       "n": 1,
       "avg_tone": -2.318
     },
     {
-      "source": "spokesman.com",
+      "source": "abcnews.com",
       "n": 1,
-      "avg_tone": -3.89
+      "avg_tone": -2.964
     }
   ],
   "top_themes": [
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 114
-    },
-    {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 85
-    },
-    {
-      "theme": "NATURAL_DISASTER_EARTHQUAKES",
-      "n": 80
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 54
-    },
-    {
-      "theme": "BORDER",
-      "n": 54
-    },
-    {
-      "theme": "TAX_ETHNICITY_CHINESE",
-      "n": 53
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_CHINESE",
-      "n": 53
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 39
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 37
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 36
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 36
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 35
-    },
-    {
-      "theme": "CRISISLEX_O01_WEATHER",
-      "n": 33
-    },
-    {
       "theme": "TAX_RELIGION_CHRISTIANS",
-      "n": 32
+      "n": 96
     },
     {
       "theme": "TAX_ETHNICITY_CHRISTIANS",
-      "n": 32
+      "n": 96
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 94
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 91
+    },
+    {
+      "theme": "TAX_RELIGION_JEWISH",
+      "n": 78
+    },
+    {
+      "theme": "TAX_ETHNICITY_JEWISH",
+      "n": 78
+    },
+    {
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 63
+    },
+    {
+      "theme": "NATURAL_DISASTER_EARTHQUAKES",
+      "n": 60
+    },
+    {
+      "theme": "TAX_RELIGION_CHRISTIAN",
+      "n": 54
+    },
+    {
+      "theme": "TAX_ETHNICITY_CHRISTIAN",
+      "n": 54
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 48
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 46
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 40
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 37
+    },
+    {
+      "theme": "TAX_FNCACT_NUN",
+      "n": 36
     }
   ]
 }
