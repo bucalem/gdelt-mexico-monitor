@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T21:56:07.121337+00:00",
-  "rows_total_scanned_last_run": 1822,
-  "rows_mexico_last_run": 17,
-  "overall_avg_tone_4h": -0.935,
+  "generated_at": "2026-08-15T22:14:22.257450+00:00",
+  "rows_total_scanned_last_run": 1704,
+  "rows_mexico_last_run": 15,
+  "overall_avg_tone_4h": -0.94,
   "timeline": [
-    {
-      "time": "2026-08-12T22:00",
-      "avg_tone": 0.93,
-      "n_articles": 14
-    },
     {
       "time": "2026-08-12T22:15",
       "avg_tone": 0.94,
@@ -1233,6 +1228,11 @@
       "time": "2026-08-15T22:00",
       "avg_tone": -1.139,
       "n_articles": 6
+    },
+    {
+      "time": "2026-08-15T22:15",
+      "avg_tone": -1.606,
+      "n_articles": 3
     }
   ],
   "top_sources": [
@@ -1242,9 +1242,19 @@
       "avg_tone": 0.675
     },
     {
-      "source": "tickerreport.com",
-      "n": 2,
-      "avg_tone": 2.935
+      "source": "chroniclejournal.com",
+      "n": 1,
+      "avg_tone": -2.032
+    },
+    {
+      "source": "cruisehive.com",
+      "n": 1,
+      "avg_tone": -6.226
+    },
+    {
+      "source": "bignewsnetwork.com",
+      "n": 1,
+      "avg_tone": 3.439
     },
     {
       "source": "pjmedia.com",
@@ -1295,82 +1305,67 @@
       "source": "news8000.com",
       "n": 1,
       "avg_tone": -2.329
-    },
-    {
-      "source": "kbtx.com",
-      "n": 1,
-      "avg_tone": -2.769
-    },
-    {
-      "source": "alaska-native-news.com",
-      "n": 1,
-      "avg_tone": -6.535
-    },
-    {
-      "source": "cjme.com",
-      "n": 1,
-      "avg_tone": 0.688
     }
   ],
   "top_themes": [
     {
       "theme": "WB_2937_SILVER",
-      "n": 36
+      "n": 31
     },
     {
       "theme": "TAX_TERROR_GROUP_TALIBAN",
       "n": 29
     },
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 27
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 27
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 27
-    },
-    {
-      "theme": "ENV_METALS",
-      "n": 26
-    },
-    {
-      "theme": "WB_2936_GOLD",
-      "n": 26
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 25
     },
     {
       "theme": "TAX_WORLDLANGUAGES_LATIN",
       "n": 24
     },
     {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 22
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 22
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 22
+    },
+    {
       "theme": "WB_698_TRADE",
       "n": 21
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
+      "theme": "ENV_METALS",
       "n": 21
     },
     {
-      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
-      "n": 20
+      "theme": "WB_2936_GOLD",
+      "n": 21
     },
     {
       "theme": "TAX_ECON_PRICE",
       "n": 19
     },
     {
-      "theme": "BORDER",
-      "n": 16
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 19
     },
     {
-      "theme": "TAX_ETHNICITY_CHINESE",
-      "n": 16
+      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
+      "n": 19
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_CHINESE",
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 17
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 16
     }
   ]
