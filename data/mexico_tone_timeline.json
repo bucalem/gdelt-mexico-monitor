@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T13:57:43.848126+00:00",
-  "rows_total_scanned_last_run": 2816,
-  "rows_mexico_last_run": 39,
-  "overall_avg_tone_4h": -0.375,
+  "generated_at": "2026-08-15T14:19:29.507346+00:00",
+  "rows_total_scanned_last_run": 2986,
+  "rows_mexico_last_run": 37,
+  "overall_avg_tone_4h": -0.383,
   "timeline": [
-    {
-      "time": "2026-08-12T14:00",
-      "avg_tone": 0.827,
-      "n_articles": 25
-    },
     {
       "time": "2026-08-12T14:30",
       "avg_tone": 0.671,
@@ -1213,6 +1208,11 @@
       "time": "2026-08-15T14:00",
       "avg_tone": -1.597,
       "n_articles": 9
+    },
+    {
+      "time": "2026-08-15T14:15",
+      "avg_tone": -0.173,
+      "n_articles": 11
     }
   ],
   "top_sources": [
@@ -1232,126 +1232,126 @@
       "avg_tone": -1.497
     },
     {
-      "source": "philippinetimes.com",
-      "n": 2,
-      "avg_tone": -2.405
+      "source": "laist.com",
+      "n": 1,
+      "avg_tone": -1.459
     },
     {
-      "source": "keyt.com",
-      "n": 2,
+      "source": "hometownregister.com",
+      "n": 1,
+      "avg_tone": 1.411
+    },
+    {
+      "source": "riotimesonline.com",
+      "n": 1,
+      "avg_tone": 0.677
+    },
+    {
+      "source": "businessinsider.com",
+      "n": 1,
+      "avg_tone": 2.167
+    },
+    {
+      "source": "chortle.co.uk",
+      "n": 1,
+      "avg_tone": -0.533
+    },
+    {
+      "source": "kesq.com",
+      "n": 1,
       "avg_tone": -0.396
     },
     {
-      "source": "tickerreport.com",
-      "n": 2,
-      "avg_tone": 3.671
+      "source": "latimes.com",
+      "n": 1,
+      "avg_tone": 0.568
+    },
+    {
+      "source": "realclearworld.com",
+      "n": 1,
+      "avg_tone": -2.128
+    },
+    {
+      "source": "am800cklw.com",
+      "n": 1,
+      "avg_tone": 0.666
+    },
+    {
+      "source": "thelocal.at",
+      "n": 1,
+      "avg_tone": -4.286
+    },
+    {
+      "source": "wyomingnewsnow.tv",
+      "n": 1,
+      "avg_tone": 1.411
     },
     {
       "source": "jhnewsandguide.com",
       "n": 1,
       "avg_tone": -5.975
-    },
-    {
-      "source": "elkodaily.com",
-      "n": 1,
-      "avg_tone": -1.155
-    },
-    {
-      "source": "marieclaire.com",
-      "n": 1,
-      "avg_tone": -1.353
-    },
-    {
-      "source": "globalnews.ca",
-      "n": 1,
-      "avg_tone": 0.294
-    },
-    {
-      "source": "dailydot.com",
-      "n": 1,
-      "avg_tone": 2.174
-    },
-    {
-      "source": "demingheadlight.com",
-      "n": 1,
-      "avg_tone": -1.333
-    },
-    {
-      "source": "nlpc.org",
-      "n": 1,
-      "avg_tone": -2.34
-    },
-    {
-      "source": "pushsquare.com",
-      "n": 1,
-      "avg_tone": -2.871
-    },
-    {
-      "source": "thelocal.it",
-      "n": 1,
-      "avg_tone": -4.286
     }
   ],
   "top_themes": [
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 54
-    },
-    {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 54
+      "theme": "TAX_FNCACT_COOK",
+      "n": 57
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 51
+      "n": 49
     },
     {
       "theme": "IMMIGRATION",
-      "n": 45
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 44
+      "n": 41
     },
     {
       "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 44
+      "n": 39
     },
     {
       "theme": "WB_2837_IMMIGRATION",
-      "n": 43
+      "n": 38
     },
     {
       "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 43
+      "n": 38
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 43
+      "n": 38
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "theme": "TAX_FNCACT_CHILDREN",
+      "n": 38
+    },
+    {
+      "theme": "MEDICAL",
       "n": 36
     },
     {
-      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
-      "n": 34
+      "theme": "GENERAL_HEALTH",
+      "n": 35
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 35
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 32
+    },
+    {
+      "theme": "TAX_ETHNICITY_BLACK",
+      "n": 30
     },
     {
       "theme": "TAX_FNCACT_IMMIGRANTS",
-      "n": 33
-    },
-    {
-      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
       "n": 27
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 26
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 26
+      "theme": "EDUCATION",
+      "n": 27
     }
   ]
 }
