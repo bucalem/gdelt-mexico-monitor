@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-15T11:11:44.026650+00:00",
-  "rows_total_scanned_last_run": 2444,
-  "rows_mexico_last_run": 34,
-  "overall_avg_tone_4h": 0.225,
+  "generated_at": "2026-08-15T11:32:59.187085+00:00",
+  "rows_total_scanned_last_run": 2456,
+  "rows_mexico_last_run": 38,
+  "overall_avg_tone_4h": 0.228,
   "timeline": [
-    {
-      "time": "2026-08-12T11:15",
-      "avg_tone": 1.931,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-08-12T11:30",
-      "avg_tone": 0.57,
-      "n_articles": 22
-    },
     {
       "time": "2026-08-12T11:45",
       "avg_tone": 1.435,
@@ -1198,6 +1188,11 @@
       "time": "2026-08-15T11:15",
       "avg_tone": -0.489,
       "n_articles": 6
+    },
+    {
+      "time": "2026-08-15T11:30",
+      "avg_tone": -1.572,
+      "n_articles": 13
     }
   ],
   "top_sources": [
@@ -1212,6 +1207,16 @@
       "avg_tone": 0.723
     },
     {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": 0.819
+    },
+    {
+      "source": "indiatimes.com",
+      "n": 2,
+      "avg_tone": -2.632
+    },
+    {
       "source": "dailypolitical.com",
       "n": 2,
       "avg_tone": 2.005
@@ -1222,121 +1227,111 @@
       "avg_tone": 1.511
     },
     {
-      "source": "indiatimes.com",
+      "source": "salon.com",
       "n": 1,
-      "avg_tone": -4.642
+      "avg_tone": -3.653
     },
     {
-      "source": "motorsport.com",
+      "source": "newstribune.com",
       "n": 1,
-      "avg_tone": 2.84
+      "avg_tone": -2.052
     },
     {
-      "source": "panow.com",
+      "source": "shafaqna.com",
       "n": 1,
-      "avg_tone": 0.61
+      "avg_tone": -5.085
     },
     {
-      "source": "niagarafallsreview.ca",
+      "source": "postandcourier.com",
       "n": 1,
-      "avg_tone": 0.634
+      "avg_tone": 2.041
     },
     {
-      "source": "rappler.com",
+      "source": "mantecabulletin.com",
       "n": 1,
-      "avg_tone": 0.914
+      "avg_tone": -0.308
     },
     {
-      "source": "swissinfo.ch",
+      "source": "kelownadailycourier.ca",
       "n": 1,
-      "avg_tone": 2.347
+      "avg_tone": 0.649
     },
     {
-      "source": "wellandtribune.ca",
+      "source": "medicinehatnews.com",
       "n": 1,
-      "avg_tone": 0.634
+      "avg_tone": 0.722
     },
     {
-      "source": "yahoo.com",
+      "source": "pembinavalleyonline.com",
       "n": 1,
-      "avg_tone": -0.086
+      "avg_tone": 2.722
     },
     {
-      "source": "thelocal.de",
+      "source": "forbes.com",
       "n": 1,
-      "avg_tone": 0.737
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 1.088
-    },
-    {
-      "source": "winnipegfreepress.com",
-      "n": 1,
-      "avg_tone": 0.894
+      "avg_tone": -4.061
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 66
-    },
-    {
       "theme": "WB_698_TRADE",
-      "n": 60
+      "n": 71
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 59
+      "n": 69
     },
     {
-      "theme": "EDUCATION",
-      "n": 46
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 53
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 39
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
-      "n": 38
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 37
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 35
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 34
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 32
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 31
+      "n": 49
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 30
+      "n": 46
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 45
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 44
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 43
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 39
+    },
+    {
+      "theme": "TAX_FNCACT_CHILDREN",
+      "n": 36
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 35
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 35
     },
     {
       "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 30
+      "n": 34
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_KANSAS",
-      "n": 30
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 34
     },
     {
       "theme": "LEADER",
-      "n": 27
+      "n": 32
     }
   ]
 }
