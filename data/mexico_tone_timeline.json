@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-15T22:14:22.257450+00:00",
-  "rows_total_scanned_last_run": 1704,
-  "rows_mexico_last_run": 15,
-  "overall_avg_tone_4h": -0.94,
+  "generated_at": "2026-08-15T22:38:37.084315+00:00",
+  "rows_total_scanned_last_run": 1921,
+  "rows_mexico_last_run": 20,
+  "overall_avg_tone_4h": -0.92,
   "timeline": [
-    {
-      "time": "2026-08-12T22:15",
-      "avg_tone": 0.94,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-08-12T22:30",
-      "avg_tone": -0.207,
-      "n_articles": 33
-    },
     {
       "time": "2026-08-12T23:00",
       "avg_tone": 0.614,
@@ -1233,13 +1223,78 @@
       "time": "2026-08-15T22:15",
       "avg_tone": -1.606,
       "n_articles": 3
+    },
+    {
+      "time": "2026-08-15T22:30",
+      "avg_tone": -0.219,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-08-15T22:45",
+      "avg_tone": -1.423,
+      "n_articles": 4
     }
   ],
   "top_sources": [
     {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": -0.733
+    },
+    {
       "source": "riotimesonline.com",
       "n": 2,
       "avg_tone": 0.675
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 1,
+      "avg_tone": 2.871
+    },
+    {
+      "source": "dailymail.com",
+      "n": 1,
+      "avg_tone": -4.864
+    },
+    {
+      "source": "tribune.com.pk",
+      "n": 1,
+      "avg_tone": -0.781
+    },
+    {
+      "source": "latimes.com",
+      "n": 1,
+      "avg_tone": -3.328
+    },
+    {
+      "source": "washingtonexaminer.com",
+      "n": 1,
+      "avg_tone": -4.204
+    },
+    {
+      "source": "cambodiantimes.com",
+      "n": 1,
+      "avg_tone": 3.439
+    },
+    {
+      "source": "wellandtribune.ca",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "urbanmilwaukee.com",
+      "n": 1,
+      "avg_tone": 2.694
+    },
+    {
+      "source": "cheknews.ca",
+      "n": 1,
+      "avg_tone": 0.666
+    },
+    {
+      "source": "australianherald.com",
+      "n": 1,
+      "avg_tone": -0.799
     },
     {
       "source": "chroniclejournal.com",
@@ -1255,56 +1310,6 @@
       "source": "bignewsnetwork.com",
       "n": 1,
       "avg_tone": 3.439
-    },
-    {
-      "source": "pjmedia.com",
-      "n": 1,
-      "avg_tone": -6.654
-    },
-    {
-      "source": "nypost.com",
-      "n": 1,
-      "avg_tone": -0.643
-    },
-    {
-      "source": "dailykos.com",
-      "n": 1,
-      "avg_tone": -2.341
-    },
-    {
-      "source": "yahoo.com",
-      "n": 1,
-      "avg_tone": 1.452
-    },
-    {
-      "source": "businessinsider.com",
-      "n": 1,
-      "avg_tone": 1.422
-    },
-    {
-      "source": "dailypolitical.com",
-      "n": 1,
-      "avg_tone": 2.921
-    },
-    {
-      "source": "thejournal.ie",
-      "n": 1,
-      "avg_tone": 0.397
-    },
-    {
-      "source": "pressdemocrat.com",
-      "n": 1,
-      "avg_tone": -5.32
-    },
-    {
-      "source": "netflixlife.com",
-      "n": 1,
-      "avg_tone": -0.114
-    },
-    {
-      "source": "news8000.com",
-      "n": 1,
-      "avg_tone": -2.329
     }
   ],
   "top_themes": [
@@ -1313,32 +1318,20 @@
       "n": 31
     },
     {
-      "theme": "TAX_TERROR_GROUP_TALIBAN",
-      "n": 29
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 30
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 25
+      "theme": "WB_698_TRADE",
+      "n": 29
     },
     {
       "theme": "TAX_WORLDLANGUAGES_LATIN",
       "n": 24
     },
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 22
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 22
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 22
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 21
+      "theme": "TAX_ECON_PRICE",
+      "n": 23
     },
     {
       "theme": "ENV_METALS",
@@ -1349,23 +1342,35 @@
       "n": 21
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 19
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 21
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 19
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 21
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 21
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 18
     },
     {
       "theme": "ECON_WORLDCURRENCIES_DOLLAR",
-      "n": 19
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 17
+      "n": 18
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 16
+    },
+    {
+      "theme": "TAX_ETHNICITY_CHINESE",
+      "n": 16
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_CHINESE",
       "n": 16
     }
   ]
