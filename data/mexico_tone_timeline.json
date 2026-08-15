@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T13:40:53.500474+00:00",
-  "rows_total_scanned_last_run": 2809,
-  "rows_mexico_last_run": 33,
-  "overall_avg_tone_4h": -0.119,
+  "generated_at": "2026-08-15T13:57:43.848126+00:00",
+  "rows_total_scanned_last_run": 2816,
+  "rows_mexico_last_run": 39,
+  "overall_avg_tone_4h": -0.375,
   "timeline": [
-    {
-      "time": "2026-08-12T13:45",
-      "avg_tone": 0.642,
-      "n_articles": 36
-    },
     {
       "time": "2026-08-12T14:00",
       "avg_tone": 0.827,
@@ -1213,9 +1208,19 @@
       "time": "2026-08-15T13:45",
       "avg_tone": -1.21,
       "n_articles": 7
+    },
+    {
+      "time": "2026-08-15T14:00",
+      "avg_tone": -1.597,
+      "n_articles": 9
     }
   ],
   "top_sources": [
+    {
+      "source": "kvia.com",
+      "n": 3,
+      "avg_tone": -2.34
+    },
     {
       "source": "theguardian.com",
       "n": 2,
@@ -1242,6 +1247,36 @@
       "avg_tone": 3.671
     },
     {
+      "source": "jhnewsandguide.com",
+      "n": 1,
+      "avg_tone": -5.975
+    },
+    {
+      "source": "elkodaily.com",
+      "n": 1,
+      "avg_tone": -1.155
+    },
+    {
+      "source": "marieclaire.com",
+      "n": 1,
+      "avg_tone": -1.353
+    },
+    {
+      "source": "globalnews.ca",
+      "n": 1,
+      "avg_tone": 0.294
+    },
+    {
+      "source": "dailydot.com",
+      "n": 1,
+      "avg_tone": 2.174
+    },
+    {
+      "source": "demingheadlight.com",
+      "n": 1,
+      "avg_tone": -1.333
+    },
+    {
       "source": "nlpc.org",
       "n": 1,
       "avg_tone": -2.34
@@ -1255,103 +1290,68 @@
       "source": "thelocal.it",
       "n": 1,
       "avg_tone": -4.286
-    },
-    {
-      "source": "thelocal.dk",
-      "n": 1,
-      "avg_tone": -4.286
-    },
-    {
-      "source": "craigdailypress.com",
-      "n": 1,
-      "avg_tone": 0.417
-    },
-    {
-      "source": "kiplinger.com",
-      "n": 1,
-      "avg_tone": 1.698
-    },
-    {
-      "source": "dailygazette.com",
-      "n": 1,
-      "avg_tone": 3.194
-    },
-    {
-      "source": "springer.com",
-      "n": 1,
-      "avg_tone": 4.417
-    },
-    {
-      "source": "businesstoday.in",
-      "n": 1,
-      "avg_tone": -10.435
-    },
-    {
-      "source": "dailycamera.com",
-      "n": 1,
-      "avg_tone": 1.182
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_2670_JOBS",
-      "n": 45
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 54
     },
     {
       "theme": "TAX_FNCACT_CHILDREN",
-      "n": 44
+      "n": 54
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 40
+      "theme": "WB_2670_JOBS",
+      "n": 51
     },
     {
       "theme": "IMMIGRATION",
-      "n": 39
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 39
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 39
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 38
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 38
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 38
+      "n": 45
     },
     {
       "theme": "EDUCATION",
-      "n": 37
+      "n": 44
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 44
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 43
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 43
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 43
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 36
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
+      "n": 34
+    },
+    {
+      "theme": "TAX_FNCACT_IMMIGRANTS",
+      "n": 33
     },
     {
       "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
       "n": 27
     },
     {
-      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
-      "n": 27
+      "theme": "USPEC_POLICY1",
+      "n": 26
     },
     {
       "theme": "TAX_ECON_PRICE",
       "n": 26
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 25
-    },
-    {
-      "theme": "WB_1979_NATURAL_RESOURCE_MANAGEMENT",
-      "n": 25
     }
   ]
 }
