@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T10:17:24.058253+00:00",
-  "rows_total_scanned_last_run": 2683,
-  "rows_mexico_last_run": 18,
-  "overall_avg_tone_4h": 0.122,
+  "generated_at": "2026-08-15T10:45:13.207618+00:00",
+  "rows_total_scanned_last_run": 2485,
+  "rows_mexico_last_run": 29,
+  "overall_avg_tone_4h": 0.221,
   "timeline": [
-    {
-      "time": "2026-08-12T10:30",
-      "avg_tone": 0.502,
-      "n_articles": 27
-    },
     {
       "time": "2026-08-12T10:45",
       "avg_tone": 1.014,
@@ -1193,145 +1188,155 @@
       "time": "2026-08-15T10:15",
       "avg_tone": 0.723,
       "n_articles": 3
+    },
+    {
+      "time": "2026-08-15T10:30",
+      "avg_tone": -0.43,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-15T10:45",
+      "avg_tone": 1.185,
+      "n_articles": 9
     }
   ],
   "top_sources": [
     {
-      "source": "yahoo.com",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "kickoff.com",
-      "n": 1,
-      "avg_tone": 1.07
-    },
-    {
-      "source": "cbn.com",
-      "n": 1,
-      "avg_tone": 1.101
-    },
-    {
-      "source": "7newsbelize.com",
-      "n": 1,
-      "avg_tone": 0.319
-    },
-    {
-      "source": "aol.co.uk",
-      "n": 1,
-      "avg_tone": 1.862
-    },
-    {
-      "source": "irishtimes.com",
-      "n": 1,
-      "avg_tone": -0.457
-    },
-    {
-      "source": "finanznachrichten.de",
-      "n": 1,
-      "avg_tone": -1.065
-    },
-    {
-      "source": "forbes.com",
-      "n": 1,
-      "avg_tone": 1.493
-    },
-    {
-      "source": "nbcbayarea.com",
-      "n": 1,
-      "avg_tone": 3.461
-    },
-    {
-      "source": "kcur.org",
-      "n": 1,
-      "avg_tone": 2.607
-    },
-    {
-      "source": "prnewswire.com",
-      "n": 1,
-      "avg_tone": 10.317
-    },
-    {
-      "source": "mainstreamweekly.net",
-      "n": 1,
-      "avg_tone": 1.573
+      "source": "riotimesonline.com",
+      "n": 3,
+      "avg_tone": 0.723
     },
     {
       "source": "themarketsdaily.com",
       "n": 1,
-      "avg_tone": 2.894
+      "avg_tone": 1.088
     },
     {
-      "source": "tickerreport.com",
+      "source": "winnipegfreepress.com",
       "n": 1,
-      "avg_tone": 3.226
+      "avg_tone": 0.894
     },
     {
-      "source": "citizen.co.za",
+      "source": "dailypolitical.com",
       "n": 1,
-      "avg_tone": 4.088
+      "avg_tone": 2.76
+    },
+    {
+      "source": "obrag.org",
+      "n": 1,
+      "avg_tone": 2.736
+    },
+    {
+      "source": "cgiar.org",
+      "n": 1,
+      "avg_tone": 3.954
+    },
+    {
+      "source": "ynetnews.com",
+      "n": 1,
+      "avg_tone": -2.934
+    },
+    {
+      "source": "internationalviewpoint.org",
+      "n": 1,
+      "avg_tone": -2.568
+    },
+    {
+      "source": "latimes.com",
+      "n": 1,
+      "avg_tone": -1.358
+    },
+    {
+      "source": "brandonsun.com",
+      "n": 1,
+      "avg_tone": 0.768
+    },
+    {
+      "source": "aawsat.com",
+      "n": 1,
+      "avg_tone": -0.517
+    },
+    {
+      "source": "tomsguide.com",
+      "n": 1,
+      "avg_tone": -0.979
+    },
+    {
+      "source": "localnews8.com",
+      "n": 1,
+      "avg_tone": -2.079
+    },
+    {
+      "source": "theunion.com",
+      "n": 1,
+      "avg_tone": 3.357
+    },
+    {
+      "source": "wastedive.com",
+      "n": 1,
+      "avg_tone": -1.936
     }
   ],
   "top_themes": [
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 31
-    },
-    {
-      "theme": "WB_135_TRANSPORT",
-      "n": 26
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 43
     },
     {
       "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
-      "n": 24
+      "n": 32
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 23
+      "theme": "TAX_FNCACT_CHILDREN",
+      "n": 31
     },
     {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 23
+      "theme": "EDUCATION",
+      "n": 30
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 29
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 28
     },
     {
       "theme": "ECON_DEBT",
-      "n": 23
+      "n": 28
     },
     {
       "theme": "WB_450_DEBT",
-      "n": 23
+      "n": 28
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 22
+      "theme": "WB_698_TRADE",
+      "n": 27
     },
     {
-      "theme": "WB_165_AIR_TRANSPORT",
-      "n": 22
+      "theme": "USPEC_POLICY1",
+      "n": 27
     },
     {
-      "theme": "WB_164_MODES_OF_TRANSPORT",
-      "n": 22
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 18
-    },
-    {
-      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 17
-    },
-    {
-      "theme": "WB_1281_MANUFACTURING",
-      "n": 17
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 14
+      "theme": "TAX_WORLDLANGUAGES_KANSAS",
+      "n": 26
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 13
+      "n": 26
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 25
+    },
+    {
+      "theme": "TAX_DISEASE_MEASLES",
+      "n": 23
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 22
     }
   ]
 }
