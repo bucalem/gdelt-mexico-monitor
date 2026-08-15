@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T17:55:12.225188+00:00",
-  "rows_total_scanned_last_run": 2605,
-  "rows_mexico_last_run": 36,
-  "overall_avg_tone_4h": -0.2,
+  "generated_at": "2026-08-15T18:15:37.288570+00:00",
+  "rows_total_scanned_last_run": 2726,
+  "rows_mexico_last_run": 34,
+  "overall_avg_tone_4h": -0.239,
   "timeline": [
-    {
-      "time": "2026-08-12T18:00",
-      "avg_tone": 0.221,
-      "n_articles": 34
-    },
     {
       "time": "2026-08-12T18:15",
       "avg_tone": -0.423,
@@ -1228,6 +1223,11 @@
       "time": "2026-08-15T18:00",
       "avg_tone": 0.098,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-15T18:15",
+      "avg_tone": -1.325,
+      "n_articles": 4
     }
   ],
   "top_sources": [
@@ -1245,6 +1245,26 @@
       "source": "aol.co.uk",
       "n": 2,
       "avg_tone": -2.957
+    },
+    {
+      "source": "alipac.us",
+      "n": 1,
+      "avg_tone": -3.425
+    },
+    {
+      "source": "nydailynews.com",
+      "n": 1,
+      "avg_tone": -0.446
+    },
+    {
+      "source": "kvia.com",
+      "n": 1,
+      "avg_tone": -0.396
+    },
+    {
+      "source": "yahoo.com",
+      "n": 1,
+      "avg_tone": -1.032
     },
     {
       "source": "foxla.com",
@@ -1285,59 +1305,27 @@
       "source": "kpcnews.com",
       "n": 1,
       "avg_tone": 1.365
-    },
-    {
-      "source": "ladailypost.com",
-      "n": 1,
-      "avg_tone": 1.6
-    },
-    {
-      "source": "eastcountymagazine.org",
-      "n": 1,
-      "avg_tone": 1.158
-    },
-    {
-      "source": "mirror.co.uk",
-      "n": 1,
-      "avg_tone": -1.887
-    },
-    {
-      "source": "pagesix.com",
-      "n": 1,
-      "avg_tone": -1.862
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_FNCACT_CHILDREN",
-      "n": 115
+      "n": 85
     },
     {
       "theme": "TAX_FNCACT_CHILD",
-      "n": 101
+      "n": 75
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 60
-    },
-    {
-      "theme": "TAX_FNCACT_BANDIT",
-      "n": 49
+      "n": 52
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 44
+      "n": 50
     },
     {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 44
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 44
-    },
-    {
-      "theme": "TAX_FNCACT_MANAGER",
+      "theme": "TAX_FNCACT_PRESIDENT",
       "n": 43
     },
     {
@@ -1345,28 +1333,40 @@
       "n": 42
     },
     {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 42
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 42
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 41
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 41
+      "theme": "LEADER",
+      "n": 40
     },
     {
       "theme": "ELECTION",
       "n": 40
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
+      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 39
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 38
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 38
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 38
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 36
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 36
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 36
     }
   ]
 }
