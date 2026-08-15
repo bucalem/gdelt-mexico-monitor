@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T20:37:27.791624+00:00",
+  "generated_at": "2026-08-15T20:57:27.979724+00:00",
   "rows_total_scanned_last_run": 2109,
   "rows_mexico_last_run": 19,
-  "overall_avg_tone_4h": -0.72,
+  "overall_avg_tone_4h": -0.735,
   "timeline": [
-    {
-      "time": "2026-08-12T20:45",
-      "avg_tone": 0.428,
-      "n_articles": 21
-    },
     {
       "time": "2026-08-12T21:00",
       "avg_tone": 1.471,
@@ -1233,6 +1228,11 @@
       "time": "2026-08-15T20:45",
       "avg_tone": -2.023,
       "n_articles": 6
+    },
+    {
+      "time": "2026-08-15T21:00",
+      "avg_tone": -0.575,
+      "n_articles": 5
     }
   ],
   "top_sources": [
@@ -1245,6 +1245,31 @@
       "source": "f4wonline.com",
       "n": 2,
       "avg_tone": 1.901
+    },
+    {
+      "source": "kob.com",
+      "n": 1,
+      "avg_tone": -2.721
+    },
+    {
+      "source": "sunjournal.com",
+      "n": 1,
+      "avg_tone": 0.358
+    },
+    {
+      "source": "spokanepublicradio.org",
+      "n": 1,
+      "avg_tone": -0.662
+    },
+    {
+      "source": "torontosun.com",
+      "n": 1,
+      "avg_tone": -1.139
+    },
+    {
+      "source": "themarysue.com",
+      "n": 1,
+      "avg_tone": 1.29
     },
     {
       "source": "krgv.com",
@@ -1285,41 +1310,20 @@
       "source": "cp24.com",
       "n": 1,
       "avg_tone": 0.828
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 5.862
-    },
-    {
-      "source": "saltlakecitysun.com",
-      "n": 1,
-      "avg_tone": -0.799
-    },
-    {
-      "source": "pressherald.com",
-      "n": 1,
-      "avg_tone": 0.351
-    },
-    {
-      "source": "adn.com",
-      "n": 1,
-      "avg_tone": -2.188
-    },
-    {
-      "source": "castanetkamloops.net",
-      "n": 1,
-      "avg_tone": -2.801
     }
   ],
   "top_themes": [
     {
       "theme": "BORDER",
-      "n": 52
+      "n": 66
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 44
+      "n": 46
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 38
     },
     {
       "theme": "SECURITY_SERVICES",
@@ -1330,48 +1334,44 @@
       "n": 35
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 34
+      "theme": "LEADER",
+      "n": 31
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 30
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 27
     },
     {
-      "theme": "LEADER",
+      "theme": "USPEC_POLITICS_GENERAL1",
       "n": 25
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 24
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 23
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 25
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
       "n": 22
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 19
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 17
     },
     {
       "theme": "GENERAL_GOVERNMENT",
-      "n": 15
+      "n": 16
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 15
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 14
+      "theme": "MEDIA_MSM",
+      "n": 16
     },
     {
       "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 14
+      "n": 15
     }
   ]
 }
