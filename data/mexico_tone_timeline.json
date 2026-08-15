@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-15T09:02:30.659958+00:00",
-  "rows_total_scanned_last_run": 2454,
-  "rows_mexico_last_run": 33,
-  "overall_avg_tone_4h": -0.72,
+  "generated_at": "2026-08-15T09:37:22.818609+00:00",
+  "rows_total_scanned_last_run": 2570,
+  "rows_mexico_last_run": 15,
+  "overall_avg_tone_4h": -0.251,
   "timeline": [
-    {
-      "time": "2026-08-12T09:15",
-      "avg_tone": -1.026,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-08-12T09:30",
-      "avg_tone": 0.403,
-      "n_articles": 29
-    },
     {
       "time": "2026-08-12T09:45",
       "avg_tone": 0.757,
@@ -1193,28 +1183,73 @@
       "time": "2026-08-15T09:00",
       "avg_tone": -0.76,
       "n_articles": 3
+    },
+    {
+      "time": "2026-08-15T09:15",
+      "avg_tone": 0.492,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-08-15T09:30",
+      "avg_tone": 2.723,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-08-15T09:45",
+      "avg_tone": 2.564,
+      "n_articles": 3
     }
   ],
   "top_sources": [
     {
-      "source": "dailypolitical.com",
-      "n": 2,
-      "avg_tone": 3.224
+      "source": "tickerreport.com",
+      "n": 3,
+      "avg_tone": 2.296
+    },
+    {
+      "source": "mainstreamweekly.net",
+      "n": 1,
+      "avg_tone": 1.573
     },
     {
       "source": "themarketsdaily.com",
-      "n": 2,
-      "avg_tone": 2.05
+      "n": 1,
+      "avg_tone": 2.894
     },
     {
-      "source": "7newsbelize.com",
-      "n": 2,
-      "avg_tone": 0.312
+      "source": "citizen.co.za",
+      "n": 1,
+      "avg_tone": 4.088
     },
     {
-      "source": "arkansasonline.com",
-      "n": 2,
-      "avg_tone": -2.943
+      "source": "mankatofreepress.com",
+      "n": 1,
+      "avg_tone": 4.302
+    },
+    {
+      "source": "theguardian.com",
+      "n": 1,
+      "avg_tone": 1.862
+    },
+    {
+      "source": "arsenalnews.co.uk",
+      "n": 1,
+      "avg_tone": 0.64
+    },
+    {
+      "source": "countytimes.co.uk",
+      "n": 1,
+      "avg_tone": 3.361
+    },
+    {
+      "source": "freemalaysiatoday.com",
+      "n": 1,
+      "avg_tone": -2.812
+    },
+    {
+      "source": "homenewshere.com",
+      "n": 1,
+      "avg_tone": -1.754
     },
     {
       "source": "miningjournal.net",
@@ -1227,111 +1262,71 @@
       "avg_tone": -6.148
     },
     {
-      "source": "fairviewpost.com",
+      "source": "dailypolitical.com",
       "n": 1,
-      "avg_tone": 0.85
-    },
-    {
-      "source": "coldlakesun.com",
-      "n": 1,
-      "avg_tone": 0.85
-    },
-    {
-      "source": "mtlblog.com",
-      "n": 1,
-      "avg_tone": 2.651
-    },
-    {
-      "source": "businesstimes.com.sg",
-      "n": 1,
-      "avg_tone": -0.687
-    },
-    {
-      "source": "thewhig.com",
-      "n": 1,
-      "avg_tone": 2.092
-    },
-    {
-      "source": "akronnewsreporter.com",
-      "n": 1,
-      "avg_tone": 2.553
-    },
-    {
-      "source": "highrivertimes.com",
-      "n": 1,
-      "avg_tone": 0.85
-    },
-    {
-      "source": "pembrokeobserver.com",
-      "n": 1,
-      "avg_tone": 0.85
-    },
-    {
-      "source": "pinchercreekecho.com",
-      "n": 1,
-      "avg_tone": 0.85
+      "avg_tone": 1.465
     }
   ],
   "top_themes": [
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 199
-    },
-    {
       "theme": "WB_135_TRANSPORT",
-      "n": 189
+      "n": 26
     },
     {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 184
-    },
-    {
-      "theme": "WB_166_RAILWAYS",
-      "n": 182
-    },
-    {
-      "theme": "CRISISLEX_C04_LOGISTICS_TRANSPORT",
-      "n": 182
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 82
-    },
-    {
-      "theme": "KILL",
-      "n": 66
-    },
-    {
-      "theme": "CRISISLEX_T02_INJURED",
-      "n": 66
-    },
-    {
-      "theme": "CRISISLEX_T03_DEAD",
-      "n": 66
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 37
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 30
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 27
-    },
-    {
-      "theme": "EDUCATION",
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
       "n": 24
     },
     {
-      "theme": "MEDIA_MSM",
-      "n": 20
+      "theme": "WB_165_AIR_TRANSPORT",
+      "n": 22
     },
     {
-      "theme": "LEADER",
-      "n": 18
+      "theme": "WB_164_MODES_OF_TRANSPORT",
+      "n": 22
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 19
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 19
+    },
+    {
+      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "n": 17
+    },
+    {
+      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
+      "n": 17
+    },
+    {
+      "theme": "WB_1281_MANUFACTURING",
+      "n": 17
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 12
+    },
+    {
+      "theme": "TAX_FNCACT_ANALYST",
+      "n": 12
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 9
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 9
+    },
+    {
+      "theme": "TAX_FNCACT_VOLUNTEERS",
+      "n": 9
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 8
     }
   ]
 }
