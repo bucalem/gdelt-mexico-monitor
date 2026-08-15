@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T03:21:21.548991+00:00",
-  "rows_total_scanned_last_run": 2407,
-  "rows_mexico_last_run": 40,
-  "overall_avg_tone_4h": -1.418,
+  "generated_at": "2026-08-15T04:00:46.969166+00:00",
+  "rows_total_scanned_last_run": 2223,
+  "rows_mexico_last_run": 28,
+  "overall_avg_tone_4h": -1.385,
   "timeline": [
-    {
-      "time": "2026-08-12T03:30",
-      "avg_tone": -1.02,
-      "n_articles": 15
-    },
     {
       "time": "2026-08-12T04:30",
       "avg_tone": -1.055,
@@ -1158,13 +1153,28 @@
       "time": "2026-08-15T03:30",
       "avg_tone": -3.227,
       "n_articles": 9
+    },
+    {
+      "time": "2026-08-15T03:45",
+      "avg_tone": -1.421,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-08-15T04:00",
+      "avg_tone": -0.377,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "iheart.com",
-      "n": 12,
-      "avg_tone": 0.279
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": -2.074
+    },
+    {
+      "source": "gringogazette.com",
+      "n": 2,
+      "avg_tone": -0.079
     },
     {
       "source": "foodsafetynews.com",
@@ -1172,131 +1182,126 @@
       "avg_tone": -6.073
     },
     {
-      "source": "foodpoisonjournal.com",
-      "n": 2,
-      "avg_tone": -2.256
+      "source": "wfmz.com",
+      "n": 1,
+      "avg_tone": -2.968
     },
     {
-      "source": "sdpb.org",
-      "n": 2,
-      "avg_tone": 1.043
+      "source": "kvia.com",
+      "n": 1,
+      "avg_tone": -2.962
+    },
+    {
+      "source": "thewrap.com",
+      "n": 1,
+      "avg_tone": 2.083
+    },
+    {
+      "source": "dentonrc.com",
+      "n": 1,
+      "avg_tone": 1.106
+    },
+    {
+      "source": "dailykos.com",
+      "n": 1,
+      "avg_tone": 0.701
+    },
+    {
+      "source": "parkrecord.com",
+      "n": 1,
+      "avg_tone": 3.59
+    },
+    {
+      "source": "chinadaily.com.cn",
+      "n": 1,
+      "avg_tone": -4.172
+    },
+    {
+      "source": "channelnewsasia.com",
+      "n": 1,
+      "avg_tone": -1.087
+    },
+    {
+      "source": "prnewswire.com",
+      "n": 1,
+      "avg_tone": -0.966
+    },
+    {
+      "source": "venezuelastar.com",
+      "n": 1,
+      "avg_tone": -2.564
+    },
+    {
+      "source": "iheart.com",
+      "n": 1,
+      "avg_tone": -0.397
     },
     {
       "source": "kamloopsbcnow.com",
       "n": 1,
       "avg_tone": -2.332
-    },
-    {
-      "source": "kuow.org",
-      "n": 1,
-      "avg_tone": -1.912
-    },
-    {
-      "source": "breitbart.com",
-      "n": 1,
-      "avg_tone": -17.1
-    },
-    {
-      "source": "chicagotribune.com",
-      "n": 1,
-      "avg_tone": 0.845
-    },
-    {
-      "source": "architecturalrecord.com",
-      "n": 1,
-      "avg_tone": 2.406
-    },
-    {
-      "source": "screenrant.com",
-      "n": 1,
-      "avg_tone": 1.595
-    },
-    {
-      "source": "lufkindailynews.com",
-      "n": 1,
-      "avg_tone": -1.181
-    },
-    {
-      "source": "caribbeanherald.com",
-      "n": 1,
-      "avg_tone": -2.564
-    },
-    {
-      "source": "wishtv.com",
-      "n": 1,
-      "avg_tone": -3.424
-    },
-    {
-      "source": "dailytarheel.com",
-      "n": 1,
-      "avg_tone": 2.189
-    },
-    {
-      "source": "newsweek.com",
-      "n": 1,
-      "avg_tone": -3.318
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
-      "n": 111
+      "theme": "BORDER",
+      "n": 38
     },
     {
-      "theme": "WB_590_ECOSYSTEMS",
-      "n": 111
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 34
     },
     {
-      "theme": "WB_595_DRYLANDS",
-      "n": 106
+      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
+      "n": 28
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 26
+      "theme": "WB_450_DEBT",
+      "n": 28
+    },
+    {
+      "theme": "ECON_DEBT",
+      "n": 27
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
       "n": 24
     },
     {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 22
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 22
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 22
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 22
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 22
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 22
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 21
+      "theme": "ENV_OIL",
+      "n": 24
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
+      "n": 23
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 21
+    },
+    {
+      "theme": "LEADER",
       "n": 20
     },
     {
-      "theme": "TAX_ECON_PRICE",
+      "theme": "TAX_FNCACT_PRESIDENT",
       "n": 20
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 18
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 19
+    },
+    {
+      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
+      "n": 17
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 17
+    },
+    {
+      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
+      "n": 17
     }
   ]
 }
