@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-15T05:58:43.923865+00:00",
-  "rows_total_scanned_last_run": 2436,
-  "rows_mexico_last_run": 39,
-  "overall_avg_tone_4h": -0.897,
+  "generated_at": "2026-08-15T06:38:42.764898+00:00",
+  "rows_total_scanned_last_run": 2761,
+  "rows_mexico_last_run": 31,
+  "overall_avg_tone_4h": -0.965,
   "timeline": [
-    {
-      "time": "2026-08-12T06:00",
-      "avg_tone": -1.983,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-08-12T06:15",
-      "avg_tone": -2.803,
-      "n_articles": 28
-    },
-    {
-      "time": "2026-08-12T06:30",
-      "avg_tone": -0.944,
-      "n_articles": 31
-    },
     {
       "time": "2026-08-12T06:45",
       "avg_tone": -1.008,
@@ -1183,145 +1168,160 @@
       "time": "2026-08-15T06:00",
       "avg_tone": -0.305,
       "n_articles": 7
+    },
+    {
+      "time": "2026-08-15T06:15",
+      "avg_tone": -2.2,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-15T06:30",
+      "avg_tone": -2.661,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-08-15T06:45",
+      "avg_tone": 0.512,
+      "n_articles": 10
     }
   ],
   "top_sources": [
     {
-      "source": "abqjournal.com",
+      "source": "santafenewmexican.com",
       "n": 3,
-      "avg_tone": -4.725
+      "avg_tone": -3.391
     },
     {
-      "source": "mymotherlode.com",
+      "source": "krgv.com",
       "n": 2,
-      "avg_tone": -6.884
+      "avg_tone": -6.171
     },
     {
-      "source": "kold.com",
-      "n": 1,
-      "avg_tone": -2.62
-    },
-    {
-      "source": "intelligencer.ca",
+      "source": "whitecourtstar.com",
       "n": 1,
       "avg_tone": 0.85
     },
     {
-      "source": "yahoo.com",
+      "source": "newsnow.co.uk",
       "n": 1,
-      "avg_tone": -3.162
+      "avg_tone": 2.657
     },
     {
-      "source": "timescall.com",
+      "source": "salisburyjournal.co.uk",
       "n": 1,
-      "avg_tone": 0.549
+      "avg_tone": 0.0
     },
     {
-      "source": "thecragandcanyon.ca",
+      "source": "kvoa.com",
+      "n": 1,
+      "avg_tone": 1.786
+    },
+    {
+      "source": "kob.com",
+      "n": 1,
+      "avg_tone": -1.626
+    },
+    {
+      "source": "owensoundsuntimes.com",
+      "n": 1,
+      "avg_tone": 1.095
+    },
+    {
+      "source": "moneycontrol.com",
+      "n": 1,
+      "avg_tone": 6.713
+    },
+    {
+      "source": "dailyheraldtribune.com",
+      "n": 1,
+      "avg_tone": 0.989
+    },
+    {
+      "source": "alaska-native-news.com",
+      "n": 1,
+      "avg_tone": -7.8
+    },
+    {
+      "source": "ibtimes.com.au",
+      "n": 1,
+      "avg_tone": 0.455
+    },
+    {
+      "source": "saultstar.com",
       "n": 1,
       "avg_tone": 0.85
     },
     {
-      "source": "reporterherald.com",
-      "n": 1,
-      "avg_tone": 0.549
-    },
-    {
-      "source": "lakeshoreadvance.com",
+      "source": "thepost.on.ca",
       "n": 1,
       "avg_tone": 0.85
     },
     {
-      "source": "thesudburystar.com",
+      "source": "sandiegosun.com",
       "n": 1,
-      "avg_tone": 1.104
-    },
-    {
-      "source": "vermilionstandard.com",
-      "n": 1,
-      "avg_tone": 0.85
-    },
-    {
-      "source": "nypost.com",
-      "n": 1,
-      "avg_tone": -2.632
-    },
-    {
-      "source": "bulatlat.com",
-      "n": 1,
-      "avg_tone": -6.919
-    },
-    {
-      "source": "ocbj.com",
-      "n": 1,
-      "avg_tone": 0.645
-    },
-    {
-      "source": "ksat.com",
-      "n": 1,
-      "avg_tone": -2.733
+      "avg_tone": 0.456
     }
   ],
   "top_themes": [
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 247
-    },
-    {
-      "theme": "CRISISLEX_C04_LOGISTICS_TRANSPORT",
-      "n": 230
+      "n": 148
     },
     {
       "theme": "WB_135_TRANSPORT",
-      "n": 229
+      "n": 142
     },
     {
       "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 226
+      "n": 141
+    },
+    {
+      "theme": "CRISISLEX_C04_LOGISTICS_TRANSPORT",
+      "n": 140
     },
     {
       "theme": "WB_166_RAILWAYS",
-      "n": 224
+      "n": 138
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 99
-    },
-    {
-      "theme": "KILL",
-      "n": 86
+      "n": 62
     },
     {
       "theme": "CRISISLEX_T02_INJURED",
-      "n": 86
+      "n": 54
     },
     {
       "theme": "CRISISLEX_T03_DEAD",
-      "n": 86
+      "n": 53
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 43
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 31
+      "theme": "KILL",
+      "n": 51
     },
     {
       "theme": "BORDER",
-      "n": 24
+      "n": 28
     },
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 24
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 27
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 23
+      "theme": "GENERAL_HEALTH",
+      "n": 26
     },
     {
-      "theme": "TAX_ECON_PRICE",
+      "theme": "TRIAL",
+      "n": 25
+    },
+    {
+      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
       "n": 22
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 20
     }
   ]
 }
