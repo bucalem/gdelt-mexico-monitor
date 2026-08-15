@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T06:38:42.764898+00:00",
-  "rows_total_scanned_last_run": 2761,
-  "rows_mexico_last_run": 31,
-  "overall_avg_tone_4h": -0.965,
+  "generated_at": "2026-08-15T07:14:57.088057+00:00",
+  "rows_total_scanned_last_run": 2155,
+  "rows_mexico_last_run": 19,
+  "overall_avg_tone_4h": -1.0,
   "timeline": [
-    {
-      "time": "2026-08-12T06:45",
-      "avg_tone": -1.008,
-      "n_articles": 23
-    },
     {
       "time": "2026-08-12T07:15",
       "avg_tone": -1.379,
@@ -1183,18 +1178,43 @@
       "time": "2026-08-15T06:45",
       "avg_tone": 0.512,
       "n_articles": 10
+    },
+    {
+      "time": "2026-08-15T07:15",
+      "avg_tone": 0.358,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
-      "source": "santafenewmexican.com",
-      "n": 3,
-      "avg_tone": -3.391
-    },
-    {
       "source": "krgv.com",
       "n": 2,
       "avg_tone": -6.171
+    },
+    {
+      "source": "thetimesnews.com",
+      "n": 1,
+      "avg_tone": 1.806
+    },
+    {
+      "source": "hannaherald.com",
+      "n": 1,
+      "avg_tone": 0.85
+    },
+    {
+      "source": "mitchelladvocate.com",
+      "n": 1,
+      "avg_tone": 0.85
+    },
+    {
+      "source": "irishtimes.com",
+      "n": 1,
+      "avg_tone": -2.564
+    },
+    {
+      "source": "stthomastimesjournal.com",
+      "n": 1,
+      "avg_tone": 0.85
     },
     {
       "source": "whitecourtstar.com",
@@ -1240,88 +1260,68 @@
       "source": "alaska-native-news.com",
       "n": 1,
       "avg_tone": -7.8
-    },
-    {
-      "source": "ibtimes.com.au",
-      "n": 1,
-      "avg_tone": 0.455
-    },
-    {
-      "source": "saultstar.com",
-      "n": 1,
-      "avg_tone": 0.85
-    },
-    {
-      "source": "thepost.on.ca",
-      "n": 1,
-      "avg_tone": 0.85
-    },
-    {
-      "source": "sandiegosun.com",
-      "n": 1,
-      "avg_tone": 0.456
     }
   ],
   "top_themes": [
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 148
+      "n": 125
     },
     {
       "theme": "WB_135_TRANSPORT",
-      "n": 142
+      "n": 114
     },
     {
       "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 141
-    },
-    {
-      "theme": "CRISISLEX_C04_LOGISTICS_TRANSPORT",
-      "n": 140
+      "n": 113
     },
     {
       "theme": "WB_166_RAILWAYS",
-      "n": 138
+      "n": 112
+    },
+    {
+      "theme": "CRISISLEX_C04_LOGISTICS_TRANSPORT",
+      "n": 112
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 62
-    },
-    {
-      "theme": "CRISISLEX_T02_INJURED",
-      "n": 54
-    },
-    {
-      "theme": "CRISISLEX_T03_DEAD",
-      "n": 53
+      "n": 44
     },
     {
       "theme": "KILL",
-      "n": 51
+      "n": 40
     },
     {
-      "theme": "BORDER",
-      "n": 28
+      "theme": "CRISISLEX_T02_INJURED",
+      "n": 40
+    },
+    {
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 40
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 20
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
+      "n": 19
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 27
+      "n": 18
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 26
-    },
-    {
-      "theme": "TRIAL",
-      "n": 25
-    },
-    {
-      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
-      "n": 22
+      "theme": "TAX_ECON_PRICE",
+      "n": 12
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 20
+      "n": 11
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 11
     }
   ]
 }
