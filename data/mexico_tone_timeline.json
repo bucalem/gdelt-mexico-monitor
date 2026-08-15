@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T15:24:44.598076+00:00",
-  "rows_total_scanned_last_run": 3063,
-  "rows_mexico_last_run": 32,
-  "overall_avg_tone_4h": -0.308,
+  "generated_at": "2026-08-15T15:42:27.503899+00:00",
+  "rows_total_scanned_last_run": 2955,
+  "rows_mexico_last_run": 30,
+  "overall_avg_tone_4h": -0.409,
   "timeline": [
-    {
-      "time": "2026-08-12T15:30",
-      "avg_tone": -0.021,
-      "n_articles": 37
-    },
     {
       "time": "2026-08-12T15:45",
       "avg_tone": -0.379,
@@ -1223,6 +1218,11 @@
       "time": "2026-08-15T15:30",
       "avg_tone": -0.596,
       "n_articles": 6
+    },
+    {
+      "time": "2026-08-15T15:45",
+      "avg_tone": -2.608,
+      "n_articles": 7
     }
   ],
   "top_sources": [
@@ -1232,19 +1232,44 @@
       "avg_tone": -1.238
     },
     {
-      "source": "dailygazette.com",
-      "n": 2,
-      "avg_tone": 3.194
-    },
-    {
       "source": "sandiegouniontribune.com",
       "n": 2,
       "avg_tone": -0.949
     },
     {
-      "source": "fool.com",
-      "n": 2,
-      "avg_tone": 1.147
+      "source": "thelocal.se",
+      "n": 1,
+      "avg_tone": -4.286
+    },
+    {
+      "source": "scoop.co.nz",
+      "n": 1,
+      "avg_tone": -4.815
+    },
+    {
+      "source": "thelocal.es",
+      "n": 1,
+      "avg_tone": -4.286
+    },
+    {
+      "source": "kcbd.com",
+      "n": 1,
+      "avg_tone": -7.119
+    },
+    {
+      "source": "courant.com",
+      "n": 1,
+      "avg_tone": -0.403
+    },
+    {
+      "source": "reporterherald.com",
+      "n": 1,
+      "avg_tone": -0.403
+    },
+    {
+      "source": "247wallst.com",
+      "n": 1,
+      "avg_tone": 3.053
     },
     {
       "source": "thelocal.de",
@@ -1275,93 +1300,68 @@
       "source": "liverpoolecho.co.uk",
       "n": 1,
       "avg_tone": 3.462
-    },
-    {
-      "source": "bostonherald.com",
-      "n": 1,
-      "avg_tone": -0.403
-    },
-    {
-      "source": "therecord.com",
-      "n": 1,
-      "avg_tone": 0.634
-    },
-    {
-      "source": "dailylocal.com",
-      "n": 1,
-      "avg_tone": -0.403
-    },
-    {
-      "source": "whec.com",
-      "n": 1,
-      "avg_tone": -2.838
-    },
-    {
-      "source": "planetf1.com",
-      "n": 1,
-      "avg_tone": 0.887
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_FNCACT_CHILDREN",
-      "n": 93
+      "n": 108
     },
     {
       "theme": "TAX_FNCACT_CHILD",
-      "n": 79
-    },
-    {
-      "theme": "TAX_FNCACT_MANAGER",
-      "n": 37
-    },
-    {
-      "theme": "TAX_FNCACT_BANDIT",
-      "n": 35
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 31
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 28
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 28
+      "n": 92
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 28
+      "n": 66
     },
     {
-      "theme": "TAX_FNCACT_COOK",
-      "n": 28
+      "theme": "TAX_FNCACT_MANAGER",
+      "n": 42
+    },
+    {
+      "theme": "TAX_FNCACT_BANDIT",
+      "n": 42
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 35
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 27
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 27
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 26
+      "n": 34
     },
     {
       "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 26
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 26
+      "n": 31
     },
     {
       "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 26
+      "n": 31
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 31
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 30
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 28
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 27
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 25
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 25
     }
   ]
 }
