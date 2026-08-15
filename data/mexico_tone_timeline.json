@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T12:19:31.288324+00:00",
-  "rows_total_scanned_last_run": 2546,
-  "rows_mexico_last_run": 29,
-  "overall_avg_tone_4h": 0.421,
+  "generated_at": "2026-08-15T13:05:35.683907+00:00",
+  "rows_total_scanned_last_run": 2761,
+  "rows_mexico_last_run": 31,
+  "overall_avg_tone_4h": 0.139,
   "timeline": [
-    {
-      "time": "2026-08-12T13:00",
-      "avg_tone": -0.185,
-      "n_articles": 21
-    },
     {
       "time": "2026-08-12T13:15",
       "avg_tone": 0.64,
@@ -1203,145 +1198,160 @@
       "time": "2026-08-15T12:30",
       "avg_tone": 0.717,
       "n_articles": 8
+    },
+    {
+      "time": "2026-08-15T12:45",
+      "avg_tone": -2.119,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-08-15T13:00",
+      "avg_tone": -1.034,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-08-15T13:15",
+      "avg_tone": -0.117,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
-      "source": "latintimes.com",
-      "n": 3,
-      "avg_tone": 0.055
-    },
-    {
-      "source": "themarketsdaily.com",
+      "source": "philippinetimes.com",
       "n": 2,
-      "avg_tone": 1.332
+      "avg_tone": -2.405
     },
     {
-      "source": "yahoo.com",
+      "source": "keyt.com",
+      "n": 2,
+      "avg_tone": -0.396
+    },
+    {
+      "source": "tickerreport.com",
+      "n": 2,
+      "avg_tone": 3.671
+    },
+    {
+      "source": "collider.com",
+      "n": 2,
+      "avg_tone": -0.996
+    },
+    {
+      "source": "fool.com",
       "n": 1,
-      "avg_tone": 3.686
+      "avg_tone": 1.493
     },
     {
-      "source": "dailygazette.com",
+      "source": "victoriaadvocate.com",
       "n": 1,
-      "avg_tone": 3.194
+      "avg_tone": 0.974
     },
     {
-      "source": "wnmufm.org",
+      "source": "si.com",
+      "n": 1,
+      "avg_tone": -1.036
+    },
+    {
+      "source": "ktvz.com",
+      "n": 1,
+      "avg_tone": -2.079
+    },
+    {
+      "source": "newswire.ca",
+      "n": 1,
+      "avg_tone": -0.968
+    },
+    {
+      "source": "mcall.com",
+      "n": 1,
+      "avg_tone": -1.114
+    },
+    {
+      "source": "techtimes.com",
+      "n": 1,
+      "avg_tone": -0.534
+    },
+    {
+      "source": "globalsecurity.org",
+      "n": 1,
+      "avg_tone": 0.431
+    },
+    {
+      "source": "aol.co.uk",
+      "n": 1,
+      "avg_tone": -3.887
+    },
+    {
+      "source": "guitarworld.com",
+      "n": 1,
+      "avg_tone": 0.355
+    },
+    {
+      "source": "publicradioeast.org",
       "n": 1,
       "avg_tone": 0.0
-    },
-    {
-      "source": "hindustantimes.com",
-      "n": 1,
-      "avg_tone": 4.049
-    },
-    {
-      "source": "hawaiinewsnow.com",
-      "n": 1,
-      "avg_tone": -3.918
-    },
-    {
-      "source": "latimes.com",
-      "n": 1,
-      "avg_tone": -2.481
-    },
-    {
-      "source": "stcatharinesstandard.ca",
-      "n": 1,
-      "avg_tone": 0.634
-    },
-    {
-      "source": "prnewswire.com",
-      "n": 1,
-      "avg_tone": 10.317
-    },
-    {
-      "source": "dw.com",
-      "n": 1,
-      "avg_tone": -1.992
-    },
-    {
-      "source": "thepeterboroughexaminer.com",
-      "n": 1,
-      "avg_tone": 0.634
-    },
-    {
-      "source": "pjmedia.com",
-      "n": 1,
-      "avg_tone": -2.208
-    },
-    {
-      "source": "knau.org",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "news.az",
-      "n": 1,
-      "avg_tone": -6.268
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_698_TRADE",
+      "theme": "TAX_FNCACT_CHILDREN",
       "n": 37
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 31
-    },
-    {
-      "theme": "LEADER",
-      "n": 30
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 30
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 28
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 27
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 25
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 36
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 23
+      "n": 35
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "theme": "EDUCATION",
+      "n": 30
+    },
+    {
+      "theme": "TAX_DISEASE_SEIZURES",
+      "n": 26
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 24
+    },
+    {
+      "theme": "ECON_DEBT",
+      "n": 24
+    },
+    {
+      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
+      "n": 24
+    },
+    {
+      "theme": "WB_450_DEBT",
+      "n": 24
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
       "n": 22
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
+      "theme": "CORRUPTION",
+      "n": 22
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
       "n": 21
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 19
+      "theme": "WB_2299_PIPELINES",
+      "n": 21
     },
     {
-      "theme": "BORDER",
-      "n": 18
+      "theme": "WB_539_OIL_AND_GAS_POLICY_STRATEGY_AND_INSTITUTIONS",
+      "n": 21
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 17
-    },
-    {
-      "theme": "TAX_RELIGION_CHRISTIANS",
-      "n": 16
-    },
-    {
-      "theme": "TAX_ETHNICITY_CHRISTIANS",
-      "n": 16
+      "theme": "WB_548_PPP_IN_OIL_AND_GAS",
+      "n": 21
     }
   ]
 }
