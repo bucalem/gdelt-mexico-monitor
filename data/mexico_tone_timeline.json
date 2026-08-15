@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T19:53:38.337834+00:00",
-  "rows_total_scanned_last_run": 2436,
-  "rows_mexico_last_run": 26,
-  "overall_avg_tone_4h": -0.624,
+  "generated_at": "2026-08-15T20:12:17.751671+00:00",
+  "rows_total_scanned_last_run": 2307,
+  "rows_mexico_last_run": 25,
+  "overall_avg_tone_4h": -0.722,
   "timeline": [
-    {
-      "time": "2026-08-12T20:00",
-      "avg_tone": -2.44,
-      "n_articles": 27
-    },
     {
       "time": "2026-08-12T20:15",
       "avg_tone": -1.262,
@@ -1233,6 +1228,11 @@
       "time": "2026-08-15T20:00",
       "avg_tone": -0.175,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-15T20:15",
+      "avg_tone": -0.19,
+      "n_articles": 5
     }
   ],
   "top_sources": [
@@ -1242,9 +1242,24 @@
       "avg_tone": -5.075
     },
     {
+      "source": "ynetnews.com",
+      "n": 2,
+      "avg_tone": -1.976
+    },
+    {
+      "source": "f4wonline.com",
+      "n": 2,
+      "avg_tone": 1.901
+    },
+    {
       "source": "brandonsun.com",
       "n": 2,
       "avg_tone": 5.258
+    },
+    {
+      "source": "saltlakecitysun.com",
+      "n": 1,
+      "avg_tone": -0.799
     },
     {
       "source": "pressherald.com",
@@ -1295,83 +1310,68 @@
       "source": "bignewsnetwork.com",
       "n": 1,
       "avg_tone": 6.623
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "taipeitimes.com",
-      "n": 1,
-      "avg_tone": -4.873
-    },
-    {
-      "source": "wyofile.com",
-      "n": 1,
-      "avg_tone": -1.653
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 41
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 57
     },
     {
-      "theme": "WB_135_TRANSPORT",
-      "n": 33
+      "theme": "SECURITY_SERVICES",
+      "n": 39
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 33
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 33
-    },
-    {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 30
+      "theme": "TAX_FNCACT_POLICE",
+      "n": 38
     },
     {
       "theme": "LEADER",
-      "n": 29
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 28
-    },
-    {
-      "theme": "WB_167_PORTS",
       "n": 28
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 27
-    },
-    {
-      "theme": "USPEC_POLICY1",
       "n": 26
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 25
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 25
     },
     {
       "theme": "BORDER",
       "n": 25
     },
     {
-      "theme": "WB_698_TRADE",
+      "theme": "WB_2670_JOBS",
       "n": 24
     },
     {
-      "theme": "WB_2769_JOBS_STRATEGIES",
+      "theme": "IMMIGRATION",
       "n": 24
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 23
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 21
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 18
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 18
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 17
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 16
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 15
     }
   ]
 }
