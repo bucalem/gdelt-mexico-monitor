@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T23:34:58.698499+00:00",
-  "rows_total_scanned_last_run": 1795,
-  "rows_mexico_last_run": 23,
-  "overall_avg_tone_4h": -0.85,
+  "generated_at": "2026-08-15T23:55:13.074838+00:00",
+  "rows_total_scanned_last_run": 1770,
+  "rows_mexico_last_run": 22,
+  "overall_avg_tone_4h": -0.886,
   "timeline": [
-    {
-      "time": "2026-08-12T23:45",
-      "avg_tone": -0.954,
-      "n_articles": 24
-    },
     {
       "time": "2026-08-13T00:00",
       "avg_tone": -0.893,
@@ -1238,13 +1233,38 @@
       "time": "2026-08-15T23:45",
       "avg_tone": -0.224,
       "n_articles": 4
+    },
+    {
+      "time": "2026-08-16T00:00",
+      "avg_tone": -0.739,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
+      "source": "bignewsnetwork.com",
+      "n": 2,
+      "avg_tone": 1.874
+    },
+    {
       "source": "heraldglobe.com",
       "n": 2,
       "avg_tone": 2.948
+    },
+    {
+      "source": "12onyourside.com",
+      "n": 1,
+      "avg_tone": -5.109
+    },
+    {
+      "source": "wpsdlocal6.com",
+      "n": 1,
+      "avg_tone": -0.398
+    },
+    {
+      "source": "wastedive.com",
+      "n": 1,
+      "avg_tone": -1.936
     },
     {
       "source": "wcbm.com",
@@ -1295,72 +1315,48 @@
       "source": "centralmaine.com",
       "n": 1,
       "avg_tone": 1.969
-    },
-    {
-      "source": "cbs58.com",
-      "n": 1,
-      "avg_tone": -1.734
-    },
-    {
-      "source": "wsmv.com",
-      "n": 1,
-      "avg_tone": -5.109
-    },
-    {
-      "source": "sydneysun.com",
-      "n": 1,
-      "avg_tone": -0.799
-    },
-    {
-      "source": "yahoo.com",
-      "n": 1,
-      "avg_tone": -1.026
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 30
-    },
-    {
-      "theme": "EPU_CATS_HEALTHCARE",
-      "n": 29
-    },
-    {
       "theme": "TAX_TERROR_GROUP_TALIBAN",
       "n": 29
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 28
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 25
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 25
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 25
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 25
     },
     {
       "theme": "ECON_HOUSING_PRICES",
       "n": 24
     },
     {
-      "theme": "TAX_ECON_PRICE",
+      "theme": "BORDER",
       "n": 22
     },
     {
-      "theme": "BORDER",
-      "n": 22
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 21
+    },
+    {
+      "theme": "EPU_CATS_HEALTHCARE",
+      "n": 20
+    },
+    {
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 20
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 20
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 20
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 20
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 20
     },
     {
       "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
@@ -1377,6 +1373,10 @@
     {
       "theme": "WB_1829_ECOSYSTEM_MANAGEMENT",
       "n": 18
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 16
     }
   ]
 }
