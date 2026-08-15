@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T11:32:59.187085+00:00",
-  "rows_total_scanned_last_run": 2456,
-  "rows_mexico_last_run": 38,
-  "overall_avg_tone_4h": 0.228,
+  "generated_at": "2026-08-15T11:54:23.003183+00:00",
+  "rows_total_scanned_last_run": 2445,
+  "rows_mexico_last_run": 33,
+  "overall_avg_tone_4h": 0.255,
   "timeline": [
-    {
-      "time": "2026-08-12T11:45",
-      "avg_tone": 1.435,
-      "n_articles": 19
-    },
     {
       "time": "2026-08-12T12:00",
       "avg_tone": 0.708,
@@ -1193,145 +1188,155 @@
       "time": "2026-08-15T11:30",
       "avg_tone": -1.572,
       "n_articles": 13
+    },
+    {
+      "time": "2026-08-15T11:45",
+      "avg_tone": -0.805,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-08-15T12:00",
+      "avg_tone": -0.001,
+      "n_articles": 8
     }
   ],
   "top_sources": [
-    {
-      "source": "cnn.com",
-      "n": 4,
-      "avg_tone": -1.497
-    },
-    {
-      "source": "riotimesonline.com",
-      "n": 3,
-      "avg_tone": 0.723
-    },
-    {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": 0.819
-    },
     {
       "source": "indiatimes.com",
       "n": 2,
       "avg_tone": -2.632
     },
     {
-      "source": "dailypolitical.com",
+      "source": "cnn.com",
       "n": 2,
-      "avg_tone": 2.005
+      "avg_tone": -1.497
     },
     {
-      "source": "courant.com",
-      "n": 2,
-      "avg_tone": 1.511
-    },
-    {
-      "source": "salon.com",
+      "source": "knau.org",
       "n": 1,
-      "avg_tone": -3.653
+      "avg_tone": 0.0
     },
     {
-      "source": "newstribune.com",
+      "source": "news.az",
       "n": 1,
-      "avg_tone": -2.052
+      "avg_tone": -6.268
     },
     {
-      "source": "shafaqna.com",
+      "source": "indonesiatribune.com",
       "n": 1,
-      "avg_tone": -5.085
+      "avg_tone": 5.628
     },
     {
-      "source": "postandcourier.com",
+      "source": "fourfourtwo.com",
       "n": 1,
-      "avg_tone": 2.041
+      "avg_tone": 1.709
     },
     {
-      "source": "mantecabulletin.com",
+      "source": "nearshoreamericas.com",
       "n": 1,
-      "avg_tone": -0.308
+      "avg_tone": 4.459
     },
     {
-      "source": "kelownadailycourier.ca",
+      "source": "naharnet.com",
       "n": 1,
-      "avg_tone": 0.649
+      "avg_tone": -2.728
     },
     {
-      "source": "medicinehatnews.com",
+      "source": "leadertelegram.com",
       "n": 1,
-      "avg_tone": 0.722
+      "avg_tone": -4.902
     },
     {
-      "source": "pembinavalleyonline.com",
+      "source": "themarketsdaily.com",
       "n": 1,
-      "avg_tone": 2.722
+      "avg_tone": 2.093
     },
     {
-      "source": "forbes.com",
+      "source": "chicagotribune.com",
       "n": 1,
-      "avg_tone": -4.061
+      "avg_tone": -2.447
+    },
+    {
+      "source": "wccftech.com",
+      "n": 1,
+      "avg_tone": 1.002
+    },
+    {
+      "source": "theglobeandmail.com",
+      "n": 1,
+      "avg_tone": 0.472
+    },
+    {
+      "source": "newsday.com",
+      "n": 1,
+      "avg_tone": -2.975
+    },
+    {
+      "source": "hawaiitribune-herald.com",
+      "n": 1,
+      "avg_tone": 0.107
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_698_TRADE",
-      "n": 71
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 69
-    },
-    {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 53
+      "n": 52
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 49
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 46
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
+      "theme": "WB_698_TRADE",
       "n": 45
     },
     {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 34
+    },
+    {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 44
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 43
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 39
-    },
-    {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 36
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 35
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 35
-    },
-    {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 34
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 34
+      "n": 32
     },
     {
       "theme": "LEADER",
-      "n": 32
+      "n": 31
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 31
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 30
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 29
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 29
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 28
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 27
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 27
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 27
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 26
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 26
     }
   ]
 }
