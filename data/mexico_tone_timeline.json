@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-15T19:14:49.361241+00:00",
-  "rows_total_scanned_last_run": 2582,
-  "rows_mexico_last_run": 29,
-  "overall_avg_tone_4h": -0.575,
+  "generated_at": "2026-08-15T19:35:49.847795+00:00",
+  "rows_total_scanned_last_run": 2480,
+  "rows_mexico_last_run": 22,
+  "overall_avg_tone_4h": -0.551,
   "timeline": [
-    {
-      "time": "2026-08-12T19:15",
-      "avg_tone": -1.933,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-08-12T19:30",
-      "avg_tone": -0.412,
-      "n_articles": 22
-    },
     {
       "time": "2026-08-12T19:45",
       "avg_tone": -1.902,
@@ -1233,18 +1223,73 @@
       "time": "2026-08-15T19:15",
       "avg_tone": -1.008,
       "n_articles": 6
+    },
+    {
+      "time": "2026-08-15T19:30",
+      "avg_tone": -1.994,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-15T19:45",
+      "avg_tone": -0.37,
+      "n_articles": 6
     }
   ],
   "top_sources": [
     {
-      "source": "breitbart.com",
-      "n": 2,
-      "avg_tone": -4.593
+      "source": "cubaheadlines.com",
+      "n": 4,
+      "avg_tone": -5.075
     },
     {
-      "source": "winnipegfreepress.com",
+      "source": "brandonsun.com",
       "n": 2,
-      "avg_tone": 5.842
+      "avg_tone": 5.258
+    },
+    {
+      "source": "internazionale.it",
+      "n": 1,
+      "avg_tone": -6.652
+    },
+    {
+      "source": "dailypress.com",
+      "n": 1,
+      "avg_tone": -2.948
+    },
+    {
+      "source": "wrestlinginc.com",
+      "n": 1,
+      "avg_tone": -0.304
+    },
+    {
+      "source": "kilgorenewsherald.com",
+      "n": 1,
+      "avg_tone": -2.831
+    },
+    {
+      "source": "bignewsnetwork.com",
+      "n": 1,
+      "avg_tone": 6.623
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "taipeitimes.com",
+      "n": 1,
+      "avg_tone": -4.873
+    },
+    {
+      "source": "wyofile.com",
+      "n": 1,
+      "avg_tone": -1.653
+    },
+    {
+      "source": "webindia123.com",
+      "n": 1,
+      "avg_tone": 2.258
     },
     {
       "source": "ijpr.org",
@@ -1265,65 +1310,24 @@
       "source": "screenrant.com",
       "n": 1,
       "avg_tone": -2.117
-    },
-    {
-      "source": "barbadostoday.bb",
-      "n": 1,
-      "avg_tone": -2.6
-    },
-    {
-      "source": "movieweb.com",
-      "n": 1,
-      "avg_tone": 0.65
-    },
-    {
-      "source": "theweathernetwork.com",
-      "n": 1,
-      "avg_tone": -9.013
-    },
-    {
-      "source": "sfist.com",
-      "n": 1,
-      "avg_tone": -5.06
-    },
-    {
-      "source": "zerohedge.com",
-      "n": 1,
-      "avg_tone": -4.982
-    },
-    {
-      "source": "en.tempo.co",
-      "n": 1,
-      "avg_tone": -1.907
-    },
-    {
-      "source": "fox34.com",
-      "n": 1,
-      "avg_tone": -7.119
-    },
-    {
-      "source": "chroniclejournal.com",
-      "n": 1,
-      "avg_tone": 0.649
-    },
-    {
-      "source": "cagesideseats.com",
-      "n": 1,
-      "avg_tone": -0.174
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_FNCACT_CHILDREN",
-      "n": 79
+      "n": 41
     },
     {
-      "theme": "TAX_FNCACT_CHILD",
-      "n": 64
+      "theme": "IMMIGRATION",
+      "n": 33
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 32
     },
     {
       "theme": "WB_135_TRANSPORT",
-      "n": 36
+      "n": 31
     },
     {
       "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
@@ -1334,44 +1338,40 @@
       "n": 28
     },
     {
-      "theme": "TAX_FNCACT_BANDIT",
-      "n": 28
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 28
-    },
-    {
-      "theme": "TAX_FNCACT_MANAGER",
-      "n": 28
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "theme": "CRISISLEX_C07_SAFETY",
       "n": 26
     },
     {
-      "theme": "USPEC_POLICY1",
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 26
+    },
+    {
+      "theme": "BORDER",
       "n": 25
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 24
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 24
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 24
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 25
+      "n": 24
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 23
+      "theme": "USPEC_POLICY1",
+      "n": 24
     },
     {
-      "theme": "IMMIGRATION",
-      "n": 23
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 22
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 22
+      "theme": "TAX_FNCACT_CHILD",
+      "n": 20
     }
   ]
 }
