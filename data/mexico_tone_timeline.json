@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T08:00:42.905497+00:00",
-  "rows_total_scanned_last_run": 2302,
-  "rows_mexico_last_run": 39,
-  "overall_avg_tone_4h": -0.776,
+  "generated_at": "2026-08-15T08:43:28.246449+00:00",
+  "rows_total_scanned_last_run": 2411,
+  "rows_mexico_last_run": 42,
+  "overall_avg_tone_4h": -0.75,
   "timeline": [
-    {
-      "time": "2026-08-12T08:00",
-      "avg_tone": 0.476,
-      "n_articles": 27
-    },
     {
       "time": "2026-08-12T08:45",
       "avg_tone": -0.298,
@@ -1188,145 +1183,160 @@
       "time": "2026-08-15T08:00",
       "avg_tone": 0.075,
       "n_articles": 12
+    },
+    {
+      "time": "2026-08-15T08:15",
+      "avg_tone": -1.123,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-08-15T08:30",
+      "avg_tone": 0.183,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-08-15T08:45",
+      "avg_tone": 1.303,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 10,
-      "avg_tone": -1.507
-    },
-    {
       "source": "themarketsdaily.com",
+      "n": 3,
+      "avg_tone": 1.797
+    },
+    {
+      "source": "7newsbelize.com",
       "n": 2,
-      "avg_tone": 1.476
+      "avg_tone": 0.312
     },
     {
-      "source": "womanandhome.com",
-      "n": 1,
-      "avg_tone": 5.67
+      "source": "arkansasonline.com",
+      "n": 2,
+      "avg_tone": -2.943
     },
     {
-      "source": "jamaica-gleaner.com",
-      "n": 1,
-      "avg_tone": -3.938
-    },
-    {
-      "source": "wetaskiwintimes.com",
+      "source": "fairviewpost.com",
       "n": 1,
       "avg_tone": 0.85
     },
     {
-      "source": "thecourierexpress.com",
-      "n": 1,
-      "avg_tone": 1.806
-    },
-    {
-      "source": "vulcanadvocate.com",
+      "source": "coldlakesun.com",
       "n": 1,
       "avg_tone": 0.85
     },
     {
-      "source": "moneylife.in",
+      "source": "mtlblog.com",
       "n": 1,
-      "avg_tone": -0.588
+      "avg_tone": 2.651
     },
     {
-      "source": "timminspress.com",
+      "source": "businesstimes.com.sg",
       "n": 1,
-      "avg_tone": 0.984
+      "avg_tone": -0.687
     },
     {
-      "source": "northcountrynow.com",
+      "source": "thewhig.com",
       "n": 1,
-      "avg_tone": 1.806
+      "avg_tone": 2.092
     },
     {
-      "source": "minnpost.com",
+      "source": "akronnewsreporter.com",
       "n": 1,
-      "avg_tone": -3.452
+      "avg_tone": 2.553
     },
     {
-      "source": "parisstaronline.com",
+      "source": "highrivertimes.com",
       "n": 1,
       "avg_tone": 0.85
     },
     {
-      "source": "military.com",
+      "source": "pembrokeobserver.com",
       "n": 1,
-      "avg_tone": -5.231
+      "avg_tone": 0.85
     },
     {
-      "source": "mauinow.com",
+      "source": "dailypolitical.com",
       "n": 1,
-      "avg_tone": -5.057
+      "avg_tone": 4.982
     },
     {
-      "source": "yahoo.com",
+      "source": "pinchercreekecho.com",
       "n": 1,
-      "avg_tone": -0.148
+      "avg_tone": 0.85
+    },
+    {
+      "source": "el-balad.com",
+      "n": 1,
+      "avg_tone": 0.532
+    },
+    {
+      "source": "cochranetimespost.ca",
+      "n": 1,
+      "avg_tone": 0.85
     }
   ],
   "top_themes": [
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 189
+      "n": 286
     },
     {
       "theme": "WB_135_TRANSPORT",
-      "n": 154
+      "n": 249
     },
     {
       "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 153
+      "n": 243
     },
     {
       "theme": "CRISISLEX_C04_LOGISTICS_TRANSPORT",
-      "n": 141
+      "n": 239
     },
     {
       "theme": "WB_166_RAILWAYS",
-      "n": 140
+      "n": 238
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 85
+      "n": 117
     },
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 78
+      "theme": "KILL",
+      "n": 88
     },
     {
-      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
-      "n": 78
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 77
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 77
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 72
-    },
-    {
-      "theme": "ECON_STOCKMARKET",
-      "n": 65
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 63
-    },
-    {
-      "theme": "ECON_WORLDCURRENCIES_PESO",
-      "n": 62
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 88
     },
     {
       "theme": "CRISISLEX_T02_INJURED",
-      "n": 57
+      "n": 87
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 54
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 51
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 43
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 41
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
+      "n": 40
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 39
     }
   ]
 }
