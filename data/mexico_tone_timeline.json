@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-15T17:13:04.541691+00:00",
-  "rows_total_scanned_last_run": 2640,
-  "rows_mexico_last_run": 26,
-  "overall_avg_tone_4h": -0.363,
+  "generated_at": "2026-08-15T17:34:28.581394+00:00",
+  "rows_total_scanned_last_run": 2570,
+  "rows_mexico_last_run": 24,
+  "overall_avg_tone_4h": -0.387,
   "timeline": [
-    {
-      "time": "2026-08-12T17:15",
-      "avg_tone": -0.163,
-      "n_articles": 34
-    },
-    {
-      "time": "2026-08-12T17:30",
-      "avg_tone": -0.18,
-      "n_articles": 34
-    },
     {
       "time": "2026-08-12T17:45",
       "avg_tone": 0.695,
@@ -1228,9 +1218,44 @@
       "time": "2026-08-15T17:15",
       "avg_tone": -0.246,
       "n_articles": 6
+    },
+    {
+      "time": "2026-08-15T17:30",
+      "avg_tone": -0.97,
+      "n_articles": 6
     }
   ],
   "top_sources": [
+    {
+      "source": "aol.co.uk",
+      "n": 1,
+      "avg_tone": -4.05
+    },
+    {
+      "source": "pilotonline.com",
+      "n": 1,
+      "avg_tone": -2.948
+    },
+    {
+      "source": "kiow.com",
+      "n": 1,
+      "avg_tone": 0.758
+    },
+    {
+      "source": "science20.com",
+      "n": 1,
+      "avg_tone": 1.355
+    },
+    {
+      "source": "record-bee.com",
+      "n": 1,
+      "avg_tone": -0.403
+    },
+    {
+      "source": "aginfo.net",
+      "n": 1,
+      "avg_tone": -0.534
+    },
     {
       "source": "capitalgazette.com",
       "n": 1,
@@ -1275,89 +1300,55 @@
       "source": "hotelnewsresource.com",
       "n": 1,
       "avg_tone": 1.7
-    },
-    {
-      "source": "empireonline.com",
-      "n": 1,
-      "avg_tone": -2.058
-    },
-    {
-      "source": "prokerala.com",
-      "n": 1,
-      "avg_tone": 1.622
-    },
-    {
-      "source": "mesabitribune.com",
-      "n": 1,
-      "avg_tone": 1.411
-    },
-    {
-      "source": "orlandosentinel.com",
-      "n": 1,
-      "avg_tone": -0.403
-    },
-    {
-      "source": "grist.org",
-      "n": 1,
-      "avg_tone": 1.229
-    },
-    {
-      "source": "fortmorgantimes.com",
-      "n": 1,
-      "avg_tone": -0.403
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_FNCACT_CHILDREN",
-      "n": 123
+      "n": 111
     },
     {
       "theme": "TAX_FNCACT_CHILD",
-      "n": 113
+      "n": 100
     },
     {
       "theme": "TAX_FNCACT_BANDIT",
-      "n": 56
-    },
-    {
-      "theme": "TAX_FNCACT_MANAGER",
-      "n": 48
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 39
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 38
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 37
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 37
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 37
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 37
+      "n": 49
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 37
+      "n": 42
+    },
+    {
+      "theme": "TAX_FNCACT_MANAGER",
+      "n": 42
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 33
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 35
+      "n": 32
     },
     {
-      "theme": "TAX_FNCACT_COOK",
+      "theme": "IMMIGRATION",
+      "n": 32
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 32
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 32
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 32
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
       "n": 32
     },
     {
@@ -1365,8 +1356,12 @@
       "n": 27
     },
     {
-      "theme": "TAX_FNCACT_WOMAN",
-      "n": 26
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 25
+    },
+    {
+      "theme": "LEGISLATION",
+      "n": 24
     }
   ]
 }
