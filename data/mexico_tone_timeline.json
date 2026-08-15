@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T05:02:54.905771+00:00",
-  "rows_total_scanned_last_run": 2415,
+  "generated_at": "2026-08-15T05:37:10.285049+00:00",
+  "rows_total_scanned_last_run": 2442,
   "rows_mexico_last_run": 42,
-  "overall_avg_tone_4h": -1.111,
+  "overall_avg_tone_4h": -1.062,
   "timeline": [
-    {
-      "time": "2026-08-12T05:15",
-      "avg_tone": -1.488,
-      "n_articles": 21
-    },
     {
       "time": "2026-08-12T06:00",
       "avg_tone": -1.983,
@@ -1168,145 +1163,160 @@
       "time": "2026-08-15T05:00",
       "avg_tone": -1.173,
       "n_articles": 10
+    },
+    {
+      "time": "2026-08-15T05:15",
+      "avg_tone": -1.393,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-08-15T05:30",
+      "avg_tone": -1.894,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-15T05:45",
+      "avg_tone": -1.39,
+      "n_articles": 5
     }
   ],
   "top_sources": [
+    {
+      "source": "abqjournal.com",
+      "n": 3,
+      "avg_tone": -4.725
+    },
+    {
+      "source": "mymotherlode.com",
+      "n": 2,
+      "avg_tone": -6.884
+    },
+    {
+      "source": "simcoereformer.ca",
+      "n": 2,
+      "avg_tone": 0.85
+    },
     {
       "source": "aol.co.uk",
       "n": 2,
       "avg_tone": 0.36
     },
     {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -0.425
-    },
-    {
-      "source": "variety.com",
-      "n": 2,
-      "avg_tone": 0.159
-    },
-    {
-      "source": "bignewsnetwork.com",
+      "source": "thesudburystar.com",
       "n": 1,
-      "avg_tone": 0.456
+      "avg_tone": 1.104
     },
     {
-      "source": "clintonnewsrecord.com",
+      "source": "vermilionstandard.com",
       "n": 1,
       "avg_tone": 0.85
     },
     {
-      "source": "westkentuckystar.com",
+      "source": "nypost.com",
       "n": 1,
-      "avg_tone": -12.23
+      "avg_tone": -2.632
     },
     {
-      "source": "thenewsguard.com",
+      "source": "bulatlat.com",
       "n": 1,
-      "avg_tone": -5.762
+      "avg_tone": -6.919
     },
     {
-      "source": "simcoereformer.ca",
+      "source": "ocbj.com",
+      "n": 1,
+      "avg_tone": 0.645
+    },
+    {
+      "source": "ksat.com",
+      "n": 1,
+      "avg_tone": -2.733
+    },
+    {
+      "source": "gananoquereporter.com",
       "n": 1,
       "avg_tone": 0.85
     },
     {
-      "source": "leducrep.com",
+      "source": "stratfordbeaconherald.com",
       "n": 1,
       "avg_tone": 0.85
     },
     {
-      "source": "yorkregion.com",
+      "source": "travelextra.ie",
       "n": 1,
-      "avg_tone": 1.689
+      "avg_tone": -3.942
     },
     {
-      "source": "intelligencer.ca",
+      "source": "wastedive.com",
       "n": 1,
-      "avg_tone": 0.85
+      "avg_tone": -1.936
     },
     {
-      "source": "westseattleblog.com",
+      "source": "siliconindia.com",
       "n": 1,
-      "avg_tone": 1.66
-    },
-    {
-      "source": "tickerreport.com",
-      "n": 1,
-      "avg_tone": 4.622
-    },
-    {
-      "source": "saultstar.com",
-      "n": 1,
-      "avg_tone": 0.85
-    },
-    {
-      "source": "airdrieecho.com",
-      "n": 1,
-      "avg_tone": 0.85
+      "avg_tone": -2.357
     }
   ],
   "top_themes": [
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 214
-    },
-    {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 213
+      "n": 257
     },
     {
       "theme": "WB_135_TRANSPORT",
-      "n": 203
+      "n": 247
+    },
+    {
+      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
+      "n": 244
     },
     {
       "theme": "CRISISLEX_C04_LOGISTICS_TRANSPORT",
-      "n": 198
+      "n": 243
     },
     {
       "theme": "WB_166_RAILWAYS",
-      "n": 196
+      "n": 238
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 92
+      "n": 108
     },
     {
       "theme": "KILL",
-      "n": 86
+      "n": 93
     },
     {
       "theme": "CRISISLEX_T03_DEAD",
-      "n": 85
+      "n": 93
     },
     {
       "theme": "CRISISLEX_T02_INJURED",
-      "n": 82
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 59
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 48
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 46
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 46
+      "n": 91
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 42
+      "n": 46
     },
     {
-      "theme": "WB_2936_GOLD",
+      "theme": "WB_137_WATER",
       "n": 32
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 26
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 25
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 24
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 24
     }
   ]
 }
