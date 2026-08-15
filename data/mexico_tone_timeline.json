@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-15T04:44:38.944978+00:00",
-  "rows_total_scanned_last_run": 2394,
-  "rows_mexico_last_run": 40,
-  "overall_avg_tone_4h": -1.059,
+  "generated_at": "2026-08-15T05:02:54.905771+00:00",
+  "rows_total_scanned_last_run": 2415,
+  "rows_mexico_last_run": 42,
+  "overall_avg_tone_4h": -1.111,
   "timeline": [
-    {
-      "time": "2026-08-12T04:45",
-      "avg_tone": -1.201,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-12T05:00",
-      "avg_tone": -0.679,
-      "n_articles": 18
-    },
     {
       "time": "2026-08-12T05:15",
       "avg_tone": -1.488,
@@ -1173,18 +1163,68 @@
       "time": "2026-08-15T04:45",
       "avg_tone": 1.407,
       "n_articles": 12
+    },
+    {
+      "time": "2026-08-15T05:00",
+      "avg_tone": -1.173,
+      "n_articles": 10
     }
   ],
   "top_sources": [
     {
+      "source": "aol.co.uk",
+      "n": 2,
+      "avg_tone": 0.36
+    },
+    {
       "source": "yahoo.com",
-      "n": 3,
-      "avg_tone": -0.416
+      "n": 2,
+      "avg_tone": -0.425
     },
     {
       "source": "variety.com",
       "n": 2,
       "avg_tone": 0.159
+    },
+    {
+      "source": "bignewsnetwork.com",
+      "n": 1,
+      "avg_tone": 0.456
+    },
+    {
+      "source": "clintonnewsrecord.com",
+      "n": 1,
+      "avg_tone": 0.85
+    },
+    {
+      "source": "westkentuckystar.com",
+      "n": 1,
+      "avg_tone": -12.23
+    },
+    {
+      "source": "thenewsguard.com",
+      "n": 1,
+      "avg_tone": -5.762
+    },
+    {
+      "source": "simcoereformer.ca",
+      "n": 1,
+      "avg_tone": 0.85
+    },
+    {
+      "source": "leducrep.com",
+      "n": 1,
+      "avg_tone": 0.85
+    },
+    {
+      "source": "yorkregion.com",
+      "n": 1,
+      "avg_tone": 1.689
+    },
+    {
+      "source": "intelligencer.ca",
+      "n": 1,
+      "avg_tone": 0.85
     },
     {
       "source": "westseattleblog.com",
@@ -1205,113 +1245,68 @@
       "source": "airdrieecho.com",
       "n": 1,
       "avg_tone": 0.85
-    },
-    {
-      "source": "kincardinenews.com",
-      "n": 1,
-      "avg_tone": 0.85
-    },
-    {
-      "source": "woodstocksentinelreview.com",
-      "n": 1,
-      "avg_tone": 0.85
-    },
-    {
-      "source": "prnewswire.com",
-      "n": 1,
-      "avg_tone": -0.966
-    },
-    {
-      "source": "ksl.com",
-      "n": 1,
-      "avg_tone": 0.98
-    },
-    {
-      "source": "theobserver.ca",
-      "n": 1,
-      "avg_tone": 0.85
-    },
-    {
-      "source": "theartsdesk.com",
-      "n": 1,
-      "avg_tone": 1.755
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 4.348
-    },
-    {
-      "source": "theguardian.com",
-      "n": 1,
-      "avg_tone": 0.088
-    },
-    {
-      "source": "recorder.ca",
-      "n": 1,
-      "avg_tone": 0.85
     }
   ],
   "top_themes": [
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 171
+      "n": 214
     },
     {
       "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 155
+      "n": 213
     },
     {
       "theme": "WB_135_TRANSPORT",
-      "n": 146
+      "n": 203
     },
     {
       "theme": "CRISISLEX_C04_LOGISTICS_TRANSPORT",
-      "n": 143
+      "n": 198
     },
     {
       "theme": "WB_166_RAILWAYS",
-      "n": 140
+      "n": 196
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 71
+      "n": 92
     },
     {
       "theme": "KILL",
-      "n": 66
+      "n": 86
     },
     {
       "theme": "CRISISLEX_T03_DEAD",
-      "n": 63
+      "n": 85
     },
     {
       "theme": "CRISISLEX_T02_INJURED",
-      "n": 62
+      "n": 82
     },
     {
       "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 57
-    },
-    {
-      "theme": "BORDER",
-      "n": 56
+      "n": 59
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 44
+      "n": 48
     },
     {
       "theme": "WB_895_MINING_SYSTEMS",
-      "n": 44
+      "n": 46
     },
     {
       "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 44
+      "n": 46
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 38
+      "n": 42
+    },
+    {
+      "theme": "WB_2936_GOLD",
+      "n": 32
     }
   ]
 }
