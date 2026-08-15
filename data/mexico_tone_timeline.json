@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-15T09:56:37.794869+00:00",
-  "rows_total_scanned_last_run": 2680,
-  "rows_mexico_last_run": 20,
-  "overall_avg_tone_4h": -0.081,
+  "generated_at": "2026-08-15T10:17:24.058253+00:00",
+  "rows_total_scanned_last_run": 2683,
+  "rows_mexico_last_run": 18,
+  "overall_avg_tone_4h": 0.122,
   "timeline": [
-    {
-      "time": "2026-08-12T10:00",
-      "avg_tone": 1.217,
-      "n_articles": 29
-    },
-    {
-      "time": "2026-08-12T10:15",
-      "avg_tone": 0.389,
-      "n_articles": 23
-    },
     {
       "time": "2026-08-12T10:30",
       "avg_tone": 0.502,
@@ -1198,13 +1188,28 @@
       "time": "2026-08-15T10:00",
       "avg_tone": 2.317,
       "n_articles": 8
+    },
+    {
+      "time": "2026-08-15T10:15",
+      "avg_tone": 0.723,
+      "n_articles": 3
     }
   ],
   "top_sources": [
     {
-      "source": "tickerreport.com",
-      "n": 3,
-      "avg_tone": 2.296
+      "source": "yahoo.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "kickoff.com",
+      "n": 1,
+      "avg_tone": 1.07
+    },
+    {
+      "source": "cbn.com",
+      "n": 1,
+      "avg_tone": 1.101
     },
     {
       "source": "7newsbelize.com",
@@ -1257,46 +1262,32 @@
       "avg_tone": 2.894
     },
     {
+      "source": "tickerreport.com",
+      "n": 1,
+      "avg_tone": 3.226
+    },
+    {
       "source": "citizen.co.za",
       "n": 1,
       "avg_tone": 4.088
-    },
-    {
-      "source": "mankatofreepress.com",
-      "n": 1,
-      "avg_tone": 4.302
-    },
-    {
-      "source": "theguardian.com",
-      "n": 1,
-      "avg_tone": 1.862
-    },
-    {
-      "source": "arsenalnews.co.uk",
-      "n": 1,
-      "avg_tone": 0.64
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 30
-    },
-    {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 30
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 30
+      "n": 31
     },
     {
       "theme": "WB_135_TRANSPORT",
-      "n": 28
+      "n": 26
     },
     {
       "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
       "n": 24
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 23
     },
     {
       "theme": "WB_346_COMPETITIVE_INDUSTRIES",
@@ -1311,20 +1302,16 @@
       "n": 23
     },
     {
+      "theme": "TAX_ECON_PRICE",
+      "n": 22
+    },
+    {
       "theme": "WB_165_AIR_TRANSPORT",
       "n": 22
     },
     {
       "theme": "WB_164_MODES_OF_TRANSPORT",
       "n": 22
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 20
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 18
     },
     {
       "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
@@ -1337,6 +1324,14 @@
     {
       "theme": "WB_1281_MANUFACTURING",
       "n": 17
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 14
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 13
     }
   ]
 }
