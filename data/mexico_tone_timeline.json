@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T21:18:03.581525+00:00",
-  "rows_total_scanned_last_run": 2134,
-  "rows_mexico_last_run": 19,
-  "overall_avg_tone_4h": -0.754,
+  "generated_at": "2026-08-15T21:42:30.782604+00:00",
+  "rows_total_scanned_last_run": 1528,
+  "rows_mexico_last_run": 13,
+  "overall_avg_tone_4h": -0.674,
   "timeline": [
-    {
-      "time": "2026-08-12T21:30",
-      "avg_tone": -0.686,
-      "n_articles": 22
-    },
     {
       "time": "2026-08-12T21:45",
       "avg_tone": -1.755,
@@ -1228,6 +1223,11 @@
       "time": "2026-08-15T21:15",
       "avg_tone": -0.549,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-15T21:45",
+      "avg_tone": 1.58,
+      "n_articles": 3
     }
   ],
   "top_sources": [
@@ -1235,6 +1235,21 @@
       "source": "tickerreport.com",
       "n": 2,
       "avg_tone": 2.935
+    },
+    {
+      "source": "businessinsider.com",
+      "n": 1,
+      "avg_tone": 1.422
+    },
+    {
+      "source": "dailypolitical.com",
+      "n": 1,
+      "avg_tone": 2.921
+    },
+    {
+      "source": "thejournal.ie",
+      "n": 1,
+      "avg_tone": 0.397
     },
     {
       "source": "kbtx.com",
@@ -1275,98 +1290,68 @@
       "source": "themarysue.com",
       "n": 1,
       "avg_tone": 1.29
-    },
-    {
-      "source": "krgv.com",
-      "n": 1,
-      "avg_tone": -2.968
-    },
-    {
-      "source": "guitarplayer.com",
-      "n": 1,
-      "avg_tone": 0.425
-    },
-    {
-      "source": "newsweek.com",
-      "n": 1,
-      "avg_tone": -3.207
-    },
-    {
-      "source": "panow.com",
-      "n": 1,
-      "avg_tone": 0.633
-    },
-    {
-      "source": "hottalkradio.com",
-      "n": 1,
-      "avg_tone": -4.138
-    },
-    {
-      "source": "nypost.com",
-      "n": 1,
-      "avg_tone": -2.881
     }
   ],
   "top_themes": [
     {
-      "theme": "BORDER",
-      "n": 70
-    },
-    {
       "theme": "WB_698_TRADE",
-      "n": 48
-    },
-    {
-      "theme": "LEADER",
-      "n": 38
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 33
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
       "n": 28
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 27
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 27
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
+      "theme": "LEADER",
       "n": 23
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 21
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 20
-    },
-    {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "theme": "TAX_FNCACT_PRESIDENT",
       "n": 19
     },
     {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 19
+    },
+    {
+      "theme": "BORDER",
+      "n": 18
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 17
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 15
+    },
+    {
+      "theme": "MEDIA_MSM",
+      "n": 12
+    },
+    {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 15
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 15
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 15
+      "n": 10
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 14
+      "n": 9
+    },
+    {
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 9
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 9
+    },
+    {
+      "theme": "ECON_STOCKMARKET",
+      "n": 8
+    },
+    {
+      "theme": "ENV_SOLAR",
+      "n": 8
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 8
     }
   ]
 }
