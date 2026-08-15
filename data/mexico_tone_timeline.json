@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T22:56:35.315249+00:00",
-  "rows_total_scanned_last_run": 1924,
-  "rows_mexico_last_run": 20,
-  "overall_avg_tone_4h": -0.774,
+  "generated_at": "2026-08-15T23:14:55.103551+00:00",
+  "rows_total_scanned_last_run": 1945,
+  "rows_mexico_last_run": 21,
+  "overall_avg_tone_4h": -0.724,
   "timeline": [
-    {
-      "time": "2026-08-12T23:00",
-      "avg_tone": 0.614,
-      "n_articles": 28
-    },
     {
       "time": "2026-08-12T23:15",
       "avg_tone": -0.834,
@@ -1238,9 +1233,29 @@
       "time": "2026-08-15T23:00",
       "avg_tone": -0.276,
       "n_articles": 6
+    },
+    {
+      "time": "2026-08-15T23:15",
+      "avg_tone": -0.121,
+      "n_articles": 4
     }
   ],
   "top_sources": [
+    {
+      "source": "heraldglobe.com",
+      "n": 2,
+      "avg_tone": 2.948
+    },
+    {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": -1.972
+    },
+    {
+      "source": "inquirer.com",
+      "n": 1,
+      "avg_tone": -5.356
+    },
     {
       "source": "summitdaily.com",
       "n": 1,
@@ -1282,11 +1297,6 @@
       "avg_tone": -4.864
     },
     {
-      "source": "yahoo.com",
-      "n": 1,
-      "avg_tone": -2.918
-    },
-    {
       "source": "tribune.com.pk",
       "n": 1,
       "avg_tone": -0.781
@@ -1305,57 +1315,47 @@
       "source": "cambodiantimes.com",
       "n": 1,
       "avg_tone": 3.439
-    },
-    {
-      "source": "wellandtribune.ca",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "urbanmilwaukee.com",
-      "n": 1,
-      "avg_tone": 2.694
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_698_TRADE",
-      "n": 23
+      "theme": "TAX_TERROR_GROUP_TALIBAN",
+      "n": 29
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 19
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 18
+      "theme": "EDUCATION",
+      "n": 16
     },
     {
       "theme": "TAX_ECON_PRICE",
       "n": 16
     },
     {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 16
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 15
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 15
+    },
+    {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 15
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 15
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
       "n": 14
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 13
+      "theme": "LEADER",
+      "n": 14
     },
     {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 13
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 14
     },
     {
-      "theme": "MEDICAL",
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 13
     },
     {
@@ -1363,19 +1363,19 @@
       "n": 13
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 13
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 13
-    },
-    {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "theme": "TAX_FNCACT_PRESIDENT",
       "n": 12
     },
     {
-      "theme": "GENERAL_HEALTH",
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 12
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 12
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
       "n": 12
     }
   ]
