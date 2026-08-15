@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-15T15:56:30.989511+00:00",
-  "rows_total_scanned_last_run": 2940,
+  "generated_at": "2026-08-15T16:17:37.029295+00:00",
+  "rows_total_scanned_last_run": 2787,
   "rows_mexico_last_run": 30,
-  "overall_avg_tone_4h": -0.368,
+  "overall_avg_tone_4h": -0.35,
   "timeline": [
-    {
-      "time": "2026-08-12T16:00",
-      "avg_tone": 0.524,
-      "n_articles": 23
-    },
-    {
-      "time": "2026-08-12T16:15",
-      "avg_tone": -0.023,
-      "n_articles": 34
-    },
     {
       "time": "2026-08-12T16:30",
       "avg_tone": -0.685,
@@ -1223,6 +1213,11 @@
       "time": "2026-08-15T16:00",
       "avg_tone": 0.377,
       "n_articles": 11
+    },
+    {
+      "time": "2026-08-15T16:15",
+      "avg_tone": 1.608,
+      "n_articles": 6
     }
   ],
   "top_sources": [
@@ -1240,6 +1235,36 @@
       "source": "krdo.com",
       "n": 2,
       "avg_tone": -1.238
+    },
+    {
+      "source": "sfbaytimes.com",
+      "n": 1,
+      "avg_tone": 8.824
+    },
+    {
+      "source": "dw.com",
+      "n": 1,
+      "avg_tone": -2.035
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 1,
+      "avg_tone": 5.282
+    },
+    {
+      "source": "sanfordherald.com",
+      "n": 1,
+      "avg_tone": 1.365
+    },
+    {
+      "source": "crooksandliars.com",
+      "n": 1,
+      "avg_tone": -3.387
+    },
+    {
+      "source": "times-standard.com",
+      "n": 1,
+      "avg_tone": -0.403
     },
     {
       "source": "mendocinobeacon.com",
@@ -1270,98 +1295,68 @@
       "source": "myspiritfm.com",
       "n": 1,
       "avg_tone": 2.788
-    },
-    {
-      "source": "americanthinker.com",
-      "n": 1,
-      "avg_tone": -2.056
-    },
-    {
-      "source": "thelocal.se",
-      "n": 1,
-      "avg_tone": -4.286
-    },
-    {
-      "source": "scoop.co.nz",
-      "n": 1,
-      "avg_tone": -4.815
-    },
-    {
-      "source": "thelocal.es",
-      "n": 1,
-      "avg_tone": -4.286
-    },
-    {
-      "source": "kcbd.com",
-      "n": 1,
-      "avg_tone": -7.119
-    },
-    {
-      "source": "courant.com",
-      "n": 1,
-      "avg_tone": -0.403
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_FNCACT_CHILDREN",
-      "n": 139
+      "n": 125
     },
     {
       "theme": "TAX_FNCACT_CHILD",
-      "n": 108
+      "n": 94
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 76
+      "n": 72
     },
     {
       "theme": "TAX_FNCACT_BANDIT",
-      "n": 51
+      "n": 44
     },
     {
       "theme": "TAX_FNCACT_MANAGER",
-      "n": 48
+      "n": 42
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 46
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 42
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 42
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
       "n": 41
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 41
+      "n": 39
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 37
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 37
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 36
     },
     {
       "theme": "IMMIGRATION",
-      "n": 40
+      "n": 35
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 30
+    },
+    {
+      "theme": "TAX_FNCACT_PRIEST",
+      "n": 30
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 35
+      "n": 29
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
       "n": 29
-    },
-    {
-      "theme": "TAX_FNCACT_PRIEST",
-      "n": 29
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 27
     }
   ]
 }
