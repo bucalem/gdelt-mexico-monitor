@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-15T15:42:27.503899+00:00",
-  "rows_total_scanned_last_run": 2955,
+  "generated_at": "2026-08-15T15:56:30.989511+00:00",
+  "rows_total_scanned_last_run": 2940,
   "rows_mexico_last_run": 30,
-  "overall_avg_tone_4h": -0.409,
+  "overall_avg_tone_4h": -0.368,
   "timeline": [
-    {
-      "time": "2026-08-12T15:45",
-      "avg_tone": -0.379,
-      "n_articles": 41
-    },
     {
       "time": "2026-08-12T16:00",
       "avg_tone": 0.524,
@@ -1223,18 +1218,63 @@
       "time": "2026-08-15T15:45",
       "avg_tone": -2.608,
       "n_articles": 7
+    },
+    {
+      "time": "2026-08-15T16:00",
+      "avg_tone": 0.377,
+      "n_articles": 11
     }
   ],
   "top_sources": [
+    {
+      "source": "targetednews.com",
+      "n": 2,
+      "avg_tone": 1.266
+    },
+    {
+      "source": "spokanepublicradio.org",
+      "n": 2,
+      "avg_tone": -1.369
+    },
     {
       "source": "krdo.com",
       "n": 2,
       "avg_tone": -1.238
     },
     {
-      "source": "sandiegouniontribune.com",
-      "n": 2,
-      "avg_tone": -0.949
+      "source": "mendocinobeacon.com",
+      "n": 1,
+      "avg_tone": -1.078
+    },
+    {
+      "source": "thetimes-tribune.com",
+      "n": 1,
+      "avg_tone": -0.403
+    },
+    {
+      "source": "baltimoresun.com",
+      "n": 1,
+      "avg_tone": -0.403
+    },
+    {
+      "source": "ncregister.com",
+      "n": 1,
+      "avg_tone": 2.76
+    },
+    {
+      "source": "catholicworldreport.com",
+      "n": 1,
+      "avg_tone": 2.748
+    },
+    {
+      "source": "myspiritfm.com",
+      "n": 1,
+      "avg_tone": 2.788
+    },
+    {
+      "source": "americanthinker.com",
+      "n": 1,
+      "avg_tone": -2.056
     },
     {
       "source": "thelocal.se",
@@ -1260,108 +1300,68 @@
       "source": "courant.com",
       "n": 1,
       "avg_tone": -0.403
-    },
-    {
-      "source": "reporterherald.com",
-      "n": 1,
-      "avg_tone": -0.403
-    },
-    {
-      "source": "247wallst.com",
-      "n": 1,
-      "avg_tone": 3.053
-    },
-    {
-      "source": "thelocal.de",
-      "n": 1,
-      "avg_tone": -4.286
-    },
-    {
-      "source": "themag.co.uk",
-      "n": 1,
-      "avg_tone": 1.858
-    },
-    {
-      "source": "dailypolitical.com",
-      "n": 1,
-      "avg_tone": 1.731
-    },
-    {
-      "source": "timescall.com",
-      "n": 1,
-      "avg_tone": -0.403
-    },
-    {
-      "source": "thelocal.fr",
-      "n": 1,
-      "avg_tone": -4.286
-    },
-    {
-      "source": "liverpoolecho.co.uk",
-      "n": 1,
-      "avg_tone": 3.462
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_FNCACT_CHILDREN",
-      "n": 108
+      "n": 139
     },
     {
       "theme": "TAX_FNCACT_CHILD",
-      "n": 92
+      "n": 108
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 66
-    },
-    {
-      "theme": "TAX_FNCACT_MANAGER",
-      "n": 42
+      "n": 76
     },
     {
       "theme": "TAX_FNCACT_BANDIT",
-      "n": 42
+      "n": 51
+    },
+    {
+      "theme": "TAX_FNCACT_MANAGER",
+      "n": 48
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 35
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 34
+      "n": 46
     },
     {
       "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 31
+      "n": 42
     },
     {
       "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 31
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 31
+      "n": 42
     },
     {
       "theme": "WB_2837_IMMIGRATION",
-      "n": 30
+      "n": 41
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 41
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 40
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 28
+      "n": 35
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 29
+    },
+    {
+      "theme": "TAX_FNCACT_PRIEST",
+      "n": 29
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
       "n": 27
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 25
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 25
     }
   ]
 }
