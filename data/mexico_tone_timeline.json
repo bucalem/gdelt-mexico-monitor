@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-16T07:43:04.950187+00:00",
-  "rows_total_scanned_last_run": 1869,
-  "rows_mexico_last_run": 24,
-  "overall_avg_tone_4h": -0.945,
+  "generated_at": "2026-08-16T08:00:10.095769+00:00",
+  "rows_total_scanned_last_run": 1966,
+  "rows_mexico_last_run": 26,
+  "overall_avg_tone_4h": -0.976,
   "timeline": [
-    {
-      "time": "2026-08-13T07:45",
-      "avg_tone": 1.374,
-      "n_articles": 29
-    },
     {
       "time": "2026-08-13T08:00",
       "avg_tone": 1.021,
@@ -1283,6 +1278,11 @@
       "time": "2026-08-16T07:45",
       "avg_tone": -2.509,
       "n_articles": 10
+    },
+    {
+      "time": "2026-08-16T08:00",
+      "avg_tone": -0.494,
+      "n_articles": 3
     }
   ],
   "top_sources": [
@@ -1300,6 +1300,21 @@
       "source": "film-news.co.uk",
       "n": 2,
       "avg_tone": 2.913
+    },
+    {
+      "source": "foxnews.com",
+      "n": 1,
+      "avg_tone": -4.336
+    },
+    {
+      "source": "london-now.co.uk",
+      "n": 1,
+      "avg_tone": 6.216
+    },
+    {
+      "source": "clickondetroit.com",
+      "n": 1,
+      "avg_tone": -3.361
     },
     {
       "source": "business-standard.com",
@@ -1345,21 +1360,6 @@
       "source": "prowrestling.net",
       "n": 1,
       "avg_tone": -1.627
-    },
-    {
-      "source": "theweek.com",
-      "n": 1,
-      "avg_tone": 2.82
-    },
-    {
-      "source": "newsday.com",
-      "n": 1,
-      "avg_tone": -3.113
-    },
-    {
-      "source": "y108.ca",
-      "n": 1,
-      "avg_tone": -1.763
     }
   ],
   "top_themes": [
@@ -1396,19 +1396,19 @@
       "n": 22
     },
     {
-      "theme": "TAX_FNCACT_AUTHORITIES",
-      "n": 21
-    },
-    {
-      "theme": "EPU_POLICY_AUTHORITIES",
-      "n": 21
-    },
-    {
       "theme": "WB_635_PUBLIC_HEALTH",
       "n": 21
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 21
+    },
+    {
+      "theme": "TAX_FNCACT_AUTHORITIES",
+      "n": 21
+    },
+    {
+      "theme": "EPU_POLICY_AUTHORITIES",
       "n": 21
     },
     {
