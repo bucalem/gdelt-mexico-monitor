@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-16T17:00:27.361960+00:00",
-  "rows_total_scanned_last_run": 2538,
-  "rows_mexico_last_run": 35,
-  "overall_avg_tone_4h": -0.402,
+  "generated_at": "2026-08-16T17:31:43.408947+00:00",
+  "rows_total_scanned_last_run": 2558,
+  "rows_mexico_last_run": 34,
+  "overall_avg_tone_4h": -0.708,
   "timeline": [
-    {
-      "time": "2026-08-13T17:00",
-      "avg_tone": -0.016,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-08-13T17:15",
-      "avg_tone": 0.06,
-      "n_articles": 32
-    },
-    {
-      "time": "2026-08-13T17:30",
-      "avg_tone": -0.948,
-      "n_articles": 20
-    },
     {
       "time": "2026-08-13T17:45",
       "avg_tone": 0.872,
@@ -1313,18 +1298,33 @@
       "time": "2026-08-16T17:00",
       "avg_tone": -0.868,
       "n_articles": 7
+    },
+    {
+      "time": "2026-08-16T17:15",
+      "avg_tone": -2.107,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-08-16T17:30",
+      "avg_tone": -2.127,
+      "n_articles": 9
     }
   ],
   "top_sources": [
     {
+      "source": "yahoo.com",
+      "n": 3,
+      "avg_tone": -2.661
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 1.581
+    },
+    {
       "source": "tickerreport.com",
       "n": 2,
       "avg_tone": 1.917
-    },
-    {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -0.946
     },
     {
       "source": "kaieteurnewsonline.com",
@@ -1332,126 +1332,121 @@
       "avg_tone": 2.393
     },
     {
-      "source": "riotimesonline.com",
-      "n": 2,
-      "avg_tone": 0.29
+      "source": "americanthinker.com",
+      "n": 1,
+      "avg_tone": -3.926
     },
     {
-      "source": "wyff4.com",
+      "source": "wptv.com",
+      "n": 1,
+      "avg_tone": -3.437
+    },
+    {
+      "source": "wmur.com",
       "n": 1,
       "avg_tone": -1.622
     },
     {
-      "source": "fox7austin.com",
+      "source": "catholicculture.org",
       "n": 1,
-      "avg_tone": -6.398
+      "avg_tone": 0.752
     },
     {
-      "source": "bignewsnetwork.com",
+      "source": "abc7news.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -1.35
     },
     {
-      "source": "medicinehatnews.com",
-      "n": 1,
-      "avg_tone": -2.829
-    },
-    {
-      "source": "abcnews.com",
-      "n": 1,
-      "avg_tone": -1.339
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 3.902
-    },
-    {
-      "source": "newsday.com",
-      "n": 1,
-      "avg_tone": 1.798
-    },
-    {
-      "source": "wapt.com",
+      "source": "wjcl.com",
       "n": 1,
       "avg_tone": -1.622
     },
     {
-      "source": "nikkei.com",
+      "source": "davisenterprise.com",
       "n": 1,
-      "avg_tone": 5.0
+      "avg_tone": -1.11
     },
     {
-      "source": "fox32chicago.com",
+      "source": "dailypolitical.com",
+      "n": 1,
+      "avg_tone": 1.671
+    },
+    {
+      "source": "idrw.org",
+      "n": 1,
+      "avg_tone": -0.678
+    },
+    {
+      "source": "oilprice.com",
+      "n": 1,
+      "avg_tone": -0.466
+    },
+    {
+      "source": "ktvu.com",
       "n": 1,
       "avg_tone": -6.398
-    },
-    {
-      "source": "ladailypost.com",
-      "n": 1,
-      "avg_tone": 3.399
     }
   ],
   "top_themes": [
     {
       "theme": "LEADER",
-      "n": 266
+      "n": 271
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 260
+      "n": 267
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 250
-    },
-    {
-      "theme": "TAX_FNCACT_COOK",
-      "n": 65
+      "n": 255
     },
     {
       "theme": "WB_137_WATER",
-      "n": 61
+      "n": 73
     },
     {
       "theme": "EPU_POLICY_WHITE_HOUSE",
-      "n": 59
+      "n": 62
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 54
+      "n": 62
     },
     {
       "theme": "EPU_CATS_HEALTHCARE",
-      "n": 46
+      "n": 54
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 45
+      "n": 50
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 42
+      "theme": "DRUG_TRADE",
+      "n": 50
     },
     {
       "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 40
+      "n": 48
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 40
+      "n": 48
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 40
+      "n": 48
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 40
+      "n": 48
     },
     {
-      "theme": "TAX_FOODSTAPLES_POTATOES",
-      "n": 39
+      "theme": "CRIME_ILLEGAL_DRUGS",
+      "n": 48
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 36
     }
   ]
 }
