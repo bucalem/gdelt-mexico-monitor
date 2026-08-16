@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-16T06:24:21.286384+00:00",
-  "rows_total_scanned_last_run": 1622,
-  "rows_mexico_last_run": 21,
-  "overall_avg_tone_4h": -0.235,
+  "generated_at": "2026-08-16T07:07:14.310674+00:00",
+  "rows_total_scanned_last_run": 1708,
+  "rows_mexico_last_run": 24,
+  "overall_avg_tone_4h": -0.889,
   "timeline": [
-    {
-      "time": "2026-08-13T06:30",
-      "avg_tone": 1.89,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-08-13T06:45",
-      "avg_tone": 0.862,
-      "n_articles": 14
-    },
     {
       "time": "2026-08-13T07:15",
       "avg_tone": 1.085,
@@ -1278,145 +1268,160 @@
       "time": "2026-08-16T06:30",
       "avg_tone": -1.789,
       "n_articles": 6
+    },
+    {
+      "time": "2026-08-16T06:45",
+      "avg_tone": -2.156,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-16T07:00",
+      "avg_tone": -3.361,
+      "n_articles": 1
+    },
+    {
+      "time": "2026-08-16T07:15",
+      "avg_tone": -2.202,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
-      "source": "f4wonline.com",
-      "n": 3,
-      "avg_tone": -2.211
+      "source": "deadline.com",
+      "n": 2,
+      "avg_tone": 3.042
     },
     {
-      "source": "smh.com.au",
+      "source": "krgv.com",
+      "n": 2,
+      "avg_tone": -8.837
+    },
+    {
+      "source": "thestar.com.my",
+      "n": 1,
+      "avg_tone": -1.665
+    },
+    {
+      "source": "thehindubusinessline.com",
+      "n": 1,
+      "avg_tone": -0.333
+    },
+    {
+      "source": "indiatimes.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "theage.com.au",
       "n": 1,
       "avg_tone": -5.569
     },
     {
-      "source": "brisbanetimes.com.au",
+      "source": "messenger-inquirer.com",
       "n": 1,
-      "avg_tone": -5.569
+      "avg_tone": -3.445
     },
     {
-      "source": "ksnblocal4.com",
+      "source": "wsls.com",
       "n": 1,
-      "avg_tone": -1.893
+      "avg_tone": -3.361
     },
     {
-      "source": "koat.com",
+      "source": "news4jax.com",
       "n": 1,
-      "avg_tone": -1.592
+      "avg_tone": -3.361
     },
     {
-      "source": "heraldglobe.com",
+      "source": "yahoo.com",
+      "n": 1,
+      "avg_tone": -3.405
+    },
+    {
+      "source": "taylorvilledailynews.com",
+      "n": 1,
+      "avg_tone": -3.242
+    },
+    {
+      "source": "kob.com",
+      "n": 1,
+      "avg_tone": -6.25
+    },
+    {
+      "source": "coloradostar.com",
       "n": 1,
       "avg_tone": 2.771
     },
     {
-      "source": "dailypolitical.com",
+      "source": "winnipegfreepress.com",
       "n": 1,
-      "avg_tone": 1.118
+      "avg_tone": -3.241
     },
     {
-      "source": "aol.co.uk",
+      "source": "newstribune.com",
       "n": 1,
-      "avg_tone": 0.947
-    },
-    {
-      "source": "chaffeecountytimes.com",
-      "n": 1,
-      "avg_tone": 0.82
-    },
-    {
-      "source": "tomsguide.com",
-      "n": 1,
-      "avg_tone": 1.519
-    },
-    {
-      "source": "cambodiantimes.com",
-      "n": 1,
-      "avg_tone": 2.771
-    },
-    {
-      "source": "howestreet.com",
-      "n": 1,
-      "avg_tone": -0.999
-    },
-    {
-      "source": "whittierdailynews.com",
-      "n": 1,
-      "avg_tone": 3.039
-    },
-    {
-      "source": "cavalierdaily.com",
-      "n": 1,
-      "avg_tone": 2.109
-    },
-    {
-      "source": "manchestereveningnews.co.uk",
-      "n": 1,
-      "avg_tone": -1.34
+      "avg_tone": 1.135
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_TERROR_GROUP_TALIBAN",
-      "n": 60
+      "n": 90
     },
     {
-      "theme": "WB_137_WATER",
-      "n": 46
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 54
     },
     {
-      "theme": "MEDIA_SOCIAL",
-      "n": 23
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 32
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 17
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 26
     },
     {
-      "theme": "TAX_FNCACT_LEADER",
-      "n": 17
+      "theme": "BORDER",
+      "n": 26
     },
     {
-      "theme": "TAX_FNCACT_OFFICIAL",
-      "n": 15
+      "theme": "TAX_FNCACT_WORKERS",
+      "n": 24
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 13
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 13
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 13
+      "theme": "TAX_FNCACT_INSPECTORS",
+      "n": 24
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 12
+      "n": 23
     },
     {
-      "theme": "ENV_OIL",
-      "n": 12
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 20
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_AFGHAN",
-      "n": 11
+      "theme": "TAX_FNCACT_AUTHORITIES",
+      "n": 20
     },
     {
-      "theme": "EDUCATION",
-      "n": 11
+      "theme": "EPU_POLICY_AUTHORITIES",
+      "n": 20
     },
     {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 10
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 20
     },
     {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 10
+      "theme": "TAX_ECON_PRICE",
+      "n": 17
+    },
+    {
+      "theme": "SECURITY_SERVICES",
+      "n": 16
+    },
+    {
+      "theme": "TAX_FNCACT_POLICE",
+      "n": 16
     }
   ]
 }
