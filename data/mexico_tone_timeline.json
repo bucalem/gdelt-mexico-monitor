@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-16T17:53:49.351541+00:00",
-  "rows_total_scanned_last_run": 2607,
-  "rows_mexico_last_run": 33,
-  "overall_avg_tone_4h": -0.767,
+  "generated_at": "2026-08-16T18:15:42.808660+00:00",
+  "rows_total_scanned_last_run": 2561,
+  "rows_mexico_last_run": 39,
+  "overall_avg_tone_4h": -0.834,
   "timeline": [
-    {
-      "time": "2026-08-13T18:00",
-      "avg_tone": -0.002,
-      "n_articles": 20
-    },
     {
       "time": "2026-08-13T18:15",
       "avg_tone": -0.54,
@@ -1313,6 +1308,11 @@
       "time": "2026-08-16T18:00",
       "avg_tone": -1.105,
       "n_articles": 10
+    },
+    {
+      "time": "2026-08-16T18:15",
+      "avg_tone": -2.1,
+      "n_articles": 13
     }
   ],
   "top_sources": [
@@ -1327,131 +1327,131 @@
       "avg_tone": 0.0
     },
     {
-      "source": "wvtm13.com",
+      "source": "wesh.com",
       "n": 1,
       "avg_tone": -1.622
     },
     {
-      "source": "cubaheadlines.com",
+      "source": "cbc.ca",
       "n": 1,
-      "avg_tone": -3.941
+      "avg_tone": 2.102
     },
     {
-      "source": "freepressjournal.in",
+      "source": "suncommercial.com",
       "n": 1,
-      "avg_tone": 2.644
+      "avg_tone": 2.343
     },
     {
-      "source": "abc15.com",
+      "source": "ksl.com",
+      "n": 1,
+      "avg_tone": -3.425
+    },
+    {
+      "source": "cnn.com",
+      "n": 1,
+      "avg_tone": -3.088
+    },
+    {
+      "source": "kcci.com",
+      "n": 1,
+      "avg_tone": -1.622
+    },
+    {
+      "source": "fox5ny.com",
+      "n": 1,
+      "avg_tone": -6.398
+    },
+    {
+      "source": "redlandsdailyfacts.com",
+      "n": 1,
+      "avg_tone": -2.995
+    },
+    {
+      "source": "keanradio.com",
+      "n": 1,
+      "avg_tone": -2.338
+    },
+    {
+      "source": "10news.com",
       "n": 1,
       "avg_tone": -3.437
     },
     {
-      "source": "azcapitoltimes.com",
+      "source": "crooksandliars.com",
       "n": 1,
-      "avg_tone": -2.222
+      "avg_tone": -2.835
     },
     {
-      "source": "wlwt.com",
+      "source": "koolfmabilene.com",
+      "n": 1,
+      "avg_tone": -2.361
+    },
+    {
+      "source": "ketv.com",
       "n": 1,
       "avg_tone": -1.622
-    },
-    {
-      "source": "ksbw.com",
-      "n": 1,
-      "avg_tone": -1.622
-    },
-    {
-      "source": "azfamily.com",
-      "n": 1,
-      "avg_tone": -3.62
-    },
-    {
-      "source": "hotair.com",
-      "n": 1,
-      "avg_tone": 3.39
-    },
-    {
-      "source": "movieweb.com",
-      "n": 1,
-      "avg_tone": -0.233
-    },
-    {
-      "source": "niagarafallsreview.ca",
-      "n": 1,
-      "avg_tone": 1.961
-    },
-    {
-      "source": "boxingnewsonline.net",
-      "n": 1,
-      "avg_tone": 2.357
-    },
-    {
-      "source": "indiatimes.com",
-      "n": 1,
-      "avg_tone": 0.75
     }
   ],
   "top_themes": [
     {
       "theme": "WB_137_WATER",
-      "n": 71
+      "n": 120
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 59
-    },
-    {
-      "theme": "EPU_CATS_HEALTHCARE",
-      "n": 54
+      "n": 86
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 50
+      "n": 85
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 49
+      "n": 83
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 49
+      "n": 83
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 49
+      "n": 83
     },
     {
       "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 48
+      "n": 82
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 33
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 27
+      "theme": "EPU_CATS_HEALTHCARE",
+      "n": 82
     },
     {
       "theme": "AGRICULTURE",
-      "n": 26
+      "n": 43
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 39
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 35
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 35
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 33
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 26
-    },
-    {
-      "theme": "DRUG_TRADE",
-      "n": 26
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 25
+      "n": 32
     },
     {
       "theme": "EPU_POLICY_POLITICAL",
-      "n": 24
+      "n": 31
     }
   ]
 }
