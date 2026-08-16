@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-16T21:14:38.574114+00:00",
-  "rows_total_scanned_last_run": 2063,
-  "rows_mexico_last_run": 22,
-  "overall_avg_tone_4h": -1.818,
+  "generated_at": "2026-08-16T21:34:26.331118+00:00",
+  "rows_total_scanned_last_run": 1559,
+  "rows_mexico_last_run": 21,
+  "overall_avg_tone_4h": -1.804,
   "timeline": [
-    {
-      "time": "2026-08-13T21:15",
-      "avg_tone": -0.8,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-08-13T21:30",
-      "avg_tone": -0.751,
-      "n_articles": 16
-    },
     {
       "time": "2026-08-13T21:45",
       "avg_tone": -1.72,
@@ -1323,9 +1313,24 @@
       "time": "2026-08-16T21:15",
       "avg_tone": -1.61,
       "n_articles": 7
+    },
+    {
+      "time": "2026-08-16T21:30",
+      "avg_tone": -1.919,
+      "n_articles": 10
     }
   ],
   "top_sources": [
+    {
+      "source": "cubaheadlines.com",
+      "n": 4,
+      "avg_tone": -2.571
+    },
+    {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": -0.16
+    },
     {
       "source": "riotimesonline.com",
       "n": 2,
@@ -1335,6 +1340,31 @@
       "source": "gringogazette.com",
       "n": 2,
       "avg_tone": -4.797
+    },
+    {
+      "source": "movieweb.com",
+      "n": 1,
+      "avg_tone": -3.123
+    },
+    {
+      "source": "sounderatheart.com",
+      "n": 1,
+      "avg_tone": -0.704
+    },
+    {
+      "source": "latintimes.com",
+      "n": 1,
+      "avg_tone": -3.598
+    },
+    {
+      "source": "relix.com",
+      "n": 1,
+      "avg_tone": 0.662
+    },
+    {
+      "source": "hindustantimes.com",
+      "n": 1,
+      "avg_tone": -3.755
     },
     {
       "source": "salinapost.com",
@@ -1357,11 +1387,6 @@
       "avg_tone": -6.901
     },
     {
-      "source": "yahoo.com",
-      "n": 1,
-      "avg_tone": -1.927
-    },
-    {
       "source": "dailydemocrat.com",
       "n": 1,
       "avg_tone": 1.668
@@ -1370,98 +1395,68 @@
       "source": "timesofsandiego.com",
       "n": 1,
       "avg_tone": -2.75
-    },
-    {
-      "source": "f4wonline.com",
-      "n": 1,
-      "avg_tone": -0.356
-    },
-    {
-      "source": "whittierdailynews.com",
-      "n": 1,
-      "avg_tone": -2.995
-    },
-    {
-      "source": "koat.com",
-      "n": 1,
-      "avg_tone": -2.749
-    },
-    {
-      "source": "cjme.com",
-      "n": 1,
-      "avg_tone": 2.164
-    },
-    {
-      "source": "mynbc5.com",
-      "n": 1,
-      "avg_tone": -1.622
-    },
-    {
-      "source": "fox13seattle.com",
-      "n": 1,
-      "avg_tone": -6.398
     }
   ],
   "top_themes": [
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 32
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 29
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 34
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 29
+      "n": 27
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 25
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 23
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 21
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 19
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 19
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 18
-    },
-    {
-      "theme": "EPU_CATS_HEALTHCARE",
-      "n": 18
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 17
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 17
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 27
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 17
+      "n": 27
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 26
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 25
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 25
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 25
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 24
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 20
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 19
     },
     {
       "theme": "TAX_FNCACT_AUTHORITIES",
-      "n": 17
+      "n": 16
     },
     {
       "theme": "EPU_POLICY_AUTHORITIES",
-      "n": 17
+      "n": 16
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 16
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 16
     }
   ]
 }
