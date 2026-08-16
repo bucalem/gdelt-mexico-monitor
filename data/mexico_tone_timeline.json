@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16T05:19:51.448572+00:00",
-  "rows_total_scanned_last_run": 676,
-  "rows_mexico_last_run": 10,
-  "overall_avg_tone_4h": -0.411,
+  "generated_at": "2026-08-16T05:50:42.337557+00:00",
+  "rows_total_scanned_last_run": 1639,
+  "rows_mexico_last_run": 23,
+  "overall_avg_tone_4h": -0.503,
   "timeline": [
     {
       "time": "2026-08-13T06:00",
@@ -1258,115 +1258,165 @@
       "time": "2026-08-16T05:00",
       "avg_tone": 3.833,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-16T05:15",
+      "avg_tone": -0.9,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-08-16T05:30",
+      "avg_tone": 3.039,
+      "n_articles": 1
+    },
+    {
+      "time": "2026-08-16T05:45",
+      "avg_tone": 1.967,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-08-16T06:00",
+      "avg_tone": -0.519,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "dailypolitical.com",
-      "n": 2,
-      "avg_tone": 3.506
+      "source": "f4wonline.com",
+      "n": 3,
+      "avg_tone": -2.211
     },
     {
-      "source": "torontotelegraph.com",
+      "source": "howestreet.com",
       "n": 1,
-      "avg_tone": -1.288
+      "avg_tone": -0.999
+    },
+    {
+      "source": "whittierdailynews.com",
+      "n": 1,
+      "avg_tone": 3.039
+    },
+    {
+      "source": "cavalierdaily.com",
+      "n": 1,
+      "avg_tone": 2.109
+    },
+    {
+      "source": "manchestereveningnews.co.uk",
+      "n": 1,
+      "avg_tone": -1.34
+    },
+    {
+      "source": "indiatimes.com",
+      "n": 1,
+      "avg_tone": -0.323
+    },
+    {
+      "source": "pasadenastarnews.com",
+      "n": 1,
+      "avg_tone": 3.039
+    },
+    {
+      "source": "bignewsnetwork.com",
+      "n": 1,
+      "avg_tone": 2.771
+    },
+    {
+      "source": "sandiegouniontribune.com",
+      "n": 1,
+      "avg_tone": 0.09
+    },
+    {
+      "source": "sgvtribune.com",
+      "n": 1,
+      "avg_tone": 3.039
+    },
+    {
+      "source": "peakoil.com",
+      "n": 1,
+      "avg_tone": -0.951
+    },
+    {
+      "source": "dailynews.com",
+      "n": 1,
+      "avg_tone": 3.039
+    },
+    {
+      "source": "wrganews.com",
+      "n": 1,
+      "avg_tone": -7.234
     },
     {
       "source": "yahoo.com",
       "n": 1,
-      "avg_tone": 3.857
+      "avg_tone": 2.459
     },
     {
-      "source": "laughingplace.com",
+      "source": "travelerstoday.com",
       "n": 1,
-      "avg_tone": 9.581
-    },
-    {
-      "source": "tickerreport.com",
-      "n": 1,
-      "avg_tone": 2.703
-    },
-    {
-      "source": "grimsbytelegraph.co.uk",
-      "n": 1,
-      "avg_tone": 2.914
-    },
-    {
-      "source": "dailybruin.com",
-      "n": 1,
-      "avg_tone": -0.151
-    },
-    {
-      "source": "thecolu.mn",
-      "n": 1,
-      "avg_tone": -4.31
-    },
-    {
-      "source": "thecostaricanews.com",
-      "n": 1,
-      "avg_tone": 5.357
+      "avg_tone": -0.624
     }
   ],
   "top_themes": [
     {
-      "theme": "MEDICAL",
-      "n": 50
+      "theme": "ENV_OIL",
+      "n": 57
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 49
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 21
+    },
+    {
+      "theme": "TAX_FNCACT_CLOWN",
+      "n": 19
+    },
+    {
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 18
+    },
+    {
+      "theme": "KILL",
+      "n": 17
+    },
+    {
+      "theme": "CRISISLEX_T02_INJURED",
+      "n": 17
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 15
+    },
+    {
+      "theme": "TAX_WEAPONS_FIREARMS",
+      "n": 14
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 21
+      "n": 11
     },
     {
-      "theme": "TAX_DISEASE_CANCER",
-      "n": 21
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 10
     },
     {
-      "theme": "WB_1406_DISEASES",
-      "n": 21
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 10
     },
     {
-      "theme": "WB_1431_CANCER",
-      "n": 21
+      "theme": "TAX_ECON_PRICE",
+      "n": 9
     },
     {
-      "theme": "WB_1427_NON_COMMUNICABLE_DISEASE_AND_INJURY",
-      "n": 21
+      "theme": "ECON_STOCKMARKET",
+      "n": 9
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 20
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 9
     },
     {
-      "theme": "WB_723_PUBLIC_ADMINISTRATION",
-      "n": 19
-    },
-    {
-      "theme": "TAX_FNCACT_STUDENTS",
-      "n": 19
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 18
-    },
-    {
-      "theme": "WB_2048_COMPENSATION_CAREERS_AND_INCENTIVES",
-      "n": 18
-    },
-    {
-      "theme": "WB_724_HUMAN_RESOURCES_FOR_PUBLIC_SECTOR",
-      "n": 18
-    },
-    {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 18
-    },
-    {
-      "theme": "TAX_FNCACT_WOMEN",
-      "n": 16
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 9
     }
   ]
 }
