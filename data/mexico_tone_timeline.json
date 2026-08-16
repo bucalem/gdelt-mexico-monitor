@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-16T17:31:43.408947+00:00",
-  "rows_total_scanned_last_run": 2558,
-  "rows_mexico_last_run": 34,
-  "overall_avg_tone_4h": -0.708,
+  "generated_at": "2026-08-16T17:53:49.351541+00:00",
+  "rows_total_scanned_last_run": 2607,
+  "rows_mexico_last_run": 33,
+  "overall_avg_tone_4h": -0.767,
   "timeline": [
-    {
-      "time": "2026-08-13T17:45",
-      "avg_tone": 0.872,
-      "n_articles": 15
-    },
     {
       "time": "2026-08-13T18:00",
       "avg_tone": -0.002,
@@ -1308,109 +1303,103 @@
       "time": "2026-08-16T17:30",
       "avg_tone": -2.127,
       "n_articles": 9
+    },
+    {
+      "time": "2026-08-16T17:45",
+      "avg_tone": 0.521,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-08-16T18:00",
+      "avg_tone": -1.105,
+      "n_articles": 10
     }
   ],
   "top_sources": [
     {
       "source": "yahoo.com",
-      "n": 3,
-      "avg_tone": -2.661
-    },
-    {
-      "source": "themarketsdaily.com",
       "n": 2,
-      "avg_tone": 1.581
+      "avg_tone": -2.656
     },
     {
-      "source": "tickerreport.com",
+      "source": "deadline.com",
       "n": 2,
-      "avg_tone": 1.917
+      "avg_tone": 0.0
     },
     {
-      "source": "kaieteurnewsonline.com",
-      "n": 2,
-      "avg_tone": 2.393
-    },
-    {
-      "source": "americanthinker.com",
+      "source": "wvtm13.com",
       "n": 1,
-      "avg_tone": -3.926
+      "avg_tone": -1.622
     },
     {
-      "source": "wptv.com",
+      "source": "cubaheadlines.com",
+      "n": 1,
+      "avg_tone": -3.941
+    },
+    {
+      "source": "freepressjournal.in",
+      "n": 1,
+      "avg_tone": 2.644
+    },
+    {
+      "source": "abc15.com",
       "n": 1,
       "avg_tone": -3.437
     },
     {
-      "source": "wmur.com",
+      "source": "azcapitoltimes.com",
+      "n": 1,
+      "avg_tone": -2.222
+    },
+    {
+      "source": "wlwt.com",
       "n": 1,
       "avg_tone": -1.622
     },
     {
-      "source": "catholicculture.org",
-      "n": 1,
-      "avg_tone": 0.752
-    },
-    {
-      "source": "abc7news.com",
-      "n": 1,
-      "avg_tone": -1.35
-    },
-    {
-      "source": "wjcl.com",
+      "source": "ksbw.com",
       "n": 1,
       "avg_tone": -1.622
     },
     {
-      "source": "davisenterprise.com",
+      "source": "azfamily.com",
       "n": 1,
-      "avg_tone": -1.11
+      "avg_tone": -3.62
     },
     {
-      "source": "dailypolitical.com",
+      "source": "hotair.com",
       "n": 1,
-      "avg_tone": 1.671
+      "avg_tone": 3.39
     },
     {
-      "source": "idrw.org",
+      "source": "movieweb.com",
       "n": 1,
-      "avg_tone": -0.678
+      "avg_tone": -0.233
     },
     {
-      "source": "oilprice.com",
+      "source": "niagarafallsreview.ca",
       "n": 1,
-      "avg_tone": -0.466
+      "avg_tone": 1.961
     },
     {
-      "source": "ktvu.com",
+      "source": "boxingnewsonline.net",
       "n": 1,
-      "avg_tone": -6.398
+      "avg_tone": 2.357
+    },
+    {
+      "source": "indiatimes.com",
+      "n": 1,
+      "avg_tone": 0.75
     }
   ],
   "top_themes": [
     {
-      "theme": "LEADER",
-      "n": 271
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 267
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 255
-    },
-    {
       "theme": "WB_137_WATER",
-      "n": 73
-    },
-    {
-      "theme": "EPU_POLICY_WHITE_HOUSE",
-      "n": 62
+      "n": 71
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 62
+      "n": 59
     },
     {
       "theme": "EPU_CATS_HEALTHCARE",
@@ -1421,32 +1410,48 @@
       "n": 50
     },
     {
-      "theme": "DRUG_TRADE",
-      "n": 50
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 49
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 49
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 49
     },
     {
       "theme": "TAX_DISEASE_OUTBREAK",
       "n": 48
     },
     {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 48
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 48
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 48
-    },
-    {
-      "theme": "CRIME_ILLEGAL_DRUGS",
-      "n": 48
-    },
-    {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 36
+      "n": 33
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 27
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 26
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 26
+    },
+    {
+      "theme": "DRUG_TRADE",
+      "n": 26
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 25
+    },
+    {
+      "theme": "EPU_POLICY_POLITICAL",
+      "n": 24
     }
   ]
 }
