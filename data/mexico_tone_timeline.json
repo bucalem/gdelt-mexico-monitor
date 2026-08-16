@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16T09:38:36.733572+00:00",
-  "rows_total_scanned_last_run": 2176,
-  "rows_mexico_last_run": 27,
-  "overall_avg_tone_4h": -1.108,
+  "generated_at": "2026-08-16T09:56:51.382656+00:00",
+  "rows_total_scanned_last_run": 2293,
+  "rows_mexico_last_run": 32,
+  "overall_avg_tone_4h": -1.0,
   "timeline": [
     {
       "time": "2026-08-13T10:00",
@@ -1293,9 +1293,64 @@
       "time": "2026-08-16T09:45",
       "avg_tone": -0.275,
       "n_articles": 12
+    },
+    {
+      "time": "2026-08-16T10:00",
+      "avg_tone": 0.501,
+      "n_articles": 10
     }
   ],
   "top_sources": [
+    {
+      "source": "kansaspublicradio.org",
+      "n": 1,
+      "avg_tone": 1.425
+    },
+    {
+      "source": "stcatharinesstandard.ca",
+      "n": 1,
+      "avg_tone": -3.369
+    },
+    {
+      "source": "torontotelegraph.com",
+      "n": 1,
+      "avg_tone": 2.771
+    },
+    {
+      "source": "prnewswire.com",
+      "n": 1,
+      "avg_tone": 7.212
+    },
+    {
+      "source": "newcastleherald.com.au",
+      "n": 1,
+      "avg_tone": -0.53
+    },
+    {
+      "source": "winnipegsun.com",
+      "n": 1,
+      "avg_tone": -4.762
+    },
+    {
+      "source": "ualrpublicradio.org",
+      "n": 1,
+      "avg_tone": 1.425
+    },
+    {
+      "source": "kvnf.org",
+      "n": 1,
+      "avg_tone": 1.425
+    },
+    {
+      "source": "netscape.com",
+      "n": 1,
+      "avg_tone": -3.352
+    },
+    {
+      "source": "sandiegosun.com",
+      "n": 1,
+      "avg_tone": 2.771
+    },
     {
       "source": "wfae.org",
       "n": 1,
@@ -1320,118 +1375,68 @@
       "source": "hungarytoday.hu",
       "n": 1,
       "avg_tone": 2.368
-    },
-    {
-      "source": "omanobserver.om",
-      "n": 1,
-      "avg_tone": -5.329
-    },
-    {
-      "source": "kelownadailycourier.ca",
-      "n": 1,
-      "avg_tone": 1.002
-    },
-    {
-      "source": "abajournal.com",
-      "n": 1,
-      "avg_tone": -4.545
-    },
-    {
-      "source": "defensenews.com",
-      "n": 1,
-      "avg_tone": -2.721
-    },
-    {
-      "source": "moneycontrol.com",
-      "n": 1,
-      "avg_tone": -0.311
-    },
-    {
-      "source": "sbnation.com",
-      "n": 1,
-      "avg_tone": -1.597
-    },
-    {
-      "source": "wknofm.org",
-      "n": 1,
-      "avg_tone": 1.425
-    },
-    {
-      "source": "kacu.org",
-      "n": 1,
-      "avg_tone": 1.425
-    },
-    {
-      "source": "thedailytimes.com",
-      "n": 1,
-      "avg_tone": 3.125
-    },
-    {
-      "source": "delawarepublic.org",
-      "n": 1,
-      "avg_tone": 1.425
     }
   ],
   "top_themes": [
+    {
+      "theme": "WB_1406_DISEASES",
+      "n": 79
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 79
+    },
+    {
+      "theme": "TAX_DISEASE_DISEASE",
+      "n": 78
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 73
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
+      "n": 69
+    },
+    {
+      "theme": "SCIENCE",
+      "n": 69
+    },
     {
       "theme": "TAX_FNCACT_SECRETARY",
       "n": 66
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 59
-    },
-    {
-      "theme": "TAX_TERROR_GROUP_TALIBAN",
-      "n": 59
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 58
-    },
-    {
-      "theme": "WB_1406_DISEASES",
-      "n": 58
-    },
-    {
-      "theme": "TAX_DISEASE_DISEASE",
-      "n": 57
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 52
-    },
-    {
-      "theme": "SCIENCE",
-      "n": 51
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 63
     },
     {
       "theme": "MARITIME",
-      "n": 47
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 47
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 46
+      "n": 60
     },
     {
       "theme": "WB_1777_FORESTS",
-      "n": 41
+      "n": 56
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 56
     },
     {
       "theme": "MARITIME_INCIDENT",
-      "n": 41
+      "n": 55
     },
     {
       "theme": "TAX_WORLDFISH_SALMON",
-      "n": 32
+      "n": 44
     },
     {
       "theme": "TAX_WORLDFISH_FISH",
-      "n": 32
+      "n": 44
+    },
+    {
+      "theme": "TAX_DISEASE_WASTING_DISEASE",
+      "n": 44
     }
   ]
 }
