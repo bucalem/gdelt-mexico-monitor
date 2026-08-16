@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-16T13:42:37.820686+00:00",
-  "rows_total_scanned_last_run": 2565,
-  "rows_mexico_last_run": 36,
-  "overall_avg_tone_4h": 0.763,
+  "generated_at": "2026-08-16T13:58:55.636186+00:00",
+  "rows_total_scanned_last_run": 2790,
+  "rows_mexico_last_run": 40,
+  "overall_avg_tone_4h": 0.672,
   "timeline": [
-    {
-      "time": "2026-08-13T13:45",
-      "avg_tone": -1.12,
-      "n_articles": 24
-    },
     {
       "time": "2026-08-13T14:00",
       "avg_tone": 0.05,
@@ -1308,81 +1303,86 @@
       "time": "2026-08-16T13:45",
       "avg_tone": -0.033,
       "n_articles": 10
+    },
+    {
+      "time": "2026-08-16T14:00",
+      "avg_tone": -0.363,
+      "n_articles": 15
     }
   ],
   "top_sources": [
     {
-      "source": "winnipegfreepress.com",
-      "n": 1,
-      "avg_tone": -2.886
-    },
-    {
-      "source": "leadership.ng",
-      "n": 1,
-      "avg_tone": -0.901
-    },
-    {
-      "source": "wyomingpublicmedia.org",
+      "source": "wfsu.org",
       "n": 1,
       "avg_tone": 1.425
     },
     {
-      "source": "northcountrypublicradio.org",
+      "source": "theguardian.com",
       "n": 1,
-      "avg_tone": 1.603
+      "avg_tone": 0.421
     },
     {
-      "source": "theatlantic.com",
+      "source": "wlrn.org",
       "n": 1,
-      "avg_tone": -2.841
+      "avg_tone": 1.425
     },
     {
-      "source": "redlandsdailyfacts.com",
+      "source": "prairiepublic.org",
+      "n": 1,
+      "avg_tone": 1.425
+    },
+    {
+      "source": "northernpublicradio.org",
+      "n": 1,
+      "avg_tone": 1.425
+    },
+    {
+      "source": "mymotherlode.com",
+      "n": 1,
+      "avg_tone": -3.405
+    },
+    {
+      "source": "sbsun.com",
       "n": 1,
       "avg_tone": -0.048
     },
     {
-      "source": "kjzz.org",
+      "source": "presstelegram.com",
+      "n": 1,
+      "avg_tone": 5.391
+    },
+    {
+      "source": "wfdd.org",
       "n": 1,
       "avg_tone": 1.425
     },
     {
-      "source": "santafenewmexican.com",
+      "source": "petapixel.com",
       "n": 1,
-      "avg_tone": 0.107
+      "avg_tone": -1.399
     },
     {
-      "source": "cruiseindustrynews.com",
+      "source": "ivpressonline.com",
       "n": 1,
-      "avg_tone": 0.365
+      "avg_tone": -8.919
     },
     {
-      "source": "wbaa.org",
+      "source": "wmuk.org",
       "n": 1,
       "avg_tone": 1.425
     },
     {
-      "source": "wyomingnews.com",
+      "source": "dailysabah.com",
       "n": 1,
-      "avg_tone": 3.914
+      "avg_tone": -1.769
     },
     {
-      "source": "yahoo.com",
+      "source": "wrganews.com",
       "n": 1,
-      "avg_tone": -3.98
+      "avg_tone": -5.686
     },
     {
-      "source": "nypost.com",
-      "n": 1,
-      "avg_tone": -5.863
-    },
-    {
-      "source": "thenewsherald.com",
-      "n": 1,
-      "avg_tone": -2.144
-    },
-    {
-      "source": "wjct.org",
+      "source": "kyuk.org",
       "n": 1,
       "avg_tone": 1.425
     }
@@ -1390,63 +1390,63 @@
   "top_themes": [
     {
       "theme": "WB_1406_DISEASES",
-      "n": 124
+      "n": 138
     },
     {
       "theme": "TAX_DISEASE_DISEASE",
-      "n": 121
+      "n": 135
     },
     {
       "theme": "EDUCATION",
-      "n": 108
-    },
-    {
-      "theme": "SCIENCE",
-      "n": 106
+      "n": 121
     },
     {
       "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 105
+      "n": 118
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 100
-    },
-    {
-      "theme": "MARITIME",
-      "n": 90
-    },
-    {
-      "theme": "MARITIME_INCIDENT",
-      "n": 88
-    },
-    {
-      "theme": "WB_1777_FORESTS",
-      "n": 84
+      "theme": "SCIENCE",
+      "n": 118
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 79
+      "n": 115
     },
     {
-      "theme": "LEADER",
-      "n": 69
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 115
+    },
+    {
+      "theme": "MARITIME",
+      "n": 104
+    },
+    {
+      "theme": "MARITIME_INCIDENT",
+      "n": 101
+    },
+    {
+      "theme": "WB_1777_FORESTS",
+      "n": 94
     },
     {
       "theme": "TAX_WORLDFISH_FISH",
-      "n": 69
-    },
-    {
-      "theme": "TAX_ETHNICITY_INDIAN",
-      "n": 69
+      "n": 79
     },
     {
       "theme": "TAX_WORLDFISH_SALMON",
-      "n": 69
+      "n": 77
+    },
+    {
+      "theme": "TAX_ETHNICITY_INDIAN",
+      "n": 77
     },
     {
       "theme": "TAX_DISEASE_WASTING_DISEASE",
-      "n": 68
+      "n": 76
+    },
+    {
+      "theme": "LEADER",
+      "n": 71
     }
   ]
 }
