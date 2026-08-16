@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-16T03:24:59.593288+00:00",
-  "rows_total_scanned_last_run": 694,
-  "rows_mexico_last_run": 6,
-  "overall_avg_tone_4h": -0.556,
+  "generated_at": "2026-08-16T04:05:56.826941+00:00",
+  "rows_total_scanned_last_run": 1356,
+  "rows_mexico_last_run": 11,
+  "overall_avg_tone_4h": -0.81,
   "timeline": [
     {
       "time": "2026-08-13T04:30",
@@ -1243,13 +1243,63 @@
       "time": "2026-08-16T03:30",
       "avg_tone": 0.123,
       "n_articles": 2
+    },
+    {
+      "time": "2026-08-16T03:45",
+      "avg_tone": -2.755,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-08-16T04:00",
+      "avg_tone": 1.204,
+      "n_articles": 2
+    },
+    {
+      "time": "2026-08-16T04:15",
+      "avg_tone": -6.319,
+      "n_articles": 2
     }
   ],
   "top_sources": [
     {
-      "source": "islands.com",
+      "source": "eastcountymagazine.org",
       "n": 2,
-      "avg_tone": 3.204
+      "avg_tone": -3.9
+    },
+    {
+      "source": "townhall.com",
+      "n": 1,
+      "avg_tone": -7.528
+    },
+    {
+      "source": "wbko.com",
+      "n": 1,
+      "avg_tone": -5.109
+    },
+    {
+      "source": "tpr.org",
+      "n": 1,
+      "avg_tone": -0.849
+    },
+    {
+      "source": "billboard.com",
+      "n": 1,
+      "avg_tone": 3.257
+    },
+    {
+      "source": "business-standard.com",
+      "n": 1,
+      "avg_tone": -1.2
+    },
+    {
+      "source": "whmi.com",
+      "n": 1,
+      "avg_tone": -7.234
+    },
+    {
+      "source": "austinglobe.com",
+      "n": 1,
+      "avg_tone": 2.457
     },
     {
       "source": "si.com",
@@ -1260,78 +1310,68 @@
       "source": "texasguardian.com",
       "n": 1,
       "avg_tone": 2.457
-    },
-    {
-      "source": "ladailypost.com",
-      "n": 1,
-      "avg_tone": 2.588
-    },
-    {
-      "source": "castanetkamloops.net",
-      "n": 1,
-      "avg_tone": -1.708
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_1979_NATURAL_RESOURCE_MANAGEMENT",
-      "n": 12
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 56
     },
     {
-      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
-      "n": 12
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 49
     },
     {
-      "theme": "WB_1986_MOUNTAINS",
-      "n": 12
+      "theme": "TAX_FNCACT_AGENTS",
+      "n": 48
     },
     {
-      "theme": "TAX_ETHNICITY_BLACK",
-      "n": 9
+      "theme": "ARREST",
+      "n": 46
     },
     {
-      "theme": "NATURAL_DISASTER_WILDFIRE",
-      "n": 7
+      "theme": "WB_2670_JOBS",
+      "n": 41
     },
     {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 7
+      "theme": "IMMIGRATION",
+      "n": 40
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 6
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 40
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 5
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 40
     },
     {
-      "theme": "MEDICAL",
-      "n": 5
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 40
     },
     {
-      "theme": "TAX_FNCACT_KNIGHT",
-      "n": 4
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 40
     },
     {
-      "theme": "TAX_FNCACT_CHAMPIONS",
-      "n": 4
+      "theme": "SOC_GENERALCRIME",
+      "n": 30
     },
     {
-      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
-      "n": 4
-    },
-    {
-      "theme": "TAX_FNCACT_DIRECTOR",
-      "n": 4
-    },
-    {
-      "theme": "DISASTER_FIRE",
-      "n": 4
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 23
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 3
+      "n": 21
+    },
+    {
+      "theme": "BORDER",
+      "n": 21
+    },
+    {
+      "theme": "TAX_WEAPONS_FIREARMS",
+      "n": 20
     }
   ]
 }
