@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-16T20:36:04.468139+00:00",
-  "rows_total_scanned_last_run": 2207,
-  "rows_mexico_last_run": 30,
-  "overall_avg_tone_4h": -1.77,
+  "generated_at": "2026-08-16T20:56:27.637626+00:00",
+  "rows_total_scanned_last_run": 2148,
+  "rows_mexico_last_run": 27,
+  "overall_avg_tone_4h": -1.843,
   "timeline": [
-    {
-      "time": "2026-08-13T20:45",
-      "avg_tone": 0.534,
-      "n_articles": 21
-    },
     {
       "time": "2026-08-13T21:00",
       "avg_tone": 0.353,
@@ -1323,9 +1318,19 @@
       "time": "2026-08-16T20:45",
       "avg_tone": -0.984,
       "n_articles": 4
+    },
+    {
+      "time": "2026-08-16T21:00",
+      "avg_tone": -2.669,
+      "n_articles": 4
     }
   ],
   "top_sources": [
+    {
+      "source": "gringogazette.com",
+      "n": 2,
+      "avg_tone": -4.797
+    },
     {
       "source": "krgv.com",
       "n": 2,
@@ -1335,6 +1340,16 @@
       "source": "themarysue.com",
       "n": 2,
       "avg_tone": -4.377
+    },
+    {
+      "source": "dailydemocrat.com",
+      "n": 1,
+      "avg_tone": 1.668
+    },
+    {
+      "source": "timesofsandiego.com",
+      "n": 1,
+      "avg_tone": -2.75
     },
     {
       "source": "f4wonline.com",
@@ -1385,83 +1400,68 @@
       "source": "wmtw.com",
       "n": 1,
       "avg_tone": -1.622
-    },
-    {
-      "source": "bostonherald.com",
-      "n": 1,
-      "avg_tone": -3.186
-    },
-    {
-      "source": "pocket-lint.com",
-      "n": 1,
-      "avg_tone": -0.28
-    },
-    {
-      "source": "fortune.com",
-      "n": 1,
-      "avg_tone": -3.541
     }
   ],
   "top_themes": [
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 48
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 43
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 41
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 39
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 39
-    },
-    {
-      "theme": "EPU_CATS_HEALTHCARE",
-      "n": 37
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 36
+      "n": 38
     },
     {
       "theme": "MEDIA_MSM",
-      "n": 36
+      "n": 37
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
       "n": 34
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 32
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 34
     },
     {
-      "theme": "TAX_FNCACT_WORKERS",
-      "n": 32
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 30
     },
     {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 32
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 30
+    },
+    {
+      "theme": "EPU_CATS_HEALTHCARE",
+      "n": 28
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 27
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 26
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 32
+      "n": 25
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 24
+    },
+    {
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 24
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 32
+      "n": 24
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 32
+      "n": 24
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 23
     }
   ]
 }
