@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-16T07:07:14.310674+00:00",
-  "rows_total_scanned_last_run": 1708,
+  "generated_at": "2026-08-16T07:43:04.950187+00:00",
+  "rows_total_scanned_last_run": 1869,
   "rows_mexico_last_run": 24,
-  "overall_avg_tone_4h": -0.889,
+  "overall_avg_tone_4h": -0.945,
   "timeline": [
-    {
-      "time": "2026-08-13T07:15",
-      "avg_tone": 1.085,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-08-13T07:30",
-      "avg_tone": 0.775,
-      "n_articles": 16
-    },
     {
       "time": "2026-08-13T07:45",
       "avg_tone": 1.374,
@@ -1283,108 +1273,118 @@
       "time": "2026-08-16T07:15",
       "avg_tone": -2.202,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-16T07:30",
+      "avg_tone": -0.437,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-08-16T07:45",
+      "avg_tone": -2.509,
+      "n_articles": 10
     }
   ],
   "top_sources": [
     {
-      "source": "deadline.com",
+      "source": "foodpoisonjournal.com",
       "n": 2,
-      "avg_tone": 3.042
+      "avg_tone": -3.596
     },
     {
-      "source": "krgv.com",
+      "source": "aol.co.uk",
       "n": 2,
-      "avg_tone": -8.837
+      "avg_tone": -2.45
     },
     {
-      "source": "thestar.com.my",
+      "source": "film-news.co.uk",
+      "n": 2,
+      "avg_tone": 2.913
+    },
+    {
+      "source": "business-standard.com",
       "n": 1,
-      "avg_tone": -1.665
+      "avg_tone": -0.679
     },
     {
-      "source": "thehindubusinessline.com",
+      "source": "roarmag.org",
       "n": 1,
-      "avg_tone": -0.333
+      "avg_tone": -5.102
     },
     {
-      "source": "indiatimes.com",
+      "source": "forbes.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": 0.962
     },
     {
-      "source": "theage.com.au",
-      "n": 1,
-      "avg_tone": -5.569
-    },
-    {
-      "source": "messenger-inquirer.com",
-      "n": 1,
-      "avg_tone": -3.445
-    },
-    {
-      "source": "wsls.com",
+      "source": "clickorlando.com",
       "n": 1,
       "avg_tone": -3.361
     },
     {
-      "source": "news4jax.com",
+      "source": "abcnews.com",
       "n": 1,
-      "avg_tone": -3.361
+      "avg_tone": -3.273
     },
     {
-      "source": "yahoo.com",
+      "source": "el-balad.com",
       "n": 1,
-      "avg_tone": -3.405
+      "avg_tone": -1.542
     },
     {
-      "source": "taylorvilledailynews.com",
+      "source": "thehindu.com",
       "n": 1,
-      "avg_tone": -3.242
+      "avg_tone": -2.249
     },
     {
-      "source": "kob.com",
+      "source": "wgauradio.com",
       "n": 1,
-      "avg_tone": -6.25
+      "avg_tone": -3.391
     },
     {
-      "source": "coloradostar.com",
+      "source": "prowrestling.net",
       "n": 1,
-      "avg_tone": 2.771
+      "avg_tone": -1.627
     },
     {
-      "source": "winnipegfreepress.com",
+      "source": "theweek.com",
       "n": 1,
-      "avg_tone": -3.241
+      "avg_tone": 2.82
     },
     {
-      "source": "newstribune.com",
+      "source": "newsday.com",
       "n": 1,
-      "avg_tone": 1.135
+      "avg_tone": -3.113
+    },
+    {
+      "source": "y108.ca",
+      "n": 1,
+      "avg_tone": -1.763
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_TERROR_GROUP_TALIBAN",
-      "n": 90
-    },
-    {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 54
+      "n": 45
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 32
+      "n": 36
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 26
+      "theme": "TAX_TERROR_GROUP_TALIBAN",
+      "n": 30
     },
     {
-      "theme": "BORDER",
-      "n": 26
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 29
     },
     {
-      "theme": "TAX_FNCACT_WORKERS",
+      "theme": "ENV_OIL",
+      "n": 25
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 24
     },
     {
@@ -1392,36 +1392,36 @@
       "n": 24
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 23
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 20
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 22
     },
     {
       "theme": "TAX_FNCACT_AUTHORITIES",
-      "n": 20
+      "n": 21
     },
     {
       "theme": "EPU_POLICY_AUTHORITIES",
+      "n": 21
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 21
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 21
+    },
+    {
+      "theme": "TAX_FNCACT_WORKERS",
       "n": 20
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 20
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 18
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 17
-    },
-    {
-      "theme": "SECURITY_SERVICES",
-      "n": 16
-    },
-    {
-      "theme": "TAX_FNCACT_POLICE",
-      "n": 16
+      "theme": "AFFECT",
+      "n": 15
     }
   ]
 }
