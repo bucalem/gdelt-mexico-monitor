@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-16T15:55:18.482061+00:00",
-  "rows_total_scanned_last_run": 2350,
-  "rows_mexico_last_run": 27,
-  "overall_avg_tone_4h": -0.055,
+  "generated_at": "2026-08-16T16:14:23.730026+00:00",
+  "rows_total_scanned_last_run": 2402,
+  "rows_mexico_last_run": 30,
+  "overall_avg_tone_4h": -0.199,
   "timeline": [
-    {
-      "time": "2026-08-13T16:00",
-      "avg_tone": 1.719,
-      "n_articles": 20
-    },
     {
       "time": "2026-08-13T16:15",
       "avg_tone": -0.06,
@@ -1308,13 +1303,58 @@
       "time": "2026-08-16T16:00",
       "avg_tone": 0.556,
       "n_articles": 6
+    },
+    {
+      "time": "2026-08-16T16:15",
+      "avg_tone": -1.684,
+      "n_articles": 9
     }
   ],
   "top_sources": [
     {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -1.219
+      "source": "cnn.com",
+      "n": 1,
+      "avg_tone": -3.088
+    },
+    {
+      "source": "kcra.com",
+      "n": 1,
+      "avg_tone": -1.622
+    },
+    {
+      "source": "ibtimes.com",
+      "n": 1,
+      "avg_tone": -4.353
+    },
+    {
+      "source": "wyomingnewsnow.tv",
+      "n": 1,
+      "avg_tone": 2.343
+    },
+    {
+      "source": "kold.com",
+      "n": 1,
+      "avg_tone": -3.62
+    },
+    {
+      "source": "wuwf.org",
+      "n": 1,
+      "avg_tone": -6.694
+    },
+    {
+      "source": "el-balad.com",
+      "n": 1,
+      "avg_tone": -2.825
+    },
+    {
+      "source": "kten.com",
+      "n": 1,
+      "avg_tone": 2.363
+    },
+    {
+      "source": "mesabitribune.com",
+      "n": 1,
+      "avg_tone": 2.343
     },
     {
       "source": "koat.com",
@@ -1345,108 +1385,68 @@
       "source": "sun-sentinel.com",
       "n": 1,
       "avg_tone": -1.961
-    },
-    {
-      "source": "slashgear.com",
-      "n": 1,
-      "avg_tone": 0.11
-    },
-    {
-      "source": "hngn.com",
-      "n": 1,
-      "avg_tone": -4.919
-    },
-    {
-      "source": "times-standard.com",
-      "n": 1,
-      "avg_tone": -1.595
-    },
-    {
-      "source": "theglobeandmail.com",
-      "n": 1,
-      "avg_tone": 2.136
-    },
-    {
-      "source": "ibtimes.com.au",
-      "n": 1,
-      "avg_tone": 2.509
-    },
-    {
-      "source": "kbia.org",
-      "n": 1,
-      "avg_tone": 1.425
-    },
-    {
-      "source": "fox5dc.com",
-      "n": 1,
-      "avg_tone": -6.398
-    },
-    {
-      "source": "aol.com",
-      "n": 1,
-      "avg_tone": 3.861
     }
   ],
   "top_themes": [
     {
-      "theme": "LEADER",
-      "n": 58
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 53
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 50
-    },
-    {
       "theme": "TAX_FNCACT_COOK",
+      "n": 96
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_POTATOES",
+      "n": 65
+    },
+    {
+      "theme": "TAX_FNCACT_COOKS",
+      "n": 54
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_RICE",
       "n": 48
     },
     {
-      "theme": "EDUCATION",
-      "n": 43
+      "theme": "TAX_ETHNICITY_ITALIAN",
+      "n": 48
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_ITALIAN",
+      "n": 48
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 39
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 38
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 36
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 35
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 33
+      "n": 47
     },
     {
       "theme": "WB_137_WATER",
-      "n": 33
+      "n": 43
     },
     {
-      "theme": "TAX_DISEASE_DISEASE",
-      "n": 31
+      "theme": "TAX_ETHNICITY_GERMAN",
+      "n": 43
     },
     {
-      "theme": "WB_1406_DISEASES",
-      "n": 31
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 40
+    },
+    {
+      "theme": "EPU_CATS_HEALTHCARE",
+      "n": 37
     },
     {
       "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 31
+      "n": 37
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 30
+      "n": 36
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_GERMAN",
+      "n": 36
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 34
     }
   ]
 }
