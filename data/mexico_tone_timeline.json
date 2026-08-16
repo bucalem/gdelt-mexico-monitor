@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-16T04:48:07.246594+00:00",
-  "rows_total_scanned_last_run": 1481,
-  "rows_mexico_last_run": 20,
-  "overall_avg_tone_4h": -0.667,
+  "generated_at": "2026-08-16T05:19:51.448572+00:00",
+  "rows_total_scanned_last_run": 676,
+  "rows_mexico_last_run": 10,
+  "overall_avg_tone_4h": -0.411,
   "timeline": [
-    {
-      "time": "2026-08-13T05:00",
-      "avg_tone": 0.248,
-      "n_articles": 11
-    },
     {
       "time": "2026-08-13T06:00",
       "avg_tone": 0.621,
@@ -1258,23 +1253,33 @@
       "time": "2026-08-16T04:45",
       "avg_tone": 1.302,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-16T05:00",
+      "avg_tone": 3.833,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
-      "source": "eldoradonews.com",
+      "source": "dailypolitical.com",
       "n": 2,
-      "avg_tone": -2.338
+      "avg_tone": 3.506
     },
     {
-      "source": "cagesideseats.com",
-      "n": 2,
-      "avg_tone": -1.56
+      "source": "torontotelegraph.com",
+      "n": 1,
+      "avg_tone": -1.288
     },
     {
-      "source": "nwaonline.com",
-      "n": 2,
-      "avg_tone": -3.411
+      "source": "yahoo.com",
+      "n": 1,
+      "avg_tone": 3.857
+    },
+    {
+      "source": "laughingplace.com",
+      "n": 1,
+      "avg_tone": 9.581
     },
     {
       "source": "tickerreport.com",
@@ -1300,103 +1305,68 @@
       "source": "thecostaricanews.com",
       "n": 1,
       "avg_tone": 5.357
-    },
-    {
-      "source": "hindustantimes.com",
-      "n": 1,
-      "avg_tone": -2.342
-    },
-    {
-      "source": "wcbm.com",
-      "n": 1,
-      "avg_tone": -7.519
-    },
-    {
-      "source": "kotaradio.com",
-      "n": 1,
-      "avg_tone": -7.234
-    },
-    {
-      "source": "ocregister.com",
-      "n": 1,
-      "avg_tone": 3.039
-    },
-    {
-      "source": "redlandsdailyfacts.com",
-      "n": 1,
-      "avg_tone": 3.039
-    },
-    {
-      "source": "townhall.com",
-      "n": 1,
-      "avg_tone": -7.528
-    },
-    {
-      "source": "wbko.com",
-      "n": 1,
-      "avg_tone": -5.109
     }
   ],
   "top_themes": [
     {
       "theme": "MEDICAL",
-      "n": 62
+      "n": 50
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 61
+      "n": 49
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 46
+      "n": 21
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 37
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 35
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 34
-    },
-    {
-      "theme": "TAX_WEAPONS_FIREARMS",
-      "n": 32
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
-      "n": 27
-    },
-    {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 26
-    },
-    {
-      "theme": "WB_723_PUBLIC_ADMINISTRATION",
-      "n": 25
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 24
-    },
-    {
-      "theme": "WB_2048_COMPENSATION_CAREERS_AND_INCENTIVES",
-      "n": 24
-    },
-    {
-      "theme": "WB_724_HUMAN_RESOURCES_FOR_PUBLIC_SECTOR",
-      "n": 24
+      "theme": "TAX_DISEASE_CANCER",
+      "n": 21
     },
     {
       "theme": "WB_1406_DISEASES",
-      "n": 24
+      "n": 21
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 23
+      "theme": "WB_1431_CANCER",
+      "n": 21
+    },
+    {
+      "theme": "WB_1427_NON_COMMUNICABLE_DISEASE_AND_INJURY",
+      "n": 21
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 20
+    },
+    {
+      "theme": "WB_723_PUBLIC_ADMINISTRATION",
+      "n": 19
+    },
+    {
+      "theme": "TAX_FNCACT_STUDENTS",
+      "n": 19
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 18
+    },
+    {
+      "theme": "WB_2048_COMPENSATION_CAREERS_AND_INCENTIVES",
+      "n": 18
+    },
+    {
+      "theme": "WB_724_HUMAN_RESOURCES_FOR_PUBLIC_SECTOR",
+      "n": 18
+    },
+    {
+      "theme": "TAX_FNCACT_CHILDREN",
+      "n": 18
+    },
+    {
+      "theme": "TAX_FNCACT_WOMEN",
+      "n": 16
     }
   ]
 }
