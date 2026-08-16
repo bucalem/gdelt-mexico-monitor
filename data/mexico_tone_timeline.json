@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-16T21:54:34.846944+00:00",
-  "rows_total_scanned_last_run": 2074,
-  "rows_mexico_last_run": 25,
-  "overall_avg_tone_4h": -1.932,
+  "generated_at": "2026-08-16T22:11:31.230778+00:00",
+  "rows_total_scanned_last_run": 2049,
+  "rows_mexico_last_run": 22,
+  "overall_avg_tone_4h": -1.945,
   "timeline": [
-    {
-      "time": "2026-08-13T22:00",
-      "avg_tone": -0.209,
-      "n_articles": 15
-    },
     {
       "time": "2026-08-13T22:15",
       "avg_tone": -1.299,
@@ -1323,6 +1318,11 @@
       "time": "2026-08-16T22:00",
       "avg_tone": -1.862,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-16T22:15",
+      "avg_tone": -2.842,
+      "n_articles": 4
     }
   ],
   "top_sources": [
@@ -1333,8 +1333,8 @@
     },
     {
       "source": "yahoo.com",
-      "n": 3,
-      "avg_tone": -0.346
+      "n": 2,
+      "avg_tone": 0.445
     },
     {
       "source": "metrosource.com",
@@ -1342,9 +1342,24 @@
       "avg_tone": 1.307
     },
     {
-      "source": "riotimesonline.com",
-      "n": 2,
-      "avg_tone": 1.343
+      "source": "dailybulletin.com",
+      "n": 1,
+      "avg_tone": -2.995
+    },
+    {
+      "source": "freerepublic.com",
+      "n": 1,
+      "avg_tone": -3.173
+    },
+    {
+      "source": "theprovince.com",
+      "n": 1,
+      "avg_tone": -1.021
+    },
+    {
+      "source": "latimes.com",
+      "n": 1,
+      "avg_tone": -4.18
     },
     {
       "source": "homenewshere.com",
@@ -1385,83 +1400,68 @@
       "source": "latintimes.com",
       "n": 1,
       "avg_tone": -3.598
-    },
-    {
-      "source": "relix.com",
-      "n": 1,
-      "avg_tone": 0.662
-    },
-    {
-      "source": "hindustantimes.com",
-      "n": 1,
-      "avg_tone": -3.755
-    },
-    {
-      "source": "salinapost.com",
-      "n": 1,
-      "avg_tone": -5.3
     }
   ],
   "top_themes": [
     {
       "theme": "GENERAL_GOVERNMENT",
-      "n": 35
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 34
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 28
+      "n": 30
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 27
+      "n": 25
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 21
     },
     {
       "theme": "IMMIGRATION",
-      "n": 27
+      "n": 20
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 27
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 25
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 25
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 24
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 23
-    },
-    {
-      "theme": "SOC_GENERALCRIME",
+      "theme": "USPEC_POLICY1",
       "n": 19
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 18
+      "theme": "WB_2670_JOBS",
+      "n": 19
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 18
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 17
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 17
+    },
+    {
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 17
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 17
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 17
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 17
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 17
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 16
     },
     {
       "theme": "TAX_FNCACT_COOK",
-      "n": 17
-    },
-    {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 17
+      "n": 16
     }
   ]
 }
