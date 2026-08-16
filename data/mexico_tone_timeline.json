@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-16T19:34:11.265686+00:00",
-  "rows_total_scanned_last_run": 2722,
-  "rows_mexico_last_run": 30,
-  "overall_avg_tone_4h": -1.356,
+  "generated_at": "2026-08-16T19:52:40.807569+00:00",
+  "rows_total_scanned_last_run": 2615,
+  "rows_mexico_last_run": 29,
+  "overall_avg_tone_4h": -1.51,
   "timeline": [
-    {
-      "time": "2026-08-13T19:45",
-      "avg_tone": 0.218,
-      "n_articles": 34
-    },
     {
       "time": "2026-08-13T20:00",
       "avg_tone": -0.0,
@@ -1323,6 +1318,11 @@
       "time": "2026-08-16T19:45",
       "avg_tone": -2.137,
       "n_articles": 7
+    },
+    {
+      "time": "2026-08-16T20:00",
+      "avg_tone": -2.86,
+      "n_articles": 7
     }
   ],
   "top_sources": [
@@ -1330,6 +1330,41 @@
       "source": "abqjournal.com",
       "n": 4,
       "avg_tone": 1.486
+    },
+    {
+      "source": "pasadenastarnews.com",
+      "n": 1,
+      "avg_tone": -2.995
+    },
+    {
+      "source": "theglobeandmail.com",
+      "n": 1,
+      "avg_tone": -2.239
+    },
+    {
+      "source": "tucson.com",
+      "n": 1,
+      "avg_tone": -0.67
+    },
+    {
+      "source": "dailybreeze.com",
+      "n": 1,
+      "avg_tone": -2.995
+    },
+    {
+      "source": "thenews.com.pk",
+      "n": 1,
+      "avg_tone": -3.043
+    },
+    {
+      "source": "wfsu.org",
+      "n": 1,
+      "avg_tone": -6.458
+    },
+    {
+      "source": "wlky.com",
+      "n": 1,
+      "avg_tone": -1.622
     },
     {
       "source": "fox26houston.com",
@@ -1365,103 +1400,68 @@
       "source": "wgal.com",
       "n": 1,
       "avg_tone": -1.622
-    },
-    {
-      "source": "ocregister.com",
-      "n": 1,
-      "avg_tone": -2.995
-    },
-    {
-      "source": "dailybruin.com",
-      "n": 1,
-      "avg_tone": -0.151
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 0.725
-    },
-    {
-      "source": "cbc.ca",
-      "n": 1,
-      "avg_tone": -2.62
-    },
-    {
-      "source": "cruiselawnews.com",
-      "n": 1,
-      "avg_tone": -5.394
-    },
-    {
-      "source": "castanetkamloops.net",
-      "n": 1,
-      "avg_tone": -0.696
-    },
-    {
-      "source": "indiatimes.com",
-      "n": 1,
-      "avg_tone": -1.341
     }
   ],
   "top_themes": [
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 64
+      "theme": "WB_137_WATER",
+      "n": 67
     },
     {
-      "theme": "MEDICAL",
+      "theme": "GENERAL_HEALTH",
       "n": 63
     },
     {
-      "theme": "WB_137_WATER",
-      "n": 46
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 45
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 44
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 43
+      "theme": "MEDICAL",
+      "n": 62
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 42
+      "n": 41
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 38
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 40
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 40
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 37
-    },
-    {
-      "theme": "TAX_FNCACT_WORKERS",
-      "n": 35
+      "n": 38
     },
     {
       "theme": "EPU_CATS_HEALTHCARE",
+      "n": 38
+    },
+    {
+      "theme": "TAX_FNCACT_WORKERS",
+      "n": 37
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 36
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 33
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 31
+      "n": 33
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 31
+      "n": 33
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 31
+      "n": 33
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 30
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 32
     }
   ]
 }
