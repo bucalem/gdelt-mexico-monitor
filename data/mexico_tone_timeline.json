@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-16T10:18:46.924249+00:00",
-  "rows_total_scanned_last_run": 2382,
-  "rows_mexico_last_run": 49,
-  "overall_avg_tone_4h": -0.685,
+  "generated_at": "2026-08-16T10:45:45.919440+00:00",
+  "rows_total_scanned_last_run": 2342,
+  "rows_mexico_last_run": 46,
+  "overall_avg_tone_4h": -0.246,
   "timeline": [
-    {
-      "time": "2026-08-13T10:30",
-      "avg_tone": 0.038,
-      "n_articles": 13
-    },
     {
       "time": "2026-08-13T10:45",
       "avg_tone": -0.524,
@@ -1293,145 +1288,155 @@
       "time": "2026-08-16T10:15",
       "avg_tone": 1.41,
       "n_articles": 20
+    },
+    {
+      "time": "2026-08-16T10:30",
+      "avg_tone": -0.206,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-08-16T10:45",
+      "avg_tone": 1.817,
+      "n_articles": 10
     }
   ],
   "top_sources": [
+    {
+      "source": "tickerreport.com",
+      "n": 2,
+      "avg_tone": 4.067
+    },
     {
       "source": "npr.org",
       "n": 2,
       "avg_tone": 1.659
     },
     {
-      "source": "express.co.uk",
+      "source": "cairoscene.com",
       "n": 1,
-      "avg_tone": 3.618
+      "avg_tone": 0.602
     },
     {
-      "source": "wvtf.org",
+      "source": "panow.com",
+      "n": 1,
+      "avg_tone": 1.742
+    },
+    {
+      "source": "livemint.com",
+      "n": 1,
+      "avg_tone": -4.722
+    },
+    {
+      "source": "apr.org",
       "n": 1,
       "avg_tone": 1.425
     },
     {
-      "source": "wxxinews.org",
+      "source": "kcbx.org",
       "n": 1,
       "avg_tone": 1.425
     },
     {
-      "source": "tickerreport.com",
-      "n": 1,
-      "avg_tone": 3.675
-    },
-    {
-      "source": "wrkf.org",
+      "source": "wkyufm.org",
       "n": 1,
       "avg_tone": 1.425
     },
     {
-      "source": "abqjournal.com",
+      "source": "techstory.in",
       "n": 1,
-      "avg_tone": -4.77
+      "avg_tone": 3.282
     },
     {
-      "source": "wysu.org",
+      "source": "whro.org",
       "n": 1,
       "avg_tone": 1.425
     },
     {
-      "source": "wcbe.org",
+      "source": "winnipegfreepress.com",
+      "n": 1,
+      "avg_tone": 2.075
+    },
+    {
+      "source": "mxdwn.com",
+      "n": 1,
+      "avg_tone": 9.494
+    },
+    {
+      "source": "wsiu.org",
       "n": 1,
       "avg_tone": 1.425
     },
     {
-      "source": "kclu.org",
+      "source": "wral.com",
       "n": 1,
-      "avg_tone": 1.425
+      "avg_tone": -3.434
     },
     {
-      "source": "planetf1.com",
+      "source": "sitkasentinel.com",
       "n": 1,
-      "avg_tone": -2.105
-    },
-    {
-      "source": "wvik.org",
-      "n": 1,
-      "avg_tone": 1.425
-    },
-    {
-      "source": "ktep.org",
-      "n": 1,
-      "avg_tone": 1.425
-    },
-    {
-      "source": "publicradiotulsa.org",
-      "n": 1,
-      "avg_tone": 1.425
-    },
-    {
-      "source": "kgou.org",
-      "n": 1,
-      "avg_tone": 1.425
+      "avg_tone": -3.417
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_1406_DISEASES",
-      "n": 165
-    },
-    {
       "theme": "TAX_DISEASE_DISEASE",
-      "n": 164
+      "n": 149
     },
     {
-      "theme": "EDUCATION",
-      "n": 146
-    },
-    {
-      "theme": "SCIENCE",
-      "n": 144
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 142
+      "theme": "WB_1406_DISEASES",
+      "n": 149
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 139
+      "n": 142
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 133
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
+      "n": 132
+    },
+    {
+      "theme": "SCIENCE",
+      "n": 132
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 129
-    },
-    {
-      "theme": "MARITIME",
-      "n": 122
-    },
-    {
-      "theme": "WB_1777_FORESTS",
-      "n": 118
+      "n": 123
     },
     {
       "theme": "MARITIME_INCIDENT",
-      "n": 118
+      "n": 108
     },
     {
-      "theme": "TAX_WORLDFISH_SALMON",
-      "n": 93
+      "theme": "MARITIME",
+      "n": 108
+    },
+    {
+      "theme": "WB_1777_FORESTS",
+      "n": 107
     },
     {
       "theme": "TAX_WORLDFISH_FISH",
-      "n": 93
+      "n": 85
+    },
+    {
+      "theme": "TAX_WORLDFISH_SALMON",
+      "n": 85
     },
     {
       "theme": "TAX_ETHNICITY_INDIAN",
-      "n": 93
+      "n": 85
     },
     {
       "theme": "TAX_DISEASE_WASTING_DISEASE",
-      "n": 92
+      "n": 84
     },
     {
       "theme": "WB_137_WATER",
-      "n": 83
+      "n": 79
     }
   ]
 }
