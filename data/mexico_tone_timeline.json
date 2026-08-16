@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-16T18:15:42.808660+00:00",
-  "rows_total_scanned_last_run": 2561,
-  "rows_mexico_last_run": 39,
-  "overall_avg_tone_4h": -0.834,
+  "generated_at": "2026-08-16T18:52:37.647940+00:00",
+  "rows_total_scanned_last_run": 2602,
+  "rows_mexico_last_run": 46,
+  "overall_avg_tone_4h": -1.312,
   "timeline": [
-    {
-      "time": "2026-08-13T18:15",
-      "avg_tone": -0.54,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-08-13T18:30",
-      "avg_tone": -0.937,
-      "n_articles": 27
-    },
     {
       "time": "2026-08-13T19:00",
       "avg_tone": 1.415,
@@ -1313,145 +1303,160 @@
       "time": "2026-08-16T18:15",
       "avg_tone": -2.1,
       "n_articles": 13
+    },
+    {
+      "time": "2026-08-16T18:30",
+      "avg_tone": -3.076,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-16T18:45",
+      "avg_tone": -1.833,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-08-16T19:00",
+      "avg_tone": -4.051,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "yahoo.com",
+      "source": "cagesideseats.com",
       "n": 2,
-      "avg_tone": -2.656
+      "avg_tone": -1.457
     },
     {
-      "source": "deadline.com",
+      "source": "breitbart.com",
       "n": 2,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "wesh.com",
-      "n": 1,
-      "avg_tone": -1.622
-    },
-    {
-      "source": "cbc.ca",
-      "n": 1,
-      "avg_tone": 2.102
-    },
-    {
-      "source": "suncommercial.com",
-      "n": 1,
-      "avg_tone": 2.343
-    },
-    {
-      "source": "ksl.com",
-      "n": 1,
-      "avg_tone": -3.425
+      "avg_tone": -5.474
     },
     {
       "source": "cnn.com",
-      "n": 1,
+      "n": 2,
       "avg_tone": -3.088
     },
     {
-      "source": "kcci.com",
-      "n": 1,
-      "avg_tone": -1.622
-    },
-    {
-      "source": "fox5ny.com",
-      "n": 1,
-      "avg_tone": -6.398
-    },
-    {
-      "source": "redlandsdailyfacts.com",
+      "source": "dailynews.com",
       "n": 1,
       "avg_tone": -2.995
     },
     {
-      "source": "keanradio.com",
+      "source": "ksat.com",
       "n": 1,
-      "avg_tone": -2.338
+      "avg_tone": -3.361
     },
     {
-      "source": "10news.com",
+      "source": "whec.com",
       "n": 1,
-      "avg_tone": -3.437
+      "avg_tone": -3.383
     },
     {
-      "source": "crooksandliars.com",
+      "source": "wbtv.com",
       "n": 1,
-      "avg_tone": -2.835
+      "avg_tone": -5.109
     },
     {
-      "source": "koolfmabilene.com",
+      "source": "fox5atlanta.com",
       "n": 1,
-      "avg_tone": -2.361
+      "avg_tone": -6.398
     },
     {
-      "source": "ketv.com",
+      "source": "slashfilm.com",
+      "n": 1,
+      "avg_tone": -1.151
+    },
+    {
+      "source": "taipeitimes.com",
+      "n": 1,
+      "avg_tone": -4.708
+    },
+    {
+      "source": "jcpost.com",
+      "n": 1,
+      "avg_tone": -5.3
+    },
+    {
+      "source": "fox29.com",
+      "n": 1,
+      "avg_tone": -6.398
+    },
+    {
+      "source": "dailymail.com",
+      "n": 1,
+      "avg_tone": -2.864
+    },
+    {
+      "source": "presstelegram.com",
+      "n": 1,
+      "avg_tone": -2.995
+    },
+    {
+      "source": "gulfcoastnewsnow.com",
       "n": 1,
       "avg_tone": -1.622
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_137_WATER",
-      "n": 120
-    },
-    {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 86
+      "n": 110
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 85
+      "n": 104
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 99
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 83
+      "n": 96
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 83
+      "n": 96
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 83
+      "n": 96
     },
     {
       "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 82
+      "n": 92
     },
     {
       "theme": "EPU_CATS_HEALTHCARE",
-      "n": 82
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 43
+      "n": 88
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 39
+      "n": 81
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 35
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 70
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 35
+      "n": 57
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 33
+      "theme": "DRUG_TRADE",
+      "n": 56
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 32
+      "theme": "CRIME_ILLEGAL_DRUGS",
+      "n": 55
     },
     {
-      "theme": "EPU_POLICY_POLITICAL",
-      "n": 31
+      "theme": "AGRICULTURE",
+      "n": 52
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 51
     }
   ]
 }
