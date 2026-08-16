@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-16T23:12:14.810537+00:00",
-  "rows_total_scanned_last_run": 2121,
-  "rows_mexico_last_run": 21,
-  "overall_avg_tone_4h": -1.478,
+  "generated_at": "2026-08-16T23:33:07.675058+00:00",
+  "rows_total_scanned_last_run": 2021,
+  "rows_mexico_last_run": 16,
+  "overall_avg_tone_4h": -1.579,
   "timeline": [
-    {
-      "time": "2026-08-13T23:15",
-      "avg_tone": -1.209,
-      "n_articles": 19
-    },
-    {
-      "time": "2026-08-13T23:30",
-      "avg_tone": -0.872,
-      "n_articles": 17
-    },
     {
       "time": "2026-08-13T23:45",
       "avg_tone": -1.684,
@@ -1323,6 +1313,11 @@
       "time": "2026-08-16T23:15",
       "avg_tone": 0.527,
       "n_articles": 4
+    },
+    {
+      "time": "2026-08-16T23:30",
+      "avg_tone": -1.936,
+      "n_articles": 1
     }
   ],
   "top_sources": [
@@ -1330,6 +1325,11 @@
       "source": "yahoo.com",
       "n": 2,
       "avg_tone": -0.8
+    },
+    {
+      "source": "wastedive.com",
+      "n": 1,
+      "avg_tone": -1.936
     },
     {
       "source": "nme.com",
@@ -1395,60 +1395,19 @@
       "source": "greatbendpost.com",
       "n": 1,
       "avg_tone": -5.3
-    },
-    {
-      "source": "tribuneindia.com",
-      "n": 1,
-      "avg_tone": 3.248
     }
   ],
   "top_themes": [
-    {
-      "theme": "WB_698_TRADE",
-      "n": 32
-    },
     {
       "theme": "WB_137_WATER",
       "n": 31
     },
     {
-      "theme": "TAX_WORLDINSECTS_BEE",
-      "n": 30
-    },
-    {
       "theme": "GENERAL_GOVERNMENT",
-      "n": 29
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 26
-    },
-    {
-      "theme": "EPU_POLICY_POLICY",
-      "n": 23
-    },
-    {
-      "theme": "MEDIA_SOCIAL",
       "n": 20
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 17
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 17
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 17
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 15
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 15
     },
     {
@@ -1460,8 +1419,44 @@
       "n": 15
     },
     {
-      "theme": "LEADER",
+      "theme": "WB_698_TRADE",
+      "n": 15
+    },
+    {
+      "theme": "TAX_FNCACT_CHEF",
       "n": 14
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 13
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 13
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 12
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 12
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 12
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 12
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 12
+    },
+    {
+      "theme": "SOC_GENERALCRIME",
+      "n": 12
     }
   ]
 }
