@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-16T09:03:40.608281+00:00",
-  "rows_total_scanned_last_run": 1867,
-  "rows_mexico_last_run": 24,
-  "overall_avg_tone_4h": -1.152,
+  "generated_at": "2026-08-16T09:38:36.733572+00:00",
+  "rows_total_scanned_last_run": 2176,
+  "rows_mexico_last_run": 27,
+  "overall_avg_tone_4h": -1.108,
   "timeline": [
-    {
-      "time": "2026-08-13T09:15",
-      "avg_tone": -0.223,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-13T09:30",
-      "avg_tone": -0.494,
-      "n_articles": 14
-    },
     {
       "time": "2026-08-13T10:00",
       "avg_tone": -0.18,
@@ -1288,145 +1278,160 @@
       "time": "2026-08-16T09:00",
       "avg_tone": 0.89,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-16T09:15",
+      "avg_tone": -3.609,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-08-16T09:30",
+      "avg_tone": 1.374,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-08-16T09:45",
+      "avg_tone": -0.275,
+      "n_articles": 12
     }
   ],
   "top_sources": [
     {
-      "source": "wfmd.com",
-      "n": 2,
-      "avg_tone": -6.46
-    },
-    {
-      "source": "theguardian.com",
-      "n": 2,
-      "avg_tone": -6.423
-    },
-    {
-      "source": "dailypolitical.com",
-      "n": 2,
-      "avg_tone": 2.021
-    },
-    {
-      "source": "sbsun.com",
+      "source": "wfae.org",
       "n": 1,
-      "avg_tone": 3.039
+      "avg_tone": 1.425
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "wutc.org",
       "n": 1,
-      "avg_tone": 3.846
+      "avg_tone": 1.425
     },
     {
-      "source": "tickerreport.com",
+      "source": "whqr.org",
       "n": 1,
-      "avg_tone": 4.885
+      "avg_tone": 1.425
     },
     {
-      "source": "watoday.com.au",
+      "source": "yahoo.com",
       "n": 1,
-      "avg_tone": -5.569
+      "avg_tone": 2.137
     },
     {
-      "source": "digitaljournal.com",
+      "source": "hungarytoday.hu",
       "n": 1,
-      "avg_tone": -1.752
+      "avg_tone": 2.368
     },
     {
-      "source": "dailybulletin.com",
+      "source": "omanobserver.om",
       "n": 1,
-      "avg_tone": 3.039
+      "avg_tone": -5.329
     },
     {
-      "source": "arkansasonline.com",
+      "source": "kelownadailycourier.ca",
       "n": 1,
-      "avg_tone": -2.766
+      "avg_tone": 1.002
     },
     {
-      "source": "ljworld.com",
+      "source": "abajournal.com",
       "n": 1,
-      "avg_tone": 0.078
+      "avg_tone": -4.545
     },
     {
-      "source": "wsbradio.com",
+      "source": "defensenews.com",
       "n": 1,
-      "avg_tone": -3.391
+      "avg_tone": -2.721
     },
     {
-      "source": "whmi.com",
+      "source": "moneycontrol.com",
       "n": 1,
-      "avg_tone": -3.791
+      "avg_tone": -0.311
     },
     {
-      "source": "ckom.com",
+      "source": "sbnation.com",
       "n": 1,
-      "avg_tone": 0.688
+      "avg_tone": -1.597
     },
     {
-      "source": "arynews.tv",
+      "source": "wknofm.org",
       "n": 1,
-      "avg_tone": -3.694
+      "avg_tone": 1.425
+    },
+    {
+      "source": "kacu.org",
+      "n": 1,
+      "avg_tone": 1.425
+    },
+    {
+      "source": "thedailytimes.com",
+      "n": 1,
+      "avg_tone": 3.125
+    },
+    {
+      "source": "delawarepublic.org",
+      "n": 1,
+      "avg_tone": 1.425
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 33
-    },
-    {
-      "theme": "TAX_TERROR_GROUP_TALIBAN",
-      "n": 30
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 28
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_KANSAS",
-      "n": 27
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 25
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 25
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 20
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 20
-    },
-    {
-      "theme": "ECON_WORLDCURRENCIES_YEN",
-      "n": 19
-    },
-    {
-      "theme": "TAX_FNCACT_AUTHORITIES",
-      "n": 18
-    },
-    {
-      "theme": "EPU_POLICY_AUTHORITIES",
-      "n": 18
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 17
+      "theme": "TAX_FNCACT_SECRETARY",
+      "n": 66
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 17
+      "n": 59
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 17
+      "theme": "TAX_TERROR_GROUP_TALIBAN",
+      "n": 59
     },
     {
-      "theme": "CRIME_ILLEGAL_DRUGS",
-      "n": 17
+      "theme": "EDUCATION",
+      "n": 58
+    },
+    {
+      "theme": "WB_1406_DISEASES",
+      "n": 58
+    },
+    {
+      "theme": "TAX_DISEASE_DISEASE",
+      "n": 57
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
+      "n": 52
+    },
+    {
+      "theme": "SCIENCE",
+      "n": 51
+    },
+    {
+      "theme": "MARITIME",
+      "n": 47
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 47
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 46
+    },
+    {
+      "theme": "WB_1777_FORESTS",
+      "n": 41
+    },
+    {
+      "theme": "MARITIME_INCIDENT",
+      "n": 41
+    },
+    {
+      "theme": "TAX_WORLDFISH_SALMON",
+      "n": 32
+    },
+    {
+      "theme": "TAX_WORLDFISH_FISH",
+      "n": 32
     }
   ]
 }
