@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-16T22:55:32.019738+00:00",
-  "rows_total_scanned_last_run": 2125,
+  "generated_at": "2026-08-16T23:12:14.810537+00:00",
+  "rows_total_scanned_last_run": 2121,
   "rows_mexico_last_run": 21,
-  "overall_avg_tone_4h": -1.445,
+  "overall_avg_tone_4h": -1.478,
   "timeline": [
-    {
-      "time": "2026-08-13T23:00",
-      "avg_tone": -2.019,
-      "n_articles": 21
-    },
     {
       "time": "2026-08-13T23:15",
       "avg_tone": -1.209,
@@ -1323,6 +1318,11 @@
       "time": "2026-08-16T23:00",
       "avg_tone": 1.648,
       "n_articles": 4
+    },
+    {
+      "time": "2026-08-16T23:15",
+      "avg_tone": 0.527,
+      "n_articles": 4
     }
   ],
   "top_sources": [
@@ -1330,6 +1330,26 @@
       "source": "yahoo.com",
       "n": 2,
       "avg_tone": -0.8
+    },
+    {
+      "source": "nme.com",
+      "n": 1,
+      "avg_tone": 3.814
+    },
+    {
+      "source": "newsindiatimes.com",
+      "n": 1,
+      "avg_tone": -2.815
+    },
+    {
+      "source": "parkrecord.com",
+      "n": 1,
+      "avg_tone": 2.459
+    },
+    {
+      "source": "abc30.com",
+      "n": 1,
+      "avg_tone": -1.35
     },
     {
       "source": "beloitdailynews.com",
@@ -1380,31 +1400,15 @@
       "source": "tribuneindia.com",
       "n": 1,
       "avg_tone": 3.248
-    },
-    {
-      "source": "english.news.cn",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "calgarysun.com",
-      "n": 1,
-      "avg_tone": -0.796
-    },
-    {
-      "source": "abc12.com",
-      "n": 1,
-      "avg_tone": -4.979
-    },
-    {
-      "source": "hotair.com",
-      "n": 1,
-      "avg_tone": -1.107
     }
   ],
   "top_themes": [
     {
-      "theme": "GENERAL_GOVERNMENT",
+      "theme": "WB_698_TRADE",
+      "n": 32
+    },
+    {
+      "theme": "WB_137_WATER",
       "n": 31
     },
     {
@@ -1412,56 +1416,52 @@
       "n": 30
     },
     {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 29
+    },
+    {
       "theme": "USPEC_POLICY1",
-      "n": 27
-    },
-    {
-      "theme": "MEDIA_SOCIAL",
       "n": 26
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 25
     },
     {
       "theme": "EPU_POLICY_POLICY",
       "n": 23
     },
     {
-      "theme": "LEADER",
-      "n": 21
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
+      "theme": "MEDIA_SOCIAL",
       "n": 20
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 20
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 19
-    },
-    {
-      "theme": "BORDER",
-      "n": 18
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 18
+      "theme": "WB_2670_JOBS",
+      "n": 17
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
       "n": 17
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "theme": "TAX_ETHNICITY_AMERICAN",
       "n": 17
     },
     {
-      "theme": "WB_2670_JOBS",
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 15
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 15
+    },
+    {
+      "theme": "TAX_ETHNICITY_CHINESE",
+      "n": 15
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_CHINESE",
+      "n": 15
+    },
+    {
+      "theme": "LEADER",
+      "n": 14
     }
   ]
 }
