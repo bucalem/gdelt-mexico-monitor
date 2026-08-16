@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-16T16:14:23.730026+00:00",
-  "rows_total_scanned_last_run": 2402,
-  "rows_mexico_last_run": 30,
-  "overall_avg_tone_4h": -0.199,
+  "generated_at": "2026-08-16T16:42:42.860014+00:00",
+  "rows_total_scanned_last_run": 2438,
+  "rows_mexico_last_run": 34,
+  "overall_avg_tone_4h": -0.313,
   "timeline": [
-    {
-      "time": "2026-08-13T16:15",
-      "avg_tone": -0.06,
-      "n_articles": 21
-    },
-    {
-      "time": "2026-08-13T16:30",
-      "avg_tone": 1.546,
-      "n_articles": 22
-    },
     {
       "time": "2026-08-13T17:00",
       "avg_tone": -0.016,
@@ -1308,145 +1298,155 @@
       "time": "2026-08-16T16:15",
       "avg_tone": -1.684,
       "n_articles": 9
+    },
+    {
+      "time": "2026-08-16T16:30",
+      "avg_tone": -0.447,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-08-16T16:45",
+      "avg_tone": 0.461,
+      "n_articles": 11
     }
   ],
   "top_sources": [
     {
-      "source": "cnn.com",
-      "n": 1,
-      "avg_tone": -3.088
+      "source": "kaieteurnewsonline.com",
+      "n": 2,
+      "avg_tone": 2.393
     },
     {
-      "source": "kcra.com",
+      "source": "riotimesonline.com",
+      "n": 2,
+      "avg_tone": 0.29
+    },
+    {
+      "source": "medicinehatnews.com",
+      "n": 1,
+      "avg_tone": -2.829
+    },
+    {
+      "source": "abcnews.com",
+      "n": 1,
+      "avg_tone": -1.339
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 1,
+      "avg_tone": 3.902
+    },
+    {
+      "source": "newsday.com",
+      "n": 1,
+      "avg_tone": 1.798
+    },
+    {
+      "source": "wapt.com",
       "n": 1,
       "avg_tone": -1.622
     },
     {
-      "source": "ibtimes.com",
+      "source": "nikkei.com",
       "n": 1,
-      "avg_tone": -4.353
+      "avg_tone": 5.0
     },
     {
-      "source": "wyomingnewsnow.tv",
+      "source": "fox32chicago.com",
       "n": 1,
-      "avg_tone": 2.343
+      "avg_tone": -6.398
     },
     {
-      "source": "kold.com",
+      "source": "ladailypost.com",
       "n": 1,
-      "avg_tone": -3.62
+      "avg_tone": 3.399
     },
     {
-      "source": "wuwf.org",
-      "n": 1,
-      "avg_tone": -6.694
-    },
-    {
-      "source": "el-balad.com",
-      "n": 1,
-      "avg_tone": -2.825
-    },
-    {
-      "source": "kten.com",
-      "n": 1,
-      "avg_tone": 2.363
-    },
-    {
-      "source": "mesabitribune.com",
-      "n": 1,
-      "avg_tone": 2.343
-    },
-    {
-      "source": "koat.com",
+      "source": "wisn.com",
       "n": 1,
       "avg_tone": -1.622
     },
     {
-      "source": "grandrapidsmn.com",
+      "source": "fandompost.com",
       "n": 1,
-      "avg_tone": 2.343
+      "avg_tone": 0.191
     },
     {
-      "source": "dailyforex.com",
+      "source": "salon.com",
       "n": 1,
-      "avg_tone": -0.126
+      "avg_tone": 0.69
     },
     {
-      "source": "hometownregister.com",
+      "source": "kmbc.com",
       "n": 1,
-      "avg_tone": 2.343
+      "avg_tone": -1.622
     },
     {
-      "source": "southernminn.com",
+      "source": "forbes.com",
       "n": 1,
-      "avg_tone": 2.361
-    },
-    {
-      "source": "sun-sentinel.com",
-      "n": 1,
-      "avg_tone": -1.961
+      "avg_tone": -1.288
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_FNCACT_COOK",
-      "n": 96
+      "n": 112
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 67
+    },
+    {
+      "theme": "EPU_CATS_HEALTHCARE",
+      "n": 65
     },
     {
       "theme": "TAX_FOODSTAPLES_POTATOES",
       "n": 65
     },
     {
-      "theme": "TAX_FNCACT_COOKS",
-      "n": 54
-    },
-    {
-      "theme": "TAX_FOODSTAPLES_RICE",
-      "n": 48
-    },
-    {
-      "theme": "TAX_ETHNICITY_ITALIAN",
-      "n": 48
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_ITALIAN",
-      "n": 48
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 47
-    },
-    {
       "theme": "WB_137_WATER",
-      "n": 43
-    },
-    {
-      "theme": "TAX_ETHNICITY_GERMAN",
-      "n": 43
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 40
-    },
-    {
-      "theme": "EPU_CATS_HEALTHCARE",
-      "n": 37
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 37
+      "n": 63
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 36
+      "n": 60
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_GERMAN",
-      "n": 36
+      "theme": "TAX_FOODSTAPLES_RICE",
+      "n": 57
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 34
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 55
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 55
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 55
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 55
+    },
+    {
+      "theme": "TAX_FNCACT_COOKS",
+      "n": 55
+    },
+    {
+      "theme": "TAX_ETHNICITY_ITALIAN",
+      "n": 50
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_ITALIAN",
+      "n": 50
+    },
+    {
+      "theme": "TAX_ETHNICITY_GERMAN",
+      "n": 42
     }
   ]
 }
