@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-16T15:35:07.793289+00:00",
-  "rows_total_scanned_last_run": 2286,
+  "generated_at": "2026-08-16T15:55:18.482061+00:00",
+  "rows_total_scanned_last_run": 2350,
   "rows_mexico_last_run": 27,
-  "overall_avg_tone_4h": -0.04,
+  "overall_avg_tone_4h": -0.055,
   "timeline": [
-    {
-      "time": "2026-08-13T15:45",
-      "avg_tone": -0.451,
-      "n_articles": 21
-    },
     {
       "time": "2026-08-13T16:00",
       "avg_tone": 1.719,
@@ -1308,18 +1303,48 @@
       "time": "2026-08-16T15:45",
       "avg_tone": -0.305,
       "n_articles": 11
+    },
+    {
+      "time": "2026-08-16T16:00",
+      "avg_tone": 0.556,
+      "n_articles": 6
     }
   ],
   "top_sources": [
     {
       "source": "yahoo.com",
-      "n": 3,
-      "avg_tone": -0.435
+      "n": 2,
+      "avg_tone": -1.219
     },
     {
-      "source": "lethbridgeherald.com",
-      "n": 2,
-      "avg_tone": -0.403
+      "source": "koat.com",
+      "n": 1,
+      "avg_tone": -1.622
+    },
+    {
+      "source": "grandrapidsmn.com",
+      "n": 1,
+      "avg_tone": 2.343
+    },
+    {
+      "source": "dailyforex.com",
+      "n": 1,
+      "avg_tone": -0.126
+    },
+    {
+      "source": "hometownregister.com",
+      "n": 1,
+      "avg_tone": 2.343
+    },
+    {
+      "source": "southernminn.com",
+      "n": 1,
+      "avg_tone": 2.361
+    },
+    {
+      "source": "sun-sentinel.com",
+      "n": 1,
+      "avg_tone": -1.961
     },
     {
       "source": "slashgear.com",
@@ -1360,93 +1385,68 @@
       "source": "aol.com",
       "n": 1,
       "avg_tone": 3.861
-    },
-    {
-      "source": "kunc.org",
-      "n": 1,
-      "avg_tone": 1.425
-    },
-    {
-      "source": "wemu.org",
-      "n": 1,
-      "avg_tone": 1.425
-    },
-    {
-      "source": "wdio.com",
-      "n": 1,
-      "avg_tone": -3.383
-    },
-    {
-      "source": "247wallst.com",
-      "n": 1,
-      "avg_tone": 4.808
-    },
-    {
-      "source": "thejudge13.com",
-      "n": 1,
-      "avg_tone": -0.981
     }
   ],
   "top_themes": [
     {
       "theme": "LEADER",
-      "n": 77
+      "n": 58
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 50
+      "n": 53
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 49
+      "n": 50
+    },
+    {
+      "theme": "TAX_FNCACT_COOK",
+      "n": 48
     },
     {
       "theme": "EDUCATION",
-      "n": 42
+      "n": 43
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 40
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 39
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 38
     },
     {
-      "theme": "WB_137_WATER",
-      "n": 31
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 36
     },
     {
       "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 30
+      "n": 35
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 33
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 33
     },
     {
       "theme": "TAX_DISEASE_DISEASE",
-      "n": 30
+      "n": 31
     },
     {
       "theme": "WB_1406_DISEASES",
+      "n": 31
+    },
+    {
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 31
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
       "n": 30
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 28
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 28
-    },
-    {
-      "theme": "SCIENCE",
-      "n": 27
-    },
-    {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 27
     }
   ]
 }
