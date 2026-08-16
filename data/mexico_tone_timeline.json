@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-16T23:33:07.675058+00:00",
-  "rows_total_scanned_last_run": 2021,
-  "rows_mexico_last_run": 16,
-  "overall_avg_tone_4h": -1.579,
+  "generated_at": "2026-08-16T23:54:32.029639+00:00",
+  "rows_total_scanned_last_run": 1651,
+  "rows_mexico_last_run": 12,
+  "overall_avg_tone_4h": -1.45,
   "timeline": [
-    {
-      "time": "2026-08-13T23:45",
-      "avg_tone": -1.684,
-      "n_articles": 20
-    },
     {
       "time": "2026-08-14T00:00",
       "avg_tone": -0.609,
@@ -1318,13 +1313,48 @@
       "time": "2026-08-16T23:30",
       "avg_tone": -1.936,
       "n_articles": 1
+    },
+    {
+      "time": "2026-08-16T23:45",
+      "avg_tone": -0.442,
+      "n_articles": 7
     }
   ],
   "top_sources": [
     {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -0.8
+      "source": "dailyexcelsior.com",
+      "n": 1,
+      "avg_tone": -0.673
+    },
+    {
+      "source": "winnipegfreepress.com",
+      "n": 1,
+      "avg_tone": 0.998
+    },
+    {
+      "source": "tpr.org",
+      "n": 1,
+      "avg_tone": 4.164
+    },
+    {
+      "source": "targetednews.com",
+      "n": 1,
+      "avg_tone": -1.282
+    },
+    {
+      "source": "cagesideseats.com",
+      "n": 1,
+      "avg_tone": -0.243
+    },
+    {
+      "source": "agrinews-pubs.com",
+      "n": 1,
+      "avg_tone": 0.342
+    },
+    {
+      "source": "fox10phoenix.com",
+      "n": 1,
+      "avg_tone": -6.398
     },
     {
       "source": "wastedive.com",
@@ -1350,113 +1380,68 @@
       "source": "abc30.com",
       "n": 1,
       "avg_tone": -1.35
-    },
-    {
-      "source": "beloitdailynews.com",
-      "n": 1,
-      "avg_tone": 4.902
-    },
-    {
-      "source": "tvline.com",
-      "n": 1,
-      "avg_tone": 1.116
-    },
-    {
-      "source": "the-independent.com",
-      "n": 1,
-      "avg_tone": 2.027
-    },
-    {
-      "source": "oann.com",
-      "n": 1,
-      "avg_tone": -6.11
-    },
-    {
-      "source": "elpais.com",
-      "n": 1,
-      "avg_tone": -3.47
-    },
-    {
-      "source": "el-balad.com",
-      "n": 1,
-      "avg_tone": 2.928
-    },
-    {
-      "source": "thailand-business-news.com",
-      "n": 1,
-      "avg_tone": -0.98
-    },
-    {
-      "source": "ksl.com",
-      "n": 1,
-      "avg_tone": 1.204
-    },
-    {
-      "source": "greatbendpost.com",
-      "n": 1,
-      "avg_tone": -5.3
     }
   ],
   "top_themes": [
     {
       "theme": "WB_137_WATER",
-      "n": 31
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 20
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 15
-    },
-    {
-      "theme": "TAX_ETHNICITY_CHINESE",
-      "n": 15
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_CHINESE",
-      "n": 15
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 15
+      "n": 28
     },
     {
       "theme": "TAX_FNCACT_CHEF",
       "n": 14
     },
     {
-      "theme": "WB_2769_JOBS_STRATEGIES",
+      "theme": "ENV_OIL",
       "n": 13
     },
     {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 13
+      "theme": "TAX_ETHNICITY_VENEZUELAN",
+      "n": 12
+    },
+    {
+      "theme": "CRIME_ILLEGAL_DRUGS",
+      "n": 12
+    },
+    {
+      "theme": "DRUG_TRADE",
+      "n": 12
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 11
+    },
+    {
+      "theme": "TAX_FNCACT_CHEFS",
+      "n": 11
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 12
+      "n": 8
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 12
+      "theme": "TAX_FNCACT_ARTIST",
+      "n": 8
+    },
+    {
+      "theme": "TAX_RELIGION_CHRISTIAN",
+      "n": 8
+    },
+    {
+      "theme": "TAX_ETHNICITY_CHRISTIAN",
+      "n": 8
+    },
+    {
+      "theme": "WB_135_TRANSPORT",
+      "n": 8
+    },
+    {
+      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
+      "n": 8
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 12
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 12
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 12
-    },
-    {
-      "theme": "SOC_GENERALCRIME",
-      "n": 12
+      "n": 7
     }
   ]
 }
