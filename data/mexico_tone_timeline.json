@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-16T18:52:37.647940+00:00",
-  "rows_total_scanned_last_run": 2602,
-  "rows_mexico_last_run": 46,
-  "overall_avg_tone_4h": -1.312,
+  "generated_at": "2026-08-16T19:14:31.754508+00:00",
+  "rows_total_scanned_last_run": 2744,
+  "rows_mexico_last_run": 39,
+  "overall_avg_tone_4h": -1.254,
   "timeline": [
-    {
-      "time": "2026-08-13T19:00",
-      "avg_tone": 1.415,
-      "n_articles": 21
-    },
     {
       "time": "2026-08-13T19:30",
       "avg_tone": 0.131,
@@ -1318,6 +1313,11 @@
       "time": "2026-08-16T19:00",
       "avg_tone": -4.051,
       "n_articles": 8
+    },
+    {
+      "time": "2026-08-16T19:15",
+      "avg_tone": 0.417,
+      "n_articles": 6
     }
   ],
   "top_sources": [
@@ -1332,9 +1332,34 @@
       "avg_tone": -5.474
     },
     {
-      "source": "cnn.com",
-      "n": 2,
-      "avg_tone": -3.088
+      "source": "castanetkamloops.net",
+      "n": 1,
+      "avg_tone": -0.696
+    },
+    {
+      "source": "indiatimes.com",
+      "n": 1,
+      "avg_tone": -1.341
+    },
+    {
+      "source": "abc7.com",
+      "n": 1,
+      "avg_tone": -1.35
+    },
+    {
+      "source": "taosnews.com",
+      "n": 1,
+      "avg_tone": 6.42
+    },
+    {
+      "source": "azernews.az",
+      "n": 1,
+      "avg_tone": 1.093
+    },
+    {
+      "source": "wdsu.com",
+      "n": 1,
+      "avg_tone": -1.622
     },
     {
       "source": "dailynews.com",
@@ -1370,93 +1395,68 @@
       "source": "taipeitimes.com",
       "n": 1,
       "avg_tone": -4.708
-    },
-    {
-      "source": "jcpost.com",
-      "n": 1,
-      "avg_tone": -5.3
-    },
-    {
-      "source": "fox29.com",
-      "n": 1,
-      "avg_tone": -6.398
-    },
-    {
-      "source": "dailymail.com",
-      "n": 1,
-      "avg_tone": -2.864
-    },
-    {
-      "source": "presstelegram.com",
-      "n": 1,
-      "avg_tone": -2.995
-    },
-    {
-      "source": "gulfcoastnewsnow.com",
-      "n": 1,
-      "avg_tone": -1.622
     }
   ],
   "top_themes": [
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 110
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 104
+      "n": 79
     },
     {
       "theme": "WB_137_WATER",
-      "n": 99
+      "n": 78
     },
     {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 96
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 96
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 96
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 92
-    },
-    {
-      "theme": "EPU_CATS_HEALTHCARE",
-      "n": 88
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 69
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 81
+      "n": 64
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 70
+      "n": 62
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 57
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 62
     },
     {
-      "theme": "DRUG_TRADE",
-      "n": 56
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 62
     },
     {
-      "theme": "CRIME_ILLEGAL_DRUGS",
-      "n": 55
+      "theme": "WB_2167_PANDEMICS",
+      "n": 62
     },
     {
-      "theme": "AGRICULTURE",
-      "n": 52
+      "theme": "EPU_CATS_HEALTHCARE",
+      "n": 60
+    },
+    {
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 58
+    },
+    {
+      "theme": "BORDER",
+      "n": 46
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 44
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 51
+      "n": 43
+    },
+    {
+      "theme": "CRIME_ILLEGAL_DRUGS",
+      "n": 43
+    },
+    {
+      "theme": "DRUG_TRADE",
+      "n": 43
     }
   ]
 }
