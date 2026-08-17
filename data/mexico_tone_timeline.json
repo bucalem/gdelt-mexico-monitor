@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-17T14:51:35.244234+00:00",
-  "rows_total_scanned_last_run": 4250,
-  "rows_mexico_last_run": 51,
-  "overall_avg_tone_4h": -0.651,
+  "generated_at": "2026-08-17T15:16:53.304761+00:00",
+  "rows_total_scanned_last_run": 5563,
+  "rows_mexico_last_run": 70,
+  "overall_avg_tone_4h": -0.618,
   "timeline": [
-    {
-      "time": "2026-08-14T15:00",
-      "avg_tone": -0.349,
-      "n_articles": 29
-    },
-    {
-      "time": "2026-08-14T15:15",
-      "avg_tone": 0.087,
-      "n_articles": 28
-    },
     {
       "time": "2026-08-14T15:30",
       "avg_tone": -1.447,
@@ -1398,18 +1388,28 @@
       "time": "2026-08-17T15:00",
       "avg_tone": -0.485,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-17T15:15",
+      "avg_tone": -1.332,
+      "n_articles": 19
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 6,
-      "avg_tone": -4.494
+      "n": 13,
+      "avg_tone": -4.106
     },
     {
       "source": "americansongwriter.com",
       "n": 3,
       "avg_tone": -0.465
+    },
+    {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": -2.574
     },
     {
       "source": "themarketsdaily.com",
@@ -1437,106 +1437,101 @@
       "avg_tone": -3.244
     },
     {
-      "source": "nanochess.org",
+      "source": "thehindubusinessline.com",
       "n": 1,
-      "avg_tone": -0.692
+      "avg_tone": 3.213
     },
     {
-      "source": "torontotelegraph.com",
+      "source": "dailylobo.com",
       "n": 1,
-      "avg_tone": 2.234
+      "avg_tone": -1.072
     },
     {
-      "source": "wemu.org",
+      "source": "mexicoledger.com",
       "n": 1,
-      "avg_tone": 1.15
+      "avg_tone": 8.065
     },
     {
-      "source": "cubaheadlines.com",
+      "source": "thecaribbeancamera.com",
       "n": 1,
-      "avg_tone": 0.149
+      "avg_tone": 0.92
     },
     {
-      "source": "indiatimes.com",
+      "source": "mix93.fm",
       "n": 1,
-      "avg_tone": 4.967
+      "avg_tone": -4.296
     },
     {
-      "source": "independent.co.uk",
+      "source": "livemint.com",
       "n": 1,
-      "avg_tone": -3.103
+      "avg_tone": 2.186
     },
     {
-      "source": "chicagotribune.com",
+      "source": "foxnews.com",
       "n": 1,
-      "avg_tone": -3.203
-    },
-    {
-      "source": "dailystar.co.uk",
-      "n": 1,
-      "avg_tone": 0.821
+      "avg_tone": -0.333
     }
   ],
   "top_themes": [
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 65
+      "theme": "WB_137_WATER",
+      "n": 99
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 56
+      "n": 77
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 73
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 51
+      "n": 62
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 56
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 53
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 52
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 49
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 48
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 48
     },
     {
       "theme": "TAX_FOODSTAPLES_CORN",
       "n": 46
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 43
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 41
     },
     {
       "theme": "EDUCATION",
+      "n": 40
+    },
+    {
+      "theme": "MEDICAL",
       "n": 38
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 37
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 35
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 35
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 33
-    },
-    {
-      "theme": "WB_1331_HEALTH_TECHNOLOGIES",
-      "n": 32
-    },
-    {
-      "theme": "WB_1350_PHARMACEUTICALS",
-      "n": 32
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 31
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 30
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 30
+      "theme": "GENERAL_HEALTH",
+      "n": 38
     }
   ]
 }
