@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-17T19:05:54.215153+00:00",
-  "rows_total_scanned_last_run": 6104,
-  "rows_mexico_last_run": 76,
-  "overall_avg_tone_4h": -1.037,
+  "generated_at": "2026-08-17T19:38:59.913660+00:00",
+  "rows_total_scanned_last_run": 6116,
+  "rows_mexico_last_run": 80,
+  "overall_avg_tone_4h": -1.013,
   "timeline": [
-    {
-      "time": "2026-08-14T19:15",
-      "avg_tone": -2.42,
-      "n_articles": 19
-    },
-    {
-      "time": "2026-08-14T19:30",
-      "avg_tone": -1.596,
-      "n_articles": 25
-    },
     {
       "time": "2026-08-14T19:45",
       "avg_tone": -1.277,
@@ -1398,23 +1388,53 @@
       "time": "2026-08-17T19:15",
       "avg_tone": 0.55,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-17T19:30",
+      "avg_tone": -0.489,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-08-17T19:45",
+      "avg_tone": -1.399,
+      "n_articles": 24
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 10,
-      "avg_tone": 0.247
+      "source": "wwe.com",
+      "n": 3,
+      "avg_tone": -4.973
     },
     {
       "source": "iheart.com",
-      "n": 3,
+      "n": 2,
       "avg_tone": -3.774
     },
     {
-      "source": "cubaheadlines.com",
-      "n": 3,
-      "avg_tone": -2.159
+      "source": "thetimes-tribune.com",
+      "n": 2,
+      "avg_tone": -2.663
+    },
+    {
+      "source": "caribjournal.com",
+      "n": 2,
+      "avg_tone": 1.474
+    },
+    {
+      "source": "latimes.com",
+      "n": 2,
+      "avg_tone": -0.854
+    },
+    {
+      "source": "newsweek.com",
+      "n": 2,
+      "avg_tone": 0.481
+    },
+    {
+      "source": "bostonherald.com",
+      "n": 2,
+      "avg_tone": -2.663
     },
     {
       "source": "chronline.com",
@@ -1437,106 +1457,86 @@
       "avg_tone": 1.637
     },
     {
-      "source": "tpr.org",
-      "n": 2,
-      "avg_tone": -1.923
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 2.358
-    },
-    {
-      "source": "kalb.com",
-      "n": 1,
-      "avg_tone": -4.533
-    },
-    {
-      "source": "brazilsun.com",
-      "n": 1,
-      "avg_tone": 5.034
-    },
-    {
-      "source": "homenewshere.com",
-      "n": 1,
-      "avg_tone": -0.477
-    },
-    {
-      "source": "wyomingnewsnow.tv",
+      "source": "grandrapidsmn.com",
       "n": 1,
       "avg_tone": -0.478
     },
     {
-      "source": "dailycal.org",
+      "source": "thebeat925.ca",
       "n": 1,
-      "avg_tone": 2.525
+      "avg_tone": 2.913
     },
     {
-      "source": "cambodiantimes.com",
+      "source": "sun-sentinel.com",
       "n": 1,
-      "avg_tone": 5.034
+      "avg_tone": -2.28
+    },
+    {
+      "source": "kob.com",
+      "n": 1,
+      "avg_tone": 0.372
     }
   ],
   "top_themes": [
     {
       "theme": "WB_2670_JOBS",
-      "n": 89
+      "n": 83
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 84
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 81
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 81
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 78
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 82
     },
     {
       "theme": "IMMIGRATION",
-      "n": 78
+      "n": 81
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 80
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 80
     },
     {
       "theme": "WB_2837_IMMIGRATION",
       "n": 78
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 78
-    },
-    {
-      "theme": "MEDICAL",
+      "theme": "WB_137_WATER",
       "n": 75
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 73
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 71
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 67
+      "n": 70
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 60
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 64
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 59
+      "n": 57
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 55
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_CORN",
       "n": 53
     },
     {
-      "theme": "WB_1406_DISEASES",
-      "n": 53
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 52
+    },
+    {
+      "theme": "LEGISLATION",
+      "n": 49
     }
   ]
 }
