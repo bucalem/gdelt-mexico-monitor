@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-17T23:44:07.028982+00:00",
-  "rows_total_scanned_last_run": 4899,
-  "rows_mexico_last_run": 34,
-  "overall_avg_tone_4h": 0.355,
+  "generated_at": "2026-08-17T23:59:06.243278+00:00",
+  "rows_total_scanned_last_run": 4544,
+  "rows_mexico_last_run": 33,
+  "overall_avg_tone_4h": 0.281,
   "timeline": [
-    {
-      "time": "2026-08-14T23:45",
-      "avg_tone": -1.389,
-      "n_articles": 37
-    },
     {
       "time": "2026-08-15T00:00",
       "avg_tone": -1.999,
@@ -1398,6 +1393,11 @@
       "time": "2026-08-17T23:45",
       "avg_tone": 1.036,
       "n_articles": 4
+    },
+    {
+      "time": "2026-08-18T00:00",
+      "avg_tone": 0.871,
+      "n_articles": 9
     }
   ],
   "top_sources": [
@@ -1422,6 +1422,51 @@
       "avg_tone": -2.5
     },
     {
+      "source": "goskagit.com",
+      "n": 1,
+      "avg_tone": 3.151
+    },
+    {
+      "source": "carbuzz.com",
+      "n": 1,
+      "avg_tone": 0.597
+    },
+    {
+      "source": "drgnews.com",
+      "n": 1,
+      "avg_tone": 1.242
+    },
+    {
+      "source": "953thebear.com",
+      "n": 1,
+      "avg_tone": 3.488
+    },
+    {
+      "source": "torontosun.com",
+      "n": 1,
+      "avg_tone": 0.434
+    },
+    {
+      "source": "nhpr.org",
+      "n": 1,
+      "avg_tone": -3.757
+    },
+    {
+      "source": "finanznachrichten.de",
+      "n": 1,
+      "avg_tone": 0.379
+    },
+    {
+      "source": "cheknews.ca",
+      "n": 1,
+      "avg_tone": -1.415
+    },
+    {
+      "source": "newjerseytelegraph.com",
+      "n": 1,
+      "avg_tone": 3.716
+    },
+    {
       "source": "wwd.com",
       "n": 1,
       "avg_tone": 2.79
@@ -1430,92 +1475,43 @@
       "source": "forbes.com",
       "n": 1,
       "avg_tone": -3.54
-    },
-    {
-      "source": "kksa-am.com",
-      "n": 1,
-      "avg_tone": -0.204
-    },
-    {
-      "source": "1025kiss.com",
-      "n": 1,
-      "avg_tone": 5.099
-    },
-    {
-      "source": "stlouisstar.com",
-      "n": 1,
-      "avg_tone": 3.716
-    },
-    {
-      "source": "wastedive.com",
-      "n": 1,
-      "avg_tone": -1.351
-    },
-    {
-      "source": "winnipegfreepress.com",
-      "n": 1,
-      "avg_tone": 1.979
-    },
-    {
-      "source": "cleantechnica.com",
-      "n": 1,
-      "avg_tone": -0.075
-    },
-    {
-      "source": "lasvegassun.com",
-      "n": 1,
-      "avg_tone": -1.677
-    },
-    {
-      "source": "mongabay.com",
-      "n": 1,
-      "avg_tone": -1.562
-    },
-    {
-      "source": "news4sanantonio.com",
-      "n": 1,
-      "avg_tone": -10.227
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_2670_JOBS",
-      "n": 52
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 48
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 46
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 46
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 44
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 43
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 43
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 42
-    },
-    {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 32
+      "n": 37
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 35
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 34
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 34
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 33
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 32
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 32
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 31
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 31
     },
     {
@@ -1523,8 +1519,12 @@
       "n": 31
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 30
+      "theme": "WB_840_JUSTICE",
+      "n": 29
+    },
+    {
+      "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
+      "n": 28
     },
     {
       "theme": "WB_2936_GOLD",
