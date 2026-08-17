@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-17T11:17:00.085593+00:00",
-  "rows_total_scanned_last_run": 4029,
-  "rows_mexico_last_run": 59,
-  "overall_avg_tone_4h": -0.678,
+  "generated_at": "2026-08-17T11:47:31.601591+00:00",
+  "rows_total_scanned_last_run": 4618,
+  "rows_mexico_last_run": 63,
+  "overall_avg_tone_4h": -0.754,
   "timeline": [
-    {
-      "time": "2026-08-14T11:30",
-      "avg_tone": -1.061,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-08-14T11:45",
-      "avg_tone": 0.111,
-      "n_articles": 27
-    },
     {
       "time": "2026-08-14T12:00",
       "avg_tone": -0.511,
@@ -1378,12 +1368,27 @@
       "time": "2026-08-17T11:15",
       "avg_tone": -2.563,
       "n_articles": 12
+    },
+    {
+      "time": "2026-08-17T11:30",
+      "avg_tone": 0.004,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-08-17T11:45",
+      "avg_tone": -1.252,
+      "n_articles": 19
     }
   ],
   "top_sources": [
     {
+      "source": "latintimes.com",
+      "n": 5,
+      "avg_tone": -2.198
+    },
+    {
       "source": "iheart.com",
-      "n": 4,
+      "n": 3,
       "avg_tone": -4.854
     },
     {
@@ -1392,9 +1397,14 @@
       "avg_tone": -3.642
     },
     {
-      "source": "riotimesonline.com",
-      "n": 3,
-      "avg_tone": -1.0
+      "source": "wellandtribune.ca",
+      "n": 2,
+      "avg_tone": -3.244
+    },
+    {
+      "source": "wcsufm.org",
+      "n": 2,
+      "avg_tone": -2.033
     },
     {
       "source": "aol.com",
@@ -1402,121 +1412,111 @@
       "avg_tone": -0.127
     },
     {
-      "source": "nearshoreamericas.com",
-      "n": 2,
-      "avg_tone": 2.261
-    },
-    {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": 0.426
-    },
-    {
-      "source": "gqindia.com",
-      "n": 1,
-      "avg_tone": -0.939
-    },
-    {
-      "source": "wgauradio.com",
-      "n": 1,
-      "avg_tone": -3.046
-    },
-    {
-      "source": "americanthinker.com",
-      "n": 1,
-      "avg_tone": -3.823
-    },
-    {
-      "source": "nwaonline.com",
-      "n": 1,
-      "avg_tone": -5.403
-    },
-    {
-      "source": "thehindu.com",
-      "n": 1,
-      "avg_tone": -3.226
-    },
-    {
-      "source": "kunc.org",
+      "source": "wmra.org",
       "n": 1,
       "avg_tone": 1.15
     },
     {
-      "source": "marketbusinessnews.com",
+      "source": "usc.edu",
       "n": 1,
-      "avg_tone": -2.021
+      "avg_tone": 5.14
     },
     {
-      "source": "wapt.com",
+      "source": "kenw.org",
+      "n": 1,
+      "avg_tone": 1.15
+    },
+    {
+      "source": "northernpublicradio.org",
+      "n": 1,
+      "avg_tone": 1.15
+    },
+    {
+      "source": "greentechlead.com",
+      "n": 1,
+      "avg_tone": 0.579
+    },
+    {
+      "source": "littleapplepost.com",
+      "n": 1,
+      "avg_tone": -3.023
+    },
+    {
+      "source": "wisn.com",
       "n": 1,
       "avg_tone": -3.483
     },
     {
-      "source": "chesterstandard.co.uk",
+      "source": "houstonpublicmedia.org",
       "n": 1,
-      "avg_tone": 5.36
+      "avg_tone": 1.512
+    },
+    {
+      "source": "fourfourtwo.com",
+      "n": 1,
+      "avg_tone": -1.554
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_FNCACT_WOMEN",
-      "n": 135
+      "n": 206
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 118
+      "n": 96
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 79
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 69
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 67
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 63
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 60
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 60
+      "n": 93
     },
     {
       "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 59
+      "n": 89
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 58
+      "theme": "TAX_ECON_PRICE",
+      "n": 74
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 74
+    },
+    {
+      "theme": "TAX_RELIGION_CATHOLIC",
+      "n": 66
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 63
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 54
+      "n": 61
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 49
+      "theme": "AFFECT",
+      "n": 61
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 47
+      "theme": "TAX_ETHNICITY_GREEK",
+      "n": 60
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 47
+      "theme": "TAX_WORLDLANGUAGES_GREEK",
+      "n": 60
     },
     {
       "theme": "TAX_FNCACT_WORKERS",
-      "n": 47
+      "n": 59
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 54
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 54
     }
   ]
 }
