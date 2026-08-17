@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-17T12:24:19.558654+00:00",
-  "rows_total_scanned_last_run": 4393,
-  "rows_mexico_last_run": 85,
-  "overall_avg_tone_4h": -0.827,
+  "generated_at": "2026-08-17T13:13:34.936837+00:00",
+  "rows_total_scanned_last_run": 4957,
+  "rows_mexico_last_run": 93,
+  "overall_avg_tone_4h": -0.714,
   "timeline": [
-    {
-      "time": "2026-08-14T13:00",
-      "avg_tone": 0.698,
-      "n_articles": 21
-    },
     {
       "time": "2026-08-14T13:15",
       "avg_tone": -0.758,
@@ -1388,13 +1383,33 @@
       "time": "2026-08-17T12:30",
       "avg_tone": -1.687,
       "n_articles": 31
+    },
+    {
+      "time": "2026-08-17T12:45",
+      "avg_tone": -0.534,
+      "n_articles": 24
+    },
+    {
+      "time": "2026-08-17T13:00",
+      "avg_tone": -0.17,
+      "n_articles": 24
+    },
+    {
+      "time": "2026-08-17T13:15",
+      "avg_tone": -1.329,
+      "n_articles": 14
     }
   ],
   "top_sources": [
     {
-      "source": "latintimes.com",
-      "n": 5,
-      "avg_tone": -2.198
+      "source": "iheart.com",
+      "n": 4,
+      "avg_tone": -1.403
+    },
+    {
+      "source": "juniorminingnetwork.com",
+      "n": 3,
+      "avg_tone": 0.7
     },
     {
       "source": "niagarafallsreview.ca",
@@ -1402,14 +1417,39 @@
       "avg_tone": -2.033
     },
     {
-      "source": "iheart.com",
-      "n": 3,
-      "avg_tone": -4.854
+      "source": "kjzz.org",
+      "n": 2,
+      "avg_tone": -0.347
     },
     {
-      "source": "houstonpress.com",
-      "n": 3,
-      "avg_tone": 0.897
+      "source": "ketv.com",
+      "n": 2,
+      "avg_tone": -3.931
+    },
+    {
+      "source": "wmur.com",
+      "n": 2,
+      "avg_tone": -3.931
+    },
+    {
+      "source": "wvtm13.com",
+      "n": 2,
+      "avg_tone": -3.931
+    },
+    {
+      "source": "freshfruitportal.com",
+      "n": 2,
+      "avg_tone": 3.918
+    },
+    {
+      "source": "sandiegouniontribune.com",
+      "n": 2,
+      "avg_tone": 0.598
+    },
+    {
+      "source": "wglt.org",
+      "n": 2,
+      "avg_tone": 1.151
     },
     {
       "source": "collider.com",
@@ -1432,101 +1472,71 @@
       "avg_tone": -3.931
     },
     {
-      "source": "themarketsdaily.com",
-      "n": 2,
-      "avg_tone": 1.337
-    },
-    {
-      "source": "wpbf.com",
-      "n": 2,
-      "avg_tone": -3.931
-    },
-    {
-      "source": "montrealgazette.com",
-      "n": 2,
-      "avg_tone": 2.93
-    },
-    {
-      "source": "forbes.com",
-      "n": 2,
-      "avg_tone": 1.904
-    },
-    {
-      "source": "wellandtribune.ca",
-      "n": 2,
-      "avg_tone": -3.244
-    },
-    {
-      "source": "wcsufm.org",
-      "n": 2,
-      "avg_tone": -2.033
-    },
-    {
-      "source": "fivb.com",
+      "source": "moroccoworldnews.com",
       "n": 1,
-      "avg_tone": 3.46
+      "avg_tone": -2.019
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_FNCACT_WOMEN",
-      "n": 209
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 139
+      "n": 223
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 133
+      "n": 203
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 184
+    },
+    {
+      "theme": "WB_405_BUSINESS_CLIMATE",
+      "n": 165
+    },
+    {
+      "theme": "WB_2531_INSPECTIONS_LICENSING_AND_PERMITS",
+      "n": 165
+    },
+    {
+      "theme": "WB_2530_BUSINESS_ENVIRONMENT",
+      "n": 165
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 164
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 149
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 149
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 146
+    },
+    {
+      "theme": "ENV_METALS",
+      "n": 145
     },
     {
       "theme": "TAX_ECON_PRICE",
+      "n": 135
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 129
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
       "n": 110
     },
     {
       "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 97
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 96
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 85
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 84
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 83
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 83
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 79
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 76
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 73
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 72
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 69
+      "n": 109
     }
   ]
 }
