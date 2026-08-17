@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-17T22:14:31.102907+00:00",
-  "rows_total_scanned_last_run": 5519,
-  "rows_mexico_last_run": 61,
-  "overall_avg_tone_4h": 0.029,
+  "generated_at": "2026-08-17T22:42:12.484805+00:00",
+  "rows_total_scanned_last_run": 3932,
+  "rows_mexico_last_run": 43,
+  "overall_avg_tone_4h": 0.049,
   "timeline": [
-    {
-      "time": "2026-08-14T22:15",
-      "avg_tone": -1.802,
-      "n_articles": 33
-    },
-    {
-      "time": "2026-08-14T22:30",
-      "avg_tone": -1.916,
-      "n_articles": 28
-    },
     {
       "time": "2026-08-14T22:45",
       "avg_tone": -1.198,
@@ -1398,9 +1388,24 @@
       "time": "2026-08-17T22:15",
       "avg_tone": -0.342,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-17T22:30",
+      "avg_tone": 0.071,
+      "n_articles": 17
     }
   ],
   "top_sources": [
+    {
+      "source": "edmontonjournal.com",
+      "n": 2,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "koolfmabilene.com",
+      "n": 2,
+      "avg_tone": 2.924
+    },
     {
       "source": "carscoops.com",
       "n": 2,
@@ -1412,130 +1417,120 @@
       "avg_tone": -3.652
     },
     {
-      "source": "finanznachrichten.de",
-      "n": 2,
-      "avg_tone": 4.348
-    },
-    {
-      "source": "iheart.com",
-      "n": 2,
-      "avg_tone": 2.286
-    },
-    {
-      "source": "cubaheadlines.com",
-      "n": 2,
-      "avg_tone": -4.163
-    },
-    {
-      "source": "b93.net",
-      "n": 2,
-      "avg_tone": 2.915
-    },
-    {
-      "source": "themissouritimes.com",
+      "source": "athensmessenger.com",
       "n": 1,
-      "avg_tone": 0.133
+      "avg_tone": 2.486
     },
     {
-      "source": "peoplesworld.org",
+      "source": "chopchat.com",
       "n": 1,
-      "avg_tone": -3.395
+      "avg_tone": 0.716
     },
     {
-      "source": "freerepublic.com",
+      "source": "zerohedge.com",
       "n": 1,
-      "avg_tone": -3.563
+      "avg_tone": -4.681
     },
     {
-      "source": "taosnews.com",
-      "n": 1,
-      "avg_tone": -2.533
-    },
-    {
-      "source": "philboxing.com",
-      "n": 1,
-      "avg_tone": 3.831
-    },
-    {
-      "source": "thedailybeast.com",
-      "n": 1,
-      "avg_tone": -2.377
-    },
-    {
-      "source": "lfpress.com",
-      "n": 1,
-      "avg_tone": 2.259
-    },
-    {
-      "source": "nola.com",
-      "n": 1,
-      "avg_tone": 1.253
-    },
-    {
-      "source": "wjfw.com",
+      "source": "walkermn.com",
       "n": 1,
       "avg_tone": -0.478
+    },
+    {
+      "source": "advocate.com",
+      "n": 1,
+      "avg_tone": -1.174
+    },
+    {
+      "source": "abc17news.com",
+      "n": 1,
+      "avg_tone": -1.723
+    },
+    {
+      "source": "progressiverailroading.com",
+      "n": 1,
+      "avg_tone": -0.474
+    },
+    {
+      "source": "k1047.com",
+      "n": 1,
+      "avg_tone": 0.946
+    },
+    {
+      "source": "baltimorestar.com",
+      "n": 1,
+      "avg_tone": 3.716
+    },
+    {
+      "source": "am800cklw.com",
+      "n": 1,
+      "avg_tone": -3.463
+    },
+    {
+      "source": "pittsburghstar.com",
+      "n": 1,
+      "avg_tone": 3.716
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 294
-    },
-    {
-      "theme": "LEADER",
-      "n": 284
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 277
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
+      "theme": "TAX_RELIGION_CHURCH",
       "n": 65
     },
     {
-      "theme": "EPU_POLICY_WHITE_HOUSE",
-      "n": 61
-    },
-    {
       "theme": "WB_2670_JOBS",
-      "n": 55
+      "n": 47
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 50
+      "theme": "TAX_FNCACT_WARRIORS",
+      "n": 45
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 49
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "theme": "LEADER",
       "n": 41
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 40
-    },
-    {
-      "theme": "IMMIGRATION",
+      "theme": "WB_2769_JOBS_STRATEGIES",
       "n": 39
     },
     {
-      "theme": "WB_2769_JOBS_STRATEGIES",
+      "theme": "EPU_POLICY_LAW",
+      "n": 39
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 38
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 38
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
       "n": 38
     },
     {
       "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 37
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 37
+    },
+    {
+      "theme": "IMMIGRATION",
       "n": 36
     },
     {
-      "theme": "TAX_FNCACT_WARRIORS",
+      "theme": "WB_2837_IMMIGRATION",
       "n": 36
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "theme": "LEGISLATION",
+      "n": 35
+    },
+    {
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
       "n": 35
     }
   ]
