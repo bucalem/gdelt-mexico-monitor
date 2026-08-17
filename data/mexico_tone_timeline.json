@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-17T07:53:08.428736+00:00",
-  "rows_total_scanned_last_run": 3106,
+  "generated_at": "2026-08-17T08:32:58.543340+00:00",
+  "rows_total_scanned_last_run": 3315,
   "rows_mexico_last_run": 31,
-  "overall_avg_tone_4h": -0.213,
+  "overall_avg_tone_4h": -0.428,
   "timeline": [
-    {
-      "time": "2026-08-14T08:00",
-      "avg_tone": -0.649,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-08-14T08:30",
-      "avg_tone": -2.068,
-      "n_articles": 15
-    },
     {
       "time": "2026-08-14T08:45",
       "avg_tone": -1.995,
@@ -1378,18 +1368,83 @@
       "time": "2026-08-17T08:00",
       "avg_tone": -0.551,
       "n_articles": 6
+    },
+    {
+      "time": "2026-08-17T08:15",
+      "avg_tone": 0.032,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-08-17T08:30",
+      "avg_tone": -1.494,
+      "n_articles": 8
     }
   ],
   "top_sources": [
+    {
+      "source": "z1075.com",
+      "n": 2,
+      "avg_tone": -1.406
+    },
     {
       "source": "winnipegfreepress.com",
       "n": 2,
       "avg_tone": 0.618
     },
     {
-      "source": "english.news.cn",
-      "n": 2,
-      "avg_tone": -2.095
+      "source": "wtvbam.com",
+      "n": 1,
+      "avg_tone": -3.614
+    },
+    {
+      "source": "dailypioneer.com",
+      "n": 1,
+      "avg_tone": -0.51
+    },
+    {
+      "source": "asiaone.com",
+      "n": 1,
+      "avg_tone": -3.229
+    },
+    {
+      "source": "dailymail.com",
+      "n": 1,
+      "avg_tone": 4.449
+    },
+    {
+      "source": "dailyrecord.co.uk",
+      "n": 1,
+      "avg_tone": -2.64
+    },
+    {
+      "source": "express.co.uk",
+      "n": 1,
+      "avg_tone": -3.593
+    },
+    {
+      "source": "wblk.com",
+      "n": 1,
+      "avg_tone": 5.0
+    },
+    {
+      "source": "eastvalleytribune.com",
+      "n": 1,
+      "avg_tone": -0.064
+    },
+    {
+      "source": "wokv.com",
+      "n": 1,
+      "avg_tone": -3.046
+    },
+    {
+      "source": "yahoo.com",
+      "n": 1,
+      "avg_tone": -3.064
+    },
+    {
+      "source": "newyorktelegraph.com",
+      "n": 1,
+      "avg_tone": 1.333
     },
     {
       "source": "abcnews.com",
@@ -1400,75 +1455,28 @@
       "source": "wellandtribune.ca",
       "n": 1,
       "avg_tone": -2.773
-    },
-    {
-      "source": "1057thepoint.com",
-      "n": 1,
-      "avg_tone": 0.888
-    },
-    {
-      "source": "nzcity.co.nz",
-      "n": 1,
-      "avg_tone": 0.248
-    },
-    {
-      "source": "bostonglobe.com",
-      "n": 1,
-      "avg_tone": -0.777
-    },
-    {
-      "source": "ibtimes.co.uk",
-      "n": 1,
-      "avg_tone": -3.726
-    },
-    {
-      "source": "classicalcalifornia.org",
-      "n": 1,
-      "avg_tone": 7.386
-    },
-    {
-      "source": "dallassun.com",
-      "n": 1,
-      "avg_tone": 1.333
-    },
-    {
-      "source": "yumasun.com",
-      "n": 1,
-      "avg_tone": -7.682
-    },
-    {
-      "source": "variety.com",
-      "n": 1,
-      "avg_tone": -1.653
-    },
-    {
-      "source": "virginislandsdailynews.com",
-      "n": 1,
-      "avg_tone": -2.703
-    },
-    {
-      "source": "mcall.com",
-      "n": 1,
-      "avg_tone": 6.959
-    },
-    {
-      "source": "dailypolitical.com",
-      "n": 1,
-      "avg_tone": 0.0
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 65
+      "n": 75
     },
     {
       "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 47
+      "n": 60
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
+      "n": 59
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
       "n": 44
+    },
+    {
+      "theme": "LEADER",
+      "n": 39
     },
     {
       "theme": "TAX_ETHNICITY_NATIVE_AMERICAN",
@@ -1479,6 +1487,14 @@
       "n": 37
     },
     {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 36
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 35
+    },
+    {
       "theme": "EPU_ECONOMY_HISTORIC",
       "n": 34
     },
@@ -1487,36 +1503,20 @@
       "n": 31
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
+      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 30
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 30
-    },
-    {
-      "theme": "LEADER",
-      "n": 29
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 28
     },
     {
       "theme": "TAX_ETHNICITY_INDIAN",
-      "n": 28
+      "n": 29
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
+      "theme": "SOVEREIGNTY",
+      "n": 27
+    },
+    {
+      "theme": "ELECTION",
       "n": 26
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 23
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 21
     }
   ]
 }
