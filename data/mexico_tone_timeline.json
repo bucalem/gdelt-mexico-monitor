@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-17T16:52:18.236643+00:00",
-  "rows_total_scanned_last_run": 5447,
+  "generated_at": "2026-08-17T17:18:26.005762+00:00",
+  "rows_total_scanned_last_run": 5354,
   "rows_mexico_last_run": 81,
-  "overall_avg_tone_4h": -0.868,
+  "overall_avg_tone_4h": -0.821,
   "timeline": [
-    {
-      "time": "2026-08-14T17:00",
-      "avg_tone": -0.261,
-      "n_articles": 21
-    },
-    {
-      "time": "2026-08-14T17:15",
-      "avg_tone": -0.207,
-      "n_articles": 16
-    },
     {
       "time": "2026-08-14T17:30",
       "avg_tone": -0.865,
@@ -1398,6 +1388,11 @@
       "time": "2026-08-17T17:00",
       "avg_tone": -1.818,
       "n_articles": 20
+    },
+    {
+      "time": "2026-08-17T17:15",
+      "avg_tone": -0.468,
+      "n_articles": 19
     }
   ],
   "top_sources": [
@@ -1407,14 +1402,14 @@
       "avg_tone": -3.774
     },
     {
-      "source": "freshplaza.com",
-      "n": 3,
-      "avg_tone": -0.225
+      "source": "yahoo.com",
+      "n": 4,
+      "avg_tone": 0.226
     },
     {
-      "source": "yahoo.com",
+      "source": "fool.com",
       "n": 2,
-      "avg_tone": -2.482
+      "avg_tone": 2.27
     },
     {
       "source": "medicaldaily.com",
@@ -1437,106 +1432,106 @@
       "avg_tone": 1.642
     },
     {
-      "source": "travelmarketreport.com",
-      "n": 2,
-      "avg_tone": 8.834
+      "source": "wsfa.com",
+      "n": 1,
+      "avg_tone": -4.533
     },
     {
-      "source": "upi.com",
+      "source": "mymixfm.com",
       "n": 1,
-      "avg_tone": -4.454
+      "avg_tone": -2.299
     },
     {
-      "source": "juniorminingnetwork.com",
+      "source": "cosmopolitan.com",
       "n": 1,
-      "avg_tone": 3.424
+      "avg_tone": -1.728
     },
     {
-      "source": "bostonglobe.com",
+      "source": "canadianmanufacturing.com",
       "n": 1,
-      "avg_tone": -4.343
+      "avg_tone": -0.177
     },
     {
-      "source": "bleedingcool.com",
+      "source": "utexas.edu",
       "n": 1,
-      "avg_tone": -0.712
+      "avg_tone": -0.669
     },
     {
-      "source": "wncw.org",
+      "source": "out.com",
       "n": 1,
-      "avg_tone": 2.564
+      "avg_tone": 3.532
     },
     {
-      "source": "newsweek.com",
+      "source": "capitalgazette.com",
       "n": 1,
-      "avg_tone": -3.664
+      "avg_tone": -3.046
     },
     {
-      "source": "investingnews.com",
+      "source": "newcity.com",
       "n": 1,
-      "avg_tone": 1.953
+      "avg_tone": 1.406
     }
   ],
   "top_themes": [
     {
       "theme": "WB_137_WATER",
-      "n": 227
+      "n": 230
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 101
+      "n": 105
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 97
+      "n": 95
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 85
+      "n": 88
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 79
     },
     {
       "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 78
+      "n": 76
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 76
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
       "n": 75
     },
     {
-      "theme": "MEDICAL",
-      "n": 74
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 70
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 63
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 62
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
+      "n": 58
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 58
+    },
+    {
+      "theme": "LEADER",
       "n": 56
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 55
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 55
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 53
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 52
-    },
-    {
-      "theme": "KILL",
-      "n": 50
-    },
-    {
-      "theme": "MEDIA_MSM",
-      "n": 47
+      "theme": "TAX_ECON_PRICE",
+      "n": 56
     }
   ]
 }
