@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-17T15:16:53.304761+00:00",
-  "rows_total_scanned_last_run": 5563,
+  "generated_at": "2026-08-17T15:47:00.277085+00:00",
+  "rows_total_scanned_last_run": 5763,
   "rows_mexico_last_run": 70,
-  "overall_avg_tone_4h": -0.618,
+  "overall_avg_tone_4h": -0.688,
   "timeline": [
-    {
-      "time": "2026-08-14T15:30",
-      "avg_tone": -1.447,
-      "n_articles": 27
-    },
-    {
-      "time": "2026-08-14T15:45",
-      "avg_tone": -0.998,
-      "n_articles": 31
-    },
     {
       "time": "2026-08-14T16:00",
       "avg_tone": 0.409,
@@ -1393,23 +1383,28 @@
       "time": "2026-08-17T15:15",
       "avg_tone": -1.332,
       "n_articles": 19
+    },
+    {
+      "time": "2026-08-17T15:30",
+      "avg_tone": -2.253,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-08-17T15:45",
+      "avg_tone": -0.207,
+      "n_articles": 19
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 13,
-      "avg_tone": -4.106
-    },
-    {
-      "source": "americansongwriter.com",
-      "n": 3,
-      "avg_tone": -0.465
+      "n": 25,
+      "avg_tone": -3.817
     },
     {
       "source": "yahoo.com",
       "n": 2,
-      "avg_tone": -2.574
+      "avg_tone": -1.585
     },
     {
       "source": "themarketsdaily.com",
@@ -1417,121 +1412,126 @@
       "avg_tone": 4.033
     },
     {
-      "source": "olivemagazine.com",
-      "n": 2,
-      "avg_tone": 3.772
-    },
-    {
-      "source": "koco.com",
-      "n": 2,
-      "avg_tone": -3.931
-    },
-    {
-      "source": "kwit.org",
-      "n": 2,
-      "avg_tone": 1.151
-    },
-    {
-      "source": "stcatharinesstandard.ca",
-      "n": 2,
-      "avg_tone": -3.244
-    },
-    {
-      "source": "thehindubusinessline.com",
+      "source": "whtc.com",
       "n": 1,
-      "avg_tone": 3.213
+      "avg_tone": -2.299
     },
     {
-      "source": "dailylobo.com",
+      "source": "oldham-chronicle.co.uk",
       "n": 1,
-      "avg_tone": -1.072
+      "avg_tone": -1.338
     },
     {
-      "source": "mexicoledger.com",
+      "source": "interiordesign.net",
       "n": 1,
-      "avg_tone": 8.065
+      "avg_tone": 4.207
     },
     {
-      "source": "thecaribbeancamera.com",
+      "source": "cbs4local.com",
       "n": 1,
-      "avg_tone": 0.92
+      "avg_tone": -1.698
     },
     {
-      "source": "mix93.fm",
+      "source": "newjerseytelegraph.com",
       "n": 1,
-      "avg_tone": -4.296
+      "avg_tone": 2.234
     },
     {
-      "source": "livemint.com",
+      "source": "vietnamnews.vn",
       "n": 1,
-      "avg_tone": 2.186
+      "avg_tone": 5.759
     },
     {
-      "source": "foxnews.com",
+      "source": "krvs.org",
       "n": 1,
-      "avg_tone": -0.333
+      "avg_tone": 1.15
+    },
+    {
+      "source": "fortune.com",
+      "n": 1,
+      "avg_tone": 0.452
+    },
+    {
+      "source": "undercurrentnews.com",
+      "n": 1,
+      "avg_tone": 1.42
+    },
+    {
+      "source": "kcrr.com",
+      "n": 1,
+      "avg_tone": 4.944
+    },
+    {
+      "source": "kygl.com",
+      "n": 1,
+      "avg_tone": -2.338
+    },
+    {
+      "source": "kmuw.org",
+      "n": 1,
+      "avg_tone": 1.153
     }
   ],
   "top_themes": [
     {
       "theme": "WB_137_WATER",
-      "n": 99
+      "n": 252
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 81
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 77
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 73
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 62
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 56
+      "n": 78
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 66
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 58
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 53
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 53
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 52
+    },
+    {
+      "theme": "NATURAL_DISASTER_DROUGHT",
+      "n": 50
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 49
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
       "n": 49
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 49
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 49
+    },
+    {
+      "theme": "TAX_FNCACT_FEDERAL_OFFICIALS",
+      "n": 49
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
       "n": 48
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 48
-    },
-    {
-      "theme": "TAX_FOODSTAPLES_CORN",
-      "n": 46
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 41
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 40
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 38
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 38
     }
   ]
 }
