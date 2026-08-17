@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-17T11:47:31.601591+00:00",
-  "rows_total_scanned_last_run": 4618,
-  "rows_mexico_last_run": 63,
-  "overall_avg_tone_4h": -0.754,
+  "generated_at": "2026-08-17T12:24:19.558654+00:00",
+  "rows_total_scanned_last_run": 4393,
+  "rows_mexico_last_run": 85,
+  "overall_avg_tone_4h": -0.827,
   "timeline": [
-    {
-      "time": "2026-08-14T12:00",
-      "avg_tone": -0.511,
-      "n_articles": 44
-    },
     {
       "time": "2026-08-14T13:00",
       "avg_tone": 0.698,
@@ -1378,6 +1373,21 @@
       "time": "2026-08-17T11:45",
       "avg_tone": -1.252,
       "n_articles": 19
+    },
+    {
+      "time": "2026-08-17T12:00",
+      "avg_tone": 0.2,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-08-17T12:15",
+      "avg_tone": -0.495,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-17T12:30",
+      "avg_tone": -1.687,
+      "n_articles": 31
     }
   ],
   "top_sources": [
@@ -1387,14 +1397,59 @@
       "avg_tone": -2.198
     },
     {
+      "source": "niagarafallsreview.ca",
+      "n": 3,
+      "avg_tone": -2.033
+    },
+    {
       "source": "iheart.com",
       "n": 3,
       "avg_tone": -4.854
     },
     {
-      "source": "eastcountymagazine.org",
+      "source": "houstonpress.com",
       "n": 3,
-      "avg_tone": -3.642
+      "avg_tone": 0.897
+    },
+    {
+      "source": "collider.com",
+      "n": 2,
+      "avg_tone": -0.836
+    },
+    {
+      "source": "english.news.cn",
+      "n": 2,
+      "avg_tone": -8.403
+    },
+    {
+      "source": "wjcl.com",
+      "n": 2,
+      "avg_tone": -3.931
+    },
+    {
+      "source": "ksbw.com",
+      "n": 2,
+      "avg_tone": -3.931
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 1.337
+    },
+    {
+      "source": "wpbf.com",
+      "n": 2,
+      "avg_tone": -3.931
+    },
+    {
+      "source": "montrealgazette.com",
+      "n": 2,
+      "avg_tone": 2.93
+    },
+    {
+      "source": "forbes.com",
+      "n": 2,
+      "avg_tone": 1.904
     },
     {
       "source": "wellandtribune.ca",
@@ -1407,116 +1462,71 @@
       "avg_tone": -2.033
     },
     {
-      "source": "aol.com",
-      "n": 2,
-      "avg_tone": -0.127
-    },
-    {
-      "source": "wmra.org",
+      "source": "fivb.com",
       "n": 1,
-      "avg_tone": 1.15
-    },
-    {
-      "source": "usc.edu",
-      "n": 1,
-      "avg_tone": 5.14
-    },
-    {
-      "source": "kenw.org",
-      "n": 1,
-      "avg_tone": 1.15
-    },
-    {
-      "source": "northernpublicradio.org",
-      "n": 1,
-      "avg_tone": 1.15
-    },
-    {
-      "source": "greentechlead.com",
-      "n": 1,
-      "avg_tone": 0.579
-    },
-    {
-      "source": "littleapplepost.com",
-      "n": 1,
-      "avg_tone": -3.023
-    },
-    {
-      "source": "wisn.com",
-      "n": 1,
-      "avg_tone": -3.483
-    },
-    {
-      "source": "houstonpublicmedia.org",
-      "n": 1,
-      "avg_tone": 1.512
-    },
-    {
-      "source": "fourfourtwo.com",
-      "n": 1,
-      "avg_tone": -1.554
+      "avg_tone": 3.46
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_FNCACT_WOMEN",
-      "n": 206
+      "n": 209
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 96
+      "n": 139
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 93
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 89
+      "n": 133
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 74
+      "n": 110
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 74
+      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
+      "n": 97
     },
     {
-      "theme": "TAX_RELIGION_CATHOLIC",
-      "n": 66
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 63
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 61
-    },
-    {
-      "theme": "AFFECT",
-      "n": 61
-    },
-    {
-      "theme": "TAX_ETHNICITY_GREEK",
-      "n": 60
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_GREEK",
-      "n": 60
-    },
-    {
-      "theme": "TAX_FNCACT_WORKERS",
-      "n": 59
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 54
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 96
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 54
+      "n": 85
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 84
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 83
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 83
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 79
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 76
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 73
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 72
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 69
     }
   ]
 }
