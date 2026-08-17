@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-17T22:59:00.952941+00:00",
-  "rows_total_scanned_last_run": 5493,
-  "rows_mexico_last_run": 67,
+  "generated_at": "2026-08-17T23:24:34.745873+00:00",
+  "rows_total_scanned_last_run": 5192,
+  "rows_mexico_last_run": 56,
   "overall_avg_tone_4h": 0.175,
   "timeline": [
-    {
-      "time": "2026-08-14T23:00",
-      "avg_tone": -0.409,
-      "n_articles": 31
-    },
-    {
-      "time": "2026-08-14T23:15",
-      "avg_tone": -1.756,
-      "n_articles": 48
-    },
     {
       "time": "2026-08-14T23:30",
       "avg_tone": -0.931,
@@ -1398,6 +1388,16 @@
       "time": "2026-08-17T23:00",
       "avg_tone": -0.333,
       "n_articles": 10
+    },
+    {
+      "time": "2026-08-17T23:15",
+      "avg_tone": -0.629,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-08-17T23:30",
+      "avg_tone": 1.139,
+      "n_articles": 5
     }
   ],
   "top_sources": [
@@ -1405,6 +1405,26 @@
       "source": "edmontonsun.com",
       "n": 7,
       "avg_tone": 0.685
+    },
+    {
+      "source": "prnewswire.com",
+      "n": 3,
+      "avg_tone": 2.877
+    },
+    {
+      "source": "si.com",
+      "n": 2,
+      "avg_tone": 6.193
+    },
+    {
+      "source": "webwire.com",
+      "n": 2,
+      "avg_tone": 0.794
+    },
+    {
+      "source": "wlrn.org",
+      "n": 2,
+      "avg_tone": -2.5
     },
     {
       "source": "nevadanewsandviews.com",
@@ -1422,121 +1442,101 @@
       "avg_tone": -2.406
     },
     {
-      "source": "koolfmabilene.com",
-      "n": 2,
-      "avg_tone": 2.924
-    },
-    {
-      "source": "carscoops.com",
-      "n": 2,
-      "avg_tone": -2.302
-    },
-    {
-      "source": "lamag.com",
+      "source": "stlouisstar.com",
       "n": 1,
-      "avg_tone": 5.684
+      "avg_tone": 3.716
     },
     {
-      "source": "wyomingnews.com",
+      "source": "wastedive.com",
       "n": 1,
-      "avg_tone": -1.594
+      "avg_tone": -1.351
     },
     {
-      "source": "wror.com",
+      "source": "winnipegfreepress.com",
       "n": 1,
-      "avg_tone": 0.973
+      "avg_tone": 1.979
     },
     {
-      "source": "yahoo.com",
+      "source": "cleantechnica.com",
       "n": 1,
-      "avg_tone": -2.971
+      "avg_tone": -0.075
     },
     {
-      "source": "wmtram.com",
+      "source": "lasvegassun.com",
       "n": 1,
-      "avg_tone": 0.946
+      "avg_tone": -1.677
     },
     {
-      "source": "theglobeandmail.com",
+      "source": "mongabay.com",
       "n": 1,
-      "avg_tone": 2.32
+      "avg_tone": -1.562
     },
     {
-      "source": "wallstreet-online.de",
+      "source": "news4sanantonio.com",
       "n": 1,
-      "avg_tone": 0.476
-    },
-    {
-      "source": "nypost.com",
-      "n": 1,
-      "avg_tone": -11.02
-    },
-    {
-      "source": "collider.com",
-      "n": 1,
-      "avg_tone": -1.636
+      "avg_tone": -10.227
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_2670_JOBS",
-      "n": 81
-    },
-    {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 71
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 67
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 67
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 66
-    },
-    {
-      "theme": "LEADER",
-      "n": 65
-    },
-    {
-      "theme": "TAX_RELIGION_CHURCH",
-      "n": 65
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
       "n": 64
     },
     {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 63
-    },
-    {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 53
+      "n": 60
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 51
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
       "n": 50
     },
     {
+      "theme": "WB_2670_JOBS",
+      "n": 39
+    },
+    {
+      "theme": "LEADER",
+      "n": 38
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 38
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 38
+    },
+    {
       "theme": "USPEC_POLICY1",
-      "n": 46
+      "n": 34
     },
     {
-      "theme": "LEGISLATION",
-      "n": 46
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 33
     },
     {
-      "theme": "EPU_POLICY_LAW",
-      "n": 46
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 32
+    },
+    {
+      "theme": "LGBT",
+      "n": 32
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 31
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 31
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 31
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 30
     }
   ]
 }
