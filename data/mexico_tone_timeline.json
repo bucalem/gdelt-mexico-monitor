@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-17T20:50:46.483628+00:00",
-  "rows_total_scanned_last_run": 4126,
-  "rows_mexico_last_run": 40,
-  "overall_avg_tone_4h": -0.562,
+  "generated_at": "2026-08-17T21:17:08.058197+00:00",
+  "rows_total_scanned_last_run": 5266,
+  "rows_mexico_last_run": 51,
+  "overall_avg_tone_4h": -0.455,
   "timeline": [
-    {
-      "time": "2026-08-14T21:00",
-      "avg_tone": -0.938,
-      "n_articles": 21
-    },
-    {
-      "time": "2026-08-14T21:15",
-      "avg_tone": -3.404,
-      "n_articles": 16
-    },
     {
       "time": "2026-08-14T21:30",
       "avg_tone": -1.494,
@@ -1398,6 +1388,11 @@
       "time": "2026-08-17T21:00",
       "avg_tone": 1.298,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-17T21:15",
+      "avg_tone": 2.177,
+      "n_articles": 12
     }
   ],
   "top_sources": [
@@ -1417,126 +1412,126 @@
       "avg_tone": -6.826
     },
     {
-      "source": "argentinastar.com",
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": -1.006
+    },
+    {
+      "source": "channel3000.com",
+      "n": 2,
+      "avg_tone": -1.127
+    },
+    {
+      "source": "foxnews.com",
+      "n": 1,
+      "avg_tone": -4.393
+    },
+    {
+      "source": "greekherald.com",
       "n": 1,
       "avg_tone": 5.034
     },
     {
-      "source": "vladtv.com",
+      "source": "wcsx.com",
       "n": 1,
-      "avg_tone": -0.645
+      "avg_tone": 0.969
     },
     {
-      "source": "orlandosentinel.com",
+      "source": "ladailypost.com",
       "n": 1,
-      "avg_tone": -2.28
+      "avg_tone": 5.735
     },
     {
-      "source": "dailyastorian.com",
+      "source": "npr.org",
       "n": 1,
-      "avg_tone": -0.674
+      "avg_tone": 2.349
     },
     {
-      "source": "bostonherald.com",
+      "source": "theprovince.com",
       "n": 1,
-      "avg_tone": 2.11
+      "avg_tone": -1.212
     },
     {
-      "source": "berkshireeagle.com",
+      "source": "timesrepublican.com",
       "n": 1,
-      "avg_tone": -4.424
+      "avg_tone": 4.714
     },
     {
-      "source": "calgaryherald.com",
+      "source": "haitisun.com",
       "n": 1,
-      "avg_tone": 1.499
+      "avg_tone": 5.034
     },
     {
-      "source": "pv-tech.org",
+      "source": "thewalrus.ca",
       "n": 1,
-      "avg_tone": 1.143
+      "avg_tone": 0.192
     },
     {
-      "source": "power959.com",
+      "source": "pr-inside.com",
       "n": 1,
-      "avg_tone": 4.934
-    },
-    {
-      "source": "cherokeephoenix.org",
-      "n": 1,
-      "avg_tone": 4.681
-    },
-    {
-      "source": "103kkcn.com",
-      "n": 1,
-      "avg_tone": 4.934
-    },
-    {
-      "source": "stthomastimesjournal.com",
-      "n": 1,
-      "avg_tone": 0.858
+      "avg_tone": 3.379
     }
   ],
   "top_themes": [
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 46
+      "theme": "MEDICAL",
+      "n": 45
     },
     {
-      "theme": "MEDICAL",
+      "theme": "GENERAL_HEALTH",
       "n": 44
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 34
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 28
-    },
-    {
-      "theme": "WB_135_TRANSPORT",
-      "n": 26
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 26
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 25
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 25
-    },
-    {
-      "theme": "BORDER",
-      "n": 25
-    },
-    {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 24
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 24
-    },
-    {
       "theme": "WB_137_WATER",
-      "n": 23
+      "n": 42
     },
     {
-      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
-      "n": 22
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 21
+      "theme": "EDUCATION",
+      "n": 38
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 21
+      "n": 35
+    },
+    {
+      "theme": "LEADER",
+      "n": 34
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 34
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 34
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 33
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 31
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 31
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 29
+    },
+    {
+      "theme": "WB_135_TRANSPORT",
+      "n": 28
+    },
+    {
+      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
+      "n": 27
+    },
+    {
+      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
+      "n": 26
     }
   ]
 }
