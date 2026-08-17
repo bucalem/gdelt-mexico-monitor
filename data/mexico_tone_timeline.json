@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-17T13:52:37.655692+00:00",
-  "rows_total_scanned_last_run": 5211,
-  "rows_mexico_last_run": 70,
-  "overall_avg_tone_4h": -0.85,
+  "generated_at": "2026-08-17T14:18:16.037218+00:00",
+  "rows_total_scanned_last_run": 5206,
+  "rows_mexico_last_run": 71,
+  "overall_avg_tone_4h": -0.73,
   "timeline": [
-    {
-      "time": "2026-08-14T14:00",
-      "avg_tone": -0.403,
-      "n_articles": 35
-    },
-    {
-      "time": "2026-08-14T14:15",
-      "avg_tone": -0.55,
-      "n_articles": 22
-    },
     {
       "time": "2026-08-14T14:30",
       "avg_tone": 0.84,
@@ -1398,9 +1388,24 @@
       "time": "2026-08-17T14:00",
       "avg_tone": -2.616,
       "n_articles": 18
+    },
+    {
+      "time": "2026-08-17T14:15",
+      "avg_tone": 0.59,
+      "n_articles": 15
     }
   ],
   "top_sources": [
+    {
+      "source": "theepochtimes.com",
+      "n": 3,
+      "avg_tone": -3.65
+    },
+    {
+      "source": "banderasnews.com",
+      "n": 3,
+      "avg_tone": 5.619
+    },
     {
       "source": "arkansasonline.com",
       "n": 3,
@@ -1408,8 +1413,8 @@
     },
     {
       "source": "iheart.com",
-      "n": 3,
-      "avg_tone": -2.553
+      "n": 2,
+      "avg_tone": -4.854
     },
     {
       "source": "wcvb.com",
@@ -1427,116 +1432,106 @@
       "avg_tone": -0.325
     },
     {
-      "source": "kjzz.org",
-      "n": 2,
-      "avg_tone": -0.347
-    },
-    {
-      "source": "amren.com",
-      "n": 1,
-      "avg_tone": -6.283
-    },
-    {
-      "source": "kcci.com",
-      "n": 1,
-      "avg_tone": -4.379
-    },
-    {
-      "source": "inquirer.com",
-      "n": 1,
-      "avg_tone": -0.506
-    },
-    {
-      "source": "punto.com.ph",
-      "n": 1,
-      "avg_tone": -2.752
-    },
-    {
-      "source": "interlochenpublicradio.org",
+      "source": "kzyx.org",
       "n": 1,
       "avg_tone": 1.15
     },
     {
-      "source": "liveinsurancenews.com",
+      "source": "whqr.org",
       "n": 1,
-      "avg_tone": -1.168
+      "avg_tone": 1.15
     },
     {
-      "source": "voiceofsandiego.org",
+      "source": "freepressjournal.in",
       "n": 1,
-      "avg_tone": -0.933
+      "avg_tone": 1.733
     },
     {
-      "source": "naturalnews.com",
+      "source": "wsbradio.com",
       "n": 1,
-      "avg_tone": -4.491
+      "avg_tone": 4.62
     },
     {
-      "source": "wdsu.com",
+      "source": "tucson.com",
       "n": 1,
-      "avg_tone": -4.379
+      "avg_tone": -2.759
+    },
+    {
+      "source": "prairiepublic.org",
+      "n": 1,
+      "avg_tone": 1.15
+    },
+    {
+      "source": "kunm.org",
+      "n": 1,
+      "avg_tone": -2.081
+    },
+    {
+      "source": "hayspost.com",
+      "n": 1,
+      "avg_tone": -3.023
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_WOMEN",
-      "n": 153
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 173
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 137
+      "theme": "TAX_FNCACT_WOMEN",
+      "n": 154
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 126
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 113
+      "n": 117
     },
     {
       "theme": "LEADER",
-      "n": 105
+      "n": 99
     },
     {
       "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 105
+      "n": 97
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 97
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 95
     },
     {
       "theme": "WB_895_MINING_SYSTEMS",
-      "n": 101
+      "n": 91
     },
     {
       "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 101
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 94
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 92
-    },
-    {
-      "theme": "WB_2936_GOLD",
-      "n": 89
+      "n": 91
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 88
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
       "n": 87
     },
     {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 86
+    },
+    {
       "theme": "TAX_ECON_PRICE",
-      "n": 83
+      "n": 80
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 82
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 78
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 81
+      "theme": "WB_2936_GOLD",
+      "n": 78
     }
   ]
 }
