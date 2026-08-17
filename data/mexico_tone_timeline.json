@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-17T23:24:34.745873+00:00",
-  "rows_total_scanned_last_run": 5192,
-  "rows_mexico_last_run": 56,
-  "overall_avg_tone_4h": 0.175,
+  "generated_at": "2026-08-17T23:44:07.028982+00:00",
+  "rows_total_scanned_last_run": 4899,
+  "rows_mexico_last_run": 34,
+  "overall_avg_tone_4h": 0.355,
   "timeline": [
-    {
-      "time": "2026-08-14T23:30",
-      "avg_tone": -0.931,
-      "n_articles": 31
-    },
     {
       "time": "2026-08-14T23:45",
       "avg_tone": -1.389,
@@ -1398,14 +1393,14 @@
       "time": "2026-08-17T23:30",
       "avg_tone": 1.139,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-17T23:45",
+      "avg_tone": 1.036,
+      "n_articles": 4
     }
   ],
   "top_sources": [
-    {
-      "source": "edmontonsun.com",
-      "n": 7,
-      "avg_tone": 0.685
-    },
     {
       "source": "prnewswire.com",
       "n": 3,
@@ -1427,19 +1422,24 @@
       "avg_tone": -2.5
     },
     {
-      "source": "nevadanewsandviews.com",
-      "n": 2,
-      "avg_tone": -1.472
+      "source": "wwd.com",
+      "n": 1,
+      "avg_tone": 2.79
     },
     {
-      "source": "nmpoliticalreport.com",
-      "n": 2,
-      "avg_tone": -1.501
+      "source": "forbes.com",
+      "n": 1,
+      "avg_tone": -3.54
     },
     {
-      "source": "kjzz.org",
-      "n": 2,
-      "avg_tone": -2.406
+      "source": "kksa-am.com",
+      "n": 1,
+      "avg_tone": -0.204
+    },
+    {
+      "source": "1025kiss.com",
+      "n": 1,
+      "avg_tone": 5.099
     },
     {
       "source": "stlouisstar.com",
@@ -1479,64 +1479,64 @@
   ],
   "top_themes": [
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 64
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 60
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 50
-    },
-    {
       "theme": "WB_2670_JOBS",
-      "n": 39
-    },
-    {
-      "theme": "LEADER",
-      "n": 38
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 38
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 38
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 34
+      "n": 52
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 33
+      "n": 48
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
+      "theme": "IMMIGRATION",
+      "n": 46
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 46
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 44
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 43
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 43
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 42
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 32
     },
     {
-      "theme": "LGBT",
-      "n": 32
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
       "n": 31
     },
     {
-      "theme": "WB_840_JUSTICE",
+      "theme": "LGBT",
       "n": 31
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 31
+      "n": 30
     },
     {
-      "theme": "IMMIGRATION",
-      "n": 30
+      "theme": "WB_2936_GOLD",
+      "n": 28
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 28
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 28
     }
   ]
 }
