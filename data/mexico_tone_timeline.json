@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-17T21:47:11.915733+00:00",
-  "rows_total_scanned_last_run": 5499,
+  "generated_at": "2026-08-17T22:14:31.102907+00:00",
+  "rows_total_scanned_last_run": 5519,
   "rows_mexico_last_run": 61,
-  "overall_avg_tone_4h": -0.127,
+  "overall_avg_tone_4h": 0.029,
   "timeline": [
-    {
-      "time": "2026-08-14T22:00",
-      "avg_tone": -0.97,
-      "n_articles": 25
-    },
     {
       "time": "2026-08-14T22:15",
       "avg_tone": -1.802,
@@ -1393,9 +1388,29 @@
       "time": "2026-08-17T21:45",
       "avg_tone": 0.973,
       "n_articles": 15
+    },
+    {
+      "time": "2026-08-17T22:00",
+      "avg_tone": -1.957,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-17T22:15",
+      "avg_tone": -0.342,
+      "n_articles": 14
     }
   ],
   "top_sources": [
+    {
+      "source": "carscoops.com",
+      "n": 2,
+      "avg_tone": -2.302
+    },
+    {
+      "source": "kqvt.com",
+      "n": 2,
+      "avg_tone": -3.652
+    },
     {
       "source": "finanznachrichten.de",
       "n": 2,
@@ -1417,121 +1432,111 @@
       "avg_tone": 2.915
     },
     {
-      "source": "krod.com",
-      "n": 2,
-      "avg_tone": -0.111
+      "source": "themissouritimes.com",
+      "n": 1,
+      "avg_tone": 0.133
     },
     {
-      "source": "wlj.net",
+      "source": "peoplesworld.org",
       "n": 1,
-      "avg_tone": -0.355
+      "avg_tone": -3.395
     },
     {
-      "source": "realitytea.com",
+      "source": "freerepublic.com",
       "n": 1,
-      "avg_tone": 1.392
+      "avg_tone": -3.563
     },
     {
-      "source": "danspapers.com",
+      "source": "taosnews.com",
       "n": 1,
-      "avg_tone": -3.125
+      "avg_tone": -2.533
     },
     {
-      "source": "ksfa860.com",
+      "source": "philboxing.com",
       "n": 1,
-      "avg_tone": 4.942
+      "avg_tone": 3.831
     },
     {
-      "source": "nassauweekly.com",
+      "source": "thedailybeast.com",
       "n": 1,
-      "avg_tone": -0.404
+      "avg_tone": -2.377
     },
     {
-      "source": "thepeninsulaqatar.com",
+      "source": "lfpress.com",
       "n": 1,
-      "avg_tone": 1.935
+      "avg_tone": 2.259
     },
     {
-      "source": "havanatimes.org",
+      "source": "nola.com",
       "n": 1,
-      "avg_tone": 0.103
+      "avg_tone": 1.253
     },
     {
-      "source": "yahoo.com",
+      "source": "wjfw.com",
       "n": 1,
-      "avg_tone": 0.058
-    },
-    {
-      "source": "caranddriver.com",
-      "n": 1,
-      "avg_tone": 0.488
-    },
-    {
-      "source": "enstarz.com",
-      "n": 1,
-      "avg_tone": 2.632
+      "avg_tone": -0.478
     }
   ],
   "top_themes": [
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 284
+      "n": 294
     },
     {
       "theme": "LEADER",
-      "n": 269
+      "n": 284
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 263
+      "n": 277
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 58
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 55
+      "n": 65
     },
     {
       "theme": "EPU_POLICY_WHITE_HOUSE",
+      "n": 61
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 55
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
       "n": 50
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 49
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 41
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 40
+    },
+    {
+      "theme": "IMMIGRATION",
       "n": 39
     },
     {
-      "theme": "EDUCATION",
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 38
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 36
+    },
+    {
+      "theme": "TAX_FNCACT_WARRIORS",
       "n": 36
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 31
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 28
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 28
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 26
-    },
-    {
-      "theme": "SECURITY_SERVICES",
-      "n": 25
-    },
-    {
-      "theme": "TAX_FNCACT_POLICE",
-      "n": 25
-    },
-    {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 24
+      "n": 35
     }
   ]
 }
