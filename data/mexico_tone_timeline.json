@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-17T19:56:59.772694+00:00",
-  "rows_total_scanned_last_run": 6000,
-  "rows_mexico_last_run": 85,
-  "overall_avg_tone_4h": -0.889,
+  "generated_at": "2026-08-17T20:21:23.686776+00:00",
+  "rows_total_scanned_last_run": 5871,
+  "rows_mexico_last_run": 75,
+  "overall_avg_tone_4h": -0.87,
   "timeline": [
-    {
-      "time": "2026-08-14T20:00",
-      "avg_tone": -1.626,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-08-14T20:15",
-      "avg_tone": -2.677,
-      "n_articles": 17
-    },
     {
       "time": "2026-08-14T20:30",
       "avg_tone": -0.771,
@@ -1398,6 +1388,16 @@
       "time": "2026-08-17T20:00",
       "avg_tone": 1.079,
       "n_articles": 28
+    },
+    {
+      "time": "2026-08-17T20:15",
+      "avg_tone": 0.856,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-17T20:30",
+      "avg_tone": -1.383,
+      "n_articles": 11
     }
   ],
   "top_sources": [
@@ -1407,19 +1407,24 @@
       "avg_tone": 3.522
     },
     {
-      "source": "iheart.com",
-      "n": 3,
-      "avg_tone": -3.774
-    },
-    {
       "source": "wwe.com",
       "n": 3,
       "avg_tone": -4.973
     },
     {
+      "source": "channel3000.com",
+      "n": 2,
+      "avg_tone": -1.127
+    },
+    {
       "source": "torontosun.com",
       "n": 2,
       "avg_tone": 1.139
+    },
+    {
+      "source": "iheart.com",
+      "n": 2,
+      "avg_tone": -3.774
     },
     {
       "source": "forbes.com",
@@ -1442,101 +1447,96 @@
       "avg_tone": 1.474
     },
     {
-      "source": "latimes.com",
-      "n": 2,
-      "avg_tone": -0.854
+      "source": "cnn.com",
+      "n": 1,
+      "avg_tone": -5.205
     },
     {
-      "source": "bostonherald.com",
-      "n": 2,
-      "avg_tone": -2.663
+      "source": "newsday.com",
+      "n": 1,
+      "avg_tone": -4.857
     },
     {
-      "source": "chronline.com",
-      "n": 2,
-      "avg_tone": -2.527
+      "source": "montrealgazette.com",
+      "n": 1,
+      "avg_tone": 4.934
+    },
+    {
+      "source": "kbtx.com",
+      "n": 1,
+      "avg_tone": -4.533
+    },
+    {
+      "source": "freerepublic.com",
+      "n": 1,
+      "avg_tone": -3.523
     },
     {
       "source": "hellomagazine.com",
-      "n": 2,
-      "avg_tone": 4.652
-    },
-    {
-      "source": "rfdtv.com",
-      "n": 2,
-      "avg_tone": -0.13
-    },
-    {
-      "source": "odt.co.nz",
       "n": 1,
-      "avg_tone": -1.366
-    },
-    {
-      "source": "bmmagazine.co.uk",
-      "n": 1,
-      "avg_tone": 4.425
+      "avg_tone": 3.571
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_2670_JOBS",
-      "n": 90
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 62
     },
     {
       "theme": "WB_137_WATER",
-      "n": 90
+      "n": 60
     },
     {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 82
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 82
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 81
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 79
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 78
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 77
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 77
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 68
+      "theme": "LEADER",
+      "n": 57
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 56
+      "n": 53
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 53
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 51
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 50
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 53
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 52
-    },
-    {
-      "theme": "BORDER",
       "n": 49
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 48
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 45
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 44
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 43
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 43
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 40
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 37
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 37
     }
   ]
 }
