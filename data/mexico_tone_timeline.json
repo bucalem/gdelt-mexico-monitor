@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-17T00:43:24.019457+00:00",
-  "rows_total_scanned_last_run": 1879,
+  "generated_at": "2026-08-17T02:08:57.582608+00:00",
+  "rows_total_scanned_last_run": 1827,
   "rows_mexico_last_run": 14,
-  "overall_avg_tone_4h": -0.716,
+  "overall_avg_tone_4h": -0.412,
   "timeline": [
-    {
-      "time": "2026-08-14T00:45",
-      "avg_tone": 0.143,
-      "n_articles": 27
-    },
     {
       "time": "2026-08-14T02:30",
       "avg_tone": 0.215,
@@ -1323,130 +1318,150 @@
       "time": "2026-08-17T00:45",
       "avg_tone": 2.09,
       "n_articles": 4
+    },
+    {
+      "time": "2026-08-17T01:30",
+      "avg_tone": -0.49,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-08-17T01:45",
+      "avg_tone": -1.863,
+      "n_articles": 2
+    },
+    {
+      "time": "2026-08-17T02:00",
+      "avg_tone": -3.312,
+      "n_articles": 1
+    },
+    {
+      "time": "2026-08-17T02:15",
+      "avg_tone": -0.349,
+      "n_articles": 3
     }
   ],
   "top_sources": [
     {
-      "source": "hellomagazine.com",
-      "n": 2,
-      "avg_tone": 4.739
+      "source": "fool.com",
+      "n": 3,
+      "avg_tone": -1.042
     },
     {
-      "source": "tickerreport.com",
-      "n": 2,
-      "avg_tone": 2.093
-    },
-    {
-      "source": "pocket-lint.com",
+      "source": "kdhnews.com",
       "n": 1,
-      "avg_tone": -2.677
+      "avg_tone": -3.445
     },
     {
-      "source": "robbreport.com",
+      "source": "pqbnews.com",
       "n": 1,
-      "avg_tone": 1.56
+      "avg_tone": 3.439
     },
     {
-      "source": "watoday.com.au",
+      "source": "dailymail.com",
       "n": 1,
-      "avg_tone": -1.249
+      "avg_tone": -1.042
     },
     {
-      "source": "abqjournal.com",
+      "source": "kimt.com",
       "n": 1,
-      "avg_tone": 1.347
+      "avg_tone": -3.312
     },
     {
-      "source": "stgeorgeutah.com",
+      "source": "kurv.com",
       "n": 1,
-      "avg_tone": 5.37
+      "avg_tone": -3.44
     },
     {
-      "source": "hollywoodreporter.com",
+      "source": "joplinglobe.com",
       "n": 1,
-      "avg_tone": 5.298
+      "avg_tone": -0.287
     },
     {
-      "source": "nbclosangeles.com",
+      "source": "gringogazette.com",
       "n": 1,
-      "avg_tone": -2.51
+      "avg_tone": 2.96
     },
     {
       "source": "nypost.com",
       "n": 1,
-      "avg_tone": -2.703
+      "avg_tone": -0.108
     },
     {
-      "source": "cbsnews.com",
+      "source": "manilatimes.net",
       "n": 1,
-      "avg_tone": -1.998
+      "avg_tone": -2.636
     },
     {
-      "source": "bicommunitynews.co.uk",
+      "source": "noozhawk.com",
       "n": 1,
-      "avg_tone": 0.877
+      "avg_tone": -0.916
+    },
+    {
+      "source": "riotimesonline.com",
+      "n": 1,
+      "avg_tone": -0.096
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_WEAVER",
-      "n": 21
+      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
+      "n": 23
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_SWEDISH",
+      "theme": "ECON_INFLATION",
+      "n": 22
+    },
+    {
+      "theme": "WB_442_INFLATION",
+      "n": 22
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
       "n": 18
     },
     {
-      "theme": "BORDER",
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 18
+    },
+    {
+      "theme": "WB_137_WATER",
       "n": 17
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 12
-    },
-    {
-      "theme": "TAX_FNCACT_WITCH",
-      "n": 11
-    },
-    {
-      "theme": "TAX_FNCACT_BABY",
-      "n": 10
-    },
-    {
-      "theme": "TAX_FNCACT_PEERS",
-      "n": 10
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 10
-    },
-    {
-      "theme": "TAX_FNCACT_VETERANS",
-      "n": 10
-    },
-    {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 9
+      "n": 15
     },
     {
-      "theme": "LEADER",
-      "n": 9
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 14
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 9
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 14
     },
     {
-      "theme": "WB_135_TRANSPORT",
-      "n": 8
+      "theme": "TAX_ECON_PRICE",
+      "n": 14
+    },
+    {
+      "theme": "TAX_FNCACT_DIRECTOR",
+      "n": 14
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 7
+      "n": 12
     },
     {
-      "theme": "KILL",
-      "n": 7
+      "theme": "USPEC_POLICY1",
+      "n": 12
+    },
+    {
+      "theme": "ECON_STOCKMARKET",
+      "n": 12
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 12
     }
   ]
 }
