@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-18T10:53:31.161186+00:00",
-  "rows_total_scanned_last_run": 4395,
-  "rows_mexico_last_run": 26,
-  "overall_avg_tone_4h": 0.503,
+  "generated_at": "2026-08-18T11:16:34.940274+00:00",
+  "rows_total_scanned_last_run": 4263,
+  "rows_mexico_last_run": 35,
+  "overall_avg_tone_4h": 0.05,
   "timeline": [
-    {
-      "time": "2026-08-15T11:00",
-      "avg_tone": 0.521,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-08-15T11:15",
-      "avg_tone": -0.489,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-15T11:30",
       "avg_tone": -1.572,
@@ -1393,13 +1383,68 @@
       "time": "2026-08-18T11:00",
       "avg_tone": -0.674,
       "n_articles": 10
+    },
+    {
+      "time": "2026-08-18T11:15",
+      "avg_tone": -2.055,
+      "n_articles": 15
     }
   ],
   "top_sources": [
     {
-      "source": "prnewswire.com",
-      "n": 2,
-      "avg_tone": 7.568
+      "source": "riotimesonline.com",
+      "n": 5,
+      "avg_tone": -2.152
+    },
+    {
+      "source": "pressdemocrat.com",
+      "n": 1,
+      "avg_tone": 1.504
+    },
+    {
+      "source": "variety.com",
+      "n": 1,
+      "avg_tone": 1.484
+    },
+    {
+      "source": "just-auto.com",
+      "n": 1,
+      "avg_tone": -1.285
+    },
+    {
+      "source": "foxnews.com",
+      "n": 1,
+      "avg_tone": -1.166
+    },
+    {
+      "source": "forbes.com",
+      "n": 1,
+      "avg_tone": -3.451
+    },
+    {
+      "source": "fox32chicago.com",
+      "n": 1,
+      "avg_tone": -3.891
+    },
+    {
+      "source": "dailystar.co.uk",
+      "n": 1,
+      "avg_tone": -5.037
+    },
+    {
+      "source": "npr.org",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "egyptindependent.com",
+      "n": 1,
+      "avg_tone": -2.919
+    },
+    {
+      "source": "yourdemocracy.net.au",
+      "n": 1,
+      "avg_tone": -5.298
     },
     {
       "source": "hawaiitribune-herald.com",
@@ -1420,118 +1465,68 @@
       "source": "dailymirror.lk",
       "n": 1,
       "avg_tone": -2.517
-    },
-    {
-      "source": "nj1015.com",
-      "n": 1,
-      "avg_tone": -2.525
-    },
-    {
-      "source": "islands.com",
-      "n": 1,
-      "avg_tone": 2.019
-    },
-    {
-      "source": "princeton.edu",
-      "n": 1,
-      "avg_tone": 3.511
-    },
-    {
-      "source": "suntimes.com",
-      "n": 1,
-      "avg_tone": -7.009
-    },
-    {
-      "source": "aginfo.net",
-      "n": 1,
-      "avg_tone": 4.762
-    },
-    {
-      "source": "salon.com",
-      "n": 1,
-      "avg_tone": -1.466
-    },
-    {
-      "source": "thelocal.de",
-      "n": 1,
-      "avg_tone": 0.343
-    },
-    {
-      "source": "en.apa.az",
-      "n": 1,
-      "avg_tone": -0.906
-    },
-    {
-      "source": "thelocal.es",
-      "n": 1,
-      "avg_tone": 1.272
-    },
-    {
-      "source": "archdaily.com",
-      "n": 1,
-      "avg_tone": 2.969
     }
   ],
   "top_themes": [
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 29
-    },
-    {
-      "theme": "TAX_ETHNICITY_GERMAN",
-      "n": 25
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_GERMAN",
-      "n": 25
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 23
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
-      "n": 23
-    },
-    {
-      "theme": "URBAN",
-      "n": 23
-    },
-    {
-      "theme": "WB_135_TRANSPORT",
-      "n": 20
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 19
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 19
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 18
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 17
-    },
-    {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 16
-    },
-    {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 16
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 49
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 16
+      "n": 48
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 16
+      "n": 48
+    },
+    {
+      "theme": "LEADER",
+      "n": 47
+    },
+    {
+      "theme": "TAX_FNCACT_BARBER",
+      "n": 37
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 36
+    },
+    {
+      "theme": "WB_135_TRANSPORT",
+      "n": 36
+    },
+    {
+      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
+      "n": 35
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 33
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 33
+    },
+    {
+      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
+      "n": 32
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 31
+    },
+    {
+      "theme": "ARMEDCONFLICT",
+      "n": 31
+    },
+    {
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 28
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 26
     }
   ]
 }
