@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-18T11:16:34.940274+00:00",
-  "rows_total_scanned_last_run": 4263,
-  "rows_mexico_last_run": 35,
-  "overall_avg_tone_4h": 0.05,
+  "generated_at": "2026-08-18T11:47:37.327021+00:00",
+  "rows_total_scanned_last_run": 4713,
+  "rows_mexico_last_run": 41,
+  "overall_avg_tone_4h": 0.019,
   "timeline": [
-    {
-      "time": "2026-08-15T11:30",
-      "avg_tone": -1.572,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-08-15T11:45",
-      "avg_tone": -0.805,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-15T12:00",
       "avg_tone": -0.001,
@@ -1388,6 +1378,16 @@
       "time": "2026-08-18T11:15",
       "avg_tone": -2.055,
       "n_articles": 15
+    },
+    {
+      "time": "2026-08-18T11:30",
+      "avg_tone": -0.595,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-18T11:45",
+      "avg_tone": 0.265,
+      "n_articles": 4
     }
   ],
   "top_sources": [
@@ -1395,6 +1395,66 @@
       "source": "riotimesonline.com",
       "n": 5,
       "avg_tone": -2.152
+    },
+    {
+      "source": "investegate.co.uk",
+      "n": 4,
+      "avg_tone": 0.912
+    },
+    {
+      "source": "houstonpress.com",
+      "n": 2,
+      "avg_tone": -0.245
+    },
+    {
+      "source": "dailymail.com",
+      "n": 1,
+      "avg_tone": 1.943
+    },
+    {
+      "source": "talkradio960.com",
+      "n": 1,
+      "avg_tone": -1.943
+    },
+    {
+      "source": "moneycontrol.com",
+      "n": 1,
+      "avg_tone": 1.061
+    },
+    {
+      "source": "westhawaiitoday.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "manchestereveningnews.co.uk",
+      "n": 1,
+      "avg_tone": 2.063
+    },
+    {
+      "source": "iheart.com",
+      "n": 1,
+      "avg_tone": -2.0
+    },
+    {
+      "source": "mynbc5.com",
+      "n": 1,
+      "avg_tone": -0.852
+    },
+    {
+      "source": "latimes.com",
+      "n": 1,
+      "avg_tone": -3.59
+    },
+    {
+      "source": "hawaiitelegraph.com",
+      "n": 1,
+      "avg_tone": 0.51
+    },
+    {
+      "source": "ibtimes.co.uk",
+      "n": 1,
+      "avg_tone": -6.428
     },
     {
       "source": "pressdemocrat.com",
@@ -1405,128 +1465,68 @@
       "source": "variety.com",
       "n": 1,
       "avg_tone": 1.484
-    },
-    {
-      "source": "just-auto.com",
-      "n": 1,
-      "avg_tone": -1.285
-    },
-    {
-      "source": "foxnews.com",
-      "n": 1,
-      "avg_tone": -1.166
-    },
-    {
-      "source": "forbes.com",
-      "n": 1,
-      "avg_tone": -3.451
-    },
-    {
-      "source": "fox32chicago.com",
-      "n": 1,
-      "avg_tone": -3.891
-    },
-    {
-      "source": "dailystar.co.uk",
-      "n": 1,
-      "avg_tone": -5.037
-    },
-    {
-      "source": "npr.org",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "egyptindependent.com",
-      "n": 1,
-      "avg_tone": -2.919
-    },
-    {
-      "source": "yourdemocracy.net.au",
-      "n": 1,
-      "avg_tone": -5.298
-    },
-    {
-      "source": "hawaiitribune-herald.com",
-      "n": 1,
-      "avg_tone": 0.175
-    },
-    {
-      "source": "yourdemocracy.net",
-      "n": 1,
-      "avg_tone": -5.298
-    },
-    {
-      "source": "theglobeandmail.com",
-      "n": 1,
-      "avg_tone": 1.604
-    },
-    {
-      "source": "dailymirror.lk",
-      "n": 1,
-      "avg_tone": -2.517
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 49
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 68
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 48
+      "n": 60
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 48
+      "theme": "WB_137_WATER",
+      "n": 50
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 50
     },
     {
       "theme": "LEADER",
-      "n": 47
+      "n": 48
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 39
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 39
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 37
     },
     {
       "theme": "TAX_FNCACT_BARBER",
       "n": 37
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 36
     },
     {
       "theme": "WB_135_TRANSPORT",
-      "n": 36
-    },
-    {
-      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
-      "n": 35
+      "n": 34
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
       "n": 33
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
+      "theme": "EPU_ECONOMY_HISTORIC",
       "n": 33
     },
     {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 32
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 31
     },
     {
       "theme": "ARMEDCONFLICT",
       "n": 31
-    },
-    {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 28
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 26
     }
   ]
 }
