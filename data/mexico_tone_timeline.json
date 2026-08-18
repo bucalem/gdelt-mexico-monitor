@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-18T21:24:53.956160+00:00",
-  "rows_total_scanned_last_run": 4738,
-  "rows_mexico_last_run": 82,
-  "overall_avg_tone_4h": -0.842,
+  "generated_at": "2026-08-18T21:44:41.197756+00:00",
+  "rows_total_scanned_last_run": 6133,
+  "rows_mexico_last_run": 106,
+  "overall_avg_tone_4h": -1.104,
   "timeline": [
-    {
-      "time": "2026-08-15T21:30",
-      "avg_tone": -2.588,
-      "n_articles": 3
-    },
     {
       "time": "2026-08-15T21:45",
       "avg_tone": 1.58,
@@ -1383,13 +1378,33 @@
       "time": "2026-08-18T21:15",
       "avg_tone": -2.032,
       "n_articles": 31
+    },
+    {
+      "time": "2026-08-18T21:30",
+      "avg_tone": -2.15,
+      "n_articles": 28
+    },
+    {
+      "time": "2026-08-18T21:45",
+      "avg_tone": -1.284,
+      "n_articles": 21
     }
   ],
   "top_sources": [
     {
-      "source": "prnewswire.com",
-      "n": 3,
-      "avg_tone": -1.095
+      "source": "kjzz.org",
+      "n": 4,
+      "avg_tone": -0.268
+    },
+    {
+      "source": "therockofrochester.com",
+      "n": 2,
+      "avg_tone": -0.429
+    },
+    {
+      "source": "manilatimes.net",
+      "n": 2,
+      "avg_tone": 0.898
     },
     {
       "source": "ksenam.com",
@@ -1412,116 +1427,106 @@
       "avg_tone": -10.276
     },
     {
+      "source": "prnewswire.com",
+      "n": 2,
+      "avg_tone": -0.235
+    },
+    {
       "source": "b1027.com",
       "n": 2,
       "avg_tone": -0.429
     },
     {
-      "source": "dailymail.com",
-      "n": 2,
-      "avg_tone": -0.341
-    },
-    {
-      "source": "dose.ca",
+      "source": "fox13now.com",
       "n": 1,
-      "avg_tone": 3.333
+      "avg_tone": -5.904
     },
     {
-      "source": "finanznachrichten.de",
+      "source": "nydailynews.com",
       "n": 1,
-      "avg_tone": 0.505
+      "avg_tone": -7.79
     },
     {
-      "source": "hepburnadvocate.com.au",
+      "source": "delcotimes.com",
+      "n": 1,
+      "avg_tone": -1.126
+    },
+    {
+      "source": "kshb.com",
+      "n": 1,
+      "avg_tone": -5.904
+    },
+    {
+      "source": "nynganobserver.com.au",
       "n": 1,
       "avg_tone": 1.217
     },
     {
-      "source": "standard.net.au",
+      "source": "record-bee.com",
       "n": 1,
-      "avg_tone": 1.179
-    },
-    {
-      "source": "screenrant.com",
-      "n": 1,
-      "avg_tone": 0.453
-    },
-    {
-      "source": "medicaldaily.com",
-      "n": 1,
-      "avg_tone": -6.454
-    },
-    {
-      "source": "daytondailynews.com",
-      "n": 1,
-      "avg_tone": 3.39
-    },
-    {
-      "source": "livemint.com",
-      "n": 1,
-      "avg_tone": -0.905
+      "avg_tone": -0.088
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_470_EDUCATION",
-      "n": 116
-    },
-    {
-      "theme": "WB_1467_EDUCATION_FOR_ALL",
-      "n": 110
-    },
-    {
-      "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
-      "n": 110
-    },
-    {
-      "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
-      "n": 110
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 109
-    },
-    {
       "theme": "NATURAL_DISASTER_ICE",
-      "n": 90
+      "n": 122
     },
     {
-      "theme": "TAX_FNCACT_DIRECTOR",
-      "n": 83
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 81
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 73
+      "theme": "WB_470_EDUCATION",
+      "n": 106
     },
     {
       "theme": "LEADER",
-      "n": 67
+      "n": 104
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 64
+      "theme": "WB_1467_EDUCATION_FOR_ALL",
+      "n": 101
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 64
+      "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
+      "n": 101
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 61
+      "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
+      "n": 101
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 99
+    },
+    {
+      "theme": "TAX_FNCACT_DIRECTOR",
+      "n": 84
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 82
+    },
+    {
+      "theme": "TAX_FNCACT_ATTORNEY",
+      "n": 81
+    },
+    {
+      "theme": "TRIAL",
+      "n": 79
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 60
+      "n": 77
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 58
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 77
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 77
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 76
     }
   ]
 }
