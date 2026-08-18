@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-18T20:40:52.632588+00:00",
-  "rows_total_scanned_last_run": 4330,
-  "rows_mexico_last_run": 55,
-  "overall_avg_tone_4h": -0.552,
+  "generated_at": "2026-08-18T20:58:46.762786+00:00",
+  "rows_total_scanned_last_run": 6086,
+  "rows_mexico_last_run": 94,
+  "overall_avg_tone_4h": -0.772,
   "timeline": [
-    {
-      "time": "2026-08-15T20:45",
-      "avg_tone": -2.023,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-15T21:00",
       "avg_tone": -0.575,
@@ -1383,9 +1378,34 @@
       "time": "2026-08-18T20:30",
       "avg_tone": -2.619,
       "n_articles": 21
+    },
+    {
+      "time": "2026-08-18T20:45",
+      "avg_tone": -0.989,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-08-18T21:00",
+      "avg_tone": -0.37,
+      "n_articles": 26
     }
   ],
   "top_sources": [
+    {
+      "source": "prnewswire.com",
+      "n": 3,
+      "avg_tone": -1.095
+    },
+    {
+      "source": "b1027.com",
+      "n": 2,
+      "avg_tone": -0.429
+    },
+    {
+      "source": "dailymail.com",
+      "n": 2,
+      "avg_tone": -0.341
+    },
     {
       "source": "fox13seattle.com",
       "n": 2,
@@ -1407,121 +1427,106 @@
       "avg_tone": 1.589
     },
     {
-      "source": "redstate.com",
+      "source": "redlandcitybulletin.com.au",
       "n": 1,
-      "avg_tone": -4.421
+      "avg_tone": 1.406
     },
     {
-      "source": "kdat.com",
+      "source": "cigaraficionado.com",
       "n": 1,
-      "avg_tone": -0.857
+      "avg_tone": -0.916
     },
     {
-      "source": "kjrh.com",
-      "n": 1,
-      "avg_tone": -5.904
-    },
-    {
-      "source": "wzozfm.com",
-      "n": 1,
-      "avg_tone": -0.857
-    },
-    {
-      "source": "wadenapj.com",
+      "source": "duluthnewstribune.com",
       "n": 1,
       "avg_tone": -5.778
     },
     {
-      "source": "northweststar.com.au",
+      "source": "starsandstripesfc.com",
       "n": 1,
-      "avg_tone": 1.176
+      "avg_tone": 0.872
     },
     {
-      "source": "cjsr.com",
+      "source": "977thebay.com",
       "n": 1,
-      "avg_tone": 0.717
+      "avg_tone": 0.849
     },
     {
-      "source": "blayneychronicle.com.au",
+      "source": "maitlandmercury.com.au",
       "n": 1,
-      "avg_tone": 1.212
+      "avg_tone": 1.181
     },
     {
-      "source": "narrominenewsonline.com.au",
+      "source": "sonomamag.com",
       "n": 1,
-      "avg_tone": 1.217
+      "avg_tone": 3.283
     },
     {
-      "source": "grandforksherald.com",
+      "source": "thewalrus.ca",
       "n": 1,
-      "avg_tone": -5.778
-    },
-    {
-      "source": "wblm.com",
-      "n": 1,
-      "avg_tone": -0.857
+      "avg_tone": -0.783
     }
   ],
   "top_themes": [
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 82
-    },
-    {
-      "theme": "LEADER",
-      "n": 76
+      "theme": "WB_470_EDUCATION",
+      "n": 134
     },
     {
       "theme": "WB_1467_EDUCATION_FOR_ALL",
-      "n": 72
+      "n": 126
     },
     {
       "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
-      "n": 72
+      "n": 126
     },
     {
       "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
-      "n": 72
+      "n": 126
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 119
+    },
+    {
+      "theme": "LEADER",
+      "n": 103
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 100
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 71
+      "n": 99
     },
     {
-      "theme": "WB_470_EDUCATION",
-      "n": 71
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 91
+    },
+    {
+      "theme": "TAX_FNCACT_DIRECTOR",
+      "n": 84
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 81
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 60
+      "n": 80
     },
     {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 56
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 77
     },
     {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 56
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 77
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 56
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 55
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 55
-    },
-    {
-      "theme": "TAX_FNCACT_ATTORNEY",
-      "n": 53
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 53
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 72
     }
   ]
 }
