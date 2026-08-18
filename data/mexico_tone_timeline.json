@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-18T22:47:30.229520+00:00",
-  "rows_total_scanned_last_run": 5580,
-  "rows_mexico_last_run": 98,
-  "overall_avg_tone_4h": -1.32,
+  "generated_at": "2026-08-18T23:13:27.327195+00:00",
+  "rows_total_scanned_last_run": 5104,
+  "rows_mexico_last_run": 103,
+  "overall_avg_tone_4h": -1.421,
   "timeline": [
-    {
-      "time": "2026-08-15T23:00",
-      "avg_tone": -0.276,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-15T23:15",
       "avg_tone": -0.121,
@@ -1383,23 +1378,53 @@
       "time": "2026-08-18T22:45",
       "avg_tone": -1.106,
       "n_articles": 20
+    },
+    {
+      "time": "2026-08-18T23:00",
+      "avg_tone": -2.467,
+      "n_articles": 22
+    },
+    {
+      "time": "2026-08-18T23:15",
+      "avg_tone": -2.479,
+      "n_articles": 31
     }
   ],
   "top_sources": [
+    {
+      "source": "cubaheadlines.com",
+      "n": 5,
+      "avg_tone": -3.997
+    },
     {
       "source": "riotimesonline.com",
       "n": 5,
       "avg_tone": 0.625
     },
     {
-      "source": "koolfmabilene.com",
+      "source": "news4sanantonio.com",
       "n": 3,
-      "avg_tone": 0.476
+      "avg_tone": -9.834
     },
     {
-      "source": "medicinehatnews.com",
+      "source": "thefutoncritic.com",
       "n": 3,
-      "avg_tone": 0.097
+      "avg_tone": -0.104
+    },
+    {
+      "source": "wpdh.com",
+      "n": 2,
+      "avg_tone": -0.429
+    },
+    {
+      "source": "theglobeandmail.com",
+      "n": 2,
+      "avg_tone": -1.596
+    },
+    {
+      "source": "classicrock961.com",
+      "n": 2,
+      "avg_tone": -0.429
     },
     {
       "source": "i95rock.com",
@@ -1417,19 +1442,9 @@
       "avg_tone": -0.429
     },
     {
-      "source": "dailymail.com",
-      "n": 2,
-      "avg_tone": -1.572
-    },
-    {
       "source": "z100missoula.com",
       "n": 2,
       "avg_tone": -0.429
-    },
-    {
-      "source": "winnipegfreepress.com",
-      "n": 2,
-      "avg_tone": -2.614
     },
     {
       "source": "967theeagle.net",
@@ -1447,81 +1462,71 @@
       "avg_tone": -0.429
     },
     {
-      "source": "manilatimes.net",
-      "n": 2,
-      "avg_tone": -3.148
-    },
-    {
-      "source": "kool1017.com",
-      "n": 2,
-      "avg_tone": -0.429
-    },
-    {
-      "source": "wgrd.com",
-      "n": 2,
-      "avg_tone": 1.118
+      "source": "knsiradio.com",
+      "n": 1,
+      "avg_tone": -7.824
     }
   ],
   "top_themes": [
     {
-      "theme": "KILL",
-      "n": 107
-    },
-    {
-      "theme": "CRISISLEX_T03_DEAD",
-      "n": 103
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 85
-    },
-    {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 78
+      "n": 113
     },
     {
-      "theme": "TAX_FNCACT_DRUMMER",
-      "n": 78
-    },
-    {
-      "theme": "TAX_FNCACT_GUITARIST",
-      "n": 70
-    },
-    {
-      "theme": "TAX_FNCACT_MAN",
-      "n": 63
-    },
-    {
-      "theme": "WB_470_EDUCATION",
-      "n": 60
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 59
-    },
-    {
-      "theme": "WB_1467_EDUCATION_FOR_ALL",
-      "n": 58
-    },
-    {
-      "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
-      "n": 58
-    },
-    {
-      "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
-      "n": 58
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 58
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 56
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 79
     },
     {
       "theme": "LEADER",
-      "n": 50
+      "n": 76
+    },
+    {
+      "theme": "KILL",
+      "n": 73
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 72
+    },
+    {
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 69
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 62
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 62
+    },
+    {
+      "theme": "TAX_FNCACT_DRUMMER",
+      "n": 60
+    },
+    {
+      "theme": "TAX_FNCACT_MAN",
+      "n": 59
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 59
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 57
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 56
+    },
+    {
+      "theme": "TRIAL",
+      "n": 56
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 55
     }
   ]
 }
