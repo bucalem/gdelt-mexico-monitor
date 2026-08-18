@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-18T23:35:42.796550+00:00",
-  "rows_total_scanned_last_run": 4891,
-  "rows_mexico_last_run": 107,
-  "overall_avg_tone_4h": -1.381,
+  "generated_at": "2026-08-18T23:56:13.546819+00:00",
+  "rows_total_scanned_last_run": 4923,
+  "rows_mexico_last_run": 115,
+  "overall_avg_tone_4h": -1.293,
   "timeline": [
-    {
-      "time": "2026-08-15T23:45",
-      "avg_tone": -0.224,
-      "n_articles": 4
-    },
     {
       "time": "2026-08-16T00:00",
       "avg_tone": -0.739,
@@ -1388,13 +1383,23 @@
       "time": "2026-08-18T23:45",
       "avg_tone": -0.701,
       "n_articles": 28
+    },
+    {
+      "time": "2026-08-19T00:00",
+      "avg_tone": -0.043,
+      "n_articles": 30
     }
   ],
   "top_sources": [
     {
-      "source": "cubaheadlines.com",
-      "n": 5,
-      "avg_tone": -3.997
+      "source": "unionleader.com",
+      "n": 3,
+      "avg_tone": -2.488
+    },
+    {
+      "source": "kbat.com",
+      "n": 3,
+      "avg_tone": 0.468
     },
     {
       "source": "news4sanantonio.com",
@@ -1405,6 +1410,26 @@
       "source": "thefutoncritic.com",
       "n": 3,
       "avg_tone": -0.104
+    },
+    {
+      "source": "gx94radio.com",
+      "n": 2,
+      "avg_tone": -0.752
+    },
+    {
+      "source": "rockymounttelegram.com",
+      "n": 2,
+      "avg_tone": -3.472
+    },
+    {
+      "source": "turnto23.com",
+      "n": 2,
+      "avg_tone": -2.903
+    },
+    {
+      "source": "bignewsnetwork.com",
+      "n": 2,
+      "avg_tone": 0.184
     },
     {
       "source": "memphissun.com",
@@ -1440,57 +1465,32 @@
       "source": "mega993online.com",
       "n": 2,
       "avg_tone": -0.429
-    },
-    {
-      "source": "wpdh.com",
-      "n": 2,
-      "avg_tone": -0.429
-    },
-    {
-      "source": "theglobeandmail.com",
-      "n": 2,
-      "avg_tone": -1.596
-    },
-    {
-      "source": "classicrock961.com",
-      "n": 2,
-      "avg_tone": -0.429
-    },
-    {
-      "source": "movieweb.com",
-      "n": 1,
-      "avg_tone": -1.654
-    },
-    {
-      "source": "tasteofcountry.com",
-      "n": 1,
-      "avg_tone": -0.857
     }
   ],
   "top_themes": [
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
+      "theme": "KILL",
       "n": 115
     },
     {
       "theme": "TAX_FNCACT_MAN",
-      "n": 110
-    },
-    {
-      "theme": "KILL",
-      "n": 105
+      "n": 115
     },
     {
       "theme": "CRISISLEX_T03_DEAD",
-      "n": 104
+      "n": 112
     },
     {
-      "theme": "LEADER",
-      "n": 103
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 105
     },
     {
       "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 100
+      "n": 102
+    },
+    {
+      "theme": "LEADER",
+      "n": 92
     },
     {
       "theme": "WB_405_BUSINESS_CLIMATE",
@@ -1505,28 +1505,28 @@
       "n": 89
     },
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 85
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 81
-    },
-    {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 75
+      "n": 82
     },
     {
-      "theme": "TRIAL",
-      "n": 71
-    },
-    {
-      "theme": "SOC_GENERALCRIME",
-      "n": 70
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 82
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 69
+      "n": 74
+    },
+    {
+      "theme": "TAX_FNCACT_GUITARIST",
+      "n": 66
+    },
+    {
+      "theme": "TAX_FNCACT_DRUMMER",
+      "n": 64
+    },
+    {
+      "theme": "SOC_GENERALCRIME",
+      "n": 64
     }
   ]
 }
