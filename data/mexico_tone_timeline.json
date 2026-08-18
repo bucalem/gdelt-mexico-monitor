@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-18T14:49:29.955062+00:00",
-  "rows_total_scanned_last_run": 6029,
-  "rows_mexico_last_run": 75,
-  "overall_avg_tone_4h": 0.662,
+  "generated_at": "2026-08-18T15:22:00.606020+00:00",
+  "rows_total_scanned_last_run": 5984,
+  "rows_mexico_last_run": 78,
+  "overall_avg_tone_4h": 0.913,
   "timeline": [
-    {
-      "time": "2026-08-15T15:00",
-      "avg_tone": 0.58,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-08-15T15:15",
-      "avg_tone": -0.639,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-15T15:30",
       "avg_tone": -0.596,
@@ -1388,6 +1378,21 @@
       "time": "2026-08-18T14:45",
       "avg_tone": 2.138,
       "n_articles": 29
+    },
+    {
+      "time": "2026-08-18T15:00",
+      "avg_tone": -0.418,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-08-18T15:15",
+      "avg_tone": 1.136,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-18T15:30",
+      "avg_tone": 0.62,
+      "n_articles": 19
     }
   ],
   "top_sources": [
@@ -1400,6 +1405,41 @@
       "source": "webwire.com",
       "n": 3,
       "avg_tone": 5.377
+    },
+    {
+      "source": "bnnbloomberg.ca",
+      "n": 2,
+      "avg_tone": -0.973
+    },
+    {
+      "source": "chinanationalnews.com",
+      "n": 2,
+      "avg_tone": -1.943
+    },
+    {
+      "source": "latintimes.com",
+      "n": 2,
+      "avg_tone": 1.857
+    },
+    {
+      "source": "meathchronicle.ie",
+      "n": 2,
+      "avg_tone": 5.37
+    },
+    {
+      "source": "netnewsledger.com",
+      "n": 2,
+      "avg_tone": -3.781
+    },
+    {
+      "source": "wrestlinginc.com",
+      "n": 2,
+      "avg_tone": 3.906
+    },
+    {
+      "source": "torontotelegraph.com",
+      "n": 2,
+      "avg_tone": -4.394
     },
     {
       "source": "jalopnik.com",
@@ -1422,111 +1462,76 @@
       "avg_tone": 4.727
     },
     {
-      "source": "nwaonline.com",
-      "n": 2,
-      "avg_tone": -2.682
-    },
-    {
-      "source": "harpersbazaar.com",
-      "n": 2,
-      "avg_tone": 3.428
-    },
-    {
-      "source": "news4sanantonio.com",
-      "n": 2,
-      "avg_tone": -5.977
-    },
-    {
-      "source": "moneycontrol.com",
+      "source": "dailypress.com",
       "n": 1,
-      "avg_tone": -0.763
+      "avg_tone": -4.26
     },
     {
-      "source": "rollingstone.com",
+      "source": "kissrocks.com",
       "n": 1,
-      "avg_tone": 6.757
-    },
-    {
-      "source": "41nbc.com",
-      "n": 1,
-      "avg_tone": 0.474
-    },
-    {
-      "source": "newsx.com",
-      "n": 1,
-      "avg_tone": 2.18
-    },
-    {
-      "source": "lonestar995fm.com",
-      "n": 1,
-      "avg_tone": 0.484
-    },
-    {
-      "source": "cp24.com",
-      "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": 4.454
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
-      "n": 744
-    },
-    {
       "theme": "WB_1675_GRADUATION",
-      "n": 743
+      "n": 477
     },
     {
       "theme": "WB_855_LABOR_MARKETS",
-      "n": 743
+      "n": 477
     },
     {
       "theme": "WB_1673_PASSIVE_LABOR_MARKETS_POLICIES",
-      "n": 743
+      "n": 477
+    },
+    {
+      "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
+      "n": 477
     },
     {
       "theme": "EDUCATION",
-      "n": 714
+      "n": 456
     },
     {
       "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 683
+      "n": 453
     },
     {
       "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 207
+      "n": 212
     },
     {
       "theme": "WB_405_BUSINESS_CLIMATE",
-      "n": 190
+      "n": 194
     },
     {
       "theme": "WB_2531_INSPECTIONS_LICENSING_AND_PERMITS",
-      "n": 190
+      "n": 194
     },
     {
       "theme": "WB_2530_BUSINESS_ENVIRONMENT",
-      "n": 190
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_COLLEGE",
-      "n": 129
+      "n": 194
     },
     {
       "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 115
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_UNIVERSITIES",
-      "n": 112
+      "n": 91
     },
     {
       "theme": "WB_895_MINING_SYSTEMS",
-      "n": 107
+      "n": 89
     },
     {
       "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 107
+      "n": 89
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 86
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_COLLEGE",
+      "n": 82
     }
   ]
 }
