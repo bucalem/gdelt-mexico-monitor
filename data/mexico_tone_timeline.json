@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-18T07:53:29.218036+00:00",
-  "rows_total_scanned_last_run": 3471,
-  "rows_mexico_last_run": 34,
-  "overall_avg_tone_4h": 0.144,
+  "generated_at": "2026-08-18T08:24:53.049363+00:00",
+  "rows_total_scanned_last_run": 3574,
+  "rows_mexico_last_run": 25,
+  "overall_avg_tone_4h": 0.24,
   "timeline": [
-    {
-      "time": "2026-08-15T08:00",
-      "avg_tone": 0.075,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-15T08:15",
-      "avg_tone": -1.123,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-15T08:30",
       "avg_tone": 0.183,
@@ -1393,6 +1383,16 @@
       "time": "2026-08-18T08:00",
       "avg_tone": 0.39,
       "n_articles": 12
+    },
+    {
+      "time": "2026-08-18T08:15",
+      "avg_tone": -0.784,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-08-18T08:30",
+      "avg_tone": 0.006,
+      "n_articles": 4
     }
   ],
   "top_sources": [
@@ -1402,9 +1402,54 @@
       "avg_tone": 0.138
     },
     {
-      "source": "e-flux.com",
-      "n": 2,
-      "avg_tone": 1.525
+      "source": "sanews.gov.za",
+      "n": 1,
+      "avg_tone": -0.385
+    },
+    {
+      "source": "nbcdfw.com",
+      "n": 1,
+      "avg_tone": 6.25
+    },
+    {
+      "source": "arizonadailyindependent.com",
+      "n": 1,
+      "avg_tone": -6.228
+    },
+    {
+      "source": "vccircle.com",
+      "n": 1,
+      "avg_tone": 0.388
+    },
+    {
+      "source": "baltimorestar.com",
+      "n": 1,
+      "avg_tone": 3.279
+    },
+    {
+      "source": "eyeradio.org",
+      "n": 1,
+      "avg_tone": -0.341
+    },
+    {
+      "source": "therakyatpost.com",
+      "n": 1,
+      "avg_tone": -0.469
+    },
+    {
+      "source": "newsweek.com",
+      "n": 1,
+      "avg_tone": -4.028
+    },
+    {
+      "source": "cnn.com",
+      "n": 1,
+      "avg_tone": -2.972
+    },
+    {
+      "source": "investegate.co.uk",
+      "n": 1,
+      "avg_tone": -0.171
     },
     {
       "source": "mondaq.com",
@@ -1425,113 +1470,68 @@
       "source": "953thescore.com",
       "n": 1,
       "avg_tone": 3.073
-    },
-    {
-      "source": "1045thezone.com",
-      "n": 1,
-      "avg_tone": 3.073
-    },
-    {
-      "source": "joxfm.com",
-      "n": 1,
-      "avg_tone": 3.073
-    },
-    {
-      "source": "countercurrents.org",
-      "n": 1,
-      "avg_tone": -1.775
-    },
-    {
-      "source": "abcnews.com",
-      "n": 1,
-      "avg_tone": 3.151
-    },
-    {
-      "source": "fortworthbusiness.com",
-      "n": 1,
-      "avg_tone": -0.327
-    },
-    {
-      "source": "nbcnewyork.com",
-      "n": 1,
-      "avg_tone": 6.004
-    },
-    {
-      "source": "philboxing.com",
-      "n": 1,
-      "avg_tone": -2.677
-    },
-    {
-      "source": "fox35orlando.com",
-      "n": 1,
-      "avg_tone": -3.891
-    },
-    {
-      "source": "nbcwashington.com",
-      "n": 1,
-      "avg_tone": 5.979
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_WOMEN",
-      "n": 33
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "theme": "USPEC_POLITICS_GENERAL1",
       "n": 31
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 31
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 28
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 29
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
+      "theme": "LEADER",
       "n": 27
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
+      "theme": "ARMEDCONFLICT",
       "n": 26
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 25
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 25
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
       "n": 22
     },
     {
-      "theme": "LEADER",
-      "n": 20
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 22
     },
     {
-      "theme": "WB_135_TRANSPORT",
-      "n": 20
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 18
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 19
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 19
-    },
-    {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 19
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "theme": "EPU_ECONOMY_HISTORIC",
       "n": 17
+    },
+    {
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 15
+    },
+    {
+      "theme": "TAX_FNCACT_FATHER",
+      "n": 14
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 14
+    },
+    {
+      "theme": "TAX_FNCACT_LEADER",
+      "n": 14
+    },
+    {
+      "theme": "EPU_POLICY_POLITICAL",
+      "n": 14
+    },
+    {
+      "theme": "TAX_ETHNICITY_SPANISH",
+      "n": 13
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_SPANISH",
+      "n": 13
     }
   ]
 }
