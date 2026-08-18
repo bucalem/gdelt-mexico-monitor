@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-18T17:51:13.921507+00:00",
-  "rows_total_scanned_last_run": 7057,
+  "generated_at": "2026-08-18T18:23:44.165047+00:00",
+  "rows_total_scanned_last_run": 7514,
   "rows_mexico_last_run": 83,
-  "overall_avg_tone_4h": 0.754,
+  "overall_avg_tone_4h": 0.481,
   "timeline": [
-    {
-      "time": "2026-08-15T18:00",
-      "avg_tone": 0.098,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-08-15T18:15",
-      "avg_tone": -1.325,
-      "n_articles": 4
-    },
     {
       "time": "2026-08-15T18:30",
       "avg_tone": -0.134,
@@ -1388,13 +1378,68 @@
       "time": "2026-08-18T17:45",
       "avg_tone": 0.513,
       "n_articles": 28
+    },
+    {
+      "time": "2026-08-18T18:00",
+      "avg_tone": 0.303,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-08-18T18:15",
+      "avg_tone": -0.144,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-08-18T18:30",
+      "avg_tone": -1.041,
+      "n_articles": 18
     }
   ],
   "top_sources": [
     {
+      "source": "elpais.com",
+      "n": 5,
+      "avg_tone": -2.76
+    },
+    {
       "source": "riviera-maya-news.com",
       "n": 4,
       "avg_tone": -3.986
+    },
+    {
+      "source": "dailypolitical.com",
+      "n": 3,
+      "avg_tone": 3.926
+    },
+    {
+      "source": "riotimesonline.com",
+      "n": 2,
+      "avg_tone": -1.456
+    },
+    {
+      "source": "theconversation.com",
+      "n": 2,
+      "avg_tone": -7.914
+    },
+    {
+      "source": "offalyindependent.ie",
+      "n": 2,
+      "avg_tone": 5.37
+    },
+    {
+      "source": "westmeathindependent.ie",
+      "n": 2,
+      "avg_tone": 5.37
+    },
+    {
+      "source": "allafrica.com",
+      "n": 2,
+      "avg_tone": -1.73
+    },
+    {
+      "source": "kesq.com",
+      "n": 2,
+      "avg_tone": 1.254
     },
     {
       "source": "fool.com",
@@ -1407,19 +1452,9 @@
       "avg_tone": -0.973
     },
     {
-      "source": "dailypolitical.com",
-      "n": 2,
-      "avg_tone": 4.936
-    },
-    {
       "source": "kvia.com",
       "n": 2,
       "avg_tone": 3.929
-    },
-    {
-      "source": "simcoereformer.ca",
-      "n": 2,
-      "avg_tone": -2.162
     },
     {
       "source": "anglocelt.ie",
@@ -1427,106 +1462,76 @@
       "avg_tone": 5.37
     },
     {
-      "source": "santafenewmexican.com",
-      "n": 2,
-      "avg_tone": -3.212
-    },
-    {
-      "source": "krwg.org",
-      "n": 2,
-      "avg_tone": 0.268
-    },
-    {
-      "source": "wgan.com",
-      "n": 2,
-      "avg_tone": 1.389
-    },
-    {
-      "source": "the72.co.uk",
+      "source": "reflector.com",
       "n": 1,
-      "avg_tone": 0.816
+      "avg_tone": -7.093
     },
     {
-      "source": "wwd.com",
+      "source": "canoncitydailyrecord.com",
       "n": 1,
-      "avg_tone": 1.337
-    },
-    {
-      "source": "insidermonkey.com",
-      "n": 1,
-      "avg_tone": -1.516
-    },
-    {
-      "source": "cbc.ca",
-      "n": 1,
-      "avg_tone": -1.874
-    },
-    {
-      "source": "cnbc.com",
-      "n": 1,
-      "avg_tone": -2.102
+      "avg_tone": -1.48
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_DIRECTOR",
-      "n": 83
-    },
-    {
       "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
-      "n": 71
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 71
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 69
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 67
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 59
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 58
+      "n": 222
     },
     {
       "theme": "WB_855_LABOR_MARKETS",
-      "n": 56
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 54
-    },
-    {
-      "theme": "WB_1675_GRADUATION",
-      "n": 53
+      "n": 217
     },
     {
       "theme": "WB_1673_PASSIVE_LABOR_MARKETS_POLICIES",
-      "n": 53
+      "n": 213
+    },
+    {
+      "theme": "WB_1675_GRADUATION",
+      "n": 212
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 206
     },
     {
       "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 52
-    },
-    {
-      "theme": "LEGISLATION",
-      "n": 51
+      "n": 202
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 47
+      "n": 70
     },
     {
-      "theme": "SECURITY_SERVICES",
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 65
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 64
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 60
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 48
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 48
+    },
+    {
+      "theme": "LEADER",
       "n": 45
+    },
+    {
+      "theme": "WB_2453_ORGANIZED_CRIME",
+      "n": 45
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 44
     }
   ]
 }
