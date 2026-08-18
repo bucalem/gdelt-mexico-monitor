@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-18T05:52:15.563326+00:00",
-  "rows_total_scanned_last_run": 3183,
-  "rows_mexico_last_run": 36,
+  "generated_at": "2026-08-18T06:27:22.522886+00:00",
+  "rows_total_scanned_last_run": 1677,
+  "rows_mexico_last_run": 19,
   "overall_avg_tone_4h": -0.393,
   "timeline": [
-    {
-      "time": "2026-08-15T06:00",
-      "avg_tone": -0.305,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-15T06:15",
-      "avg_tone": -2.2,
-      "n_articles": 10
-    },
     {
       "time": "2026-08-15T06:30",
       "avg_tone": -2.661,
@@ -1412,11 +1402,6 @@
       "avg_tone": -1.76
     },
     {
-      "source": "cnn.com",
-      "n": 2,
-      "avg_tone": -2.972
-    },
-    {
       "source": "fox26houston.com",
       "n": 2,
       "avg_tone": -8.221
@@ -1425,16 +1410,6 @@
       "source": "f4wonline.com",
       "n": 2,
       "avg_tone": 0.106
-    },
-    {
-      "source": "brazilsun.com",
-      "n": 2,
-      "avg_tone": 0.195
-    },
-    {
-      "source": "news.tuoitre.vn",
-      "n": 2,
-      "avg_tone": 0.14
     },
     {
       "source": "islands.com",
@@ -1475,68 +1450,83 @@
       "source": "dailymail.com",
       "n": 1,
       "avg_tone": -4.114
+    },
+    {
+      "source": "cnn.com",
+      "n": 1,
+      "avg_tone": -2.972
+    },
+    {
+      "source": "winnipegfreepress.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "bakersfieldnow.com",
+      "n": 1,
+      "avg_tone": -0.204
     }
   ],
   "top_themes": [
     {
       "theme": "ARMEDCONFLICT",
-      "n": 40
-    },
-    {
-      "theme": "LEADER",
-      "n": 37
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 33
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 32
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 30
+      "n": 27
     },
     {
       "theme": "AGRICULTURE",
-      "n": 29
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 29
-    },
-    {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 29
-    },
-    {
-      "theme": "TAX_FNCACT_LEADER",
-      "n": 24
-    },
-    {
-      "theme": "EPU_POLICY_POLICY",
-      "n": 23
-    },
-    {
-      "theme": "BORDER",
-      "n": 22
-    },
-    {
-      "theme": "WB_698_TRADE",
       "n": 21
     },
     {
+      "theme": "TAX_FNCACT_LEADER",
+      "n": 17
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 16
+    },
+    {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 20
+      "n": 15
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 17
+      "theme": "LEADER",
+      "n": 15
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 17
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 15
+    },
+    {
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 15
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 14
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 14
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 13
+    },
+    {
+      "theme": "BORDER",
+      "n": 13
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 13
+    },
+    {
+      "theme": "UNGP_CRIME_VIOLENCE",
+      "n": 13
+    },
+    {
+      "theme": "EPU_POLICY_POLICY",
+      "n": 11
     }
   ]
 }
