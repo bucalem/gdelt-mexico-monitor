@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-18T22:23:51.630045+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -1.214,
+  "generated_at": "2026-08-18T22:47:30.229520+00:00",
+  "rows_total_scanned_last_run": 5580,
+  "rows_mexico_last_run": 98,
+  "overall_avg_tone_4h": -1.32,
   "timeline": [
-    {
-      "time": "2026-08-15T22:30",
-      "avg_tone": -0.219,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-15T22:45",
-      "avg_tone": -1.423,
-      "n_articles": 4
-    },
     {
       "time": "2026-08-15T23:00",
       "avg_tone": -0.276,
@@ -1378,8 +1368,160 @@
       "time": "2026-08-18T22:00",
       "avg_tone": -0.796,
       "n_articles": 29
+    },
+    {
+      "time": "2026-08-18T22:15",
+      "avg_tone": -1.372,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-08-18T22:30",
+      "avg_tone": -0.717,
+      "n_articles": 30
+    },
+    {
+      "time": "2026-08-18T22:45",
+      "avg_tone": -1.106,
+      "n_articles": 20
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "riotimesonline.com",
+      "n": 5,
+      "avg_tone": 0.625
+    },
+    {
+      "source": "koolfmabilene.com",
+      "n": 3,
+      "avg_tone": 0.476
+    },
+    {
+      "source": "medicinehatnews.com",
+      "n": 3,
+      "avg_tone": 0.097
+    },
+    {
+      "source": "i95rock.com",
+      "n": 2,
+      "avg_tone": -0.429
+    },
+    {
+      "source": "edmontonsun.com",
+      "n": 2,
+      "avg_tone": -3.552
+    },
+    {
+      "source": "kygl.com",
+      "n": 2,
+      "avg_tone": -0.429
+    },
+    {
+      "source": "dailymail.com",
+      "n": 2,
+      "avg_tone": -1.572
+    },
+    {
+      "source": "z100missoula.com",
+      "n": 2,
+      "avg_tone": -0.429
+    },
+    {
+      "source": "winnipegfreepress.com",
+      "n": 2,
+      "avg_tone": -2.614
+    },
+    {
+      "source": "967theeagle.net",
+      "n": 2,
+      "avg_tone": -0.429
+    },
+    {
+      "source": "alternet.org",
+      "n": 2,
+      "avg_tone": -3.22
+    },
+    {
+      "source": "q1077.com",
+      "n": 2,
+      "avg_tone": -0.429
+    },
+    {
+      "source": "manilatimes.net",
+      "n": 2,
+      "avg_tone": -3.148
+    },
+    {
+      "source": "kool1017.com",
+      "n": 2,
+      "avg_tone": -0.429
+    },
+    {
+      "source": "wgrd.com",
+      "n": 2,
+      "avg_tone": 1.118
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "KILL",
+      "n": 107
+    },
+    {
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 103
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 85
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 78
+    },
+    {
+      "theme": "TAX_FNCACT_DRUMMER",
+      "n": 78
+    },
+    {
+      "theme": "TAX_FNCACT_GUITARIST",
+      "n": 70
+    },
+    {
+      "theme": "TAX_FNCACT_MAN",
+      "n": 63
+    },
+    {
+      "theme": "WB_470_EDUCATION",
+      "n": 60
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 59
+    },
+    {
+      "theme": "WB_1467_EDUCATION_FOR_ALL",
+      "n": 58
+    },
+    {
+      "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
+      "n": 58
+    },
+    {
+      "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
+      "n": 58
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 58
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 56
+    },
+    {
+      "theme": "LEADER",
+      "n": 50
+    }
+  ]
 }
