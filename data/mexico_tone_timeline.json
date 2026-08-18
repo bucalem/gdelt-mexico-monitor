@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-18T19:37:57.004991+00:00",
-  "rows_total_scanned_last_run": 3257,
-  "rows_mexico_last_run": 25,
-  "overall_avg_tone_4h": 0.139,
+  "generated_at": "2026-08-18T19:55:19.389334+00:00",
+  "rows_total_scanned_last_run": 6151,
+  "rows_mexico_last_run": 61,
+  "overall_avg_tone_4h": -0.198,
   "timeline": [
-    {
-      "time": "2026-08-15T19:45",
-      "avg_tone": -0.37,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-15T20:00",
       "avg_tone": -0.175,
@@ -1378,9 +1373,34 @@
       "time": "2026-08-18T19:15",
       "avg_tone": -2.633,
       "n_articles": 13
+    },
+    {
+      "time": "2026-08-18T19:30",
+      "avg_tone": -1.83,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-08-18T19:45",
+      "avg_tone": -0.059,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-08-18T20:00",
+      "avg_tone": -1.039,
+      "n_articles": 12
     }
   ],
   "top_sources": [
+    {
+      "source": "wrestlinginc.com",
+      "n": 2,
+      "avg_tone": -0.362
+    },
+    {
+      "source": "cp24.com",
+      "n": 2,
+      "avg_tone": 1.111
+    },
     {
       "source": "rfdtv.com",
       "n": 2,
@@ -1392,131 +1412,121 @@
       "avg_tone": -0.854
     },
     {
-      "source": "logisticsmgmt.com",
+      "source": "greatlakesadvocate.com.au",
       "n": 1,
-      "avg_tone": -2.181
+      "avg_tone": 1.212
     },
     {
-      "source": "brazilsun.com",
+      "source": "wccbcharlotte.com",
       "n": 1,
-      "avg_tone": 0.508
+      "avg_tone": -5.714
     },
     {
-      "source": "kjct8.com",
+      "source": "620ckrm.com",
       "n": 1,
-      "avg_tone": -3.167
+      "avg_tone": 4.031
     },
     {
-      "source": "miragenews.com",
+      "source": "guitarplayer.com",
       "n": 1,
-      "avg_tone": -0.433
+      "avg_tone": 0.242
     },
     {
-      "source": "fox26houston.com",
+      "source": "gloucesteradvocate.com.au",
       "n": 1,
-      "avg_tone": -6.96
+      "avg_tone": 1.212
     },
     {
-      "source": "abc11.com",
+      "source": "963theblaze.com",
       "n": 1,
-      "avg_tone": -7.244
+      "avg_tone": 0.542
     },
     {
-      "source": "proactiveinvestors.com",
+      "source": "semissourian.com",
       "n": 1,
-      "avg_tone": -2.087
+      "avg_tone": -8.789
     },
     {
-      "source": "thewrap.com",
+      "source": "dailypolitical.com",
       "n": 1,
-      "avg_tone": -4.135
+      "avg_tone": 2.052
     },
     {
-      "source": "kwtx.com",
+      "source": "hola.com",
       "n": 1,
-      "avg_tone": -7.477
+      "avg_tone": 7.12
     },
     {
-      "source": "phoenixnewtimes.com",
+      "source": "perthnow.com.au",
       "n": 1,
-      "avg_tone": 0.771
+      "avg_tone": 1.19
     },
     {
-      "source": "newsonjapan.com",
+      "source": "dailypress.com",
       "n": 1,
-      "avg_tone": 0.137
-    },
-    {
-      "source": "ediblebrooklyn.com",
-      "n": 1,
-      "avg_tone": 2.612
-    },
-    {
-      "source": "nbclosangeles.com",
-      "n": 1,
-      "avg_tone": -1.215
+      "avg_tone": -7.79
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_FNCACT_DIRECTOR",
-      "n": 69
+      "n": 136
     },
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 39
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 75
     },
     {
       "theme": "LEADER",
-      "n": 36
+      "n": 74
     },
     {
-      "theme": "TAX_FNCACT_ATTORNEY",
-      "n": 30
+      "theme": "WB_1467_EDUCATION_FOR_ALL",
+      "n": 73
     },
     {
-      "theme": "SOC_POINTSOFINTEREST_JAIL",
-      "n": 30
+      "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
+      "n": 73
     },
     {
-      "theme": "TAX_FNCACT_GOVERNOR",
-      "n": 29
+      "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
+      "n": 73
     },
     {
-      "theme": "TRIAL",
-      "n": 23
-    },
-    {
-      "theme": "TAX_FNCACT_AGENT",
-      "n": 22
-    },
-    {
-      "theme": "TAX_WORLDFISH_TUNA",
-      "n": 21
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 20
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 20
-    },
-    {
-      "theme": "TAX_MILITARY_TITLE_OFFICER",
-      "n": 20
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICER",
-      "n": 20
+      "theme": "WB_470_EDUCATION",
+      "n": 71
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 19
+      "n": 54
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 19
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 51
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 50
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 49
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 49
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 47
+    },
+    {
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 46
+    },
+    {
+      "theme": "TAX_FNCACT_ATTORNEY",
+      "n": 45
     }
   ]
 }
