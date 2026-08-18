@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-18T08:24:53.049363+00:00",
-  "rows_total_scanned_last_run": 3574,
-  "rows_mexico_last_run": 25,
-  "overall_avg_tone_4h": 0.24,
+  "generated_at": "2026-08-18T09:01:11.022093+00:00",
+  "rows_total_scanned_last_run": 3856,
+  "rows_mexico_last_run": 19,
+  "overall_avg_tone_4h": 0.171,
   "timeline": [
-    {
-      "time": "2026-08-15T08:30",
-      "avg_tone": 0.183,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-08-15T08:45",
-      "avg_tone": 1.303,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-15T09:00",
-      "avg_tone": -0.76,
-      "n_articles": 3
-    },
     {
       "time": "2026-08-15T09:15",
       "avg_tone": 0.492,
@@ -1393,13 +1378,63 @@
       "time": "2026-08-18T08:30",
       "avg_tone": 0.006,
       "n_articles": 4
+    },
+    {
+      "time": "2026-08-18T08:45",
+      "avg_tone": 2.986,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-08-18T09:00",
+      "avg_tone": -0.982,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 3,
-      "avg_tone": 0.138
+      "source": "news24.com",
+      "n": 1,
+      "avg_tone": -2.622
+    },
+    {
+      "source": "timesfreepress.com",
+      "n": 1,
+      "avg_tone": -3.422
+    },
+    {
+      "source": "bostonherald.com",
+      "n": 1,
+      "avg_tone": -4.866
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 1,
+      "avg_tone": 9.152
+    },
+    {
+      "source": "dunyanews.tv",
+      "n": 1,
+      "avg_tone": -3.151
+    },
+    {
+      "source": "cambodiantimes.com",
+      "n": 1,
+      "avg_tone": 3.018
+    },
+    {
+      "source": "memeburn.com",
+      "n": 1,
+      "avg_tone": 2.983
+    },
+    {
+      "source": "krro.com",
+      "n": 1,
+      "avg_tone": 2.872
+    },
+    {
+      "source": "640wxsm.com",
+      "n": 1,
+      "avg_tone": 3.073
     },
     {
       "source": "sanews.gov.za",
@@ -1430,108 +1465,68 @@
       "source": "eyeradio.org",
       "n": 1,
       "avg_tone": -0.341
-    },
-    {
-      "source": "therakyatpost.com",
-      "n": 1,
-      "avg_tone": -0.469
-    },
-    {
-      "source": "newsweek.com",
-      "n": 1,
-      "avg_tone": -4.028
-    },
-    {
-      "source": "cnn.com",
-      "n": 1,
-      "avg_tone": -2.972
-    },
-    {
-      "source": "investegate.co.uk",
-      "n": 1,
-      "avg_tone": -0.171
-    },
-    {
-      "source": "mondaq.com",
-      "n": 1,
-      "avg_tone": -3.962
-    },
-    {
-      "source": "business-standard.com",
-      "n": 1,
-      "avg_tone": 3.012
-    },
-    {
-      "source": "tribune.com.pk",
-      "n": 1,
-      "avg_tone": -5.056
-    },
-    {
-      "source": "953thescore.com",
-      "n": 1,
-      "avg_tone": 3.073
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 31
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 32
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 28
+      "theme": "WB_2944_SERVERS",
+      "n": 32
+    },
+    {
+      "theme": "WB_671_STORAGE_MANAGEMENT",
+      "n": 32
+    },
+    {
+      "theme": "WB_667_ICT_INFRASTRUCTURE",
+      "n": 32
+    },
+    {
+      "theme": "WB_672_NETWORK_MANAGEMENT",
+      "n": 32
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 32
     },
     {
       "theme": "LEADER",
-      "n": 27
-    },
-    {
-      "theme": "ARMEDCONFLICT",
       "n": 26
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 22
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 26
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 22
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 25
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 18
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 24
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 17
+      "n": 18
     },
     {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "theme": "ARMEDCONFLICT",
+      "n": 16
+    },
+    {
+      "theme": "WB_698_TRADE",
       "n": 15
     },
     {
-      "theme": "TAX_FNCACT_FATHER",
+      "theme": "USPEC_POLICY1",
+      "n": 15
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
       "n": 14
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 14
-    },
-    {
-      "theme": "TAX_FNCACT_LEADER",
-      "n": 14
-    },
-    {
-      "theme": "EPU_POLICY_POLITICAL",
-      "n": 14
-    },
-    {
-      "theme": "TAX_ETHNICITY_SPANISH",
-      "n": 13
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_SPANISH",
-      "n": 13
     }
   ]
 }
