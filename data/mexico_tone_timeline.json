@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-18T14:03:18.757815+00:00",
-  "rows_total_scanned_last_run": 5679,
-  "rows_mexico_last_run": 50,
-  "overall_avg_tone_4h": 0.397,
+  "generated_at": "2026-08-18T14:49:29.955062+00:00",
+  "rows_total_scanned_last_run": 6029,
+  "rows_mexico_last_run": 75,
+  "overall_avg_tone_4h": 0.662,
   "timeline": [
-    {
-      "time": "2026-08-15T14:15",
-      "avg_tone": -0.173,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-08-15T14:30",
-      "avg_tone": -0.398,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-15T14:45",
-      "avg_tone": 0.581,
-      "n_articles": 9
-    },
     {
       "time": "2026-08-15T15:00",
       "avg_tone": 0.58,
@@ -1388,18 +1373,63 @@
       "time": "2026-08-18T14:00",
       "avg_tone": 1.423,
       "n_articles": 17
+    },
+    {
+      "time": "2026-08-18T14:15",
+      "avg_tone": 0.626,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-08-18T14:30",
+      "avg_tone": 2.307,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-18T14:45",
+      "avg_tone": 2.138,
+      "n_articles": 29
     }
   ],
   "top_sources": [
     {
-      "source": "banderasnews.com",
-      "n": 3,
-      "avg_tone": 4.814
+      "source": "riotimesonline.com",
+      "n": 6,
+      "avg_tone": -0.445
     },
     {
-      "source": "prnewswire.com",
+      "source": "webwire.com",
       "n": 3,
-      "avg_tone": 6.763
+      "avg_tone": 5.377
+    },
+    {
+      "source": "jalopnik.com",
+      "n": 2,
+      "avg_tone": 0.506
+    },
+    {
+      "source": "actionnewsjax.com",
+      "n": 2,
+      "avg_tone": 4.727
+    },
+    {
+      "source": "wdbo.com",
+      "n": 2,
+      "avg_tone": 4.682
+    },
+    {
+      "source": "wftv.com",
+      "n": 2,
+      "avg_tone": 4.727
+    },
+    {
+      "source": "nwaonline.com",
+      "n": 2,
+      "avg_tone": -2.682
+    },
+    {
+      "source": "harpersbazaar.com",
+      "n": 2,
+      "avg_tone": 3.428
     },
     {
       "source": "news4sanantonio.com",
@@ -1407,126 +1437,96 @@
       "avg_tone": -5.977
     },
     {
-      "source": "webwire.com",
-      "n": 2,
-      "avg_tone": 3.417
+      "source": "moneycontrol.com",
+      "n": 1,
+      "avg_tone": -0.763
     },
     {
-      "source": "nbcconnecticut.com",
+      "source": "rollingstone.com",
       "n": 1,
-      "avg_tone": 5.967
+      "avg_tone": 6.757
     },
     {
-      "source": "themarysue.com",
+      "source": "41nbc.com",
       "n": 1,
-      "avg_tone": 0.524
+      "avg_tone": 0.474
     },
     {
-      "source": "wrestlinginc.com",
+      "source": "newsx.com",
       "n": 1,
-      "avg_tone": -2.174
+      "avg_tone": 2.18
     },
     {
-      "source": "bignewsnetwork.com",
+      "source": "lonestar995fm.com",
       "n": 1,
-      "avg_tone": -4.386
+      "avg_tone": 0.484
     },
     {
-      "source": "1015vibe.com",
+      "source": "cp24.com",
       "n": 1,
-      "avg_tone": 4.454
-    },
-    {
-      "source": "yahoo.com",
-      "n": 1,
-      "avg_tone": 2.842
-    },
-    {
-      "source": "japanherald.com",
-      "n": 1,
-      "avg_tone": -4.394
-    },
-    {
-      "source": "pr-inside.com",
-      "n": 1,
-      "avg_tone": 4.287
-    },
-    {
-      "source": "1055thedove.com",
-      "n": 1,
-      "avg_tone": 4.454
-    },
-    {
-      "source": "manilatimes.net",
-      "n": 1,
-      "avg_tone": 4.615
-    },
-    {
-      "source": "easy931miami.com",
-      "n": 1,
-      "avg_tone": 4.454
+      "avg_tone": 0.0
     }
   ],
   "top_themes": [
     {
       "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
-      "n": 376
-    },
-    {
-      "theme": "WB_855_LABOR_MARKETS",
-      "n": 375
+      "n": 744
     },
     {
       "theme": "WB_1675_GRADUATION",
-      "n": 374
+      "n": 743
+    },
+    {
+      "theme": "WB_855_LABOR_MARKETS",
+      "n": 743
     },
     {
       "theme": "WB_1673_PASSIVE_LABOR_MARKETS_POLICIES",
-      "n": 374
+      "n": 743
     },
     {
       "theme": "EDUCATION",
-      "n": 359
+      "n": 714
     },
     {
       "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 353
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_COLLEGE",
-      "n": 67
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_UNIVERSITIES",
-      "n": 57
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 54
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_SCHOOLS",
-      "n": 53
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 51
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 43
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 41
+      "n": 683
     },
     {
       "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 39
+      "n": 207
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 38
+      "theme": "WB_405_BUSINESS_CLIMATE",
+      "n": 190
+    },
+    {
+      "theme": "WB_2531_INSPECTIONS_LICENSING_AND_PERMITS",
+      "n": 190
+    },
+    {
+      "theme": "WB_2530_BUSINESS_ENVIRONMENT",
+      "n": 190
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_COLLEGE",
+      "n": 129
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 115
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_UNIVERSITIES",
+      "n": 112
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 107
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 107
     }
   ]
 }
