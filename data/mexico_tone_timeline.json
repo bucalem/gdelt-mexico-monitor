@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-18T20:13:45.135379+00:00",
-  "rows_total_scanned_last_run": 5742,
-  "rows_mexico_last_run": 70,
-  "overall_avg_tone_4h": -0.346,
+  "generated_at": "2026-08-18T20:40:52.632588+00:00",
+  "rows_total_scanned_last_run": 4330,
+  "rows_mexico_last_run": 55,
+  "overall_avg_tone_4h": -0.552,
   "timeline": [
-    {
-      "time": "2026-08-15T20:15",
-      "avg_tone": -0.19,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-15T20:30",
-      "avg_tone": 1.964,
-      "n_articles": 3
-    },
     {
       "time": "2026-08-15T20:45",
       "avg_tone": -2.023,
@@ -1388,9 +1378,24 @@
       "time": "2026-08-18T20:15",
       "avg_tone": -1.004,
       "n_articles": 22
+    },
+    {
+      "time": "2026-08-18T20:30",
+      "avg_tone": -2.619,
+      "n_articles": 21
     }
   ],
   "top_sources": [
+    {
+      "source": "fox13seattle.com",
+      "n": 2,
+      "avg_tone": -10.663
+    },
+    {
+      "source": "bnnbloomberg.ca",
+      "n": 2,
+      "avg_tone": 1.038
+    },
     {
       "source": "clickondetroit.com",
       "n": 2,
@@ -1402,131 +1407,121 @@
       "avg_tone": 1.589
     },
     {
-      "source": "wrestlinginc.com",
-      "n": 2,
-      "avg_tone": -0.362
-    },
-    {
-      "source": "cp24.com",
-      "n": 2,
-      "avg_tone": 1.111
-    },
-    {
-      "source": "broadway.com",
+      "source": "redstate.com",
       "n": 1,
-      "avg_tone": 1.416
+      "avg_tone": -4.421
     },
     {
-      "source": "noozhawk.com",
-      "n": 1,
-      "avg_tone": 6.476
-    },
-    {
-      "source": "crookwellgazette.com.au",
-      "n": 1,
-      "avg_tone": 1.181
-    },
-    {
-      "source": "wmnf.org",
-      "n": 1,
-      "avg_tone": -3.633
-    },
-    {
-      "source": "truckinginfo.com",
-      "n": 1,
-      "avg_tone": 0.858
-    },
-    {
-      "source": "961theeagle.com",
+      "source": "kdat.com",
       "n": 1,
       "avg_tone": -0.857
     },
     {
-      "source": "legalinsurrection.com",
+      "source": "kjrh.com",
       "n": 1,
-      "avg_tone": -4.835
+      "avg_tone": -5.904
     },
     {
-      "source": "dailyastorian.com",
+      "source": "wzozfm.com",
       "n": 1,
-      "avg_tone": -3.402
+      "avg_tone": -0.857
     },
     {
-      "source": "fesmag.com",
+      "source": "wadenapj.com",
       "n": 1,
-      "avg_tone": -0.348
+      "avg_tone": -5.778
     },
     {
-      "source": "staradvertiser.com",
+      "source": "northweststar.com.au",
       "n": 1,
-      "avg_tone": -7.201
+      "avg_tone": 1.176
     },
     {
-      "source": "theguardian.com",
+      "source": "cjsr.com",
       "n": 1,
-      "avg_tone": -7.993
+      "avg_tone": 0.717
+    },
+    {
+      "source": "blayneychronicle.com.au",
+      "n": 1,
+      "avg_tone": 1.212
+    },
+    {
+      "source": "narrominenewsonline.com.au",
+      "n": 1,
+      "avg_tone": 1.217
+    },
+    {
+      "source": "grandforksherald.com",
+      "n": 1,
+      "avg_tone": -5.778
+    },
+    {
+      "source": "wblm.com",
+      "n": 1,
+      "avg_tone": -0.857
     }
   ],
   "top_themes": [
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 95
-    },
-    {
-      "theme": "WB_1467_EDUCATION_FOR_ALL",
-      "n": 94
-    },
-    {
-      "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
-      "n": 94
-    },
-    {
-      "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
-      "n": 94
-    },
-    {
-      "theme": "WB_470_EDUCATION",
-      "n": 93
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 78
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 82
     },
     {
       "theme": "LEADER",
-      "n": 77
+      "n": 76
     },
     {
-      "theme": "TAX_FNCACT_DIRECTOR",
+      "theme": "WB_1467_EDUCATION_FOR_ALL",
+      "n": 72
+    },
+    {
+      "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
+      "n": 72
+    },
+    {
+      "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
+      "n": 72
+    },
+    {
+      "theme": "WB_2670_JOBS",
       "n": 71
     },
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 67
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 66
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 64
+      "theme": "WB_470_EDUCATION",
+      "n": 71
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 62
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 59
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 57
+      "n": 60
     },
     {
       "theme": "WB_2769_JOBS_STRATEGIES",
       "n": 56
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 56
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 56
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 55
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 55
+    },
+    {
+      "theme": "TAX_FNCACT_ATTORNEY",
+      "n": 53
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 53
     }
   ]
 }
