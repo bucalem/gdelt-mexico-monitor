@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-18T16:20:25.872873+00:00",
-  "rows_total_scanned_last_run": 6340,
-  "rows_mexico_last_run": 76,
-  "overall_avg_tone_4h": 0.928,
+  "generated_at": "2026-08-18T16:55:35.755776+00:00",
+  "rows_total_scanned_last_run": 6878,
+  "rows_mexico_last_run": 78,
+  "overall_avg_tone_4h": 0.933,
   "timeline": [
-    {
-      "time": "2026-08-15T16:30",
-      "avg_tone": -1.843,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-15T16:45",
-      "avg_tone": 0.763,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-15T17:00",
       "avg_tone": -0.32,
@@ -1388,18 +1378,53 @@
       "time": "2026-08-18T16:15",
       "avg_tone": 0.231,
       "n_articles": 22
+    },
+    {
+      "time": "2026-08-18T16:30",
+      "avg_tone": 1.087,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-08-18T16:45",
+      "avg_tone": 0.928,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-08-18T17:00",
+      "avg_tone": -1.749,
+      "n_articles": 17
     }
   ],
   "top_sources": [
     {
       "source": "yahoo.com",
-      "n": 3,
-      "avg_tone": -0.06
+      "n": 4,
+      "avg_tone": 0.747
     },
     {
-      "source": "freshplaza.com",
-      "n": 3,
-      "avg_tone": 0.637
+      "source": "thewhig.com",
+      "n": 2,
+      "avg_tone": -0.5
+    },
+    {
+      "source": "wsoctv.com",
+      "n": 2,
+      "avg_tone": 4.727
+    },
+    {
+      "source": "wgauradio.com",
+      "n": 2,
+      "avg_tone": 4.682
+    },
+    {
+      "source": "foxsanantonio.com",
+      "n": 2,
+      "avg_tone": -2.877
+    },
+    {
+      "source": "koat.com",
+      "n": 2,
+      "avg_tone": 0.395
     },
     {
       "source": "breitbart.com",
@@ -1422,111 +1447,91 @@
       "avg_tone": 4.727
     },
     {
-      "source": "indiatimes.com",
-      "n": 2,
-      "avg_tone": -1.52
-    },
-    {
-      "source": "windsorstar.com",
-      "n": 2,
-      "avg_tone": 0.575
-    },
-    {
-      "source": "bnnbloomberg.ca",
-      "n": 2,
-      "avg_tone": -0.973
-    },
-    {
-      "source": "chinanationalnews.com",
-      "n": 2,
-      "avg_tone": -1.943
-    },
-    {
-      "source": "latintimes.com",
-      "n": 2,
-      "avg_tone": 1.857
-    },
-    {
-      "source": "potatonewstoday.com",
+      "source": "boredpanda.com",
       "n": 1,
-      "avg_tone": -1.526
+      "avg_tone": -7.338
     },
     {
-      "source": "europesun.com",
+      "source": "shanghaisun.com",
       "n": 1,
-      "avg_tone": 0.508
+      "avg_tone": -4.394
     },
     {
-      "source": "bleedingcool.com",
+      "source": "nypost.com",
       "n": 1,
-      "avg_tone": 8.551
+      "avg_tone": -2.725
     },
     {
-      "source": "dailymail.com",
+      "source": "brantfordexpositor.ca",
       "n": 1,
-      "avg_tone": 2.478
+      "avg_tone": -2.162
+    },
+    {
+      "source": "hometownregister.com",
+      "n": 1,
+      "avg_tone": 1.255
     }
   ],
   "top_themes": [
     {
       "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
-      "n": 340
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 333
+      "n": 290
     },
     {
       "theme": "WB_855_LABOR_MARKETS",
-      "n": 328
+      "n": 277
     },
     {
       "theme": "WB_1675_GRADUATION",
-      "n": 318
+      "n": 266
     },
     {
       "theme": "WB_1673_PASSIVE_LABOR_MARKETS_POLICIES",
-      "n": 318
+      "n": 266
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 256
     },
     {
       "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 312
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 79
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 65
+      "n": 249
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 61
+      "n": 67
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 61
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_COLLEGE",
-      "n": 55
+      "theme": "TAX_FNCACT_CANDIDATES",
+      "n": 64
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 52
+      "n": 62
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 51
+      "theme": "DEMOCRACY",
+      "n": 61
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 51
-    },
-    {
-      "theme": "LEADER",
+      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 50
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 48
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 48
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 47
+    },
+    {
+      "theme": "DRUG_TRADE",
+      "n": 46
     }
   ]
 }
