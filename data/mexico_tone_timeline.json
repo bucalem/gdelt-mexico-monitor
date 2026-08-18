@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-18T16:55:35.755776+00:00",
-  "rows_total_scanned_last_run": 6878,
-  "rows_mexico_last_run": 78,
-  "overall_avg_tone_4h": 0.933,
+  "generated_at": "2026-08-18T17:19:40.881149+00:00",
+  "rows_total_scanned_last_run": 6746,
+  "rows_mexico_last_run": 77,
+  "overall_avg_tone_4h": 0.873,
   "timeline": [
-    {
-      "time": "2026-08-15T17:00",
-      "avg_tone": -0.32,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-08-15T17:15",
-      "avg_tone": -0.246,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-15T17:30",
       "avg_tone": -0.97,
@@ -1393,13 +1383,23 @@
       "time": "2026-08-18T17:00",
       "avg_tone": -1.749,
       "n_articles": 17
+    },
+    {
+      "time": "2026-08-18T17:15",
+      "avg_tone": -0.136,
+      "n_articles": 21
     }
   ],
   "top_sources": [
     {
+      "source": "wgan.com",
+      "n": 2,
+      "avg_tone": 1.389
+    },
+    {
       "source": "yahoo.com",
-      "n": 4,
-      "avg_tone": 0.747
+      "n": 2,
+      "avg_tone": 0.805
     },
     {
       "source": "thewhig.com",
@@ -1427,111 +1427,106 @@
       "avg_tone": 0.395
     },
     {
-      "source": "breitbart.com",
-      "n": 2,
-      "avg_tone": -8.461
-    },
-    {
-      "source": "foreignpolicy.com",
-      "n": 2,
-      "avg_tone": -4.306
-    },
-    {
-      "source": "haitisun.com",
-      "n": 2,
-      "avg_tone": -1.943
-    },
-    {
-      "source": "kiro7.com",
-      "n": 2,
-      "avg_tone": 4.727
-    },
-    {
-      "source": "boredpanda.com",
+      "source": "dublinpeople.com",
       "n": 1,
-      "avg_tone": -7.338
+      "avg_tone": 5.647
     },
     {
-      "source": "shanghaisun.com",
+      "source": "indiatimes.com",
       "n": 1,
-      "avg_tone": -4.394
+      "avg_tone": 0.0
     },
     {
-      "source": "nypost.com",
+      "source": "wkfr.com",
       "n": 1,
-      "avg_tone": -2.725
+      "avg_tone": 2.206
     },
     {
-      "source": "brantfordexpositor.ca",
+      "source": "prnewswire.com",
       "n": 1,
-      "avg_tone": -2.162
+      "avg_tone": -1.202
     },
     {
-      "source": "hometownregister.com",
+      "source": "newser.com",
       "n": 1,
-      "avg_tone": 1.255
+      "avg_tone": -5.263
+    },
+    {
+      "source": "collider.com",
+      "n": 1,
+      "avg_tone": -4.302
+    },
+    {
+      "source": "nationalpost.com",
+      "n": 1,
+      "avg_tone": -0.216
+    },
+    {
+      "source": "horizonweekly.ca",
+      "n": 1,
+      "avg_tone": -2.004
     }
   ],
   "top_themes": [
     {
       "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
-      "n": 290
+      "n": 235
     },
     {
       "theme": "WB_855_LABOR_MARKETS",
-      "n": 277
+      "n": 216
     },
     {
       "theme": "WB_1675_GRADUATION",
-      "n": 266
+      "n": 213
     },
     {
       "theme": "WB_1673_PASSIVE_LABOR_MARKETS_POLICIES",
-      "n": 266
+      "n": 213
     },
     {
       "theme": "EDUCATION",
-      "n": 256
+      "n": 209
     },
     {
       "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 249
+      "n": 197
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 67
+      "theme": "TAX_FNCACT_DIRECTOR",
+      "n": 72
     },
     {
       "theme": "TAX_FNCACT_CANDIDATES",
       "n": 64
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 62
-    },
-    {
       "theme": "DEMOCRACY",
       "n": 61
     },
     {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 59
+    },
+    {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 50
+      "n": 54
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 48
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 48
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 47
     },
     {
-      "theme": "DRUG_TRADE",
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 46
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 46
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 41
     }
   ]
 }
