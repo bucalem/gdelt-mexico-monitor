@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-18T15:54:17.082558+00:00",
-  "rows_total_scanned_last_run": 2846,
-  "rows_mexico_last_run": 32,
-  "overall_avg_tone_4h": 0.963,
+  "generated_at": "2026-08-18T16:20:25.872873+00:00",
+  "rows_total_scanned_last_run": 6340,
+  "rows_mexico_last_run": 76,
+  "overall_avg_tone_4h": 0.928,
   "timeline": [
-    {
-      "time": "2026-08-15T16:00",
-      "avg_tone": 0.377,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-08-15T16:15",
-      "avg_tone": 1.608,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-15T16:30",
       "avg_tone": -1.843,
@@ -1388,13 +1378,53 @@
       "time": "2026-08-18T15:45",
       "avg_tone": 1.299,
       "n_articles": 22
+    },
+    {
+      "time": "2026-08-18T16:00",
+      "avg_tone": 1.771,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-08-18T16:15",
+      "avg_tone": 0.231,
+      "n_articles": 22
     }
   ],
   "top_sources": [
     {
+      "source": "yahoo.com",
+      "n": 3,
+      "avg_tone": -0.06
+    },
+    {
       "source": "freshplaza.com",
       "n": 3,
       "avg_tone": 0.637
+    },
+    {
+      "source": "breitbart.com",
+      "n": 2,
+      "avg_tone": -8.461
+    },
+    {
+      "source": "foreignpolicy.com",
+      "n": 2,
+      "avg_tone": -4.306
+    },
+    {
+      "source": "haitisun.com",
+      "n": 2,
+      "avg_tone": -1.943
+    },
+    {
+      "source": "kiro7.com",
+      "n": 2,
+      "avg_tone": 4.727
+    },
+    {
+      "source": "indiatimes.com",
+      "n": 2,
+      "avg_tone": -1.52
     },
     {
       "source": "windsorstar.com",
@@ -1402,131 +1432,101 @@
       "avg_tone": 0.575
     },
     {
-      "source": "meathchronicle.ie",
+      "source": "bnnbloomberg.ca",
       "n": 2,
-      "avg_tone": 5.37
+      "avg_tone": -0.973
     },
     {
-      "source": "thescore1260.com",
+      "source": "chinanationalnews.com",
+      "n": 2,
+      "avg_tone": -1.943
+    },
+    {
+      "source": "latintimes.com",
+      "n": 2,
+      "avg_tone": 1.857
+    },
+    {
+      "source": "potatonewstoday.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -1.526
     },
     {
-      "source": "gananoquereporter.com",
-      "n": 1,
-      "avg_tone": -2.1
-    },
-    {
-      "source": "intelligencer.ca",
-      "n": 1,
-      "avg_tone": -2.1
-    },
-    {
-      "source": "99jamzmiami.com",
-      "n": 1,
-      "avg_tone": 4.454
-    },
-    {
-      "source": "developingtelecoms.com",
-      "n": 1,
-      "avg_tone": 6.419
-    },
-    {
-      "source": "argentinastar.com",
+      "source": "europesun.com",
       "n": 1,
       "avg_tone": 0.508
     },
     {
-      "source": "newsweek.com",
+      "source": "bleedingcool.com",
       "n": 1,
-      "avg_tone": -3.513
+      "avg_tone": 8.551
     },
     {
-      "source": "portlandtribune.com",
+      "source": "dailymail.com",
       "n": 1,
-      "avg_tone": 3.512
-    },
-    {
-      "source": "bmwblog.com",
-      "n": 1,
-      "avg_tone": 1.176
-    },
-    {
-      "source": "gringogazette.com",
-      "n": 1,
-      "avg_tone": -1.308
-    },
-    {
-      "source": "prnewswire.com",
-      "n": 1,
-      "avg_tone": 5.139
-    },
-    {
-      "source": "icelandreview.com",
-      "n": 1,
-      "avg_tone": 5.466
+      "avg_tone": 2.478
     }
   ],
   "top_themes": [
     {
       "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
-      "n": 67
+      "n": 340
     },
     {
       "theme": "EDUCATION",
-      "n": 59
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 58
+      "n": 333
     },
     {
       "theme": "WB_855_LABOR_MARKETS",
-      "n": 55
+      "n": 328
     },
     {
       "theme": "WB_1675_GRADUATION",
-      "n": 53
+      "n": 318
     },
     {
       "theme": "WB_1673_PASSIVE_LABOR_MARKETS_POLICIES",
-      "n": 53
+      "n": 318
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 51
-    },
-    {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 48
-    },
-    {
-      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 48
-    },
-    {
-      "theme": "WB_1281_MANUFACTURING",
-      "n": 44
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 28
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 27
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 27
+      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
+      "n": 312
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 27
+      "n": 79
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 26
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 65
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 61
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 61
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_COLLEGE",
+      "n": 55
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 52
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 51
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 51
+    },
+    {
+      "theme": "LEADER",
+      "n": 50
     }
   ]
 }
