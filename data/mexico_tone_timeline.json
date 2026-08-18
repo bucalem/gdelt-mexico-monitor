@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-18T19:55:19.389334+00:00",
-  "rows_total_scanned_last_run": 6151,
-  "rows_mexico_last_run": 61,
-  "overall_avg_tone_4h": -0.198,
+  "generated_at": "2026-08-18T20:13:45.135379+00:00",
+  "rows_total_scanned_last_run": 5742,
+  "rows_mexico_last_run": 70,
+  "overall_avg_tone_4h": -0.346,
   "timeline": [
-    {
-      "time": "2026-08-15T20:00",
-      "avg_tone": -0.175,
-      "n_articles": 5
-    },
     {
       "time": "2026-08-15T20:15",
       "avg_tone": -0.19,
@@ -1388,9 +1383,24 @@
       "time": "2026-08-18T20:00",
       "avg_tone": -1.039,
       "n_articles": 12
+    },
+    {
+      "time": "2026-08-18T20:15",
+      "avg_tone": -1.004,
+      "n_articles": 22
     }
   ],
   "top_sources": [
+    {
+      "source": "clickondetroit.com",
+      "n": 2,
+      "avg_tone": -4.51
+    },
+    {
+      "source": "tickerreport.com",
+      "n": 2,
+      "avg_tone": 1.589
+    },
     {
       "source": "wrestlinginc.com",
       "n": 2,
@@ -1402,131 +1412,121 @@
       "avg_tone": 1.111
     },
     {
-      "source": "rfdtv.com",
-      "n": 2,
-      "avg_tone": 0.326
-    },
-    {
-      "source": "cubaheadlines.com",
-      "n": 2,
-      "avg_tone": -0.854
-    },
-    {
-      "source": "greatlakesadvocate.com.au",
+      "source": "broadway.com",
       "n": 1,
-      "avg_tone": 1.212
+      "avg_tone": 1.416
     },
     {
-      "source": "wccbcharlotte.com",
+      "source": "noozhawk.com",
       "n": 1,
-      "avg_tone": -5.714
+      "avg_tone": 6.476
     },
     {
-      "source": "620ckrm.com",
+      "source": "crookwellgazette.com.au",
       "n": 1,
-      "avg_tone": 4.031
+      "avg_tone": 1.181
     },
     {
-      "source": "guitarplayer.com",
+      "source": "wmnf.org",
       "n": 1,
-      "avg_tone": 0.242
+      "avg_tone": -3.633
     },
     {
-      "source": "gloucesteradvocate.com.au",
+      "source": "truckinginfo.com",
       "n": 1,
-      "avg_tone": 1.212
+      "avg_tone": 0.858
     },
     {
-      "source": "963theblaze.com",
+      "source": "961theeagle.com",
       "n": 1,
-      "avg_tone": 0.542
+      "avg_tone": -0.857
     },
     {
-      "source": "semissourian.com",
+      "source": "legalinsurrection.com",
       "n": 1,
-      "avg_tone": -8.789
+      "avg_tone": -4.835
     },
     {
-      "source": "dailypolitical.com",
+      "source": "dailyastorian.com",
       "n": 1,
-      "avg_tone": 2.052
+      "avg_tone": -3.402
     },
     {
-      "source": "hola.com",
+      "source": "fesmag.com",
       "n": 1,
-      "avg_tone": 7.12
+      "avg_tone": -0.348
     },
     {
-      "source": "perthnow.com.au",
+      "source": "staradvertiser.com",
       "n": 1,
-      "avg_tone": 1.19
+      "avg_tone": -7.201
     },
     {
-      "source": "dailypress.com",
+      "source": "theguardian.com",
       "n": 1,
-      "avg_tone": -7.79
+      "avg_tone": -7.993
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_DIRECTOR",
-      "n": 136
-    },
-    {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 75
-    },
-    {
-      "theme": "LEADER",
-      "n": 74
+      "n": 95
     },
     {
       "theme": "WB_1467_EDUCATION_FOR_ALL",
-      "n": 73
+      "n": 94
     },
     {
       "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
-      "n": 73
+      "n": 94
     },
     {
       "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
-      "n": 73
+      "n": 94
     },
     {
       "theme": "WB_470_EDUCATION",
+      "n": 93
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 78
+    },
+    {
+      "theme": "LEADER",
+      "n": 77
+    },
+    {
+      "theme": "TAX_FNCACT_DIRECTOR",
       "n": 71
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 54
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 67
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 51
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 50
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 66
     },
     {
       "theme": "GENERAL_GOVERNMENT",
-      "n": 49
+      "n": 64
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 49
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 62
     },
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 47
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 59
     },
     {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 46
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 57
     },
     {
-      "theme": "TAX_FNCACT_ATTORNEY",
-      "n": 45
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 56
     }
   ]
 }
