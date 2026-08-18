@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-18T10:18:36.150872+00:00",
-  "rows_total_scanned_last_run": 4262,
-  "rows_mexico_last_run": 27,
-  "overall_avg_tone_4h": 0.609,
+  "generated_at": "2026-08-18T10:53:31.161186+00:00",
+  "rows_total_scanned_last_run": 4395,
+  "rows_mexico_last_run": 26,
+  "overall_avg_tone_4h": 0.503,
   "timeline": [
-    {
-      "time": "2026-08-15T10:30",
-      "avg_tone": -0.43,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-08-15T10:45",
-      "avg_tone": 1.185,
-      "n_articles": 9
-    },
     {
       "time": "2026-08-15T11:00",
       "avg_tone": 0.521,
@@ -1388,6 +1378,21 @@
       "time": "2026-08-18T10:15",
       "avg_tone": 3.547,
       "n_articles": 6
+    },
+    {
+      "time": "2026-08-18T10:30",
+      "avg_tone": 1.994,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-08-18T10:45",
+      "avg_tone": 0.25,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-08-18T11:00",
+      "avg_tone": -0.674,
+      "n_articles": 10
     }
   ],
   "top_sources": [
@@ -1397,136 +1402,136 @@
       "avg_tone": 7.568
     },
     {
-      "source": "wsws.org",
-      "n": 2,
-      "avg_tone": -3.488
+      "source": "hawaiitribune-herald.com",
+      "n": 1,
+      "avg_tone": 0.175
     },
     {
-      "source": "globalsecurity.org",
+      "source": "yourdemocracy.net",
       "n": 1,
-      "avg_tone": 1.333
+      "avg_tone": -5.298
     },
     {
-      "source": "nbclosangeles.com",
+      "source": "theglobeandmail.com",
       "n": 1,
-      "avg_tone": 5.955
+      "avg_tone": 1.604
     },
     {
-      "source": "travelwires.com",
+      "source": "dailymirror.lk",
       "n": 1,
-      "avg_tone": 2.155
+      "avg_tone": -2.517
     },
     {
-      "source": "borsaitaliana.it",
+      "source": "nj1015.com",
       "n": 1,
-      "avg_tone": -3.297
+      "avg_tone": -2.525
     },
     {
-      "source": "nbcbayarea.com",
+      "source": "islands.com",
       "n": 1,
-      "avg_tone": 5.979
+      "avg_tone": 2.019
     },
     {
-      "source": "mondaq.com",
+      "source": "princeton.edu",
       "n": 1,
-      "avg_tone": -2.263
+      "avg_tone": 3.511
     },
     {
-      "source": "nearshoreamericas.com",
+      "source": "suntimes.com",
       "n": 1,
-      "avg_tone": -1.111
+      "avg_tone": -7.009
     },
     {
-      "source": "euronews.com",
+      "source": "aginfo.net",
       "n": 1,
-      "avg_tone": 3.516
+      "avg_tone": 4.762
     },
     {
-      "source": "kpel965.com",
+      "source": "salon.com",
       "n": 1,
-      "avg_tone": -1.943
+      "avg_tone": -1.466
     },
     {
-      "source": "perishablenews.com",
+      "source": "thelocal.de",
       "n": 1,
-      "avg_tone": 5.695
+      "avg_tone": 0.343
     },
     {
-      "source": "surinenglish.com",
+      "source": "en.apa.az",
       "n": 1,
-      "avg_tone": 1.734
+      "avg_tone": -0.906
     },
     {
-      "source": "prospect.org",
+      "source": "thelocal.es",
       "n": 1,
-      "avg_tone": -2.647
+      "avg_tone": 1.272
     },
     {
-      "source": "themarysue.com",
+      "source": "archdaily.com",
       "n": 1,
-      "avg_tone": -4.281
+      "avg_tone": 2.969
     }
   ],
   "top_themes": [
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 27
+      "n": 29
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 24
+      "theme": "TAX_ETHNICITY_GERMAN",
+      "n": 25
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_GERMAN",
+      "n": 25
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 23
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
+      "n": 23
+    },
+    {
+      "theme": "URBAN",
+      "n": 23
     },
     {
       "theme": "WB_135_TRANSPORT",
-      "n": 22
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 19
+      "n": 20
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 19
     },
     {
-      "theme": "TAX_FNCACT_CHILDREN",
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 19
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
       "n": 18
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
+      "theme": "TAX_ETHNICITY_AMERICAN",
       "n": 17
     },
     {
-      "theme": "TAX_ETHNICITY_SPANISH",
-      "n": 17
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 16
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_SPANISH",
-      "n": 17
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 16
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 16
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 17
-    },
-    {
-      "theme": "TAX_FNCACT_BABY",
       "n": 16
-    },
-    {
-      "theme": "TAX_FNCACT_FATHER",
-      "n": 16
-    },
-    {
-      "theme": "MILITARY",
-      "n": 15
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 15
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 15
     }
   ]
 }
