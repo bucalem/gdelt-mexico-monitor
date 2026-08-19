@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-19T22:15:03.413540+00:00",
-  "rows_total_scanned_last_run": 5322,
-  "rows_mexico_last_run": 86,
-  "overall_avg_tone_4h": -1.021,
+  "generated_at": "2026-08-19T22:43:06.567829+00:00",
+  "rows_total_scanned_last_run": 5225,
+  "rows_mexico_last_run": 89,
+  "overall_avg_tone_4h": -1.246,
   "timeline": [
-    {
-      "time": "2026-08-16T22:15",
-      "avg_tone": -2.842,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-08-16T22:30",
-      "avg_tone": -0.549,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-16T22:45",
       "avg_tone": -1.696,
@@ -1408,6 +1398,16 @@
       "time": "2026-08-19T22:15",
       "avg_tone": -1.979,
       "n_articles": 25
+    },
+    {
+      "time": "2026-08-19T22:30",
+      "avg_tone": -1.913,
+      "n_articles": 22
+    },
+    {
+      "time": "2026-08-19T22:45",
+      "avg_tone": -2.099,
+      "n_articles": 24
     }
   ],
   "top_sources": [
@@ -1422,9 +1422,19 @@
       "avg_tone": 2.957
     },
     {
-      "source": "koat.com",
+      "source": "presstelegram.com",
       "n": 3,
-      "avg_tone": 2.502
+      "avg_tone": -1.828
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 2.476
+    },
+    {
+      "source": "5280.com",
+      "n": 2,
+      "avg_tone": 1.11
     },
     {
       "source": "miragenews.com",
@@ -1442,111 +1452,101 @@
       "avg_tone": -1.099
     },
     {
-      "source": "beijingbulletin.com",
-      "n": 2,
-      "avg_tone": -1.699
-    },
-    {
-      "source": "thedailytimes.com",
-      "n": 2,
-      "avg_tone": -0.843
-    },
-    {
-      "source": "foxla.com",
-      "n": 2,
-      "avg_tone": -2.754
-    },
-    {
-      "source": "fox4news.com",
-      "n": 2,
-      "avg_tone": -1.604
-    },
-    {
-      "source": "kvia.com",
+      "source": "abc7amarillo.com",
       "n": 1,
-      "avg_tone": 0.352
+      "avg_tone": -1.676
     },
     {
-      "source": "govinfosecurity.com",
+      "source": "phoenixnewtimes.com",
       "n": 1,
-      "avg_tone": -4.67
+      "avg_tone": 2.951
     },
     {
-      "source": "fox29.com",
+      "source": "cochranetimes.com",
       "n": 1,
-      "avg_tone": -0.218
+      "avg_tone": -7.383
     },
     {
-      "source": "cruisehive.com",
+      "source": "governing.com",
       "n": 1,
-      "avg_tone": 4.487
+      "avg_tone": -3.623
     },
     {
-      "source": "fortmorgantimes.com",
+      "source": "knsiradio.com",
       "n": 1,
-      "avg_tone": -0.739
+      "avg_tone": -6.25
+    },
+    {
+      "source": "nbcdfw.com",
+      "n": 1,
+      "avg_tone": -2.597
+    },
+    {
+      "source": "fox9.com",
+      "n": 1,
+      "avg_tone": -8.171
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 98
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 98
+      "n": 144
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 97
-    },
-    {
-      "theme": "BORDER",
-      "n": 96
+      "n": 141
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 96
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 88
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 88
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 88
+      "n": 94
     },
     {
       "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 90
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 90
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 90
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 90
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
       "n": 84
     },
     {
-      "theme": "TAX_FNCACT_FARMERS",
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
       "n": 70
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 64
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 63
+      "theme": "TRIAL",
+      "n": 70
     },
     {
       "theme": "LEADER",
-      "n": 61
+      "n": 64
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 63
+    },
+    {
+      "theme": "TAX_FNCACT_FARMERS",
+      "n": 62
+    },
+    {
+      "theme": "WB_840_JUSTICE",
       "n": 59
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 54
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 56
     }
   ]
 }
