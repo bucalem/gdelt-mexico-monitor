@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-19T23:34:09.831922+00:00",
-  "rows_total_scanned_last_run": 4649,
-  "rows_mexico_last_run": 94,
-  "overall_avg_tone_4h": -1.647,
+  "generated_at": "2026-08-19T23:56:46.477154+00:00",
+  "rows_total_scanned_last_run": 4738,
+  "rows_mexico_last_run": 102,
+  "overall_avg_tone_4h": -1.917,
   "timeline": [
-    {
-      "time": "2026-08-16T23:45",
-      "avg_tone": -0.442,
-      "n_articles": 7
-    },
     {
       "time": "2026-08-17T00:00",
       "avg_tone": -1.275,
@@ -1403,13 +1398,28 @@
       "time": "2026-08-19T23:30",
       "avg_tone": -1.607,
       "n_articles": 22
+    },
+    {
+      "time": "2026-08-19T23:45",
+      "avg_tone": -2.919,
+      "n_articles": 28
+    },
+    {
+      "time": "2026-08-20T00:00",
+      "avg_tone": -1.92,
+      "n_articles": 27
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 19,
+      "n": 26,
       "avg_tone": -7.57
+    },
+    {
+      "source": "abqjournal.com",
+      "n": 4,
+      "avg_tone": -2.07
     },
     {
       "source": "dailynews.com",
@@ -1417,14 +1427,29 @@
       "avg_tone": -1.828
     },
     {
-      "source": "presstelegram.com",
-      "n": 3,
-      "avg_tone": -1.828
+      "source": "kob.com",
+      "n": 2,
+      "avg_tone": -0.877
+    },
+    {
+      "source": "krgv.com",
+      "n": 2,
+      "avg_tone": -7.43
+    },
+    {
+      "source": "breitbart.com",
+      "n": 2,
+      "avg_tone": -1.923
+    },
+    {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": -0.969
     },
     {
       "source": "winnipegfreepress.com",
       "n": 2,
-      "avg_tone": 0.959
+      "avg_tone": 0.938
     },
     {
       "source": "theprovince.com",
@@ -1442,106 +1467,86 @@
       "avg_tone": -2.489
     },
     {
-      "source": "japantoday.com",
-      "n": 2,
-      "avg_tone": -1.266
-    },
-    {
-      "source": "dailypress.com",
-      "n": 2,
-      "avg_tone": -3.44
-    },
-    {
-      "source": "thebusinessjournal.com",
-      "n": 2,
-      "avg_tone": -0.862
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 2,
-      "avg_tone": 2.476
-    },
-    {
-      "source": "pilotonline.com",
+      "source": "nd.edu",
       "n": 1,
-      "avg_tone": -6.14
+      "avg_tone": 8.635
     },
     {
-      "source": "ksl.com",
+      "source": "wral.com",
       "n": 1,
-      "avg_tone": 0.131
+      "avg_tone": 0.084
     },
     {
-      "source": "postandcourier.com",
+      "source": "freemalaysiatoday.com",
       "n": 1,
-      "avg_tone": 3.663
+      "avg_tone": -7.455
     },
     {
-      "source": "sun-sentinel.com",
+      "source": "montrealgazette.com",
       "n": 1,
-      "avg_tone": -0.211
+      "avg_tone": -0.439
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 178
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 172
-    },
-    {
-      "theme": "TRIAL",
-      "n": 129
-    },
-    {
-      "theme": "TAX_FNCACT_ATTORNEY",
-      "n": 102
+      "n": 151
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 87
+      "n": 113
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 87
+      "n": 112
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 86
+      "n": 111
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 86
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 85
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 82
-    },
-    {
-      "theme": "LEADER",
-      "n": 82
-    },
-    {
-      "theme": "TAX_FNCACT_DISTRICT_ATTORNEY",
-      "n": 81
+      "n": 111
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 74
+      "n": 110
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 109
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 106
+    },
+    {
+      "theme": "TRIAL",
+      "n": 105
+    },
+    {
+      "theme": "TAX_FNCACT_ATTORNEY",
+      "n": 100
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 95
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 90
+    },
+    {
+      "theme": "TAX_FNCACT_DISTRICT_ATTORNEY",
+      "n": 83
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 73
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 70
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 71
     }
   ]
 }
