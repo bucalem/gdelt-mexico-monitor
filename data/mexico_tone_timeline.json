@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-19T10:52:34.265939+00:00",
-  "rows_total_scanned_last_run": 4132,
+  "generated_at": "2026-08-19T11:16:56.650363+00:00",
+  "rows_total_scanned_last_run": 4354,
   "rows_mexico_last_run": 43,
-  "overall_avg_tone_4h": 0.127,
+  "overall_avg_tone_4h": -0.043,
   "timeline": [
-    {
-      "time": "2026-08-16T11:00",
-      "avg_tone": 1.848,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-16T11:15",
-      "avg_tone": 0.975,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-16T11:30",
       "avg_tone": -1.046,
@@ -1408,6 +1398,11 @@
       "time": "2026-08-19T11:00",
       "avg_tone": 1.049,
       "n_articles": 8
+    },
+    {
+      "time": "2026-08-19T11:15",
+      "avg_tone": -2.162,
+      "n_articles": 9
     }
   ],
   "top_sources": [
@@ -1415,11 +1410,6 @@
       "source": "mexicoledger.com",
       "n": 3,
       "avg_tone": 4.019
-    },
-    {
-      "source": "aginfo.net",
-      "n": 3,
-      "avg_tone": 1.525
     },
     {
       "source": "iheart.com",
@@ -1430,6 +1420,51 @@
       "source": "sci-tech-today.com",
       "n": 2,
       "avg_tone": 3.236
+    },
+    {
+      "source": "thewalrus.ca",
+      "n": 1,
+      "avg_tone": -3.809
+    },
+    {
+      "source": "voa.gov",
+      "n": 1,
+      "avg_tone": -6.007
+    },
+    {
+      "source": "samaa.tv",
+      "n": 1,
+      "avg_tone": -1.24
+    },
+    {
+      "source": "westhawaiitoday.com",
+      "n": 1,
+      "avg_tone": -8.64
+    },
+    {
+      "source": "ktbb.com",
+      "n": 1,
+      "avg_tone": -7.269
+    },
+    {
+      "source": "hot967fm.com",
+      "n": 1,
+      "avg_tone": 1.546
+    },
+    {
+      "source": "motherearthnews.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "theintermountain.com",
+      "n": 1,
+      "avg_tone": 6.885
+    },
+    {
+      "source": "business-standard.com",
+      "n": 1,
+      "avg_tone": -0.928
     },
     {
       "source": "bostonglobe.com",
@@ -1445,108 +1480,68 @@
       "source": "wkvi.com",
       "n": 1,
       "avg_tone": 3.451
-    },
-    {
-      "source": "variety.com",
-      "n": 1,
-      "avg_tone": 3.371
-    },
-    {
-      "source": "abc30.com",
-      "n": 1,
-      "avg_tone": -1.266
-    },
-    {
-      "source": "tickerreport.com",
-      "n": 1,
-      "avg_tone": 2.059
-    },
-    {
-      "source": "newdelhitimes.com",
-      "n": 1,
-      "avg_tone": -3.883
-    },
-    {
-      "source": "lewistownsentinel.com",
-      "n": 1,
-      "avg_tone": 2.938
-    },
-    {
-      "source": "independent.co.uk",
-      "n": 1,
-      "avg_tone": -1.158
-    },
-    {
-      "source": "the-independent.com",
-      "n": 1,
-      "avg_tone": 0.495
-    },
-    {
-      "source": "goskagit.com",
-      "n": 1,
-      "avg_tone": 0.098
     }
   ],
   "top_themes": [
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 61
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 60
-    },
     {
       "theme": "WB_2670_JOBS",
       "n": 60
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 49
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 57
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 50
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 48
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 44
+      "n": 47
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 41
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 40
+      "theme": "WB_698_TRADE",
+      "n": 42
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 36
+      "n": 40
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 38
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 34
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 34
-    },
-    {
-      "theme": "WB_723_PUBLIC_ADMINISTRATION",
-      "n": 34
-    },
-    {
-      "theme": "WB_2048_COMPENSATION_CAREERS_AND_INCENTIVES",
-      "n": 33
-    },
-    {
-      "theme": "WB_724_HUMAN_RESOURCES_FOR_PUBLIC_SECTOR",
-      "n": 33
+      "n": 35
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 34
+    },
+    {
+      "theme": "TAX_FNCACT_ATTORNEY",
+      "n": 33
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 33
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
       "n": 32
     },
     {
-      "theme": "EDUCATION",
-      "n": 31
+      "theme": "LEADER",
+      "n": 32
+    },
+    {
+      "theme": "WB_723_PUBLIC_ADMINISTRATION",
+      "n": 32
     }
   ]
 }
