@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-19T18:20:27.686822+00:00",
-  "rows_total_scanned_last_run": 6211,
-  "rows_mexico_last_run": 87,
-  "overall_avg_tone_4h": 0.13,
+  "generated_at": "2026-08-19T19:00:14.331614+00:00",
+  "rows_total_scanned_last_run": 6329,
+  "rows_mexico_last_run": 77,
+  "overall_avg_tone_4h": 0.03,
   "timeline": [
-    {
-      "time": "2026-08-16T18:30",
-      "avg_tone": -3.076,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-08-16T18:45",
-      "avg_tone": -1.833,
-      "n_articles": 15
-    },
     {
       "time": "2026-08-16T19:00",
       "avg_tone": -4.051,
@@ -1408,13 +1398,43 @@
       "time": "2026-08-19T18:30",
       "avg_tone": 0.284,
       "n_articles": 19
+    },
+    {
+      "time": "2026-08-19T18:45",
+      "avg_tone": -0.556,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-08-19T19:00",
+      "avg_tone": -0.47,
+      "n_articles": 19
     }
   ],
   "top_sources": [
     {
-      "source": "theguardian.com",
+      "source": "dailybreeze.com",
       "n": 3,
-      "avg_tone": -3.364
+      "avg_tone": -2.098
+    },
+    {
+      "source": "chinanationalnews.com",
+      "n": 2,
+      "avg_tone": -1.699
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 2.206
+    },
+    {
+      "source": "krgv.com",
+      "n": 2,
+      "avg_tone": 0.085
+    },
+    {
+      "source": "pasadenastarnews.com",
+      "n": 2,
+      "avg_tone": 1.342
     },
     {
       "source": "ocregister.com",
@@ -1427,126 +1447,106 @@
       "avg_tone": 6.349
     },
     {
-      "source": "english.news.cn",
-      "n": 2,
-      "avg_tone": -4.861
-    },
-    {
-      "source": "indiatimes.com",
-      "n": 2,
-      "avg_tone": -1.253
-    },
-    {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -1.705
-    },
-    {
-      "source": "grandrapidsmn.com",
-      "n": 2,
-      "avg_tone": 1.308
-    },
-    {
-      "source": "postandcourier.com",
-      "n": 2,
-      "avg_tone": 3.698
-    },
-    {
-      "source": "lpheralddispatch.com",
+      "source": "wkyufm.org",
       "n": 1,
-      "avg_tone": -0.429
+      "avg_tone": 3.268
     },
     {
-      "source": "dailyadvance.com",
+      "source": "saharareporters.com",
       "n": 1,
-      "avg_tone": -1.784
+      "avg_tone": -1.861
     },
     {
-      "source": "chathamdailynews.ca",
+      "source": "cool987fm.com",
       "n": 1,
-      "avg_tone": -1.05
+      "avg_tone": -2.517
     },
     {
-      "source": "troyrecord.com",
+      "source": "fool.com",
+      "n": 1,
+      "avg_tone": 0.815
+    },
+    {
+      "source": "foreignpolicy.com",
+      "n": 1,
+      "avg_tone": -4.192
+    },
+    {
+      "source": "mediapost.com",
+      "n": 1,
+      "avg_tone": 1.129
+    },
+    {
+      "source": "mainlinemedianews.com",
       "n": 1,
       "avg_tone": 1.793
     },
     {
-      "source": "fox5atlanta.com",
+      "source": "russiaherald.com",
       "n": 1,
-      "avg_tone": 5.736
-    },
-    {
-      "source": "dailypolitical.com",
-      "n": 1,
-      "avg_tone": 3.774
-    },
-    {
-      "source": "nowgrenada.com",
-      "n": 1,
-      "avg_tone": 2.048
+      "avg_tone": -2.703
     }
   ],
   "top_themes": [
     {
-      "theme": "LGBT",
-      "n": 133
-    },
-    {
       "theme": "TAX_FNCACT_DIRECTOR",
-      "n": 119
+      "n": 124
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 104
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 102
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 98
-    },
-    {
-      "theme": "UNGP_FREEDOM_FROM_DISCRIMINATION",
-      "n": 86
-    },
-    {
-      "theme": "TAX_WORLDMAMMALS_DOGS",
-      "n": 83
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 82
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 82
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 78
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 77
-    },
-    {
-      "theme": "BORDER",
-      "n": 75
-    },
-    {
-      "theme": "LEADER",
+      "theme": "TAX_FNCACT_CONDUCTOR",
       "n": 70
     },
     {
-      "theme": "WB_137_WATER",
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 70
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 69
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 67
+    },
+    {
+      "theme": "TAX_WORLDMAMMALS_DOGS",
       "n": 66
     },
     {
+      "theme": "LEADER",
+      "n": 61
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 52
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 51
+    },
+    {
+      "theme": "TAX_FNCACT_ADVISER",
+      "n": 49
+    },
+    {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 65
+      "n": 47
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 46
+    },
+    {
+      "theme": "TAX_ETHNICITY_VENEZUELAN",
+      "n": 46
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_NORWEGIAN",
+      "n": 43
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 42
     }
   ]
 }
