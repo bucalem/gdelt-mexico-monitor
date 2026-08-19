@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-19T16:53:54.825034+00:00",
-  "rows_total_scanned_last_run": 6498,
-  "rows_mexico_last_run": 81,
-  "overall_avg_tone_4h": -0.04,
+  "generated_at": "2026-08-19T17:18:45.661395+00:00",
+  "rows_total_scanned_last_run": 6678,
+  "rows_mexico_last_run": 84,
+  "overall_avg_tone_4h": 0.104,
   "timeline": [
-    {
-      "time": "2026-08-16T17:00",
-      "avg_tone": -0.868,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-16T17:15",
-      "avg_tone": -2.107,
-      "n_articles": 7
-    },
     {
       "time": "2026-08-16T17:30",
       "avg_tone": -2.127,
@@ -1408,13 +1398,38 @@
       "time": "2026-08-19T17:00",
       "avg_tone": 0.711,
       "n_articles": 28
+    },
+    {
+      "time": "2026-08-19T17:15",
+      "avg_tone": 0.804,
+      "n_articles": 26
     }
   ],
   "top_sources": [
     {
+      "source": "targetednews.com",
+      "n": 4,
+      "avg_tone": 4.039
+    },
+    {
       "source": "tickerreport.com",
       "n": 3,
       "avg_tone": 2.251
+    },
+    {
+      "source": "mining.com",
+      "n": 2,
+      "avg_tone": -0.878
+    },
+    {
+      "source": "record-bee.com",
+      "n": 2,
+      "avg_tone": -2.386
+    },
+    {
+      "source": "dailybulletin.com",
+      "n": 2,
+      "avg_tone": 1.342
     },
     {
       "source": "riotimesonline.com",
@@ -1447,44 +1462,24 @@
       "avg_tone": 0.998
     },
     {
-      "source": "courant.com",
-      "n": 2,
-      "avg_tone": 0.079
-    },
-    {
-      "source": "medicaldaily.com",
-      "n": 2,
-      "avg_tone": -2.573
-    },
-    {
-      "source": "rcrwireless.com",
+      "source": "austinglobe.com",
       "n": 1,
-      "avg_tone": 0.17
+      "avg_tone": -2.703
     },
     {
-      "source": "coventryobserver.co.uk",
+      "source": "simcoereformer.ca",
       "n": 1,
-      "avg_tone": 1.095
+      "avg_tone": -1.05
     },
     {
-      "source": "newjerseytelegraph.com",
+      "source": "kenyastar.com",
       "n": 1,
-      "avg_tone": 4.83
+      "avg_tone": -2.703
     },
     {
-      "source": "yahoo.com",
+      "source": "saratogian.com",
       "n": 1,
-      "avg_tone": -0.879
-    },
-    {
-      "source": "bgr.com",
-      "n": 1,
-      "avg_tone": -0.993
-    },
-    {
-      "source": "ktsa.com",
-      "n": 1,
-      "avg_tone": -1.795
+      "avg_tone": 1.793
     }
   ],
   "top_themes": [
@@ -1493,24 +1488,32 @@
       "n": 145
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 85
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 79
-    },
-    {
       "theme": "TAX_FNCACT_DIRECTOR",
-      "n": 74
+      "n": 92
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 69
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 80
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 66
+      "n": 74
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 71
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 67
+    },
+    {
+      "theme": "LEADER",
+      "n": 65
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 65
     },
     {
       "theme": "TAX_WORLDMAMMALS_CATS",
@@ -1518,34 +1521,26 @@
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 64
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 63
+      "n": 58
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 61
-    },
-    {
-      "theme": "EDUCATION",
       "n": 56
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 56
-    },
-    {
-      "theme": "LEADER",
       "n": 55
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 54
+      "theme": "TAX_ETHNICITY_CHINESE",
+      "n": 53
     },
     {
-      "theme": "TAX_ETHNICITY_CHINESE",
+      "theme": "TAX_WORLDLANGUAGES_CHINESE",
+      "n": 53
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
       "n": 52
     }
   ]
