@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-19T08:25:22.473720+00:00",
-  "rows_total_scanned_last_run": 3809,
-  "rows_mexico_last_run": 41,
-  "overall_avg_tone_4h": -0.3,
+  "generated_at": "2026-08-19T09:02:09.460652+00:00",
+  "rows_total_scanned_last_run": 2786,
+  "rows_mexico_last_run": 22,
+  "overall_avg_tone_4h": -0.45,
   "timeline": [
-    {
-      "time": "2026-08-16T08:30",
-      "avg_tone": -2.072,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-08-16T08:45",
-      "avg_tone": -2.66,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-08-16T09:00",
-      "avg_tone": 0.89,
-      "n_articles": 5
-    },
     {
       "time": "2026-08-16T09:15",
       "avg_tone": -3.609,
@@ -1408,33 +1393,33 @@
       "time": "2026-08-19T08:30",
       "avg_tone": -0.34,
       "n_articles": 9
+    },
+    {
+      "time": "2026-08-19T08:45",
+      "avg_tone": -2.382,
+      "n_articles": 3
     }
   ],
   "top_sources": [
-    {
-      "source": "santafenewmexican.com",
-      "n": 5,
-      "avg_tone": -2.517
-    },
     {
       "source": "wwd.com",
       "n": 3,
       "avg_tone": 1.592
     },
     {
-      "source": "finanznachrichten.de",
-      "n": 2,
-      "avg_tone": 1.667
+      "source": "newsx.com",
+      "n": 1,
+      "avg_tone": -13.125
     },
     {
-      "source": "prnewswire.com",
-      "n": 2,
-      "avg_tone": 6.948
+      "source": "nvdaily.com",
+      "n": 1,
+      "avg_tone": 0.098
     },
     {
-      "source": "arkansasonline.com",
-      "n": 2,
-      "avg_tone": -1.714
+      "source": "caribbeanherald.com",
+      "n": 1,
+      "avg_tone": 5.882
     },
     {
       "source": "talkradio960.com",
@@ -1460,6 +1445,11 @@
       "source": "timesfreepress.com",
       "n": 1,
       "avg_tone": 0.097
+    },
+    {
+      "source": "finanznachrichten.de",
+      "n": 1,
+      "avg_tone": -3.457
     },
     {
       "source": "wastedive.com",
@@ -1490,63 +1480,63 @@
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 44
+      "n": 37
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 40
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 32
-    },
-    {
-      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
-      "n": 31
-    },
-    {
-      "theme": "AFFECT",
-      "n": 29
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 25
+      "n": 28
     },
     {
       "theme": "ENV_FISHERY",
       "n": 25
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 24
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 24
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 23
-    },
-    {
-      "theme": "TAX_FNCACT_STUDENTS",
-      "n": 23
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
       "n": 21
     },
     {
-      "theme": "LEADER",
-      "n": 20
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 18
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 20
+      "theme": "TAX_WORLDFISH_TUNA",
+      "n": 17
+    },
+    {
+      "theme": "MARITIME_PIRACY",
+      "n": 15
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 19
+      "n": 14
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 14
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 14
+    },
+    {
+      "theme": "LEADER",
+      "n": 14
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 14
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 13
+    },
+    {
+      "theme": "TAX_FNCACT_MAN",
+      "n": 13
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 13
     }
   ]
 }
