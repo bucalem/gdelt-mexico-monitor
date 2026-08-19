@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-19T10:19:27.308443+00:00",
-  "rows_total_scanned_last_run": 4087,
-  "rows_mexico_last_run": 47,
-  "overall_avg_tone_4h": -0.284,
+  "generated_at": "2026-08-19T10:52:34.265939+00:00",
+  "rows_total_scanned_last_run": 4132,
+  "rows_mexico_last_run": 43,
+  "overall_avg_tone_4h": 0.127,
   "timeline": [
-    {
-      "time": "2026-08-16T10:30",
-      "avg_tone": -0.206,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-08-16T10:45",
-      "avg_tone": 1.817,
-      "n_articles": 10
-    },
     {
       "time": "2026-08-16T11:00",
       "avg_tone": 1.848,
@@ -1403,13 +1393,28 @@
       "time": "2026-08-19T10:15",
       "avg_tone": 0.424,
       "n_articles": 9
+    },
+    {
+      "time": "2026-08-19T10:30",
+      "avg_tone": 2.007,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-08-19T10:45",
+      "avg_tone": 0.389,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-08-19T11:00",
+      "avg_tone": 1.049,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 11,
-      "avg_tone": -1.902
+      "source": "mexicoledger.com",
+      "n": 3,
+      "avg_tone": 4.019
     },
     {
       "source": "aginfo.net",
@@ -1417,131 +1422,131 @@
       "avg_tone": 1.525
     },
     {
-      "source": "yahoo.com",
+      "source": "iheart.com",
       "n": 2,
-      "avg_tone": 0.137
+      "avg_tone": 6.039
     },
     {
-      "source": "americanthinker.com",
-      "n": 1,
-      "avg_tone": -4.16
-    },
-    {
-      "source": "scienceblog.com",
-      "n": 1,
-      "avg_tone": -0.835
-    },
-    {
-      "source": "gringogazette.com",
-      "n": 1,
-      "avg_tone": 2.626
-    },
-    {
-      "source": "massreview.org",
-      "n": 1,
-      "avg_tone": 1.626
-    },
-    {
-      "source": "econotimes.com",
-      "n": 1,
-      "avg_tone": -1.425
-    },
-    {
-      "source": "thevermilion.com",
-      "n": 1,
-      "avg_tone": -1.382
-    },
-    {
-      "source": "perishablenews.com",
-      "n": 1,
-      "avg_tone": 7.011
-    },
-    {
-      "source": "bmmagazine.co.uk",
-      "n": 1,
-      "avg_tone": 3.87
-    },
-    {
-      "source": "prnewswire.com",
-      "n": 1,
-      "avg_tone": 10.137
-    },
-    {
-      "source": "cdapress.com",
-      "n": 1,
-      "avg_tone": -3.941
-    },
-    {
-      "source": "travelextra.ie",
-      "n": 1,
-      "avg_tone": 7.576
+      "source": "sci-tech-today.com",
+      "n": 2,
+      "avg_tone": 3.236
     },
     {
       "source": "bostonglobe.com",
       "n": 1,
-      "avg_tone": -2.647
+      "avg_tone": 1.474
+    },
+    {
+      "source": "latimes.com",
+      "n": 1,
+      "avg_tone": -2.849
+    },
+    {
+      "source": "wkvi.com",
+      "n": 1,
+      "avg_tone": 3.451
+    },
+    {
+      "source": "variety.com",
+      "n": 1,
+      "avg_tone": 3.371
+    },
+    {
+      "source": "abc30.com",
+      "n": 1,
+      "avg_tone": -1.266
+    },
+    {
+      "source": "tickerreport.com",
+      "n": 1,
+      "avg_tone": 2.059
+    },
+    {
+      "source": "newdelhitimes.com",
+      "n": 1,
+      "avg_tone": -3.883
+    },
+    {
+      "source": "lewistownsentinel.com",
+      "n": 1,
+      "avg_tone": 2.938
+    },
+    {
+      "source": "independent.co.uk",
+      "n": 1,
+      "avg_tone": -1.158
+    },
+    {
+      "source": "the-independent.com",
+      "n": 1,
+      "avg_tone": 0.495
+    },
+    {
+      "source": "goskagit.com",
+      "n": 1,
+      "avg_tone": 0.098
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_698_TRADE",
-      "n": 59
-    },
-    {
-      "theme": "ECON_WORLDCURRENCIES_PESO",
-      "n": 54
-    },
-    {
-      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
-      "n": 53
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 46
-    },
-    {
       "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 61
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 60
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 60
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 49
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
       "n": 44
     },
     {
-      "theme": "ECON_STOCKMARKET",
-      "n": 42
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 39
-    },
-    {
-      "theme": "ENV_OIL",
-      "n": 35
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 34
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 41
     },
     {
       "theme": "AGRICULTURE",
-      "n": 28
+      "n": 40
     },
     {
-      "theme": "BORDER",
-      "n": 28
-    },
-    {
-      "theme": "AFFECT",
-      "n": 26
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 36
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 26
+      "n": 34
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 25
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 34
     },
     {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 25
+      "theme": "WB_723_PUBLIC_ADMINISTRATION",
+      "n": 34
+    },
+    {
+      "theme": "WB_2048_COMPENSATION_CAREERS_AND_INCENTIVES",
+      "n": 33
+    },
+    {
+      "theme": "WB_724_HUMAN_RESOURCES_FOR_PUBLIC_SECTOR",
+      "n": 33
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 32
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 31
     }
   ]
 }
