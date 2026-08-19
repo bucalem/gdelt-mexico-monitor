@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-19T04:32:23.066752+00:00",
-  "rows_total_scanned_last_run": 3206,
-  "rows_mexico_last_run": 57,
-  "overall_avg_tone_4h": -0.838,
+  "generated_at": "2026-08-19T05:07:00.191829+00:00",
+  "rows_total_scanned_last_run": 3205,
+  "rows_mexico_last_run": 52,
+  "overall_avg_tone_4h": -0.718,
   "timeline": [
-    {
-      "time": "2026-08-16T04:45",
-      "avg_tone": 1.302,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-16T05:00",
-      "avg_tone": 3.833,
-      "n_articles": 5
-    },
     {
       "time": "2026-08-16T05:15",
       "avg_tone": -0.9,
@@ -1403,18 +1393,33 @@
       "time": "2026-08-19T04:30",
       "avg_tone": -1.01,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-19T04:45",
+      "avg_tone": 0.459,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-08-19T05:00",
+      "avg_tone": -0.839,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-08-19T05:15",
+      "avg_tone": -0.538,
+      "n_articles": 7
     }
   ],
   "top_sources": [
     {
-      "source": "prnewswire.com",
+      "source": "tickerreport.com",
       "n": 3,
-      "avg_tone": 1.751
+      "avg_tone": 3.493
     },
     {
-      "source": "kesq.com",
-      "n": 3,
-      "avg_tone": -3.332
+      "source": "dailyadvertiser.com.au",
+      "n": 2,
+      "avg_tone": -0.719
     },
     {
       "source": "dailypolitical.com",
@@ -1432,115 +1437,115 @@
       "avg_tone": -3.525
     },
     {
-      "source": "bignewsnetwork.com",
-      "n": 2,
-      "avg_tone": 0.511
-    },
-    {
-      "source": "whbl.com",
-      "n": 2,
-      "avg_tone": -0.853
-    },
-    {
-      "source": "troyrecord.com",
-      "n": 2,
-      "avg_tone": -1.537
-    },
-    {
-      "source": "en.tempo.co",
-      "n": 2,
-      "avg_tone": -0.142
-    },
-    {
-      "source": "bohemian.com",
+      "source": "greatlakesadvocate.com.au",
       "n": 1,
-      "avg_tone": 3.652
+      "avg_tone": 0.632
     },
     {
-      "source": "thesun.ng",
+      "source": "narrominenewsonline.com.au",
       "n": 1,
-      "avg_tone": -3.026
+      "avg_tone": 0.634
     },
     {
-      "source": "10news.com",
+      "source": "begadistrictnews.com.au",
       "n": 1,
-      "avg_tone": -4.533
+      "avg_tone": 0.622
     },
     {
-      "source": "hermistonherald.com",
+      "source": "nbcnews.com",
       "n": 1,
-      "avg_tone": 7.488
+      "avg_tone": -2.564
     },
     {
-      "source": "frontpageafricaonline.com",
+      "source": "torontotelegraph.com",
       "n": 1,
-      "avg_tone": 2.792
+      "avg_tone": -0.424
     },
     {
-      "source": "sandiegosun.com",
+      "source": "dailybreeze.com",
       "n": 1,
-      "avg_tone": 1.446
+      "avg_tone": -0.088
+    },
+    {
+      "source": "whtc.com",
+      "n": 1,
+      "avg_tone": -2.575
+    },
+    {
+      "source": "rockymounttelegram.com",
+      "n": 1,
+      "avg_tone": 0.098
+    },
+    {
+      "source": "localnews8.com",
+      "n": 1,
+      "avg_tone": -3.27
+    },
+    {
+      "source": "cp24.com",
+      "n": 1,
+      "avg_tone": -0.439
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 75
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 65
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 58
+      "theme": "LEADER",
+      "n": 86
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 57
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 53
+      "n": 81
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 52
-    },
-    {
-      "theme": "LEADER",
-      "n": 49
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 45
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 43
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 43
-    },
-    {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 42
+      "n": 77
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 41
+      "n": 75
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 39
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 70
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 37
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 68
     },
     {
-      "theme": "CRISISLEX_T03_DEAD",
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 60
+    },
+    {
+      "theme": "BORDER",
+      "n": 59
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 48
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 47
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 44
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 42
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 42
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 38
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
       "n": 37
     }
   ]
