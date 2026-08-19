@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-19T07:51:57.534451+00:00",
-  "rows_total_scanned_last_run": 3672,
-  "rows_mexico_last_run": 32,
-  "overall_avg_tone_4h": -0.443,
+  "generated_at": "2026-08-19T08:25:22.473720+00:00",
+  "rows_total_scanned_last_run": 3809,
+  "rows_mexico_last_run": 41,
+  "overall_avg_tone_4h": -0.3,
   "timeline": [
-    {
-      "time": "2026-08-16T08:00",
-      "avg_tone": -0.494,
-      "n_articles": 3
-    },
-    {
-      "time": "2026-08-16T08:15",
-      "avg_tone": -0.086,
-      "n_articles": 4
-    },
     {
       "time": "2026-08-16T08:30",
       "avg_tone": -2.072,
@@ -1408,6 +1398,16 @@
       "time": "2026-08-19T08:00",
       "avg_tone": 2.027,
       "n_articles": 10
+    },
+    {
+      "time": "2026-08-19T08:15",
+      "avg_tone": 0.139,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-19T08:30",
+      "avg_tone": -0.34,
+      "n_articles": 9
     }
   ],
   "top_sources": [
@@ -1415,6 +1415,16 @@
       "source": "santafenewmexican.com",
       "n": 5,
       "avg_tone": -2.517
+    },
+    {
+      "source": "wwd.com",
+      "n": 3,
+      "avg_tone": 1.592
+    },
+    {
+      "source": "finanznachrichten.de",
+      "n": 2,
+      "avg_tone": 1.667
     },
     {
       "source": "prnewswire.com",
@@ -1427,74 +1437,68 @@
       "avg_tone": -1.714
     },
     {
-      "source": "finanznachrichten.de",
+      "source": "talkradio960.com",
       "n": 1,
-      "avg_tone": 6.792
+      "avg_tone": 3.597
     },
     {
-      "source": "indiatimes.com",
+      "source": "aliran.com",
       "n": 1,
-      "avg_tone": 0.635
+      "avg_tone": -4.917
     },
     {
-      "source": "mauinow.com",
+      "source": "ocregister.com",
       "n": 1,
-      "avg_tone": -4.823
+      "avg_tone": -0.088
     },
     {
-      "source": "rutlandherald.com",
+      "source": "manilatimes.net",
       "n": 1,
-      "avg_tone": 0.098
+      "avg_tone": -3.07
     },
     {
-      "source": "thepeninsulaqatar.com",
-      "n": 1,
-      "avg_tone": 3.349
-    },
-    {
-      "source": "napavalleyregister.com",
-      "n": 1,
-      "avg_tone": 3.755
-    },
-    {
-      "source": "deccanchronicle.com",
-      "n": 1,
-      "avg_tone": 4.478
-    },
-    {
-      "source": "foxnews.com",
-      "n": 1,
-      "avg_tone": -0.423
-    },
-    {
-      "source": "allafrica.com",
-      "n": 1,
-      "avg_tone": -10.293
-    },
-    {
-      "source": "foodsafetynews.com",
-      "n": 1,
-      "avg_tone": -7.75
-    },
-    {
-      "source": "medicinehatnews.com",
+      "source": "timesfreepress.com",
       "n": 1,
       "avg_tone": 0.097
     },
     {
-      "source": "southasianpost.com",
+      "source": "wastedive.com",
       "n": 1,
-      "avg_tone": -1.697
+      "avg_tone": -1.42
+    },
+    {
+      "source": "presstelegram.com",
+      "n": 1,
+      "avg_tone": -0.088
+    },
+    {
+      "source": "asahi.com",
+      "n": 1,
+      "avg_tone": -0.413
+    },
+    {
+      "source": "investegate.co.uk",
+      "n": 1,
+      "avg_tone": 3.777
+    },
+    {
+      "source": "countrylife.co.uk",
+      "n": 1,
+      "avg_tone": 0.691
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
+      "theme": "WB_698_TRADE",
       "n": 44
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 39
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 40
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 32
     },
     {
       "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
@@ -1502,51 +1506,47 @@
     },
     {
       "theme": "AFFECT",
-      "n": 26
+      "n": 29
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 25
+    },
+    {
+      "theme": "ENV_FISHERY",
+      "n": 25
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 24
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 24
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 23
     },
     {
       "theme": "TAX_FNCACT_STUDENTS",
       "n": 23
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 22
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 21
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
+      "theme": "LEADER",
       "n": 20
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
+      "theme": "WB_840_JUSTICE",
+      "n": 20
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
       "n": 19
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 19
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 19
-    },
-    {
-      "theme": "DISPLACED",
-      "n": 19
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 18
-    },
-    {
-      "theme": "TAX_DISEASE_DENGUE",
-      "n": 17
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 16
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 16
     }
   ]
 }
