@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-19T11:16:56.650363+00:00",
-  "rows_total_scanned_last_run": 4354,
-  "rows_mexico_last_run": 43,
-  "overall_avg_tone_4h": -0.043,
+  "generated_at": "2026-08-19T11:47:17.138210+00:00",
+  "rows_total_scanned_last_run": 4376,
+  "rows_mexico_last_run": 41,
+  "overall_avg_tone_4h": -0.041,
   "timeline": [
-    {
-      "time": "2026-08-16T11:30",
-      "avg_tone": -1.046,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-08-16T11:45",
-      "avg_tone": 0.685,
-      "n_articles": 8
-    },
     {
       "time": "2026-08-16T12:00",
       "avg_tone": 0.478,
@@ -1403,145 +1393,155 @@
       "time": "2026-08-19T11:15",
       "avg_tone": -2.162,
       "n_articles": 9
+    },
+    {
+      "time": "2026-08-19T11:30",
+      "avg_tone": -1.518,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-08-19T11:45",
+      "avg_tone": -1.218,
+      "n_articles": 6
     }
   ],
   "top_sources": [
     {
-      "source": "mexicoledger.com",
-      "n": 3,
-      "avg_tone": 4.019
-    },
-    {
-      "source": "iheart.com",
+      "source": "memphisflyer.com",
       "n": 2,
-      "avg_tone": 6.039
+      "avg_tone": -0.459
     },
     {
-      "source": "sci-tech-today.com",
+      "source": "hawaiitribune-herald.com",
       "n": 2,
-      "avg_tone": 3.236
+      "avg_tone": -6.641
     },
     {
-      "source": "thewalrus.ca",
-      "n": 1,
-      "avg_tone": -3.809
+      "source": "news.am",
+      "n": 2,
+      "avg_tone": -5.04
     },
     {
-      "source": "voa.gov",
-      "n": 1,
-      "avg_tone": -6.007
+      "source": "jamaica-gleaner.com",
+      "n": 2,
+      "avg_tone": -0.152
     },
     {
-      "source": "samaa.tv",
+      "source": "newser.com",
       "n": 1,
-      "avg_tone": -1.24
+      "avg_tone": -3.614
     },
     {
-      "source": "westhawaiitoday.com",
+      "source": "redlandsdailyfacts.com",
       "n": 1,
-      "avg_tone": -8.64
+      "avg_tone": -0.088
     },
     {
-      "source": "ktbb.com",
+      "source": "el-balad.com",
       "n": 1,
-      "avg_tone": -7.269
+      "avg_tone": -4.819
     },
     {
-      "source": "hot967fm.com",
+      "source": "yahoo.com",
       "n": 1,
-      "avg_tone": 1.546
+      "avg_tone": 2.132
     },
     {
-      "source": "motherearthnews.com",
+      "source": "indiatimes.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -0.281
     },
     {
-      "source": "theintermountain.com",
+      "source": "postregister.com",
       "n": 1,
-      "avg_tone": 6.885
+      "avg_tone": 0.098
     },
     {
-      "source": "business-standard.com",
+      "source": "union-bulletin.com",
       "n": 1,
-      "avg_tone": -0.928
+      "avg_tone": 0.189
     },
     {
-      "source": "bostonglobe.com",
+      "source": "insidehalton.com",
       "n": 1,
-      "avg_tone": 1.474
+      "avg_tone": 2.273
     },
     {
-      "source": "latimes.com",
+      "source": "idahopress.com",
       "n": 1,
-      "avg_tone": -2.849
+      "avg_tone": 0.098
     },
     {
-      "source": "wkvi.com",
+      "source": "philanthropy.com",
       "n": 1,
-      "avg_tone": 3.451
+      "avg_tone": -0.302
+    },
+    {
+      "source": "theepochtimes.com",
+      "n": 1,
+      "avg_tone": -0.253
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_2670_JOBS",
-      "n": 60
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 57
-    },
-    {
       "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 50
-    },
-    {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
       "n": 48
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 47
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 46
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 42
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 44
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 40
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 38
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 35
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 34
+      "theme": "WB_2670_JOBS",
+      "n": 39
     },
     {
       "theme": "TAX_FNCACT_ATTORNEY",
-      "n": 33
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 33
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 32
+      "n": 37
     },
     {
       "theme": "LEADER",
-      "n": 32
+      "n": 35
     },
     {
-      "theme": "WB_723_PUBLIC_ADMINISTRATION",
-      "n": 32
+      "theme": "KILL",
+      "n": 30
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 30
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 29
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 29
+    },
+    {
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 28
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 28
+    },
+    {
+      "theme": "TAX_FNCACT_MAN",
+      "n": 27
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 27
+    },
+    {
+      "theme": "TRIAL",
+      "n": 27
     }
   ]
 }
