@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-19T03:56:55.462542+00:00",
-  "rows_total_scanned_last_run": 3259,
-  "rows_mexico_last_run": 51,
-  "overall_avg_tone_4h": -0.687,
+  "generated_at": "2026-08-19T04:32:23.066752+00:00",
+  "rows_total_scanned_last_run": 3206,
+  "rows_mexico_last_run": 57,
+  "overall_avg_tone_4h": -0.838,
   "timeline": [
-    {
-      "time": "2026-08-16T04:00",
-      "avg_tone": 1.204,
-      "n_articles": 2
-    },
-    {
-      "time": "2026-08-16T04:15",
-      "avg_tone": -6.319,
-      "n_articles": 2
-    },
-    {
-      "time": "2026-08-16T04:30",
-      "avg_tone": -2.33,
-      "n_articles": 11
-    },
     {
       "time": "2026-08-16T04:45",
       "avg_tone": 1.302,
@@ -1408,13 +1393,48 @@
       "time": "2026-08-19T04:00",
       "avg_tone": -0.379,
       "n_articles": 12
+    },
+    {
+      "time": "2026-08-19T04:15",
+      "avg_tone": -0.871,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-08-19T04:30",
+      "avg_tone": -1.01,
+      "n_articles": 14
     }
   ],
   "top_sources": [
     {
+      "source": "prnewswire.com",
+      "n": 3,
+      "avg_tone": 1.751
+    },
+    {
       "source": "kesq.com",
       "n": 3,
       "avg_tone": -3.332
+    },
+    {
+      "source": "dailypolitical.com",
+      "n": 2,
+      "avg_tone": 2.591
+    },
+    {
+      "source": "abqjournal.com",
+      "n": 2,
+      "avg_tone": -6.652
+    },
+    {
+      "source": "texarkanagazette.com",
+      "n": 2,
+      "avg_tone": -3.525
+    },
+    {
+      "source": "bignewsnetwork.com",
+      "n": 2,
+      "avg_tone": 0.511
     },
     {
       "source": "whbl.com",
@@ -1432,121 +1452,96 @@
       "avg_tone": -0.142
     },
     {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -0.197
-    },
-    {
-      "source": "mankatofreepress.com",
-      "n": 2,
-      "avg_tone": -5.161
-    },
-    {
-      "source": "theepochtimes.com",
-      "n": 2,
-      "avg_tone": -1.993
-    },
-    {
-      "source": "valleycenter.com",
+      "source": "bohemian.com",
       "n": 1,
-      "avg_tone": 4.607
+      "avg_tone": 3.652
     },
     {
-      "source": "yakimaherald.com",
+      "source": "thesun.ng",
       "n": 1,
-      "avg_tone": 0.098
+      "avg_tone": -3.026
     },
     {
-      "source": "wsau.com",
+      "source": "10news.com",
       "n": 1,
-      "avg_tone": 0.84
+      "avg_tone": -4.533
     },
     {
-      "source": "netscape.com",
+      "source": "hermistonherald.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": 7.488
     },
     {
-      "source": "2news.com",
+      "source": "frontpageafricaonline.com",
       "n": 1,
-      "avg_tone": 0.098
+      "avg_tone": 2.792
     },
     {
-      "source": "scmp.com",
+      "source": "sandiegosun.com",
       "n": 1,
-      "avg_tone": -5.909
-    },
-    {
-      "source": "abcnews.com",
-      "n": 1,
-      "avg_tone": -1.266
-    },
-    {
-      "source": "therecordlive.com",
-      "n": 1,
-      "avg_tone": 1.761
+      "avg_tone": 1.446
     }
   ],
   "top_themes": [
     {
-      "theme": "BORDER",
-      "n": 88
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 70
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 75
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 62
+      "n": 65
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 58
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 55
+      "n": 57
     },
     {
-      "theme": "WB_2670_JOBS",
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
       "n": 53
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 52
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 52
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 51
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 51
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 51
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 51
+      "theme": "LEADER",
+      "n": 49
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 47
-    },
-    {
-      "theme": "TAX_FNCACT_AGENTS",
       "n": 45
     },
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 40
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 43
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 43
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 42
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 41
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 39
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 37
+    },
+    {
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 37
     }
   ]
 }
