@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-19T23:05:45.586875+00:00",
-  "rows_total_scanned_last_run": 4785,
+  "generated_at": "2026-08-19T23:34:09.831922+00:00",
+  "rows_total_scanned_last_run": 4649,
   "rows_mexico_last_run": 94,
-  "overall_avg_tone_4h": -1.557,
+  "overall_avg_tone_4h": -1.647,
   "timeline": [
-    {
-      "time": "2026-08-16T23:15",
-      "avg_tone": 0.527,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-08-16T23:30",
-      "avg_tone": -1.936,
-      "n_articles": 1
-    },
     {
       "time": "2026-08-16T23:45",
       "avg_tone": -0.442,
@@ -1408,12 +1398,17 @@
       "time": "2026-08-19T23:15",
       "avg_tone": -2.966,
       "n_articles": 25
+    },
+    {
+      "time": "2026-08-19T23:30",
+      "avg_tone": -1.607,
+      "n_articles": 22
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 20,
+      "n": 19,
       "avg_tone": -7.57
     },
     {
@@ -1425,6 +1420,16 @@
       "source": "presstelegram.com",
       "n": 3,
       "avg_tone": -1.828
+    },
+    {
+      "source": "winnipegfreepress.com",
+      "n": 2,
+      "avg_tone": 0.959
+    },
+    {
+      "source": "theprovince.com",
+      "n": 2,
+      "avg_tone": -0.425
     },
     {
       "source": "pasadenastarnews.com",
@@ -1457,96 +1462,86 @@
       "avg_tone": 2.476
     },
     {
-      "source": "5280.com",
-      "n": 2,
-      "avg_tone": 1.11
+      "source": "pilotonline.com",
+      "n": 1,
+      "avg_tone": -6.14
     },
     {
-      "source": "kffm.com",
+      "source": "ksl.com",
       "n": 1,
-      "avg_tone": 0.367
+      "avg_tone": 0.131
     },
     {
-      "source": "intouchweekly.com",
+      "source": "postandcourier.com",
       "n": 1,
-      "avg_tone": 2.132
+      "avg_tone": 3.663
     },
     {
-      "source": "latimes.com",
+      "source": "sun-sentinel.com",
       "n": 1,
-      "avg_tone": 2.109
-    },
-    {
-      "source": "windsorstar.com",
-      "n": 1,
-      "avg_tone": -1.915
-    },
-    {
-      "source": "clickondetroit.com",
-      "n": 1,
-      "avg_tone": -0.583
+      "avg_tone": -0.211
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 192
+      "n": 178
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 165
+      "n": 172
     },
     {
       "theme": "TRIAL",
-      "n": 127
+      "n": 129
     },
     {
       "theme": "TAX_FNCACT_ATTORNEY",
-      "n": 100
+      "n": 102
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 94
+      "n": 87
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 93
+      "n": 87
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 92
+      "n": 86
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 92
+      "n": 86
     },
     {
       "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 91
+      "n": 85
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 82
     },
     {
       "theme": "LEADER",
-      "n": 84
+      "n": 82
     },
     {
       "theme": "TAX_FNCACT_DISTRICT_ATTORNEY",
       "n": 81
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 79
-    },
-    {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 78
+      "n": 74
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
+      "theme": "TAX_ETHNICITY_AMERICAN",
       "n": 73
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 72
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 70
     }
   ]
 }
