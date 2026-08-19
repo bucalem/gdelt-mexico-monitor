@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-19T16:20:18.548956+00:00",
-  "rows_total_scanned_last_run": 6092,
-  "rows_mexico_last_run": 96,
-  "overall_avg_tone_4h": -0.291,
+  "generated_at": "2026-08-19T16:53:54.825034+00:00",
+  "rows_total_scanned_last_run": 6498,
+  "rows_mexico_last_run": 81,
+  "overall_avg_tone_4h": -0.04,
   "timeline": [
-    {
-      "time": "2026-08-16T16:30",
-      "avg_tone": -0.447,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-16T16:45",
-      "avg_tone": 0.461,
-      "n_articles": 11
-    },
     {
       "time": "2026-08-16T17:00",
       "avg_tone": -0.868,
@@ -1403,9 +1393,59 @@
       "time": "2026-08-19T16:15",
       "avg_tone": -0.005,
       "n_articles": 23
+    },
+    {
+      "time": "2026-08-19T16:30",
+      "avg_tone": 0.194,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-08-19T16:45",
+      "avg_tone": 0.982,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-19T17:00",
+      "avg_tone": 0.711,
+      "n_articles": 28
     }
   ],
   "top_sources": [
+    {
+      "source": "tickerreport.com",
+      "n": 3,
+      "avg_tone": 2.251
+    },
+    {
+      "source": "riotimesonline.com",
+      "n": 2,
+      "avg_tone": -1.179
+    },
+    {
+      "source": "bignewsnetwork.com",
+      "n": 2,
+      "avg_tone": -0.739
+    },
+    {
+      "source": "deadline.com",
+      "n": 2,
+      "avg_tone": 3.708
+    },
+    {
+      "source": "dailycamera.com",
+      "n": 2,
+      "avg_tone": 1.052
+    },
+    {
+      "source": "cagesideseats.com",
+      "n": 2,
+      "avg_tone": 4.219
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 0.998
+    },
     {
       "source": "courant.com",
       "n": 2,
@@ -1417,131 +1457,96 @@
       "avg_tone": -2.573
     },
     {
-      "source": "wyomingnewsnow.tv",
-      "n": 2,
-      "avg_tone": 1.308
-    },
-    {
-      "source": "ktbb.com",
-      "n": 2,
-      "avg_tone": -0.121
-    },
-    {
-      "source": "sun-sentinel.com",
-      "n": 2,
-      "avg_tone": 0.078
-    },
-    {
-      "source": "thetimes-tribune.com",
-      "n": 2,
-      "avg_tone": 0.078
-    },
-    {
-      "source": "republicanherald.com",
-      "n": 2,
-      "avg_tone": 0.078
-    },
-    {
-      "source": "orlandosentinel.com",
-      "n": 2,
-      "avg_tone": -2.951
-    },
-    {
-      "source": "wisn.com",
+      "source": "rcrwireless.com",
       "n": 1,
-      "avg_tone": 0.38
+      "avg_tone": 0.17
     },
     {
-      "source": "radiox.co.uk",
+      "source": "coventryobserver.co.uk",
       "n": 1,
-      "avg_tone": 0.903
+      "avg_tone": 1.095
     },
     {
-      "source": "gq.com",
+      "source": "newjerseytelegraph.com",
       "n": 1,
-      "avg_tone": 1.362
+      "avg_tone": 4.83
     },
     {
-      "source": "wwaytv3.com",
+      "source": "yahoo.com",
       "n": 1,
-      "avg_tone": -0.25
+      "avg_tone": -0.879
     },
     {
-      "source": "orangeville.com",
+      "source": "bgr.com",
       "n": 1,
-      "avg_tone": 2.273
+      "avg_tone": -0.993
     },
     {
-      "source": "havanatimes.org",
+      "source": "ktsa.com",
       "n": 1,
-      "avg_tone": -4.009
-    },
-    {
-      "source": "miragenews.com",
-      "n": 1,
-      "avg_tone": -1.266
+      "avg_tone": -1.795
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_WORLDMAMMALS_DOGS",
-      "n": 241
-    },
-    {
-      "theme": "TAX_FNCACT_DIRECTOR",
-      "n": 110
-    },
-    {
-      "theme": "TAX_WORLDMAMMALS_CATS",
-      "n": 108
+      "n": 145
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 106
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 97
+      "n": 85
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 97
+      "n": 79
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 96
-    },
-    {
-      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
-      "n": 92
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 84
-    },
-    {
-      "theme": "TAX_FNCACT_CANDIDATES",
-      "n": 80
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 78
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 76
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 75
-    },
-    {
-      "theme": "EDUCATION",
+      "theme": "TAX_FNCACT_DIRECTOR",
       "n": 74
     },
     {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 69
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 66
+    },
+    {
+      "theme": "TAX_WORLDMAMMALS_CATS",
+      "n": 65
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 64
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 63
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 61
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 56
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 56
+    },
+    {
       "theme": "LEADER",
-      "n": 73
+      "n": 55
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 54
+    },
+    {
+      "theme": "TAX_ETHNICITY_CHINESE",
+      "n": 52
     }
   ]
 }
