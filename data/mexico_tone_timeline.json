@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-19T22:43:06.567829+00:00",
-  "rows_total_scanned_last_run": 5225,
-  "rows_mexico_last_run": 89,
-  "overall_avg_tone_4h": -1.246,
+  "generated_at": "2026-08-19T23:05:45.586875+00:00",
+  "rows_total_scanned_last_run": 4785,
+  "rows_mexico_last_run": 94,
+  "overall_avg_tone_4h": -1.557,
   "timeline": [
-    {
-      "time": "2026-08-16T22:45",
-      "avg_tone": -1.696,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-16T23:00",
-      "avg_tone": 1.648,
-      "n_articles": 4
-    },
     {
       "time": "2026-08-16T23:15",
       "avg_tone": 0.527,
@@ -1408,23 +1398,58 @@
       "time": "2026-08-19T22:45",
       "avg_tone": -2.099,
       "n_articles": 24
+    },
+    {
+      "time": "2026-08-19T23:00",
+      "avg_tone": -3.425,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-08-19T23:15",
+      "avg_tone": -2.966,
+      "n_articles": 25
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 18,
+      "n": 20,
       "avg_tone": -7.57
     },
     {
-      "source": "manilatimes.net",
-      "n": 4,
-      "avg_tone": 2.957
+      "source": "dailynews.com",
+      "n": 3,
+      "avg_tone": -1.828
     },
     {
       "source": "presstelegram.com",
       "n": 3,
       "avg_tone": -1.828
+    },
+    {
+      "source": "pasadenastarnews.com",
+      "n": 2,
+      "avg_tone": -3.427
+    },
+    {
+      "source": "nbcchicago.com",
+      "n": 2,
+      "avg_tone": -2.489
+    },
+    {
+      "source": "japantoday.com",
+      "n": 2,
+      "avg_tone": -1.266
+    },
+    {
+      "source": "dailypress.com",
+      "n": 2,
+      "avg_tone": -3.44
+    },
+    {
+      "source": "thebusinessjournal.com",
+      "n": 2,
+      "avg_tone": -0.862
     },
     {
       "source": "themarketsdaily.com",
@@ -1437,116 +1462,91 @@
       "avg_tone": 1.11
     },
     {
-      "source": "miragenews.com",
-      "n": 2,
-      "avg_tone": 3.1
-    },
-    {
-      "source": "929nin.com",
-      "n": 2,
-      "avg_tone": -1.099
-    },
-    {
-      "source": "squatchrocks.com",
-      "n": 2,
-      "avg_tone": -1.099
-    },
-    {
-      "source": "abc7amarillo.com",
+      "source": "kffm.com",
       "n": 1,
-      "avg_tone": -1.676
+      "avg_tone": 0.367
     },
     {
-      "source": "phoenixnewtimes.com",
+      "source": "intouchweekly.com",
       "n": 1,
-      "avg_tone": 2.951
+      "avg_tone": 2.132
     },
     {
-      "source": "cochranetimes.com",
+      "source": "latimes.com",
       "n": 1,
-      "avg_tone": -7.383
+      "avg_tone": 2.109
     },
     {
-      "source": "governing.com",
+      "source": "windsorstar.com",
       "n": 1,
-      "avg_tone": -3.623
+      "avg_tone": -1.915
     },
     {
-      "source": "knsiradio.com",
+      "source": "clickondetroit.com",
       "n": 1,
-      "avg_tone": -6.25
-    },
-    {
-      "source": "nbcdfw.com",
-      "n": 1,
-      "avg_tone": -2.597
-    },
-    {
-      "source": "fox9.com",
-      "n": 1,
-      "avg_tone": -8.171
+      "avg_tone": -0.583
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_698_TRADE",
-      "n": 144
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 192
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 141
+      "theme": "WB_698_TRADE",
+      "n": 165
+    },
+    {
+      "theme": "TRIAL",
+      "n": 127
+    },
+    {
+      "theme": "TAX_FNCACT_ATTORNEY",
+      "n": 100
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
       "n": 94
     },
     {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 90
-    },
-    {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 90
+      "n": 93
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 90
+      "n": 92
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 90
+      "n": 92
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 84
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 70
-    },
-    {
-      "theme": "TRIAL",
-      "n": 70
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 91
     },
     {
       "theme": "LEADER",
-      "n": 64
+      "n": 84
+    },
+    {
+      "theme": "TAX_FNCACT_DISTRICT_ATTORNEY",
+      "n": 81
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 79
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 78
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 63
-    },
-    {
-      "theme": "TAX_FNCACT_FARMERS",
-      "n": 62
+      "n": 73
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 59
-    },
-    {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 56
+      "n": 72
     }
   ]
 }
