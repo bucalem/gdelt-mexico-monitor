@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-19T19:56:50.383878+00:00",
-  "rows_total_scanned_last_run": 6020,
-  "rows_mexico_last_run": 63,
-  "overall_avg_tone_4h": 0.146,
+  "generated_at": "2026-08-19T20:21:15.645503+00:00",
+  "rows_total_scanned_last_run": 5931,
+  "rows_mexico_last_run": 78,
+  "overall_avg_tone_4h": 0.048,
   "timeline": [
-    {
-      "time": "2026-08-16T20:00",
-      "avg_tone": -2.86,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-16T20:15",
-      "avg_tone": -2.666,
-      "n_articles": 12
-    },
     {
       "time": "2026-08-16T20:30",
       "avg_tone": -0.859,
@@ -1408,9 +1398,49 @@
       "time": "2026-08-19T20:00",
       "avg_tone": 0.485,
       "n_articles": 19
+    },
+    {
+      "time": "2026-08-19T20:15",
+      "avg_tone": -1.644,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-08-19T20:30",
+      "avg_tone": -0.047,
+      "n_articles": 26
     }
   ],
   "top_sources": [
+    {
+      "source": "theepochtimes.com",
+      "n": 2,
+      "avg_tone": -2.045
+    },
+    {
+      "source": "screencrush.com",
+      "n": 2,
+      "avg_tone": -1.1
+    },
+    {
+      "source": "manilatimes.net",
+      "n": 2,
+      "avg_tone": 4.124
+    },
+    {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": -0.572
+    },
+    {
+      "source": "ipsnews.net",
+      "n": 2,
+      "avg_tone": -2.288
+    },
+    {
+      "source": "sgvtribune.com",
+      "n": 2,
+      "avg_tone": -3.74
+    },
     {
       "source": "latintimes.com",
       "n": 2,
@@ -1422,131 +1452,101 @@
       "avg_tone": -1.774
     },
     {
-      "source": "whittierdailynews.com",
-      "n": 2,
-      "avg_tone": -3.74
-    },
-    {
-      "source": "fox26houston.com",
-      "n": 2,
-      "avg_tone": -1.604
-    },
-    {
-      "source": "webwire.com",
+      "source": "bankinfosecurity.com",
       "n": 1,
-      "avg_tone": 1.188
+      "avg_tone": -4.628
     },
     {
-      "source": "lakenewsonline.com",
+      "source": "advocate-news.com",
       "n": 1,
-      "avg_tone": 1.806
+      "avg_tone": -0.739
     },
     {
-      "source": "niagarafallsreview.ca",
+      "source": "pehub.com",
       "n": 1,
-      "avg_tone": 3.261
+      "avg_tone": -2.778
     },
     {
-      "source": "watoday.com.au",
+      "source": "kcby.com",
       "n": 1,
-      "avg_tone": 2.066
+      "avg_tone": 0.395
     },
     {
-      "source": "kbtx.com",
+      "source": "robbreport.com",
       "n": 1,
-      "avg_tone": -1.774
+      "avg_tone": 4.14
     },
     {
-      "source": "natlawreview.com",
+      "source": "chroniclelive.co.uk",
       "n": 1,
-      "avg_tone": 1.547
+      "avg_tone": 0.136
     },
     {
-      "source": "mix108.com",
+      "source": "hngn.com",
       "n": 1,
-      "avg_tone": -2.566
-    },
-    {
-      "source": "gringogazette.com",
-      "n": 1,
-      "avg_tone": 0.192
-    },
-    {
-      "source": "houstonpublicmedia.org",
-      "n": 1,
-      "avg_tone": -1.741
-    },
-    {
-      "source": "guelphmercury.com",
-      "n": 1,
-      "avg_tone": 2.273
-    },
-    {
-      "source": "bleedingcool.com",
-      "n": 1,
-      "avg_tone": 1.195
+      "avg_tone": -4.925
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 90
+      "n": 155
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 74
-    },
-    {
-      "theme": "BORDER",
-      "n": 73
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 70
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 65
+      "n": 144
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 63
+      "n": 111
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 62
-    },
-    {
-      "theme": "TAX_WORLDMAMMALS_DOGS",
-      "n": 48
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 45
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 43
+      "n": 88
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 42
-    },
-    {
-      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
-      "n": 41
-    },
-    {
-      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
-      "n": 41
+      "n": 87
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 38
+      "n": 81
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 78
+    },
+    {
+      "theme": "LEADER",
+      "n": 68
+    },
+    {
+      "theme": "TAX_WORLDMAMMALS_DOGS",
+      "n": 68
+    },
+    {
+      "theme": "BORDER",
+      "n": 63
+    },
+    {
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 55
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 50
+    },
+    {
+      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
+      "n": 47
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 36
+      "n": 45
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 44
     }
   ]
 }
