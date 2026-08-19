@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-19T14:50:39.487862+00:00",
-  "rows_total_scanned_last_run": 5470,
-  "rows_mexico_last_run": 83,
-  "overall_avg_tone_4h": -0.563,
+  "generated_at": "2026-08-19T15:21:31.079243+00:00",
+  "rows_total_scanned_last_run": 5949,
+  "rows_mexico_last_run": 85,
+  "overall_avg_tone_4h": -0.449,
   "timeline": [
-    {
-      "time": "2026-08-16T15:00",
-      "avg_tone": -1.305,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-08-16T15:15",
-      "avg_tone": -0.951,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-16T15:30",
       "avg_tone": -0.069,
@@ -1403,6 +1393,21 @@
       "time": "2026-08-19T14:45",
       "avg_tone": 0.222,
       "n_articles": 30
+    },
+    {
+      "time": "2026-08-19T15:00",
+      "avg_tone": 0.579,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-08-19T15:15",
+      "avg_tone": -0.077,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-08-19T15:30",
+      "avg_tone": -0.858,
+      "n_articles": 26
     }
   ],
   "top_sources": [
@@ -1413,135 +1418,135 @@
     },
     {
       "source": "fool.com",
-      "n": 6,
-      "avg_tone": 2.063
+      "n": 3,
+      "avg_tone": 2.399
     },
     {
-      "source": "sandiegouniontribune.com",
+      "source": "republicanherald.com",
       "n": 2,
-      "avg_tone": -2.837
+      "avg_tone": 0.078
     },
     {
-      "source": "wral.com",
-      "n": 1,
-      "avg_tone": -1.789
+      "source": "orlandosentinel.com",
+      "n": 2,
+      "avg_tone": -2.951
+    },
+    {
+      "source": "stcatharinesstandard.ca",
+      "n": 2,
+      "avg_tone": 0.194
     },
     {
       "source": "vietnamnews.vn",
-      "n": 1,
-      "avg_tone": 4.119
+      "n": 2,
+      "avg_tone": 4.934
     },
     {
-      "source": "localnews8.com",
-      "n": 1,
-      "avg_tone": -1.776
+      "source": "gringogazette.com",
+      "n": 2,
+      "avg_tone": 0.409
     },
     {
-      "source": "coventrytelegraph.net",
+      "source": "hngn.com",
       "n": 1,
-      "avg_tone": -3.074
+      "avg_tone": -3.098
     },
     {
-      "source": "kaieteurnewsonline.com",
+      "source": "sgvtribune.com",
       "n": 1,
-      "avg_tone": 0.189
+      "avg_tone": 1.312
     },
     {
-      "source": "wsiu.org",
+      "source": "wcsufm.org",
       "n": 1,
       "avg_tone": -1.29
     },
     {
-      "source": "metro.co.uk",
+      "source": "clickorlando.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -1.706
     },
     {
-      "source": "kokomotribune.com",
+      "source": "bostonherald.com",
       "n": 1,
-      "avg_tone": -0.428
+      "avg_tone": 1.793
     },
     {
-      "source": "timescall.com",
+      "source": "onegreenplanet.org",
       "n": 1,
-      "avg_tone": -1.637
+      "avg_tone": 5.891
     },
     {
-      "source": "wxxinews.org",
+      "source": "kissfm969.com",
       "n": 1,
-      "avg_tone": -1.29
+      "avg_tone": 0.484
     },
     {
-      "source": "denverpost.com",
+      "source": "nvdaily.com",
       "n": 1,
-      "avg_tone": 0.762
-    },
-    {
-      "source": "toronto.com",
-      "n": 1,
-      "avg_tone": 2.303
+      "avg_tone": -1.795
     }
   ],
   "top_themes": [
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 179
+      "theme": "TAX_WORLDMAMMALS_DOGS",
+      "n": 225
     },
     {
-      "theme": "TAX_WORLDMAMMALS_DOGS",
-      "n": 178
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 142
+    },
+    {
+      "theme": "TAX_FNCACT_DIRECTOR",
+      "n": 130
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 128
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 112
+      "n": 123
     },
     {
       "theme": "BORDER",
-      "n": 109
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 93
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 81
-    },
-    {
-      "theme": "TAX_WORLDMAMMALS_CATS",
-      "n": 80
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 80
-    },
-    {
-      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
-      "n": 79
-    },
-    {
-      "theme": "LEADER",
-      "n": 72
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 72
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 71
+      "n": 116
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 69
+      "n": 102
+    },
+    {
+      "theme": "TAX_WORLDMAMMALS_CATS",
+      "n": 101
+    },
+    {
+      "theme": "LEADER",
+      "n": 95
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 90
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 89
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 80
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 77
+    },
+    {
+      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
+      "n": 72
     },
     {
       "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
-      "n": 68
+      "n": 71
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 71
     }
   ]
 }
