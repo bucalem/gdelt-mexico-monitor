@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-19T13:24:11.042249+00:00",
-  "rows_total_scanned_last_run": 5178,
-  "rows_mexico_last_run": 67,
-  "overall_avg_tone_4h": -0.554,
+  "generated_at": "2026-08-19T14:03:56.142628+00:00",
+  "rows_total_scanned_last_run": 5283,
+  "rows_mexico_last_run": 73,
+  "overall_avg_tone_4h": -0.556,
   "timeline": [
-    {
-      "time": "2026-08-16T13:30",
-      "avg_tone": -0.533,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-16T13:45",
-      "avg_tone": -0.033,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-08-16T14:00",
-      "avg_tone": -0.363,
-      "n_articles": 15
-    },
     {
       "time": "2026-08-16T14:15",
       "avg_tone": -1.586,
@@ -1408,9 +1393,49 @@
       "time": "2026-08-19T13:30",
       "avg_tone": 0.24,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-19T13:45",
+      "avg_tone": -0.296,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-08-19T14:00",
+      "avg_tone": -0.949,
+      "n_articles": 12
     }
   ],
   "top_sources": [
+    {
+      "source": "banderasnews.com",
+      "n": 3,
+      "avg_tone": 5.556
+    },
+    {
+      "source": "kunm.org",
+      "n": 2,
+      "avg_tone": -0.813
+    },
+    {
+      "source": "kwbu.org",
+      "n": 2,
+      "avg_tone": -2.269
+    },
+    {
+      "source": "lasvegassun.com",
+      "n": 2,
+      "avg_tone": -2.738
+    },
+    {
+      "source": "shark1053.com",
+      "n": 2,
+      "avg_tone": -0.429
+    },
+    {
+      "source": "cbc.ca",
+      "n": 2,
+      "avg_tone": -0.753
+    },
     {
       "source": "yahoo.com",
       "n": 2,
@@ -1437,116 +1462,86 @@
       "avg_tone": -1.398
     },
     {
-      "source": "theglobeandmail.com",
-      "n": 2,
-      "avg_tone": 0.462
-    },
-    {
-      "source": "1079ishot.com",
-      "n": 1,
-      "avg_tone": 3.587
-    },
-    {
-      "source": "cyprus-mail.com",
-      "n": 1,
-      "avg_tone": -0.348
-    },
-    {
-      "source": "fox29.com",
-      "n": 1,
-      "avg_tone": -1.617
-    },
-    {
-      "source": "nypost.com",
-      "n": 1,
-      "avg_tone": -4.603
-    },
-    {
-      "source": "wsbradio.com",
-      "n": 1,
-      "avg_tone": -1.765
-    },
-    {
-      "source": "kasu.org",
+      "source": "wutc.org",
       "n": 1,
       "avg_tone": -1.29
     },
     {
-      "source": "just-food.com",
+      "source": "klcc.org",
       "n": 1,
-      "avg_tone": 3.596
+      "avg_tone": -1.29
     },
     {
-      "source": "latimes.com",
+      "source": "chathamdailynews.ca",
       "n": 1,
-      "avg_tone": 1.299
+      "avg_tone": -1.05
     },
     {
-      "source": "derbytelegraph.co.uk",
+      "source": "dailylocal.com",
       "n": 1,
-      "avg_tone": -3.067
+      "avg_tone": -1.637
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 88
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 85
-    },
-    {
-      "theme": "LEADER",
-      "n": 74
+      "theme": "TAX_WORLDMAMMALS_DOGS",
+      "n": 113
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 68
+      "n": 87
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 83
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 80
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 79
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 76
+    },
+    {
+      "theme": "TAX_FNCACT_WORKERS",
+      "n": 71
+    },
+    {
+      "theme": "EDUCATION",
       "n": 68
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 66
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 59
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 58
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 54
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 53
+      "n": 65
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 53
+      "n": 65
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 50
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 59
     },
     {
-      "theme": "MEDICAL",
-      "n": 46
+      "theme": "USPEC_POLICY1",
+      "n": 57
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 43
+      "theme": "TAX_FNCACT_WOMEN",
+      "n": 57
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 42
+      "theme": "TAX_FNCACT_MIDWIFE",
+      "n": 56
+    },
+    {
+      "theme": "WB_641_REPRODUCTIVE_AND_MATERNAL_HEALTH",
+      "n": 56
     }
   ]
 }
