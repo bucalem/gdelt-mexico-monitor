@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-19T19:00:14.331614+00:00",
-  "rows_total_scanned_last_run": 6329,
-  "rows_mexico_last_run": 77,
-  "overall_avg_tone_4h": 0.03,
+  "generated_at": "2026-08-19T19:35:42.275044+00:00",
+  "rows_total_scanned_last_run": 6532,
+  "rows_mexico_last_run": 66,
+  "overall_avg_tone_4h": 0.108,
   "timeline": [
-    {
-      "time": "2026-08-16T19:00",
-      "avg_tone": -4.051,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-16T19:15",
-      "avg_tone": 0.417,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-08-16T19:30",
-      "avg_tone": -0.499,
-      "n_articles": 9
-    },
     {
       "time": "2026-08-16T19:45",
       "avg_tone": -2.137,
@@ -1408,6 +1393,16 @@
       "time": "2026-08-19T19:00",
       "avg_tone": -0.47,
       "n_articles": 19
+    },
+    {
+      "time": "2026-08-19T19:15",
+      "avg_tone": -0.367,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-19T19:30",
+      "avg_tone": 0.269,
+      "n_articles": 18
     }
   ],
   "top_sources": [
@@ -1415,6 +1410,16 @@
       "source": "dailybreeze.com",
       "n": 3,
       "avg_tone": -2.098
+    },
+    {
+      "source": "whittierdailynews.com",
+      "n": 2,
+      "avg_tone": -3.74
+    },
+    {
+      "source": "fox26houston.com",
+      "n": 2,
+      "avg_tone": -1.604
     },
     {
       "source": "chinanationalnews.com",
@@ -1437,116 +1442,106 @@
       "avg_tone": 1.342
     },
     {
-      "source": "ocregister.com",
-      "n": 2,
-      "avg_tone": 1.342
+      "source": "q985online.com",
+      "n": 1,
+      "avg_tone": -2.562
+    },
+    {
+      "source": "engadget.com",
+      "n": 1,
+      "avg_tone": 3.869
     },
     {
       "source": "prnewswire.com",
-      "n": 2,
-      "avg_tone": 6.349
+      "n": 1,
+      "avg_tone": 4.188
     },
     {
-      "source": "wkyufm.org",
+      "source": "sbnation.com",
       "n": 1,
-      "avg_tone": 3.268
+      "avg_tone": 0.199
     },
     {
-      "source": "saharareporters.com",
+      "source": "kwcdcountry.com",
       "n": 1,
-      "avg_tone": -1.861
+      "avg_tone": -1.429
     },
     {
-      "source": "cool987fm.com",
+      "source": "fox5dc.com",
       "n": 1,
-      "avg_tone": -2.517
+      "avg_tone": -0.218
     },
     {
-      "source": "fool.com",
+      "source": "proactiveinvestors.com",
       "n": 1,
-      "avg_tone": 0.815
+      "avg_tone": 0.593
     },
     {
-      "source": "foreignpolicy.com",
+      "source": "dcvelocity.com",
       "n": 1,
-      "avg_tone": -4.192
-    },
-    {
-      "source": "mediapost.com",
-      "n": 1,
-      "avg_tone": 1.129
-    },
-    {
-      "source": "mainlinemedianews.com",
-      "n": 1,
-      "avg_tone": 1.793
-    },
-    {
-      "source": "russiaherald.com",
-      "n": 1,
-      "avg_tone": -2.703
+      "avg_tone": 2.516
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_DIRECTOR",
-      "n": 124
-    },
-    {
-      "theme": "TAX_FNCACT_CONDUCTOR",
-      "n": 70
-    },
-    {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 70
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 69
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 67
-    },
-    {
-      "theme": "TAX_WORLDMAMMALS_DOGS",
       "n": 66
     },
     {
-      "theme": "LEADER",
-      "n": 61
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
+      "theme": "BORDER",
       "n": 52
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 51
+      "theme": "TAX_FNCACT_DIRECTOR",
+      "n": 50
     },
     {
-      "theme": "TAX_FNCACT_ADVISER",
-      "n": 49
+      "theme": "LEADER",
+      "n": 48
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 48
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 47
+      "n": 45
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 46
+      "theme": "EDUCATION",
+      "n": 42
     },
     {
-      "theme": "TAX_ETHNICITY_VENEZUELAN",
-      "n": 46
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 40
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_NORWEGIAN",
-      "n": 43
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 40
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 40
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 38
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 36
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 42
+      "n": 36
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 34
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 31
     }
   ]
 }
