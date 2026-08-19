@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-19T05:44:16.522147+00:00",
-  "rows_total_scanned_last_run": 3158,
-  "rows_mexico_last_run": 43,
-  "overall_avg_tone_4h": -0.774,
+  "generated_at": "2026-08-19T06:02:53.363517+00:00",
+  "rows_total_scanned_last_run": 3061,
+  "rows_mexico_last_run": 39,
+  "overall_avg_tone_4h": -0.889,
   "timeline": [
-    {
-      "time": "2026-08-16T05:45",
-      "avg_tone": 1.967,
-      "n_articles": 3
-    },
-    {
-      "time": "2026-08-16T06:00",
-      "avg_tone": -0.519,
-      "n_articles": 8
-    },
     {
       "time": "2026-08-16T06:15",
       "avg_tone": 1.514,
@@ -1408,9 +1398,19 @@
       "time": "2026-08-19T05:45",
       "avg_tone": 0.53,
       "n_articles": 11
+    },
+    {
+      "time": "2026-08-19T06:00",
+      "avg_tone": -1.29,
+      "n_articles": 9
     }
   ],
   "top_sources": [
+    {
+      "source": "asiaone.com",
+      "n": 2,
+      "avg_tone": 0.0
+    },
     {
       "source": "theglobeandmail.com",
       "n": 2,
@@ -1422,9 +1422,44 @@
       "avg_tone": -0.429
     },
     {
-      "source": "dailyadvertiser.com.au",
-      "n": 2,
-      "avg_tone": -0.719
+      "source": "galvnews.com",
+      "n": 1,
+      "avg_tone": -2.445
+    },
+    {
+      "source": "chinatechnews.com",
+      "n": 1,
+      "avg_tone": -9.091
+    },
+    {
+      "source": "geo.tv",
+      "n": 1,
+      "avg_tone": -1.146
+    },
+    {
+      "source": "ubergizmo.com",
+      "n": 1,
+      "avg_tone": 1.329
+    },
+    {
+      "source": "english.news.cn",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "singletonargus.com.au",
+      "n": 1,
+      "avg_tone": -2.074
+    },
+    {
+      "source": "dailymail.com",
+      "n": 1,
+      "avg_tone": -3.237
+    },
+    {
+      "source": "manilatimes.net",
+      "n": 1,
+      "avg_tone": 5.053
     },
     {
       "source": "bleedingcool.com",
@@ -1445,108 +1480,68 @@
       "source": "times-advocate.com",
       "n": 1,
       "avg_tone": 4.586
-    },
-    {
-      "source": "wpsdlocal6.com",
-      "n": 1,
-      "avg_tone": 0.098
-    },
-    {
-      "source": "krdo.com",
-      "n": 1,
-      "avg_tone": -3.27
-    },
-    {
-      "source": "macleayargus.com.au",
-      "n": 1,
-      "avg_tone": 0.634
-    },
-    {
-      "source": "92q.com",
-      "n": 1,
-      "avg_tone": 4.425
-    },
-    {
-      "source": "jetnation.com",
-      "n": 1,
-      "avg_tone": 1.667
-    },
-    {
-      "source": "bostonherald.com",
-      "n": 1,
-      "avg_tone": -0.088
-    },
-    {
-      "source": "dallassun.com",
-      "n": 1,
-      "avg_tone": -0.424
-    },
-    {
-      "source": "krgv.com",
-      "n": 1,
-      "avg_tone": 1.966
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 83
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 64
-    },
-    {
-      "theme": "LEADER",
-      "n": 63
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 61
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 60
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 53
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 43
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 41
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 37
+      "theme": "LEADER",
+      "n": 40
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 36
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 35
     },
     {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 32
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 35
     },
     {
-      "theme": "BORDER",
-      "n": 31
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 29
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 29
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 34
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 27
+      "n": 30
     },
     {
-      "theme": "NEGOTIATIONS",
-      "n": 25
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 29
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 28
+    },
+    {
+      "theme": "KILL",
+      "n": 24
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 24
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 23
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 23
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 22
+    },
+    {
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 22
     }
   ]
 }
