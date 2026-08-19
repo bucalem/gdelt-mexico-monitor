@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-19T15:54:30.997283+00:00",
-  "rows_total_scanned_last_run": 5754,
-  "rows_mexico_last_run": 88,
-  "overall_avg_tone_4h": -0.371,
+  "generated_at": "2026-08-19T16:20:18.548956+00:00",
+  "rows_total_scanned_last_run": 6092,
+  "rows_mexico_last_run": 96,
+  "overall_avg_tone_4h": -0.291,
   "timeline": [
-    {
-      "time": "2026-08-16T16:00",
-      "avg_tone": 0.556,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-08-16T16:15",
-      "avg_tone": -1.684,
-      "n_articles": 9
-    },
     {
       "time": "2026-08-16T16:30",
       "avg_tone": -0.447,
@@ -1408,9 +1398,24 @@
       "time": "2026-08-19T16:00",
       "avg_tone": 0.205,
       "n_articles": 23
+    },
+    {
+      "time": "2026-08-19T16:15",
+      "avg_tone": -0.005,
+      "n_articles": 23
     }
   ],
   "top_sources": [
+    {
+      "source": "courant.com",
+      "n": 2,
+      "avg_tone": 0.079
+    },
+    {
+      "source": "medicaldaily.com",
+      "n": 2,
+      "avg_tone": -2.573
+    },
     {
       "source": "wyomingnewsnow.tv",
       "n": 2,
@@ -1442,110 +1447,100 @@
       "avg_tone": -2.951
     },
     {
-      "source": "stcatharinesstandard.ca",
-      "n": 2,
-      "avg_tone": 0.194
+      "source": "wisn.com",
+      "n": 1,
+      "avg_tone": 0.38
     },
     {
-      "source": "wjcl.com",
+      "source": "radiox.co.uk",
       "n": 1,
-      "avg_tone": -1.462
+      "avg_tone": 0.903
     },
     {
-      "source": "4029tv.com",
+      "source": "gq.com",
       "n": 1,
-      "avg_tone": -1.462
+      "avg_tone": 1.362
     },
     {
-      "source": "stthomastimesjournal.com",
+      "source": "wwaytv3.com",
       "n": 1,
-      "avg_tone": -1.05
+      "avg_tone": -0.25
     },
     {
-      "source": "boredpanda.com",
+      "source": "orangeville.com",
       "n": 1,
-      "avg_tone": 1.437
+      "avg_tone": 2.273
     },
     {
-      "source": "ketr.org",
+      "source": "havanatimes.org",
       "n": 1,
-      "avg_tone": -1.308
+      "avg_tone": -4.009
     },
     {
-      "source": "pressdemocrat.com",
+      "source": "miragenews.com",
       "n": 1,
-      "avg_tone": 4.487
-    },
-    {
-      "source": "esquire.com",
-      "n": 1,
-      "avg_tone": 2.552
-    },
-    {
-      "source": "globalnews.ca",
-      "n": 1,
-      "avg_tone": -0.429
+      "avg_tone": -1.266
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_WORLDMAMMALS_DOGS",
-      "n": 240
+      "n": 241
     },
     {
       "theme": "TAX_FNCACT_DIRECTOR",
-      "n": 112
+      "n": 110
     },
     {
       "theme": "TAX_WORLDMAMMALS_CATS",
       "n": 108
     },
     {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 106
+    },
+    {
       "theme": "USPEC_POLITICS_GENERAL1",
       "n": 97
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 96
-    },
-    {
-      "theme": "TAX_FNCACT_CANDIDATES",
-      "n": 85
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 83
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 97
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 83
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 82
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 82
+      "n": 96
     },
     {
       "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
+      "n": 92
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 84
+    },
+    {
+      "theme": "TAX_FNCACT_CANDIDATES",
       "n": 80
     },
     {
-      "theme": "LEADER",
-      "n": 77
+      "theme": "MEDICAL",
+      "n": 78
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 73
+      "n": 76
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 73
+      "theme": "USPEC_POLICY1",
+      "n": 75
     },
     {
-      "theme": "MEDICAL",
+      "theme": "EDUCATION",
+      "n": 74
+    },
+    {
+      "theme": "LEADER",
       "n": 73
     }
   ]
