@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-20T11:21:30.224462+00:00",
-  "rows_total_scanned_last_run": 4654,
-  "rows_mexico_last_run": 55,
-  "overall_avg_tone_4h": -1.668,
+  "generated_at": "2026-08-20T11:49:52.285256+00:00",
+  "rows_total_scanned_last_run": 4974,
+  "rows_mexico_last_run": 57,
+  "overall_avg_tone_4h": -1.567,
   "timeline": [
-    {
-      "time": "2026-08-17T11:30",
-      "avg_tone": 0.004,
-      "n_articles": 19
-    },
-    {
-      "time": "2026-08-17T11:45",
-      "avg_tone": -1.252,
-      "n_articles": 19
-    },
     {
       "time": "2026-08-17T12:00",
       "avg_tone": 0.2,
@@ -1413,18 +1403,28 @@
       "time": "2026-08-20T11:30",
       "avg_tone": -2.52,
       "n_articles": 11
+    },
+    {
+      "time": "2026-08-20T11:45",
+      "avg_tone": -0.363,
+      "n_articles": 14
     }
   ],
   "top_sources": [
     {
+      "source": "riotimesonline.com",
+      "n": 8,
+      "avg_tone": 0.148
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 3,
+      "avg_tone": 2.403
+    },
+    {
       "source": "theglobeandmail.com",
       "n": 3,
       "avg_tone": -0.344
-    },
-    {
-      "source": "mexicoledger.com",
-      "n": 3,
-      "avg_tone": 3.939
     },
     {
       "source": "yahoo.com",
@@ -1435,11 +1435,6 @@
       "source": "theepochtimes.com",
       "n": 2,
       "avg_tone": -5.004
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 2,
-      "avg_tone": 2.492
     },
     {
       "source": "aol.co.uk",
@@ -1457,6 +1452,31 @@
       "avg_tone": 1.635
     },
     {
+      "source": "wkfr.com",
+      "n": 1,
+      "avg_tone": 6.486
+    },
+    {
+      "source": "kpbs.org",
+      "n": 1,
+      "avg_tone": -6.598
+    },
+    {
+      "source": "wellandtribune.ca",
+      "n": 1,
+      "avg_tone": -0.729
+    },
+    {
+      "source": "nme.com",
+      "n": 1,
+      "avg_tone": -1.136
+    },
+    {
+      "source": "wdiy.org",
+      "n": 1,
+      "avg_tone": -6.516
+    },
+    {
       "source": "americanthinker.com",
       "n": 1,
       "avg_tone": -0.377
@@ -1465,93 +1485,68 @@
       "source": "naharnet.com",
       "n": 1,
       "avg_tone": 0.184
-    },
-    {
-      "source": "aspenpublicradio.org",
-      "n": 1,
-      "avg_tone": -6.516
-    },
-    {
-      "source": "dailymail.com",
-      "n": 1,
-      "avg_tone": -8.23
-    },
-    {
-      "source": "houstonpress.com",
-      "n": 1,
-      "avg_tone": 3.509
-    },
-    {
-      "source": "kedm.org",
-      "n": 1,
-      "avg_tone": -6.516
-    },
-    {
-      "source": "ktbb.com",
-      "n": 1,
-      "avg_tone": 0.0
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 754
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 625
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 753
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 619
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 749
+      "n": 612
     },
     {
       "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 743
+      "n": 608
     },
     {
       "theme": "WB_1014_CRIMINAL_JUSTICE",
-      "n": 737
+      "n": 599
     },
     {
       "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
-      "n": 733
+      "n": 598
     },
     {
       "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
-      "n": 730
+      "n": 595
     },
     {
       "theme": "GRIEVANCES",
-      "n": 403
+      "n": 328
     },
     {
       "theme": "NATURAL_DISASTER_ICE",
-      "n": 257
+      "n": 214
     },
     {
       "theme": "MEDICAL",
-      "n": 246
+      "n": 205
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 245
+      "n": 202
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 234
+      "n": 195
     },
     {
       "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
-      "n": 229
+      "n": 189
     },
     {
       "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 223
+      "n": 184
     },
     {
       "theme": "IMMIGRATION",
-      "n": 219
+      "n": 180
     }
   ]
 }
