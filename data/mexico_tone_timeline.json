@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-20T07:23:03.460277+00:00",
-  "rows_total_scanned_last_run": 3476,
-  "rows_mexico_last_run": 29,
-  "overall_avg_tone_4h": -0.528,
+  "generated_at": "2026-08-20T08:02:44.153928+00:00",
+  "rows_total_scanned_last_run": 3613,
+  "rows_mexico_last_run": 35,
+  "overall_avg_tone_4h": -0.888,
   "timeline": [
-    {
-      "time": "2026-08-17T07:30",
-      "avg_tone": 1.136,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-08-17T07:45",
-      "avg_tone": 0.016,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-17T08:00",
-      "avg_tone": -0.551,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-17T08:15",
       "avg_tone": 0.032,
@@ -1408,145 +1393,155 @@
       "time": "2026-08-20T07:30",
       "avg_tone": -1.052,
       "n_articles": 10
+    },
+    {
+      "time": "2026-08-20T07:45",
+      "avg_tone": -1.721,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-08-20T08:00",
+      "avg_tone": -1.457,
+      "n_articles": 14
     }
   ],
   "top_sources": [
+    {
+      "source": "dailygazette.com",
+      "n": 2,
+      "avg_tone": -3.34
+    },
     {
       "source": "eugeneweekly.com",
       "n": 2,
       "avg_tone": -0.322
     },
     {
-      "source": "clickondetroit.com",
+      "source": "bssnews.net",
       "n": 1,
-      "avg_tone": -4.924
+      "avg_tone": -4.386
     },
     {
-      "source": "wandtv.com",
+      "source": "themarketsdaily.com",
       "n": 1,
-      "avg_tone": 0.182
+      "avg_tone": 1.639
     },
     {
-      "source": "heraldstaronline.com",
+      "source": "the72.co.uk",
       "n": 1,
-      "avg_tone": -0.366
+      "avg_tone": 0.404
     },
     {
-      "source": "sbs.com.au",
+      "source": "foodmanufacture.co.uk",
       "n": 1,
-      "avg_tone": -3.212
+      "avg_tone": 1.541
     },
     {
-      "source": "calgarysun.com",
+      "source": "wwd.com",
       "n": 1,
-      "avg_tone": 0.733
+      "avg_tone": 3.95
     },
     {
-      "source": "nextcity.org",
+      "source": "rte.ie",
       "n": 1,
-      "avg_tone": 2.261
+      "avg_tone": 1.879
     },
     {
-      "source": "indiatimes.com",
+      "source": "allafrica.com",
       "n": 1,
-      "avg_tone": 0.259
+      "avg_tone": -3.168
     },
     {
-      "source": "claimsjournal.com",
+      "source": "yahoo.com",
       "n": 1,
-      "avg_tone": -4.812
+      "avg_tone": -0.451
     },
     {
-      "source": "wfmd.com",
+      "source": "thenationonlineng.net",
       "n": 1,
-      "avg_tone": -6.717
+      "avg_tone": -5.068
     },
     {
-      "source": "dailygazette.com",
+      "source": "tribune.com.pk",
+      "n": 1,
+      "avg_tone": 1.141
+    },
+    {
+      "source": "cities929.com",
+      "n": 1,
+      "avg_tone": -6.176
+    },
+    {
+      "source": "idahostatejournal.com",
       "n": 1,
       "avg_tone": -5.018
     },
     {
-      "source": "news4jax.com",
+      "source": "rockymounttelegram.com",
       "n": 1,
-      "avg_tone": -4.924
-    },
-    {
-      "source": "mangalorean.com",
-      "n": 1,
-      "avg_tone": 0.566
-    },
-    {
-      "source": "local10.com",
-      "n": 1,
-      "avg_tone": -4.93
-    },
-    {
-      "source": "power959.com",
-      "n": 1,
-      "avg_tone": 4.78
+      "avg_tone": -5.018
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_IRANIAN",
-      "n": 196
-    },
-    {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 138
+      "n": 216
     },
     {
       "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 136
+      "n": 147
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 98
-    },
-    {
-      "theme": "TAX_ETHNICITY_IRANIANS",
-      "n": 91
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 91
+      "n": 101
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 91
+      "n": 96
     },
     {
-      "theme": "IMMIGRATION",
-      "n": 90
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 90
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 96
     },
     {
       "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 90
+      "n": 96
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 80
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 96
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 95
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 95
+    },
+    {
+      "theme": "TAX_ETHNICITY_IRANIANS",
+      "n": 94
     },
     {
       "theme": "GENERAL_GOVERNMENT",
-      "n": 73
+      "n": 71
     },
     {
       "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 73
+      "n": 70
     },
     {
       "theme": "TAX_FNCACT_OFFICIAL",
-      "n": 73
+      "n": 66
     },
     {
-      "theme": "ENV_CLIMATECHANGE",
-      "n": 56
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 64
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 47
     }
   ]
 }
