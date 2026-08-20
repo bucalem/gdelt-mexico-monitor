@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-20T22:51:38.893635+00:00",
-  "rows_total_scanned_last_run": 4774,
-  "rows_mexico_last_run": 111,
-  "overall_avg_tone_4h": -0.657,
+  "generated_at": "2026-08-20T23:17:12.173288+00:00",
+  "rows_total_scanned_last_run": 4669,
+  "rows_mexico_last_run": 100,
+  "overall_avg_tone_4h": -0.761,
   "timeline": [
-    {
-      "time": "2026-08-17T23:00",
-      "avg_tone": -0.333,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-08-17T23:15",
-      "avg_tone": -0.629,
-      "n_articles": 15
-    },
     {
       "time": "2026-08-17T23:30",
       "avg_tone": 1.139,
@@ -1408,6 +1398,11 @@
       "time": "2026-08-20T23:00",
       "avg_tone": -1.273,
       "n_articles": 23
+    },
+    {
+      "time": "2026-08-20T23:15",
+      "avg_tone": -0.915,
+      "n_articles": 16
     }
   ],
   "top_sources": [
@@ -1417,9 +1412,9 @@
       "avg_tone": -0.059
     },
     {
-      "source": "riviera-maya-news.com",
+      "source": "cubaheadlines.com",
       "n": 3,
-      "avg_tone": -2.917
+      "avg_tone": -2.434
     },
     {
       "source": "thebiglead.com",
@@ -1452,101 +1447,101 @@
       "avg_tone": -3.33
     },
     {
-      "source": "finanznachrichten.de",
-      "n": 2,
-      "avg_tone": -0.005
-    },
-    {
-      "source": "torontotelegraph.com",
-      "n": 2,
-      "avg_tone": -4.736
-    },
-    {
-      "source": "wvik.org",
-      "n": 1,
-      "avg_tone": -2.309
-    },
-    {
-      "source": "dailypress.com",
-      "n": 1,
-      "avg_tone": -3.68
-    },
-    {
-      "source": "tucsonpost.com",
+      "source": "britainnews.net",
       "n": 1,
       "avg_tone": 0.647
     },
     {
-      "source": "batonrougepost.com",
+      "source": "ediblemanhattan.com",
+      "n": 1,
+      "avg_tone": 1.023
+    },
+    {
+      "source": "wsaw.com",
+      "n": 1,
+      "avg_tone": 1.684
+    },
+    {
+      "source": "bignewsnetwork.com",
+      "n": 1,
+      "avg_tone": -1.379
+    },
+    {
+      "source": "fox9.com",
+      "n": 1,
+      "avg_tone": -6.675
+    },
+    {
+      "source": "sandiegosun.com",
       "n": 1,
       "avg_tone": 0.647
     },
     {
-      "source": "fox10phoenix.com",
+      "source": "rnz.co.nz",
       "n": 1,
-      "avg_tone": -12.121
+      "avg_tone": -1.661
     }
   ],
   "top_themes": [
     {
       "theme": "MEDICAL",
-      "n": 352
+      "n": 316
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 351
+      "n": 314
     },
     {
       "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
-      "n": 266
+      "n": 244
     },
     {
       "theme": "WB_1967_AGRICULTURAL_RISK_AND_SECURITY",
-      "n": 265
+      "n": 239
     },
     {
       "theme": "WB_180_FOOD_SAFETY",
-      "n": 263
+      "n": 237
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 228
-    },
-    {
-      "theme": "WB_698_TRADE",
       "n": 192
     },
     {
+      "theme": "WB_698_TRADE",
+      "n": 166
+    },
+    {
       "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 162
+      "n": 135
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 158
+      "n": 130
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 158
+      "n": 130
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 158
+      "n": 130
     },
     {
       "theme": "LEADER",
-      "n": 141
+      "n": 111
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 131
+      "n": 108
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 113
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 98
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 111
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 98
     }
   ]
 }
