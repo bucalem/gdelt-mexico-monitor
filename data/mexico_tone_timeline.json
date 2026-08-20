@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-20T14:52:29.147321+00:00",
-  "rows_total_scanned_last_run": 1467,
-  "rows_mexico_last_run": 14,
-  "overall_avg_tone_4h": -0.971,
+  "generated_at": "2026-08-20T15:24:40.040194+00:00",
+  "rows_total_scanned_last_run": 6317,
+  "rows_mexico_last_run": 64,
+  "overall_avg_tone_4h": -0.913,
   "timeline": [
-    {
-      "time": "2026-08-17T15:00",
-      "avg_tone": -0.485,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-08-17T15:15",
-      "avg_tone": -1.332,
-      "n_articles": 19
-    },
     {
       "time": "2026-08-17T15:30",
       "avg_tone": -2.253,
@@ -1403,9 +1393,54 @@
       "time": "2026-08-20T14:45",
       "avg_tone": -0.572,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-20T15:00",
+      "avg_tone": -0.789,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-08-20T15:15",
+      "avg_tone": -1.469,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-08-20T15:30",
+      "avg_tone": -1.405,
+      "n_articles": 24
     }
   ],
   "top_sources": [
+    {
+      "source": "dailypolitical.com",
+      "n": 2,
+      "avg_tone": 3.015
+    },
+    {
+      "source": "apr.org",
+      "n": 2,
+      "avg_tone": 0.291
+    },
+    {
+      "source": "republicanherald.com",
+      "n": 2,
+      "avg_tone": -1.395
+    },
+    {
+      "source": "bostonherald.com",
+      "n": 2,
+      "avg_tone": -1.395
+    },
+    {
+      "source": "theglobeandmail.com",
+      "n": 2,
+      "avg_tone": 0.738
+    },
+    {
+      "source": "khak.com",
+      "n": 2,
+      "avg_tone": -1.099
+    },
     {
       "source": "247wallst.com",
       "n": 2,
@@ -1417,116 +1452,101 @@
       "avg_tone": 1.752
     },
     {
-      "source": "yahoo.com",
+      "source": "natlawreview.com",
       "n": 1,
-      "avg_tone": -2.5
+      "avg_tone": -3.142
     },
     {
-      "source": "turnto23.com",
+      "source": "kmxt.org",
       "n": 1,
-      "avg_tone": -3.571
+      "avg_tone": -6.536
     },
     {
-      "source": "theglobeandmail.com",
+      "source": "themainewire.com",
       "n": 1,
-      "avg_tone": -0.785
+      "avg_tone": -1.153
     },
     {
-      "source": "tpr.org",
+      "source": "havanatimes.org",
       "n": 1,
-      "avg_tone": 3.517
+      "avg_tone": -6.902
     },
     {
-      "source": "motorsport.com",
+      "source": "oedigital.com",
       "n": 1,
-      "avg_tone": 1.184
+      "avg_tone": -0.5
     },
     {
-      "source": "stcatharinesstandard.ca",
+      "source": "kacu.org",
       "n": 1,
-      "avg_tone": -0.729
+      "avg_tone": -6.536
     },
     {
-      "source": "kjrh.com",
+      "source": "worldoil.com",
       "n": 1,
-      "avg_tone": -3.571
-    },
-    {
-      "source": "craigdailypress.com",
-      "n": 1,
-      "avg_tone": -1.959
-    },
-    {
-      "source": "healthcare-digital.com",
-      "n": 1,
-      "avg_tone": 2.825
-    },
-    {
-      "source": "kztv10.com",
-      "n": 1,
-      "avg_tone": -3.571
+      "avg_tone": -2.66
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 38
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 347
     },
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 35
+      "theme": "WB_840_JUSTICE",
+      "n": 333
     },
     {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 33
+      "theme": "WB_1014_CRIMINAL_JUSTICE",
+      "n": 327
     },
     {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 33
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 325
     },
     {
-      "theme": "ENV_METALS",
-      "n": 32
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 325
     },
     {
-      "theme": "WB_2936_GOLD",
-      "n": 26
+      "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
+      "n": 322
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 25
+      "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
+      "n": 322
     },
     {
-      "theme": "LITERACY",
-      "n": 20
+      "theme": "GRIEVANCES",
+      "n": 175
     },
     {
-      "theme": "UNGP_EDUCATION",
-      "n": 20
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 136
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 18
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 18
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 15
-    },
-    {
-      "theme": "TAX_WORLDMAMMALS_DRILL",
-      "n": 15
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 11
+      "theme": "WB_2670_JOBS",
+      "n": 128
     },
     {
       "theme": "MEDICAL",
-      "n": 11
+      "n": 127
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 124
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 122
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 122
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 122
     }
   ]
 }
