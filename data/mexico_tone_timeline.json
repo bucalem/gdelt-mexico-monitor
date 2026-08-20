@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-20T20:53:15.404354+00:00",
-  "rows_total_scanned_last_run": 5682,
-  "rows_mexico_last_run": 100,
-  "overall_avg_tone_4h": -0.264,
+  "generated_at": "2026-08-20T21:19:18.071001+00:00",
+  "rows_total_scanned_last_run": 5707,
+  "rows_mexico_last_run": 102,
+  "overall_avg_tone_4h": -0.252,
   "timeline": [
-    {
-      "time": "2026-08-17T21:00",
-      "avg_tone": 1.298,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-08-17T21:15",
-      "avg_tone": 2.177,
-      "n_articles": 12
-    },
     {
       "time": "2026-08-17T21:30",
       "avg_tone": 0.654,
@@ -1408,9 +1398,24 @@
       "time": "2026-08-20T21:00",
       "avg_tone": 0.514,
       "n_articles": 25
+    },
+    {
+      "time": "2026-08-20T21:15",
+      "avg_tone": -0.244,
+      "n_articles": 29
     }
   ],
   "top_sources": [
+    {
+      "source": "bnnbloomberg.ca",
+      "n": 2,
+      "avg_tone": -0.304
+    },
+    {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": 1.524
+    },
     {
       "source": "boisestatepublicradio.org",
       "n": 2,
@@ -1422,131 +1427,121 @@
       "avg_tone": 1.213
     },
     {
-      "source": "lethbridgeherald.com",
-      "n": 2,
-      "avg_tone": 0.248
-    },
-    {
-      "source": "forbes.com",
+      "source": "dailybulletin.com",
       "n": 1,
-      "avg_tone": 7.0
+      "avg_tone": 2.752
     },
     {
-      "source": "wyomingpublicmedia.org",
+      "source": "shorelinebeacon.com",
+      "n": 1,
+      "avg_tone": -0.514
+    },
+    {
+      "source": "wfsu.org",
       "n": 1,
       "avg_tone": -2.309
     },
     {
-      "source": "newyorktelegraph.com",
-      "n": 1,
-      "avg_tone": 0.647
-    },
-    {
-      "source": "mexicostar.com",
-      "n": 1,
-      "avg_tone": 0.647
-    },
-    {
-      "source": "ocj.com",
-      "n": 1,
-      "avg_tone": 0.936
-    },
-    {
-      "source": "fool.com",
-      "n": 1,
-      "avg_tone": 0.62
-    },
-    {
-      "source": "wtae.com",
+      "source": "ksbw.com",
       "n": 1,
       "avg_tone": -4.366
     },
     {
-      "source": "philippinetimes.com",
-      "n": 1,
-      "avg_tone": 4.239
-    },
-    {
-      "source": "asiabulletin.com",
+      "source": "sydneysun.com",
       "n": 1,
       "avg_tone": 0.647
     },
     {
-      "source": "castanetkamloops.net",
+      "source": "screenrant.com",
       "n": 1,
-      "avg_tone": -1.088
+      "avg_tone": 1.858
     },
     {
-      "source": "gazette.com",
-      "n": 1,
-      "avg_tone": 3.723
-    },
-    {
-      "source": "journal-advocate.com",
+      "source": "fortmorgantimes.com",
       "n": 1,
       "avg_tone": -3.68
+    },
+    {
+      "source": "chroniclejournal.com",
+      "n": 1,
+      "avg_tone": 0.588
+    },
+    {
+      "source": "thebeatdfw.com",
+      "n": 1,
+      "avg_tone": 9.641
+    },
+    {
+      "source": "smh.com.au",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "click2houston.com",
+      "n": 1,
+      "avg_tone": -1.494
     }
   ],
   "top_themes": [
     {
-      "theme": "MEDICAL",
-      "n": 243
-    },
-    {
       "theme": "GENERAL_HEALTH",
-      "n": 240
+      "n": 281
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 190
+      "theme": "MEDICAL",
+      "n": 277
     },
     {
       "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
-      "n": 188
+      "n": 223
     },
     {
       "theme": "WB_1967_AGRICULTURAL_RISK_AND_SECURITY",
-      "n": 187
+      "n": 219
     },
     {
       "theme": "WB_180_FOOD_SAFETY",
-      "n": 186
+      "n": 218
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 192
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 178
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 160
+      "n": 171
     },
     {
       "theme": "LEADER",
-      "n": 137
+      "n": 142
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 128
+      "n": 142
     },
     {
       "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 122
+      "n": 140
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 122
+      "n": 140
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 122
+      "n": 140
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 122
+      "n": 140
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 112
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 104
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 132
     }
   ]
 }
