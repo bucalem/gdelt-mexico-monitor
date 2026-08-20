@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-20T15:24:40.040194+00:00",
-  "rows_total_scanned_last_run": 6317,
-  "rows_mexico_last_run": 64,
-  "overall_avg_tone_4h": -0.913,
+  "generated_at": "2026-08-20T15:56:07.732473+00:00",
+  "rows_total_scanned_last_run": 6361,
+  "rows_mexico_last_run": 87,
+  "overall_avg_tone_4h": -0.714,
   "timeline": [
-    {
-      "time": "2026-08-17T15:30",
-      "avg_tone": -2.253,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-08-17T15:45",
-      "avg_tone": -0.207,
-      "n_articles": 19
-    },
     {
       "time": "2026-08-17T16:00",
       "avg_tone": -0.308,
@@ -1408,13 +1398,58 @@
       "time": "2026-08-20T15:30",
       "avg_tone": -1.405,
       "n_articles": 24
+    },
+    {
+      "time": "2026-08-20T15:45",
+      "avg_tone": 0.519,
+      "n_articles": 29
+    },
+    {
+      "time": "2026-08-20T16:00",
+      "avg_tone": -0.479,
+      "n_articles": 19
     }
   ],
   "top_sources": [
     {
-      "source": "dailypolitical.com",
+      "source": "dchieftain.com",
+      "n": 5,
+      "avg_tone": -0.224
+    },
+    {
+      "source": "bostonglobe.com",
       "n": 2,
-      "avg_tone": 3.015
+      "avg_tone": -0.778
+    },
+    {
+      "source": "kpbs.org",
+      "n": 2,
+      "avg_tone": -2.841
+    },
+    {
+      "source": "ivpressonline.com",
+      "n": 2,
+      "avg_tone": 2.441
+    },
+    {
+      "source": "readingeagle.com",
+      "n": 2,
+      "avg_tone": -0.636
+    },
+    {
+      "source": "newjerseytelegraph.com",
+      "n": 2,
+      "avg_tone": 2.898
+    },
+    {
+      "source": "hawaiitelegraph.com",
+      "n": 2,
+      "avg_tone": 2.898
+    },
+    {
+      "source": "homenewshere.com",
+      "n": 2,
+      "avg_tone": 3.73
     },
     {
       "source": "apr.org",
@@ -1432,121 +1467,86 @@
       "avg_tone": -1.395
     },
     {
-      "source": "theglobeandmail.com",
-      "n": 2,
-      "avg_tone": 0.738
-    },
-    {
       "source": "khak.com",
       "n": 2,
       "avg_tone": -1.099
     },
     {
-      "source": "247wallst.com",
-      "n": 2,
-      "avg_tone": -1.177
-    },
-    {
-      "source": "juniorminingnetwork.com",
-      "n": 2,
-      "avg_tone": 1.752
-    },
-    {
-      "source": "natlawreview.com",
+      "source": "pqbnews.com",
       "n": 1,
-      "avg_tone": -3.142
+      "avg_tone": -0.512
     },
     {
-      "source": "kmxt.org",
+      "source": "vice.com",
       "n": 1,
-      "avg_tone": -6.536
+      "avg_tone": 0.633
     },
     {
-      "source": "themainewire.com",
+      "source": "fox4news.com",
       "n": 1,
-      "avg_tone": -1.153
-    },
-    {
-      "source": "havanatimes.org",
-      "n": 1,
-      "avg_tone": -6.902
-    },
-    {
-      "source": "oedigital.com",
-      "n": 1,
-      "avg_tone": -0.5
-    },
-    {
-      "source": "kacu.org",
-      "n": 1,
-      "avg_tone": -6.536
-    },
-    {
-      "source": "worldoil.com",
-      "n": 1,
-      "avg_tone": -2.66
+      "avg_tone": -7.289
     }
   ],
   "top_themes": [
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 347
+      "n": 495
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 333
+      "n": 474
     },
     {
       "theme": "WB_1014_CRIMINAL_JUSTICE",
-      "n": 327
-    },
-    {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 325
+      "n": 464
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 325
+      "n": 463
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 461
     },
     {
       "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
-      "n": 322
+      "n": 455
     },
     {
       "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
-      "n": 322
+      "n": 455
     },
     {
       "theme": "GRIEVANCES",
-      "n": 175
-    },
-    {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 136
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 128
+      "n": 250
     },
     {
       "theme": "MEDICAL",
-      "n": 127
+      "n": 181
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 181
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 172
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 124
+      "n": 164
     },
     {
       "theme": "IMMIGRATION",
-      "n": 122
+      "n": 162
     },
     {
       "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 122
+      "n": 162
     },
     {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 122
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 162
     }
   ]
 }
