@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-20T17:00:03.236984+00:00",
-  "rows_total_scanned_last_run": 6514,
-  "rows_mexico_last_run": 90,
-  "overall_avg_tone_4h": -0.424,
+  "generated_at": "2026-08-20T17:33:53.913746+00:00",
+  "rows_total_scanned_last_run": 4680,
+  "rows_mexico_last_run": 70,
+  "overall_avg_tone_4h": -0.275,
   "timeline": [
-    {
-      "time": "2026-08-17T17:00",
-      "avg_tone": -1.818,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-08-17T17:15",
-      "avg_tone": -0.468,
-      "n_articles": 19
-    },
-    {
-      "time": "2026-08-17T17:30",
-      "avg_tone": -1.584,
-      "n_articles": 16
-    },
     {
       "time": "2026-08-17T17:45",
       "avg_tone": -1.849,
@@ -1408,13 +1393,23 @@
       "time": "2026-08-20T17:00",
       "avg_tone": -0.079,
       "n_articles": 16
+    },
+    {
+      "time": "2026-08-20T17:30",
+      "avg_tone": 0.51,
+      "n_articles": 27
     }
   ],
   "top_sources": [
     {
+      "source": "freshplaza.com",
+      "n": 5,
+      "avg_tone": -0.368
+    },
+    {
       "source": "dailypolitical.com",
       "n": 3,
-      "avg_tone": 0.586
+      "avg_tone": 3.177
     },
     {
       "source": "redlandsdailyfacts.com",
@@ -1437,116 +1432,111 @@
       "avg_tone": 3.353
     },
     {
-      "source": "greeleytribune.com",
-      "n": 2,
-      "avg_tone": -1.395
-    },
-    {
-      "source": "koel.com",
-      "n": 2,
-      "avg_tone": -1.099
-    },
-    {
-      "source": "latimes.com",
-      "n": 2,
-      "avg_tone": -0.989
-    },
-    {
-      "source": "elle.com",
-      "n": 2,
-      "avg_tone": 0.658
-    },
-    {
-      "source": "travelmarketreport.com",
-      "n": 2,
-      "avg_tone": 3.517
-    },
-    {
-      "source": "hometownstation.com",
+      "source": "redbluffdailynews.com",
       "n": 1,
-      "avg_tone": 3.582
+      "avg_tone": 2.192
     },
     {
-      "source": "screenrant.com",
+      "source": "indiatimes.com",
       "n": 1,
-      "avg_tone": -1.416
+      "avg_tone": 1.201
     },
     {
-      "source": "dallasobserver.com",
+      "source": "independent.co.uk",
       "n": 1,
-      "avg_tone": 2.172
+      "avg_tone": -2.11
     },
     {
-      "source": "ksmu.org",
+      "source": "theguardian.com",
       "n": 1,
-      "avg_tone": -6.536
+      "avg_tone": 3.521
     },
     {
-      "source": "impactnottingham.com",
+      "source": "upi.com",
       "n": 1,
-      "avg_tone": 4.17
+      "avg_tone": -5.243
+    },
+    {
+      "source": "claimsjournal.com",
+      "n": 1,
+      "avg_tone": -3.802
+    },
+    {
+      "source": "wxyz.com",
+      "n": 1,
+      "avg_tone": -3.571
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 1,
+      "avg_tone": 4.218
+    },
+    {
+      "source": "chronofhorse.com",
+      "n": 1,
+      "avg_tone": 0.884
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 271
-    },
-    {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 267
+      "n": 163
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 250
-    },
-    {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 246
+      "n": 154
     },
     {
       "theme": "WB_1014_CRIMINAL_JUSTICE",
-      "n": 246
+      "n": 151
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 149
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 139
     },
     {
       "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
-      "n": 244
+      "n": 137
     },
     {
       "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
-      "n": 243
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 126
+      "n": 135
     },
     {
       "theme": "GRIEVANCES",
-      "n": 125
+      "n": 75
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 69
+    },
+    {
+      "theme": "TAX_FNCACT_CHEF",
+      "n": 69
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 68
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 59
+    },
+    {
+      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
+      "n": 55
     },
     {
       "theme": "NATURAL_DISASTER_ICE",
-      "n": 117
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 115
-    },
-    {
-      "theme": "TAX_ETHNICITY_IRANIAN",
-      "n": 114
+      "n": 52
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 112
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 109
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 107
+      "n": 50
     }
   ]
 }
