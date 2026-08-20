@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-20T21:19:18.071001+00:00",
-  "rows_total_scanned_last_run": 5707,
-  "rows_mexico_last_run": 102,
-  "overall_avg_tone_4h": -0.252,
+  "generated_at": "2026-08-20T22:17:27.169563+00:00",
+  "rows_total_scanned_last_run": 5119,
+  "rows_mexico_last_run": 111,
+  "overall_avg_tone_4h": -0.553,
   "timeline": [
-    {
-      "time": "2026-08-17T21:30",
-      "avg_tone": 0.654,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-08-17T21:45",
-      "avg_tone": 0.973,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-08-17T22:00",
-      "avg_tone": -1.957,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-17T22:15",
-      "avg_tone": -0.342,
-      "n_articles": 14
-    },
     {
       "time": "2026-08-17T22:30",
       "avg_tone": 0.071,
@@ -1403,145 +1383,165 @@
       "time": "2026-08-20T21:15",
       "avg_tone": -0.244,
       "n_articles": 29
+    },
+    {
+      "time": "2026-08-20T21:30",
+      "avg_tone": -1.613,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-08-20T21:45",
+      "avg_tone": -0.936,
+      "n_articles": 35
+    },
+    {
+      "time": "2026-08-20T22:00",
+      "avg_tone": -0.984,
+      "n_articles": 22
+    },
+    {
+      "time": "2026-08-20T22:15",
+      "avg_tone": -2.079,
+      "n_articles": 27
     }
   ],
   "top_sources": [
     {
-      "source": "bnnbloomberg.ca",
-      "n": 2,
-      "avg_tone": -0.304
-    },
-    {
       "source": "yahoo.com",
+      "n": 5,
+      "avg_tone": 0.286
+    },
+    {
+      "source": "riviera-maya-news.com",
+      "n": 3,
+      "avg_tone": -2.917
+    },
+    {
+      "source": "wlrn.org",
+      "n": 3,
+      "avg_tone": -1.443
+    },
+    {
+      "source": "thepeterboroughexaminer.com",
+      "n": 3,
+      "avg_tone": -0.166
+    },
+    {
+      "source": "sandiegouniontribune.com",
+      "n": 3,
+      "avg_tone": -2.189
+    },
+    {
+      "source": "niagarafallsreview.ca",
+      "n": 3,
+      "avg_tone": 0.175
+    },
+    {
+      "source": "finanznachrichten.de",
       "n": 2,
-      "avg_tone": 1.524
+      "avg_tone": -0.005
     },
     {
-      "source": "boisestatepublicradio.org",
+      "source": "torontotelegraph.com",
       "n": 2,
-      "avg_tone": -4.515
+      "avg_tone": -4.736
     },
     {
-      "source": "portlandmercury.com",
+      "source": "kvia.com",
       "n": 2,
-      "avg_tone": 1.213
+      "avg_tone": -4.969
     },
     {
-      "source": "dailybulletin.com",
-      "n": 1,
-      "avg_tone": 2.752
+      "source": "californiatelegraph.com",
+      "n": 2,
+      "avg_tone": -4.736
     },
     {
-      "source": "shorelinebeacon.com",
-      "n": 1,
-      "avg_tone": -0.514
+      "source": "wellandtribune.ca",
+      "n": 2,
+      "avg_tone": -2.135
     },
     {
-      "source": "wfsu.org",
+      "source": "upr.org",
       "n": 1,
       "avg_tone": -2.309
     },
     {
-      "source": "ksbw.com",
+      "source": "restaurantnewsrelease.com",
       "n": 1,
-      "avg_tone": -4.366
+      "avg_tone": 6.284
     },
     {
-      "source": "sydneysun.com",
+      "source": "independent.co.uk",
       "n": 1,
-      "avg_tone": 0.647
+      "avg_tone": -3.015
     },
     {
-      "source": "screenrant.com",
-      "n": 1,
-      "avg_tone": 1.858
-    },
-    {
-      "source": "fortmorgantimes.com",
-      "n": 1,
-      "avg_tone": -3.68
-    },
-    {
-      "source": "chroniclejournal.com",
-      "n": 1,
-      "avg_tone": 0.588
-    },
-    {
-      "source": "thebeatdfw.com",
-      "n": 1,
-      "avg_tone": 9.641
-    },
-    {
-      "source": "smh.com.au",
+      "source": "carbuzz.com",
       "n": 1,
       "avg_tone": 0.0
-    },
-    {
-      "source": "click2houston.com",
-      "n": 1,
-      "avg_tone": -1.494
     }
   ],
   "top_themes": [
     {
       "theme": "GENERAL_HEALTH",
-      "n": 281
+      "n": 355
     },
     {
       "theme": "MEDICAL",
-      "n": 277
+      "n": 349
     },
     {
       "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
-      "n": 223
+      "n": 265
     },
     {
       "theme": "WB_1967_AGRICULTURAL_RISK_AND_SECURITY",
-      "n": 219
+      "n": 258
     },
     {
       "theme": "WB_180_FOOD_SAFETY",
-      "n": 218
+      "n": 249
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 192
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 178
+      "n": 186
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 171
-    },
-    {
-      "theme": "LEADER",
-      "n": 142
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 142
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 140
+      "n": 168
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 140
+      "n": 164
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 140
+      "n": 164
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 140
+      "n": 164
     },
     {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 132
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 161
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 136
+    },
+    {
+      "theme": "LEADER",
+      "n": 113
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 104
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 103
     }
   ]
 }
