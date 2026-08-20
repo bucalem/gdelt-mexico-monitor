@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-20T09:24:21.588400+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -1.126,
+  "generated_at": "2026-08-20T09:57:46.872102+00:00",
+  "rows_total_scanned_last_run": 4056,
+  "rows_mexico_last_run": 46,
+  "overall_avg_tone_4h": -1.064,
   "timeline": [
-    {
-      "time": "2026-08-17T09:30",
-      "avg_tone": 0.044,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-08-17T09:45",
-      "avg_tone": 0.454,
-      "n_articles": 17
-    },
     {
       "time": "2026-08-17T10:00",
       "avg_tone": -0.716,
@@ -1403,8 +1393,165 @@
       "time": "2026-08-20T09:00",
       "avg_tone": -1.914,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-20T09:15",
+      "avg_tone": 3.025,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-08-20T09:30",
+      "avg_tone": -0.316,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-08-20T09:45",
+      "avg_tone": -1.239,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-08-20T10:00",
+      "avg_tone": -1.464,
+      "n_articles": 12
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "themarketsdaily.com",
+      "n": 4,
+      "avg_tone": 4.013
+    },
+    {
+      "source": "moneycontrol.com",
+      "n": 3,
+      "avg_tone": -0.244
+    },
+    {
+      "source": "prnewswire.com",
+      "n": 2,
+      "avg_tone": 6.215
+    },
+    {
+      "source": "wxxinews.org",
+      "n": 2,
+      "avg_tone": -3.697
+    },
+    {
+      "source": "finanznachrichten.de",
+      "n": 2,
+      "avg_tone": 1.796
+    },
+    {
+      "source": "aol.co.uk",
+      "n": 2,
+      "avg_tone": 2.337
+    },
+    {
+      "source": "perishablenews.com",
+      "n": 2,
+      "avg_tone": 3.96
+    },
+    {
+      "source": "medscape.com",
+      "n": 1,
+      "avg_tone": -6.181
+    },
+    {
+      "source": "wuwf.org",
+      "n": 1,
+      "avg_tone": -6.516
+    },
+    {
+      "source": "netscape.com",
+      "n": 1,
+      "avg_tone": -5.079
+    },
+    {
+      "source": "express.co.uk",
+      "n": 1,
+      "avg_tone": 3.05
+    },
+    {
+      "source": "wknofm.org",
+      "n": 1,
+      "avg_tone": -6.516
+    },
+    {
+      "source": "wsiu.org",
+      "n": 1,
+      "avg_tone": -6.516
+    },
+    {
+      "source": "news.az",
+      "n": 1,
+      "avg_tone": -1.508
+    },
+    {
+      "source": "aspendailynews.com",
+      "n": 1,
+      "avg_tone": -1.163
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 559
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 550
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 549
+    },
+    {
+      "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
+      "n": 548
+    },
+    {
+      "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
+      "n": 548
+    },
+    {
+      "theme": "WB_1014_CRIMINAL_JUSTICE",
+      "n": 547
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 547
+    },
+    {
+      "theme": "GRIEVANCES",
+      "n": 300
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 216
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 191
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 183
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 183
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 182
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 182
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 182
+    }
+  ]
 }
