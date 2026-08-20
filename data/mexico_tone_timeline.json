@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-20T20:18:13.867608+00:00",
-  "rows_total_scanned_last_run": 5842,
-  "rows_mexico_last_run": 117,
-  "overall_avg_tone_4h": -0.145,
+  "generated_at": "2026-08-20T20:53:15.404354+00:00",
+  "rows_total_scanned_last_run": 5682,
+  "rows_mexico_last_run": 100,
+  "overall_avg_tone_4h": -0.264,
   "timeline": [
-    {
-      "time": "2026-08-17T20:30",
-      "avg_tone": -1.383,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-08-17T20:45",
-      "avg_tone": -0.057,
-      "n_articles": 14
-    },
     {
       "time": "2026-08-17T21:00",
       "avg_tone": 1.298,
@@ -1403,23 +1393,33 @@
       "time": "2026-08-20T20:15",
       "avg_tone": -0.66,
       "n_articles": 27
+    },
+    {
+      "time": "2026-08-20T20:30",
+      "avg_tone": -0.998,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-08-20T20:45",
+      "avg_tone": -1.112,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-08-20T21:00",
+      "avg_tone": 0.514,
+      "n_articles": 25
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 7,
-      "avg_tone": -0.803
+      "source": "boisestatepublicradio.org",
+      "n": 2,
+      "avg_tone": -4.515
     },
     {
-      "source": "billboard.com",
-      "n": 4,
-      "avg_tone": 1.532
-    },
-    {
-      "source": "prnewswire.com",
-      "n": 4,
-      "avg_tone": 2.937
+      "source": "portlandmercury.com",
+      "n": 2,
+      "avg_tone": 1.213
     },
     {
       "source": "lethbridgeherald.com",
@@ -1427,121 +1427,126 @@
       "avg_tone": 0.248
     },
     {
-      "source": "havanatimes.org",
-      "n": 2,
-      "avg_tone": -1.647
-    },
-    {
-      "source": "localnews8.com",
-      "n": 2,
-      "avg_tone": -3.974
-    },
-    {
-      "source": "movieweb.com",
-      "n": 2,
-      "avg_tone": 0.062
-    },
-    {
-      "source": "my9nj.com",
-      "n": 2,
-      "avg_tone": -3.293
-    },
-    {
-      "source": "sgvtribune.com",
-      "n": 2,
-      "avg_tone": 3.214
-    },
-    {
-      "source": "pwinsiderxtra.com",
-      "n": 2,
-      "avg_tone": 1.672
-    },
-    {
-      "source": "denverpost.com",
-      "n": 2,
-      "avg_tone": -2.39
-    },
-    {
-      "source": "hitsfm.net",
+      "source": "forbes.com",
       "n": 1,
-      "avg_tone": -0.993
+      "avg_tone": 7.0
     },
     {
-      "source": "dominicanrepublicpost.com",
+      "source": "wyomingpublicmedia.org",
       "n": 1,
-      "avg_tone": -3.543
+      "avg_tone": -2.309
     },
     {
-      "source": "abovethelaw.com",
+      "source": "newyorktelegraph.com",
       "n": 1,
-      "avg_tone": -5.208
+      "avg_tone": 0.647
     },
     {
-      "source": "cbc.ca",
+      "source": "mexicostar.com",
       "n": 1,
-      "avg_tone": -1.4
+      "avg_tone": 0.647
+    },
+    {
+      "source": "ocj.com",
+      "n": 1,
+      "avg_tone": 0.936
+    },
+    {
+      "source": "fool.com",
+      "n": 1,
+      "avg_tone": 0.62
+    },
+    {
+      "source": "wtae.com",
+      "n": 1,
+      "avg_tone": -4.366
+    },
+    {
+      "source": "philippinetimes.com",
+      "n": 1,
+      "avg_tone": 4.239
+    },
+    {
+      "source": "asiabulletin.com",
+      "n": 1,
+      "avg_tone": 0.647
+    },
+    {
+      "source": "castanetkamloops.net",
+      "n": 1,
+      "avg_tone": -1.088
+    },
+    {
+      "source": "gazette.com",
+      "n": 1,
+      "avg_tone": 3.723
+    },
+    {
+      "source": "journal-advocate.com",
+      "n": 1,
+      "avg_tone": -3.68
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 204
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 203
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 180
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 179
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 177
-    },
-    {
-      "theme": "WB_1014_CRIMINAL_JUSTICE",
-      "n": 170
-    },
-    {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 162
-    },
-    {
-      "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
-      "n": 156
-    },
-    {
-      "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
-      "n": 153
-    },
-    {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 113
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 106
+      "theme": "MEDICAL",
+      "n": 243
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 103
+      "n": 240
     },
     {
-      "theme": "MEDICAL",
-      "n": 101
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 190
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 100
+      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
+      "n": 188
+    },
+    {
+      "theme": "WB_1967_AGRICULTURAL_RISK_AND_SECURITY",
+      "n": 187
+    },
+    {
+      "theme": "WB_180_FOOD_SAFETY",
+      "n": 186
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 160
+    },
+    {
+      "theme": "LEADER",
+      "n": 137
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 128
+    },
+    {
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 122
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 122
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 122
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 122
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 112
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 96
+      "n": 104
     }
   ]
 }
