@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-20T10:27:05.620727+00:00",
-  "rows_total_scanned_last_run": 4376,
-  "rows_mexico_last_run": 48,
-  "overall_avg_tone_4h": -1.508,
+  "generated_at": "2026-08-20T10:56:35.541692+00:00",
+  "rows_total_scanned_last_run": 4544,
+  "rows_mexico_last_run": 50,
+  "overall_avg_tone_4h": -1.594,
   "timeline": [
-    {
-      "time": "2026-08-17T10:30",
-      "avg_tone": -0.689,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-08-17T10:45",
-      "avg_tone": -1.052,
-      "n_articles": 21
-    },
     {
       "time": "2026-08-17T11:00",
       "avg_tone": -0.124,
@@ -1413,13 +1403,33 @@
       "time": "2026-08-20T10:30",
       "avg_tone": -3.726,
       "n_articles": 10
+    },
+    {
+      "time": "2026-08-20T10:45",
+      "avg_tone": -1.3,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-20T11:00",
+      "avg_tone": -1.804,
+      "n_articles": 18
     }
   ],
   "top_sources": [
     {
-      "source": "moneycontrol.com",
+      "source": "mexicoledger.com",
       "n": 3,
-      "avg_tone": -0.244
+      "avg_tone": 3.939
+    },
+    {
+      "source": "yumasun.com",
+      "n": 2,
+      "avg_tone": -6.44
+    },
+    {
+      "source": "finanznachrichten.de",
+      "n": 2,
+      "avg_tone": 1.635
     },
     {
       "source": "arkansasonline.com",
@@ -1427,67 +1437,57 @@
       "avg_tone": 0.602
     },
     {
-      "source": "prnewswire.com",
-      "n": 2,
-      "avg_tone": 6.215
+      "source": "uky.edu",
+      "n": 1,
+      "avg_tone": 1.768
     },
     {
-      "source": "themarketsdaily.com",
-      "n": 2,
-      "avg_tone": 3.388
+      "source": "businessday.co.za",
+      "n": 1,
+      "avg_tone": 0.649
     },
     {
-      "source": "wxxinews.org",
-      "n": 2,
-      "avg_tone": -3.697
+      "source": "npr.org",
+      "n": 1,
+      "avg_tone": -6.486
     },
     {
-      "source": "krcu.org",
+      "source": "kasu.org",
       "n": 1,
       "avg_tone": -6.516
     },
     {
-      "source": "wired.com",
-      "n": 1,
-      "avg_tone": -4.463
-    },
-    {
-      "source": "krvs.org",
+      "source": "wxpr.org",
       "n": 1,
       "avg_tone": -6.516
     },
     {
-      "source": "singaporestar.com",
+      "source": "wnyc.org",
       "n": 1,
-      "avg_tone": 4.319
+      "avg_tone": -6.556
     },
     {
-      "source": "niagarathisweek.com",
+      "source": "theglobeandmail.com",
       "n": 1,
-      "avg_tone": -0.43
+      "avg_tone": -0.258
     },
     {
-      "source": "kclu.org",
+      "source": "aol.co.uk",
       "n": 1,
-      "avg_tone": -6.516
+      "avg_tone": 1.535
     },
     {
-      "source": "ketr.org",
+      "source": "aol.com",
       "n": 1,
-      "avg_tone": -6.516
+      "avg_tone": 1.89
     },
     {
-      "source": "hppr.org",
+      "source": "961theeagle.com",
       "n": 1,
-      "avg_tone": -6.516
+      "avg_tone": 4.857
     },
     {
-      "source": "lewistownsentinel.com",
-      "n": 1,
-      "avg_tone": 2.413
-    },
-    {
-      "source": "kmxt.org",
+      "source": "ksfr.org",
       "n": 1,
       "avg_tone": -6.516
     }
@@ -1495,63 +1495,63 @@
   "top_themes": [
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 878
+      "n": 1018
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 871
-    },
-    {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 871
-    },
-    {
-      "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
-      "n": 869
+      "n": 1015
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 869
-    },
-    {
-      "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
-      "n": 869
+      "n": 1014
     },
     {
       "theme": "WB_1014_CRIMINAL_JUSTICE",
-      "n": 868
+      "n": 1014
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 1011
+    },
+    {
+      "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
+      "n": 1011
+    },
+    {
+      "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
+      "n": 1008
     },
     {
       "theme": "GRIEVANCES",
-      "n": 478
+      "n": 556
     },
     {
       "theme": "NATURAL_DISASTER_ICE",
-      "n": 313
+      "n": 348
     },
     {
       "theme": "MEDICAL",
-      "n": 278
+      "n": 316
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 275
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 271
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 271
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 271
+      "n": 311
     },
     {
       "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 270
+      "n": 306
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 305
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 303
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 303
     }
   ]
 }
