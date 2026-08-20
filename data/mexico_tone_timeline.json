@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-20T19:25:52.592397+00:00",
-  "rows_total_scanned_last_run": 4973,
-  "rows_mexico_last_run": 71,
-  "overall_avg_tone_4h": -0.102,
+  "generated_at": "2026-08-20T19:53:30.199177+00:00",
+  "rows_total_scanned_last_run": 4402,
+  "rows_mexico_last_run": 80,
+  "overall_avg_tone_4h": -0.113,
   "timeline": [
-    {
-      "time": "2026-08-17T19:30",
-      "avg_tone": -0.489,
-      "n_articles": 19
-    },
-    {
-      "time": "2026-08-17T19:45",
-      "avg_tone": -1.399,
-      "n_articles": 24
-    },
     {
       "time": "2026-08-17T20:00",
       "avg_tone": 1.079,
@@ -1403,9 +1393,29 @@
       "time": "2026-08-20T19:15",
       "avg_tone": 1.026,
       "n_articles": 24
+    },
+    {
+      "time": "2026-08-20T19:30",
+      "avg_tone": -0.74,
+      "n_articles": 38
+    },
+    {
+      "time": "2026-08-20T19:45",
+      "avg_tone": 0.288,
+      "n_articles": 18
     }
   ],
   "top_sources": [
+    {
+      "source": "riotimesonline.com",
+      "n": 7,
+      "avg_tone": -0.803
+    },
+    {
+      "source": "prnewswire.com",
+      "n": 4,
+      "avg_tone": 2.937
+    },
     {
       "source": "gringogazette.com",
       "n": 4,
@@ -1417,9 +1427,19 @@
       "avg_tone": -1.074
     },
     {
-      "source": "financialpost.com",
-      "n": 3,
-      "avg_tone": -0.336
+      "source": "sgvtribune.com",
+      "n": 2,
+      "avg_tone": 3.214
+    },
+    {
+      "source": "pwinsiderxtra.com",
+      "n": 2,
+      "avg_tone": 1.672
+    },
+    {
+      "source": "denverpost.com",
+      "n": 2,
+      "avg_tone": -2.39
     },
     {
       "source": "abqjournal.com",
@@ -1427,121 +1447,101 @@
       "avg_tone": 1.19
     },
     {
-      "source": "taosnews.com",
-      "n": 2,
-      "avg_tone": -2.497
-    },
-    {
-      "source": "wrestlezone.com",
-      "n": 2,
-      "avg_tone": 0.892
-    },
-    {
-      "source": "theprovince.com",
-      "n": 2,
-      "avg_tone": 1.517
-    },
-    {
-      "source": "reporterherald.com",
-      "n": 2,
-      "avg_tone": -1.904
-    },
-    {
-      "source": "whittierdailynews.com",
-      "n": 2,
-      "avg_tone": 3.214
-    },
-    {
-      "source": "dailypolitical.com",
-      "n": 2,
-      "avg_tone": 2.862
-    },
-    {
-      "source": "wgcu.org",
-      "n": 2,
-      "avg_tone": -5.613
-    },
-    {
-      "source": "winnipegfreepress.com",
+      "source": "neworleanssun.com",
       "n": 1,
-      "avg_tone": 0.638
+      "avg_tone": 0.647
     },
     {
-      "source": "truthout.org",
+      "source": "caribjournal.com",
       "n": 1,
-      "avg_tone": -3.659
+      "avg_tone": 1.391
     },
     {
-      "source": "hollywoodreporter.com",
+      "source": "indiewire.com",
       "n": 1,
-      "avg_tone": 9.486
+      "avg_tone": -0.419
     },
     {
-      "source": "drumhellermail.com",
+      "source": "weeklyblitz.net",
       "n": 1,
-      "avg_tone": 4.172
+      "avg_tone": -5.105
+    },
+    {
+      "source": "classichits925.com",
+      "n": 1,
+      "avg_tone": -0.993
+    },
+    {
+      "source": "newyorkstatesman.com",
+      "n": 1,
+      "avg_tone": 0.647
+    },
+    {
+      "source": "smdp.com",
+      "n": 1,
+      "avg_tone": 4.545
     }
   ],
   "top_themes": [
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 202
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 199
+      "n": 259
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 198
-    },
-    {
-      "theme": "WB_1014_CRIMINAL_JUSTICE",
-      "n": 195
+      "n": 251
     },
     {
       "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 187
+      "n": 242
     },
     {
-      "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
-      "n": 185
+      "theme": "WB_840_JUSTICE",
+      "n": 242
     },
     {
       "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
-      "n": 185
+      "n": 240
+    },
+    {
+      "theme": "WB_1014_CRIMINAL_JUSTICE",
+      "n": 240
+    },
+    {
+      "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
+      "n": 239
     },
     {
       "theme": "GRIEVANCES",
-      "n": 100
-    },
-    {
-      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
-      "n": 92
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 88
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 80
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 76
+      "n": 125
     },
     {
       "theme": "NATURAL_DISASTER_ICE",
-      "n": 74
+      "n": 107
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 72
+      "theme": "WB_698_TRADE",
+      "n": 100
     },
     {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 67
+      "theme": "WB_2670_JOBS",
+      "n": 97
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 96
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 93
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 90
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 90
     }
   ]
 }
