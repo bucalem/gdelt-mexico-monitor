@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-20T15:56:07.732473+00:00",
-  "rows_total_scanned_last_run": 6361,
-  "rows_mexico_last_run": 87,
-  "overall_avg_tone_4h": -0.714,
+  "generated_at": "2026-08-20T16:27:03.777758+00:00",
+  "rows_total_scanned_last_run": 6480,
+  "rows_mexico_last_run": 95,
+  "overall_avg_tone_4h": -0.668,
   "timeline": [
-    {
-      "time": "2026-08-17T16:00",
-      "avg_tone": -0.308,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-08-17T16:15",
-      "avg_tone": -0.123,
-      "n_articles": 19
-    },
     {
       "time": "2026-08-17T16:30",
       "avg_tone": -1.204,
@@ -1408,6 +1398,16 @@
       "time": "2026-08-20T16:00",
       "avg_tone": -0.479,
       "n_articles": 19
+    },
+    {
+      "time": "2026-08-20T16:15",
+      "avg_tone": 0.057,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-08-20T16:30",
+      "avg_tone": -1.39,
+      "n_articles": 24
     }
   ],
   "top_sources": [
@@ -1415,6 +1415,36 @@
       "source": "dchieftain.com",
       "n": 5,
       "avg_tone": -0.224
+    },
+    {
+      "source": "greeleytribune.com",
+      "n": 2,
+      "avg_tone": -1.395
+    },
+    {
+      "source": "dailypolitical.com",
+      "n": 2,
+      "avg_tone": -0.397
+    },
+    {
+      "source": "koel.com",
+      "n": 2,
+      "avg_tone": -1.099
+    },
+    {
+      "source": "latimes.com",
+      "n": 2,
+      "avg_tone": -0.989
+    },
+    {
+      "source": "elle.com",
+      "n": 2,
+      "avg_tone": 0.658
+    },
+    {
+      "source": "travelmarketreport.com",
+      "n": 2,
+      "avg_tone": 3.517
     },
     {
       "source": "bostonglobe.com",
@@ -1452,101 +1482,71 @@
       "avg_tone": 3.73
     },
     {
-      "source": "apr.org",
-      "n": 2,
-      "avg_tone": 0.291
-    },
-    {
-      "source": "republicanherald.com",
-      "n": 2,
-      "avg_tone": -1.395
-    },
-    {
-      "source": "bostonherald.com",
-      "n": 2,
-      "avg_tone": -1.395
-    },
-    {
-      "source": "khak.com",
-      "n": 2,
-      "avg_tone": -1.099
-    },
-    {
-      "source": "pqbnews.com",
+      "source": "forbes.com",
       "n": 1,
-      "avg_tone": -0.512
-    },
-    {
-      "source": "vice.com",
-      "n": 1,
-      "avg_tone": 0.633
-    },
-    {
-      "source": "fox4news.com",
-      "n": 1,
-      "avg_tone": -7.289
+      "avg_tone": 2.675
     }
   ],
   "top_themes": [
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 495
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 474
-    },
-    {
-      "theme": "WB_1014_CRIMINAL_JUSTICE",
-      "n": 464
+      "n": 323
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 463
+      "n": 313
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 300
     },
     {
       "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 461
+      "n": 294
+    },
+    {
+      "theme": "WB_1014_CRIMINAL_JUSTICE",
+      "n": 291
     },
     {
       "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
-      "n": 455
+      "n": 288
     },
     {
       "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
-      "n": 455
+      "n": 288
     },
     {
       "theme": "GRIEVANCES",
-      "n": 250
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 181
-    },
-    {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 181
+      "n": 150
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 172
+      "n": 142
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 164
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 136
     },
     {
       "theme": "IMMIGRATION",
-      "n": 162
+      "n": 128
     },
     {
       "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 162
+      "n": 127
     },
     {
       "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 162
+      "n": 126
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 126
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 124
     }
   ]
 }
