@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-20T05:53:48.847820+00:00",
-  "rows_total_scanned_last_run": 3164,
-  "rows_mexico_last_run": 30,
-  "overall_avg_tone_4h": -0.437,
+  "generated_at": "2026-08-20T06:29:14.433857+00:00",
+  "rows_total_scanned_last_run": 3266,
+  "rows_mexico_last_run": 34,
+  "overall_avg_tone_4h": -0.343,
   "timeline": [
-    {
-      "time": "2026-08-17T06:00",
-      "avg_tone": -0.842,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-17T06:15",
-      "avg_tone": -0.162,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-17T06:30",
       "avg_tone": 0.472,
@@ -1408,145 +1398,155 @@
       "time": "2026-08-20T06:00",
       "avg_tone": -0.188,
       "n_articles": 8
+    },
+    {
+      "time": "2026-08-20T06:15",
+      "avg_tone": -1.69,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-20T06:30",
+      "avg_tone": 0.564,
+      "n_articles": 8
     }
   ],
   "top_sources": [
+    {
+      "source": "popcrush.com",
+      "n": 2,
+      "avg_tone": -1.1
+    },
     {
       "source": "pwinsiderxtra.com",
       "n": 2,
       "avg_tone": 0.255
     },
     {
-      "source": "theamericanconservative.com",
+      "source": "dailygazette.com",
       "n": 1,
-      "avg_tone": -4.575
+      "avg_tone": -5.018
     },
     {
-      "source": "amsterdamnews.com",
+      "source": "thepostathens.com",
       "n": 1,
-      "avg_tone": -0.941
+      "avg_tone": 3.841
     },
     {
-      "source": "kptv.com",
+      "source": "theasian.asia",
       "n": 1,
-      "avg_tone": -0.383
+      "avg_tone": -0.087
     },
     {
-      "source": "rhyljournal.co.uk",
+      "source": "fourfourtwo.com",
       "n": 1,
-      "avg_tone": 4.471
+      "avg_tone": 2.97
     },
     {
-      "source": "theintelligencer.net",
+      "source": "independent.com",
       "n": 1,
-      "avg_tone": -0.366
+      "avg_tone": 0.223
     },
     {
-      "source": "fox2detroit.com",
-      "n": 1,
-      "avg_tone": -0.218
-    },
-    {
-      "source": "trak.in",
-      "n": 1,
-      "avg_tone": 0.354
-    },
-    {
-      "source": "wsls.com",
-      "n": 1,
-      "avg_tone": -4.924
-    },
-    {
-      "source": "irishdentist.ie",
-      "n": 1,
-      "avg_tone": 0.071
-    },
-    {
-      "source": "1025kiss.com",
+      "source": "ksfa860.com",
       "n": 1,
       "avg_tone": 4.78
     },
     {
-      "source": "wdbo.com",
+      "source": "wfmz.com",
       "n": 1,
-      "avg_tone": -4.934
+      "avg_tone": -5.018
     },
     {
-      "source": "nuclear-news.net",
+      "source": "975kgkl.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": 4.78
     },
     {
-      "source": "wokv.com",
+      "source": "insurancejournal.com",
       "n": 1,
-      "avg_tone": -4.934
+      "avg_tone": -2.516
     },
     {
-      "source": "clickorlando.com",
+      "source": "ipowerrichmond.com",
       "n": 1,
-      "avg_tone": -4.924
+      "avg_tone": -4.62
+    },
+    {
+      "source": "kitv.com",
+      "n": 1,
+      "avg_tone": -2.574
+    },
+    {
+      "source": "theguardian.com",
+      "n": 1,
+      "avg_tone": 2.174
+    },
+    {
+      "source": "aol.co.uk",
+      "n": 1,
+      "avg_tone": 2.174
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_IRANIAN",
-      "n": 194
+      "n": 224
     },
     {
       "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 133
-    },
-    {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 92
+      "n": 149
     },
     {
       "theme": "TAX_ETHNICITY_IRANIANS",
-      "n": 91
+      "n": 104
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 90
+      "n": 79
     },
     {
       "theme": "IMMIGRATION",
-      "n": 79
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 79
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 79
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 78
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 78
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIAL",
       "n": 75
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 61
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 75
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 75
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 75
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 75
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 72
     },
     {
       "theme": "GENERAL_GOVERNMENT",
-      "n": 61
+      "n": 68
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 39
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 68
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
+      "theme": "TAX_FNCACT_OFFICIAL",
+      "n": 68
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_JAIL",
       "n": 38
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 36
     }
   ]
 }
