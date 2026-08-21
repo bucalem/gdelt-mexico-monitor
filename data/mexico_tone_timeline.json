@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-21T10:33:10.530272+00:00",
-  "rows_total_scanned_last_run": 4088,
-  "rows_mexico_last_run": 37,
-  "overall_avg_tone_4h": -0.436,
+  "generated_at": "2026-08-21T11:01:56.599257+00:00",
+  "rows_total_scanned_last_run": 4343,
+  "rows_mexico_last_run": 41,
+  "overall_avg_tone_4h": -0.186,
   "timeline": [
-    {
-      "time": "2026-08-18T10:45",
-      "avg_tone": 0.25,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-18T11:00",
-      "avg_tone": -0.674,
-      "n_articles": 10
-    },
     {
       "time": "2026-08-18T11:15",
       "avg_tone": -2.055,
@@ -1403,18 +1393,28 @@
       "time": "2026-08-21T10:30",
       "avg_tone": 0.251,
       "n_articles": 13
+    },
+    {
+      "time": "2026-08-21T10:45",
+      "avg_tone": -1.464,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-21T11:00",
+      "avg_tone": -0.165,
+      "n_articles": 11
     }
   ],
   "top_sources": [
     {
-      "source": "themarketsdaily.com",
-      "n": 4,
-      "avg_tone": 2.208
-    },
-    {
       "source": "aol.co.uk",
       "n": 2,
       "avg_tone": -2.064
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 2.41
     },
     {
       "source": "arkansasonline.com",
@@ -1422,126 +1422,126 @@
       "avg_tone": -4.316
     },
     {
-      "source": "business-standard.com",
-      "n": 2,
-      "avg_tone": -0.654
-    },
-    {
-      "source": "nwaonline.com",
+      "source": "driving.ca",
       "n": 1,
-      "avg_tone": -4.013
+      "avg_tone": 1.171
     },
     {
-      "source": "yahoo.com",
+      "source": "bignewsnetwork.com",
       "n": 1,
-      "avg_tone": 0.748
+      "avg_tone": 2.217
     },
     {
-      "source": "nova.ie",
+      "source": "nypost.com",
       "n": 1,
-      "avg_tone": 3.107
+      "avg_tone": -2.008
     },
     {
-      "source": "porttechnology.org",
+      "source": "latimes.com",
       "n": 1,
-      "avg_tone": 4.533
+      "avg_tone": -2.375
     },
     {
-      "source": "dominicanrepublicpost.com",
+      "source": "arynews.tv",
       "n": 1,
-      "avg_tone": -5.952
+      "avg_tone": -1.456
     },
     {
-      "source": "bangladeshsun.com",
+      "source": "kpbs.org",
       "n": 1,
-      "avg_tone": 2.22
+      "avg_tone": 4.688
     },
     {
-      "source": "motherearthnews.com",
-      "n": 1,
-      "avg_tone": 0.204
-    },
-    {
-      "source": "indiatimes.com",
-      "n": 1,
-      "avg_tone": -0.608
-    },
-    {
-      "source": "asiabulletin.com",
+      "source": "indiagazette.com",
       "n": 1,
       "avg_tone": 2.22
     },
     {
-      "source": "calcuttanews.net",
+      "source": "ecr.co.za",
+      "n": 1,
+      "avg_tone": -5.634
+    },
+    {
+      "source": "newstribune.com",
+      "n": 1,
+      "avg_tone": -1.8
+    },
+    {
+      "source": "americanthinker.com",
+      "n": 1,
+      "avg_tone": -1.057
+    },
+    {
+      "source": "nepalnational.com",
       "n": 1,
       "avg_tone": 2.22
     },
     {
-      "source": "standardmedia.co.ke",
+      "source": "trinidadtimes.com",
       "n": 1,
-      "avg_tone": -2.319
+      "avg_tone": -0.678
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_WORLDLANGUAGES_RUSSIA",
-      "n": 63
+      "n": 127
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 39
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 58
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 39
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 53
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 35
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 44
     },
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 35
-    },
-    {
-      "theme": "ENV_METALS",
-      "n": 34
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 34
-    },
-    {
-      "theme": "WB_2934_COPPER",
-      "n": 34
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 34
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 30
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 28
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 26
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 36
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 26
+      "n": 36
     },
     {
-      "theme": "TAX_ETHNICITY_IRANIAN",
-      "n": 26
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 34
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_KANSAS",
-      "n": 26
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 33
+    },
+    {
+      "theme": "SECURITY_SERVICES",
+      "n": 33
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 30
+    },
+    {
+      "theme": "ORGANIZED_CRIME",
+      "n": 29
+    },
+    {
+      "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
+      "n": 29
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 29
+    },
+    {
+      "theme": "TAX_FNCACT_POLICE",
+      "n": 29
+    },
+    {
+      "theme": "EPU_CATS_REGULATION",
+      "n": 28
     }
   ]
 }
