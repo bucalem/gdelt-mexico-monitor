@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-21T04:51:48.122708+00:00",
-  "rows_total_scanned_last_run": 2835,
-  "rows_mexico_last_run": 28,
-  "overall_avg_tone_4h": -1.228,
+  "generated_at": "2026-08-21T05:23:48.909990+00:00",
+  "rows_total_scanned_last_run": 3003,
+  "rows_mexico_last_run": 25,
+  "overall_avg_tone_4h": -1.245,
   "timeline": [
-    {
-      "time": "2026-08-18T05:00",
-      "avg_tone": -0.697,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-18T05:15",
-      "avg_tone": 0.957,
-      "n_articles": 10
-    },
     {
       "time": "2026-08-18T05:30",
       "avg_tone": -0.918,
@@ -1403,23 +1393,58 @@
       "time": "2026-08-21T05:00",
       "avg_tone": -1.486,
       "n_articles": 8
+    },
+    {
+      "time": "2026-08-21T05:15",
+      "avg_tone": -2.532,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-08-21T05:30",
+      "avg_tone": -0.76,
+      "n_articles": 5
     }
   ],
   "top_sources": [
+    {
+      "source": "arkansasonline.com",
+      "n": 3,
+      "avg_tone": -2.782
+    },
+    {
+      "source": "netscape.com",
+      "n": 2,
+      "avg_tone": -4.684
+    },
     {
       "source": "theepochtimes.com",
       "n": 2,
       "avg_tone": -3.506
     },
     {
-      "source": "greaterbelize.com",
-      "n": 2,
-      "avg_tone": -3.42
+      "source": "mv-voice.com",
+      "n": 1,
+      "avg_tone": -1.209
     },
     {
-      "source": "archinect.com",
-      "n": 2,
-      "avg_tone": 1.734
+      "source": "eastoregonian.com",
+      "n": 1,
+      "avg_tone": 5.755
+    },
+    {
+      "source": "noise11.com",
+      "n": 1,
+      "avg_tone": -1.807
+    },
+    {
+      "source": "dailybreeze.com",
+      "n": 1,
+      "avg_tone": 3.03
+    },
+    {
+      "source": "collider.com",
+      "n": 1,
+      "avg_tone": -4.512
     },
     {
       "source": "mirror.co.uk",
@@ -1455,61 +1480,36 @@
       "source": "lewistownsentinel.com",
       "n": 1,
       "avg_tone": 1.829
-    },
-    {
-      "source": "brandonsun.com",
-      "n": 1,
-      "avg_tone": -2.424
-    },
-    {
-      "source": "theguardian.com",
-      "n": 1,
-      "avg_tone": -2.395
-    },
-    {
-      "source": "hola.com",
-      "n": 1,
-      "avg_tone": 4.945
-    },
-    {
-      "source": "australianherald.com",
-      "n": 1,
-      "avg_tone": -1.379
-    },
-    {
-      "source": "chinadaily.com.cn",
-      "n": 1,
-      "avg_tone": 3.872
     }
   ],
   "top_themes": [
     {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 47
+    },
+    {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 56
+      "n": 46
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 55
+      "n": 46
     },
     {
       "theme": "WB_1014_CRIMINAL_JUSTICE",
-      "n": 55
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 48
+      "n": 45
     },
     {
       "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
-      "n": 45
+      "n": 44
     },
     {
       "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 45
+      "n": 43
     },
     {
       "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
-      "n": 45
+      "n": 43
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
@@ -1517,7 +1517,7 @@
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 36
+      "n": 35
     },
     {
       "theme": "IMMIGRATION",
@@ -1541,7 +1541,7 @@
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 29
+      "n": 28
     }
   ]
 }
