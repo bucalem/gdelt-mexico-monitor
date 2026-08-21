@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-21T21:14:36.004140+00:00",
-  "rows_total_scanned_last_run": 5535,
-  "rows_mexico_last_run": 72,
-  "overall_avg_tone_4h": -0.391,
+  "generated_at": "2026-08-21T21:39:57.926326+00:00",
+  "rows_total_scanned_last_run": 3975,
+  "rows_mexico_last_run": 49,
+  "overall_avg_tone_4h": -0.537,
   "timeline": [
-    {
-      "time": "2026-08-18T21:15",
-      "avg_tone": -2.032,
-      "n_articles": 31
-    },
-    {
-      "time": "2026-08-18T21:30",
-      "avg_tone": -2.15,
-      "n_articles": 28
-    },
     {
       "time": "2026-08-18T21:45",
       "avg_tone": -1.284,
@@ -1413,9 +1403,19 @@
       "time": "2026-08-21T21:15",
       "avg_tone": -1.388,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-21T21:30",
+      "avg_tone": -1.327,
+      "n_articles": 20
     }
   ],
   "top_sources": [
+    {
+      "source": "breitbart.com",
+      "n": 2,
+      "avg_tone": -5.052
+    },
     {
       "source": "australiannews.net",
       "n": 2,
@@ -1427,131 +1427,126 @@
       "avg_tone": -2.126
     },
     {
-      "source": "wgauradio.com",
-      "n": 2,
-      "avg_tone": -2.126
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 2,
-      "avg_tone": 1.977
-    },
-    {
-      "source": "gazette.com",
-      "n": 2,
-      "avg_tone": -0.048
-    },
-    {
-      "source": "maineantiquedigest.com",
+      "source": "androidcentral.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": 3.198
     },
     {
-      "source": "newschannel10.com",
+      "source": "929thelake.com",
       "n": 1,
-      "avg_tone": 0.697
+      "avg_tone": 3.757
     },
     {
-      "source": "redlandsdailyfacts.com",
+      "source": "spokesman.com",
       "n": 1,
-      "avg_tone": -1.288
+      "avg_tone": -1.484
     },
     {
-      "source": "aspentimes.com",
+      "source": "thepoultrysite.com",
       "n": 1,
-      "avg_tone": 4.106
+      "avg_tone": -2.341
     },
     {
-      "source": "wtvm.com",
+      "source": "hometownregister.com",
       "n": 1,
-      "avg_tone": -1.536
+      "avg_tone": -10.316
     },
     {
-      "source": "e-flux.com",
+      "source": "kutx.org",
       "n": 1,
-      "avg_tone": -1.622
+      "avg_tone": 2.351
     },
     {
-      "source": "latimes.com",
+      "source": "local10.com",
       "n": 1,
-      "avg_tone": -5.914
+      "avg_tone": -1.495
     },
     {
-      "source": "shafaqna.com",
+      "source": "nigerianeye.com",
       "n": 1,
-      "avg_tone": -8.929
+      "avg_tone": 0.418
     },
     {
-      "source": "click2houston.com",
+      "source": "cbc.ca",
       "n": 1,
-      "avg_tone": -1.395
+      "avg_tone": -1.899
     },
     {
-      "source": "wesh.com",
+      "source": "bignewsnetwork.com",
       "n": 1,
-      "avg_tone": -0.726
+      "avg_tone": -1.742
+    },
+    {
+      "source": "finanznachrichten.de",
+      "n": 1,
+      "avg_tone": 0.483
+    },
+    {
+      "source": "livemint.com",
+      "n": 1,
+      "avg_tone": -6.189
     }
   ],
   "top_themes": [
     {
       "theme": "AGRICULTURE",
-      "n": 171
+      "n": 153
     },
     {
       "theme": "LEADER",
-      "n": 152
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 142
+      "n": 103
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 141
+      "n": 95
     },
     {
-      "theme": "BORDER",
-      "n": 127
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 94
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 104
+      "n": 93
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 66
+      "theme": "BORDER",
+      "n": 83
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 48
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 41
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 45
+      "n": 39
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 45
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 38
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 44
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 41
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 41
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 35
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 39
+      "n": 35
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 39
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 33
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_MILK",
+      "n": 32
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 30
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 29
     }
   ]
 }
