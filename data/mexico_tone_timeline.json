@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-21T07:27:10.060969+00:00",
-  "rows_total_scanned_last_run": 3531,
-  "rows_mexico_last_run": 31,
-  "overall_avg_tone_4h": -1.363,
+  "generated_at": "2026-08-21T08:04:13.633752+00:00",
+  "rows_total_scanned_last_run": 3365,
+  "rows_mexico_last_run": 34,
+  "overall_avg_tone_4h": -1.07,
   "timeline": [
-    {
-      "time": "2026-08-18T07:30",
-      "avg_tone": -0.23,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-08-18T07:45",
-      "avg_tone": -0.188,
-      "n_articles": 3
-    },
-    {
-      "time": "2026-08-18T08:00",
-      "avg_tone": 0.39,
-      "n_articles": 12
-    },
     {
       "time": "2026-08-18T08:15",
       "avg_tone": -0.784,
@@ -1408,145 +1393,155 @@
       "time": "2026-08-21T07:30",
       "avg_tone": -0.312,
       "n_articles": 10
+    },
+    {
+      "time": "2026-08-21T07:45",
+      "avg_tone": -1.105,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-08-21T08:00",
+      "avg_tone": -1.065,
+      "n_articles": 12
     }
   ],
   "top_sources": [
+    {
+      "source": "santafenewmexican.com",
+      "n": 3,
+      "avg_tone": -0.526
+    },
     {
       "source": "haitisun.com",
       "n": 2,
       "avg_tone": -1.186
     },
     {
-      "source": "citizen.co.za",
-      "n": 2,
-      "avg_tone": -2.872
-    },
-    {
-      "source": "almanacnews.com",
+      "source": "bakersfield.com",
       "n": 1,
-      "avg_tone": -1.253
+      "avg_tone": 0.219
     },
     {
-      "source": "kdwa.com",
-      "n": 1,
-      "avg_tone": -1.905
-    },
-    {
-      "source": "tonyskansascity.com",
-      "n": 1,
-      "avg_tone": -1.485
-    },
-    {
-      "source": "torontotelegraph.com",
+      "source": "caribbeanherald.com",
       "n": 1,
       "avg_tone": -0.678
     },
     {
-      "source": "oit.edu",
+      "source": "upi.com",
       "n": 1,
-      "avg_tone": 5.023
+      "avg_tone": -5.684
     },
     {
-      "source": "itbrief.co.nz",
+      "source": "esmmagazine.com",
       "n": 1,
-      "avg_tone": 1.656
+      "avg_tone": 1.676
     },
     {
-      "source": "tribuneonlineng.com",
+      "source": "allafrica.com",
       "n": 1,
-      "avg_tone": -2.838
+      "avg_tone": -6.818
     },
     {
-      "source": "clevelandjewishnews.com",
+      "source": "dailydispatch.co.za",
       "n": 1,
-      "avg_tone": 0.733
+      "avg_tone": 0.671
     },
     {
-      "source": "valleynewslive.com",
+      "source": "cecildaily.com",
       "n": 1,
-      "avg_tone": 2.074
+      "avg_tone": -3.657
     },
     {
-      "source": "bignewsnetwork.com",
+      "source": "prestigeonline.com",
       "n": 1,
-      "avg_tone": -0.676
+      "avg_tone": 2.436
     },
     {
-      "source": "jacarandafm.com",
+      "source": "yumasun.com",
       "n": 1,
-      "avg_tone": -8.271
+      "avg_tone": 0.632
     },
     {
-      "source": "rappler.com",
+      "source": "kesq.com",
       "n": 1,
-      "avg_tone": 3.444
+      "avg_tone": 0.0
     },
     {
-      "source": "zerohedge.com",
+      "source": "winnipegfreepress.com",
       "n": 1,
-      "avg_tone": -1.836
+      "avg_tone": -4.204
+    },
+    {
+      "source": "bigislandnow.com",
+      "n": 1,
+      "avg_tone": -4.332
+    },
+    {
+      "source": "thehindu.com",
+      "n": 1,
+      "avg_tone": 4.115
     }
   ],
   "top_themes": [
     {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 38
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 36
+    },
+    {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 49
-    },
-    {
-      "theme": "WB_1331_HEALTH_TECHNOLOGIES",
-      "n": 42
-    },
-    {
-      "theme": "WB_1350_PHARMACEUTICALS",
-      "n": 42
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 41
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 39
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 35
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 34
-    },
-    {
-      "theme": "WB_2453_ORGANIZED_CRIME",
-      "n": 30
-    },
-    {
-      "theme": "WB_2456_DRUGS_AND_NARCOTICS",
-      "n": 30
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 29
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 27
+      "n": 36
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 27
+      "n": 34
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 34
     },
     {
       "theme": "LEADER",
-      "n": 27
+      "n": 33
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 32
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 30
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 29
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 27
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 25
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 27
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 24
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 24
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 24
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 24
     }
   ]
 }
