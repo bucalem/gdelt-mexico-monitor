@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-21T08:55:14.682777+00:00",
-  "rows_total_scanned_last_run": 3752,
-  "rows_mexico_last_run": 38,
-  "overall_avg_tone_4h": -0.766,
+  "generated_at": "2026-08-21T09:27:06.176317+00:00",
+  "rows_total_scanned_last_run": 3895,
+  "rows_mexico_last_run": 30,
+  "overall_avg_tone_4h": -0.634,
   "timeline": [
-    {
-      "time": "2026-08-18T09:00",
-      "avg_tone": -0.982,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-18T09:15",
-      "avg_tone": -0.684,
-      "n_articles": 9
-    },
     {
       "time": "2026-08-18T09:30",
       "avg_tone": 3.567,
@@ -1408,13 +1398,63 @@
       "time": "2026-08-21T09:00",
       "avg_tone": 0.495,
       "n_articles": 10
+    },
+    {
+      "time": "2026-08-21T09:15",
+      "avg_tone": 0.424,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-08-21T09:30",
+      "avg_tone": -0.289,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
+      "source": "lasvegassun.com",
+      "n": 2,
+      "avg_tone": -0.893
+    },
+    {
       "source": "wsws.org",
       "n": 2,
       "avg_tone": -5.403
+    },
+    {
+      "source": "aol.co.uk",
+      "n": 1,
+      "avg_tone": -0.746
+    },
+    {
+      "source": "theglobeandmail.com",
+      "n": 1,
+      "avg_tone": -0.388
+    },
+    {
+      "source": "yahoo.com",
+      "n": 1,
+      "avg_tone": 1.477
+    },
+    {
+      "source": "indiatimes.com",
+      "n": 1,
+      "avg_tone": 0.469
+    },
+    {
+      "source": "caribbeanherald.com",
+      "n": 1,
+      "avg_tone": 4.673
+    },
+    {
+      "source": "mercopress.com",
+      "n": 1,
+      "avg_tone": -1.075
+    },
+    {
+      "source": "news.tuoitre.vn",
+      "n": 1,
+      "avg_tone": -2.372
     },
     {
       "source": "710keel.com",
@@ -1445,108 +1485,68 @@
       "source": "thejudge13.com",
       "n": 1,
       "avg_tone": -0.688
-    },
-    {
-      "source": "ktvz.com",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "bssnews.net",
-      "n": 1,
-      "avg_tone": -2.553
-    },
-    {
-      "source": "somdnews.com",
-      "n": 1,
-      "avg_tone": -3.498
-    },
-    {
-      "source": "metro.co.uk",
-      "n": 1,
-      "avg_tone": 2.799
-    },
-    {
-      "source": "srilankasource.com",
-      "n": 1,
-      "avg_tone": 2.22
-    },
-    {
-      "source": "katsfm.com",
-      "n": 1,
-      "avg_tone": 0.251
-    },
-    {
-      "source": "cbc.ca",
-      "n": 1,
-      "avg_tone": -1.299
-    },
-    {
-      "source": "abqjournal.com",
-      "n": 1,
-      "avg_tone": 0.417
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_WORLDLANGUAGES_RUSSIA",
-      "n": 164
-    },
-    {
-      "theme": "ELECTION",
-      "n": 53
+      "n": 80
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 51
+      "n": 43
     },
     {
       "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 49
+      "n": 40
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 49
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 41
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 38
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 37
-    },
-    {
-      "theme": "LEADER",
+      "theme": "EPU_ECONOMY_HISTORIC",
       "n": 35
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 34
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 34
-    },
-    {
       "theme": "EPU_POLICY_POLITICAL",
-      "n": 34
+      "n": 31
+    },
+    {
+      "theme": "WB_2465_REVOLUTIONARY_VIOLENCE",
+      "n": 31
     },
     {
       "theme": "WB_2462_POLITICAL_VIOLENCE_AND_WAR",
-      "n": 32
-    },
-    {
-      "theme": "MILITARY",
       "n": 31
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 31
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 29
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 29
+    },
+    {
+      "theme": "TAX_ETHNICITY_SOVIET",
+      "n": 28
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 27
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 25
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 25
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 22
+    },
+    {
+      "theme": "LEADER",
+      "n": 21
     }
   ]
 }
