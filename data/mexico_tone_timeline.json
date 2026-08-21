@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-21T11:37:48.300540+00:00",
-  "rows_total_scanned_last_run": 4834,
-  "rows_mexico_last_run": 35,
-  "overall_avg_tone_4h": -0.024,
+  "generated_at": "2026-08-21T11:59:13.093440+00:00",
+  "rows_total_scanned_last_run": 4807,
+  "rows_mexico_last_run": 38,
+  "overall_avg_tone_4h": -0.015,
   "timeline": [
-    {
-      "time": "2026-08-18T11:45",
-      "avg_tone": 0.265,
-      "n_articles": 4
-    },
     {
       "time": "2026-08-18T12:00",
       "avg_tone": 1.716,
@@ -1408,6 +1403,11 @@
       "time": "2026-08-21T11:45",
       "avg_tone": 0.611,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-21T12:00",
+      "avg_tone": -0.819,
+      "n_articles": 14
     }
   ],
   "top_sources": [
@@ -1415,6 +1415,11 @@
       "source": "globalsecurity.org",
       "n": 4,
       "avg_tone": -1.671
+    },
+    {
+      "source": "dailystar.co.uk",
+      "n": 2,
+      "avg_tone": -6.543
     },
     {
       "source": "chicagotribune.com",
@@ -1432,121 +1437,116 @@
       "avg_tone": 3.588
     },
     {
-      "source": "jamaicantimes.com",
+      "source": "texastribune.org",
       "n": 1,
-      "avg_tone": -0.678
+      "avg_tone": -1.124
     },
     {
-      "source": "elitetraveler.com",
+      "source": "prnewswire.com",
       "n": 1,
-      "avg_tone": 3.466
+      "avg_tone": 3.9
     },
     {
-      "source": "resilience.org",
+      "source": "haitisun.com",
       "n": 1,
-      "avg_tone": -2.375
+      "avg_tone": 2.22
     },
     {
-      "source": "wtvbam.com",
+      "source": "morningstar.com",
       "n": 1,
-      "avg_tone": -0.328
+      "avg_tone": -0.776
     },
     {
-      "source": "decanter.com",
+      "source": "grandprix247.com",
       "n": 1,
-      "avg_tone": 4.186
+      "avg_tone": 0.626
     },
     {
-      "source": "finanznachrichten.de",
+      "source": "moneyweek.com",
       "n": 1,
-      "avg_tone": 3.849
+      "avg_tone": 1.724
     },
     {
-      "source": "independent.co.uk",
+      "source": "mymotherlode.com",
       "n": 1,
-      "avg_tone": 1.963
+      "avg_tone": -3.069
     },
     {
-      "source": "mykxlg.com",
+      "source": "collider.com",
       "n": 1,
-      "avg_tone": -3.473
+      "avg_tone": -0.868
     },
     {
-      "source": "morningadvertiser.co.uk",
+      "source": "developingtelecoms.com",
       "n": 1,
-      "avg_tone": 3.526
+      "avg_tone": -3.593
     },
     {
-      "source": "keyw.com",
+      "source": "cbc.ca",
       "n": 1,
-      "avg_tone": 0.251
-    },
-    {
-      "source": "indiatimes.com",
-      "n": 1,
-      "avg_tone": -1.523
+      "avg_tone": -2.901
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_WORLDLANGUAGES_RUSSIA",
-      "n": 64
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 51
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 49
-    },
-    {
-      "theme": "CRIME_ILLEGAL_DRUGS",
-      "n": 48
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 47
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 45
-    },
-    {
-      "theme": "CRIME_CARTELS",
+      "theme": "USPEC_POLITICS_GENERAL1",
       "n": 39
     },
     {
-      "theme": "WB_1743_ANTICARTEL_ENFORCEMENT",
-      "n": 39
+      "theme": "BORDER",
+      "n": 38
     },
     {
-      "theme": "WB_2446_CARTELS",
-      "n": 39
-    },
-    {
-      "theme": "WB_406_COMPETITION_POLICY",
-      "n": 39
-    },
-    {
-      "theme": "WB_2101_ANTITRUST",
-      "n": 39
-    },
-    {
-      "theme": "EPU_CATS_REGULATION",
-      "n": 39
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 37
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
       "n": 36
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 34
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 35
     },
     {
       "theme": "DRUG_TRADE",
+      "n": 33
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
       "n": 32
+    },
+    {
+      "theme": "CRIME_ILLEGAL_DRUGS",
+      "n": 32
+    },
+    {
+      "theme": "LEADER",
+      "n": 30
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 29
+    },
+    {
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 28
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 28
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 27
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 27
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 26
     }
   ]
 }
