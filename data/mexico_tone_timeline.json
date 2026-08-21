@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-21T20:15:53.598510+00:00",
-  "rows_total_scanned_last_run": 5999,
-  "rows_mexico_last_run": 67,
-  "overall_avg_tone_4h": -0.306,
+  "generated_at": "2026-08-21T20:46:18.603462+00:00",
+  "rows_total_scanned_last_run": 5903,
+  "rows_mexico_last_run": 77,
+  "overall_avg_tone_4h": -0.426,
   "timeline": [
-    {
-      "time": "2026-08-18T20:15",
-      "avg_tone": -1.004,
-      "n_articles": 22
-    },
-    {
-      "time": "2026-08-18T20:30",
-      "avg_tone": -2.619,
-      "n_articles": 21
-    },
-    {
-      "time": "2026-08-18T20:45",
-      "avg_tone": -0.989,
-      "n_articles": 25
-    },
     {
       "time": "2026-08-18T21:00",
       "avg_tone": -0.37,
@@ -1413,13 +1398,38 @@
       "time": "2026-08-21T20:15",
       "avg_tone": 0.136,
       "n_articles": 21
+    },
+    {
+      "time": "2026-08-21T20:30",
+      "avg_tone": -0.28,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-08-21T20:45",
+      "avg_tone": -0.744,
+      "n_articles": 16
     }
   ],
   "top_sources": [
     {
-      "source": "gringogazette.com",
-      "n": 3,
-      "avg_tone": 0.539
+      "source": "wgauradio.com",
+      "n": 2,
+      "avg_tone": -2.126
+    },
+    {
+      "source": "tickerreport.com",
+      "n": 2,
+      "avg_tone": 5.194
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 1.977
+    },
+    {
+      "source": "gazette.com",
+      "n": 2,
+      "avg_tone": -0.048
     },
     {
       "source": "netscape.com",
@@ -1437,121 +1447,106 @@
       "avg_tone": 1.133
     },
     {
-      "source": "wdbo.com",
-      "n": 2,
-      "avg_tone": -2.285
+      "source": "thepost.on.ca",
+      "n": 1,
+      "avg_tone": -0.516
     },
     {
-      "source": "thefencepost.com",
+      "source": "lethbridgeherald.com",
       "n": 1,
-      "avg_tone": 2.142
+      "avg_tone": -1.523
     },
     {
-      "source": "techdirt.com",
+      "source": "bnnbloomberg.ca",
       "n": 1,
-      "avg_tone": -3.819
+      "avg_tone": -2.297
     },
     {
-      "source": "hitsfm.net",
+      "source": "globalnews.ca",
       "n": 1,
-      "avg_tone": 1.327
+      "avg_tone": -2.294
     },
     {
-      "source": "owensoundsuntimes.com",
+      "source": "astronomy.com",
       "n": 1,
-      "avg_tone": -0.327
+      "avg_tone": -0.336
     },
     {
-      "source": "theartnewspaper.com",
+      "source": "107jamz.com",
       "n": 1,
-      "avg_tone": 9.337
+      "avg_tone": 3.768
     },
     {
-      "source": "kpbs.org",
+      "source": "amren.com",
       "n": 1,
-      "avg_tone": 2.256
+      "avg_tone": -7.563
     },
     {
-      "source": "patch.com",
+      "source": "collider.com",
       "n": 1,
-      "avg_tone": -7.949
-    },
-    {
-      "source": "instinctmagazine.com",
-      "n": 1,
-      "avg_tone": 2.812
-    },
-    {
-      "source": "sandiegouniontribune.com",
-      "n": 1,
-      "avg_tone": 2.356
-    },
-    {
-      "source": "upi.com",
-      "n": 1,
-      "avg_tone": -1.412
+      "avg_tone": -5.562
     }
   ],
   "top_themes": [
     {
       "theme": "AGRICULTURE",
-      "n": 216
-    },
-    {
-      "theme": "LEADER",
-      "n": 119
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 117
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 109
-    },
-    {
-      "theme": "BORDER",
-      "n": 109
+      "n": 152
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 102
+      "n": 129
+    },
+    {
+      "theme": "LEADER",
+      "n": 121
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 115
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 105
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 91
+      "n": 82
+    },
+    {
+      "theme": "BORDER",
+      "n": 81
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 75
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
       "n": 75
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 61
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 55
     },
     {
       "theme": "WB_137_WATER",
-      "n": 50
+      "n": 52
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 49
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 46
+      "theme": "GENERAL_HEALTH",
+      "n": 40
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 36
+      "n": 38
     },
     {
-      "theme": "EDUCATION",
-      "n": 34
+      "theme": "WB_698_TRADE",
+      "n": 38
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 34
+      "n": 36
     }
   ]
 }
