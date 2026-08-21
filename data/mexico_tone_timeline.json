@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-21T13:37:53.626580+00:00",
-  "rows_total_scanned_last_run": 4908,
-  "rows_mexico_last_run": 92,
-  "overall_avg_tone_4h": -0.149,
+  "generated_at": "2026-08-21T14:17:31.530568+00:00",
+  "rows_total_scanned_last_run": 5500,
+  "rows_mexico_last_run": 115,
+  "overall_avg_tone_4h": -0.247,
   "timeline": [
-    {
-      "time": "2026-08-18T13:45",
-      "avg_tone": 3.112,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-18T14:00",
-      "avg_tone": 1.423,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-08-18T14:15",
-      "avg_tone": 0.626,
-      "n_articles": 17
-    },
     {
       "time": "2026-08-18T14:30",
       "avg_tone": 2.307,
@@ -1408,18 +1393,28 @@
       "time": "2026-08-21T13:45",
       "avg_tone": -0.343,
       "n_articles": 24
+    },
+    {
+      "time": "2026-08-21T14:00",
+      "avg_tone": -0.583,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-08-21T14:15",
+      "avg_tone": -0.239,
+      "n_articles": 33
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 22,
-      "avg_tone": 0.063
+      "n": 35,
+      "avg_tone": 0.039
     },
     {
       "source": "dailypolitical.com",
-      "n": 4,
-      "avg_tone": 2.999
+      "n": 5,
+      "avg_tone": 2.64
     },
     {
       "source": "cnn.com",
@@ -1427,14 +1422,24 @@
       "avg_tone": 0.724
     },
     {
-      "source": "tickerreport.com",
-      "n": 2,
-      "avg_tone": 2.454
+      "source": "latintimes.com",
+      "n": 3,
+      "avg_tone": -2.34
     },
     {
-      "source": "theepochtimes.com",
+      "source": "thedigitalcourier.com",
       "n": 2,
-      "avg_tone": -5.86
+      "avg_tone": -0.242
+    },
+    {
+      "source": "hometownregister.com",
+      "n": 2,
+      "avg_tone": -0.362
+    },
+    {
+      "source": "elpais.com",
+      "n": 2,
+      "avg_tone": -1.269
     },
     {
       "source": "independent.co.uk",
@@ -1442,111 +1447,101 @@
       "avg_tone": -0.742
     },
     {
-      "source": "thecattlesite.com",
-      "n": 2,
-      "avg_tone": -2.673
-    },
-    {
-      "source": "kunm.org",
-      "n": 2,
-      "avg_tone": -2.234
-    },
-    {
-      "source": "voiceofsandiego.org",
-      "n": 2,
-      "avg_tone": 0.363
-    },
-    {
-      "source": "sidneyherald.com",
+      "source": "krdo.com",
       "n": 1,
-      "avg_tone": 0.53
+      "avg_tone": -0.115
     },
     {
-      "source": "medscape.com",
+      "source": "countryliving.com",
       "n": 1,
-      "avg_tone": -1.804
+      "avg_tone": 1.07
     },
     {
-      "source": "cashboxcanada.ca",
+      "source": "wwd.com",
       "n": 1,
-      "avg_tone": 3.634
+      "avg_tone": -1.672
     },
     {
-      "source": "intouchweekly.com",
+      "source": "patriotpost.us",
       "n": 1,
-      "avg_tone": -4.469
+      "avg_tone": -4.006
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "niagarathisweek.com",
       "n": 1,
-      "avg_tone": 2.32
+      "avg_tone": 1.003
     },
     {
-      "source": "idahostatejournal.com",
+      "source": "artasiapacific.com",
       "n": 1,
-      "avg_tone": -2.88
+      "avg_tone": -1.632
+    },
+    {
+      "source": "wfae.org",
+      "n": 1,
+      "avg_tone": -1.877
     }
   ],
   "top_themes": [
     {
       "theme": "MILITARY",
-      "n": 152
+      "n": 238
     },
     {
       "theme": "TAX_FNCACT_NAVY",
-      "n": 135
+      "n": 217
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 133
+      "n": 194
     },
     {
       "theme": "GENERAL_GOVERNMENT",
-      "n": 110
+      "n": 143
     },
     {
       "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 106
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 93
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 88
+      "n": 141
     },
     {
       "theme": "MARITIME",
-      "n": 86
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 85
+      "n": 138
     },
     {
       "theme": "MARITIME_INCIDENT",
-      "n": 85
+      "n": 136
+    },
+    {
+      "theme": "TAX_WORLDMAMMALS_HORSES",
+      "n": 121
+    },
+    {
+      "theme": "TAX_FNCACT_FISHERMEN",
+      "n": 105
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 103
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 99
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 79
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 77
+      "n": 92
     },
     {
       "theme": "MEDICAL",
-      "n": 77
+      "n": 92
     },
     {
-      "theme": "LEADER",
-      "n": 77
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 92
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 73
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 91
     }
   ]
 }
