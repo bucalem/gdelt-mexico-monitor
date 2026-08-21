@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-21T19:36:28.169454+00:00",
-  "rows_total_scanned_last_run": 6155,
-  "rows_mexico_last_run": 66,
-  "overall_avg_tone_4h": -0.148,
+  "generated_at": "2026-08-21T19:55:14.345284+00:00",
+  "rows_total_scanned_last_run": 6053,
+  "rows_mexico_last_run": 56,
+  "overall_avg_tone_4h": -0.127,
   "timeline": [
-    {
-      "time": "2026-08-18T19:45",
-      "avg_tone": -0.059,
-      "n_articles": 19
-    },
     {
       "time": "2026-08-18T20:00",
       "avg_tone": -1.039,
@@ -1413,6 +1408,11 @@
       "time": "2026-08-21T19:45",
       "avg_tone": -0.754,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-21T20:00",
+      "avg_tone": 0.843,
+      "n_articles": 13
     }
   ],
   "top_sources": [
@@ -1422,136 +1422,136 @@
       "avg_tone": 0.539
     },
     {
-      "source": "troyrecord.com",
-      "n": 3,
-      "avg_tone": 0.944
-    },
-    {
       "source": "wdbo.com",
       "n": 2,
       "avg_tone": -2.285
     },
     {
-      "source": "latintimes.com",
-      "n": 2,
-      "avg_tone": -7.376
-    },
-    {
-      "source": "macombdaily.com",
-      "n": 2,
-      "avg_tone": 2.252
-    },
-    {
-      "source": "nypost.com",
+      "source": "independent.com",
       "n": 1,
-      "avg_tone": 1.991
+      "avg_tone": 3.825
     },
     {
-      "source": "mynbc5.com",
+      "source": "finanznachrichten.de",
+      "n": 1,
+      "avg_tone": 2.081
+    },
+    {
+      "source": "koat.com",
       "n": 1,
       "avg_tone": -0.726
     },
     {
-      "source": "newsweek.com",
+      "source": "citizensvoice.com",
       "n": 1,
-      "avg_tone": -2.014
+      "avg_tone": -1.884
     },
     {
-      "source": "vice.com",
+      "source": "97zokonline.com",
       "n": 1,
-      "avg_tone": -1.579
+      "avg_tone": 2.505
     },
     {
-      "source": "4029tv.com",
+      "source": "historynewsnetwork.org",
       "n": 1,
-      "avg_tone": -0.726
+      "avg_tone": 0.543
     },
     {
-      "source": "torontosun.com",
+      "source": "tickerreport.com",
       "n": 1,
-      "avg_tone": -0.541
+      "avg_tone": 1.969
     },
     {
-      "source": "newsnow.co.uk",
+      "source": "kimt.com",
       "n": 1,
-      "avg_tone": -2.741
+      "avg_tone": 5.445
     },
     {
-      "source": "truthout.org",
+      "source": "isssource.com",
       "n": 1,
-      "avg_tone": -3.923
+      "avg_tone": -8.357
     },
     {
-      "source": "pastemagazine.com",
+      "source": "news4jax.com",
       "n": 1,
-      "avg_tone": -2.913
+      "avg_tone": -1.717
     },
     {
-      "source": "agweek.com",
+      "source": "963kklz.com",
       "n": 1,
-      "avg_tone": 3.161
+      "avg_tone": 1.577
+    },
+    {
+      "source": "hani.co.kr",
+      "n": 1,
+      "avg_tone": 0.638
+    },
+    {
+      "source": "tvone.tv",
+      "n": 1,
+      "avg_tone": 5.065
     }
   ],
   "top_themes": [
     {
       "theme": "AGRICULTURE",
-      "n": 184
-    },
-    {
-      "theme": "BORDER",
-      "n": 125
+      "n": 182
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 117
-    },
-    {
-      "theme": "LEADER",
       "n": 105
     },
     {
+      "theme": "LEADER",
+      "n": 103
+    },
+    {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 99
+      "n": 101
+    },
+    {
+      "theme": "BORDER",
+      "n": 95
     },
     {
       "theme": "TAX_ECON_PRICE",
       "n": 79
     },
     {
-      "theme": "WB_137_WATER",
-      "n": 61
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 50
-    },
-    {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 50
+      "n": 54
     },
     {
-      "theme": "TAX_FOODSTAPLES_CORN",
-      "n": 42
+      "theme": "WB_137_WATER",
+      "n": 44
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 41
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 43
     },
     {
       "theme": "WB_1406_DISEASES",
-      "n": 38
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
       "n": 36
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 35
+      "n": 33
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 35
+      "theme": "WB_1427_NON_COMMUNICABLE_DISEASE_AND_INJURY",
+      "n": 32
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 29
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 28
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 28
     }
   ]
 }
