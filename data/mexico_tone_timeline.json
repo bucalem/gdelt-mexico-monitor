@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-21T23:15:01.347674+00:00",
-  "rows_total_scanned_last_run": 4740,
-  "rows_mexico_last_run": 70,
-  "overall_avg_tone_4h": -0.264,
+  "generated_at": "2026-08-21T23:40:40.427792+00:00",
+  "rows_total_scanned_last_run": 3378,
+  "rows_mexico_last_run": 57,
+  "overall_avg_tone_4h": -0.333,
   "timeline": [
-    {
-      "time": "2026-08-18T23:15",
-      "avg_tone": -2.479,
-      "n_articles": 31
-    },
-    {
-      "time": "2026-08-18T23:30",
-      "avg_tone": -0.858,
-      "n_articles": 26
-    },
     {
       "time": "2026-08-18T23:45",
       "avg_tone": -0.701,
@@ -1413,13 +1403,33 @@
       "time": "2026-08-21T23:15",
       "avg_tone": 0.36,
       "n_articles": 16
+    },
+    {
+      "time": "2026-08-21T23:30",
+      "avg_tone": -1.184,
+      "n_articles": 22
     }
   ],
   "top_sources": [
     {
+      "source": "krgv.com",
+      "n": 4,
+      "avg_tone": -2.714
+    },
+    {
+      "source": "wlky.com",
+      "n": 3,
+      "avg_tone": 0.285
+    },
+    {
       "source": "wmtw.com",
       "n": 3,
       "avg_tone": 0.285
+    },
+    {
+      "source": "wgal.com",
+      "n": 2,
+      "avg_tone": 0.79
     },
     {
       "source": "thecattlesite.com",
@@ -1452,106 +1462,91 @@
       "avg_tone": 0.232
     },
     {
-      "source": "wyff4.com",
-      "n": 2,
-      "avg_tone": 0.789
-    },
-    {
-      "source": "theblaze.com",
-      "n": 2,
-      "avg_tone": -1.787
-    },
-    {
-      "source": "wapt.com",
-      "n": 2,
-      "avg_tone": 0.79
-    },
-    {
-      "source": "vnews.com",
+      "source": "wtva.com",
       "n": 1,
-      "avg_tone": 1.658
+      "avg_tone": -1.536
     },
     {
-      "source": "unionleader.com",
+      "source": "homelandsecuritynewswire.com",
       "n": 1,
-      "avg_tone": -2.161
+      "avg_tone": -0.221
     },
     {
-      "source": "heraldglobe.com",
+      "source": "brobible.com",
       "n": 1,
-      "avg_tone": 0.217
+      "avg_tone": -1.466
     },
     {
-      "source": "stcatharinesstandard.ca",
+      "source": "cbsnews.com",
       "n": 1,
-      "avg_tone": -0.647
+      "avg_tone": -5.689
     },
     {
-      "source": "hindustantimes.com",
+      "source": "redriverradio.org",
       "n": 1,
-      "avg_tone": -4.275
+      "avg_tone": 3.03
     }
   ],
   "top_themes": [
     {
       "theme": "AGRICULTURE",
-      "n": 165
+      "n": 162
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 135
-    },
-    {
-      "theme": "LEADER",
-      "n": 101
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 97
+      "n": 144
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 93
+      "n": 105
+    },
+    {
+      "theme": "LEADER",
+      "n": 98
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 98
+    },
+    {
+      "theme": "BORDER",
+      "n": 66
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 63
+      "n": 58
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 61
+      "n": 54
     },
     {
       "theme": "TAX_FOODSTAPLES_MILK",
       "n": 52
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 47
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "theme": "GENERAL_GOVERNMENT",
       "n": 46
     },
     {
-      "theme": "EDUCATION",
-      "n": 45
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 46
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "theme": "EPU_POLICY_GOVERNMENT",
       "n": 43
     },
     {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 42
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 41
     },
     {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 42
+      "theme": "WB_698_TRADE",
+      "n": 40
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 42
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 38
     }
   ]
 }
