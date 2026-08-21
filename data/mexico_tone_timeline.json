@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-21T11:01:56.599257+00:00",
-  "rows_total_scanned_last_run": 4343,
-  "rows_mexico_last_run": 41,
-  "overall_avg_tone_4h": -0.186,
+  "generated_at": "2026-08-21T11:37:48.300540+00:00",
+  "rows_total_scanned_last_run": 4834,
+  "rows_mexico_last_run": 35,
+  "overall_avg_tone_4h": -0.024,
   "timeline": [
-    {
-      "time": "2026-08-18T11:15",
-      "avg_tone": -2.055,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-08-18T11:30",
-      "avg_tone": -0.595,
-      "n_articles": 12
-    },
     {
       "time": "2026-08-18T11:45",
       "avg_tone": 0.265,
@@ -1403,145 +1393,160 @@
       "time": "2026-08-21T11:00",
       "avg_tone": -0.165,
       "n_articles": 11
+    },
+    {
+      "time": "2026-08-21T11:15",
+      "avg_tone": -1.4,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-21T11:30",
+      "avg_tone": 1.967,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-21T11:45",
+      "avg_tone": 0.611,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
-      "source": "aol.co.uk",
+      "source": "globalsecurity.org",
+      "n": 4,
+      "avg_tone": -1.671
+    },
+    {
+      "source": "chicagotribune.com",
       "n": 2,
-      "avg_tone": -2.064
+      "avg_tone": 1.32
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "venezuelastar.com",
       "n": 2,
-      "avg_tone": 2.41
+      "avg_tone": 1.997
     },
     {
-      "source": "arkansasonline.com",
+      "source": "yahoo.com",
       "n": 2,
-      "avg_tone": -4.316
+      "avg_tone": 3.588
     },
     {
-      "source": "driving.ca",
+      "source": "jamaicantimes.com",
       "n": 1,
-      "avg_tone": 1.171
+      "avg_tone": -0.678
     },
     {
-      "source": "bignewsnetwork.com",
+      "source": "elitetraveler.com",
       "n": 1,
-      "avg_tone": 2.217
+      "avg_tone": 3.466
     },
     {
-      "source": "nypost.com",
-      "n": 1,
-      "avg_tone": -2.008
-    },
-    {
-      "source": "latimes.com",
+      "source": "resilience.org",
       "n": 1,
       "avg_tone": -2.375
     },
     {
-      "source": "arynews.tv",
+      "source": "wtvbam.com",
       "n": 1,
-      "avg_tone": -1.456
+      "avg_tone": -0.328
     },
     {
-      "source": "kpbs.org",
+      "source": "decanter.com",
       "n": 1,
-      "avg_tone": 4.688
+      "avg_tone": 4.186
     },
     {
-      "source": "indiagazette.com",
+      "source": "finanznachrichten.de",
       "n": 1,
-      "avg_tone": 2.22
+      "avg_tone": 3.849
     },
     {
-      "source": "ecr.co.za",
+      "source": "independent.co.uk",
       "n": 1,
-      "avg_tone": -5.634
+      "avg_tone": 1.963
     },
     {
-      "source": "newstribune.com",
+      "source": "mykxlg.com",
       "n": 1,
-      "avg_tone": -1.8
+      "avg_tone": -3.473
     },
     {
-      "source": "americanthinker.com",
+      "source": "morningadvertiser.co.uk",
       "n": 1,
-      "avg_tone": -1.057
+      "avg_tone": 3.526
     },
     {
-      "source": "nepalnational.com",
+      "source": "keyw.com",
       "n": 1,
-      "avg_tone": 2.22
+      "avg_tone": 0.251
     },
     {
-      "source": "trinidadtimes.com",
+      "source": "indiatimes.com",
       "n": 1,
-      "avg_tone": -0.678
+      "avg_tone": -1.523
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_WORLDLANGUAGES_RUSSIA",
-      "n": 127
+      "n": 64
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 58
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 53
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 44
+      "n": 51
     },
     {
       "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 49
+    },
+    {
+      "theme": "CRIME_ILLEGAL_DRUGS",
+      "n": 48
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 47
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 45
+    },
+    {
+      "theme": "CRIME_CARTELS",
+      "n": 39
+    },
+    {
+      "theme": "WB_1743_ANTICARTEL_ENFORCEMENT",
+      "n": 39
+    },
+    {
+      "theme": "WB_2446_CARTELS",
+      "n": 39
+    },
+    {
+      "theme": "WB_406_COMPETITION_POLICY",
+      "n": 39
+    },
+    {
+      "theme": "WB_2101_ANTITRUST",
+      "n": 39
+    },
+    {
+      "theme": "EPU_CATS_REGULATION",
+      "n": 39
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 36
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 36
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 34
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 33
-    },
-    {
-      "theme": "SECURITY_SERVICES",
-      "n": 33
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 30
-    },
-    {
-      "theme": "ORGANIZED_CRIME",
-      "n": 29
-    },
-    {
-      "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
-      "n": 29
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 29
-    },
-    {
-      "theme": "TAX_FNCACT_POLICE",
-      "n": 29
-    },
-    {
-      "theme": "EPU_CATS_REGULATION",
-      "n": 28
+      "theme": "DRUG_TRADE",
+      "n": 32
     }
   ]
 }
