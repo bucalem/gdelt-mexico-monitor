@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-21T11:59:13.093440+00:00",
-  "rows_total_scanned_last_run": 4807,
-  "rows_mexico_last_run": 38,
-  "overall_avg_tone_4h": -0.015,
+  "generated_at": "2026-08-21T12:51:32.079956+00:00",
+  "rows_total_scanned_last_run": 5059,
+  "rows_mexico_last_run": 58,
+  "overall_avg_tone_4h": -0.031,
   "timeline": [
-    {
-      "time": "2026-08-18T12:00",
-      "avg_tone": 1.716,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-08-18T12:15",
-      "avg_tone": 0.971,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-18T12:30",
-      "avg_tone": -1.288,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-08-18T12:45",
-      "avg_tone": -0.611,
-      "n_articles": 10
-    },
     {
       "time": "2026-08-18T13:00",
       "avg_tone": 0.417,
@@ -1408,13 +1388,63 @@
       "time": "2026-08-21T12:00",
       "avg_tone": -0.819,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-21T12:15",
+      "avg_tone": -0.643,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-08-21T12:30",
+      "avg_tone": -0.295,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-08-21T12:45",
+      "avg_tone": 0.261,
+      "n_articles": 14
     }
   ],
   "top_sources": [
     {
-      "source": "globalsecurity.org",
-      "n": 4,
-      "avg_tone": -1.671
+      "source": "tickerreport.com",
+      "n": 3,
+      "avg_tone": 3.176
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 2.892
+    },
+    {
+      "source": "latimes.com",
+      "n": 2,
+      "avg_tone": 0.886
+    },
+    {
+      "source": "cnn.com",
+      "n": 2,
+      "avg_tone": 0.724
+    },
+    {
+      "source": "cbc.ca",
+      "n": 2,
+      "avg_tone": -3.679
+    },
+    {
+      "source": "freshfruitportal.com",
+      "n": 2,
+      "avg_tone": 2.443
+    },
+    {
+      "source": "fortune.com",
+      "n": 2,
+      "avg_tone": -0.442
+    },
+    {
+      "source": "proactiveinvestors.co.uk",
+      "n": 2,
+      "avg_tone": 0.275
     },
     {
       "source": "dailystar.co.uk",
@@ -1422,131 +1452,96 @@
       "avg_tone": -6.543
     },
     {
-      "source": "chicagotribune.com",
-      "n": 2,
-      "avg_tone": 1.32
+      "source": "northeasttoday.in",
+      "n": 1,
+      "avg_tone": -1.548
     },
     {
-      "source": "venezuelastar.com",
-      "n": 2,
-      "avg_tone": 1.997
+      "source": "townandcountrymag.com",
+      "n": 1,
+      "avg_tone": 0.602
+    },
+    {
+      "source": "northernpublicradio.org",
+      "n": 1,
+      "avg_tone": -1.877
+    },
+    {
+      "source": "wyomingnews.com",
+      "n": 1,
+      "avg_tone": -3.606
+    },
+    {
+      "source": "delawarepublic.org",
+      "n": 1,
+      "avg_tone": -1.877
     },
     {
       "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": 3.588
-    },
-    {
-      "source": "texastribune.org",
       "n": 1,
-      "avg_tone": -1.124
-    },
-    {
-      "source": "prnewswire.com",
-      "n": 1,
-      "avg_tone": 3.9
-    },
-    {
-      "source": "haitisun.com",
-      "n": 1,
-      "avg_tone": 2.22
-    },
-    {
-      "source": "morningstar.com",
-      "n": 1,
-      "avg_tone": -0.776
-    },
-    {
-      "source": "grandprix247.com",
-      "n": 1,
-      "avg_tone": 0.626
-    },
-    {
-      "source": "moneyweek.com",
-      "n": 1,
-      "avg_tone": 1.724
-    },
-    {
-      "source": "mymotherlode.com",
-      "n": 1,
-      "avg_tone": -3.069
-    },
-    {
-      "source": "collider.com",
-      "n": 1,
-      "avg_tone": -0.868
-    },
-    {
-      "source": "developingtelecoms.com",
-      "n": 1,
-      "avg_tone": -3.593
-    },
-    {
-      "source": "cbc.ca",
-      "n": 1,
-      "avg_tone": -2.901
+      "avg_tone": -5.349
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 39
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 85
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 81
     },
     {
       "theme": "BORDER",
-      "n": 38
+      "n": 71
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 37
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 67
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_RUSSIA",
+      "n": 67
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 36
+      "n": 57
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 52
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 35
-    },
-    {
-      "theme": "DRUG_TRADE",
-      "n": 33
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 32
-    },
-    {
-      "theme": "CRIME_ILLEGAL_DRUGS",
-      "n": 32
-    },
-    {
-      "theme": "LEADER",
-      "n": 30
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 29
-    },
-    {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 28
+      "n": 46
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 28
+      "n": 45
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 45
+    },
+    {
+      "theme": "LEADER",
+      "n": 43
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 27
+      "n": 42
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 27
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 41
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 26
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 40
+    },
+    {
+      "theme": "TAX_ETHNICITY_IRANIAN",
+      "n": 39
     }
   ]
 }
