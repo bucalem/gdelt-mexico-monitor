@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-21T23:40:40.427792+00:00",
-  "rows_total_scanned_last_run": 3378,
-  "rows_mexico_last_run": 57,
-  "overall_avg_tone_4h": -0.333,
+  "generated_at": "2026-08-21T23:57:58.478800+00:00",
+  "rows_total_scanned_last_run": 3356,
+  "rows_mexico_last_run": 60,
+  "overall_avg_tone_4h": -0.323,
   "timeline": [
-    {
-      "time": "2026-08-18T23:45",
-      "avg_tone": -0.701,
-      "n_articles": 28
-    },
     {
       "time": "2026-08-19T00:00",
       "avg_tone": -0.043,
@@ -1408,6 +1403,11 @@
       "time": "2026-08-21T23:30",
       "avg_tone": -1.184,
       "n_articles": 22
+    },
+    {
+      "time": "2026-08-22T00:00",
+      "avg_tone": -0.464,
+      "n_articles": 22
     }
   ],
   "top_sources": [
@@ -1415,6 +1415,16 @@
       "source": "krgv.com",
       "n": 4,
       "avg_tone": -2.714
+    },
+    {
+      "source": "wmur.com",
+      "n": 3,
+      "avg_tone": 0.285
+    },
+    {
+      "source": "kmbc.com",
+      "n": 3,
+      "avg_tone": 0.285
     },
     {
       "source": "wlky.com",
@@ -1427,6 +1437,16 @@
       "avg_tone": 0.285
     },
     {
+      "source": "corvallisadvocate.com",
+      "n": 2,
+      "avg_tone": 0.652
+    },
+    {
+      "source": "wdsu.com",
+      "n": 2,
+      "avg_tone": 0.79
+    },
+    {
       "source": "wgal.com",
       "n": 2,
       "avg_tone": 0.79
@@ -1437,116 +1457,96 @@
       "avg_tone": -1.949
     },
     {
-      "source": "cheknews.ca",
-      "n": 2,
-      "avg_tone": -1.341
-    },
-    {
-      "source": "elpais.com",
-      "n": 2,
-      "avg_tone": -0.796
-    },
-    {
-      "source": "zerohedge.com",
-      "n": 2,
-      "avg_tone": -4.425
-    },
-    {
-      "source": "therecord.com",
-      "n": 2,
-      "avg_tone": -0.782
-    },
-    {
-      "source": "thebiglead.com",
-      "n": 2,
-      "avg_tone": 0.232
-    },
-    {
-      "source": "wtva.com",
+      "source": "wibw.com",
       "n": 1,
       "avg_tone": -1.536
     },
     {
-      "source": "homelandsecuritynewswire.com",
+      "source": "countryliving.com",
       "n": 1,
-      "avg_tone": -0.221
+      "avg_tone": 2.363
     },
     {
-      "source": "brobible.com",
+      "source": "asianjournal.com",
       "n": 1,
-      "avg_tone": -1.466
+      "avg_tone": -6.436
     },
     {
-      "source": "cbsnews.com",
+      "source": "aol.com",
       "n": 1,
-      "avg_tone": -5.689
+      "avg_tone": -1.258
     },
     {
-      "source": "redriverradio.org",
+      "source": "sandiegouniontribune.com",
       "n": 1,
-      "avg_tone": 3.03
+      "avg_tone": 0.975
+    },
+    {
+      "source": "thepeterboroughexaminer.com",
+      "n": 1,
+      "avg_tone": -0.437
     }
   ],
   "top_themes": [
     {
       "theme": "AGRICULTURE",
-      "n": 162
+      "n": 219
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 144
+      "n": 189
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 105
+      "n": 125
     },
     {
       "theme": "LEADER",
-      "n": 98
+      "n": 114
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 98
+      "n": 113
     },
     {
       "theme": "BORDER",
-      "n": 66
+      "n": 107
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 58
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 54
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 59
     },
     {
       "theme": "TAX_FOODSTAPLES_MILK",
       "n": 52
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 46
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 45
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 46
+      "theme": "EDUCATION",
+      "n": 39
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 43
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 39
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 41
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 40
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
+      "theme": "EPU_ECONOMY_HISTORIC",
       "n": 38
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 37
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 36
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 36
     }
   ]
 }
