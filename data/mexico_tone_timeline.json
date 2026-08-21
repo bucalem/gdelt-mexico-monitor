@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-21T16:21:31.272713+00:00",
-  "rows_total_scanned_last_run": 6170,
-  "rows_mexico_last_run": 80,
-  "overall_avg_tone_4h": 0.133,
+  "generated_at": "2026-08-21T16:58:57.099993+00:00",
+  "rows_total_scanned_last_run": 6305,
+  "rows_mexico_last_run": 70,
+  "overall_avg_tone_4h": 0.166,
   "timeline": [
-    {
-      "time": "2026-08-18T16:30",
-      "avg_tone": 1.087,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-08-18T16:45",
-      "avg_tone": 0.928,
-      "n_articles": 19
-    },
     {
       "time": "2026-08-18T17:00",
       "avg_tone": -1.749,
@@ -1408,18 +1398,33 @@
       "time": "2026-08-21T16:30",
       "avg_tone": 1.278,
       "n_articles": 15
+    },
+    {
+      "time": "2026-08-21T16:45",
+      "avg_tone": 0.068,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-08-21T17:00",
+      "avg_tone": 0.343,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 8,
+      "n": 5,
       "avg_tone": 0.0
     },
     {
-      "source": "themarketsdaily.com",
-      "n": 3,
-      "avg_tone": 1.981
+      "source": "dailypolitical.com",
+      "n": 2,
+      "avg_tone": 2.421
+    },
+    {
+      "source": "tickerreport.com",
+      "n": 2,
+      "avg_tone": 2.255
     },
     {
       "source": "dailyfreeman.com",
@@ -1427,9 +1432,9 @@
       "avg_tone": 2.252
     },
     {
-      "source": "finanznachrichten.de",
+      "source": "themarketsdaily.com",
       "n": 2,
-      "avg_tone": 5.068
+      "avg_tone": 0.969
     },
     {
       "source": "timesherald.com",
@@ -1467,86 +1472,81 @@
       "avg_tone": 2.252
     },
     {
-      "source": "courant.com",
-      "n": 2,
-      "avg_tone": 2.252
+      "source": "taipeitimes.com",
+      "n": 1,
+      "avg_tone": 1.007
     },
     {
-      "source": "channel3000.com",
-      "n": 2,
-      "avg_tone": -0.36
+      "source": "howtogeek.com",
+      "n": 1,
+      "avg_tone": 0.791
     },
     {
-      "source": "republicanherald.com",
-      "n": 2,
-      "avg_tone": 2.252
-    },
-    {
-      "source": "morningjournal.com",
-      "n": 2,
-      "avg_tone": 2.252
+      "source": "dailycamera.com",
+      "n": 1,
+      "avg_tone": 1.84
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_FOODSTAPLES_CORN",
-      "n": 221
+      "n": 161
     },
     {
       "theme": "WB_137_WATER",
-      "n": 118
+      "n": 88
     },
     {
       "theme": "CRISISLEX_O01_WEATHER",
-      "n": 86
-    },
-    {
-      "theme": "TAX_FNCACT_COOK",
-      "n": 78
+      "n": 63
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 67
-    },
-    {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
       "n": 60
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 59
-    },
-    {
-      "theme": "MILITARY",
+      "theme": "TAX_FNCACT_COOK",
       "n": 58
     },
     {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 50
+    },
+    {
+      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
+      "n": 48
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 44
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 44
+    },
+    {
       "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 57
+      "n": 42
     },
     {
-      "theme": "UNGP_HEALTHCARE",
-      "n": 57
-    },
-    {
-      "theme": "TAX_FNCACT_NAVY",
-      "n": 56
-    },
-    {
-      "theme": "TAX_DISEASE_MEASLES",
-      "n": 55
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 52
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 51
+      "theme": "GENERAL_HEALTH",
+      "n": 41
     },
     {
       "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 46
+      "n": 40
+    },
+    {
+      "theme": "MILITARY",
+      "n": 40
+    },
+    {
+      "theme": "WB_1967_AGRICULTURAL_RISK_AND_SECURITY",
+      "n": 40
+    },
+    {
+      "theme": "WB_1973_FINANCIAL_RISK_REDUCTION",
+      "n": 39
     }
   ]
 }
