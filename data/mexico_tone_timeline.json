@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-21T22:47:32.101140+00:00",
-  "rows_total_scanned_last_run": 5110,
-  "rows_mexico_last_run": 77,
-  "overall_avg_tone_4h": -0.355,
+  "generated_at": "2026-08-21T23:15:01.347674+00:00",
+  "rows_total_scanned_last_run": 4740,
+  "rows_mexico_last_run": 70,
+  "overall_avg_tone_4h": -0.264,
   "timeline": [
-    {
-      "time": "2026-08-18T23:00",
-      "avg_tone": -2.467,
-      "n_articles": 22
-    },
     {
       "time": "2026-08-18T23:15",
       "avg_tone": -2.479,
@@ -1408,9 +1403,54 @@
       "time": "2026-08-21T22:45",
       "avg_tone": -0.47,
       "n_articles": 20
+    },
+    {
+      "time": "2026-08-21T23:00",
+      "avg_tone": -0.692,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-08-21T23:15",
+      "avg_tone": 0.36,
+      "n_articles": 16
     }
   ],
   "top_sources": [
+    {
+      "source": "wmtw.com",
+      "n": 3,
+      "avg_tone": 0.285
+    },
+    {
+      "source": "thecattlesite.com",
+      "n": 2,
+      "avg_tone": -1.949
+    },
+    {
+      "source": "cheknews.ca",
+      "n": 2,
+      "avg_tone": -1.341
+    },
+    {
+      "source": "elpais.com",
+      "n": 2,
+      "avg_tone": -0.796
+    },
+    {
+      "source": "zerohedge.com",
+      "n": 2,
+      "avg_tone": -4.425
+    },
+    {
+      "source": "therecord.com",
+      "n": 2,
+      "avg_tone": -0.782
+    },
+    {
+      "source": "thebiglead.com",
+      "n": 2,
+      "avg_tone": 0.232
+    },
     {
       "source": "wyff4.com",
       "n": 2,
@@ -1427,126 +1467,91 @@
       "avg_tone": 0.79
     },
     {
-      "source": "caribbeanherald.com",
-      "n": 2,
-      "avg_tone": -1.672
-    },
-    {
-      "source": "obrag.org",
-      "n": 2,
-      "avg_tone": -1.769
-    },
-    {
-      "source": "wiky.com",
+      "source": "vnews.com",
       "n": 1,
-      "avg_tone": -1.818
+      "avg_tone": 1.658
     },
     {
-      "source": "whittierdailynews.com",
+      "source": "unionleader.com",
       "n": 1,
-      "avg_tone": -1.288
+      "avg_tone": -2.161
     },
     {
-      "source": "fox26houston.com",
+      "source": "heraldglobe.com",
       "n": 1,
-      "avg_tone": -2.0
+      "avg_tone": 0.217
     },
     {
-      "source": "eastcountymagazine.org",
+      "source": "stcatharinesstandard.ca",
       "n": 1,
-      "avg_tone": -0.636
+      "avg_tone": -0.647
     },
     {
-      "source": "corsicanadailysun.com",
+      "source": "hindustantimes.com",
       "n": 1,
-      "avg_tone": -0.19
-    },
-    {
-      "source": "thewrap.com",
-      "n": 1,
-      "avg_tone": 0.849
-    },
-    {
-      "source": "wlwt.com",
-      "n": 1,
-      "avg_tone": -1.842
-    },
-    {
-      "source": "wsoctv.com",
-      "n": 1,
-      "avg_tone": -2.8
-    },
-    {
-      "source": "theboneonline.com",
-      "n": 1,
-      "avg_tone": -2.756
-    },
-    {
-      "source": "wrif.com",
-      "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -4.275
     }
   ],
   "top_themes": [
     {
+      "theme": "AGRICULTURE",
+      "n": 165
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 135
+    },
+    {
       "theme": "LEADER",
+      "n": 101
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
       "n": 97
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 95
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 91
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 84
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 64
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 52
-    },
-    {
-      "theme": "WB_1406_DISEASES",
-      "n": 49
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 46
-    },
-    {
-      "theme": "WB_1427_NON_COMMUNICABLE_DISEASE_AND_INJURY",
-      "n": 43
-    },
-    {
-      "theme": "WB_1437_SOCIAL_DETERMINANTS_FOR_HEALTH",
-      "n": 42
-    },
-    {
-      "theme": "WB_1438_ALCOHOL_AND_SUBSTANCE_ABUSE",
-      "n": 42
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 42
+      "n": 93
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 38
+      "n": 63
     },
     {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 37
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 61
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_MILK",
+      "n": 52
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 47
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 46
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 45
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 43
     },
     {
       "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 36
+      "n": 42
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 42
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 42
     }
   ]
 }
