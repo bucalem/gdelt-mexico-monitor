@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-21T16:58:57.099993+00:00",
-  "rows_total_scanned_last_run": 6305,
-  "rows_mexico_last_run": 70,
-  "overall_avg_tone_4h": 0.166,
+  "generated_at": "2026-08-21T17:29:49.647289+00:00",
+  "rows_total_scanned_last_run": 6506,
+  "rows_mexico_last_run": 90,
+  "overall_avg_tone_4h": 0.078,
   "timeline": [
-    {
-      "time": "2026-08-18T17:00",
-      "avg_tone": -1.749,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-08-18T17:15",
-      "avg_tone": -0.136,
-      "n_articles": 21
-    },
     {
       "time": "2026-08-18T17:30",
       "avg_tone": 0.671,
@@ -1408,13 +1398,73 @@
       "time": "2026-08-21T17:00",
       "avg_tone": 0.343,
       "n_articles": 13
+    },
+    {
+      "time": "2026-08-21T17:15",
+      "avg_tone": -1.516,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-08-21T17:30",
+      "avg_tone": 0.282,
+      "n_articles": 33
     }
   ],
   "top_sources": [
     {
-      "source": "iheart.com",
+      "source": "banderasnews.com",
       "n": 5,
-      "avg_tone": 0.0
+      "avg_tone": 3.992
+    },
+    {
+      "source": "riotimesonline.com",
+      "n": 4,
+      "avg_tone": 1.971
+    },
+    {
+      "source": "riviera-maya-news.com",
+      "n": 3,
+      "avg_tone": -2.755
+    },
+    {
+      "source": "hpj.com",
+      "n": 3,
+      "avg_tone": -1.371
+    },
+    {
+      "source": "dailylocal.com",
+      "n": 2,
+      "avg_tone": 2.252
+    },
+    {
+      "source": "rfdtv.com",
+      "n": 2,
+      "avg_tone": 0.733
+    },
+    {
+      "source": "santacruzsentinel.com",
+      "n": 2,
+      "avg_tone": 2.252
+    },
+    {
+      "source": "newsweek.com",
+      "n": 2,
+      "avg_tone": -2.485
+    },
+    {
+      "source": "oneidadispatch.com",
+      "n": 2,
+      "avg_tone": 2.252
+    },
+    {
+      "source": "wlrn.org",
+      "n": 2,
+      "avg_tone": -3.799
+    },
+    {
+      "source": "reporterherald.com",
+      "n": 2,
+      "avg_tone": 2.252
     },
     {
       "source": "dailypolitical.com",
@@ -1427,126 +1477,76 @@
       "avg_tone": 2.255
     },
     {
-      "source": "dailyfreeman.com",
-      "n": 2,
-      "avg_tone": 2.252
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 2,
-      "avg_tone": 0.969
-    },
-    {
-      "source": "timesherald.com",
-      "n": 2,
-      "avg_tone": 2.252
-    },
-    {
-      "source": "theoaklandpress.com",
-      "n": 2,
-      "avg_tone": 2.252
-    },
-    {
-      "source": "news-herald.com",
-      "n": 2,
-      "avg_tone": 2.252
-    },
-    {
-      "source": "fortmorgantimes.com",
-      "n": 2,
-      "avg_tone": 2.252
-    },
-    {
-      "source": "readingeagle.com",
-      "n": 2,
-      "avg_tone": 2.252
-    },
-    {
-      "source": "greeleytribune.com",
-      "n": 2,
-      "avg_tone": 2.252
-    },
-    {
-      "source": "pottsmerc.com",
-      "n": 2,
-      "avg_tone": 2.252
-    },
-    {
-      "source": "taipeitimes.com",
+      "source": "si.com",
       "n": 1,
-      "avg_tone": 1.007
+      "avg_tone": 4.388
     },
     {
-      "source": "howtogeek.com",
+      "source": "wibc.com",
       "n": 1,
-      "avg_tone": 0.791
-    },
-    {
-      "source": "dailycamera.com",
-      "n": 1,
-      "avg_tone": 1.84
+      "avg_tone": -12.264
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_FOODSTAPLES_CORN",
-      "n": 161
+      "n": 113
     },
     {
       "theme": "WB_137_WATER",
-      "n": 88
+      "n": 107
     },
     {
-      "theme": "CRISISLEX_O01_WEATHER",
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 77
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 74
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 68
+    },
+    {
+      "theme": "LEADER",
+      "n": 65
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
       "n": 63
     },
     {
+      "theme": "BORDER",
+      "n": 62
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 56
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 56
+    },
+    {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 60
-    },
-    {
-      "theme": "TAX_FNCACT_COOK",
-      "n": 58
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 50
+      "n": 54
     },
     {
       "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
+      "n": 52
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 49
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
       "n": 48
     },
     {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 44
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 44
-    },
-    {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 42
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 41
-    },
-    {
-      "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 40
-    },
-    {
-      "theme": "MILITARY",
-      "n": 40
-    },
-    {
-      "theme": "WB_1967_AGRICULTURAL_RISK_AND_SECURITY",
-      "n": 40
-    },
-    {
-      "theme": "WB_1973_FINANCIAL_RISK_REDUCTION",
-      "n": 39
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 46
     }
   ]
 }
