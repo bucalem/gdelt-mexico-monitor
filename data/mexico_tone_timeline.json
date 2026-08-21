@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-21T05:55:22.046470+00:00",
-  "rows_total_scanned_last_run": 3195,
+  "generated_at": "2026-08-21T06:31:26.274842+00:00",
+  "rows_total_scanned_last_run": 3118,
   "rows_mexico_last_run": 26,
-  "overall_avg_tone_4h": -1.505,
+  "overall_avg_tone_4h": -1.24,
   "timeline": [
-    {
-      "time": "2026-08-18T06:00",
-      "avg_tone": 0.352,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-08-18T06:30",
-      "avg_tone": 1.111,
-      "n_articles": 12
-    },
     {
       "time": "2026-08-18T06:45",
       "avg_tone": 0.715,
@@ -1403,16 +1393,21 @@
       "time": "2026-08-21T06:00",
       "avg_tone": -1.385,
       "n_articles": 15
+    },
+    {
+      "time": "2026-08-21T06:15",
+      "avg_tone": 1.914,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-08-21T06:30",
+      "avg_tone": 0.257,
+      "n_articles": 3
     }
   ],
   "top_sources": [
     {
       "source": "nwaonline.com",
-      "n": 3,
-      "avg_tone": -2.782
-    },
-    {
-      "source": "arkansasonline.com",
       "n": 3,
       "avg_tone": -2.782
     },
@@ -1427,9 +1422,54 @@
       "avg_tone": -1.681
     },
     {
-      "source": "netscape.com",
-      "n": 2,
-      "avg_tone": -4.684
+      "source": "yahoo.com",
+      "n": 1,
+      "avg_tone": -0.213
+    },
+    {
+      "source": "wwd.com",
+      "n": 1,
+      "avg_tone": 4.642
+    },
+    {
+      "source": "stardem.com",
+      "n": 1,
+      "avg_tone": -3.657
+    },
+    {
+      "source": "northwichguardian.co.uk",
+      "n": 1,
+      "avg_tone": 2.664
+    },
+    {
+      "source": "nzcity.co.nz",
+      "n": 1,
+      "avg_tone": 6.173
+    },
+    {
+      "source": "athensmessenger.com",
+      "n": 1,
+      "avg_tone": 2.281
+    },
+    {
+      "source": "townhall.com",
+      "n": 1,
+      "avg_tone": -1.619
+    },
+    {
+      "source": "literalmagazine.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "investegate.co.uk",
+      "n": 1,
+      "avg_tone": 5.622
+    },
+    {
+      "source": "pjmedia.com",
+      "n": 1,
+      "avg_tone": -1.72
     },
     {
       "source": "pitchfork.com",
@@ -1440,108 +1480,68 @@
       "source": "thenews.com.pk",
       "n": 1,
       "avg_tone": -2.203
-    },
-    {
-      "source": "ksbw.com",
-      "n": 1,
-      "avg_tone": -0.384
-    },
-    {
-      "source": "allafrica.com",
-      "n": 1,
-      "avg_tone": 2.388
-    },
-    {
-      "source": "cagesideseats.com",
-      "n": 1,
-      "avg_tone": -1.782
-    },
-    {
-      "source": "koat.com",
-      "n": 1,
-      "avg_tone": -8.0
-    },
-    {
-      "source": "ibtimes.co.uk",
-      "n": 1,
-      "avg_tone": 2.113
-    },
-    {
-      "source": "nassauweekly.com",
-      "n": 1,
-      "avg_tone": -1.491
-    },
-    {
-      "source": "indiatimes.com",
-      "n": 1,
-      "avg_tone": 5.08
-    },
-    {
-      "source": "mv-voice.com",
-      "n": 1,
-      "avg_tone": -1.209
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ETHNICITY_IRANIAN",
-      "n": 28
-    },
-    {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 26
+      "n": 27
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 26
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 23
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 25
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
       "n": 22
     },
     {
-      "theme": "WB_2670_JOBS",
+      "theme": "TAX_RELIGION_CHURCH",
       "n": 21
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 21
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 20
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 20
     },
     {
       "theme": "LEADER",
       "n": 20
     },
     {
-      "theme": "IMMIGRATION",
-      "n": 20
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 20
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 20
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 20
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 18
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 18
-    },
-    {
       "theme": "EDUCATION",
+      "n": 20
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 19
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 19
+    },
+    {
+      "theme": "TAX_FNCACT_CHILDREN",
+      "n": 19
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
+      "n": 19
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
       "n": 17
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 16
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 15
     }
   ]
 }
