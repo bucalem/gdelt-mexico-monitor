@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-21T05:23:48.909990+00:00",
-  "rows_total_scanned_last_run": 3003,
-  "rows_mexico_last_run": 25,
-  "overall_avg_tone_4h": -1.245,
+  "generated_at": "2026-08-21T05:55:22.046470+00:00",
+  "rows_total_scanned_last_run": 3195,
+  "rows_mexico_last_run": 26,
+  "overall_avg_tone_4h": -1.505,
   "timeline": [
-    {
-      "time": "2026-08-18T05:30",
-      "avg_tone": -0.918,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-18T05:45",
-      "avg_tone": -2.249,
-      "n_articles": 9
-    },
     {
       "time": "2026-08-18T06:00",
       "avg_tone": 0.352,
@@ -1403,13 +1393,38 @@
       "time": "2026-08-21T05:30",
       "avg_tone": -0.76,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-21T05:45",
+      "avg_tone": 5.08,
+      "n_articles": 1
+    },
+    {
+      "time": "2026-08-21T06:00",
+      "avg_tone": -1.385,
+      "n_articles": 15
     }
   ],
   "top_sources": [
     {
+      "source": "nwaonline.com",
+      "n": 3,
+      "avg_tone": -2.782
+    },
+    {
       "source": "arkansasonline.com",
       "n": 3,
       "avg_tone": -2.782
+    },
+    {
+      "source": "kxly920.com",
+      "n": 2,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "english.news.cn",
+      "n": 2,
+      "avg_tone": -1.681
     },
     {
       "source": "netscape.com",
@@ -1417,131 +1432,116 @@
       "avg_tone": -4.684
     },
     {
-      "source": "theepochtimes.com",
-      "n": 2,
-      "avg_tone": -3.506
+      "source": "pitchfork.com",
+      "n": 1,
+      "avg_tone": 0.296
+    },
+    {
+      "source": "thenews.com.pk",
+      "n": 1,
+      "avg_tone": -2.203
+    },
+    {
+      "source": "ksbw.com",
+      "n": 1,
+      "avg_tone": -0.384
+    },
+    {
+      "source": "allafrica.com",
+      "n": 1,
+      "avg_tone": 2.388
+    },
+    {
+      "source": "cagesideseats.com",
+      "n": 1,
+      "avg_tone": -1.782
+    },
+    {
+      "source": "koat.com",
+      "n": 1,
+      "avg_tone": -8.0
+    },
+    {
+      "source": "ibtimes.co.uk",
+      "n": 1,
+      "avg_tone": 2.113
+    },
+    {
+      "source": "nassauweekly.com",
+      "n": 1,
+      "avg_tone": -1.491
+    },
+    {
+      "source": "indiatimes.com",
+      "n": 1,
+      "avg_tone": 5.08
     },
     {
       "source": "mv-voice.com",
       "n": 1,
       "avg_tone": -1.209
-    },
-    {
-      "source": "eastoregonian.com",
-      "n": 1,
-      "avg_tone": 5.755
-    },
-    {
-      "source": "noise11.com",
-      "n": 1,
-      "avg_tone": -1.807
-    },
-    {
-      "source": "dailybreeze.com",
-      "n": 1,
-      "avg_tone": 3.03
-    },
-    {
-      "source": "collider.com",
-      "n": 1,
-      "avg_tone": -4.512
-    },
-    {
-      "source": "mirror.co.uk",
-      "n": 1,
-      "avg_tone": -1.9
-    },
-    {
-      "source": "thedailytimes.com",
-      "n": 1,
-      "avg_tone": -2.411
-    },
-    {
-      "source": "express.co.uk",
-      "n": 1,
-      "avg_tone": -0.887
-    },
-    {
-      "source": "aol.co.uk",
-      "n": 1,
-      "avg_tone": -1.053
-    },
-    {
-      "source": "gringogazette.com",
-      "n": 1,
-      "avg_tone": 1.461
-    },
-    {
-      "source": "laist.com",
-      "n": 1,
-      "avg_tone": -6.501
-    },
-    {
-      "source": "lewistownsentinel.com",
-      "n": 1,
-      "avg_tone": 1.829
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 47
+      "theme": "TAX_ETHNICITY_IRANIAN",
+      "n": 28
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 46
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 46
-    },
-    {
-      "theme": "WB_1014_CRIMINAL_JUSTICE",
-      "n": 45
-    },
-    {
-      "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
-      "n": 44
-    },
-    {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 43
-    },
-    {
-      "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
-      "n": 43
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 40
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 35
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 34
-    },
-    {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 34
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 34
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 34
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 26
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 34
+      "n": 26
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 28
+      "n": 25
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 22
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 21
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 21
+    },
+    {
+      "theme": "LEADER",
+      "n": 20
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 20
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 20
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 20
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 20
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 18
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 18
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 17
     }
   ]
 }
