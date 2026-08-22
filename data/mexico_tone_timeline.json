@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-22T09:39:18.710539+00:00",
-  "rows_total_scanned_last_run": 2622,
-  "rows_mexico_last_run": 57,
-  "overall_avg_tone_4h": -1.2,
+  "generated_at": "2026-08-22T09:57:27.927238+00:00",
+  "rows_total_scanned_last_run": 2664,
+  "rows_mexico_last_run": 58,
+  "overall_avg_tone_4h": -1.237,
   "timeline": [
-    {
-      "time": "2026-08-19T09:45",
-      "avg_tone": -1.242,
-      "n_articles": 17
-    },
     {
       "time": "2026-08-19T10:00",
       "avg_tone": 0.756,
@@ -1403,6 +1398,11 @@
       "time": "2026-08-22T09:45",
       "avg_tone": -0.94,
       "n_articles": 21
+    },
+    {
+      "time": "2026-08-22T10:00",
+      "avg_tone": -1.86,
+      "n_articles": 18
     }
   ],
   "top_sources": [
@@ -1412,14 +1412,14 @@
       "avg_tone": -2.144
     },
     {
+      "source": "themarketsdaily.com",
+      "n": 3,
+      "avg_tone": 2.317
+    },
+    {
       "source": "csmonitor.com",
       "n": 3,
       "avg_tone": -2.199
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 3,
-      "avg_tone": 3.135
     },
     {
       "source": "edp24.co.uk",
@@ -1432,116 +1432,116 @@
       "avg_tone": 0.35
     },
     {
-      "source": "readingchronicle.co.uk",
+      "source": "darkhorizons.com",
+      "n": 1,
+      "avg_tone": -0.99
+    },
+    {
+      "source": "wimbledonguardian.co.uk",
       "n": 1,
       "avg_tone": -1.846
     },
     {
-      "source": "scroll.in",
+      "source": "katu.com",
       "n": 1,
-      "avg_tone": 1.368
+      "avg_tone": -2.277
     },
     {
-      "source": "euronews.com",
+      "source": "japantoday.com",
       "n": 1,
-      "avg_tone": 5.96
+      "avg_tone": -2.133
     },
     {
-      "source": "denbighshirefreepress.co.uk",
+      "source": "hurriyetdailynews.com",
+      "n": 1,
+      "avg_tone": -0.291
+    },
+    {
+      "source": "wharfedaleobserver.co.uk",
       "n": 1,
       "avg_tone": -1.846
     },
     {
-      "source": "lasvegassun.com",
-      "n": 1,
-      "avg_tone": -1.339
-    },
-    {
-      "source": "london-now.co.uk",
+      "source": "barryanddistrictnews.co.uk",
       "n": 1,
       "avg_tone": -1.846
     },
     {
-      "source": "burnhamandhighbridgeweeklynews.co.uk",
+      "source": "redditchadvertiser.co.uk",
       "n": 1,
       "avg_tone": -1.846
     },
     {
-      "source": "mercopress.com",
-      "n": 1,
-      "avg_tone": -3.945
-    },
-    {
-      "source": "hampshirechronicle.co.uk",
+      "source": "burytimes.co.uk",
       "n": 1,
       "avg_tone": -1.846
     },
     {
-      "source": "wisbechstandard.co.uk",
+      "source": "dailymirror.lk",
       "n": 1,
-      "avg_tone": -1.846
+      "avg_tone": 0.474
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 159
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 115
+      "n": 207
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 114
+      "n": 135
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 125
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 110
+      "n": 120
     },
     {
       "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 108
-    },
-    {
-      "theme": "NEGOTIATIONS",
-      "n": 106
+      "n": 119
     },
     {
       "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 106
+      "n": 117
     },
     {
       "theme": "WB_2471_PEACEKEEPING",
-      "n": 106
+      "n": 117
+    },
+    {
+      "theme": "NEGOTIATIONS",
+      "n": 116
     },
     {
       "theme": "WB_939_NEGOTIATION",
-      "n": 105
+      "n": 116
     },
     {
       "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 105
+      "n": 116
     },
     {
       "theme": "WB_843_DISPUTE_RESOLUTION",
-      "n": 105
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 72
+      "n": 116
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 66
+      "n": 81
     },
     {
       "theme": "ECON_WORLDCURRENCIES_DOLLAR",
-      "n": 64
+      "n": 71
     },
     {
-      "theme": "LEADER",
-      "n": 62
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 69
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 66
     }
   ]
 }
