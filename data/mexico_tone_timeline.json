@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-22T02:20:02.209971+00:00",
-  "rows_total_scanned_last_run": 2481,
-  "rows_mexico_last_run": 70,
-  "overall_avg_tone_4h": -0.501,
+  "generated_at": "2026-08-22T03:12:44.239395+00:00",
+  "rows_total_scanned_last_run": 2302,
+  "rows_mexico_last_run": 75,
+  "overall_avg_tone_4h": -0.588,
   "timeline": [
-    {
-      "time": "2026-08-19T02:30",
-      "avg_tone": -1.217,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-08-19T02:45",
-      "avg_tone": -0.244,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-19T03:00",
-      "avg_tone": -1.089,
-      "n_articles": 20
-    },
     {
       "time": "2026-08-19T03:15",
       "avg_tone": -2.113,
@@ -1403,18 +1388,78 @@
       "time": "2026-08-22T02:30",
       "avg_tone": -1.805,
       "n_articles": 17
+    },
+    {
+      "time": "2026-08-22T02:45",
+      "avg_tone": 0.444,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-08-22T03:00",
+      "avg_tone": -0.214,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-08-22T03:15",
+      "avg_tone": -0.51,
+      "n_articles": 20
     }
   ],
   "top_sources": [
+    {
+      "source": "caribbeanherald.com",
+      "n": 4,
+      "avg_tone": 0.033
+    },
     {
       "source": "haitisun.com",
       "n": 4,
       "avg_tone": 0.033
     },
     {
-      "source": "cincinnatisun.com",
-      "n": 3,
-      "avg_tone": -1.267
+      "source": "castanetkamloops.net",
+      "n": 2,
+      "avg_tone": -0.92
+    },
+    {
+      "source": "memphissun.com",
+      "n": 2,
+      "avg_tone": -0.233
+    },
+    {
+      "source": "cnn.com",
+      "n": 2,
+      "avg_tone": -0.99
+    },
+    {
+      "source": "wlwt.com",
+      "n": 2,
+      "avg_tone": 1.348
+    },
+    {
+      "source": "scvnews.com",
+      "n": 2,
+      "avg_tone": 5.518
+    },
+    {
+      "source": "kcci.com",
+      "n": 2,
+      "avg_tone": -1.284
+    },
+    {
+      "source": "ksut.org",
+      "n": 2,
+      "avg_tone": 0.458
+    },
+    {
+      "source": "pressdemocrat.com",
+      "n": 2,
+      "avg_tone": -0.178
+    },
+    {
+      "source": "ketv.com",
+      "n": 2,
+      "avg_tone": -1.284
     },
     {
       "source": "wabx.net",
@@ -1427,121 +1472,76 @@
       "avg_tone": -2.992
     },
     {
-      "source": "wtvbam.com",
-      "n": 2,
-      "avg_tone": -2.992
+      "source": "thevermilion.com",
+      "n": 1,
+      "avg_tone": -1.759
     },
     {
-      "source": "mymixfm.com",
-      "n": 2,
-      "avg_tone": -2.992
-    },
-    {
-      "source": "ohiostandard.com",
-      "n": 2,
-      "avg_tone": -1.03
-    },
-    {
-      "source": "orlandoecho.com",
-      "n": 2,
-      "avg_tone": -0.233
-    },
-    {
-      "source": "wcvb.com",
-      "n": 2,
-      "avg_tone": 0.79
-    },
-    {
-      "source": "wtae.com",
-      "n": 2,
-      "avg_tone": 0.79
-    },
-    {
-      "source": "hot96.com",
-      "n": 2,
-      "avg_tone": -2.992
-    },
-    {
-      "source": "tennesseedaily.com",
-      "n": 2,
-      "avg_tone": -0.233
-    },
-    {
-      "source": "wbaltv.com",
-      "n": 2,
-      "avg_tone": 0.79
-    },
-    {
-      "source": "wesh.com",
-      "n": 2,
-      "avg_tone": 0.79
-    },
-    {
-      "source": "fox4news.com",
-      "n": 2,
-      "avg_tone": -3.381
+      "source": "queanbeyanage.com.au",
+      "n": 1,
+      "avg_tone": -3.039
     }
   ],
   "top_themes": [
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 163
+    },
+    {
+      "theme": "LEADER",
+      "n": 162
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 162
+    },
     {
       "theme": "WB_137_WATER",
       "n": 125
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 93
-    },
-    {
-      "theme": "LEADER",
-      "n": 90
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 89
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 76
-    },
-    {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 57
+      "n": 94
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 53
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 53
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 49
+      "n": 93
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 43
+      "n": 85
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 39
+      "theme": "AGRICULTURE",
+      "n": 84
     },
     {
-      "theme": "WATER_SECURITY",
-      "n": 33
+      "theme": "BORDER",
+      "n": 63
+    },
+    {
+      "theme": "TAX_FNCACT_FARMERS",
+      "n": 60
+    },
+    {
+      "theme": "EPU_POLICY_WHITE_HOUSE",
+      "n": 58
     },
     {
       "theme": "TAX_FNCACT_MINISTER",
-      "n": 32
+      "n": 56
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 54
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 52
     },
     {
       "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 30
-    },
-    {
-      "theme": "TAX_FNCACT_SECRETARY",
-      "n": 29
+      "n": 49
     }
   ]
 }
