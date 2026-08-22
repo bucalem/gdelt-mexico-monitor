@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-22T08:45:07.833416+00:00",
-  "rows_total_scanned_last_run": 2327,
-  "rows_mexico_last_run": 78,
+  "generated_at": "2026-08-22T09:04:07.271891+00:00",
+  "rows_total_scanned_last_run": 1775,
+  "rows_mexico_last_run": 66,
   "overall_avg_tone_4h": -1.391,
   "timeline": [
-    {
-      "time": "2026-08-19T08:45",
-      "avg_tone": -2.382,
-      "n_articles": 3
-    },
-    {
-      "time": "2026-08-19T09:00",
-      "avg_tone": -0.401,
-      "n_articles": 11
-    },
     {
       "time": "2026-08-19T09:15",
       "avg_tone": -0.044,
@@ -1432,11 +1422,6 @@
       "avg_tone": 2.33
     },
     {
-      "source": "chesterstandard.co.uk",
-      "n": 2,
-      "avg_tone": 0.407
-    },
-    {
       "source": "dailyecho.co.uk",
       "n": 1,
       "avg_tone": -1.846
@@ -1480,32 +1465,29 @@
       "source": "cp24.com",
       "n": 1,
       "avg_tone": -1.55
+    },
+    {
+      "source": "warringtonguardian.co.uk",
+      "n": 1,
+      "avg_tone": -1.846
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 324
+      "n": 263
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 216
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 156
-    },
-    {
-      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
-      "n": 154
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 151
+      "n": 164
     },
     {
       "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
       "n": 140
+    },
+    {
+      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
+      "n": 138
     },
     {
       "theme": "WB_895_MINING_SYSTEMS",
@@ -1516,32 +1498,40 @@
       "n": 138
     },
     {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 125
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 121
+    },
+    {
       "theme": "NEGOTIATIONS",
-      "n": 133
+      "n": 108
     },
     {
       "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 133
+      "n": 108
     },
     {
       "theme": "WB_939_NEGOTIATION",
-      "n": 133
+      "n": 108
     },
     {
       "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 133
+      "n": 108
     },
     {
       "theme": "WB_843_DISPUTE_RESOLUTION",
-      "n": 133
+      "n": 108
     },
     {
       "theme": "WB_2471_PEACEKEEPING",
-      "n": 133
+      "n": 108
     },
     {
       "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 133
+      "n": 108
     }
   ]
 }
