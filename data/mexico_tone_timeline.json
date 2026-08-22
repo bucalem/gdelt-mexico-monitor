@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-22T16:46:42.829182+00:00",
-  "rows_total_scanned_last_run": 2955,
-  "rows_mexico_last_run": 66,
-  "overall_avg_tone_4h": -0.814,
+  "generated_at": "2026-08-22T17:12:56.305124+00:00",
+  "rows_total_scanned_last_run": 3004,
+  "rows_mexico_last_run": 76,
+  "overall_avg_tone_4h": -0.782,
   "timeline": [
-    {
-      "time": "2026-08-19T17:00",
-      "avg_tone": 0.711,
-      "n_articles": 28
-    },
     {
       "time": "2026-08-19T17:15",
       "avg_tone": 0.804,
@@ -1398,6 +1393,16 @@
       "time": "2026-08-22T16:45",
       "avg_tone": -0.761,
       "n_articles": 15
+    },
+    {
+      "time": "2026-08-22T17:00",
+      "avg_tone": -0.915,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-08-22T17:15",
+      "avg_tone": -0.145,
+      "n_articles": 25
     }
   ],
   "top_sources": [
@@ -1407,9 +1412,19 @@
       "avg_tone": -2.811
     },
     {
-      "source": "tickerreport.com",
-      "n": 3,
-      "avg_tone": 3.01
+      "source": "ckom.com",
+      "n": 2,
+      "avg_tone": -0.132
+    },
+    {
+      "source": "iheart.com",
+      "n": 2,
+      "avg_tone": -4.206
+    },
+    {
+      "source": "goskagit.com",
+      "n": 2,
+      "avg_tone": -2.213
     },
     {
       "source": "orlandosentinel.com",
@@ -1432,111 +1447,101 @@
       "avg_tone": -1.59
     },
     {
-      "source": "goskagit.com",
-      "n": 2,
-      "avg_tone": -1.978
-    },
-    {
       "source": "rollingstone.com",
       "n": 2,
       "avg_tone": 2.355
     },
     {
-      "source": "kcra.com",
-      "n": 2,
-      "avg_tone": 1.163
-    },
-    {
-      "source": "pilotonline.com",
-      "n": 2,
-      "avg_tone": -0.319
-    },
-    {
-      "source": "abc11.com",
-      "n": 2,
-      "avg_tone": -1.992
-    },
-    {
-      "source": "gulfcoastnewsnow.com",
+      "source": "thestar.com",
       "n": 1,
-      "avg_tone": 3.416
+      "avg_tone": -1.145
     },
     {
-      "source": "the-messenger.com",
+      "source": "whittierdailynews.com",
       "n": 1,
-      "avg_tone": 1.253
+      "avg_tone": 3.038
     },
     {
-      "source": "saratogian.com",
+      "source": "longislandpress.com",
       "n": 1,
-      "avg_tone": 1.294
+      "avg_tone": 4.412
     },
     {
-      "source": "yahoo.com",
+      "source": "arabherald.com",
       "n": 1,
-      "avg_tone": -2.657
+      "avg_tone": 3.093
+    },
+    {
+      "source": "abc30.com",
+      "n": 1,
+      "avg_tone": -1.695
+    },
+    {
+      "source": "wjcl.com",
+      "n": 1,
+      "avg_tone": -1.447
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 228
+      "n": 388
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 211
+      "n": 314
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 119
+      "n": 166
     },
     {
       "theme": "LEADER",
-      "n": 93
+      "n": 142
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 87
+      "n": 129
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 85
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 78
-    },
-    {
-      "theme": "NEGOTIATIONS",
-      "n": 75
+      "n": 128
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 75
+      "n": 104
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 74
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 100
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 95
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICANS",
+      "n": 93
+    },
+    {
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 92
+    },
+    {
+      "theme": "NEGOTIATIONS",
+      "n": 92
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 70
+      "n": 92
     },
     {
       "theme": "EPU_ECONOMY",
-      "n": 70
+      "n": 91
     },
     {
-      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 67
-    },
-    {
-      "theme": "WB_939_NEGOTIATION",
-      "n": 67
-    },
-    {
-      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 67
+      "theme": "EPU_CATS_TAXES",
+      "n": 88
     }
   ]
 }
