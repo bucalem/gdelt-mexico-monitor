@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-22T15:22:23.722673+00:00",
-  "rows_total_scanned_last_run": 2655,
-  "rows_mexico_last_run": 66,
-  "overall_avg_tone_4h": -1.08,
+  "generated_at": "2026-08-22T15:42:39.464940+00:00",
+  "rows_total_scanned_last_run": 2769,
+  "rows_mexico_last_run": 45,
+  "overall_avg_tone_4h": -1.034,
   "timeline": [
-    {
-      "time": "2026-08-19T15:30",
-      "avg_tone": -0.858,
-      "n_articles": 26
-    },
     {
       "time": "2026-08-19T15:45",
       "avg_tone": -0.448,
@@ -1403,28 +1398,58 @@
       "time": "2026-08-22T15:30",
       "avg_tone": -0.27,
       "n_articles": 15
+    },
+    {
+      "time": "2026-08-22T15:45",
+      "avg_tone": 0.055,
+      "n_articles": 8
     }
   ],
   "top_sources": [
-    {
-      "source": "yahoo.com",
-      "n": 3,
-      "avg_tone": -0.054
-    },
     {
       "source": "stcatharinesstandard.ca",
       "n": 2,
       "avg_tone": -1.477
     },
     {
-      "source": "aa.com.tr",
-      "n": 2,
-      "avg_tone": -1.667
+      "source": "globalsecurity.org",
+      "n": 1,
+      "avg_tone": -1.627
     },
     {
-      "source": "torontotelegraph.com",
-      "n": 2,
-      "avg_tone": -2.107
+      "source": "fortmorgantimes.com",
+      "n": 1,
+      "avg_tone": 1.294
+    },
+    {
+      "source": "jpost.com",
+      "n": 1,
+      "avg_tone": -1.157
+    },
+    {
+      "source": "greatbendpost.com",
+      "n": 1,
+      "avg_tone": -2.252
+    },
+    {
+      "source": "guelphmercury.com",
+      "n": 1,
+      "avg_tone": 0.295
+    },
+    {
+      "source": "news-herald.com",
+      "n": 1,
+      "avg_tone": 1.294
+    },
+    {
+      "source": "bostonherald.com",
+      "n": 1,
+      "avg_tone": 1.294
+    },
+    {
+      "source": "pottsmerc.com",
+      "n": 1,
+      "avg_tone": 1.294
     },
     {
       "source": "muskokaregion.com",
@@ -1455,93 +1480,68 @@
       "source": "ksbw.com",
       "n": 1,
       "avg_tone": -1.097
-    },
-    {
-      "source": "republicanherald.com",
-      "n": 1,
-      "avg_tone": 1.294
-    },
-    {
-      "source": "hngnews.com",
-      "n": 1,
-      "avg_tone": -2.288
-    },
-    {
-      "source": "wtae.com",
-      "n": 1,
-      "avg_tone": -1.097
-    },
-    {
-      "source": "fox21online.com",
-      "n": 1,
-      "avg_tone": 1.253
-    },
-    {
-      "source": "wvtm13.com",
-      "n": 1,
-      "avg_tone": -1.097
     }
   ],
   "top_themes": [
     {
-      "theme": "LEADER",
-      "n": 631
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 334
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 627
+      "theme": "LEADER",
+      "n": 333
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 619
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 276
+      "n": 326
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 270
+      "n": 200
     },
     {
-      "theme": "EPU_POLICY_WHITE_HOUSE",
-      "n": 104
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 200
     },
     {
       "theme": "NEGOTIATIONS",
-      "n": 99
+      "n": 62
     },
     {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 96
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 94
+      "theme": "TAX_FOODSTAPLES_POTATOES",
+      "n": 60
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 92
+      "n": 59
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 58
     },
     {
       "theme": "WB_2471_PEACEKEEPING",
-      "n": 91
+      "n": 58
+    },
+    {
+      "theme": "EPU_ECONOMY",
+      "n": 58
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 57
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 90
+      "n": 57
     },
     {
       "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 90
+      "n": 56
     },
     {
       "theme": "WB_939_NEGOTIATION",
-      "n": 90
-    },
-    {
-      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 90
+      "n": 56
     }
   ]
 }
