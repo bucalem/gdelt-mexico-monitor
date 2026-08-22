@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-22T20:40:51.411884+00:00",
-  "rows_total_scanned_last_run": 2278,
-  "rows_mexico_last_run": 32,
+  "generated_at": "2026-08-22T20:58:14.939739+00:00",
+  "rows_total_scanned_last_run": 1252,
+  "rows_mexico_last_run": 19,
   "overall_avg_tone_4h": -0.472,
   "timeline": [
-    {
-      "time": "2026-08-19T20:45",
-      "avg_tone": -1.604,
-      "n_articles": 28
-    },
     {
       "time": "2026-08-19T21:00",
       "avg_tone": -1.13,
@@ -1407,41 +1402,6 @@
   ],
   "top_sources": [
     {
-      "source": "dailyadvance.com",
-      "n": 2,
-      "avg_tone": -4.295
-    },
-    {
-      "source": "nypost.com",
-      "n": 1,
-      "avg_tone": -4.01
-    },
-    {
-      "source": "news4sanantonio.com",
-      "n": 1,
-      "avg_tone": -6.016
-    },
-    {
-      "source": "newschannel9.com",
-      "n": 1,
-      "avg_tone": -2.994
-    },
-    {
-      "source": "dailypolitical.com",
-      "n": 1,
-      "avg_tone": 4.641
-    },
-    {
-      "source": "stcatharinesstandard.ca",
-      "n": 1,
-      "avg_tone": -0.64
-    },
-    {
-      "source": "aol.com",
-      "n": 1,
-      "avg_tone": 1.292
-    },
-    {
       "source": "liveinsurancenews.com",
       "n": 1,
       "avg_tone": -3.782
@@ -1480,68 +1440,103 @@
       "source": "gazettextra.com",
       "n": 1,
       "avg_tone": -6.0
+    },
+    {
+      "source": "firstcomicsnews.com",
+      "n": 1,
+      "avg_tone": 2.932
+    },
+    {
+      "source": "talkingpointsmemo.com",
+      "n": 1,
+      "avg_tone": -4.037
+    },
+    {
+      "source": "latimes.com",
+      "n": 1,
+      "avg_tone": -5.357
+    },
+    {
+      "source": "foxsanantonio.com",
+      "n": 1,
+      "avg_tone": -6.016
+    },
+    {
+      "source": "philboxing.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "dailymail.com",
+      "n": 1,
+      "avg_tone": 4.224
+    },
+    {
+      "source": "bostonglobe.com",
+      "n": 1,
+      "avg_tone": -3.333
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 108
+      "n": 53
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 82
-    },
-    {
-      "theme": "BORDER",
-      "n": 51
+      "n": 36
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 48
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 43
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 41
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 39
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 36
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 36
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 32
-    },
-    {
-      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
-      "n": 32
-    },
-    {
-      "theme": "LEADER",
-      "n": 31
-    },
-    {
-      "theme": "EPU_ECONOMY",
       "n": 29
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
       "n": 28
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 28
+      "theme": "WB_1973_FINANCIAL_RISK_REDUCTION",
+      "n": 26
+    },
+    {
+      "theme": "WB_337_INSURANCE",
+      "n": 26
+    },
+    {
+      "theme": "WB_1967_AGRICULTURAL_RISK_AND_SECURITY",
+      "n": 26
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 25
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 24
+    },
+    {
+      "theme": "TAX_FNCACT_STUDENT",
+      "n": 24
+    },
+    {
+      "theme": "BORDER",
+      "n": 21
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIANS",
+      "n": 20
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 19
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 18
+    },
+    {
+      "theme": "TAX_FNCACT_MAN",
+      "n": 18
     }
   ]
 }
