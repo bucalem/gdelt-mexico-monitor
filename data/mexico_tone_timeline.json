@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-22T22:18:48.600408+00:00",
-  "rows_total_scanned_last_run": 1936,
-  "rows_mexico_last_run": 33,
-  "overall_avg_tone_4h": -0.47,
+  "generated_at": "2026-08-22T22:44:59.381191+00:00",
+  "rows_total_scanned_last_run": 1950,
+  "rows_mexico_last_run": 29,
+  "overall_avg_tone_4h": -0.364,
   "timeline": [
-    {
-      "time": "2026-08-19T22:30",
-      "avg_tone": -1.913,
-      "n_articles": 22
-    },
     {
       "time": "2026-08-19T22:45",
       "avg_tone": -2.099,
@@ -1398,6 +1393,16 @@
       "time": "2026-08-22T22:15",
       "avg_tone": -1.624,
       "n_articles": 7
+    },
+    {
+      "time": "2026-08-22T22:30",
+      "avg_tone": 0.087,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-08-22T22:45",
+      "avg_tone": 1.205,
+      "n_articles": 8
     }
   ],
   "top_sources": [
@@ -1407,136 +1412,136 @@
       "avg_tone": -0.871
     },
     {
-      "source": "chroniclejournal.com",
+      "source": "yahoo.com",
       "n": 2,
-      "avg_tone": -0.527
+      "avg_tone": -1.003
     },
     {
-      "source": "gvnews.com",
+      "source": "english.news.cn",
+      "n": 2,
+      "avg_tone": 2.368
+    },
+    {
+      "source": "scvnews.com",
       "n": 1,
-      "avg_tone": 0.196
+      "avg_tone": 1.591
     },
     {
-      "source": "aol.com",
+      "source": "el-balad.com",
       "n": 1,
-      "avg_tone": -5.196
+      "avg_tone": 1.21
     },
     {
-      "source": "cheknews.ca",
+      "source": "fortune.com",
       "n": 1,
-      "avg_tone": -0.21
+      "avg_tone": -2.224
     },
     {
-      "source": "gdnonline.com",
-      "n": 1,
-      "avg_tone": -1.401
-    },
-    {
-      "source": "haitisun.com",
-      "n": 1,
-      "avg_tone": 3.256
-    },
-    {
-      "source": "corsicanadailysun.com",
+      "source": "thegazette.com",
       "n": 1,
       "avg_tone": -6.0
     },
     {
-      "source": "wbrc.com",
+      "source": "georgetownvoice.com",
       "n": 1,
-      "avg_tone": -2.016
+      "avg_tone": 5.293
     },
     {
-      "source": "heraldbulletin.com",
-      "n": 1,
-      "avg_tone": -6.0
-    },
-    {
-      "source": "ktep.org",
-      "n": 1,
-      "avg_tone": 7.812
-    },
-    {
-      "source": "castanetkamloops.net",
-      "n": 1,
-      "avg_tone": 3.561
-    },
-    {
-      "source": "calcuttanews.net",
+      "source": "argentinastar.com",
       "n": 1,
       "avg_tone": 3.256
     },
     {
-      "source": "panow.com",
+      "source": "caribbeanherald.com",
       "n": 1,
-      "avg_tone": -0.617
+      "avg_tone": 3.256
     },
     {
-      "source": "shanghaisun.com",
+      "source": "parisguardian.com",
       "n": 1,
-      "avg_tone": 3.093
+      "avg_tone": 3.256
+    },
+    {
+      "source": "abqjournal.com",
+      "n": 1,
+      "avg_tone": -2.227
+    },
+    {
+      "source": "nypost.com",
+      "n": 1,
+      "avg_tone": -1.144
+    },
+    {
+      "source": "sandiegouniontribune.com",
+      "n": 1,
+      "avg_tone": 1.564
+    },
+    {
+      "source": "slashgear.com",
+      "n": 1,
+      "avg_tone": -0.224
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 128
+      "n": 70
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 93
+      "theme": "TAX_WORLDMAMMALS_BEAR",
+      "n": 41
     },
     {
-      "theme": "LEADER",
-      "n": 65
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 52
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 51
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 50
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 39
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 50
+      "n": 32
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 50
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 30
     },
     {
       "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 49
+      "n": 28
     },
     {
-      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 43
+      "theme": "LEADER",
+      "n": 25
     },
     {
-      "theme": "WB_939_NEGOTIATION",
-      "n": 43
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 25
     },
     {
-      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 43
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 22
     },
     {
-      "theme": "WB_843_DISPUTE_RESOLUTION",
-      "n": 43
+      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
+      "n": 21
     },
     {
-      "theme": "WB_2471_PEACEKEEPING",
-      "n": 43
+      "theme": "WB_3007_NATIONAL_PARKS",
+      "n": 21
     },
     {
-      "theme": "NEGOTIATIONS",
-      "n": 42
+      "theme": "WB_1833_PROTECTED_AREAS_SYSTEMS",
+      "n": 21
+    },
+    {
+      "theme": "WB_1829_ECOSYSTEM_MANAGEMENT",
+      "n": 21
+    },
+    {
+      "theme": "TAX_WORLDBIRDS_BALD_EAGLES",
+      "n": 21
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 20
     }
   ]
 }
