@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-22T03:55:25.884375+00:00",
-  "rows_total_scanned_last_run": 2139,
-  "rows_mexico_last_run": 55,
-  "overall_avg_tone_4h": -0.669,
+  "generated_at": "2026-08-22T04:23:51.960059+00:00",
+  "rows_total_scanned_last_run": 2220,
+  "rows_mexico_last_run": 51,
+  "overall_avg_tone_4h": -0.639,
   "timeline": [
-    {
-      "time": "2026-08-19T04:00",
-      "avg_tone": -0.379,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-19T04:15",
-      "avg_tone": -0.871,
-      "n_articles": 15
-    },
     {
       "time": "2026-08-19T04:30",
       "avg_tone": -1.01,
@@ -1403,13 +1393,33 @@
       "time": "2026-08-22T04:00",
       "avg_tone": -1.123,
       "n_articles": 13
+    },
+    {
+      "time": "2026-08-22T04:15",
+      "avg_tone": -0.762,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-08-22T04:30",
+      "avg_tone": -0.434,
+      "n_articles": 10
     }
   ],
   "top_sources": [
     {
       "source": "yahoo.com",
-      "n": 4,
-      "avg_tone": 0.403
+      "n": 3,
+      "avg_tone": 0.09
+    },
+    {
+      "source": "krgv.com",
+      "n": 2,
+      "avg_tone": -2.306
+    },
+    {
+      "source": "cbsnews.com",
+      "n": 2,
+      "avg_tone": -3.357
     },
     {
       "source": "abqjournal.com",
@@ -1417,131 +1427,121 @@
       "avg_tone": 1.003
     },
     {
-      "source": "cnn.com",
-      "n": 2,
-      "avg_tone": -0.99
-    },
-    {
       "source": "nvdaily.com",
       "n": 2,
       "avg_tone": -1.328
     },
     {
-      "source": "ksl.com",
-      "n": 2,
-      "avg_tone": -0.909
-    },
-    {
-      "source": "austinglobe.com",
-      "n": 2,
-      "avg_tone": 0.299
-    },
-    {
-      "source": "castanetkamloops.net",
-      "n": 2,
-      "avg_tone": -0.92
-    },
-    {
-      "source": "memphissun.com",
-      "n": 2,
-      "avg_tone": -0.233
-    },
-    {
-      "source": "wlwt.com",
-      "n": 2,
-      "avg_tone": 1.348
-    },
-    {
-      "source": "chroniclejournal.com",
+      "source": "swiowanewssource.com",
       "n": 1,
-      "avg_tone": -1.13
+      "avg_tone": 6.103
     },
     {
-      "source": "sandiegouniontribune.com",
+      "source": "nypost.com",
+      "n": 1,
+      "avg_tone": -1.747
+    },
+    {
+      "source": "capitalgazette.com",
       "n": 1,
       "avg_tone": -1.569
     },
     {
-      "source": "clickondetroit.com",
+      "source": "mexicostar.com",
+      "n": 1,
+      "avg_tone": 2.075
+    },
+    {
+      "source": "yourdemocracy.net.au",
+      "n": 1,
+      "avg_tone": 2.579
+    },
+    {
+      "source": "oem.com.mx",
+      "n": 1,
+      "avg_tone": -4.167
+    },
+    {
+      "source": "nbcnews.com",
+      "n": 1,
+      "avg_tone": -1.786
+    },
+    {
+      "source": "wsls.com",
       "n": 1,
       "avg_tone": -1.217
     },
     {
-      "source": "k96fm.com",
+      "source": "bignewsnetwork.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": 1.855
     },
     {
-      "source": "durangoherald.com",
+      "source": "watchingamerica.com",
       "n": 1,
-      "avg_tone": -1.156
-    },
-    {
-      "source": "wgal.com",
-      "n": 1,
-      "avg_tone": -0.726
+      "avg_tone": -2.184
     }
   ],
   "top_themes": [
     {
       "theme": "WB_137_WATER",
-      "n": 107
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 82
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 81
-    },
-    {
-      "theme": "LEADER",
-      "n": 80
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 79
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 77
-    },
-    {
-      "theme": "BORDER",
-      "n": 65
+      "n": 96
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 62
+      "n": 65
     },
     {
-      "theme": "TAX_FNCACT_MINISTER",
+      "theme": "LEADER",
+      "n": 57
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 54
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 52
+    },
+    {
+      "theme": "WB_698_TRADE",
       "n": 51
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "theme": "AGRICULTURE",
+      "n": 48
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
       "n": 47
     },
     {
-      "theme": "AGRICULTURE",
-      "n": 46
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
+      "theme": "EDUCATION",
       "n": 44
     },
     {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 42
     },
     {
-      "theme": "MEDIA_MSM",
-      "n": 39
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 41
     },
     {
-      "theme": "ARMEDCONFLICT",
-      "n": 39
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 33
+    },
+    {
+      "theme": "WATER_SECURITY",
+      "n": 33
+    },
+    {
+      "theme": "NATURAL_DISASTER_DROUGHT",
+      "n": 33
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 31
     }
   ]
 }
