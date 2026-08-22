@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-22T21:43:13.995290+00:00",
-  "rows_total_scanned_last_run": 1525,
-  "rows_mexico_last_run": 28,
-  "overall_avg_tone_4h": -0.444,
+  "generated_at": "2026-08-22T21:57:34.690133+00:00",
+  "rows_total_scanned_last_run": 2038,
+  "rows_mexico_last_run": 32,
+  "overall_avg_tone_4h": -0.43,
   "timeline": [
-    {
-      "time": "2026-08-19T21:45",
-      "avg_tone": -1.878,
-      "n_articles": 23
-    },
     {
       "time": "2026-08-19T22:00",
       "avg_tone": -2.741,
@@ -1398,145 +1393,155 @@
       "time": "2026-08-22T21:30",
       "avg_tone": 0.572,
       "n_articles": 9
+    },
+    {
+      "time": "2026-08-22T21:45",
+      "avg_tone": -0.004,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-08-22T22:00",
+      "avg_tone": -0.279,
+      "n_articles": 6
     }
   ],
   "top_sources": [
+    {
+      "source": "riotimesonline.com",
+      "n": 4,
+      "avg_tone": -0.871
+    },
     {
       "source": "chroniclejournal.com",
       "n": 2,
       "avg_tone": -0.527
     },
     {
-      "source": "jamaicantimes.com",
-      "n": 2,
-      "avg_tone": 3.174
-    },
-    {
-      "source": "lethbridgeherald.com",
-      "n": 2,
-      "avg_tone": -0.757
-    },
-    {
-      "source": "orlandosentinel.com",
-      "n": 1,
-      "avg_tone": -2.578
-    },
-    {
-      "source": "news9.com",
-      "n": 1,
-      "avg_tone": 4.852
-    },
-    {
-      "source": "the-messenger.com",
+      "source": "heraldbulletin.com",
       "n": 1,
       "avg_tone": -6.0
     },
     {
-      "source": "beijingbulletin.com",
+      "source": "ktep.org",
       "n": 1,
-      "avg_tone": 3.093
+      "avg_tone": 7.812
     },
     {
-      "source": "tickerreport.com",
+      "source": "castanetkamloops.net",
       "n": 1,
-      "avg_tone": 2.638
+      "avg_tone": 3.561
     },
     {
-      "source": "dailycamera.com",
-      "n": 1,
-      "avg_tone": 5.106
-    },
-    {
-      "source": "theglobeandmail.com",
-      "n": 1,
-      "avg_tone": -0.913
-    },
-    {
-      "source": "ksat.com",
-      "n": 1,
-      "avg_tone": 1.601
-    },
-    {
-      "source": "vaildaily.com",
-      "n": 1,
-      "avg_tone": -2.286
-    },
-    {
-      "source": "brazilsun.com",
+      "source": "calcuttanews.net",
       "n": 1,
       "avg_tone": 3.256
     },
     {
-      "source": "knoe.com",
+      "source": "panow.com",
       "n": 1,
-      "avg_tone": -2.016
+      "avg_tone": -0.617
     },
     {
-      "source": "sitkasentinel.com",
+      "source": "shanghaisun.com",
       "n": 1,
-      "avg_tone": -5.769
+      "avg_tone": 3.093
+    },
+    {
+      "source": "rockymounttelegram.com",
+      "n": 1,
+      "avg_tone": -6.0
+    },
+    {
+      "source": "ckom.com",
+      "n": 1,
+      "avg_tone": -0.634
+    },
+    {
+      "source": "twincities.com",
+      "n": 1,
+      "avg_tone": -2.578
+    },
+    {
+      "source": "westcentralonline.com",
+      "n": 1,
+      "avg_tone": 1.212
+    },
+    {
+      "source": "drgnews.com",
+      "n": 1,
+      "avg_tone": -0.357
+    },
+    {
+      "source": "medicinehatnews.com",
+      "n": 1,
+      "avg_tone": -0.76
+    },
+    {
+      "source": "niagarafallsreview.ca",
+      "n": 1,
+      "avg_tone": -0.218
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 126
+      "n": 130
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 116
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 49
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 47
-    },
-    {
-      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 46
-    },
-    {
-      "theme": "WB_939_NEGOTIATION",
-      "n": 46
-    },
-    {
-      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 46
-    },
-    {
-      "theme": "WB_843_DISPUTE_RESOLUTION",
-      "n": 46
-    },
-    {
-      "theme": "WB_2471_PEACEKEEPING",
-      "n": 46
-    },
-    {
-      "theme": "NEGOTIATIONS",
-      "n": 42
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 42
-    },
-    {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 40
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 40
+      "n": 102
     },
     {
       "theme": "LEADER",
-      "n": 39
+      "n": 62
     },
     {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 36
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 52
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 51
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 50
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 47
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 45
+    },
+    {
+      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
+      "n": 42
+    },
+    {
+      "theme": "WB_939_NEGOTIATION",
+      "n": 42
+    },
+    {
+      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
+      "n": 42
+    },
+    {
+      "theme": "WB_843_DISPUTE_RESOLUTION",
+      "n": 42
+    },
+    {
+      "theme": "WB_2471_PEACEKEEPING",
+      "n": 42
+    },
+    {
+      "theme": "NEGOTIATIONS",
+      "n": 41
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 38
     }
   ]
 }
