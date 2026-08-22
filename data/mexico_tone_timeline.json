@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-22T11:34:33.884467+00:00",
-  "rows_total_scanned_last_run": 2887,
-  "rows_mexico_last_run": 55,
-  "overall_avg_tone_4h": -1.249,
+  "generated_at": "2026-08-22T11:55:41.775655+00:00",
+  "rows_total_scanned_last_run": 2854,
+  "rows_mexico_last_run": 52,
+  "overall_avg_tone_4h": -1.264,
   "timeline": [
-    {
-      "time": "2026-08-19T11:45",
-      "avg_tone": -1.218,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-19T12:00",
       "avg_tone": -0.691,
@@ -1403,6 +1398,11 @@
       "time": "2026-08-22T11:45",
       "avg_tone": -1.267,
       "n_articles": 13
+    },
+    {
+      "time": "2026-08-22T12:00",
+      "avg_tone": -1.49,
+      "n_articles": 9
     }
   ],
   "top_sources": [
@@ -1410,6 +1410,11 @@
       "source": "stcatharinesstandard.ca",
       "n": 3,
       "avg_tone": -1.849
+    },
+    {
+      "source": "panow.com",
+      "n": 2,
+      "avg_tone": -1.269
     },
     {
       "source": "medicinehatnews.com",
@@ -1422,9 +1427,39 @@
       "avg_tone": 1.551
     },
     {
-      "source": "netscape.com",
-      "n": 2,
-      "avg_tone": -3.388
+      "source": "sitkasentinel.com",
+      "n": 1,
+      "avg_tone": -3.353
+    },
+    {
+      "source": "boxingnewsonline.net",
+      "n": 1,
+      "avg_tone": 1.288
+    },
+    {
+      "source": "nypost.com",
+      "n": 1,
+      "avg_tone": -1.468
+    },
+    {
+      "source": "herald-dispatch.com",
+      "n": 1,
+      "avg_tone": 0.955
+    },
+    {
+      "source": "okaz.com.sa",
+      "n": 1,
+      "avg_tone": -4.49
+    },
+    {
+      "source": "orovillemr.com",
+      "n": 1,
+      "avg_tone": -1.569
+    },
+    {
+      "source": "katc.com",
+      "n": 1,
+      "avg_tone": -2.231
     },
     {
       "source": "times-series.co.uk",
@@ -1445,103 +1480,68 @@
       "source": "witn.com",
       "n": 1,
       "avg_tone": -2.259
-    },
-    {
-      "source": "dunmowbroadcast.co.uk",
-      "n": 1,
-      "avg_tone": -1.846
-    },
-    {
-      "source": "andoveradvertiser.co.uk",
-      "n": 1,
-      "avg_tone": -1.846
-    },
-    {
-      "source": "local10.com",
-      "n": 1,
-      "avg_tone": -2.226
-    },
-    {
-      "source": "eppingforestguardian.co.uk",
-      "n": 1,
-      "avg_tone": -1.846
-    },
-    {
-      "source": "hamhigh.co.uk",
-      "n": 1,
-      "avg_tone": -1.846
-    },
-    {
-      "source": "newhamrecorder.co.uk",
-      "n": 1,
-      "avg_tone": -1.846
-    },
-    {
-      "source": "netnewsledger.com",
-      "n": 1,
-      "avg_tone": -0.944
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_698_TRADE",
-      "n": 190
-    },
-    {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 185
+      "n": 176
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 109
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 102
-    },
-    {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 102
-    },
-    {
-      "theme": "NEGOTIATIONS",
-      "n": 101
-    },
-    {
-      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 101
-    },
-    {
-      "theme": "WB_939_NEGOTIATION",
-      "n": 101
-    },
-    {
-      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 101
-    },
-    {
-      "theme": "WB_843_DISPUTE_RESOLUTION",
-      "n": 101
-    },
-    {
-      "theme": "WB_2471_PEACEKEEPING",
-      "n": 101
+      "theme": "WB_698_TRADE",
+      "n": 167
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 95
+      "n": 91
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 91
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 86
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 84
+    },
+    {
+      "theme": "NEGOTIATIONS",
+      "n": 83
+    },
+    {
+      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
+      "n": 83
+    },
+    {
+      "theme": "WB_939_NEGOTIATION",
+      "n": 83
+    },
+    {
+      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
+      "n": 83
+    },
+    {
+      "theme": "WB_843_DISPUTE_RESOLUTION",
+      "n": 83
+    },
+    {
+      "theme": "WB_2471_PEACEKEEPING",
+      "n": 83
     },
     {
       "theme": "AGRICULTURE",
-      "n": 87
+      "n": 71
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 63
+      "theme": "GENERAL_HEALTH",
+      "n": 56
     },
     {
-      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
-      "n": 63
+      "theme": "MEDICAL",
+      "n": 56
     }
   ]
 }
