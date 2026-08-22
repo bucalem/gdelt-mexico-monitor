@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-22T21:57:34.690133+00:00",
-  "rows_total_scanned_last_run": 2038,
-  "rows_mexico_last_run": 32,
-  "overall_avg_tone_4h": -0.43,
+  "generated_at": "2026-08-22T22:18:48.600408+00:00",
+  "rows_total_scanned_last_run": 1936,
+  "rows_mexico_last_run": 33,
+  "overall_avg_tone_4h": -0.47,
   "timeline": [
-    {
-      "time": "2026-08-19T22:00",
-      "avg_tone": -2.741,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-08-19T22:15",
-      "avg_tone": -1.979,
-      "n_articles": 25
-    },
     {
       "time": "2026-08-19T22:30",
       "avg_tone": -1.913,
@@ -1403,6 +1393,11 @@
       "time": "2026-08-22T22:00",
       "avg_tone": -0.279,
       "n_articles": 6
+    },
+    {
+      "time": "2026-08-22T22:15",
+      "avg_tone": -1.624,
+      "n_articles": 7
     }
   ],
   "top_sources": [
@@ -1415,6 +1410,41 @@
       "source": "chroniclejournal.com",
       "n": 2,
       "avg_tone": -0.527
+    },
+    {
+      "source": "gvnews.com",
+      "n": 1,
+      "avg_tone": 0.196
+    },
+    {
+      "source": "aol.com",
+      "n": 1,
+      "avg_tone": -5.196
+    },
+    {
+      "source": "cheknews.ca",
+      "n": 1,
+      "avg_tone": -0.21
+    },
+    {
+      "source": "gdnonline.com",
+      "n": 1,
+      "avg_tone": -1.401
+    },
+    {
+      "source": "haitisun.com",
+      "n": 1,
+      "avg_tone": 3.256
+    },
+    {
+      "source": "corsicanadailysun.com",
+      "n": 1,
+      "avg_tone": -6.0
+    },
+    {
+      "source": "wbrc.com",
+      "n": 1,
+      "avg_tone": -2.016
     },
     {
       "source": "heraldbulletin.com",
@@ -1445,103 +1475,68 @@
       "source": "shanghaisun.com",
       "n": 1,
       "avg_tone": 3.093
-    },
-    {
-      "source": "rockymounttelegram.com",
-      "n": 1,
-      "avg_tone": -6.0
-    },
-    {
-      "source": "ckom.com",
-      "n": 1,
-      "avg_tone": -0.634
-    },
-    {
-      "source": "twincities.com",
-      "n": 1,
-      "avg_tone": -2.578
-    },
-    {
-      "source": "westcentralonline.com",
-      "n": 1,
-      "avg_tone": 1.212
-    },
-    {
-      "source": "drgnews.com",
-      "n": 1,
-      "avg_tone": -0.357
-    },
-    {
-      "source": "medicinehatnews.com",
-      "n": 1,
-      "avg_tone": -0.76
-    },
-    {
-      "source": "niagarafallsreview.ca",
-      "n": 1,
-      "avg_tone": -0.218
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 130
+      "n": 128
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 102
+      "n": 93
     },
     {
       "theme": "LEADER",
-      "n": 62
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 52
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 51
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 50
+      "n": 65
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 47
+      "n": 52
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 51
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 45
-    },
-    {
-      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 42
-    },
-    {
-      "theme": "WB_939_NEGOTIATION",
-      "n": 42
-    },
-    {
-      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 42
-    },
-    {
-      "theme": "WB_843_DISPUTE_RESOLUTION",
-      "n": 42
-    },
-    {
-      "theme": "WB_2471_PEACEKEEPING",
-      "n": 42
-    },
-    {
-      "theme": "NEGOTIATIONS",
-      "n": 41
+      "n": 50
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 38
+      "n": 50
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 50
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 49
+    },
+    {
+      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
+      "n": 43
+    },
+    {
+      "theme": "WB_939_NEGOTIATION",
+      "n": 43
+    },
+    {
+      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
+      "n": 43
+    },
+    {
+      "theme": "WB_843_DISPUTE_RESOLUTION",
+      "n": 43
+    },
+    {
+      "theme": "WB_2471_PEACEKEEPING",
+      "n": 43
+    },
+    {
+      "theme": "NEGOTIATIONS",
+      "n": 42
     }
   ]
 }
