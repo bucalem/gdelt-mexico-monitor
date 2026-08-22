@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-22T20:14:49.061772+00:00",
-  "rows_total_scanned_last_run": 2418,
-  "rows_mexico_last_run": 41,
-  "overall_avg_tone_4h": -0.533,
+  "generated_at": "2026-08-22T20:40:51.411884+00:00",
+  "rows_total_scanned_last_run": 2278,
+  "rows_mexico_last_run": 32,
+  "overall_avg_tone_4h": -0.472,
   "timeline": [
-    {
-      "time": "2026-08-19T20:15",
-      "avg_tone": -1.644,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-08-19T20:30",
-      "avg_tone": -0.047,
-      "n_articles": 26
-    },
     {
       "time": "2026-08-19T20:45",
       "avg_tone": -1.604,
@@ -1403,145 +1393,155 @@
       "time": "2026-08-22T20:15",
       "avg_tone": -1.016,
       "n_articles": 11
+    },
+    {
+      "time": "2026-08-22T20:30",
+      "avg_tone": 0.485,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-08-22T20:45",
+      "avg_tone": -2.039,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "glidemagazine.com",
+      "source": "dailyadvance.com",
       "n": 2,
-      "avg_tone": 3.272
+      "avg_tone": -4.295
     },
     {
-      "source": "trinidadtimes.com",
-      "n": 2,
-      "avg_tone": 3.174
-    },
-    {
-      "source": "firstcomicsnews.com",
+      "source": "nypost.com",
       "n": 1,
-      "avg_tone": 2.932
+      "avg_tone": -4.01
     },
     {
-      "source": "talkingpointsmemo.com",
-      "n": 1,
-      "avg_tone": -4.037
-    },
-    {
-      "source": "latimes.com",
-      "n": 1,
-      "avg_tone": -5.357
-    },
-    {
-      "source": "foxsanantonio.com",
+      "source": "news4sanantonio.com",
       "n": 1,
       "avg_tone": -6.016
     },
     {
-      "source": "philboxing.com",
+      "source": "newschannel9.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -2.994
     },
     {
-      "source": "dailymail.com",
+      "source": "dailypolitical.com",
       "n": 1,
-      "avg_tone": 4.224
+      "avg_tone": 4.641
     },
     {
-      "source": "bostonglobe.com",
+      "source": "stcatharinesstandard.ca",
       "n": 1,
-      "avg_tone": -3.333
+      "avg_tone": -0.64
     },
     {
-      "source": "f4wonline.com",
+      "source": "aol.com",
       "n": 1,
-      "avg_tone": -2.649
+      "avg_tone": 1.292
     },
     {
-      "source": "nola.com",
+      "source": "liveinsurancenews.com",
       "n": 1,
-      "avg_tone": 5.811
+      "avg_tone": -3.782
     },
     {
-      "source": "el-balad.com",
+      "source": "tickerreport.com",
       "n": 1,
-      "avg_tone": -0.842
+      "avg_tone": 2.66
     },
     {
-      "source": "breakingnews.ie",
+      "source": "thehindu.com",
       "n": 1,
-      "avg_tone": -1.911
+      "avg_tone": -1.953
     },
     {
-      "source": "bignewsnetwork.com",
+      "source": "venezuelastar.com",
       "n": 1,
-      "avg_tone": 3.248
+      "avg_tone": 3.093
     },
     {
-      "source": "wctv.tv",
+      "source": "ladailypost.com",
       "n": 1,
-      "avg_tone": -2.016
+      "avg_tone": 5.758
+    },
+    {
+      "source": "digitaljournal.com",
+      "n": 1,
+      "avg_tone": 2.135
+    },
+    {
+      "source": "cbc.ca",
+      "n": 1,
+      "avg_tone": 1.967
+    },
+    {
+      "source": "gazettextra.com",
+      "n": 1,
+      "avg_tone": -6.0
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 144
+      "n": 108
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 115
+      "n": 82
     },
     {
       "theme": "BORDER",
-      "n": 71
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 66
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 51
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 47
+      "theme": "USPEC_POLICY1",
+      "n": 48
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
+      "theme": "TAX_ETHNICITY_AMERICAN",
       "n": 43
     },
     {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 42
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 41
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 39
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 36
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 36
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 32
+    },
+    {
+      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
+      "n": 32
     },
     {
       "theme": "LEADER",
-      "n": 42
+      "n": 31
+    },
+    {
+      "theme": "EPU_ECONOMY",
+      "n": 29
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 28
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 40
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 40
-    },
-    {
-      "theme": "SEIGE",
-      "n": 40
-    },
-    {
-      "theme": "CHECKPOINT",
-      "n": 40
-    },
-    {
-      "theme": "UNREST_CHECKPOINT",
-      "n": 40
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 39
+      "n": 28
     }
   ]
 }
