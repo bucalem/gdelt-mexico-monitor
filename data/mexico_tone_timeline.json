@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-08-21T23:57:58.478800+00:00",
-  "rows_total_scanned_last_run": 3356,
-  "rows_mexico_last_run": 60,
-  "overall_avg_tone_4h": -0.323,
+  "generated_at": "2026-08-22T01:09:06.802663+00:00",
+  "rows_total_scanned_last_run": 2978,
+  "rows_mexico_last_run": 79,
+  "overall_avg_tone_4h": -0.449,
   "timeline": [
-    {
-      "time": "2026-08-19T00:00",
-      "avg_tone": -0.043,
-      "n_articles": 30
-    },
-    {
-      "time": "2026-08-19T00:15",
-      "avg_tone": -0.381,
-      "n_articles": 31
-    },
-    {
-      "time": "2026-08-19T00:30",
-      "avg_tone": -0.727,
-      "n_articles": 21
-    },
-    {
-      "time": "2026-08-19T00:45",
-      "avg_tone": -1.232,
-      "n_articles": 22
-    },
-    {
-      "time": "2026-08-19T01:00",
-      "avg_tone": -0.581,
-      "n_articles": 26
-    },
     {
       "time": "2026-08-19T01:30",
       "avg_tone": 0.958,
@@ -1408,145 +1383,165 @@
       "time": "2026-08-22T00:00",
       "avg_tone": -0.464,
       "n_articles": 22
+    },
+    {
+      "time": "2026-08-22T00:30",
+      "avg_tone": -0.335,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-08-22T00:45",
+      "avg_tone": -0.436,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-08-22T01:00",
+      "avg_tone": -0.728,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-08-22T01:15",
+      "avg_tone": -0.787,
+      "n_articles": 22
     }
   ],
   "top_sources": [
     {
-      "source": "krgv.com",
-      "n": 4,
-      "avg_tone": -2.714
-    },
-    {
-      "source": "wmur.com",
+      "source": "bignewsnetwork.com",
       "n": 3,
-      "avg_tone": 0.285
+      "avg_tone": -0.03
     },
     {
-      "source": "kmbc.com",
+      "source": "santafenewmexican.com",
       "n": 3,
-      "avg_tone": 0.285
+      "avg_tone": -2.548
     },
     {
-      "source": "wlky.com",
+      "source": "yakimaherald.com",
       "n": 3,
-      "avg_tone": 0.285
+      "avg_tone": 0.195
     },
     {
-      "source": "wmtw.com",
-      "n": 3,
-      "avg_tone": 0.285
-    },
-    {
-      "source": "corvallisadvocate.com",
+      "source": "newyorktelegraph.com",
       "n": 2,
-      "avg_tone": 0.652
+      "avg_tone": -0.233
     },
     {
-      "source": "wdsu.com",
+      "source": "floridastatesman.com",
+      "n": 2,
+      "avg_tone": -0.233
+    },
+    {
+      "source": "wvtm13.com",
       "n": 2,
       "avg_tone": 0.79
     },
     {
-      "source": "wgal.com",
+      "source": "ksbw.com",
       "n": 2,
       "avg_tone": 0.79
     },
     {
-      "source": "thecattlesite.com",
+      "source": "trinidadtimes.com",
       "n": 2,
-      "avg_tone": -1.949
+      "avg_tone": -1.559
     },
     {
-      "source": "wibw.com",
-      "n": 1,
-      "avg_tone": -1.536
+      "source": "wjcl.com",
+      "n": 2,
+      "avg_tone": 0.79
     },
     {
-      "source": "countryliving.com",
-      "n": 1,
-      "avg_tone": 2.363
+      "source": "4029tv.com",
+      "n": 2,
+      "avg_tone": 0.79
     },
     {
-      "source": "asianjournal.com",
-      "n": 1,
-      "avg_tone": -6.436
+      "source": "caribjournal.com",
+      "n": 2,
+      "avg_tone": 1.031
     },
     {
-      "source": "aol.com",
-      "n": 1,
-      "avg_tone": -1.258
+      "source": "edmontonsun.com",
+      "n": 2,
+      "avg_tone": 0.562
     },
     {
-      "source": "sandiegouniontribune.com",
-      "n": 1,
-      "avg_tone": 0.975
+      "source": "koat.com",
+      "n": 2,
+      "avg_tone": 0.79
     },
     {
-      "source": "thepeterboroughexaminer.com",
+      "source": "mynbc5.com",
+      "n": 2,
+      "avg_tone": 0.79
+    },
+    {
+      "source": "idahopress.com",
       "n": 1,
-      "avg_tone": -0.437
+      "avg_tone": -1.818
     }
   ],
   "top_themes": [
     {
+      "theme": "WB_137_WATER",
+      "n": 171
+    },
+    {
       "theme": "AGRICULTURE",
-      "n": 219
+      "n": 142
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 189
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 125
-    },
-    {
-      "theme": "LEADER",
-      "n": 114
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
       "n": 113
     },
     {
-      "theme": "BORDER",
-      "n": 107
+      "theme": "LEADER",
+      "n": 111
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 59
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 105
     },
     {
-      "theme": "TAX_FOODSTAPLES_MILK",
-      "n": 52
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 104
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 75
+    },
+    {
+      "theme": "ARMEDCONFLICT",
+      "n": 54
+    },
+    {
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 47
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
       "n": 45
     },
     {
-      "theme": "EDUCATION",
-      "n": 39
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 39
+      "theme": "MARITIME",
+      "n": 44
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 38
+      "n": 44
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 37
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 43
     },
     {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 36
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 43
     },
     {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 36
+      "theme": "EDUCATION",
+      "n": 42
     }
   ]
 }
