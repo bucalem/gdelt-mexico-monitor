@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-22T17:55:46.938648+00:00",
-  "rows_total_scanned_last_run": 2863,
-  "rows_mexico_last_run": 94,
-  "overall_avg_tone_4h": -0.575,
+  "generated_at": "2026-08-22T18:18:30.812958+00:00",
+  "rows_total_scanned_last_run": 2797,
+  "rows_mexico_last_run": 88,
+  "overall_avg_tone_4h": -0.522,
   "timeline": [
-    {
-      "time": "2026-08-19T18:00",
-      "avg_tone": -0.6,
-      "n_articles": 25
-    },
-    {
-      "time": "2026-08-19T18:15",
-      "avg_tone": 0.131,
-      "n_articles": 19
-    },
     {
       "time": "2026-08-19T18:30",
       "avg_tone": 0.284,
@@ -1403,9 +1393,19 @@
       "time": "2026-08-22T18:00",
       "avg_tone": -0.926,
       "n_articles": 17
+    },
+    {
+      "time": "2026-08-22T18:15",
+      "avg_tone": -0.468,
+      "n_articles": 19
     }
   ],
   "top_sources": [
+    {
+      "source": "edmontonjournal.com",
+      "n": 2,
+      "avg_tone": 1.947
+    },
     {
       "source": "outsidethebeltway.com",
       "n": 2,
@@ -1427,121 +1427,116 @@
       "avg_tone": -0.553
     },
     {
-      "source": "ckom.com",
-      "n": 2,
-      "avg_tone": -0.132
+      "source": "gostanford.com",
+      "n": 1,
+      "avg_tone": 1.987
     },
     {
-      "source": "basingstokegazette.co.uk",
+      "source": "abc13.com",
+      "n": 1,
+      "avg_tone": -1.695
+    },
+    {
+      "source": "business-standard.com",
+      "n": 1,
+      "avg_tone": -2.044
+    },
+    {
+      "source": "echo-news.co.uk",
       "n": 1,
       "avg_tone": -1.514
     },
     {
-      "source": "lethbridgeherald.com",
+      "source": "billboard.com",
       "n": 1,
-      "avg_tone": 0.139
+      "avg_tone": 4.033
     },
     {
-      "source": "samaa.tv",
+      "source": "nypost.com",
       "n": 1,
-      "avg_tone": 3.817
+      "avg_tone": -2.823
     },
     {
-      "source": "stourbridgenews.co.uk",
-      "n": 1,
-      "avg_tone": -1.514
-    },
-    {
-      "source": "dailylocal.com",
-      "n": 1,
-      "avg_tone": 1.294
-    },
-    {
-      "source": "irishexaminer.com",
+      "source": "newser.com",
       "n": 1,
       "avg_tone": -1.515
     },
     {
-      "source": "mercurynews.com",
+      "source": "abqjournal.com",
       "n": 1,
-      "avg_tone": -2.424
+      "avg_tone": 1.314
     },
     {
-      "source": "hillingdontimes.co.uk",
+      "source": "royston-crow.co.uk",
       "n": 1,
       "avg_tone": -1.514
     },
     {
-      "source": "wfmz.com",
+      "source": "wirralglobe.co.uk",
       "n": 1,
-      "avg_tone": -2.492
-    },
-    {
-      "source": "wboc.com",
-      "n": 1,
-      "avg_tone": -3.373
+      "avg_tone": -1.514
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 685
+      "n": 626
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 613
+      "n": 569
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 308
+      "n": 300
     },
     {
       "theme": "LEADER",
-      "n": 259
+      "n": 231
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 244
+      "n": 223
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 239
-    },
-    {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 180
+      "n": 221
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 174
+      "n": 182
     },
     {
       "theme": "EPU_CATS_TAXES",
-      "n": 165
+      "n": 172
     },
     {
-      "theme": "EPU_ECONOMY",
-      "n": 164
-    },
-    {
-      "theme": "TAX_FNCACT_PRIME_MINISTER",
-      "n": 147
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 155
     },
     {
       "theme": "TAX_ETHNICITY_AMERICANS",
-      "n": 145
+      "n": 144
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "theme": "EPU_ECONOMY",
+      "n": 144
+    },
+    {
+      "theme": "TAX_FNCACT_PRIME_MINISTER",
       "n": 124
     },
     {
-      "theme": "NEGOTIATIONS",
-      "n": 120
+      "theme": "LEGISLATION",
+      "n": 116
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 120
+      "theme": "EPU_POLICY_LAW",
+      "n": 116
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 105
     }
   ]
 }
