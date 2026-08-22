@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-22T22:44:59.381191+00:00",
-  "rows_total_scanned_last_run": 1950,
-  "rows_mexico_last_run": 29,
-  "overall_avg_tone_4h": -0.364,
+  "generated_at": "2026-08-22T22:59:31.307602+00:00",
+  "rows_total_scanned_last_run": 2002,
+  "rows_mexico_last_run": 26,
+  "overall_avg_tone_4h": -0.396,
   "timeline": [
-    {
-      "time": "2026-08-19T22:45",
-      "avg_tone": -2.099,
-      "n_articles": 24
-    },
     {
       "time": "2026-08-19T23:00",
       "avg_tone": -3.425,
@@ -1403,14 +1398,14 @@
       "time": "2026-08-22T22:45",
       "avg_tone": 1.205,
       "n_articles": 8
+    },
+    {
+      "time": "2026-08-22T23:00",
+      "avg_tone": 0.53,
+      "n_articles": 3
     }
   ],
   "top_sources": [
-    {
-      "source": "riotimesonline.com",
-      "n": 4,
-      "avg_tone": -0.871
-    },
     {
       "source": "yahoo.com",
       "n": 2,
@@ -1420,6 +1415,21 @@
       "source": "english.news.cn",
       "n": 2,
       "avg_tone": 2.368
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 1,
+      "avg_tone": 4.336
+    },
+    {
+      "source": "japanherald.com",
+      "n": 1,
+      "avg_tone": 3.256
+    },
+    {
+      "source": "leadertelegram.com",
+      "n": 1,
+      "avg_tone": -6.0
     },
     {
       "source": "scvnews.com",
@@ -1470,22 +1480,12 @@
       "source": "nypost.com",
       "n": 1,
       "avg_tone": -1.144
-    },
-    {
-      "source": "sandiegouniontribune.com",
-      "n": 1,
-      "avg_tone": 1.564
-    },
-    {
-      "source": "slashgear.com",
-      "n": 1,
-      "avg_tone": -0.224
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 70
+      "n": 64
     },
     {
       "theme": "TAX_WORLDMAMMALS_BEAR",
@@ -1493,11 +1493,7 @@
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 39
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 32
+      "n": 38
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
@@ -1508,15 +1504,11 @@
       "n": 28
     },
     {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 27
+    },
+    {
       "theme": "LEADER",
-      "n": 25
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 25
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
       "n": 22
     },
     {
@@ -1541,6 +1533,14 @@
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 20
+    },
+    {
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 20
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
       "n": 20
     }
   ]
