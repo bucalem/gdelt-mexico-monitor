@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-22T23:42:02.380422+00:00",
-  "rows_total_scanned_last_run": 1789,
-  "rows_mexico_last_run": 18,
-  "overall_avg_tone_4h": -0.386,
+  "generated_at": "2026-08-22T23:56:57.698390+00:00",
+  "rows_total_scanned_last_run": 1682,
+  "rows_mexico_last_run": 19,
+  "overall_avg_tone_4h": -0.355,
   "timeline": [
-    {
-      "time": "2026-08-19T23:45",
-      "avg_tone": -2.919,
-      "n_articles": 28
-    },
     {
       "time": "2026-08-20T00:00",
       "avg_tone": -1.92,
@@ -1403,9 +1398,34 @@
       "time": "2026-08-22T23:45",
       "avg_tone": -2.2,
       "n_articles": 7
+    },
+    {
+      "time": "2026-08-23T00:00",
+      "avg_tone": -1.339,
+      "n_articles": 4
     }
   ],
   "top_sources": [
+    {
+      "source": "cjme.com",
+      "n": 1,
+      "avg_tone": -0.634
+    },
+    {
+      "source": "arkansasonline.com",
+      "n": 1,
+      "avg_tone": -2.262
+    },
+    {
+      "source": "fox13seattle.com",
+      "n": 1,
+      "avg_tone": -0.414
+    },
+    {
+      "source": "el-balad.com",
+      "n": 1,
+      "avg_tone": -2.045
+    },
     {
       "source": "swiftcurrentonline.com",
       "n": 1,
@@ -1460,43 +1480,59 @@
       "source": "thepeterboroughexaminer.com",
       "n": 1,
       "avg_tone": -0.64
-    },
-    {
-      "source": "gostanford.com",
-      "n": 1,
-      "avg_tone": 2.759
-    },
-    {
-      "source": "abc7ny.com",
-      "n": 1,
-      "avg_tone": -1.695
-    },
-    {
-      "source": "wahpetondailynews.com",
-      "n": 1,
-      "avg_tone": 6.438
-    },
-    {
-      "source": "aol.com",
-      "n": 1,
-      "avg_tone": 2.99
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 33
+      "n": 50
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 25
+      "n": 31
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 16
+      "n": 18
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 17
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 16
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 15
+    },
+    {
+      "theme": "NEGOTIATIONS",
+      "n": 15
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 15
+    },
+    {
+      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
+      "n": 15
+    },
+    {
+      "theme": "WB_939_NEGOTIATION",
+      "n": 15
+    },
+    {
+      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
+      "n": 15
+    },
+    {
+      "theme": "WB_843_DISPUTE_RESOLUTION",
+      "n": 15
+    },
+    {
+      "theme": "WB_2471_PEACEKEEPING",
       "n": 15
     },
     {
@@ -1504,44 +1540,8 @@
       "n": 15
     },
     {
-      "theme": "WB_137_WATER",
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
       "n": 14
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 11
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 11
-    },
-    {
-      "theme": "EPU_ECONOMY",
-      "n": 10
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 10
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 10
-    },
-    {
-      "theme": "EPU_POLICY_POLITICAL",
-      "n": 10
-    },
-    {
-      "theme": "TAX_FOODSTAPLES_EGGS",
-      "n": 10
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 9
-    },
-    {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 9
     }
   ]
 }
