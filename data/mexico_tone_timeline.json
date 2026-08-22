@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-22T13:07:14.662508+00:00",
-  "rows_total_scanned_last_run": 2642,
-  "rows_mexico_last_run": 61,
-  "overall_avg_tone_4h": -1.368,
+  "generated_at": "2026-08-22T13:42:56.400602+00:00",
+  "rows_total_scanned_last_run": 2088,
+  "rows_mexico_last_run": 50,
+  "overall_avg_tone_4h": -1.342,
   "timeline": [
-    {
-      "time": "2026-08-19T13:15",
-      "avg_tone": -1.35,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-08-19T13:30",
-      "avg_tone": 0.24,
-      "n_articles": 14
-    },
     {
       "time": "2026-08-19T13:45",
       "avg_tone": -0.296,
@@ -1403,13 +1393,23 @@
       "time": "2026-08-22T13:15",
       "avg_tone": -0.573,
       "n_articles": 15
+    },
+    {
+      "time": "2026-08-22T13:45",
+      "avg_tone": -0.835,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
-      "source": "cnn.com",
-      "n": 3,
-      "avg_tone": -2.822
+      "source": "wfmj.com",
+      "n": 2,
+      "avg_tone": -2.818
+    },
+    {
+      "source": "english.news.cn",
+      "n": 2,
+      "avg_tone": -0.742
     },
     {
       "source": "saultstar.com",
@@ -1427,121 +1427,116 @@
       "avg_tone": -3.108
     },
     {
-      "source": "tickerreport.com",
-      "n": 2,
-      "avg_tone": 3.55
+      "source": "chroniclejournal.com",
+      "n": 1,
+      "avg_tone": 1.607
     },
     {
-      "source": "nwaonline.com",
-      "n": 2,
-      "avg_tone": -2.841
+      "source": "whdh.com",
+      "n": 1,
+      "avg_tone": -2.273
     },
     {
-      "source": "brandonsun.com",
-      "n": 2,
-      "avg_tone": -1.183
+      "source": "bangordailynews.com",
+      "n": 1,
+      "avg_tone": -2.373
     },
     {
-      "source": "bignewsnetwork.com",
-      "n": 2,
-      "avg_tone": -1.437
+      "source": "autocarindia.com",
+      "n": 1,
+      "avg_tone": 2.69
     },
     {
-      "source": "pentictonherald.ca",
-      "n": 2,
-      "avg_tone": -1.306
+      "source": "abc7chicago.com",
+      "n": 1,
+      "avg_tone": -2.288
+    },
+    {
+      "source": "durhamregion.com",
+      "n": 1,
+      "avg_tone": 0.295
+    },
+    {
+      "source": "theconservativetreehouse.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "wgal.com",
+      "n": 1,
+      "avg_tone": -1.097
+    },
+    {
+      "source": "memeburn.com",
+      "n": 1,
+      "avg_tone": -0.294
     },
     {
       "source": "parrysound.com",
       "n": 1,
       "avg_tone": 0.295
-    },
-    {
-      "source": "durangoherald.com",
-      "n": 1,
-      "avg_tone": -5.112
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 2.83
-    },
-    {
-      "source": "dhakacourier.com.bd",
-      "n": 1,
-      "avg_tone": -1.322
-    },
-    {
-      "source": "austinglobe.com",
-      "n": 1,
-      "avg_tone": -2.079
-    },
-    {
-      "source": "tonyskansascity.com",
-      "n": 1,
-      "avg_tone": 1.053
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 218
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 210
+      "n": 191
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 187
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 111
-    },
-    {
-      "theme": "BORDER",
-      "n": 107
+      "n": 161
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 107
+      "n": 94
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 91
     },
     {
       "theme": "LEADER",
-      "n": 106
+      "n": 90
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 102
+      "n": 88
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 96
+      "n": 79
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 79
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 89
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 87
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 83
-    },
-    {
-      "theme": "WB_840_JUSTICE",
       "n": 77
     },
     {
       "theme": "NEGOTIATIONS",
-      "n": 76
+      "n": 73
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 71
     },
     {
       "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 75
+      "n": 69
+    },
+    {
+      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
+      "n": 68
+    },
+    {
+      "theme": "WB_939_NEGOTIATION",
+      "n": 68
+    },
+    {
+      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
+      "n": 68
     }
   ]
 }
