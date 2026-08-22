@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-22T21:21:00.213720+00:00",
-  "rows_total_scanned_last_run": 1970,
-  "rows_mexico_last_run": 36,
+  "generated_at": "2026-08-22T21:43:13.995290+00:00",
+  "rows_total_scanned_last_run": 1525,
+  "rows_mexico_last_run": 28,
   "overall_avg_tone_4h": -0.444,
   "timeline": [
-    {
-      "time": "2026-08-19T21:30",
-      "avg_tone": -2.266,
-      "n_articles": 20
-    },
     {
       "time": "2026-08-19T21:45",
       "avg_tone": -1.878,
@@ -1422,11 +1417,6 @@
       "avg_tone": -0.757
     },
     {
-      "source": "dailyadvance.com",
-      "n": 2,
-      "avg_tone": -4.295
-    },
-    {
       "source": "orlandosentinel.com",
       "n": 1,
       "avg_tone": -2.578
@@ -1480,68 +1470,73 @@
       "source": "knoe.com",
       "n": 1,
       "avg_tone": -2.016
+    },
+    {
+      "source": "sitkasentinel.com",
+      "n": 1,
+      "avg_tone": -5.769
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 145
+      "n": 126
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 135
+      "n": 116
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 58
+      "n": 49
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 56
+      "n": 47
     },
     {
       "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 54
+      "n": 46
     },
     {
       "theme": "WB_939_NEGOTIATION",
-      "n": 54
+      "n": 46
     },
     {
       "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 54
+      "n": 46
     },
     {
       "theme": "WB_843_DISPUTE_RESOLUTION",
-      "n": 54
+      "n": 46
     },
     {
       "theme": "WB_2471_PEACEKEEPING",
-      "n": 54
+      "n": 46
     },
     {
       "theme": "NEGOTIATIONS",
-      "n": 50
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 50
-    },
-    {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 49
+      "n": 42
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 49
+      "n": 42
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 40
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 40
     },
     {
       "theme": "LEADER",
-      "n": 48
+      "n": 39
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 44
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 36
     }
   ]
 }
