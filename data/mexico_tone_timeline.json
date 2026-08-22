@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-22T07:07:41.594571+00:00",
-  "rows_total_scanned_last_run": 2297,
-  "rows_mexico_last_run": 88,
-  "overall_avg_tone_4h": -1.289,
+  "generated_at": "2026-08-22T07:43:52.788437+00:00",
+  "rows_total_scanned_last_run": 1801,
+  "rows_mexico_last_run": 81,
+  "overall_avg_tone_4h": -1.316,
   "timeline": [
-    {
-      "time": "2026-08-19T07:15",
-      "avg_tone": 2.147,
-      "n_articles": 3
-    },
-    {
-      "time": "2026-08-19T07:30",
-      "avg_tone": -0.921,
-      "n_articles": 7
-    },
     {
       "time": "2026-08-19T07:45",
       "avg_tone": -2.348,
@@ -1403,18 +1393,23 @@
       "time": "2026-08-22T07:15",
       "avg_tone": -1.678,
       "n_articles": 32
+    },
+    {
+      "time": "2026-08-22T07:30",
+      "avg_tone": -1.43,
+      "n_articles": 23
     }
   ],
   "top_sources": [
     {
-      "source": "yahoo.com",
-      "n": 3,
-      "avg_tone": 0.335
-    },
-    {
       "source": "glasgowtimes.co.uk",
       "n": 2,
       "avg_tone": 1.071
+    },
+    {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": 0.61
     },
     {
       "source": "winnipegfreepress.com",
@@ -1422,126 +1417,126 @@
       "avg_tone": -1.378
     },
     {
-      "source": "wellandtribune.ca",
-      "n": 2,
-      "avg_tone": -1.097
-    },
-    {
-      "source": "ksut.org",
+      "source": "ivpressonline.com",
       "n": 1,
-      "avg_tone": -1.484
+      "avg_tone": 0.716
     },
     {
-      "source": "runcornandwidnesworld.co.uk",
+      "source": "leighjournal.co.uk",
       "n": 1,
       "avg_tone": -1.846
     },
     {
-      "source": "dudleynews.co.uk",
+      "source": "bromsgroveadvertiser.co.uk",
       "n": 1,
       "avg_tone": -1.846
     },
     {
-      "source": "cnbc.com",
-      "n": 1,
-      "avg_tone": -1.132
-    },
-    {
-      "source": "spokesman.com",
-      "n": 1,
-      "avg_tone": -2.204
-    },
-    {
-      "source": "stourbridgenews.co.uk",
+      "source": "kilburntimes.co.uk",
       "n": 1,
       "avg_tone": -1.846
     },
     {
-      "source": "kwit.org",
-      "n": 1,
-      "avg_tone": -1.484
-    },
-    {
-      "source": "krwg.org",
-      "n": 1,
-      "avg_tone": -1.484
-    },
-    {
-      "source": "timesandstar.co.uk",
+      "source": "countytimes.co.uk",
       "n": 1,
       "avg_tone": -1.846
     },
     {
-      "source": "wysu.org",
+      "source": "romfordrecorder.co.uk",
+      "n": 1,
+      "avg_tone": -1.846
+    },
+    {
+      "source": "cravenherald.co.uk",
+      "n": 1,
+      "avg_tone": -1.846
+    },
+    {
+      "source": "northkoreatimes.com",
+      "n": 1,
+      "avg_tone": -1.376
+    },
+    {
+      "source": "thetelegraphandargus.co.uk",
+      "n": 1,
+      "avg_tone": -1.846
+    },
+    {
+      "source": "wkyufm.org",
       "n": 1,
       "avg_tone": -1.484
     },
     {
-      "source": "news4jax.com",
+      "source": "wclk.com",
       "n": 1,
-      "avg_tone": -2.178
+      "avg_tone": -1.484
+    },
+    {
+      "source": "clactonandfrintongazette.co.uk",
+      "n": 1,
+      "avg_tone": -1.846
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 565
+      "n": 449
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 520
+      "n": 375
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 210
+      "n": 187
     },
     {
       "theme": "NEGOTIATIONS",
-      "n": 209
+      "n": 187
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 208
+      "n": 186
     },
     {
       "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 208
+      "n": 186
     },
     {
       "theme": "WB_939_NEGOTIATION",
-      "n": 208
+      "n": 186
     },
     {
       "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 208
+      "n": 186
     },
     {
       "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 208
+      "n": 186
     },
     {
       "theme": "WB_843_DISPUTE_RESOLUTION",
-      "n": 208
+      "n": 186
     },
     {
       "theme": "WB_2471_PEACEKEEPING",
-      "n": 208
+      "n": 186
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 207
+      "n": 177
+    },
+    {
+      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
+      "n": 130
     },
     {
       "theme": "LEADER",
-      "n": 169
+      "n": 130
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 163
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 158
+      "n": 121
     }
   ]
 }
