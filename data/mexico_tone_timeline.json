@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-22T22:59:31.307602+00:00",
-  "rows_total_scanned_last_run": 2002,
-  "rows_mexico_last_run": 26,
-  "overall_avg_tone_4h": -0.396,
+  "generated_at": "2026-08-22T23:23:01.414366+00:00",
+  "rows_total_scanned_last_run": 1893,
+  "rows_mexico_last_run": 19,
+  "overall_avg_tone_4h": -0.276,
   "timeline": [
-    {
-      "time": "2026-08-19T23:00",
-      "avg_tone": -3.425,
-      "n_articles": 23
-    },
-    {
-      "time": "2026-08-19T23:15",
-      "avg_tone": -2.966,
-      "n_articles": 25
-    },
     {
       "time": "2026-08-19T23:30",
       "avg_tone": -1.607,
@@ -1403,18 +1393,58 @@
       "time": "2026-08-22T23:00",
       "avg_tone": 0.53,
       "n_articles": 3
+    },
+    {
+      "time": "2026-08-22T23:15",
+      "avg_tone": 1.141,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-08-22T23:30",
+      "avg_tone": -1.699,
+      "n_articles": 2
     }
   ],
   "top_sources": [
     {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -1.003
+      "source": "taylorvilledailynews.com",
+      "n": 1,
+      "avg_tone": -5.263
     },
     {
-      "source": "english.news.cn",
-      "n": 2,
-      "avg_tone": 2.368
+      "source": "balticbusinessnews.com",
+      "n": 1,
+      "avg_tone": 1.865
+    },
+    {
+      "source": "motorsport.com",
+      "n": 1,
+      "avg_tone": -3.004
+    },
+    {
+      "source": "thepeterboroughexaminer.com",
+      "n": 1,
+      "avg_tone": -0.64
+    },
+    {
+      "source": "gostanford.com",
+      "n": 1,
+      "avg_tone": 2.759
+    },
+    {
+      "source": "abc7ny.com",
+      "n": 1,
+      "avg_tone": -1.695
+    },
+    {
+      "source": "wahpetondailynews.com",
+      "n": 1,
+      "avg_tone": 6.438
+    },
+    {
+      "source": "aol.com",
+      "n": 1,
+      "avg_tone": 2.99
     },
     {
       "source": "themarketsdaily.com",
@@ -1450,98 +1480,68 @@
       "source": "thegazette.com",
       "n": 1,
       "avg_tone": -6.0
-    },
-    {
-      "source": "georgetownvoice.com",
-      "n": 1,
-      "avg_tone": 5.293
-    },
-    {
-      "source": "argentinastar.com",
-      "n": 1,
-      "avg_tone": 3.256
-    },
-    {
-      "source": "caribbeanherald.com",
-      "n": 1,
-      "avg_tone": 3.256
-    },
-    {
-      "source": "parisguardian.com",
-      "n": 1,
-      "avg_tone": 3.256
-    },
-    {
-      "source": "abqjournal.com",
-      "n": 1,
-      "avg_tone": -2.227
-    },
-    {
-      "source": "nypost.com",
-      "n": 1,
-      "avg_tone": -1.144
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 64
-    },
-    {
-      "theme": "TAX_WORLDMAMMALS_BEAR",
-      "n": 41
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 38
+      "n": 19
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 30
+      "n": 16
     },
     {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 28
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 27
-    },
-    {
-      "theme": "LEADER",
-      "n": 22
-    },
-    {
-      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
-      "n": 21
-    },
-    {
-      "theme": "WB_3007_NATIONAL_PARKS",
-      "n": 21
-    },
-    {
-      "theme": "WB_1833_PROTECTED_AREAS_SYSTEMS",
-      "n": 21
-    },
-    {
-      "theme": "WB_1829_ECOSYSTEM_MANAGEMENT",
-      "n": 21
-    },
-    {
-      "theme": "TAX_WORLDBIRDS_BALD_EAGLES",
-      "n": 21
+      "theme": "TAX_FNCACT_DEVELOPER",
+      "n": 15
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 20
+      "n": 11
     },
     {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 20
+      "theme": "AGRICULTURE",
+      "n": 10
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 20
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 10
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 10
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_EGGS",
+      "n": 10
+    },
+    {
+      "theme": "NEGOTIATIONS",
+      "n": 9
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 9
+    },
+    {
+      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
+      "n": 9
+    },
+    {
+      "theme": "WB_939_NEGOTIATION",
+      "n": 9
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 9
+    },
+    {
+      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
+      "n": 9
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 9
     }
   ]
 }
