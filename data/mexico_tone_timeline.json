@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-22T14:44:47.693477+00:00",
-  "rows_total_scanned_last_run": 2944,
-  "rows_mexico_last_run": 82,
-  "overall_avg_tone_4h": -1.264,
+  "generated_at": "2026-08-22T14:59:04.836607+00:00",
+  "rows_total_scanned_last_run": 2845,
+  "rows_mexico_last_run": 81,
+  "overall_avg_tone_4h": -1.186,
   "timeline": [
-    {
-      "time": "2026-08-19T14:45",
-      "avg_tone": 0.222,
-      "n_articles": 30
-    },
     {
       "time": "2026-08-19T15:00",
       "avg_tone": 0.579,
@@ -1403,18 +1398,28 @@
       "time": "2026-08-22T14:45",
       "avg_tone": -0.837,
       "n_articles": 29
+    },
+    {
+      "time": "2026-08-22T15:00",
+      "avg_tone": -0.13,
+      "n_articles": 12
     }
   ],
   "top_sources": [
     {
       "source": "yahoo.com",
-      "n": 3,
-      "avg_tone": -0.955
+      "n": 4,
+      "avg_tone": -0.654
     },
     {
       "source": "thepeterboroughexaminer.com",
       "n": 3,
       "avg_tone": -0.201
+    },
+    {
+      "source": "stcatharinesstandard.ca",
+      "n": 2,
+      "avg_tone": -1.477
     },
     {
       "source": "aa.com.tr",
@@ -1437,111 +1442,106 @@
       "avg_tone": -0.267
     },
     {
-      "source": "toronto.citynews.ca",
-      "n": 2,
-      "avg_tone": -1.351
-    },
-    {
-      "source": "hayspost.com",
+      "source": "delcotimes.com",
       "n": 1,
-      "avg_tone": -2.252
+      "avg_tone": 1.294
     },
     {
-      "source": "westword.com",
+      "source": "themorningsun.com",
       "n": 1,
-      "avg_tone": 0.456
+      "avg_tone": 1.294
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "wdio.com",
       "n": 1,
-      "avg_tone": 1.93
+      "avg_tone": -2.251
     },
     {
-      "source": "middleeaststar.com",
+      "source": "insideottawavalley.com",
+      "n": 1,
+      "avg_tone": 0.295
+    },
+    {
+      "source": "hometownregister.com",
+      "n": 1,
+      "avg_tone": 1.253
+    },
+    {
+      "source": "4029tv.com",
+      "n": 1,
+      "avg_tone": -1.097
+    },
+    {
+      "source": "morningstar.com",
+      "n": 1,
+      "avg_tone": 1.184
+    },
+    {
+      "source": "russiaherald.com",
       "n": 1,
       "avg_tone": -2.079
-    },
-    {
-      "source": "elliotlakestandard.ca",
-      "n": 1,
-      "avg_tone": 0.647
-    },
-    {
-      "source": "yalibnan.com",
-      "n": 1,
-      "avg_tone": -0.564
-    },
-    {
-      "source": "ktbs.com",
-      "n": 1,
-      "avg_tone": -2.288
-    },
-    {
-      "source": "wbez.org",
-      "n": 1,
-      "avg_tone": -1.327
     }
   ],
   "top_themes": [
     {
       "theme": "LEADER",
-      "n": 397
+      "n": 652
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 394
+      "n": 648
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 392
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 283
+      "n": 647
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 278
+      "n": 316
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 118
-    },
-    {
-      "theme": "NEGOTIATIONS",
-      "n": 116
+      "theme": "WB_698_TRADE",
+      "n": 307
     },
     {
       "theme": "TAX_FNCACT_MINISTER",
-      "n": 111
+      "n": 125
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 110
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 124
+    },
+    {
+      "theme": "NEGOTIATIONS",
+      "n": 122
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 109
+      "n": 116
     },
     {
-      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
-      "n": 106
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 116
     },
     {
       "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 106
+      "n": 113
     },
     {
       "theme": "WB_939_NEGOTIATION",
-      "n": 106
+      "n": 113
     },
     {
       "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 106
+      "n": 113
     },
     {
       "theme": "WB_843_DISPUTE_RESOLUTION",
-      "n": 106
+      "n": 113
+    },
+    {
+      "theme": "WB_2471_PEACEKEEPING",
+      "n": 113
     }
   ]
 }
