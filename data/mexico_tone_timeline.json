@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-22T12:23:19.966781+00:00",
-  "rows_total_scanned_last_run": 2628,
-  "rows_mexico_last_run": 48,
-  "overall_avg_tone_4h": -1.355,
+  "generated_at": "2026-08-22T13:07:14.662508+00:00",
+  "rows_total_scanned_last_run": 2642,
+  "rows_mexico_last_run": 61,
+  "overall_avg_tone_4h": -1.368,
   "timeline": [
-    {
-      "time": "2026-08-19T12:30",
-      "avg_tone": -0.824,
-      "n_articles": 22
-    },
-    {
-      "time": "2026-08-19T12:45",
-      "avg_tone": -1.109,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-08-19T13:00",
-      "avg_tone": -0.431,
-      "n_articles": 13
-    },
     {
       "time": "2026-08-19T13:15",
       "avg_tone": -1.35,
@@ -1403,33 +1388,53 @@
       "time": "2026-08-22T12:30",
       "avg_tone": -1.84,
       "n_articles": 15
+    },
+    {
+      "time": "2026-08-22T12:45",
+      "avg_tone": -1.631,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-22T13:00",
+      "avg_tone": -0.668,
+      "n_articles": 22
+    },
+    {
+      "time": "2026-08-22T13:15",
+      "avg_tone": -0.573,
+      "n_articles": 15
     }
   ],
   "top_sources": [
     {
-      "source": "turlockjournal.com",
+      "source": "cnn.com",
       "n": 3,
-      "avg_tone": -1.437
+      "avg_tone": -2.822
     },
     {
-      "source": "niagarafallsreview.ca",
-      "n": 3,
-      "avg_tone": -1.206
+      "source": "saultstar.com",
+      "n": 2,
+      "avg_tone": 0.647
     },
     {
-      "source": "stcatharinesstandard.ca",
-      "n": 3,
-      "avg_tone": -1.849
+      "source": "kenyastar.com",
+      "n": 2,
+      "avg_tone": -3.355
+    },
+    {
+      "source": "thegazette.com",
+      "n": 2,
+      "avg_tone": -3.108
+    },
+    {
+      "source": "tickerreport.com",
+      "n": 2,
+      "avg_tone": 3.55
     },
     {
       "source": "nwaonline.com",
       "n": 2,
       "avg_tone": -2.841
-    },
-    {
-      "source": "cnn.com",
-      "n": 2,
-      "avg_tone": -2.822
     },
     {
       "source": "brandonsun.com",
@@ -1447,101 +1452,96 @@
       "avg_tone": -1.306
     },
     {
-      "source": "panow.com",
-      "n": 2,
-      "avg_tone": -1.269
-    },
-    {
-      "source": "medicinehatnews.com",
-      "n": 2,
-      "avg_tone": -1.342
-    },
-    {
-      "source": "nbcmiami.com",
+      "source": "parrysound.com",
       "n": 1,
-      "avg_tone": -2.196
+      "avg_tone": 0.295
     },
     {
-      "source": "dailyadvance.com",
+      "source": "durangoherald.com",
       "n": 1,
-      "avg_tone": -2.346
+      "avg_tone": -5.112
     },
     {
-      "source": "jcpost.com",
+      "source": "themarketsdaily.com",
       "n": 1,
-      "avg_tone": -2.252
+      "avg_tone": 2.83
     },
     {
-      "source": "en.apa.az",
+      "source": "dhakacourier.com.bd",
       "n": 1,
-      "avg_tone": -0.243
+      "avg_tone": -1.322
     },
     {
-      "source": "independent.co.uk",
+      "source": "austinglobe.com",
       "n": 1,
-      "avg_tone": -1.386
+      "avg_tone": -2.079
+    },
+    {
+      "source": "tonyskansascity.com",
+      "n": 1,
+      "avg_tone": 1.053
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 262
-    },
-    {
       "theme": "WB_698_TRADE",
-      "n": 242
+      "n": 218
     },
     {
       "theme": "AGRICULTURE",
-      "n": 158
+      "n": 210
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 103
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 99
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 92
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 187
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 87
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 85
-    },
-    {
-      "theme": "LEADER",
-      "n": 84
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 84
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 84
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 84
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 84
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 84
+      "n": 111
     },
     {
       "theme": "BORDER",
+      "n": 107
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 107
+    },
+    {
+      "theme": "LEADER",
+      "n": 106
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 102
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 96
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 89
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 87
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
       "n": 83
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 77
+    },
+    {
+      "theme": "NEGOTIATIONS",
+      "n": 76
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 75
     }
   ]
 }
