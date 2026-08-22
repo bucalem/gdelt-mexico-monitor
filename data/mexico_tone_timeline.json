@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-22T04:56:48.742894+00:00",
-  "rows_total_scanned_last_run": 2301,
-  "rows_mexico_last_run": 61,
-  "overall_avg_tone_4h": -0.74,
+  "generated_at": "2026-08-22T05:22:27.027115+00:00",
+  "rows_total_scanned_last_run": 2305,
+  "rows_mexico_last_run": 70,
+  "overall_avg_tone_4h": -0.924,
   "timeline": [
-    {
-      "time": "2026-08-19T05:00",
-      "avg_tone": -0.839,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-08-19T05:15",
-      "avg_tone": -0.538,
-      "n_articles": 7
-    },
     {
       "time": "2026-08-19T05:30",
       "avg_tone": -0.546,
@@ -1403,13 +1393,23 @@
       "time": "2026-08-22T05:00",
       "avg_tone": -1.189,
       "n_articles": 19
+    },
+    {
+      "time": "2026-08-22T05:15",
+      "avg_tone": -1.81,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-08-22T05:30",
+      "avg_tone": -2.664,
+      "n_articles": 15
     }
   ],
   "top_sources": [
     {
-      "source": "cbsnews.com",
-      "n": 3,
-      "avg_tone": -3.224
+      "source": "nwaonline.com",
+      "n": 2,
+      "avg_tone": -4.899
     },
     {
       "source": "dallassun.com",
@@ -1432,116 +1432,116 @@
       "avg_tone": -4.899
     },
     {
-      "source": "krgv.com",
-      "n": 2,
-      "avg_tone": -2.306
-    },
-    {
-      "source": "wxxinews.org",
+      "source": "kunr.org",
       "n": 1,
       "avg_tone": -1.484
     },
     {
-      "source": "russiaherald.com",
-      "n": 1,
-      "avg_tone": 1.974
-    },
-    {
-      "source": "wsiu.org",
+      "source": "kclu.org",
       "n": 1,
       "avg_tone": -1.484
     },
     {
-      "source": "kfoxtv.com",
+      "source": "malawi24.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -5.921
     },
     {
-      "source": "lewistownsentinel.com",
-      "n": 1,
-      "avg_tone": 1.779
-    },
-    {
-      "source": "yourdemocracy.net",
-      "n": 1,
-      "avg_tone": 2.579
-    },
-    {
-      "source": "kenw.org",
+      "source": "kpbs.org",
       "n": 1,
       "avg_tone": -1.484
     },
     {
-      "source": "whro.org",
+      "source": "cbc.ca",
       "n": 1,
-      "avg_tone": -1.484
+      "avg_tone": -1.648
     },
     {
-      "source": "breitbart.com",
+      "source": "wisn.com",
       "n": 1,
-      "avg_tone": -13.223
+      "avg_tone": -1.49
+    },
+    {
+      "source": "winknews.com",
+      "n": 1,
+      "avg_tone": -4.042
+    },
+    {
+      "source": "nbcdfw.com",
+      "n": 1,
+      "avg_tone": -1.904
+    },
+    {
+      "source": "wnyc.org",
+      "n": 1,
+      "avg_tone": -1.489
+    },
+    {
+      "source": "wncw.org",
+      "n": 1,
+      "avg_tone": -1.484
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 164
+      "n": 328
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 150
+      "n": 323
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 88
-    },
-    {
-      "theme": "LEADER",
-      "n": 80
+      "n": 163
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 79
+      "n": 129
+    },
+    {
+      "theme": "LEADER",
+      "n": 127
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 72
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 63
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 54
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 50
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 48
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 47
+      "n": 121
     },
     {
       "theme": "TAX_ETHNICITY_AMERICANS",
-      "n": 43
+      "n": 117
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 42
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 98
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 38
+      "theme": "WB_840_JUSTICE",
+      "n": 93
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 37
+      "n": 87
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 83
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 76
+    },
+    {
+      "theme": "NEGOTIATIONS",
+      "n": 74
+    },
+    {
+      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
+      "n": 74
+    },
+    {
+      "theme": "WB_939_NEGOTIATION",
+      "n": 74
     }
   ]
 }
