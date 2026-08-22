@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-22T23:23:01.414366+00:00",
-  "rows_total_scanned_last_run": 1893,
-  "rows_mexico_last_run": 19,
-  "overall_avg_tone_4h": -0.276,
+  "generated_at": "2026-08-22T23:42:02.380422+00:00",
+  "rows_total_scanned_last_run": 1789,
+  "rows_mexico_last_run": 18,
+  "overall_avg_tone_4h": -0.386,
   "timeline": [
-    {
-      "time": "2026-08-19T23:30",
-      "avg_tone": -1.607,
-      "n_articles": 22
-    },
     {
       "time": "2026-08-19T23:45",
       "avg_tone": -2.919,
@@ -1403,9 +1398,49 @@
       "time": "2026-08-22T23:30",
       "avg_tone": -1.699,
       "n_articles": 2
+    },
+    {
+      "time": "2026-08-22T23:45",
+      "avg_tone": -2.2,
+      "n_articles": 7
     }
   ],
   "top_sources": [
+    {
+      "source": "swiftcurrentonline.com",
+      "n": 1,
+      "avg_tone": 1.212
+    },
+    {
+      "source": "morningstar.com",
+      "n": 1,
+      "avg_tone": -1.585
+    },
+    {
+      "source": "independent.co.uk",
+      "n": 1,
+      "avg_tone": -2.718
+    },
+    {
+      "source": "theglobeandmail.com",
+      "n": 1,
+      "avg_tone": -2.396
+    },
+    {
+      "source": "nbcpalmsprings.com",
+      "n": 1,
+      "avg_tone": -1.201
+    },
+    {
+      "source": "cecildaily.com",
+      "n": 1,
+      "avg_tone": -6.0
+    },
+    {
+      "source": "journalgazette.net",
+      "n": 1,
+      "avg_tone": -2.713
+    },
     {
       "source": "taylorvilledailynews.com",
       "n": 1,
@@ -1445,70 +1480,55 @@
       "source": "aol.com",
       "n": 1,
       "avg_tone": 2.99
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 4.336
-    },
-    {
-      "source": "japanherald.com",
-      "n": 1,
-      "avg_tone": 3.256
-    },
-    {
-      "source": "leadertelegram.com",
-      "n": 1,
-      "avg_tone": -6.0
-    },
-    {
-      "source": "scvnews.com",
-      "n": 1,
-      "avg_tone": 1.591
-    },
-    {
-      "source": "el-balad.com",
-      "n": 1,
-      "avg_tone": 1.21
-    },
-    {
-      "source": "fortune.com",
-      "n": 1,
-      "avg_tone": -2.224
-    },
-    {
-      "source": "thegazette.com",
-      "n": 1,
-      "avg_tone": -6.0
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 19
+      "n": 33
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 25
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
       "n": 16
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 15
     },
     {
       "theme": "TAX_FNCACT_DEVELOPER",
       "n": 15
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 11
+      "theme": "WB_137_WATER",
+      "n": 14
     },
     {
       "theme": "AGRICULTURE",
-      "n": 10
+      "n": 11
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 11
+    },
+    {
+      "theme": "EPU_ECONOMY",
       "n": 10
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 10
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 10
+    },
+    {
+      "theme": "EPU_POLICY_POLITICAL",
       "n": 10
     },
     {
@@ -1516,31 +1536,11 @@
       "n": 10
     },
     {
-      "theme": "NEGOTIATIONS",
+      "theme": "USPEC_POLICY1",
       "n": 9
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 9
-    },
-    {
-      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 9
-    },
-    {
-      "theme": "WB_939_NEGOTIATION",
-      "n": 9
-    },
-    {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 9
-    },
-    {
-      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 9
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "theme": "TAX_FNCACT_MINISTER",
       "n": 9
     }
   ]
