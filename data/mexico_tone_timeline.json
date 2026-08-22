@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-22T09:04:07.271891+00:00",
-  "rows_total_scanned_last_run": 1775,
-  "rows_mexico_last_run": 66,
-  "overall_avg_tone_4h": -1.391,
+  "generated_at": "2026-08-22T09:39:18.710539+00:00",
+  "rows_total_scanned_last_run": 2622,
+  "rows_mexico_last_run": 57,
+  "overall_avg_tone_4h": -1.2,
   "timeline": [
-    {
-      "time": "2026-08-19T09:15",
-      "avg_tone": -0.044,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-19T09:30",
-      "avg_tone": 0.675,
-      "n_articles": 10
-    },
     {
       "time": "2026-08-19T09:45",
       "avg_tone": -1.242,
@@ -1393,81 +1383,101 @@
       "time": "2026-08-22T08:45",
       "avg_tone": -0.877,
       "n_articles": 23
+    },
+    {
+      "time": "2026-08-22T09:00",
+      "avg_tone": -0.443,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-08-22T09:15",
+      "avg_tone": -1.261,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-08-22T09:30",
+      "avg_tone": -1.303,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-08-22T09:45",
+      "avg_tone": -0.94,
+      "n_articles": 21
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 10,
-      "avg_tone": -0.448
+      "source": "arkansasonline.com",
+      "n": 4,
+      "avg_tone": -2.144
+    },
+    {
+      "source": "csmonitor.com",
+      "n": 3,
+      "avg_tone": -2.199
     },
     {
       "source": "themarketsdaily.com",
-      "n": 4,
-      "avg_tone": 1.447
+      "n": 3,
+      "avg_tone": 3.135
     },
     {
-      "source": "santafenewmexican.com",
-      "n": 4,
-      "avg_tone": -1.179
-    },
-    {
-      "source": "theconservativetreehouse.com",
+      "source": "edp24.co.uk",
       "n": 2,
-      "avg_tone": 0.0
+      "avg_tone": 0.579
     },
     {
-      "source": "tickerreport.com",
+      "source": "businesstoday.in",
       "n": 2,
-      "avg_tone": 2.33
+      "avg_tone": 0.35
     },
     {
-      "source": "dailyecho.co.uk",
+      "source": "readingchronicle.co.uk",
       "n": 1,
       "avg_tone": -1.846
     },
     {
-      "source": "bignewsnetwork.com",
+      "source": "scroll.in",
       "n": 1,
-      "avg_tone": -4.62
+      "avg_tone": 1.368
     },
     {
-      "source": "dorsetecho.co.uk",
+      "source": "euronews.com",
       "n": 1,
-      "avg_tone": -1.846
+      "avg_tone": 5.96
     },
     {
-      "source": "ledburyreporter.co.uk",
-      "n": 1,
-      "avg_tone": -1.846
-    },
-    {
-      "source": "wgal.com",
-      "n": 1,
-      "avg_tone": -1.49
-    },
-    {
-      "source": "basingstokegazette.co.uk",
+      "source": "denbighshirefreepress.co.uk",
       "n": 1,
       "avg_tone": -1.846
     },
     {
-      "source": "wtop.com",
+      "source": "lasvegassun.com",
       "n": 1,
-      "avg_tone": -1.399
+      "avg_tone": -1.339
     },
     {
-      "source": "gazetteherald.co.uk",
+      "source": "london-now.co.uk",
       "n": 1,
       "avg_tone": -1.846
     },
     {
-      "source": "cp24.com",
+      "source": "burnhamandhighbridgeweeklynews.co.uk",
       "n": 1,
-      "avg_tone": -1.55
+      "avg_tone": -1.846
     },
     {
-      "source": "warringtonguardian.co.uk",
+      "source": "mercopress.com",
+      "n": 1,
+      "avg_tone": -3.945
+    },
+    {
+      "source": "hampshirechronicle.co.uk",
+      "n": 1,
+      "avg_tone": -1.846
+    },
+    {
+      "source": "wisbechstandard.co.uk",
       "n": 1,
       "avg_tone": -1.846
     }
@@ -1475,63 +1485,63 @@
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 263
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 164
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 140
-    },
-    {
-      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
-      "n": 138
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 138
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 138
+      "n": 159
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 125
+      "n": 115
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 114
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 121
-    },
-    {
-      "theme": "NEGOTIATIONS",
-      "n": 108
-    },
-    {
-      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 108
-    },
-    {
-      "theme": "WB_939_NEGOTIATION",
-      "n": 108
-    },
-    {
-      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 108
-    },
-    {
-      "theme": "WB_843_DISPUTE_RESOLUTION",
-      "n": 108
-    },
-    {
-      "theme": "WB_2471_PEACEKEEPING",
-      "n": 108
+      "n": 110
     },
     {
       "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
       "n": 108
+    },
+    {
+      "theme": "NEGOTIATIONS",
+      "n": 106
+    },
+    {
+      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
+      "n": 106
+    },
+    {
+      "theme": "WB_2471_PEACEKEEPING",
+      "n": 106
+    },
+    {
+      "theme": "WB_939_NEGOTIATION",
+      "n": 105
+    },
+    {
+      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
+      "n": 105
+    },
+    {
+      "theme": "WB_843_DISPUTE_RESOLUTION",
+      "n": 105
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 72
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 66
+    },
+    {
+      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
+      "n": 64
+    },
+    {
+      "theme": "LEADER",
+      "n": 62
     }
   ]
 }
