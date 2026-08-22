@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-22T19:16:23.752854+00:00",
-  "rows_total_scanned_last_run": 2301,
-  "rows_mexico_last_run": 83,
-  "overall_avg_tone_4h": -0.47,
+  "generated_at": "2026-08-22T19:43:06.671838+00:00",
+  "rows_total_scanned_last_run": 2283,
+  "rows_mexico_last_run": 69,
+  "overall_avg_tone_4h": -0.462,
   "timeline": [
-    {
-      "time": "2026-08-19T19:30",
-      "avg_tone": 0.269,
-      "n_articles": 18
-    },
     {
       "time": "2026-08-19T19:45",
       "avg_tone": -0.255,
@@ -1398,13 +1393,33 @@
       "time": "2026-08-22T19:15",
       "avg_tone": -1.15,
       "n_articles": 20
+    },
+    {
+      "time": "2026-08-22T19:30",
+      "avg_tone": 0.263,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-22T19:45",
+      "avg_tone": -0.31,
+      "n_articles": 15
     }
   ],
   "top_sources": [
     {
       "source": "themarketsdaily.com",
-      "n": 3,
-      "avg_tone": 2.198
+      "n": 4,
+      "avg_tone": 1.899
+    },
+    {
+      "source": "glidemagazine.com",
+      "n": 2,
+      "avg_tone": 3.272
+    },
+    {
+      "source": "trinidadtimes.com",
+      "n": 2,
+      "avg_tone": 3.174
     },
     {
       "source": "cjme.com",
@@ -1422,121 +1437,111 @@
       "avg_tone": -2.47
     },
     {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": 0.601
-    },
-    {
       "source": "express.co.uk",
       "n": 2,
       "avg_tone": 1.031
     },
     {
-      "source": "eastbaytimes.com",
+      "source": "tucson.com",
       "n": 1,
-      "avg_tone": -2.424
+      "avg_tone": -0.963
     },
     {
-      "source": "winnipegfreepress.com",
+      "source": "reflector.com",
       "n": 1,
-      "avg_tone": -0.784
+      "avg_tone": -6.0
     },
     {
-      "source": "readingchronicle.co.uk",
+      "source": "torontotelegraph.com",
       "n": 1,
-      "avg_tone": -1.514
+      "avg_tone": 3.093
     },
     {
-      "source": "rhyljournal.co.uk",
+      "source": "pentictonherald.ca",
       "n": 1,
-      "avg_tone": -1.514
+      "avg_tone": -0.829
     },
     {
-      "source": "wharfedaleobserver.co.uk",
+      "source": "laosnews.net",
       "n": 1,
-      "avg_tone": -1.514
+      "avg_tone": 3.093
     },
     {
-      "source": "theprowersjournal.com",
+      "source": "techtimes.com",
       "n": 1,
-      "avg_tone": 2.762
+      "avg_tone": 1.435
     },
     {
-      "source": "wsvn.com",
+      "source": "independent.co.uk",
       "n": 1,
-      "avg_tone": -2.417
+      "avg_tone": -2.038
     },
     {
-      "source": "cravenherald.co.uk",
+      "source": "mykxlg.com",
       "n": 1,
-      "avg_tone": -1.514
-    },
-    {
-      "source": "guardian-series.co.uk",
-      "n": 1,
-      "avg_tone": -1.514
+      "avg_tone": -6.0
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 582
+      "n": 396
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 511
+      "n": 348
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 272
+      "n": 178
     },
     {
       "theme": "LEADER",
-      "n": 213
+      "n": 125
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 197
+      "n": 125
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 195
+      "n": 120
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 183
-    },
-    {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 159
-    },
-    {
-      "theme": "EPU_CATS_TAXES",
-      "n": 157
+      "n": 118
     },
     {
       "theme": "EPU_ECONOMY",
-      "n": 143
+      "n": 104
+    },
+    {
+      "theme": "EPU_CATS_TAXES",
+      "n": 99
     },
     {
       "theme": "TAX_ETHNICITY_AMERICANS",
-      "n": 130
+      "n": 89
     },
     {
-      "theme": "TAX_FNCACT_PRIME_MINISTER",
-      "n": 123
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 87
     },
     {
-      "theme": "LEGISLATION",
-      "n": 115
+      "theme": "BORDER",
+      "n": 86
     },
     {
-      "theme": "EPU_POLICY_LAW",
-      "n": 115
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 80
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 99
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 77
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 77
     }
   ]
 }
