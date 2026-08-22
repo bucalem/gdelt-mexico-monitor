@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-22T18:55:10.829673+00:00",
-  "rows_total_scanned_last_run": 2459,
-  "rows_mexico_last_run": 82,
-  "overall_avg_tone_4h": -0.456,
+  "generated_at": "2026-08-22T19:16:23.752854+00:00",
+  "rows_total_scanned_last_run": 2301,
+  "rows_mexico_last_run": 83,
+  "overall_avg_tone_4h": -0.47,
   "timeline": [
-    {
-      "time": "2026-08-19T19:00",
-      "avg_tone": -0.47,
-      "n_articles": 19
-    },
-    {
-      "time": "2026-08-19T19:15",
-      "avg_tone": -0.367,
-      "n_articles": 9
-    },
     {
       "time": "2026-08-19T19:30",
       "avg_tone": 0.269,
@@ -1403,6 +1393,11 @@
       "time": "2026-08-22T19:00",
       "avg_tone": -0.057,
       "n_articles": 24
+    },
+    {
+      "time": "2026-08-22T19:15",
+      "avg_tone": -1.15,
+      "n_articles": 20
     }
   ],
   "top_sources": [
@@ -1410,6 +1405,21 @@
       "source": "themarketsdaily.com",
       "n": 3,
       "avg_tone": 2.198
+    },
+    {
+      "source": "cjme.com",
+      "n": 2,
+      "avg_tone": -0.132
+    },
+    {
+      "source": "culturemap.com",
+      "n": 2,
+      "avg_tone": 0.772
+    },
+    {
+      "source": "kait8.com",
+      "n": 2,
+      "avg_tone": -2.47
     },
     {
       "source": "yahoo.com",
@@ -1422,126 +1432,111 @@
       "avg_tone": 1.031
     },
     {
-      "source": "arynews.tv",
+      "source": "eastbaytimes.com",
       "n": 1,
-      "avg_tone": 1.635
+      "avg_tone": -2.424
     },
     {
-      "source": "wrestlezone.com",
+      "source": "winnipegfreepress.com",
       "n": 1,
-      "avg_tone": -1.882
+      "avg_tone": -0.784
     },
     {
-      "source": "macombdaily.com",
-      "n": 1,
-      "avg_tone": 1.294
-    },
-    {
-      "source": "europesun.com",
-      "n": 1,
-      "avg_tone": 3.093
-    },
-    {
-      "source": "dfwatch.net",
-      "n": 1,
-      "avg_tone": -0.647
-    },
-    {
-      "source": "thenorthernecho.co.uk",
+      "source": "readingchronicle.co.uk",
       "n": 1,
       "avg_tone": -1.514
     },
     {
-      "source": "wdbj7.com",
-      "n": 1,
-      "avg_tone": -2.016
-    },
-    {
-      "source": "chelmsfordcitynews.co.uk",
+      "source": "rhyljournal.co.uk",
       "n": 1,
       "avg_tone": -1.514
     },
     {
-      "source": "eastlothiancourier.com",
+      "source": "wharfedaleobserver.co.uk",
       "n": 1,
       "avg_tone": -1.514
     },
     {
-      "source": "wbtv.com",
+      "source": "theprowersjournal.com",
       "n": 1,
-      "avg_tone": -2.016
+      "avg_tone": 2.762
     },
     {
-      "source": "tireball.com",
+      "source": "wsvn.com",
       "n": 1,
-      "avg_tone": 0.229
+      "avg_tone": -2.417
     },
     {
-      "source": "culturemap.com",
+      "source": "cravenherald.co.uk",
       "n": 1,
-      "avg_tone": 3.358
+      "avg_tone": -1.514
+    },
+    {
+      "source": "guardian-series.co.uk",
+      "n": 1,
+      "avg_tone": -1.514
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 524
+      "n": 582
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 472
+      "n": 511
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 255
+      "n": 272
     },
     {
       "theme": "LEADER",
+      "n": 213
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
       "n": 197
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 184
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 182
+      "n": 195
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 169
+      "n": 183
     },
     {
       "theme": "TAX_FNCACT_MINISTER",
-      "n": 147
+      "n": 159
     },
     {
       "theme": "EPU_CATS_TAXES",
-      "n": 141
+      "n": 157
     },
     {
       "theme": "EPU_ECONOMY",
-      "n": 128
+      "n": 143
     },
     {
       "theme": "TAX_ETHNICITY_AMERICANS",
-      "n": 117
+      "n": 130
     },
     {
       "theme": "TAX_FNCACT_PRIME_MINISTER",
-      "n": 117
+      "n": 123
     },
     {
       "theme": "LEGISLATION",
-      "n": 108
+      "n": 115
     },
     {
       "theme": "EPU_POLICY_LAW",
-      "n": 107
+      "n": 115
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 94
+      "n": 99
     }
   ]
 }
