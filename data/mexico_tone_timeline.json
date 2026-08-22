@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-22T17:35:02.630014+00:00",
-  "rows_total_scanned_last_run": 2949,
-  "rows_mexico_last_run": 90,
-  "overall_avg_tone_4h": -0.58,
+  "generated_at": "2026-08-22T17:55:46.938648+00:00",
+  "rows_total_scanned_last_run": 2863,
+  "rows_mexico_last_run": 94,
+  "overall_avg_tone_4h": -0.575,
   "timeline": [
-    {
-      "time": "2026-08-19T17:45",
-      "avg_tone": 0.033,
-      "n_articles": 24
-    },
     {
       "time": "2026-08-19T18:00",
       "avg_tone": -0.6,
@@ -1403,9 +1398,19 @@
       "time": "2026-08-22T17:45",
       "avg_tone": -0.107,
       "n_articles": 33
+    },
+    {
+      "time": "2026-08-22T18:00",
+      "avg_tone": -0.926,
+      "n_articles": 17
     }
   ],
   "top_sources": [
+    {
+      "source": "outsidethebeltway.com",
+      "n": 2,
+      "avg_tone": -1.51
+    },
     {
       "source": "themarketsdaily.com",
       "n": 2,
@@ -1427,121 +1432,116 @@
       "avg_tone": -0.132
     },
     {
-      "source": "iheart.com",
-      "n": 2,
-      "avg_tone": -4.206
-    },
-    {
-      "source": "chinanationalnews.com",
-      "n": 1,
-      "avg_tone": 3.093
-    },
-    {
-      "source": "kcbd.com",
-      "n": 1,
-      "avg_tone": -2.016
-    },
-    {
-      "source": "whec.com",
-      "n": 1,
-      "avg_tone": -2.45
-    },
-    {
-      "source": "caribbeanherald.com",
-      "n": 1,
-      "avg_tone": 3.093
-    },
-    {
-      "source": "targetednews.com",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "worcesternews.co.uk",
+      "source": "basingstokegazette.co.uk",
       "n": 1,
       "avg_tone": -1.514
     },
     {
-      "source": "cambodiantimes.com",
+      "source": "lethbridgeherald.com",
       "n": 1,
-      "avg_tone": 3.093
+      "avg_tone": 0.139
     },
     {
-      "source": "midweekherald.co.uk",
+      "source": "samaa.tv",
+      "n": 1,
+      "avg_tone": 3.817
+    },
+    {
+      "source": "stourbridgenews.co.uk",
       "n": 1,
       "avg_tone": -1.514
     },
     {
-      "source": "livemint.com",
+      "source": "dailylocal.com",
       "n": 1,
-      "avg_tone": 0.094
+      "avg_tone": 1.294
     },
     {
-      "source": "eastlondonadvertiser.co.uk",
+      "source": "irishexaminer.com",
+      "n": 1,
+      "avg_tone": -1.515
+    },
+    {
+      "source": "mercurynews.com",
+      "n": 1,
+      "avg_tone": -2.424
+    },
+    {
+      "source": "hillingdontimes.co.uk",
       "n": 1,
       "avg_tone": -1.514
+    },
+    {
+      "source": "wfmz.com",
+      "n": 1,
+      "avg_tone": -2.492
+    },
+    {
+      "source": "wboc.com",
+      "n": 1,
+      "avg_tone": -3.373
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 632
+      "n": 685
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 555
+      "n": 613
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 269
+      "n": 308
     },
     {
       "theme": "LEADER",
-      "n": 233
+      "n": 259
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 222
+      "n": 244
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 216
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 165
+      "n": 239
     },
     {
       "theme": "TAX_FNCACT_MINISTER",
-      "n": 161
+      "n": 180
     },
     {
-      "theme": "EPU_ECONOMY",
-      "n": 156
+      "theme": "USPEC_POLICY1",
+      "n": 174
     },
     {
       "theme": "EPU_CATS_TAXES",
-      "n": 152
+      "n": 165
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICANS",
-      "n": 134
+      "theme": "EPU_ECONOMY",
+      "n": 164
     },
     {
       "theme": "TAX_FNCACT_PRIME_MINISTER",
-      "n": 133
+      "n": 147
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICANS",
+      "n": 145
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 125
+      "n": 124
+    },
+    {
+      "theme": "NEGOTIATIONS",
+      "n": 120
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 122
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 121
+      "n": 120
     }
   ]
 }
