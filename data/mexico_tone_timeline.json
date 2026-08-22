@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-22T19:43:06.671838+00:00",
-  "rows_total_scanned_last_run": 2283,
-  "rows_mexico_last_run": 69,
+  "generated_at": "2026-08-22T19:56:01.122756+00:00",
+  "rows_total_scanned_last_run": 2254,
+  "rows_mexico_last_run": 50,
   "overall_avg_tone_4h": -0.462,
   "timeline": [
-    {
-      "time": "2026-08-19T19:45",
-      "avg_tone": -0.255,
-      "n_articles": 17
-    },
     {
       "time": "2026-08-19T20:00",
       "avg_tone": 0.485,
@@ -1403,14 +1398,14 @@
       "time": "2026-08-22T19:45",
       "avg_tone": -0.31,
       "n_articles": 15
+    },
+    {
+      "time": "2026-08-22T20:00",
+      "avg_tone": -1.867,
+      "n_articles": 5
     }
   ],
   "top_sources": [
-    {
-      "source": "themarketsdaily.com",
-      "n": 4,
-      "avg_tone": 1.899
-    },
     {
       "source": "glidemagazine.com",
       "n": 2,
@@ -1427,19 +1422,34 @@
       "avg_tone": -0.132
     },
     {
-      "source": "culturemap.com",
-      "n": 2,
-      "avg_tone": 0.772
-    },
-    {
       "source": "kait8.com",
       "n": 2,
       "avg_tone": -2.47
     },
     {
-      "source": "express.co.uk",
-      "n": 2,
-      "avg_tone": 1.031
+      "source": "bignewsnetwork.com",
+      "n": 1,
+      "avg_tone": 3.248
+    },
+    {
+      "source": "wctv.tv",
+      "n": 1,
+      "avg_tone": -2.016
+    },
+    {
+      "source": "kltv.com",
+      "n": 1,
+      "avg_tone": -2.016
+    },
+    {
+      "source": "wdio.com",
+      "n": 1,
+      "avg_tone": -2.551
+    },
+    {
+      "source": "wdtimes.com",
+      "n": 1,
+      "avg_tone": -6.0
     },
     {
       "source": "tucson.com",
@@ -1450,6 +1460,11 @@
       "source": "reflector.com",
       "n": 1,
       "avg_tone": -6.0
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 1,
+      "avg_tone": 1.003
     },
     {
       "source": "torontotelegraph.com",
@@ -1465,83 +1480,68 @@
       "source": "laosnews.net",
       "n": 1,
       "avg_tone": 3.093
-    },
-    {
-      "source": "techtimes.com",
-      "n": 1,
-      "avg_tone": 1.435
-    },
-    {
-      "source": "independent.co.uk",
-      "n": 1,
-      "avg_tone": -2.038
-    },
-    {
-      "source": "mykxlg.com",
-      "n": 1,
-      "avg_tone": -6.0
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 396
+      "n": 322
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 348
+      "n": 272
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 178
+      "n": 141
     },
     {
       "theme": "LEADER",
-      "n": 125
+      "n": 100
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 125
+      "n": 100
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 120
+      "n": 95
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 118
-    },
-    {
-      "theme": "EPU_ECONOMY",
-      "n": 104
-    },
-    {
-      "theme": "EPU_CATS_TAXES",
-      "n": 99
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICANS",
       "n": 89
     },
     {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 87
+      "theme": "EPU_CATS_TAXES",
+      "n": 82
+    },
+    {
+      "theme": "EPU_ECONOMY",
+      "n": 79
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICANS",
+      "n": 77
     },
     {
       "theme": "BORDER",
-      "n": 86
+      "n": 72
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 80
+      "n": 71
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 67
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 77
+      "n": 67
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 77
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 67
     }
   ]
 }
