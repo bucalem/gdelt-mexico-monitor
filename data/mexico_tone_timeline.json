@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-22T16:17:23.337216+00:00",
-  "rows_total_scanned_last_run": 2809,
-  "rows_mexico_last_run": 51,
-  "overall_avg_tone_4h": -0.866,
+  "generated_at": "2026-08-22T16:46:42.829182+00:00",
+  "rows_total_scanned_last_run": 2955,
+  "rows_mexico_last_run": 66,
+  "overall_avg_tone_4h": -0.814,
   "timeline": [
-    {
-      "time": "2026-08-19T16:30",
-      "avg_tone": 0.194,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-08-19T16:45",
-      "avg_tone": 0.982,
-      "n_articles": 12
-    },
     {
       "time": "2026-08-19T17:00",
       "avg_tone": 0.711,
@@ -1398,9 +1388,59 @@
       "time": "2026-08-22T16:15",
       "avg_tone": 0.579,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-22T16:30",
+      "avg_tone": -1.263,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-08-22T16:45",
+      "avg_tone": -0.761,
+      "n_articles": 15
     }
   ],
   "top_sources": [
+    {
+      "source": "twincities.com",
+      "n": 3,
+      "avg_tone": -2.811
+    },
+    {
+      "source": "tickerreport.com",
+      "n": 3,
+      "avg_tone": 3.01
+    },
+    {
+      "source": "orlandosentinel.com",
+      "n": 2,
+      "avg_tone": -2.68
+    },
+    {
+      "source": "theglobeandmail.com",
+      "n": 2,
+      "avg_tone": -0.044
+    },
+    {
+      "source": "virginislandsnewsonline.com",
+      "n": 2,
+      "avg_tone": -3.505
+    },
+    {
+      "source": "krwg.org",
+      "n": 2,
+      "avg_tone": -1.59
+    },
+    {
+      "source": "goskagit.com",
+      "n": 2,
+      "avg_tone": -1.978
+    },
+    {
+      "source": "rollingstone.com",
+      "n": 2,
+      "avg_tone": 2.355
+    },
     {
       "source": "kcra.com",
       "n": 2,
@@ -1412,119 +1452,79 @@
       "avg_tone": -0.319
     },
     {
-      "source": "tickerreport.com",
-      "n": 2,
-      "avg_tone": 2.16
-    },
-    {
       "source": "abc11.com",
       "n": 2,
       "avg_tone": -1.992
     },
     {
-      "source": "indiatimes.com",
+      "source": "gulfcoastnewsnow.com",
       "n": 1,
-      "avg_tone": -2.028
+      "avg_tone": 3.416
     },
     {
-      "source": "finchannel.com",
-      "n": 1,
-      "avg_tone": -2.051
-    },
-    {
-      "source": "wbaltv.com",
-      "n": 1,
-      "avg_tone": -1.097
-    },
-    {
-      "source": "moneycontrol.com",
-      "n": 1,
-      "avg_tone": -2.74
-    },
-    {
-      "source": "readingeagle.com",
-      "n": 1,
-      "avg_tone": 1.294
-    },
-    {
-      "source": "timesherald.com",
-      "n": 1,
-      "avg_tone": 1.294
-    },
-    {
-      "source": "timminspress.com",
-      "n": 1,
-      "avg_tone": 0.767
-    },
-    {
-      "source": "dailyfreeman.com",
-      "n": 1,
-      "avg_tone": 1.294
-    },
-    {
-      "source": "fairfieldsuntimes.com",
+      "source": "the-messenger.com",
       "n": 1,
       "avg_tone": 1.253
     },
     {
-      "source": "winnipegfreepress.com",
+      "source": "saratogian.com",
       "n": 1,
-      "avg_tone": 3.503
+      "avg_tone": 1.294
     },
     {
-      "source": "houstonpress.com",
+      "source": "yahoo.com",
       "n": 1,
-      "avg_tone": 5.38
+      "avg_tone": -2.657
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 195
-    },
-    {
       "theme": "WB_698_TRADE",
-      "n": 192
+      "n": 228
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 93
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 211
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 119
     },
     {
       "theme": "LEADER",
       "n": 93
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 91
-    },
-    {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 89
+      "n": 87
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 88
-    },
-    {
-      "theme": "EPU_ECONOMY",
-      "n": 82
-    },
-    {
-      "theme": "NEGOTIATIONS",
-      "n": 76
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 85
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 72
+      "n": 78
+    },
+    {
+      "theme": "NEGOTIATIONS",
+      "n": 75
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 75
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 74
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 69
+      "n": 70
     },
     {
-      "theme": "WB_2471_PEACEKEEPING",
-      "n": 68
+      "theme": "EPU_ECONOMY",
+      "n": 70
     },
     {
       "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
