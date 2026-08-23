@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-23T15:23:20.352071+00:00",
-  "rows_total_scanned_last_run": 2691,
-  "rows_mexico_last_run": 40,
-  "overall_avg_tone_4h": -1.141,
+  "generated_at": "2026-08-23T15:43:50.415717+00:00",
+  "rows_total_scanned_last_run": 2635,
+  "rows_mexico_last_run": 46,
+  "overall_avg_tone_4h": -1.049,
   "timeline": [
-    {
-      "time": "2026-08-20T15:30",
-      "avg_tone": -1.405,
-      "n_articles": 24
-    },
     {
       "time": "2026-08-20T15:45",
       "avg_tone": 0.519,
@@ -1388,9 +1383,19 @@
       "time": "2026-08-23T15:30",
       "avg_tone": -1.12,
       "n_articles": 8
+    },
+    {
+      "time": "2026-08-23T15:45",
+      "avg_tone": -1.057,
+      "n_articles": 15
     }
   ],
   "top_sources": [
+    {
+      "source": "dailypolitical.com",
+      "n": 2,
+      "avg_tone": 3.856
+    },
     {
       "source": "tickerreport.com",
       "n": 2,
@@ -1402,67 +1407,62 @@
       "avg_tone": -2.078
     },
     {
-      "source": "nbcdfw.com",
+      "source": "petapixel.com",
       "n": 1,
-      "avg_tone": -0.884
+      "avg_tone": -1.081
     },
     {
-      "source": "kpcw.org",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "taiwansun.com",
-      "n": 1,
-      "avg_tone": -1.6
-    },
-    {
-      "source": "wmuk.org",
+      "source": "wlrn.org",
       "n": 1,
       "avg_tone": -1.457
     },
     {
-      "source": "jowhar.com",
-      "n": 1,
-      "avg_tone": 0.808
-    },
-    {
-      "source": "wncw.org",
+      "source": "ypradio.org",
       "n": 1,
       "avg_tone": -1.457
     },
     {
-      "source": "kasu.org",
+      "source": "wnmufm.org",
       "n": 1,
       "avg_tone": -1.457
     },
     {
-      "source": "wfsu.org",
+      "source": "newsweek.com",
+      "n": 1,
+      "avg_tone": 0.094
+    },
+    {
+      "source": "kjzz.org",
       "n": 1,
       "avg_tone": -1.457
     },
     {
-      "source": "nigeriasun.com",
-      "n": 1,
-      "avg_tone": -1.6
-    },
-    {
-      "source": "wdiy.org",
+      "source": "aspenpublicradio.org",
       "n": 1,
       "avg_tone": -1.457
     },
     {
-      "source": "nypost.com",
+      "source": "kuow.org",
       "n": 1,
-      "avg_tone": -5.966
+      "avg_tone": -1.457
     },
     {
-      "source": "greatbendpost.com",
+      "source": "yahoo.com",
       "n": 1,
-      "avg_tone": -1.257
+      "avg_tone": 2.748
     },
     {
-      "source": "hayspost.com",
+      "source": "independent.co.uk",
+      "n": 1,
+      "avg_tone": -4.663
+    },
+    {
+      "source": "rawstory.com",
+      "n": 1,
+      "avg_tone": 0.058
+    },
+    {
+      "source": "jcpost.com",
       "n": 1,
       "avg_tone": -1.257
     }
@@ -1470,63 +1470,63 @@
   "top_themes": [
     {
       "theme": "GENERAL_HEALTH",
-      "n": 165
+      "n": 262
     },
     {
       "theme": "MEDICAL",
-      "n": 164
+      "n": 261
     },
     {
       "theme": "AGRICULTURE",
-      "n": 121
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 90
-    },
-    {
-      "theme": "LEADER",
-      "n": 59
+      "n": 101
     },
     {
       "theme": "TAX_FNCACT_SECRETARY",
-      "n": 52
+      "n": 84
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 81
+    },
+    {
+      "theme": "LEADER",
+      "n": 76
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 48
+      "n": 64
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 47
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 42
+      "n": 58
     },
     {
       "theme": "EDUCATION",
+      "n": 56
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 43
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 32
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
       "n": 31
     },
     {
-      "theme": "EPU_POLICY_WHITE_HOUSE",
-      "n": 26
-    },
-    {
       "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 21
-    },
-    {
-      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
-      "n": 21
+      "n": 27
     },
     {
       "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 18
+      "n": 24
     },
     {
-      "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 18
+      "theme": "WB_2670_JOBS",
+      "n": 22
     }
   ]
 }
