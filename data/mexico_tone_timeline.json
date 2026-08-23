@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-23T15:43:50.415717+00:00",
-  "rows_total_scanned_last_run": 2635,
-  "rows_mexico_last_run": 46,
-  "overall_avg_tone_4h": -1.049,
+  "generated_at": "2026-08-23T15:58:14.129773+00:00",
+  "rows_total_scanned_last_run": 2586,
+  "rows_mexico_last_run": 42,
+  "overall_avg_tone_4h": -1.104,
   "timeline": [
-    {
-      "time": "2026-08-20T15:45",
-      "avg_tone": 0.519,
-      "n_articles": 29
-    },
     {
       "time": "2026-08-20T16:00",
       "avg_tone": -0.479,
@@ -1388,23 +1383,58 @@
       "time": "2026-08-23T15:45",
       "avg_tone": -1.057,
       "n_articles": 15
+    },
+    {
+      "time": "2026-08-23T16:00",
+      "avg_tone": -0.946,
+      "n_articles": 9
     }
   ],
   "top_sources": [
+    {
+      "source": "fairobserver.com",
+      "n": 2,
+      "avg_tone": 1.191
+    },
     {
       "source": "dailypolitical.com",
       "n": 2,
       "avg_tone": 3.856
     },
     {
-      "source": "tickerreport.com",
-      "n": 2,
-      "avg_tone": 1.159
+      "source": "wwno.org",
+      "n": 1,
+      "avg_tone": -1.457
     },
     {
-      "source": "el-balad.com",
-      "n": 2,
-      "avg_tone": -2.078
+      "source": "wysu.org",
+      "n": 1,
+      "avg_tone": -1.457
+    },
+    {
+      "source": "gazette.com",
+      "n": 1,
+      "avg_tone": -4.609
+    },
+    {
+      "source": "dailycamera.com",
+      "n": 1,
+      "avg_tone": -0.461
+    },
+    {
+      "source": "b1027.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "ksut.org",
+      "n": 1,
+      "avg_tone": -1.457
+    },
+    {
+      "source": "krwg.org",
+      "n": 1,
+      "avg_tone": -1.457
     },
     {
       "source": "petapixel.com",
@@ -1435,98 +1465,68 @@
       "source": "kjzz.org",
       "n": 1,
       "avg_tone": -1.457
-    },
-    {
-      "source": "aspenpublicradio.org",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "kuow.org",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "yahoo.com",
-      "n": 1,
-      "avg_tone": 2.748
-    },
-    {
-      "source": "independent.co.uk",
-      "n": 1,
-      "avg_tone": -4.663
-    },
-    {
-      "source": "rawstory.com",
-      "n": 1,
-      "avg_tone": 0.058
-    },
-    {
-      "source": "jcpost.com",
-      "n": 1,
-      "avg_tone": -1.257
     }
   ],
   "top_themes": [
     {
       "theme": "GENERAL_HEALTH",
-      "n": 262
+      "n": 296
     },
     {
       "theme": "MEDICAL",
-      "n": 261
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 101
+      "n": 281
     },
     {
       "theme": "TAX_FNCACT_SECRETARY",
-      "n": 84
+      "n": 88
     },
     {
-      "theme": "TAX_ECON_PRICE",
+      "theme": "AGRICULTURE",
       "n": 81
     },
     {
       "theme": "LEADER",
-      "n": 76
+      "n": 72
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 69
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 64
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 58
+      "n": 60
     },
     {
       "theme": "EDUCATION",
-      "n": 56
+      "n": 59
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 55
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 43
+      "n": 35
     },
     {
       "theme": "IMMIGRATION",
-      "n": 32
+      "n": 29
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 31
-    },
-    {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
       "n": 27
     },
     {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 24
+      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
+      "n": 27
+    },
+    {
+      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
+      "n": 25
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 22
+      "n": 25
     }
   ]
 }
