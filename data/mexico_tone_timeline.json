@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-23T20:13:14.741528+00:00",
-  "rows_total_scanned_last_run": 2403,
-  "rows_mexico_last_run": 40,
-  "overall_avg_tone_4h": -0.645,
+  "generated_at": "2026-08-23T20:38:31.256424+00:00",
+  "rows_total_scanned_last_run": 2272,
+  "rows_mexico_last_run": 50,
+  "overall_avg_tone_4h": -0.866,
   "timeline": [
-    {
-      "time": "2026-08-20T20:15",
-      "avg_tone": -0.66,
-      "n_articles": 27
-    },
-    {
-      "time": "2026-08-20T20:30",
-      "avg_tone": -0.998,
-      "n_articles": 27
-    },
     {
       "time": "2026-08-20T20:45",
       "avg_tone": -1.112,
@@ -1388,145 +1378,155 @@
       "time": "2026-08-23T20:15",
       "avg_tone": -0.57,
       "n_articles": 3
+    },
+    {
+      "time": "2026-08-23T20:30",
+      "avg_tone": -1.887,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-08-23T20:45",
+      "avg_tone": -1.802,
+      "n_articles": 18
     }
   ],
   "top_sources": [
+    {
+      "source": "cubaheadlines.com",
+      "n": 3,
+      "avg_tone": -3.889
+    },
+    {
+      "source": "dailypolitical.com",
+      "n": 2,
+      "avg_tone": 3.695
+    },
+    {
+      "source": "greekherald.com",
+      "n": 2,
+      "avg_tone": 0.823
+    },
     {
       "source": "timesofsandiego.com",
       "n": 2,
       "avg_tone": -0.659
     },
     {
-      "source": "cbsnews.com",
-      "n": 2,
-      "avg_tone": -1.263
+      "source": "news4jax.com",
+      "n": 1,
+      "avg_tone": -4.147
     },
     {
-      "source": "foxnews.com",
-      "n": 2,
-      "avg_tone": 2.482
+      "source": "whmi.com",
+      "n": 1,
+      "avg_tone": -6.009
     },
     {
-      "source": "sail-world.com",
+      "source": "massachusettssun.com",
+      "n": 1,
+      "avg_tone": -1.114
+    },
+    {
+      "source": "ohiostandard.com",
+      "n": 1,
+      "avg_tone": -1.114
+    },
+    {
+      "source": "torontotelegraph.com",
+      "n": 1,
+      "avg_tone": -1.114
+    },
+    {
+      "source": "yachtsandyachting.com",
       "n": 1,
       "avg_tone": -0.164
     },
     {
-      "source": "southeastasiapost.com",
+      "source": "tennesseedaily.com",
       "n": 1,
-      "avg_tone": 2.76
+      "avg_tone": -1.114
     },
     {
-      "source": "2news.com",
+      "source": "statesboroherald.com",
       "n": 1,
-      "avg_tone": -4.308
+      "avg_tone": -0.387
     },
     {
-      "source": "bnnbloomberg.ca",
+      "source": "ksat.com",
       "n": 1,
-      "avg_tone": 0.273
+      "avg_tone": -4.167
     },
     {
-      "source": "knopnews2.com",
+      "source": "investinglive.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -5.702
     },
     {
-      "source": "tickerreport.com",
+      "source": "cincinnatisun.com",
       "n": 1,
-      "avg_tone": 0.313
-    },
-    {
-      "source": "stcatharinesstandard.ca",
-      "n": 1,
-      "avg_tone": -4.404
-    },
-    {
-      "source": "fox35orlando.com",
-      "n": 1,
-      "avg_tone": -1.958
-    },
-    {
-      "source": "fansided.com",
-      "n": 1,
-      "avg_tone": -0.507
-    },
-    {
-      "source": "fox7austin.com",
-      "n": 1,
-      "avg_tone": -1.958
-    },
-    {
-      "source": "fox6now.com",
-      "n": 1,
-      "avg_tone": -1.958
-    },
-    {
-      "source": "ktru.org",
-      "n": 1,
-      "avg_tone": 1.892
+      "avg_tone": -1.114
     }
   ],
   "top_themes": [
     {
+      "theme": "WB_698_TRADE",
+      "n": 137
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 102
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 93
+    },
+    {
       "theme": "TAX_ECON_PRICE",
-      "n": 134
+      "n": 89
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 100
-    },
-    {
-      "theme": "LEADER",
-      "n": 99
+      "theme": "WB_840_JUSTICE",
+      "n": 82
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 98
+      "n": 74
     },
     {
-      "theme": "MEDICAL",
-      "n": 71
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 72
     },
     {
-      "theme": "GENERAL_HEALTH",
+      "theme": "WB_2471_PEACEKEEPING",
       "n": 70
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 55
+      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
+      "n": 69
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 53
+      "theme": "WB_939_NEGOTIATION",
+      "n": 68
     },
     {
-      "theme": "AGRICULTURE",
-      "n": 50
+      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
+      "n": 68
     },
     {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 46
+      "theme": "WB_843_DISPUTE_RESOLUTION",
+      "n": 68
     },
     {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 46
+      "theme": "LEADER",
+      "n": 67
     },
     {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 46
+      "theme": "NEGOTIATIONS",
+      "n": 67
     },
     {
-      "theme": "EDUCATION",
-      "n": 45
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 45
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 45
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 66
     }
   ]
 }
