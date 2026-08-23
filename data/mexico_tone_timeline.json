@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-23T17:12:54.636039+00:00",
-  "rows_total_scanned_last_run": 2128,
-  "rows_mexico_last_run": 43,
-  "overall_avg_tone_4h": -0.956,
+  "generated_at": "2026-08-23T17:33:49.753583+00:00",
+  "rows_total_scanned_last_run": 2756,
+  "rows_mexico_last_run": 58,
+  "overall_avg_tone_4h": -0.834,
   "timeline": [
-    {
-      "time": "2026-08-20T17:15",
-      "avg_tone": -0.441,
-      "n_articles": 22
-    },
-    {
-      "time": "2026-08-20T17:30",
-      "avg_tone": 0.51,
-      "n_articles": 27
-    },
     {
       "time": "2026-08-20T17:45",
       "avg_tone": -0.902,
@@ -1388,9 +1378,19 @@
       "time": "2026-08-23T17:15",
       "avg_tone": -0.631,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-23T17:30",
+      "avg_tone": 0.48,
+      "n_articles": 11
     }
   ],
   "top_sources": [
+    {
+      "source": "mercurynews.com",
+      "n": 2,
+      "avg_tone": 3.553
+    },
     {
       "source": "sandiegouniontribune.com",
       "n": 2,
@@ -1407,6 +1407,51 @@
       "avg_tone": -2.694
     },
     {
+      "source": "arabherald.com",
+      "n": 1,
+      "avg_tone": 2.76
+    },
+    {
+      "source": "theepochtimes.com",
+      "n": 1,
+      "avg_tone": -4.057
+    },
+    {
+      "source": "wutc.org",
+      "n": 1,
+      "avg_tone": -1.457
+    },
+    {
+      "source": "wjct.org",
+      "n": 1,
+      "avg_tone": -1.457
+    },
+    {
+      "source": "countryliving.com",
+      "n": 1,
+      "avg_tone": 1.799
+    },
+    {
+      "source": "wbaa.org",
+      "n": 1,
+      "avg_tone": -1.457
+    },
+    {
+      "source": "interlochenpublicradio.org",
+      "n": 1,
+      "avg_tone": -1.457
+    },
+    {
+      "source": "californiatelegraph.com",
+      "n": 1,
+      "avg_tone": 2.76
+    },
+    {
+      "source": "kscj.com",
+      "n": 1,
+      "avg_tone": 0.746
+    },
+    {
       "source": "vol.at",
       "n": 1,
       "avg_tone": 1.928
@@ -1415,118 +1460,68 @@
       "source": "northkoreatimes.com",
       "n": 1,
       "avg_tone": 2.76
-    },
-    {
-      "source": "wvasfm.org",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "kunm.org",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "kvnf.org",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "shetlandtimes.co.uk",
-      "n": 1,
-      "avg_tone": -1.228
-    },
-    {
-      "source": "wclk.com",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "caribbeanherald.com",
-      "n": 1,
-      "avg_tone": 2.76
-    },
-    {
-      "source": "kgou.org",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "kansaspublicradio.org",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "kyuk.org",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "abqjournal.com",
-      "n": 1,
-      "avg_tone": -2.074
     }
   ],
   "top_themes": [
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 306
+      "theme": "MEDICAL",
+      "n": 459
     },
     {
-      "theme": "MEDICAL",
-      "n": 306
+      "theme": "GENERAL_HEALTH",
+      "n": 458
     },
     {
       "theme": "TAX_FNCACT_SECRETARY",
-      "n": 86
+      "n": 140
     },
     {
       "theme": "EDUCATION",
-      "n": 72
+      "n": 79
     },
     {
       "theme": "LEADER",
-      "n": 51
+      "n": 73
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 44
+      "n": 70
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 33
+      "n": 62
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 31
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 31
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 24
-    },
-    {
-      "theme": "TAX_FNCACT_CONGRESSMAN",
-      "n": 19
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 19
+      "n": 45
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 18
+      "n": 43
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 18
+      "n": 35
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 33
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 17
+      "n": 31
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 30
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 30
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 28
     }
   ]
 }
