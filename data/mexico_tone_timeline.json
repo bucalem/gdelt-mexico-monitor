@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-23T09:49:46.850483+00:00",
-  "rows_total_scanned_last_run": 2086,
-  "rows_mexico_last_run": 31,
-  "overall_avg_tone_4h": -1.257,
+  "generated_at": "2026-08-23T10:14:29.969872+00:00",
+  "rows_total_scanned_last_run": 2248,
+  "rows_mexico_last_run": 39,
+  "overall_avg_tone_4h": -1.166,
   "timeline": [
-    {
-      "time": "2026-08-20T10:00",
-      "avg_tone": -1.464,
-      "n_articles": 12
-    },
     {
       "time": "2026-08-20T10:15",
       "avg_tone": -4.292,
@@ -1378,145 +1373,155 @@
       "time": "2026-08-23T09:45",
       "avg_tone": -1.926,
       "n_articles": 13
+    },
+    {
+      "time": "2026-08-23T10:00",
+      "avg_tone": -0.986,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-23T10:15",
+      "avg_tone": -1.092,
+      "n_articles": 12
     }
   ],
   "top_sources": [
-    {
-      "source": "riotimesonline.com",
-      "n": 5,
-      "avg_tone": -1.184
-    },
     {
       "source": "arkansasonline.com",
       "n": 3,
       "avg_tone": -2.761
     },
     {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -1.648
-    },
-    {
-      "source": "tickerreport.com",
+      "source": "themarketsdaily.com",
       "n": 1,
-      "avg_tone": 2.673
+      "avg_tone": 2.469
     },
     {
-      "source": "yourlocalguardian.co.uk",
+      "source": "observertoday.com",
       "n": 1,
-      "avg_tone": -1.475
+      "avg_tone": -1.333
     },
     {
-      "source": "hampshirechronicle.co.uk",
+      "source": "somersetcountygazette.co.uk",
       "n": 1,
       "avg_tone": -1.475
     },
     {
-      "source": "mankatofreepress.com",
-      "n": 1,
-      "avg_tone": -3.638
-    },
-    {
-      "source": "theworldlink.com",
-      "n": 1,
-      "avg_tone": 0.242
-    },
-    {
-      "source": "lasvegassun.com",
-      "n": 1,
-      "avg_tone": -2.394
-    },
-    {
-      "source": "bucksfreepress.co.uk",
+      "source": "eppingforestguardian.co.uk",
       "n": 1,
       "avg_tone": -1.475
     },
     {
-      "source": "bracknellnews.co.uk",
+      "source": "newsshopper.co.uk",
       "n": 1,
       "avg_tone": -1.475
     },
     {
-      "source": "thurrockgazette.co.uk",
+      "source": "timesandstar.co.uk",
       "n": 1,
       "avg_tone": -1.475
     },
     {
-      "source": "glasgowtimes.co.uk",
+      "source": "bournemouthecho.co.uk",
       "n": 1,
       "avg_tone": -1.475
     },
     {
-      "source": "theintelligencer.net",
+      "source": "fm4.orf.at",
       "n": 1,
-      "avg_tone": -2.385
+      "avg_tone": -0.965
     },
     {
-      "source": "thisisoxfordshire.co.uk",
+      "source": "messengernewspapers.co.uk",
       "n": 1,
       "avg_tone": -1.475
+    },
+    {
+      "source": "newhamrecorder.co.uk",
+      "n": 1,
+      "avg_tone": -1.475
+    },
+    {
+      "source": "bridgwatermercury.co.uk",
+      "n": 1,
+      "avg_tone": -1.475
+    },
+    {
+      "source": "wiltsglosstandard.co.uk",
+      "n": 1,
+      "avg_tone": -1.475
+    },
+    {
+      "source": "gazetteseries.co.uk",
+      "n": 1,
+      "avg_tone": -1.475
+    },
+    {
+      "source": "abc.net.au",
+      "n": 1,
+      "avg_tone": -2.041
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 206
+      "n": 356
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 177
+      "n": 308
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 101
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 86
+      "n": 162
     },
     {
       "theme": "LEADER",
-      "n": 75
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 73
-    },
-    {
-      "theme": "EPU_ECONOMY",
-      "n": 69
+      "n": 131
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 67
+      "n": 126
     },
     {
-      "theme": "EPU_CATS_TAXES",
-      "n": 61
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 126
+    },
+    {
+      "theme": "EPU_ECONOMY",
+      "n": 112
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 105
     },
     {
       "theme": "TAX_FNCACT_MINISTER",
-      "n": 56
+      "n": 103
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 49
+      "theme": "EPU_CATS_TAXES",
+      "n": 103
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICANS",
+      "n": 79
     },
     {
       "theme": "LEGISLATION",
-      "n": 44
+      "n": 75
     },
     {
       "theme": "EPU_POLICY_LAW",
-      "n": 44
+      "n": 75
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 42
+      "theme": "TAX_FNCACT_PRIME_MINISTER",
+      "n": 75
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 42
+      "theme": "TAX_ECON_PRICE",
+      "n": 71
     }
   ]
 }
