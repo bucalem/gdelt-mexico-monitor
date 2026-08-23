@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-23T14:41:01.883109+00:00",
-  "rows_total_scanned_last_run": 2385,
-  "rows_mexico_last_run": 56,
-  "overall_avg_tone_4h": -1.069,
+  "generated_at": "2026-08-23T14:58:49.757770+00:00",
+  "rows_total_scanned_last_run": 2338,
+  "rows_mexico_last_run": 55,
+  "overall_avg_tone_4h": -1.102,
   "timeline": [
-    {
-      "time": "2026-08-20T14:45",
-      "avg_tone": -0.572,
-      "n_articles": 14
-    },
     {
       "time": "2026-08-20T15:00",
       "avg_tone": -0.789,
@@ -1388,6 +1383,11 @@
       "time": "2026-08-23T14:45",
       "avg_tone": 0.135,
       "n_articles": 9
+    },
+    {
+      "time": "2026-08-23T15:00",
+      "avg_tone": -1.81,
+      "n_articles": 13
     }
   ],
   "top_sources": [
@@ -1395,6 +1395,16 @@
       "source": "dailypolitical.com",
       "n": 3,
       "avg_tone": 1.742
+    },
+    {
+      "source": "tickerreport.com",
+      "n": 2,
+      "avg_tone": 1.159
+    },
+    {
+      "source": "el-balad.com",
+      "n": 2,
+      "avg_tone": -2.078
     },
     {
       "source": "russiaherald.com",
@@ -1417,116 +1427,106 @@
       "avg_tone": -3.106
     },
     {
-      "source": "globalnews.ca",
+      "source": "boredpanda.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -3.115
     },
     {
-      "source": "srilankasource.com",
+      "source": "lancasteronline.com",
       "n": 1,
-      "avg_tone": -1.6
+      "avg_tone": -1.519
     },
     {
-      "source": "communityadvocate.com",
+      "source": "middleeaststar.com",
       "n": 1,
-      "avg_tone": 3.375
+      "avg_tone": -4.612
     },
     {
-      "source": "fool.com",
-      "n": 1,
-      "avg_tone": 4.573
-    },
-    {
-      "source": "newjerseytelegraph.com",
-      "n": 1,
-      "avg_tone": -1.6
-    },
-    {
-      "source": "kwbu.org",
+      "source": "waer.org",
       "n": 1,
       "avg_tone": -1.457
     },
     {
-      "source": "screenrant.com",
+      "source": "techtimes.com",
       "n": 1,
-      "avg_tone": 1.126
+      "avg_tone": -4.881
     },
     {
-      "source": "nashvilleherald.com",
+      "source": "publicradiotulsa.org",
+      "n": 1,
+      "avg_tone": -1.457
+    },
+    {
+      "source": "baltimorestar.com",
       "n": 1,
       "avg_tone": -1.6
     },
     {
-      "source": "newzealandstar.com",
+      "source": "kunr.org",
       "n": 1,
-      "avg_tone": -1.6
-    },
-    {
-      "source": "lasvegassun.com",
-      "n": 1,
-      "avg_tone": -0.275
+      "avg_tone": -1.457
     }
   ],
   "top_themes": [
     {
       "theme": "AGRICULTURE",
-      "n": 206
+      "n": 172
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 162
+      "n": 133
     },
     {
       "theme": "MEDICAL",
-      "n": 162
+      "n": 132
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 143
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 55
-    },
-    {
-      "theme": "TAX_FNCACT_SECRETARY",
-      "n": 52
+      "n": 121
     },
     {
       "theme": "TAX_WORLDMAMMALS_HORSES",
       "n": 52
     },
     {
-      "theme": "LEADER",
-      "n": 50
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 51
     },
     {
-      "theme": "EPU_POLICY_WHITE_HOUSE",
-      "n": 46
+      "theme": "LEADER",
+      "n": 48
     },
     {
       "theme": "IMMIGRATION",
-      "n": 43
+      "n": 48
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 48
+    },
+    {
+      "theme": "TAX_FNCACT_SECRETARY",
       "n": 43
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 40
+      "theme": "WB_137_WATER",
+      "n": 41
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 38
+      "n": 41
     },
     {
       "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 38
+      "n": 40
     },
     {
       "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 38
+      "n": 40
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 39
     }
   ]
 }
