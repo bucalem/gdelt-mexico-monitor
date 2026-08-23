@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-23T11:57:10.167533+00:00",
-  "rows_total_scanned_last_run": 2437,
-  "rows_mexico_last_run": 77,
-  "overall_avg_tone_4h": -1.127,
+  "generated_at": "2026-08-23T12:32:26.210490+00:00",
+  "rows_total_scanned_last_run": 2256,
+  "rows_mexico_last_run": 60,
+  "overall_avg_tone_4h": -1.201,
   "timeline": [
-    {
-      "time": "2026-08-20T12:00",
-      "avg_tone": -2.192,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-08-20T12:15",
-      "avg_tone": 0.415,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-20T12:30",
-      "avg_tone": -0.484,
-      "n_articles": 29
-    },
     {
       "time": "2026-08-20T12:45",
       "avg_tone": -1.61,
@@ -1383,9 +1368,29 @@
       "time": "2026-08-23T12:00",
       "avg_tone": -0.082,
       "n_articles": 12
+    },
+    {
+      "time": "2026-08-23T12:15",
+      "avg_tone": -1.327,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-08-23T12:30",
+      "avg_tone": -1.494,
+      "n_articles": 8
     }
   ],
   "top_sources": [
+    {
+      "source": "caribbeanherald.com",
+      "n": 2,
+      "avg_tone": -3.106
+    },
+    {
+      "source": "laosnews.net",
+      "n": 2,
+      "avg_tone": -3.106
+    },
     {
       "source": "dailyforex.com",
       "n": 2,
@@ -1422,106 +1427,96 @@
       "avg_tone": -3.106
     },
     {
-      "source": "am800cklw.com",
-      "n": 2,
-      "avg_tone": 3.728
-    },
-    {
-      "source": "twincities.com",
-      "n": 2,
-      "avg_tone": 3.434
-    },
-    {
-      "source": "hawaiitribune-herald.com",
-      "n": 2,
-      "avg_tone": -3.36
-    },
-    {
-      "source": "wallpaper.com",
-      "n": 1,
-      "avg_tone": 3.85
-    },
-    {
-      "source": "theusnews.com",
+      "source": "londonmercury.com",
       "n": 1,
       "avg_tone": -1.6
     },
     {
-      "source": "yahoo.com",
+      "source": "rte.ie",
       "n": 1,
-      "avg_tone": -0.057
+      "avg_tone": 0.962
     },
     {
-      "source": "aol.co.uk",
+      "source": "thailandnews.net",
       "n": 1,
-      "avg_tone": -2.594
+      "avg_tone": -1.6
     },
     {
-      "source": "kicks99.com",
+      "source": "britainnews.net",
       "n": 1,
-      "avg_tone": 3.052
+      "avg_tone": -1.6
+    },
+    {
+      "source": "milwaukeesun.com",
+      "n": 1,
+      "avg_tone": -1.6
+    },
+    {
+      "source": "eveshamjournal.co.uk",
+      "n": 1,
+      "avg_tone": -1.475
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 385
+      "n": 283
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 351
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 236
+      "n": 242
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 234
+      "n": 182
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 151
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 218
+      "n": 150
     },
     {
       "theme": "LEADER",
-      "n": 183
+      "n": 132
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 179
+      "n": 132
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 176
+      "n": 130
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 125
-    },
-    {
-      "theme": "EPU_ECONOMY",
-      "n": 118
-    },
-    {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 116
-    },
-    {
-      "theme": "EPU_CATS_TAXES",
-      "n": 106
+      "n": 98
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 105
+      "n": 92
+    },
+    {
+      "theme": "EPU_ECONOMY",
+      "n": 82
+    },
+    {
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 80
+    },
+    {
+      "theme": "EPU_CATS_TAXES",
+      "n": 75
     },
     {
       "theme": "TAX_ETHNICITY_AMERICANS",
-      "n": 103
+      "n": 74
     },
     {
-      "theme": "TAX_FNCACT_PRIME_MINISTER",
-      "n": 90
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 65
     }
   ]
 }
