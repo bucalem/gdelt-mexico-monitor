@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-23T23:23:32.224114+00:00",
-  "rows_total_scanned_last_run": 1849,
-  "rows_mexico_last_run": 58,
+  "generated_at": "2026-08-23T23:42:17.876977+00:00",
+  "rows_total_scanned_last_run": 1864,
+  "rows_mexico_last_run": 61,
   "overall_avg_tone_4h": -1.624,
   "timeline": [
-    {
-      "time": "2026-08-20T23:30",
-      "avg_tone": -1.339,
-      "n_articles": 30
-    },
     {
       "time": "2026-08-20T23:45",
       "avg_tone": -0.993,
@@ -1388,6 +1383,11 @@
       "time": "2026-08-23T23:30",
       "avg_tone": -2.16,
       "n_articles": 13
+    },
+    {
+      "time": "2026-08-23T23:45",
+      "avg_tone": -1.495,
+      "n_articles": 12
     }
   ],
   "top_sources": [
@@ -1422,111 +1422,111 @@
       "avg_tone": 0.111
     },
     {
-      "source": "breitbart.com",
+      "source": "ktbb.com",
       "n": 1,
-      "avg_tone": -6.883
+      "avg_tone": -5.024
     },
     {
-      "source": "f4wonline.com",
+      "source": "irishsun.com",
       "n": 1,
-      "avg_tone": -0.97
+      "avg_tone": -1.114
     },
     {
-      "source": "leaderpost.com",
+      "source": "azerbaijannews.net",
       "n": 1,
-      "avg_tone": -3.353
+      "avg_tone": -1.114
     },
     {
-      "source": "dailyadvance.com",
+      "source": "mykxlg.com",
       "n": 1,
       "avg_tone": -3.909
     },
     {
-      "source": "netnewsledger.com",
+      "source": "collider.com",
       "n": 1,
-      "avg_tone": -2.573
+      "avg_tone": -0.363
     },
     {
-      "source": "zimbabwestar.com",
+      "source": "standardspeaker.com",
+      "n": 1,
+      "avg_tone": -0.206
+    },
+    {
+      "source": "neworleanssun.com",
       "n": 1,
       "avg_tone": -1.114
     },
     {
-      "source": "havanatimes.org",
+      "source": "whdh.com",
       "n": 1,
-      "avg_tone": -0.806
+      "avg_tone": -3.579
     },
     {
-      "source": "hawaiitelegraph.com",
+      "source": "springer.com",
       "n": 1,
-      "avg_tone": -1.114
-    },
-    {
-      "source": "azcapitoltimes.com",
-      "n": 1,
-      "avg_tone": -2.054
+      "avg_tone": 2.311
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 190
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 120
+      "n": 234
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 113
+      "n": 138
     },
     {
-      "theme": "WB_137_WATER",
-      "n": 108
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 134
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 107
+      "n": 132
     },
     {
       "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 102
+      "n": 125
     },
     {
       "theme": "NEGOTIATIONS",
-      "n": 99
+      "n": 122
     },
     {
       "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 99
+      "n": 122
     },
     {
       "theme": "WB_939_NEGOTIATION",
-      "n": 99
+      "n": 122
     },
     {
       "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 99
+      "n": 122
     },
     {
       "theme": "WB_843_DISPUTE_RESOLUTION",
-      "n": 99
+      "n": 122
     },
     {
       "theme": "WB_2471_PEACEKEEPING",
-      "n": 99
+      "n": 122
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 98
+      "n": 118
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 80
+    },
+    {
+      "theme": "EPU_CATS_TRADE_POLICY",
+      "n": 71
     },
     {
       "theme": "LEADER",
-      "n": 69
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 63
+      "n": 70
     }
   ]
 }
