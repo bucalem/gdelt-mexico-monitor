@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-23T16:23:53.776628+00:00",
-  "rows_total_scanned_last_run": 2450,
+  "generated_at": "2026-08-23T16:48:32.135102+00:00",
+  "rows_total_scanned_last_run": 2526,
   "rows_mexico_last_run": 39,
-  "overall_avg_tone_4h": -0.964,
+  "overall_avg_tone_4h": -1.067,
   "timeline": [
-    {
-      "time": "2026-08-20T16:30",
-      "avg_tone": -1.39,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-08-20T16:45",
-      "avg_tone": 1.572,
-      "n_articles": 27
-    },
     {
       "time": "2026-08-20T17:00",
       "avg_tone": -0.079,
@@ -1388,145 +1378,150 @@
       "time": "2026-08-23T16:30",
       "avg_tone": 0.029,
       "n_articles": 11
+    },
+    {
+      "time": "2026-08-23T16:45",
+      "avg_tone": -0.988,
+      "n_articles": 15
     }
   ],
   "top_sources": [
-    {
-      "source": "newsweek.com",
-      "n": 2,
-      "avg_tone": -0.092
-    },
-    {
-      "source": "dailypolitical.com",
-      "n": 2,
-      "avg_tone": 4.292
-    },
     {
       "source": "fairobserver.com",
       "n": 2,
       "avg_tone": 1.191
     },
     {
-      "source": "nypost.com",
-      "n": 1,
-      "avg_tone": -2.141
-    },
-    {
-      "source": "capeandislands.org",
+      "source": "delawarepublic.org",
       "n": 1,
       "avg_tone": -1.457
     },
     {
-      "source": "ecu.edu",
+      "source": "fox5atlanta.com",
       "n": 1,
-      "avg_tone": 0.34
+      "avg_tone": -1.958
     },
     {
-      "source": "kalw.org",
+      "source": "wrvo.org",
       "n": 1,
       "avg_tone": -1.457
     },
     {
-      "source": "krmsradio.com",
+      "source": "inquirer.com",
       "n": 1,
-      "avg_tone": -0.885
+      "avg_tone": -2.472
     },
     {
-      "source": "dailykos.com",
+      "source": "thepatrioticvanguard.com",
       "n": 1,
-      "avg_tone": 0.878
+      "avg_tone": 2.371
     },
     {
-      "source": "kiplinger.com",
+      "source": "fox5ny.com",
       "n": 1,
-      "avg_tone": 4.204
+      "avg_tone": -1.958
     },
     {
-      "source": "nanaimobulletin.com",
-      "n": 1,
-      "avg_tone": 1.976
-    },
-    {
-      "source": "npr.org",
-      "n": 1,
-      "avg_tone": -1.555
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 0.696
-    },
-    {
-      "source": "kbia.org",
+      "source": "klcc.org",
       "n": 1,
       "avg_tone": -1.457
     },
     {
-      "source": "collider.com",
+      "source": "kwit.org",
       "n": 1,
-      "avg_tone": -0.328
+      "avg_tone": -1.457
+    },
+    {
+      "source": "wfdd.org",
+      "n": 1,
+      "avg_tone": -1.457
+    },
+    {
+      "source": "news9.com",
+      "n": 1,
+      "avg_tone": 4.494
+    },
+    {
+      "source": "wuft.org",
+      "n": 1,
+      "avg_tone": -1.457
+    },
+    {
+      "source": "kikn.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "alternet.org",
+      "n": 1,
+      "avg_tone": -3.643
+    },
+    {
+      "source": "tspr.org",
+      "n": 1,
+      "avg_tone": -1.457
     }
   ],
   "top_themes": [
     {
       "theme": "GENERAL_HEALTH",
-      "n": 282
+      "n": 301
     },
     {
       "theme": "MEDICAL",
-      "n": 266
+      "n": 286
     },
     {
       "theme": "TAX_FNCACT_SECRETARY",
-      "n": 77
+      "n": 81
     },
     {
       "theme": "EDUCATION",
-      "n": 70
-    },
-    {
-      "theme": "LEADER",
-      "n": 42
+      "n": 69
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 38
+      "n": 55
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 36
+      "theme": "LEADER",
+      "n": 44
     },
     {
       "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 34
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
       "n": 27
     },
     {
-      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 27
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
       "n": 26
     },
     {
       "theme": "SOC_POINTSOFINTEREST_HOSPITALS",
+      "n": 26
+    },
+    {
+      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
+      "n": 25
+    },
+    {
+      "theme": "USPEC_POLICY1",
       "n": 24
     },
     {
-      "theme": "IMMIGRATION",
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
       "n": 24
     },
     {
       "theme": "SOC_POINTSOFINTEREST_HOSPITAL",
-      "n": 23
+      "n": 24
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 22
-    },
-    {
-      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
-      "n": 22
+      "theme": "WB_698_TRADE",
+      "n": 24
     }
   ]
 }
