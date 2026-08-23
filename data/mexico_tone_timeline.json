@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-23T20:57:29.727822+00:00",
-  "rows_total_scanned_last_run": 2309,
-  "rows_mexico_last_run": 54,
+  "generated_at": "2026-08-23T21:18:40.823316+00:00",
+  "rows_total_scanned_last_run": 1224,
+  "rows_mexico_last_run": 33,
   "overall_avg_tone_4h": -1.014,
   "timeline": [
-    {
-      "time": "2026-08-20T21:00",
-      "avg_tone": 0.514,
-      "n_articles": 25
-    },
-    {
-      "time": "2026-08-20T21:15",
-      "avg_tone": -0.244,
-      "n_articles": 29
-    },
     {
       "time": "2026-08-20T21:30",
       "avg_tone": -1.613,
@@ -1397,11 +1387,6 @@
       "avg_tone": -3.889
     },
     {
-      "source": "dailypolitical.com",
-      "n": 2,
-      "avg_tone": 3.695
-    },
-    {
       "source": "greekherald.com",
       "n": 2,
       "avg_tone": 0.823
@@ -1465,68 +1450,73 @@
       "source": "sanantoniopost.com",
       "n": 1,
       "avg_tone": -1.114
+    },
+    {
+      "source": "mymotherlode.com",
+      "n": 1,
+      "avg_tone": -4.308
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 189
+      "n": 128
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 139
+      "n": 96
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 124
+      "n": 84
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 116
-    },
-    {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 103
-    },
-    {
-      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 102
-    },
-    {
-      "theme": "WB_939_NEGOTIATION",
-      "n": 102
-    },
-    {
-      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 102
-    },
-    {
-      "theme": "WB_843_DISPUTE_RESOLUTION",
-      "n": 102
-    },
-    {
-      "theme": "WB_2471_PEACEKEEPING",
-      "n": 102
+      "n": 78
     },
     {
       "theme": "NEGOTIATIONS",
-      "n": 101
+      "n": 70
+    },
+    {
+      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
+      "n": 70
+    },
+    {
+      "theme": "WB_939_NEGOTIATION",
+      "n": 70
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 70
+    },
+    {
+      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
+      "n": 70
+    },
+    {
+      "theme": "WB_843_DISPUTE_RESOLUTION",
+      "n": 70
+    },
+    {
+      "theme": "WB_2471_PEACEKEEPING",
+      "n": 70
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 88
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 66
+      "n": 59
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 61
+      "n": 55
     },
     {
-      "theme": "EPU_CATS_TRADE_POLICY",
-      "n": 60
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 50
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIAL",
+      "n": 42
     }
   ]
 }
