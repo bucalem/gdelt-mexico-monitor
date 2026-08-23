@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-23T13:51:02.939297+00:00",
-  "rows_total_scanned_last_run": 2407,
-  "rows_mexico_last_run": 54,
-  "overall_avg_tone_4h": -1.059,
+  "generated_at": "2026-08-23T14:14:43.688629+00:00",
+  "rows_total_scanned_last_run": 2346,
+  "rows_mexico_last_run": 69,
+  "overall_avg_tone_4h": -1.113,
   "timeline": [
-    {
-      "time": "2026-08-20T14:00",
-      "avg_tone": -0.082,
-      "n_articles": 14
-    },
     {
       "time": "2026-08-20T14:15",
       "avg_tone": -0.383,
@@ -1383,9 +1378,24 @@
       "time": "2026-08-23T14:00",
       "avg_tone": -0.955,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-23T14:15",
+      "avg_tone": -1.714,
+      "n_articles": 20
     }
   ],
   "top_sources": [
+    {
+      "source": "kunc.org",
+      "n": 2,
+      "avg_tone": -1.891
+    },
+    {
+      "source": "batonrougepost.com",
+      "n": 2,
+      "avg_tone": -3.106
+    },
     {
       "source": "themarketsdaily.com",
       "n": 2,
@@ -1402,126 +1412,116 @@
       "avg_tone": 3.81
     },
     {
-      "source": "pakistantelegraph.com",
-      "n": 2,
-      "avg_tone": -3.106
+      "source": "bonappetit.com",
+      "n": 1,
+      "avg_tone": 2.732
     },
     {
-      "source": "azerbaijannews.net",
+      "source": "thenews.com.pk",
+      "n": 1,
+      "avg_tone": -3.806
+    },
+    {
+      "source": "saltlakecitysun.com",
       "n": 1,
       "avg_tone": -1.6
     },
     {
-      "source": "singaporestar.com",
+      "source": "business-standard.com",
+      "n": 1,
+      "avg_tone": -0.949
+    },
+    {
+      "source": "trinidadtimes.com",
       "n": 1,
       "avg_tone": -1.6
     },
     {
-      "source": "southcarolinapublicradio.org",
+      "source": "eastbaytimes.com",
       "n": 1,
-      "avg_tone": -1.457
+      "avg_tone": -3.581
     },
     {
-      "source": "europesun.com",
+      "source": "movieweb.com",
+      "n": 1,
+      "avg_tone": 0.152
+    },
+    {
+      "source": "zimbabwestar.com",
       "n": 1,
       "avg_tone": -1.6
     },
     {
-      "source": "wxxinews.org",
+      "source": "ibtimes.com",
+      "n": 1,
+      "avg_tone": -1.721
+    },
+    {
+      "source": "ualrpublicradio.org",
       "n": 1,
       "avg_tone": -1.457
-    },
-    {
-      "source": "wuwf.org",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "swiftcurrentonline.com",
-      "n": 1,
-      "avg_tone": 1.835
-    },
-    {
-      "source": "irishsun.com",
-      "n": 1,
-      "avg_tone": -1.6
-    },
-    {
-      "source": "iowapublicradio.org",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "wfae.org",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "bangladeshsun.com",
-      "n": 1,
-      "avg_tone": -1.6
     }
   ],
   "top_themes": [
     {
       "theme": "GENERAL_HEALTH",
-      "n": 222
+      "n": 256
     },
     {
       "theme": "MEDICAL",
-      "n": 212
+      "n": 246
     },
     {
       "theme": "AGRICULTURE",
-      "n": 178
+      "n": 231
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 130
-    },
-    {
-      "theme": "TAX_FNCACT_SECRETARY",
-      "n": 69
+      "n": 167
     },
     {
       "theme": "LEADER",
-      "n": 61
+      "n": 80
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 48
+      "theme": "TAX_FNCACT_SECRETARY",
+      "n": 79
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 46
+      "n": 63
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 60
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 53
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 53
+    },
+    {
+      "theme": "EPU_POLICY_WHITE_HOUSE",
+      "n": 53
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 45
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 45
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 45
     },
     {
       "theme": "TAX_WORLDARACHNIDS_TICKS",
       "n": 45
-    },
-    {
-      "theme": "EPU_POLICY_WHITE_HOUSE",
-      "n": 41
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 33
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 31
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 29
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 26
-    },
-    {
-      "theme": "CRISISLEX_C04_LOGISTICS_TRANSPORT",
-      "n": 23
     }
   ]
 }
