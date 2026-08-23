@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-23T08:54:54.783238+00:00",
-  "rows_total_scanned_last_run": 1878,
-  "rows_mexico_last_run": 20,
-  "overall_avg_tone_4h": -0.926,
+  "generated_at": "2026-08-23T09:19:23.787864+00:00",
+  "rows_total_scanned_last_run": 1476,
+  "rows_mexico_last_run": 17,
+  "overall_avg_tone_4h": -1.007,
   "timeline": [
-    {
-      "time": "2026-08-20T09:00",
-      "avg_tone": -1.914,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-20T09:15",
-      "avg_tone": 3.025,
-      "n_articles": 3
-    },
     {
       "time": "2026-08-20T09:30",
       "avg_tone": -0.316,
@@ -1383,38 +1373,38 @@
       "time": "2026-08-23T09:00",
       "avg_tone": -0.173,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-23T09:15",
+      "avg_tone": -1.509,
+      "n_articles": 8
     }
   ],
   "top_sources": [
+    {
+      "source": "riotimesonline.com",
+      "n": 5,
+      "avg_tone": -1.184
+    },
     {
       "source": "santafenewmexican.com",
       "n": 4,
       "avg_tone": -2.69
     },
     {
-      "source": "brentwoodlive.co.uk",
+      "source": "wisbechstandard.co.uk",
       "n": 1,
       "avg_tone": -1.475
     },
     {
-      "source": "yahoo.com",
+      "source": "cagesideseats.com",
       "n": 1,
-      "avg_tone": 2.961
+      "avg_tone": -2.208
     },
     {
-      "source": "gjsentinel.com",
+      "source": "sunjournal.com",
       "n": 1,
-      "avg_tone": -2.258
-    },
-    {
-      "source": "cdapress.com",
-      "n": 1,
-      "avg_tone": 1.383
-    },
-    {
-      "source": "burnhamandhighbridgeweeklynews.co.uk",
-      "n": 1,
-      "avg_tone": -1.475
+      "avg_tone": -2.469
     },
     {
       "source": "irishdentist.ie",
@@ -1440,88 +1430,68 @@
       "source": "newswire.co.nz",
       "n": 1,
       "avg_tone": 0.346
-    },
-    {
-      "source": "australianherald.com",
-      "n": 1,
-      "avg_tone": 0.792
-    },
-    {
-      "source": "jpost.com",
-      "n": 1,
-      "avg_tone": 0.099
-    },
-    {
-      "source": "kekbfm.com",
-      "n": 1,
-      "avg_tone": 1.617
-    },
-    {
-      "source": "livesaildie.com",
-      "n": 1,
-      "avg_tone": -0.175
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_137_WATER",
-      "n": 48
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 29
+      "theme": "USPEC_POLICY1",
+      "n": 36
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 26
+      "n": 27
     },
     {
-      "theme": "LEADER",
+      "theme": "WB_698_TRADE",
+      "n": 27
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 27
+    },
+    {
+      "theme": "EPU_POLICY_POLICY",
+      "n": 22
+    },
+    {
+      "theme": "WB_2689_JOBS_DIAGNOSTICS",
       "n": 21
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 21
+      "theme": "UNEMPLOYMENT",
+      "n": 20
     },
     {
-      "theme": "EDUCATION",
-      "n": 21
+      "theme": "WB_2745_JOB_QUALITY_AND_LABOR_MARKET_PERFORMANCE",
+      "n": 20
     },
     {
-      "theme": "AGRICULTURE",
-      "n": 19
+      "theme": "WB_2747_UNEMPLOYMENT",
+      "n": 20
     },
     {
-      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 17
+      "theme": "UNGP_JOB_OPPORTUNITIES_EMPLOYMENT",
+      "n": 20
+    },
+    {
+      "theme": "ECON_INFLATION",
+      "n": 20
+    },
+    {
+      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
+      "n": 20
+    },
+    {
+      "theme": "WB_442_INFLATION",
+      "n": 20
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 16
+      "n": 19
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 14
-    },
-    {
-      "theme": "TAX_FNCACT_STUDENTS",
-      "n": 14
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 13
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 13
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 12
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 12
+      "theme": "EDUCATION",
+      "n": 19
     }
   ]
 }
