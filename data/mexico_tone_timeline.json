@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-23T04:58:53.933514+00:00",
-  "rows_total_scanned_last_run": 1640,
-  "rows_mexico_last_run": 27,
-  "overall_avg_tone_4h": -0.713,
+  "generated_at": "2026-08-23T05:30:24.433412+00:00",
+  "rows_total_scanned_last_run": 1709,
+  "rows_mexico_last_run": 29,
+  "overall_avg_tone_4h": -0.783,
   "timeline": [
-    {
-      "time": "2026-08-20T05:00",
-      "avg_tone": -2.012,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-20T05:15",
-      "avg_tone": -1.527,
-      "n_articles": 7
-    },
     {
       "time": "2026-08-20T05:30",
       "avg_tone": 0.379,
@@ -1388,6 +1378,16 @@
       "time": "2026-08-23T05:00",
       "avg_tone": -0.639,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-23T05:15",
+      "avg_tone": -2.464,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-08-23T05:30",
+      "avg_tone": 0.028,
+      "n_articles": 11
     }
   ],
   "top_sources": [
@@ -1398,82 +1398,86 @@
     },
     {
       "source": "indiatimes.com",
+      "n": 3,
+      "avg_tone": -1.809
+    },
+    {
+      "source": "faribaultcountyregister.com",
       "n": 2,
-      "avg_tone": -2.95
+      "avg_tone": -1.888
     },
     {
-      "source": "econotimes.com",
-      "n": 2,
-      "avg_tone": -0.06
-    },
-    {
-      "source": "f4wonline.com",
+      "source": "thewestmorlandgazette.co.uk",
       "n": 1,
-      "avg_tone": -3.301
+      "avg_tone": 1.257
     },
     {
-      "source": "manilatimes.net",
+      "source": "walesonline.co.uk",
       "n": 1,
-      "avg_tone": -2.248
+      "avg_tone": 3.143
     },
     {
-      "source": "capitalethiopia.com",
+      "source": "foxsanantonio.com",
       "n": 1,
-      "avg_tone": 0.274
+      "avg_tone": -0.629
     },
     {
-      "source": "krro.com",
+      "source": "npr.org",
       "n": 1,
-      "avg_tone": 1.235
+      "avg_tone": 0.61
     },
     {
-      "source": "cagesideseats.com",
+      "source": "in-cumbria.com",
       "n": 1,
-      "avg_tone": -4.116
+      "avg_tone": 1.257
     },
     {
-      "source": "mlb.com",
+      "source": "kpbs.org",
       "n": 1,
-      "avg_tone": 0.661
+      "avg_tone": 0.796
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "wakingthered.com",
       "n": 1,
-      "avg_tone": 2.281
+      "avg_tone": 0.242
     },
     {
-      "source": "latimes.com",
+      "source": "prowrestling.net",
       "n": 1,
-      "avg_tone": -7.342
+      "avg_tone": -3.063
     },
     {
-      "source": "el-balad.com",
+      "source": "dw.com",
       "n": 1,
-      "avg_tone": -4.215
+      "avg_tone": -5.98
     },
     {
-      "source": "mexicostar.com",
+      "source": "the-star.co.ke",
       "n": 1,
-      "avg_tone": -0.744
+      "avg_tone": -2.53
     },
     {
-      "source": "theyeshivaworld.com",
+      "source": "gringogazette.com",
       "n": 1,
-      "avg_tone": -2.41
+      "avg_tone": 2.632
     },
     {
-      "source": "batonrougepost.com",
+      "source": "openthemagazine.com",
       "n": 1,
-      "avg_tone": -0.744
+      "avg_tone": -5.696
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 55
+      "n": 46
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 37
+    },
+    {
+      "theme": "MEDICAL",
       "n": 29
     },
     {
@@ -1481,52 +1485,48 @@
       "n": 28
     },
     {
-      "theme": "MEDICAL",
-      "n": 28
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 26
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 25
-    },
-    {
-      "theme": "LEADER",
-      "n": 25
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 24
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 24
-    },
-    {
-      "theme": "WB_840_JUSTICE",
+      "theme": "TAX_ETHNICITY_CANADIAN",
       "n": 23
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 21
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 21
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 20
+    },
+    {
+      "theme": "WB_137_WATER",
       "n": 19
     },
     {
-      "theme": "NEGOTIATIONS",
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
       "n": 18
     },
     {
-      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 18
     },
     {
-      "theme": "WB_939_NEGOTIATION",
-      "n": 18
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 17
     },
     {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 18
+      "theme": "EPU_ECONOMY",
+      "n": 16
+    },
+    {
+      "theme": "LEADER",
+      "n": 16
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 16
     }
   ]
 }
