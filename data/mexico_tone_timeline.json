@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-23T17:54:25.121015+00:00",
-  "rows_total_scanned_last_run": 2769,
-  "rows_mexico_last_run": 48,
-  "overall_avg_tone_4h": -0.663,
+  "generated_at": "2026-08-23T18:16:02.002665+00:00",
+  "rows_total_scanned_last_run": 2724,
+  "rows_mexico_last_run": 44,
+  "overall_avg_tone_4h": -0.539,
   "timeline": [
-    {
-      "time": "2026-08-20T18:00",
-      "avg_tone": -0.076,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-08-20T18:15",
-      "avg_tone": -1.215,
-      "n_articles": 12
-    },
     {
       "time": "2026-08-20T18:30",
       "avg_tone": 0.316,
@@ -1388,6 +1378,11 @@
       "time": "2026-08-23T18:00",
       "avg_tone": 0.677,
       "n_articles": 10
+    },
+    {
+      "time": "2026-08-23T18:15",
+      "avg_tone": -0.487,
+      "n_articles": 10
     }
   ],
   "top_sources": [
@@ -1407,6 +1402,56 @@
       "avg_tone": 3.553
     },
     {
+      "source": "nepalnational.com",
+      "n": 1,
+      "avg_tone": 2.76
+    },
+    {
+      "source": "apr.org",
+      "n": 1,
+      "avg_tone": -1.457
+    },
+    {
+      "source": "wenxuecity.com",
+      "n": 1,
+      "avg_tone": -1.437
+    },
+    {
+      "source": "ksmu.org",
+      "n": 1,
+      "avg_tone": -1.457
+    },
+    {
+      "source": "parisguardian.com",
+      "n": 1,
+      "avg_tone": 2.76
+    },
+    {
+      "source": "business-standard.com",
+      "n": 1,
+      "avg_tone": -5.864
+    },
+    {
+      "source": "japanherald.com",
+      "n": 1,
+      "avg_tone": 2.76
+    },
+    {
+      "source": "ksfr.org",
+      "n": 1,
+      "avg_tone": -1.457
+    },
+    {
+      "source": "bozemandailychronicle.com",
+      "n": 1,
+      "avg_tone": 1.457
+    },
+    {
+      "source": "nationnews.com",
+      "n": 1,
+      "avg_tone": -2.93
+    },
+    {
       "source": "indiatimes.com",
       "n": 1,
       "avg_tone": -3.089
@@ -1415,82 +1460,36 @@
       "source": "mexicostar.com",
       "n": 1,
       "avg_tone": 2.76
-    },
-    {
-      "source": "pakistantelegraph.com",
-      "n": 1,
-      "avg_tone": 2.76
-    },
-    {
-      "source": "heraldglobe.com",
-      "n": 1,
-      "avg_tone": 2.76
-    },
-    {
-      "source": "hot1047.com",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "chinanationalnews.com",
-      "n": 1,
-      "avg_tone": 2.76
-    },
-    {
-      "source": "wemu.org",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "independent.co.ug",
-      "n": 1,
-      "avg_tone": 2.239
-    },
-    {
-      "source": "billboard.com",
-      "n": 1,
-      "avg_tone": 2.922
-    },
-    {
-      "source": "wyso.org",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "wknofm.org",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "cbsnews.com",
-      "n": 1,
-      "avg_tone": -0.66
     }
   ],
   "top_themes": [
     {
       "theme": "GENERAL_HEALTH",
-      "n": 314
+      "n": 217
     },
     {
       "theme": "MEDICAL",
-      "n": 313
+      "n": 216
     },
     {
       "theme": "TAX_FNCACT_SECRETARY",
-      "n": 92
-    },
-    {
-      "theme": "LEADER",
-      "n": 42
+      "n": 67
     },
     {
       "theme": "EDUCATION",
-      "n": 41
+      "n": 53
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 37
+      "n": 47
+    },
+    {
+      "theme": "LEADER",
+      "n": 36
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 35
     },
     {
       "theme": "TAX_FNCACT_CHEF",
@@ -1502,15 +1501,19 @@
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 23
+      "n": 22
     },
     {
-      "theme": "TAX_FNCACT_CONGRESSMAN",
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 21
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
       "n": 19
     },
     {
       "theme": "WB_1406_DISEASES",
-      "n": 19
+      "n": 18
     },
     {
       "theme": "WB_1427_NON_COMMUNICABLE_DISEASE_AND_INJURY",
@@ -1519,14 +1522,6 @@
     {
       "theme": "TAX_DISEASE_CANCER",
       "n": 17
-    },
-    {
-      "theme": "WB_1431_CANCER",
-      "n": 17
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 16
     }
   ]
 }
