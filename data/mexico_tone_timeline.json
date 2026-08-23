@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-23T20:38:31.256424+00:00",
-  "rows_total_scanned_last_run": 2272,
-  "rows_mexico_last_run": 50,
-  "overall_avg_tone_4h": -0.866,
+  "generated_at": "2026-08-23T20:57:29.727822+00:00",
+  "rows_total_scanned_last_run": 2309,
+  "rows_mexico_last_run": 54,
+  "overall_avg_tone_4h": -1.014,
   "timeline": [
-    {
-      "time": "2026-08-20T20:45",
-      "avg_tone": -1.112,
-      "n_articles": 21
-    },
     {
       "time": "2026-08-20T21:00",
       "avg_tone": 0.514,
@@ -1388,6 +1383,11 @@
       "time": "2026-08-23T20:45",
       "avg_tone": -1.802,
       "n_articles": 18
+    },
+    {
+      "time": "2026-08-23T21:00",
+      "avg_tone": -2.156,
+      "n_articles": 16
     }
   ],
   "top_sources": [
@@ -1407,62 +1407,62 @@
       "avg_tone": 0.823
     },
     {
-      "source": "timesofsandiego.com",
-      "n": 2,
-      "avg_tone": -0.659
-    },
-    {
-      "source": "news4jax.com",
-      "n": 1,
-      "avg_tone": -4.147
-    },
-    {
-      "source": "whmi.com",
-      "n": 1,
-      "avg_tone": -6.009
-    },
-    {
-      "source": "massachusettssun.com",
+      "source": "floridastatesman.com",
       "n": 1,
       "avg_tone": -1.114
     },
     {
-      "source": "ohiostandard.com",
+      "source": "athens-times.com",
+      "n": 1,
+      "avg_tone": -8.0
+    },
+    {
+      "source": "bruneinews.net",
       "n": 1,
       "avg_tone": -1.114
     },
     {
-      "source": "torontotelegraph.com",
+      "source": "westcentralonline.com",
+      "n": 1,
+      "avg_tone": -2.827
+    },
+    {
+      "source": "hongkongherald.com",
       "n": 1,
       "avg_tone": -1.114
     },
     {
-      "source": "yachtsandyachting.com",
-      "n": 1,
-      "avg_tone": -0.164
-    },
-    {
-      "source": "tennesseedaily.com",
+      "source": "phoenixherald.com",
       "n": 1,
       "avg_tone": -1.114
     },
     {
-      "source": "statesboroherald.com",
+      "source": "nola.com",
       "n": 1,
-      "avg_tone": -0.387
+      "avg_tone": 0.266
     },
     {
-      "source": "ksat.com",
+      "source": "fox13news.com",
       "n": 1,
-      "avg_tone": -4.167
+      "avg_tone": -1.958
     },
     {
-      "source": "investinglive.com",
+      "source": "the-messenger.com",
       "n": 1,
-      "avg_tone": -5.702
+      "avg_tone": -4.308
     },
     {
-      "source": "cincinnatisun.com",
+      "source": "strategypage.com",
+      "n": 1,
+      "avg_tone": -1.889
+    },
+    {
+      "source": "businesstimes.com.sg",
+      "n": 1,
+      "avg_tone": 0.09
+    },
+    {
+      "source": "sanantoniopost.com",
       "n": 1,
       "avg_tone": -1.114
     }
@@ -1470,63 +1470,63 @@
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 137
+      "n": 189
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 102
+      "n": 139
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 93
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 89
+      "n": 124
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 82
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 74
+      "n": 116
     },
     {
       "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 72
-    },
-    {
-      "theme": "WB_2471_PEACEKEEPING",
-      "n": 70
+      "n": 103
     },
     {
       "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 69
+      "n": 102
     },
     {
       "theme": "WB_939_NEGOTIATION",
-      "n": 68
+      "n": 102
     },
     {
       "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 68
+      "n": 102
     },
     {
       "theme": "WB_843_DISPUTE_RESOLUTION",
-      "n": 68
+      "n": 102
     },
     {
-      "theme": "LEADER",
-      "n": 67
+      "theme": "WB_2471_PEACEKEEPING",
+      "n": 102
     },
     {
       "theme": "NEGOTIATIONS",
-      "n": 67
+      "n": 101
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 88
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
       "n": 66
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 61
+    },
+    {
+      "theme": "EPU_CATS_TRADE_POLICY",
+      "n": 60
     }
   ]
 }
