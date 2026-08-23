@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-23T19:15:44.070267+00:00",
-  "rows_total_scanned_last_run": 2345,
-  "rows_mexico_last_run": 49,
-  "overall_avg_tone_4h": -0.578,
+  "generated_at": "2026-08-23T19:42:40.185936+00:00",
+  "rows_total_scanned_last_run": 2416,
+  "rows_mexico_last_run": 52,
+  "overall_avg_tone_4h": -0.603,
   "timeline": [
-    {
-      "time": "2026-08-20T19:15",
-      "avg_tone": 1.026,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-08-20T19:30",
-      "avg_tone": -0.74,
-      "n_articles": 38
-    },
     {
       "time": "2026-08-20T19:45",
       "avg_tone": 0.288,
@@ -1388,28 +1378,38 @@
       "time": "2026-08-23T19:15",
       "avg_tone": -1.21,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-23T19:30",
+      "avg_tone": -1.139,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-08-23T19:45",
+      "avg_tone": -1.429,
+      "n_articles": 8
     }
   ],
   "top_sources": [
-    {
-      "source": "yahoo.com",
-      "n": 4,
-      "avg_tone": -2.395
-    },
     {
       "source": "taosnews.com",
       "n": 3,
       "avg_tone": -2.577
     },
     {
-      "source": "tickerreport.com",
-      "n": 3,
-      "avg_tone": 1.41
+      "source": "cbsnews.com",
+      "n": 2,
+      "avg_tone": -1.263
     },
     {
-      "source": "cubaheadlines.com",
-      "n": 3,
-      "avg_tone": -4.324
+      "source": "foxnews.com",
+      "n": 2,
+      "avg_tone": 2.482
+    },
+    {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": -2.352
     },
     {
       "source": "wfmd.com",
@@ -1417,116 +1417,116 @@
       "avg_tone": -3.301
     },
     {
-      "source": "wpsu.org",
+      "source": "fox32chicago.com",
+      "n": 1,
+      "avg_tone": -1.958
+    },
+    {
+      "source": "fox5dc.com",
+      "n": 1,
+      "avg_tone": -1.958
+    },
+    {
+      "source": "indiatimes.com",
+      "n": 1,
+      "avg_tone": 1.184
+    },
+    {
+      "source": "kpbs.org",
       "n": 1,
       "avg_tone": -1.457
     },
     {
-      "source": "kzyx.org",
+      "source": "mgross.com",
       "n": 1,
-      "avg_tone": -1.457
+      "avg_tone": -0.032
     },
     {
-      "source": "wamc.org",
+      "source": "philboxing.com",
       "n": 1,
-      "avg_tone": -1.457
+      "avg_tone": -1.844
     },
     {
-      "source": "idahostatejournal.com",
+      "source": "foxbusiness.com",
       "n": 1,
-      "avg_tone": -4.439
+      "avg_tone": -0.743
     },
     {
-      "source": "kcbx.org",
+      "source": "theprowersjournal.com",
       "n": 1,
-      "avg_tone": -1.457
+      "avg_tone": -4.621
     },
     {
-      "source": "wyomingpublicmedia.org",
+      "source": "tvline.com",
       "n": 1,
-      "avg_tone": -1.457
+      "avg_tone": -0.493
     },
     {
-      "source": "kenw.org",
-      "n": 1,
-      "avg_tone": -1.457
-    },
-    {
-      "source": "torontotelegraph.com",
-      "n": 1,
-      "avg_tone": 2.76
-    },
-    {
-      "source": "braintreeandwithamtimes.co.uk",
-      "n": 1,
-      "avg_tone": 6.019
-    },
-    {
-      "source": "ksnblocal4.com",
+      "source": "1011now.com",
       "n": 1,
       "avg_tone": 0.0
     }
   ],
   "top_themes": [
     {
-      "theme": "MEDICAL",
-      "n": 315
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 314
-    },
-    {
       "theme": "LEADER",
-      "n": 281
+      "n": 327
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 256
+      "n": 319
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 250
+      "n": 310
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 249
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 248
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 96
     },
     {
       "theme": "TAX_FNCACT_SECRETARY",
-      "n": 92
+      "n": 77
     },
     {
       "theme": "EDUCATION",
-      "n": 60
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 52
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 40
+      "n": 67
     },
     {
       "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 40
+      "n": 48
     },
     {
       "theme": "WB_2837_IMMIGRATION",
-      "n": 40
+      "n": 48
     },
     {
       "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 40
+      "n": 48
     },
     {
       "theme": "IMMIGRATION",
-      "n": 39
+      "n": 46
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 46
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 36
+      "n": 44
     },
     {
-      "theme": "TAX_ETHNICITY_NAVAJO",
-      "n": 27
+      "theme": "TAX_FNCACT_REPRESENTATIVE",
+      "n": 44
     }
   ]
 }
