@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-23T10:58:26.217831+00:00",
-  "rows_total_scanned_last_run": 2299,
-  "rows_mexico_last_run": 55,
-  "overall_avg_tone_4h": -1.261,
+  "generated_at": "2026-08-23T11:20:15.808381+00:00",
+  "rows_total_scanned_last_run": 2314,
+  "rows_mexico_last_run": 70,
+  "overall_avg_tone_4h": -1.153,
   "timeline": [
-    {
-      "time": "2026-08-20T11:00",
-      "avg_tone": -1.804,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-08-20T11:15",
-      "avg_tone": -1.883,
-      "n_articles": 14
-    },
     {
       "time": "2026-08-20T11:30",
       "avg_tone": -2.52,
@@ -1383,145 +1373,155 @@
       "time": "2026-08-23T11:00",
       "avg_tone": -1.215,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-23T11:15",
+      "avg_tone": -0.591,
+      "n_articles": 22
+    },
+    {
+      "time": "2026-08-23T11:30",
+      "avg_tone": -1.616,
+      "n_articles": 19
     }
   ],
   "top_sources": [
+    {
+      "source": "am800cklw.com",
+      "n": 2,
+      "avg_tone": 3.728
+    },
+    {
+      "source": "twincities.com",
+      "n": 2,
+      "avg_tone": 3.434
+    },
+    {
+      "source": "hawaiitribune-herald.com",
+      "n": 2,
+      "avg_tone": -3.36
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 1.702
+    },
     {
       "source": "dailyrepublic.com",
       "n": 2,
       "avg_tone": -1.081
     },
     {
-      "source": "themarketsdaily.com",
-      "n": 2,
-      "avg_tone": 2.535
-    },
-    {
-      "source": "hamhigh.co.uk",
-      "n": 1,
-      "avg_tone": -1.475
-    },
-    {
-      "source": "bignewsnetwork.com",
-      "n": 1,
-      "avg_tone": -1.596
-    },
-    {
-      "source": "tennesseedaily.com",
+      "source": "birminghamstar.com",
       "n": 1,
       "avg_tone": -1.6
     },
     {
-      "source": "thewestonmercury.co.uk",
+      "source": "northwalespioneer.co.uk",
       "n": 1,
       "avg_tone": -1.475
     },
     {
-      "source": "sydneysun.com",
+      "source": "australiannews.net",
       "n": 1,
       "avg_tone": -1.6
     },
     {
-      "source": "dunfermlinepress.com",
+      "source": "livemint.com",
       "n": 1,
-      "avg_tone": -1.475
+      "avg_tone": 0.8
     },
     {
-      "source": "impartialreporter.com",
-      "n": 1,
-      "avg_tone": -1.475
-    },
-    {
-      "source": "nepalnational.com",
+      "source": "pittsburghstar.com",
       "n": 1,
       "avg_tone": -1.6
     },
     {
-      "source": "hongkongherald.com",
+      "source": "asiabulletin.com",
       "n": 1,
       "avg_tone": -1.6
     },
     {
-      "source": "darlingtonandstocktontimes.co.uk",
+      "source": "ohiostandard.com",
+      "n": 1,
+      "avg_tone": -1.6
+    },
+    {
+      "source": "theguardian.com",
+      "n": 1,
+      "avg_tone": -2.594
+    },
+    {
+      "source": "cotswoldjournal.co.uk",
       "n": 1,
       "avg_tone": -1.475
     },
     {
-      "source": "thepeninsulaqatar.com",
+      "source": "sanantoniopost.com",
       "n": 1,
-      "avg_tone": 1.018
-    },
-    {
-      "source": "newsandstar.co.uk",
-      "n": 1,
-      "avg_tone": -1.475
-    },
-    {
-      "source": "slguardian.org",
-      "n": 1,
-      "avg_tone": -4.241
+      "avg_tone": -1.6
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 438
+      "n": 362
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 405
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 227
-    },
-    {
-      "theme": "LEADER",
-      "n": 179
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 179
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 177
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 147
-    },
-    {
-      "theme": "EPU_ECONOMY",
-      "n": 145
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 140
-    },
-    {
-      "theme": "EPU_CATS_TAXES",
-      "n": 134
+      "n": 335
     },
     {
       "theme": "AGRICULTURE",
-      "n": 133
+      "n": 266
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 225
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 220
+    },
+    {
+      "theme": "LEADER",
+      "n": 174
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 172
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 169
+    },
+    {
+      "theme": "EPU_ECONOMY",
+      "n": 117
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 111
     },
     {
       "theme": "TAX_FNCACT_MINISTER",
-      "n": 130
+      "n": 111
     },
     {
       "theme": "TAX_ETHNICITY_AMERICANS",
-      "n": 110
+      "n": 106
+    },
+    {
+      "theme": "EPU_CATS_TAXES",
+      "n": 106
     },
     {
       "theme": "TAX_FNCACT_PRIME_MINISTER",
-      "n": 98
+      "n": 85
     },
     {
-      "theme": "LEGISLATION",
-      "n": 96
+      "theme": "EPU_CATS_TRADE_POLICY",
+      "n": 79
     }
   ]
 }
