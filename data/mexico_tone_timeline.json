@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-23T22:45:03.870355+00:00",
-  "rows_total_scanned_last_run": 2027,
-  "rows_mexico_last_run": 43,
-  "overall_avg_tone_4h": -1.578,
+  "generated_at": "2026-08-23T22:59:26.375597+00:00",
+  "rows_total_scanned_last_run": 1937,
+  "rows_mexico_last_run": 50,
+  "overall_avg_tone_4h": -1.564,
   "timeline": [
-    {
-      "time": "2026-08-20T22:45",
-      "avg_tone": 0.011,
-      "n_articles": 32
-    },
     {
       "time": "2026-08-20T23:00",
       "avg_tone": -1.273,
@@ -1388,9 +1383,29 @@
       "time": "2026-08-23T22:45",
       "avg_tone": -0.508,
       "n_articles": 9
+    },
+    {
+      "time": "2026-08-23T23:00",
+      "avg_tone": -1.288,
+      "n_articles": 19
     }
   ],
   "top_sources": [
+    {
+      "source": "japanherald.com",
+      "n": 2,
+      "avg_tone": -1.537
+    },
+    {
+      "source": "latintimes.com",
+      "n": 2,
+      "avg_tone": -4.256
+    },
+    {
+      "source": "el-balad.com",
+      "n": 2,
+      "avg_tone": 0.111
+    },
     {
       "source": "chinanationalnews.com",
       "n": 2,
@@ -1407,126 +1422,111 @@
       "avg_tone": -1.537
     },
     {
-      "source": "vice.com",
-      "n": 1,
-      "avg_tone": -1.163
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 4.545
-    },
-    {
-      "source": "summitdaily.com",
-      "n": 1,
-      "avg_tone": -1.933
-    },
-    {
-      "source": "wrestlinginc.com",
-      "n": 1,
-      "avg_tone": 1.031
-    },
-    {
-      "source": "union-bulletin.com",
-      "n": 1,
-      "avg_tone": -3.138
-    },
-    {
-      "source": "fox26houston.com",
-      "n": 1,
-      "avg_tone": -1.958
-    },
-    {
-      "source": "oilprice.com",
-      "n": 1,
-      "avg_tone": -0.437
-    },
-    {
-      "source": "eastcountymagazine.org",
-      "n": 1,
-      "avg_tone": -0.116
-    },
-    {
-      "source": "nzcity.co.nz",
-      "n": 1,
-      "avg_tone": -1.4
-    },
-    {
-      "source": "wpxi.com",
-      "n": 1,
-      "avg_tone": -4.439
-    },
-    {
-      "source": "clickondetroit.com",
+      "source": "wsls.com",
       "n": 1,
       "avg_tone": -4.147
     },
     {
-      "source": "cubaheadlines.com",
+      "source": "lewistownsentinel.com",
       "n": 1,
-      "avg_tone": 2.62
+      "avg_tone": 2.426
+    },
+    {
+      "source": "calcuttanews.net",
+      "n": 1,
+      "avg_tone": -1.114
+    },
+    {
+      "source": "winknews.com",
+      "n": 1,
+      "avg_tone": -4.308
+    },
+    {
+      "source": "hngn.com",
+      "n": 1,
+      "avg_tone": -3.488
+    },
+    {
+      "source": "yahoo.com",
+      "n": 1,
+      "avg_tone": -0.235
+    },
+    {
+      "source": "howtogeek.com",
+      "n": 1,
+      "avg_tone": -0.618
+    },
+    {
+      "source": "theshorthorn.com",
+      "n": 1,
+      "avg_tone": 3.383
+    },
+    {
+      "source": "mexicostar.com",
+      "n": 1,
+      "avg_tone": -1.114
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 141
+      "n": 133
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 106
+      "n": 111
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 84
+      "n": 85
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 82
-    },
-    {
-      "theme": "NEGOTIATIONS",
-      "n": 78
-    },
-    {
-      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 78
-    },
-    {
-      "theme": "WB_939_NEGOTIATION",
-      "n": 78
+      "n": 84
     },
     {
       "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 78
+      "n": 77
+    },
+    {
+      "theme": "NEGOTIATIONS",
+      "n": 75
+    },
+    {
+      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
+      "n": 75
+    },
+    {
+      "theme": "WB_939_NEGOTIATION",
+      "n": 75
     },
     {
       "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 78
+      "n": 75
     },
     {
       "theme": "WB_843_DISPUTE_RESOLUTION",
-      "n": 78
+      "n": 75
     },
     {
       "theme": "WB_2471_PEACEKEEPING",
-      "n": 78
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 60
-    },
-    {
-      "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 57
+      "n": 75
     },
     {
       "theme": "WB_137_WATER",
-      "n": 52
+      "n": 66
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 63
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 48
+      "n": 55
+    },
+    {
+      "theme": "LEADER",
+      "n": 52
     }
   ]
 }
