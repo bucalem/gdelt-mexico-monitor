@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-23T18:54:19.507935+00:00",
-  "rows_total_scanned_last_run": 2463,
-  "rows_mexico_last_run": 45,
-  "overall_avg_tone_4h": -0.593,
+  "generated_at": "2026-08-23T19:15:44.070267+00:00",
+  "rows_total_scanned_last_run": 2345,
+  "rows_mexico_last_run": 49,
+  "overall_avg_tone_4h": -0.578,
   "timeline": [
-    {
-      "time": "2026-08-20T19:00",
-      "avg_tone": 0.061,
-      "n_articles": 24
-    },
     {
       "time": "2026-08-20T19:15",
       "avg_tone": 1.026,
@@ -1388,13 +1383,23 @@
       "time": "2026-08-23T19:00",
       "avg_tone": -1.383,
       "n_articles": 13
+    },
+    {
+      "time": "2026-08-23T19:15",
+      "avg_tone": -1.21,
+      "n_articles": 14
     }
   ],
   "top_sources": [
     {
       "source": "yahoo.com",
+      "n": 4,
+      "avg_tone": -2.395
+    },
+    {
+      "source": "taosnews.com",
       "n": 3,
-      "avg_tone": -1.591
+      "avg_tone": -2.577
     },
     {
       "source": "tickerreport.com",
@@ -1412,121 +1417,116 @@
       "avg_tone": -3.301
     },
     {
-      "source": "wkms.org",
+      "source": "wpsu.org",
       "n": 1,
       "avg_tone": -1.457
     },
     {
-      "source": "wnyc.org",
-      "n": 1,
-      "avg_tone": -1.631
-    },
-    {
-      "source": "housingwire.com",
-      "n": 1,
-      "avg_tone": -0.609
-    },
-    {
-      "source": "nzherald.co.nz",
-      "n": 1,
-      "avg_tone": -1.101
-    },
-    {
-      "source": "wxpr.org",
+      "source": "kzyx.org",
       "n": 1,
       "avg_tone": -1.457
     },
     {
-      "source": "emporiagazette.com",
-      "n": 1,
-      "avg_tone": 2.564
-    },
-    {
-      "source": "wuky.org",
+      "source": "wamc.org",
       "n": 1,
       "avg_tone": -1.457
     },
     {
-      "source": "wvik.org",
+      "source": "idahostatejournal.com",
+      "n": 1,
+      "avg_tone": -4.439
+    },
+    {
+      "source": "kcbx.org",
       "n": 1,
       "avg_tone": -1.457
     },
     {
-      "source": "jonathanturley.org",
-      "n": 1,
-      "avg_tone": -3.444
-    },
-    {
-      "source": "deadline.com",
-      "n": 1,
-      "avg_tone": -1.427
-    },
-    {
-      "source": "krvs.org",
+      "source": "wyomingpublicmedia.org",
       "n": 1,
       "avg_tone": -1.457
+    },
+    {
+      "source": "kenw.org",
+      "n": 1,
+      "avg_tone": -1.457
+    },
+    {
+      "source": "torontotelegraph.com",
+      "n": 1,
+      "avg_tone": 2.76
+    },
+    {
+      "source": "braintreeandwithamtimes.co.uk",
+      "n": 1,
+      "avg_tone": 6.019
+    },
+    {
+      "source": "ksnblocal4.com",
+      "n": 1,
+      "avg_tone": 0.0
     }
   ],
   "top_themes": [
     {
-      "theme": "LEADER",
-      "n": 280
-    },
-    {
       "theme": "MEDICAL",
-      "n": 261
+      "n": 315
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 260
+      "n": 314
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 253
+      "theme": "LEADER",
+      "n": 281
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 252
+      "n": 256
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 250
     },
     {
       "theme": "TAX_FNCACT_SECRETARY",
-      "n": 75
+      "n": 92
     },
     {
       "theme": "EDUCATION",
-      "n": 62
+      "n": 60
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 38
+      "n": 52
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 28
+      "n": 40
     },
     {
       "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 26
+      "n": 40
     },
     {
       "theme": "WB_2837_IMMIGRATION",
-      "n": 26
+      "n": 40
     },
     {
       "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 26
-    },
-    {
-      "theme": "TAX_FNCACT_CHEF",
-      "n": 26
+      "n": 40
     },
     {
       "theme": "IMMIGRATION",
-      "n": 25
+      "n": 39
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 22
+      "n": 36
+    },
+    {
+      "theme": "TAX_ETHNICITY_NAVAJO",
+      "n": 27
     }
   ]
 }
