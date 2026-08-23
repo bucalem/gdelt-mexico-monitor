@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-23T05:30:24.433412+00:00",
-  "rows_total_scanned_last_run": 1709,
-  "rows_mexico_last_run": 29,
+  "generated_at": "2026-08-23T05:59:51.320293+00:00",
+  "rows_total_scanned_last_run": 905,
+  "rows_mexico_last_run": 16,
   "overall_avg_tone_4h": -0.783,
   "timeline": [
-    {
-      "time": "2026-08-20T05:30",
-      "avg_tone": 0.379,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-20T05:45",
-      "avg_tone": -1.814,
-      "n_articles": 8
-    },
     {
       "time": "2026-08-20T06:00",
       "avg_tone": -0.188,
@@ -1392,16 +1382,6 @@
   ],
   "top_sources": [
     {
-      "source": "arkansasonline.com",
-      "n": 4,
-      "avg_tone": -1.163
-    },
-    {
-      "source": "indiatimes.com",
-      "n": 3,
-      "avg_tone": -1.809
-    },
-    {
       "source": "faribaultcountyregister.com",
       "n": 2,
       "avg_tone": -1.888
@@ -1437,6 +1417,11 @@
       "avg_tone": 0.796
     },
     {
+      "source": "indiatimes.com",
+      "n": 1,
+      "avg_tone": 0.473
+    },
+    {
       "source": "wakingthered.com",
       "n": 1,
       "avg_tone": 0.242
@@ -1465,68 +1450,73 @@
       "source": "openthemagazine.com",
       "n": 1,
       "avg_tone": -5.696
+    },
+    {
+      "source": "russiaherald.com",
+      "n": 1,
+      "avg_tone": -0.744
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 46
+      "n": 32
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 37
-    },
-    {
-      "theme": "MEDICAL",
       "n": 29
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 28
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 23
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 21
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 21
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 20
     },
     {
       "theme": "WB_137_WATER",
       "n": 19
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 18
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 18
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
+      "theme": "TAX_ETHNICITY_CANADIAN",
       "n": 17
     },
     {
-      "theme": "EPU_ECONOMY",
-      "n": 16
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 14
     },
     {
-      "theme": "LEADER",
-      "n": 16
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 13
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 12
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 12
+    },
+    {
+      "theme": "TAX_FNCACT_CLOWN",
+      "n": 12
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 10
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 10
+    },
+    {
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 10
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 16
+      "n": 10
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 10
+    },
+    {
+      "theme": "SOC_GENERALCRIME",
+      "n": 10
     }
   ]
 }
