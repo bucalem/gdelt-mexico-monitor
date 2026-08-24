@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-24T19:51:41.852442+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -1.636,
+  "generated_at": "2026-08-24T20:19:18.100700+00:00",
+  "rows_total_scanned_last_run": 4420,
+  "rows_mexico_last_run": 77,
+  "overall_avg_tone_4h": -1.742,
   "timeline": [
-    {
-      "time": "2026-08-21T20:00",
-      "avg_tone": 0.843,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-08-21T20:15",
-      "avg_tone": 0.136,
-      "n_articles": 21
-    },
     {
       "time": "2026-08-21T20:30",
       "avg_tone": -0.28,
@@ -1348,8 +1338,160 @@
       "time": "2026-08-24T19:00",
       "avg_tone": -1.541,
       "n_articles": 32
+    },
+    {
+      "time": "2026-08-24T19:30",
+      "avg_tone": -1.685,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-08-24T19:45",
+      "avg_tone": -3.351,
+      "n_articles": 29
+    },
+    {
+      "time": "2026-08-24T20:00",
+      "avg_tone": -2.577,
+      "n_articles": 25
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "cubaheadlines.com",
+      "n": 6,
+      "avg_tone": -1.63
+    },
+    {
+      "source": "movieweb.com",
+      "n": 2,
+      "avg_tone": -2.957
+    },
+    {
+      "source": "news4sanantonio.com",
+      "n": 2,
+      "avg_tone": -3.569
+    },
+    {
+      "source": "bnnbloomberg.ca",
+      "n": 2,
+      "avg_tone": -3.345
+    },
+    {
+      "source": "thepeterboroughexaminer.com",
+      "n": 2,
+      "avg_tone": 0.17
+    },
+    {
+      "source": "midutahradio.com",
+      "n": 2,
+      "avg_tone": -2.74
+    },
+    {
+      "source": "nbcsandiego.com",
+      "n": 1,
+      "avg_tone": -2.945
+    },
+    {
+      "source": "albuquerqueexpress.com",
+      "n": 1,
+      "avg_tone": -4.217
+    },
+    {
+      "source": "kutx.org",
+      "n": 1,
+      "avg_tone": 2.351
+    },
+    {
+      "source": "businessinsider.com",
+      "n": 1,
+      "avg_tone": -3.168
+    },
+    {
+      "source": "townhall.com",
+      "n": 1,
+      "avg_tone": -0.31
+    },
+    {
+      "source": "comingsoon.net",
+      "n": 1,
+      "avg_tone": -2.108
+    },
+    {
+      "source": "postregister.com",
+      "n": 1,
+      "avg_tone": -0.358
+    },
+    {
+      "source": "wach.com",
+      "n": 1,
+      "avg_tone": -8.173
+    },
+    {
+      "source": "taiwansun.com",
+      "n": 1,
+      "avg_tone": -4.217
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "WB_698_TRADE",
+      "n": 166
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 129
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 121
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 113
+    },
+    {
+      "theme": "LEADER",
+      "n": 109
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 88
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 78
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 75
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 73
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 72
+    },
+    {
+      "theme": "BORDER",
+      "n": 70
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 69
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 64
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 61
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 57
+    }
+  ]
 }
