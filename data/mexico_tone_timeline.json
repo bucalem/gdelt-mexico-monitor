@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-24T10:51:09.822878+00:00",
-  "rows_total_scanned_last_run": 3645,
-  "rows_mexico_last_run": 101,
-  "overall_avg_tone_4h": 1.0,
+  "generated_at": "2026-08-24T11:18:31.512260+00:00",
+  "rows_total_scanned_last_run": 4021,
+  "rows_mexico_last_run": 111,
+  "overall_avg_tone_4h": 1.109,
   "timeline": [
-    {
-      "time": "2026-08-21T11:00",
-      "avg_tone": -0.165,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-08-21T11:15",
-      "avg_tone": -1.4,
-      "n_articles": 9
-    },
     {
       "time": "2026-08-21T11:30",
       "avg_tone": 1.967,
@@ -1373,6 +1363,11 @@
       "time": "2026-08-24T11:00",
       "avg_tone": 1.289,
       "n_articles": 26
+    },
+    {
+      "time": "2026-08-24T11:15",
+      "avg_tone": 2.06,
+      "n_articles": 26
     }
   ],
   "top_sources": [
@@ -1392,126 +1387,126 @@
       "avg_tone": 4.426
     },
     {
-      "source": "bracknellnews.co.uk",
-      "n": 2,
-      "avg_tone": 4.426
-    },
-    {
-      "source": "salisburyjournal.co.uk",
+      "source": "archdaily.com",
       "n": 1,
-      "avg_tone": 4.429
+      "avg_tone": 2.985
     },
     {
-      "source": "nigeriasun.com",
+      "source": "975wabd.com",
+      "n": 1,
+      "avg_tone": 4.938
+    },
+    {
+      "source": "aninews.in",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "hongkongherald.com",
       "n": 1,
       "avg_tone": -4.054
     },
     {
-      "source": "ealingtimes.co.uk",
+      "source": "zerohedge.com",
+      "n": 1,
+      "avg_tone": -0.202
+    },
+    {
+      "source": "cashboxcanada.ca",
+      "n": 1,
+      "avg_tone": 3.944
+    },
+    {
+      "source": "cotswoldjournal.co.uk",
       "n": 1,
       "avg_tone": 4.429
     },
     {
-      "source": "wimbledonguardian.co.uk",
+      "source": "darlingtonandstocktontimes.co.uk",
       "n": 1,
       "avg_tone": 4.429
     },
     {
-      "source": "aol.com",
+      "source": "rutland-times.co.uk",
       "n": 1,
-      "avg_tone": -0.442
+      "avg_tone": 4.417
     },
     {
-      "source": "irvinetimes.com",
+      "source": "thestarphoenix.com",
       "n": 1,
-      "avg_tone": 4.429
+      "avg_tone": 2.685
     },
     {
-      "source": "northwalespioneer.co.uk",
-      "n": 1,
-      "avg_tone": 4.429
-    },
-    {
-      "source": "cbsnews.com",
-      "n": 1,
-      "avg_tone": -9.073
-    },
-    {
-      "source": "thetelegraphandargus.co.uk",
-      "n": 1,
-      "avg_tone": 4.429
-    },
-    {
-      "source": "richmondandtwickenhamtimes.co.uk",
-      "n": 1,
-      "avg_tone": 4.429
-    },
-    {
-      "source": "93q.com",
+      "source": "975thevibe.com",
       "n": 1,
       "avg_tone": 4.938
+    },
+    {
+      "source": "times-series.co.uk",
+      "n": 1,
+      "avg_tone": 4.429
     }
   ],
   "top_themes": [
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 157
+      "n": 160
     },
     {
       "theme": "TAX_DISEASE_DIABETES",
-      "n": 156
+      "n": 141
     },
     {
       "theme": "TAX_CHRONICDISEASE_DIABETES",
-      "n": 156
+      "n": 141
     },
     {
       "theme": "WB_1433_DIABETES",
-      "n": 156
+      "n": 141
     },
     {
       "theme": "KILL",
-      "n": 143
+      "n": 132
     },
     {
       "theme": "CRISISLEX_T03_DEAD",
-      "n": 138
+      "n": 127
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 114
+      "n": 121
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 92
+      "n": 101
     },
     {
       "theme": "WB_1331_HEALTH_TECHNOLOGIES",
-      "n": 88
+      "n": 95
     },
     {
       "theme": "WB_1350_PHARMACEUTICALS",
-      "n": 88
-    },
-    {
-      "theme": "WB_2453_ORGANIZED_CRIME",
-      "n": 87
+      "n": 95
     },
     {
       "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 87
+      "n": 95
+    },
+    {
+      "theme": "WB_2453_ORGANIZED_CRIME",
+      "n": 94
     },
     {
       "theme": "WB_2456_DRUGS_AND_NARCOTICS",
+      "n": 94
+    },
+    {
+      "theme": "DRUG_TRADE",
       "n": 87
     },
     {
       "theme": "ARMEDCONFLICT",
-      "n": 82
-    },
-    {
-      "theme": "DRUG_TRADE",
-      "n": 80
+      "n": 83
     }
   ]
 }
