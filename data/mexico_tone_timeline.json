@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-24T20:55:50.880000+00:00",
-  "rows_total_scanned_last_run": 5812,
-  "rows_mexico_last_run": 89,
-  "overall_avg_tone_4h": -1.879,
+  "generated_at": "2026-08-24T21:21:30.060638+00:00",
+  "rows_total_scanned_last_run": 5693,
+  "rows_mexico_last_run": 102,
+  "overall_avg_tone_4h": -1.884,
   "timeline": [
-    {
-      "time": "2026-08-21T21:00",
-      "avg_tone": -0.151,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-08-21T21:15",
-      "avg_tone": -1.388,
-      "n_articles": 14
-    },
     {
       "time": "2026-08-21T21:30",
       "avg_tone": -1.327,
@@ -1363,13 +1353,48 @@
       "time": "2026-08-24T21:00",
       "avg_tone": -2.396,
       "n_articles": 15
+    },
+    {
+      "time": "2026-08-24T21:15",
+      "avg_tone": -0.382,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-08-24T21:30",
+      "avg_tone": -1.709,
+      "n_articles": 38
     }
   ],
   "top_sources": [
     {
       "source": "yahoo.com",
       "n": 3,
-      "avg_tone": -2.408
+      "avg_tone": -1.084
+    },
+    {
+      "source": "hawaiitelegraph.com",
+      "n": 2,
+      "avg_tone": 1.852
+    },
+    {
+      "source": "nbcmiami.com",
+      "n": 2,
+      "avg_tone": -4.229
+    },
+    {
+      "source": "abqjournal.com",
+      "n": 2,
+      "avg_tone": -2.049
+    },
+    {
+      "source": "newjerseytelegraph.com",
+      "n": 2,
+      "avg_tone": 1.852
+    },
+    {
+      "source": "riotimesonline.com",
+      "n": 2,
+      "avg_tone": 0.641
     },
     {
       "source": "gillettenewsrecord.com",
@@ -1392,116 +1417,91 @@
       "avg_tone": -2.754
     },
     {
-      "source": "haitisun.com",
-      "n": 2,
-      "avg_tone": -2.108
+      "source": "theitem.com",
+      "n": 1,
+      "avg_tone": -6.636
     },
     {
-      "source": "taosnews.com",
-      "n": 2,
-      "avg_tone": 1.2
+      "source": "hindustantimes.com",
+      "n": 1,
+      "avg_tone": -5.026
     },
     {
-      "source": "bangladeshsun.com",
+      "source": "memphissun.com",
       "n": 1,
       "avg_tone": -4.217
     },
     {
-      "source": "klkntv.com",
+      "source": "whtc.com",
       "n": 1,
-      "avg_tone": -6.695
+      "avg_tone": -3.078
     },
     {
-      "source": "massachusettssun.com",
+      "source": "kesq.com",
       "n": 1,
-      "avg_tone": -4.217
-    },
-    {
-      "source": "kbtx.com",
-      "n": 1,
-      "avg_tone": -6.142
-    },
-    {
-      "source": "wsfl.com",
-      "n": 1,
-      "avg_tone": -2.222
-    },
-    {
-      "source": "longislandpress.com",
-      "n": 1,
-      "avg_tone": -6.383
-    },
-    {
-      "source": "krwg.org",
-      "n": 1,
-      "avg_tone": 1.255
-    },
-    {
-      "source": "prnewswire.com",
-      "n": 1,
-      "avg_tone": 0.749
+      "avg_tone": 0.685
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 236
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 208
-    },
-    {
       "theme": "LEADER",
-      "n": 147
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 125
+      "n": 410
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 118
+      "n": 405
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 114
+      "n": 403
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 100
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 200
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 95
+      "theme": "WB_698_TRADE",
+      "n": 199
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 88
-    },
-    {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 86
-    },
-    {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 84
-    },
-    {
-      "theme": "TAX_FNCACT_CONDUCTOR",
-      "n": 82
+      "theme": "ARMEDCONFLICT",
+      "n": 147
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 77
+      "n": 133
+    },
+    {
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 130
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 128
+    },
+    {
+      "theme": "TAX_FNCACT_CONDUCTOR",
+      "n": 123
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 118
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 116
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 114
     },
     {
       "theme": "NATURAL_DISASTER_EARTHQUAKE",
-      "n": 76
+      "n": 114
     },
     {
       "theme": "TAX_FNCACT_PHOTOGRAPHER",
-      "n": 75
+      "n": 111
     }
   ]
 }
