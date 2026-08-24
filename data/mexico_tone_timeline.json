@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-24T22:50:14.910529+00:00",
-  "rows_total_scanned_last_run": 5057,
-  "rows_mexico_last_run": 102,
+  "generated_at": "2026-08-24T23:15:16.084696+00:00",
+  "rows_total_scanned_last_run": 1238,
+  "rows_mexico_last_run": 30,
   "overall_avg_tone_4h": -1.975,
   "timeline": [
-    {
-      "time": "2026-08-21T23:00",
-      "avg_tone": -0.692,
-      "n_articles": 19
-    },
     {
       "time": "2026-08-21T23:15",
       "avg_tone": 0.36,
@@ -1367,26 +1362,6 @@
   ],
   "top_sources": [
     {
-      "source": "yahoo.com",
-      "n": 3,
-      "avg_tone": -3.255
-    },
-    {
-      "source": "manilatimes.net",
-      "n": 2,
-      "avg_tone": -0.124
-    },
-    {
-      "source": "theglobeandmail.com",
-      "n": 2,
-      "avg_tone": -2.006
-    },
-    {
-      "source": "independent.co.uk",
-      "n": 2,
-      "avg_tone": -1.932
-    },
-    {
       "source": "connectradio.fm",
       "n": 2,
       "avg_tone": -3.144
@@ -1402,106 +1377,126 @@
       "avg_tone": -1.217
     },
     {
-      "source": "abc7amarillo.com",
-      "n": 2,
-      "avg_tone": -2.393
-    },
-    {
-      "source": "finanznachrichten.de",
-      "n": 2,
-      "avg_tone": 2.105
-    },
-    {
-      "source": "knue.com",
+      "source": "chinanationalnews.com",
       "n": 1,
-      "avg_tone": 3.258
+      "avg_tone": -4.217
     },
     {
-      "source": "kmbc.com",
+      "source": "londonmercury.com",
+      "n": 1,
+      "avg_tone": -4.217
+    },
+    {
+      "source": "thestarphoenix.com",
+      "n": 1,
+      "avg_tone": -0.332
+    },
+    {
+      "source": "hometownregister.com",
+      "n": 1,
+      "avg_tone": 1.554
+    },
+    {
+      "source": "wrestlezone.com",
+      "n": 1,
+      "avg_tone": 1.401
+    },
+    {
+      "source": "kekbfm.com",
+      "n": 1,
+      "avg_tone": 0.282
+    },
+    {
+      "source": "castanetkamloops.net",
+      "n": 1,
+      "avg_tone": -0.52
+    },
+    {
+      "source": "rockpapershotgun.com",
+      "n": 1,
+      "avg_tone": -1.923
+    },
+    {
+      "source": "fox10tv.com",
+      "n": 1,
+      "avg_tone": -0.75
+    },
+    {
+      "source": "wlwt.com",
       "n": 1,
       "avg_tone": -1.538
     },
     {
-      "source": "reason.com",
+      "source": "pentictonherald.ca",
       "n": 1,
-      "avg_tone": -0.533
+      "avg_tone": -1.462
     },
     {
-      "source": "wlj.net",
+      "source": "southcarolinapublicradio.org",
       "n": 1,
-      "avg_tone": -0.947
-    },
-    {
-      "source": "truthout.org",
-      "n": 1,
-      "avg_tone": -8.875
-    },
-    {
-      "source": "mainlinemedianews.com",
-      "n": 1,
-      "avg_tone": -3.158
+      "avg_tone": -9.589
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_698_TRADE",
-      "n": 202
-    },
-    {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 149
+      "n": 53
     },
     {
-      "theme": "LEADER",
-      "n": 136
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 118
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 111
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 106
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 104
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 103
+      "theme": "WB_698_TRADE",
+      "n": 53
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 102
+      "n": 39
     },
     {
-      "theme": "AGRICULTURE",
-      "n": 98
+      "theme": "TAX_ECON_PRICE",
+      "n": 39
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 36
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 33
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 84
+      "n": 31
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 30
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 29
+    },
+    {
+      "theme": "LEADER",
+      "n": 27
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 79
+      "n": 27
     },
     {
-      "theme": "ARMEDCONFLICT",
-      "n": 78
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 27
     },
     {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 75
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 26
     },
     {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 75
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 25
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 23
     }
   ]
 }
