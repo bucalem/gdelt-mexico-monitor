@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-24T02:35:59.994018+00:00",
-  "rows_total_scanned_last_run": 971,
-  "rows_mexico_last_run": 8,
-  "overall_avg_tone_4h": -1.501,
+  "generated_at": "2026-08-24T03:36:18.329712+00:00",
+  "rows_total_scanned_last_run": 1420,
+  "rows_mexico_last_run": 12,
+  "overall_avg_tone_4h": -1.457,
   "timeline": [
-    {
-      "time": "2026-08-21T02:45",
-      "avg_tone": -1.489,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-08-21T03:00",
-      "avg_tone": -2.343,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-21T03:15",
-      "avg_tone": -0.804,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-21T03:30",
-      "avg_tone": 0.842,
-      "n_articles": 2
-    },
     {
       "time": "2026-08-21T03:45",
       "avg_tone": -1.599,
@@ -1378,104 +1358,144 @@
       "time": "2026-08-24T02:45",
       "avg_tone": -2.694,
       "n_articles": 3
+    },
+    {
+      "time": "2026-08-24T03:15",
+      "avg_tone": -2.319,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-08-24T03:30",
+      "avg_tone": -4.036,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-08-24T03:45",
+      "avg_tone": -0.667,
+      "n_articles": 4
     }
   ],
   "top_sources": [
     {
-      "source": "santamariatimes.com",
-      "n": 2,
-      "avg_tone": -3.103
+      "source": "reflector.com",
+      "n": 1,
+      "avg_tone": -3.909
     },
     {
-      "source": "yakimaherald.com",
+      "source": "sandiegouniontribune.com",
       "n": 1,
-      "avg_tone": -3.973
+      "avg_tone": 3.42
     },
     {
-      "source": "oed.com",
+      "source": "newhamburgindependent.ca",
       "n": 1,
-      "avg_tone": -0.353
+      "avg_tone": 1.74
     },
     {
-      "source": "local10.com",
+      "source": "bozemandailychronicle.com",
       "n": 1,
-      "avg_tone": -3.755
+      "avg_tone": -3.918
     },
     {
-      "source": "jns.org",
+      "source": "rockymounttelegram.com",
       "n": 1,
-      "avg_tone": -9.32
+      "avg_tone": -3.909
     },
     {
-      "source": "zerohedge.com",
+      "source": "theyeshivaworld.com",
       "n": 1,
-      "avg_tone": -3.081
+      "avg_tone": -4.328
     },
     {
-      "source": "forbes.com",
+      "source": "cdapress.com",
       "n": 1,
-      "avg_tone": -2.189
+      "avg_tone": -3.87
+    },
+    {
+      "source": "actionnewsjax.com",
+      "n": 1,
+      "avg_tone": -8.0
+    },
+    {
+      "source": "pymnts.com",
+      "n": 1,
+      "avg_tone": 0.8
+    },
+    {
+      "source": "montrealgazette.com",
+      "n": 1,
+      "avg_tone": -3.353
+    },
+    {
+      "source": "turnto23.com",
+      "n": 1,
+      "avg_tone": 2.869
+    },
+    {
+      "source": "fox10tv.com",
+      "n": 1,
+      "avg_tone": -3.909
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_137_WATER",
-      "n": 63
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 40
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 32
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 17
+    },
+    {
+      "theme": "NATURAL_DISASTER_TROPICAL_STORM",
+      "n": 15
+    },
+    {
+      "theme": "NATURAL_DISASTER_MUDSLIDES",
+      "n": 10
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 10
+    },
+    {
+      "theme": "NATURAL_DISASTER_SUSTAINED_WINDS",
+      "n": 10
+    },
+    {
+      "theme": "TAX_ETHNICITY_LARIS",
+      "n": 9
     },
     {
       "theme": "LEADER",
-      "n": 20
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 18
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 16
-    },
-    {
-      "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 16
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 13
-    },
-    {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 13
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 13
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 11
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
       "n": 8
     },
     {
-      "theme": "EPU_ECONOMY",
+      "theme": "MEDIA_SOCIAL",
       "n": 7
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
       "n": 7
     },
     {
-      "theme": "WB_845_LEGAL_AND_REGULATORY_FRAMEWORK",
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 7
+    },
+    {
+      "theme": "WB_652_ICT_APPLICATIONS",
       "n": 6
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "theme": "WB_662_SOCIAL_MEDIA",
+      "n": 6
+    },
+    {
+      "theme": "WB_658_ENTERPRISE_APPLICATIONS",
+      "n": 6
+    },
+    {
+      "theme": "TAX_FNCACT_MAYOR",
       "n": 6
     }
   ]
