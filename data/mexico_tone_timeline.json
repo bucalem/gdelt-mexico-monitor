@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-24T11:18:31.512260+00:00",
-  "rows_total_scanned_last_run": 4021,
-  "rows_mexico_last_run": 111,
-  "overall_avg_tone_4h": 1.109,
+  "generated_at": "2026-08-24T11:50:31.293211+00:00",
+  "rows_total_scanned_last_run": 4321,
+  "rows_mexico_last_run": 94,
+  "overall_avg_tone_4h": 1.234,
   "timeline": [
-    {
-      "time": "2026-08-21T11:30",
-      "avg_tone": 1.967,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-08-21T11:45",
-      "avg_tone": 0.611,
-      "n_articles": 5
-    },
     {
       "time": "2026-08-21T12:00",
       "avg_tone": -0.819,
@@ -1368,6 +1358,16 @@
       "time": "2026-08-24T11:15",
       "avg_tone": 2.06,
       "n_articles": 26
+    },
+    {
+      "time": "2026-08-24T11:30",
+      "avg_tone": 2.952,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-08-24T11:45",
+      "avg_tone": 0.439,
+      "n_articles": 24
     }
   ],
   "top_sources": [
@@ -1377,136 +1377,136 @@
       "avg_tone": -2.199
     },
     {
-      "source": "aol.co.uk",
-      "n": 2,
-      "avg_tone": 4.22
-    },
-    {
-      "source": "sloughobserver.co.uk",
-      "n": 2,
-      "avg_tone": 4.426
-    },
-    {
-      "source": "archdaily.com",
+      "source": "boredpanda.com",
       "n": 1,
-      "avg_tone": 2.985
+      "avg_tone": 0.81
     },
     {
-      "source": "975wabd.com",
+      "source": "samaa.tv",
+      "n": 1,
+      "avg_tone": 1.58
+    },
+    {
+      "source": "countytimes.co.uk",
+      "n": 1,
+      "avg_tone": 4.429
+    },
+    {
+      "source": "alice1077.com",
       "n": 1,
       "avg_tone": 4.938
     },
     {
-      "source": "aninews.in",
+      "source": "clactonandfrintongazette.co.uk",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": 4.429
     },
     {
-      "source": "hongkongherald.com",
+      "source": "wandsworthguardian.co.uk",
+      "n": 1,
+      "avg_tone": 4.429
+    },
+    {
+      "source": "thewestonmercury.co.uk",
+      "n": 1,
+      "avg_tone": 4.429
+    },
+    {
+      "source": "thailandnews.net",
       "n": 1,
       "avg_tone": -4.054
     },
     {
-      "source": "zerohedge.com",
-      "n": 1,
-      "avg_tone": -0.202
-    },
-    {
-      "source": "cashboxcanada.ca",
-      "n": 1,
-      "avg_tone": 3.944
-    },
-    {
-      "source": "cotswoldjournal.co.uk",
+      "source": "stourbridgenews.co.uk",
       "n": 1,
       "avg_tone": 4.429
     },
     {
-      "source": "darlingtonandstocktontimes.co.uk",
+      "source": "floridastatesman.com",
       "n": 1,
-      "avg_tone": 4.429
+      "avg_tone": -4.054
     },
     {
-      "source": "rutland-times.co.uk",
+      "source": "memphissun.com",
       "n": 1,
-      "avg_tone": 4.417
+      "avg_tone": -4.054
     },
     {
-      "source": "thestarphoenix.com",
+      "source": "iranherald.com",
       "n": 1,
-      "avg_tone": 2.685
+      "avg_tone": -4.054
     },
     {
-      "source": "975thevibe.com",
+      "source": "phoenixherald.com",
       "n": 1,
-      "avg_tone": 4.938
+      "avg_tone": -4.054
     },
     {
-      "source": "times-series.co.uk",
+      "source": "shanghainews.net",
       "n": 1,
-      "avg_tone": 4.429
+      "avg_tone": -4.054
     }
   ],
   "top_themes": [
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 160
+      "n": 116
     },
     {
       "theme": "TAX_DISEASE_DIABETES",
-      "n": 141
+      "n": 102
     },
     {
       "theme": "TAX_CHRONICDISEASE_DIABETES",
-      "n": 141
+      "n": 102
     },
     {
       "theme": "WB_1433_DIABETES",
-      "n": 141
-    },
-    {
-      "theme": "KILL",
-      "n": 132
-    },
-    {
-      "theme": "CRISISLEX_T03_DEAD",
-      "n": 127
+      "n": 102
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 121
+      "n": 91
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 101
-    },
-    {
-      "theme": "WB_1331_HEALTH_TECHNOLOGIES",
-      "n": 95
-    },
-    {
-      "theme": "WB_1350_PHARMACEUTICALS",
-      "n": 95
+      "n": 90
     },
     {
       "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 95
+      "n": 84
+    },
+    {
+      "theme": "WB_1331_HEALTH_TECHNOLOGIES",
+      "n": 80
+    },
+    {
+      "theme": "WB_1350_PHARMACEUTICALS",
+      "n": 80
+    },
+    {
+      "theme": "KILL",
+      "n": 79
+    },
+    {
+      "theme": "LEADER",
+      "n": 79
     },
     {
       "theme": "WB_2453_ORGANIZED_CRIME",
-      "n": 94
+      "n": 79
     },
     {
       "theme": "WB_2456_DRUGS_AND_NARCOTICS",
-      "n": 94
+      "n": 79
     },
     {
       "theme": "DRUG_TRADE",
-      "n": 87
+      "n": 76
     },
     {
-      "theme": "ARMEDCONFLICT",
-      "n": 83
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 75
     }
   ]
 }
