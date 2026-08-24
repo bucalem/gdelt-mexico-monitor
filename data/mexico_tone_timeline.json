@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-24T21:50:55.666793+00:00",
-  "rows_total_scanned_last_run": 5513,
-  "rows_mexico_last_run": 103,
-  "overall_avg_tone_4h": -2.009,
+  "generated_at": "2026-08-24T22:16:22.622946+00:00",
+  "rows_total_scanned_last_run": 5557,
+  "rows_mexico_last_run": 112,
+  "overall_avg_tone_4h": -1.94,
   "timeline": [
-    {
-      "time": "2026-08-21T22:00",
-      "avg_tone": 0.376,
-      "n_articles": 21
-    },
-    {
-      "time": "2026-08-21T22:15",
-      "avg_tone": -0.207,
-      "n_articles": 21
-    },
     {
       "time": "2026-08-21T22:30",
       "avg_tone": 0.908,
@@ -1363,18 +1353,38 @@
       "time": "2026-08-24T22:00",
       "avg_tone": -1.863,
       "n_articles": 20
+    },
+    {
+      "time": "2026-08-24T22:15",
+      "avg_tone": -0.858,
+      "n_articles": 28
     }
   ],
   "top_sources": [
     {
       "source": "yahoo.com",
-      "n": 4,
-      "avg_tone": 1.377
+      "n": 6,
+      "avg_tone": -0.741
     },
     {
       "source": "kvia.com",
       "n": 3,
       "avg_tone": -1.581
+    },
+    {
+      "source": "abc7amarillo.com",
+      "n": 2,
+      "avg_tone": -2.393
+    },
+    {
+      "source": "finanznachrichten.de",
+      "n": 2,
+      "avg_tone": 2.105
+    },
+    {
+      "source": "manilatimes.net",
+      "n": 2,
+      "avg_tone": 4.024
     },
     {
       "source": "chicagotribune.com",
@@ -1402,106 +1412,91 @@
       "avg_tone": -2.049
     },
     {
-      "source": "newjerseytelegraph.com",
-      "n": 2,
-      "avg_tone": 1.852
-    },
-    {
-      "source": "riotimesonline.com",
-      "n": 2,
-      "avg_tone": 0.641
-    },
-    {
-      "source": "mix1043fm.com",
+      "source": "usmagazine.com",
       "n": 1,
-      "avg_tone": 0.282
+      "avg_tone": -5.479
     },
     {
-      "source": "wandtv.com",
+      "source": "columbian.com",
       "n": 1,
-      "avg_tone": -0.342
+      "avg_tone": -9.091
     },
     {
-      "source": "adn.com",
+      "source": "windsorstar.com",
       "n": 1,
-      "avg_tone": -0.339
+      "avg_tone": 1.575
     },
     {
-      "source": "kcbd.com",
+      "source": "cinemablend.com",
       "n": 1,
-      "avg_tone": -4.721
+      "avg_tone": 5.179
     },
     {
-      "source": "ksfr.org",
+      "source": "winnipegfreepress.com",
       "n": 1,
-      "avg_tone": 0.465
-    },
-    {
-      "source": "pressdemocrat.com",
-      "n": 1,
-      "avg_tone": 2.153
+      "avg_tone": -2.446
     }
   ],
   "top_themes": [
     {
-      "theme": "LEADER",
-      "n": 434
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 432
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 419
-    },
-    {
       "theme": "WB_698_TRADE",
-      "n": 233
+      "n": 266
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 233
+      "n": 239
     },
     {
-      "theme": "ARMEDCONFLICT",
-      "n": 142
+      "theme": "LEADER",
+      "n": 228
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 137
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 205
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 136
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 192
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 132
+      "n": 156
     },
     {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 132
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 129
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 153
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 126
+      "n": 131
     },
     {
-      "theme": "TAX_FNCACT_CONDUCTOR",
-      "n": 123
+      "theme": "AGRICULTURE",
+      "n": 131
     },
     {
-      "theme": "NATURAL_DISASTER_EARTHQUAKE",
-      "n": 114
+      "theme": "ARMEDCONFLICT",
+      "n": 130
     },
     {
-      "theme": "TAX_FNCACT_PHOTOGRAPHER",
-      "n": 111
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 127
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 104
+    },
+    {
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 100
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 96
+    },
+    {
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 96
     }
   ]
 }
