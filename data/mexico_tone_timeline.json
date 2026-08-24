@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-24T17:44:22.703354+00:00",
-  "rows_total_scanned_last_run": 6258,
-  "rows_mexico_last_run": 158,
-  "overall_avg_tone_4h": -1.377,
+  "generated_at": "2026-08-24T18:04:33.885912+00:00",
+  "rows_total_scanned_last_run": 6268,
+  "rows_mexico_last_run": 144,
+  "overall_avg_tone_4h": -1.452,
   "timeline": [
-    {
-      "time": "2026-08-21T17:45",
-      "avg_tone": -0.57,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-08-21T18:00",
-      "avg_tone": -0.797,
-      "n_articles": 16
-    },
     {
       "time": "2026-08-21T18:15",
       "avg_tone": -0.688,
@@ -1368,6 +1358,11 @@
       "time": "2026-08-24T17:45",
       "avg_tone": -1.281,
       "n_articles": 41
+    },
+    {
+      "time": "2026-08-24T18:00",
+      "avg_tone": -1.841,
+      "n_articles": 24
     }
   ],
   "top_sources": [
@@ -1382,9 +1377,14 @@
       "avg_tone": 0.05
     },
     {
-      "source": "banderasnews.com",
-      "n": 4,
-      "avg_tone": 5.015
+      "source": "dailyadvance.com",
+      "n": 2,
+      "avg_tone": -3.569
+    },
+    {
+      "source": "goskagit.com",
+      "n": 2,
+      "avg_tone": -2.886
     },
     {
       "source": "collider.com",
@@ -1427,86 +1427,81 @@
       "avg_tone": -2.754
     },
     {
-      "source": "durangoherald.com",
-      "n": 2,
-      "avg_tone": -5.505
-    },
-    {
-      "source": "kvia.com",
-      "n": 2,
-      "avg_tone": -2.723
-    },
-    {
-      "source": "caribbeanherald.com",
+      "source": "kotaradio.com",
       "n": 1,
       "avg_tone": 0.0
     },
     {
-      "source": "nebraska.tv",
+      "source": "cnet.com",
       "n": 1,
-      "avg_tone": -4.0
+      "avg_tone": 2.633
+    },
+    {
+      "source": "guitarworld.com",
+      "n": 1,
+      "avg_tone": 3.793
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 454
+      "n": 400
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 380
+      "n": 352
     },
     {
       "theme": "AGRICULTURE",
-      "n": 261
+      "n": 266
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 260
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 259
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 229
-    },
-    {
-      "theme": "EPU_ECONOMY",
-      "n": 221
+      "n": 247
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 219
+      "n": 242
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 239
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 210
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 214
+      "n": 205
     },
     {
-      "theme": "LEADER",
-      "n": 189
+      "theme": "EPU_ECONOMY",
+      "n": 203
     },
     {
       "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 185
+      "n": 175
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 183
+      "n": 173
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 178
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 172
+      "theme": "LEADER",
+      "n": 168
     },
     {
       "theme": "NEGOTIATIONS",
-      "n": 171
+      "n": 159
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 154
+    },
+    {
+      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
+      "n": 152
     }
   ]
 }
