@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-24T06:37:53.323518+00:00",
-  "rows_total_scanned_last_run": 2646,
-  "rows_mexico_last_run": 15,
-  "overall_avg_tone_4h": -0.906,
+  "generated_at": "2026-08-24T07:43:03.475348+00:00",
+  "rows_total_scanned_last_run": 3165,
+  "rows_mexico_last_run": 33,
+  "overall_avg_tone_4h": -0.383,
   "timeline": [
-    {
-      "time": "2026-08-21T06:45",
-      "avg_tone": -3.607,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-21T07:00",
-      "avg_tone": -3.718,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-21T07:15",
-      "avg_tone": -0.593,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-21T07:30",
-      "avg_tone": -0.312,
-      "n_articles": 10
-    },
     {
       "time": "2026-08-21T07:45",
       "avg_tone": -1.105,
@@ -1373,140 +1353,165 @@
       "time": "2026-08-24T06:45",
       "avg_tone": -1.833,
       "n_articles": 4
+    },
+    {
+      "time": "2026-08-24T07:00",
+      "avg_tone": -2.088,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-08-24T07:15",
+      "avg_tone": 0.568,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-24T07:30",
+      "avg_tone": 0.501,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-08-24T07:45",
+      "avg_tone": -0.347,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
-      "source": "finanznachrichten.de",
+      "source": "riotimesonline.com",
+      "n": 8,
+      "avg_tone": -1.372
+    },
+    {
+      "source": "newsbusters.org",
       "n": 2,
-      "avg_tone": 2.035
+      "avg_tone": -0.25
     },
     {
-      "source": "irishtimes.com",
-      "n": 1,
-      "avg_tone": -2.043
-    },
-    {
-      "source": "newsweek.com",
-      "n": 1,
-      "avg_tone": -0.423
-    },
-    {
-      "source": "citizen.co.za",
-      "n": 1,
-      "avg_tone": -7.216
-    },
-    {
-      "source": "theshillongtimes.com",
-      "n": 1,
-      "avg_tone": 2.35
-    },
-    {
-      "source": "lansing730.com",
-      "n": 1,
-      "avg_tone": -0.493
-    },
-    {
-      "source": "express.co.uk",
-      "n": 1,
-      "avg_tone": 8.426
-    },
-    {
-      "source": "newsday.com",
-      "n": 1,
-      "avg_tone": -3.802
-    },
-    {
-      "source": "timesleaderonline.com",
-      "n": 1,
-      "avg_tone": -2.385
-    },
-    {
-      "source": "am800cklw.com",
+      "source": "cp24.com",
       "n": 1,
       "avg_tone": -0.274
     },
     {
-      "source": "daily-tribune.com",
+      "source": "travelextra.ie",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -2.893
     },
     {
-      "source": "ibtimes.co.uk",
+      "source": "929zzu.com",
       "n": 1,
-      "avg_tone": -5.759
+      "avg_tone": 4.938
     },
     {
-      "source": "cubaheadlines.com",
+      "source": "kfru.com",
       "n": 1,
-      "avg_tone": 0.472
+      "avg_tone": 4.938
     },
     {
-      "source": "hrw.org",
+      "source": "manilatimes.net",
       "n": 1,
-      "avg_tone": -1.878
+      "avg_tone": 0.114
+    },
+    {
+      "source": "insideretail.asia",
+      "n": 1,
+      "avg_tone": 2.5
+    },
+    {
+      "source": "mxdwn.com",
+      "n": 1,
+      "avg_tone": 0.402
+    },
+    {
+      "source": "ttgasia.com",
+      "n": 1,
+      "avg_tone": -0.304
+    },
+    {
+      "source": "thetimes-tribune.com",
+      "n": 1,
+      "avg_tone": -0.207
+    },
+    {
+      "source": "abqjournal.com",
+      "n": 1,
+      "avg_tone": -1.0
+    },
+    {
+      "source": "superherohype.com",
+      "n": 1,
+      "avg_tone": -1.208
+    },
+    {
+      "source": "irishnews.com",
+      "n": 1,
+      "avg_tone": -3.85
+    },
+    {
+      "source": "london-now.co.uk",
+      "n": 1,
+      "avg_tone": 2.899
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 332
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 178
-    },
-    {
-      "theme": "TAX_FNCACT_CHILD",
-      "n": 162
-    },
-    {
-      "theme": "TAX_WORLDMAMMALS_HUMAN",
-      "n": 146
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 145
-    },
-    {
-      "theme": "SELF_IDENTIFIED_HUMAN_RIGHTS",
-      "n": 140
-    },
-    {
-      "theme": "WB_2203_HUMAN_RIGHTS",
-      "n": 140
-    },
-    {
-      "theme": "UNGP_CRIME_VIOLENCE",
-      "n": 140
-    },
-    {
       "theme": "WB_698_TRADE",
-      "n": 129
+      "n": 130
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 103
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 86
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 88
+      "n": 83
     },
     {
-      "theme": "TAX_ETHNICITY_INDIGENOUS",
-      "n": 87
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 77
     },
     {
-      "theme": "ETH_INDIGINOUS",
-      "n": 87
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 77
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 81
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 77
     },
     {
-      "theme": "RECRUITMENT",
-      "n": 81
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 71
+    },
+    {
+      "theme": "ECON_INFLATION",
+      "n": 59
+    },
+    {
+      "theme": "WB_442_INFLATION",
+      "n": 59
+    },
+    {
+      "theme": "TAX_FNCACT_JOURNALIST",
+      "n": 58
+    },
+    {
+      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
+      "n": 57
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 56
+    },
+    {
+      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
+      "n": 56
+    },
+    {
+      "theme": "LEADER",
+      "n": 51
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 51
     }
   ]
 }
