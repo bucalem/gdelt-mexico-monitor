@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-24T04:26:55.435681+00:00",
-  "rows_total_scanned_last_run": 1932,
-  "rows_mexico_last_run": 14,
-  "overall_avg_tone_4h": -1.471,
+  "generated_at": "2026-08-24T05:10:27.180690+00:00",
+  "rows_total_scanned_last_run": 2390,
+  "rows_mexico_last_run": 16,
+  "overall_avg_tone_4h": -1.22,
   "timeline": [
-    {
-      "time": "2026-08-21T04:30",
-      "avg_tone": -2.01,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-21T04:45",
-      "avg_tone": -0.081,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-21T05:00",
-      "avg_tone": -1.486,
-      "n_articles": 8
-    },
     {
       "time": "2026-08-21T05:15",
       "avg_tone": -2.532,
@@ -1373,18 +1358,78 @@
       "time": "2026-08-24T04:30",
       "avg_tone": -1.924,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-24T04:45",
+      "avg_tone": -0.828,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-08-24T05:00",
+      "avg_tone": -0.731,
+      "n_articles": 2
+    },
+    {
+      "time": "2026-08-24T05:15",
+      "avg_tone": 1.94,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
-      "source": "santafenewmexican.com",
-      "n": 2,
-      "avg_tone": -1.493
+      "source": "dailykos.com",
+      "n": 1,
+      "avg_tone": -2.9
     },
     {
-      "source": "manilatimes.net",
-      "n": 2,
-      "avg_tone": -1.376
+      "source": "thenationalnews.com",
+      "n": 1,
+      "avg_tone": 1.617
+    },
+    {
+      "source": "thedmonline.com",
+      "n": 1,
+      "avg_tone": 3.738
+    },
+    {
+      "source": "asianjournal.com",
+      "n": 1,
+      "avg_tone": 1.597
+    },
+    {
+      "source": "ntxe-news.com",
+      "n": 1,
+      "avg_tone": 5.648
+    },
+    {
+      "source": "indiatimes.com",
+      "n": 1,
+      "avg_tone": 0.446
+    },
+    {
+      "source": "beefcentral.com",
+      "n": 1,
+      "avg_tone": -1.908
+    },
+    {
+      "source": "el-balad.com",
+      "n": 1,
+      "avg_tone": 1.02
+    },
+    {
+      "source": "moneycontrol.com",
+      "n": 1,
+      "avg_tone": -3.036
+    },
+    {
+      "source": "thespec.com",
+      "n": 1,
+      "avg_tone": 1.062
+    },
+    {
+      "source": "mizonews.net",
+      "n": 1,
+      "avg_tone": -2.358
     },
     {
       "source": "yahoo.com",
@@ -1405,98 +1450,68 @@
       "source": "thedailybeast.com",
       "n": 1,
       "avg_tone": -1.743
-    },
-    {
-      "source": "thehindu.com",
-      "n": 1,
-      "avg_tone": 1.168
-    },
-    {
-      "source": "thehindubusinessline.com",
-      "n": 1,
-      "avg_tone": 2.64
-    },
-    {
-      "source": "reflector.com",
-      "n": 1,
-      "avg_tone": -3.909
-    },
-    {
-      "source": "sandiegouniontribune.com",
-      "n": 1,
-      "avg_tone": 3.42
-    },
-    {
-      "source": "newhamburgindependent.ca",
-      "n": 1,
-      "avg_tone": 1.74
-    },
-    {
-      "source": "bozemandailychronicle.com",
-      "n": 1,
-      "avg_tone": -3.918
     }
   ],
   "top_themes": [
     {
-      "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 32
+      "theme": "AGRICULTURE",
+      "n": 38
     },
     {
-      "theme": "CRISISLEX_O01_WEATHER",
+      "theme": "WB_698_TRADE",
+      "n": 35
+    },
+    {
+      "theme": "TAX_FNCACT_WORKERS",
+      "n": 21
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 18
+    },
+    {
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 18
+    },
+    {
+      "theme": "BORDER",
+      "n": 16
+    },
+    {
+      "theme": "TAX_ETHNICITY_FILIPINO",
+      "n": 16
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_FILIPINO",
+      "n": 16
+    },
+    {
+      "theme": "LEADER",
       "n": 15
     },
     {
-      "theme": "NATURAL_DISASTER_ICE",
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 14
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 14
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
       "n": 13
     },
     {
-      "theme": "WB_470_EDUCATION",
-      "n": 12
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 13
     },
     {
-      "theme": "NATURAL_DISASTER_TROPICAL_STORM",
-      "n": 12
+      "theme": "ARMEDCONFLICT",
+      "n": 13
     },
     {
-      "theme": "EDUCATION",
-      "n": 12
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 12
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 10
-    },
-    {
-      "theme": "CRISISLEX_C06_WATER_SANITATION",
-      "n": 9
-    },
-    {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 9
-    },
-    {
-      "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 9
-    },
-    {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 9
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 9
-    },
-    {
-      "theme": "MEDIA_SOCIAL",
-      "n": 8
-    },
-    {
-      "theme": "WB_652_ICT_APPLICATIONS",
-      "n": 8
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 13
     }
   ]
 }
