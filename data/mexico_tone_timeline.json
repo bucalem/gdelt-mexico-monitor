@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-24T13:30:55.165570+00:00",
-  "rows_total_scanned_last_run": 5402,
-  "rows_mexico_last_run": 63,
-  "overall_avg_tone_4h": 1.424,
+  "generated_at": "2026-08-24T14:23:37.951428+00:00",
+  "rows_total_scanned_last_run": 2507,
+  "rows_mexico_last_run": 35,
+  "overall_avg_tone_4h": 1.29,
   "timeline": [
-    {
-      "time": "2026-08-21T13:30",
-      "avg_tone": -0.043,
-      "n_articles": 33
-    },
-    {
-      "time": "2026-08-21T13:45",
-      "avg_tone": -0.343,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-08-21T14:00",
-      "avg_tone": -0.583,
-      "n_articles": 25
-    },
-    {
-      "time": "2026-08-21T14:15",
-      "avg_tone": -0.239,
-      "n_articles": 33
-    },
     {
       "time": "2026-08-21T14:30",
       "avg_tone": 0.084,
@@ -1373,145 +1353,155 @@
       "time": "2026-08-24T13:30",
       "avg_tone": 0.185,
       "n_articles": 18
+    },
+    {
+      "time": "2026-08-24T14:00",
+      "avg_tone": 0.707,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-08-24T14:15",
+      "avg_tone": 0.524,
+      "n_articles": 22
     }
   ],
   "top_sources": [
     {
-      "source": "yahoo.com",
-      "n": 4,
-      "avg_tone": -0.097
-    },
-    {
-      "source": "riotimesonline.com",
-      "n": 3,
-      "avg_tone": 1.016
-    },
-    {
-      "source": "moneycontrol.com",
+      "source": "ibtimes.co.uk",
       "n": 2,
-      "avg_tone": -0.956
+      "avg_tone": -1.989
     },
     {
-      "source": "manilatimes.net",
+      "source": "bostonglobe.com",
       "n": 2,
-      "avg_tone": 0.334
+      "avg_tone": -2.142
     },
     {
-      "source": "aol.com",
-      "n": 2,
-      "avg_tone": -2.489
-    },
-    {
-      "source": "bucksfreepress.co.uk",
-      "n": 2,
-      "avg_tone": 4.426
-    },
-    {
-      "source": "medicaldaily.com",
-      "n": 2,
-      "avg_tone": -3.581
-    },
-    {
-      "source": "dailykos.com",
-      "n": 2,
-      "avg_tone": -1.199
-    },
-    {
-      "source": "deadline.com",
+      "source": "techtimes.com",
       "n": 1,
-      "avg_tone": 2.433
+      "avg_tone": -0.047
     },
     {
-      "source": "winnipegfreepress.com",
+      "source": "lasvegassun.com",
       "n": 1,
-      "avg_tone": -0.258
+      "avg_tone": 1.297
     },
     {
-      "source": "bozemandailychronicle.com",
+      "source": "theguardian.com",
       "n": 1,
-      "avg_tone": -0.357
+      "avg_tone": 6.221
     },
     {
-      "source": "newjerseytelegraph.com",
+      "source": "offalyindependent.ie",
       "n": 1,
-      "avg_tone": 0.814
+      "avg_tone": 3.937
     },
     {
-      "source": "brentwoodlive.co.uk",
+      "source": "echo-news.co.uk",
       "n": 1,
       "avg_tone": 3.87
     },
     {
-      "source": "f4wonline.com",
+      "source": "theglobeandmail.com",
       "n": 1,
-      "avg_tone": 0.353
+      "avg_tone": 0.514
     },
     {
-      "source": "hometownsource.com",
+      "source": "ktsa.com",
       "n": 1,
-      "avg_tone": 3.239
+      "avg_tone": -4.308
+    },
+    {
+      "source": "carscoops.com",
+      "n": 1,
+      "avg_tone": -0.879
+    },
+    {
+      "source": "latimes.com",
+      "n": 1,
+      "avg_tone": 1.41
+    },
+    {
+      "source": "catholicworldreport.com",
+      "n": 1,
+      "avg_tone": 2.844
+    },
+    {
+      "source": "wokq.com",
+      "n": 1,
+      "avg_tone": 0.982
+    },
+    {
+      "source": "the-independent.com",
+      "n": 1,
+      "avg_tone": 3.35
+    },
+    {
+      "source": "pr-inside.com",
+      "n": 1,
+      "avg_tone": 0.725
     }
   ],
   "top_themes": [
     {
       "theme": "AGRICULTURE",
-      "n": 99
+      "n": 132
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 97
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 81
+      "n": 123
     },
     {
       "theme": "BORDER",
-      "n": 79
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 68
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 66
+      "n": 60
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 63
-    },
-    {
-      "theme": "TAX_FNCACT_DRIVERS",
-      "n": 57
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 56
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 50
-    },
-    {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
       "n": 49
     },
     {
-      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
+      "theme": "WB_698_TRADE",
       "n": 48
     },
     {
-      "theme": "ARMEDCONFLICT",
-      "n": 47
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 45
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 41
+    },
+    {
+      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
+      "n": 36
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 35
+    },
+    {
+      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "n": 34
     },
     {
       "theme": "KILL",
-      "n": 46
+      "n": 33
+    },
+    {
+      "theme": "ARMEDCONFLICT",
+      "n": 28
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 28
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 27
     },
     {
       "theme": "CRISISLEX_T03_DEAD",
-      "n": 44
+      "n": 26
     }
   ]
 }
