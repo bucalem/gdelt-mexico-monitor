@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-24T09:11:29.615480+00:00",
-  "rows_total_scanned_last_run": 3774,
-  "rows_mexico_last_run": 52,
-  "overall_avg_tone_4h": -0.445,
+  "generated_at": "2026-08-24T10:02:09.080256+00:00",
+  "rows_total_scanned_last_run": 3680,
+  "rows_mexico_last_run": 91,
+  "overall_avg_tone_4h": 0.403,
   "timeline": [
-    {
-      "time": "2026-08-21T09:15",
-      "avg_tone": 0.424,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-08-21T09:30",
-      "avg_tone": -0.289,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-21T09:45",
-      "avg_tone": 0.611,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-21T10:00",
-      "avg_tone": 0.989,
-      "n_articles": 10
-    },
     {
       "time": "2026-08-21T10:15",
       "avg_tone": -0.015,
@@ -1373,145 +1353,160 @@
       "time": "2026-08-24T09:15",
       "avg_tone": 0.502,
       "n_articles": 15
+    },
+    {
+      "time": "2026-08-24T09:30",
+      "avg_tone": 1.458,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-08-24T09:45",
+      "avg_tone": 1.594,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-08-24T10:00",
+      "avg_tone": 1.855,
+      "n_articles": 23
     }
   ],
   "top_sources": [
     {
-      "source": "japanherald.com",
+      "source": "aol.co.uk",
+      "n": 3,
+      "avg_tone": 2.105
+    },
+    {
+      "source": "dailylobo.com",
+      "n": 3,
+      "avg_tone": -0.469
+    },
+    {
+      "source": "middleeaststar.com",
       "n": 2,
-      "avg_tone": -0.353
+      "avg_tone": -1.655
     },
     {
-      "source": "wfmz.com",
+      "source": "surreycomet.co.uk",
       "n": 1,
-      "avg_tone": -4.034
+      "avg_tone": 4.429
     },
     {
-      "source": "calcoastnews.com",
+      "source": "dunfermlinepress.com",
       "n": 1,
-      "avg_tone": 4.63
+      "avg_tone": 4.429
     },
     {
-      "source": "wbnq.com",
+      "source": "harrowtimes.co.uk",
       "n": 1,
-      "avg_tone": 4.938
+      "avg_tone": 4.429
     },
     {
-      "source": "texasguardian.com",
+      "source": "northwaleschronicle.co.uk",
       "n": 1,
-      "avg_tone": -4.054
+      "avg_tone": 4.429
     },
     {
-      "source": "wmac-am.com",
+      "source": "mondaq.com",
       "n": 1,
-      "avg_tone": 4.938
+      "avg_tone": -2.091
     },
     {
-      "source": "henleystandard.co.uk",
+      "source": "leaderlive.co.uk",
       "n": 1,
-      "avg_tone": 3.498
+      "avg_tone": 4.429
     },
     {
-      "source": "coloradostar.com",
+      "source": "stroudnewsandjournal.co.uk",
       "n": 1,
-      "avg_tone": -4.054
+      "avg_tone": 4.429
     },
     {
-      "source": "q105.fm",
+      "source": "northwichguardian.co.uk",
       "n": 1,
-      "avg_tone": 4.938
+      "avg_tone": 4.429
     },
     {
-      "source": "thepeoplesperson.com",
+      "source": "warringtonguardian.co.uk",
       "n": 1,
-      "avg_tone": -0.896
+      "avg_tone": 4.429
     },
     {
-      "source": "postcourier.com.pg",
+      "source": "nwemail.co.uk",
       "n": 1,
-      "avg_tone": -2.149
+      "avg_tone": 4.429
     },
     {
-      "source": "kicks1063.com",
+      "source": "hamhigh.co.uk",
       "n": 1,
-      "avg_tone": 4.908
+      "avg_tone": 4.429
     },
     {
-      "source": "dentonrc.com",
+      "source": "somersetcountygazette.co.uk",
       "n": 1,
-      "avg_tone": -0.177
-    },
-    {
-      "source": "newjerseytelegraph.com",
-      "n": 1,
-      "avg_tone": -4.054
-    },
-    {
-      "source": "f4wonline.com",
-      "n": 1,
-      "avg_tone": -5.844
+      "avg_tone": 4.429
     }
   ],
   "top_themes": [
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 97
+      "n": 133
+    },
+    {
+      "theme": "TAX_DISEASE_DIABETES",
+      "n": 111
+    },
+    {
+      "theme": "TAX_CHRONICDISEASE_DIABETES",
+      "n": 111
+    },
+    {
+      "theme": "WB_1433_DIABETES",
+      "n": 111
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 107
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 94
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "theme": "KILL",
       "n": 90
     },
     {
-      "theme": "WB_1331_HEALTH_TECHNOLOGIES",
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
       "n": 89
     },
     {
-      "theme": "WB_2453_ORGANIZED_CRIME",
-      "n": 89
-    },
-    {
-      "theme": "WB_1350_PHARMACEUTICALS",
-      "n": 89
-    },
-    {
-      "theme": "WB_2456_DRUGS_AND_NARCOTICS",
-      "n": 89
-    },
-    {
-      "theme": "DRUG_TRADE",
+      "theme": "CRISISLEX_T03_DEAD",
       "n": 86
     },
     {
-      "theme": "LEADER",
-      "n": 78
+      "theme": "DRUG_TRADE",
+      "n": 81
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 74
+      "theme": "WB_1331_HEALTH_TECHNOLOGIES",
+      "n": 80
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 65
+      "theme": "WB_2453_ORGANIZED_CRIME",
+      "n": 80
     },
     {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 64
+      "theme": "WB_1350_PHARMACEUTICALS",
+      "n": 80
     },
     {
-      "theme": "EPU_CATS_REGULATION",
-      "n": 62
-    },
-    {
-      "theme": "TAX_FNCACT_GOVERNOR",
-      "n": 59
+      "theme": "WB_2456_DRUGS_AND_NARCOTICS",
+      "n": 80
     },
     {
       "theme": "EPU_POLICY_POLITICAL",
-      "n": 58
+      "n": 74
     }
   ]
 }
