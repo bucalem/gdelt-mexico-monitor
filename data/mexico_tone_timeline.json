@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-24T03:36:18.329712+00:00",
-  "rows_total_scanned_last_run": 1420,
-  "rows_mexico_last_run": 12,
-  "overall_avg_tone_4h": -1.457,
+  "generated_at": "2026-08-24T04:26:55.435681+00:00",
+  "rows_total_scanned_last_run": 1932,
+  "rows_mexico_last_run": 14,
+  "overall_avg_tone_4h": -1.471,
   "timeline": [
-    {
-      "time": "2026-08-21T03:45",
-      "avg_tone": -1.599,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-21T04:00",
-      "avg_tone": -3.554,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-21T04:15",
-      "avg_tone": -0.229,
-      "n_articles": 6
-    },
     {
       "time": "2026-08-21T04:30",
       "avg_tone": -2.01,
@@ -1373,9 +1358,64 @@
       "time": "2026-08-24T03:45",
       "avg_tone": -0.667,
       "n_articles": 4
+    },
+    {
+      "time": "2026-08-24T04:00",
+      "avg_tone": 2.64,
+      "n_articles": 1
+    },
+    {
+      "time": "2026-08-24T04:15",
+      "avg_tone": -1.435,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-08-24T04:30",
+      "avg_tone": -1.924,
+      "n_articles": 5
     }
   ],
   "top_sources": [
+    {
+      "source": "santafenewmexican.com",
+      "n": 2,
+      "avg_tone": -1.493
+    },
+    {
+      "source": "manilatimes.net",
+      "n": 2,
+      "avg_tone": -1.376
+    },
+    {
+      "source": "yahoo.com",
+      "n": 1,
+      "avg_tone": -1.229
+    },
+    {
+      "source": "wandtv.com",
+      "n": 1,
+      "avg_tone": -3.909
+    },
+    {
+      "source": "wccbcharlotte.com",
+      "n": 1,
+      "avg_tone": -3.909
+    },
+    {
+      "source": "thedailybeast.com",
+      "n": 1,
+      "avg_tone": -1.743
+    },
+    {
+      "source": "thehindu.com",
+      "n": 1,
+      "avg_tone": 1.168
+    },
+    {
+      "source": "thehindubusinessline.com",
+      "n": 1,
+      "avg_tone": 2.64
+    },
     {
       "source": "reflector.com",
       "n": 1,
@@ -1395,108 +1435,68 @@
       "source": "bozemandailychronicle.com",
       "n": 1,
       "avg_tone": -3.918
-    },
-    {
-      "source": "rockymounttelegram.com",
-      "n": 1,
-      "avg_tone": -3.909
-    },
-    {
-      "source": "theyeshivaworld.com",
-      "n": 1,
-      "avg_tone": -4.328
-    },
-    {
-      "source": "cdapress.com",
-      "n": 1,
-      "avg_tone": -3.87
-    },
-    {
-      "source": "actionnewsjax.com",
-      "n": 1,
-      "avg_tone": -8.0
-    },
-    {
-      "source": "pymnts.com",
-      "n": 1,
-      "avg_tone": 0.8
-    },
-    {
-      "source": "montrealgazette.com",
-      "n": 1,
-      "avg_tone": -3.353
-    },
-    {
-      "source": "turnto23.com",
-      "n": 1,
-      "avg_tone": 2.869
-    },
-    {
-      "source": "fox10tv.com",
-      "n": 1,
-      "avg_tone": -3.909
     }
   ],
   "top_themes": [
     {
       "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 40
+      "n": 32
     },
     {
       "theme": "CRISISLEX_O01_WEATHER",
-      "n": 17
-    },
-    {
-      "theme": "NATURAL_DISASTER_TROPICAL_STORM",
       "n": 15
     },
     {
-      "theme": "NATURAL_DISASTER_MUDSLIDES",
-      "n": 10
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 13
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 10
+      "theme": "WB_470_EDUCATION",
+      "n": 12
     },
     {
-      "theme": "NATURAL_DISASTER_SUSTAINED_WINDS",
-      "n": 10
+      "theme": "NATURAL_DISASTER_TROPICAL_STORM",
+      "n": 12
     },
     {
-      "theme": "TAX_ETHNICITY_LARIS",
-      "n": 9
+      "theme": "EDUCATION",
+      "n": 12
     },
     {
-      "theme": "LEADER",
-      "n": 8
-    },
-    {
-      "theme": "MEDIA_SOCIAL",
-      "n": 7
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 12
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 7
+      "n": 10
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 7
+      "theme": "CRISISLEX_C06_WATER_SANITATION",
+      "n": 9
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 9
+    },
+    {
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 9
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 9
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 9
+    },
+    {
+      "theme": "MEDIA_SOCIAL",
+      "n": 8
     },
     {
       "theme": "WB_652_ICT_APPLICATIONS",
-      "n": 6
-    },
-    {
-      "theme": "WB_662_SOCIAL_MEDIA",
-      "n": 6
-    },
-    {
-      "theme": "WB_658_ENTERPRISE_APPLICATIONS",
-      "n": 6
-    },
-    {
-      "theme": "TAX_FNCACT_MAYOR",
-      "n": 6
+      "n": 8
     }
   ]
 }
