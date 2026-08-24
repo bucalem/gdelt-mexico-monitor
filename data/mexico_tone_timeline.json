@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-24T15:07:43.518953+00:00",
-  "rows_total_scanned_last_run": 5502,
-  "rows_mexico_last_run": 80,
-  "overall_avg_tone_4h": 0.509,
+  "generated_at": "2026-08-24T15:52:58.914236+00:00",
+  "rows_total_scanned_last_run": 4572,
+  "rows_mexico_last_run": 111,
+  "overall_avg_tone_4h": -0.319,
   "timeline": [
-    {
-      "time": "2026-08-21T15:15",
-      "avg_tone": -1.18,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-08-21T15:30",
-      "avg_tone": -0.574,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-21T15:45",
-      "avg_tone": 0.779,
-      "n_articles": 20
-    },
     {
       "time": "2026-08-21T16:00",
       "avg_tone": 0.188,
@@ -1368,13 +1353,38 @@
       "time": "2026-08-24T15:15",
       "avg_tone": -1.451,
       "n_articles": 31
+    },
+    {
+      "time": "2026-08-24T15:30",
+      "avg_tone": -1.969,
+      "n_articles": 42
+    },
+    {
+      "time": "2026-08-24T15:45",
+      "avg_tone": -1.921,
+      "n_articles": 38
     }
   ],
   "top_sources": [
     {
-      "source": "forbes.com",
-      "n": 5,
-      "avg_tone": 2.268
+      "source": "dailykos.com",
+      "n": 3,
+      "avg_tone": -1.421
+    },
+    {
+      "source": "ocregister.com",
+      "n": 2,
+      "avg_tone": 0.07
+    },
+    {
+      "source": "news4jax.com",
+      "n": 2,
+      "avg_tone": -3.323
+    },
+    {
+      "source": "sun-sentinel.com",
+      "n": 2,
+      "avg_tone": -3.431
     },
     {
       "source": "stcatharinesstandard.ca",
@@ -1407,106 +1417,91 @@
       "avg_tone": 0.994
     },
     {
-      "source": "pilotonline.com",
-      "n": 2,
-      "avg_tone": -3.431
-    },
-    {
-      "source": "republicanherald.com",
-      "n": 2,
-      "avg_tone": -3.431
-    },
-    {
-      "source": "netscape.com",
-      "n": 2,
-      "avg_tone": -0.348
-    },
-    {
-      "source": "ladailypost.com",
-      "n": 1,
-      "avg_tone": 2.392
-    },
-    {
-      "source": "bracknellnews.co.uk",
+      "source": "ealingtimes.co.uk",
       "n": 1,
       "avg_tone": -1.882
     },
     {
-      "source": "wwmt.com",
+      "source": "wwe.com",
+      "n": 1,
+      "avg_tone": 1.136
+    },
+    {
+      "source": "newsshopper.co.uk",
+      "n": 1,
+      "avg_tone": -1.882
+    },
+    {
+      "source": "warringtonguardian.co.uk",
+      "n": 1,
+      "avg_tone": -1.882
+    },
+    {
+      "source": "wjactv.com",
       "n": 1,
       "avg_tone": -4.0
-    },
-    {
-      "source": "klaw.com",
-      "n": 1,
-      "avg_tone": 0.982
-    },
-    {
-      "source": "lancashiretelegraph.co.uk",
-      "n": 1,
-      "avg_tone": -1.882
     }
   ],
   "top_themes": [
     {
-      "theme": "AGRICULTURE",
-      "n": 330
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 255
-    },
-    {
-      "theme": "BORDER",
-      "n": 124
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 122
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 340
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 110
+      "n": 319
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 96
+      "theme": "AGRICULTURE",
+      "n": 288
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 94
+      "theme": "TAX_ECON_PRICE",
+      "n": 226
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 89
+      "n": 194
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 85
-    },
-    {
-      "theme": "LEADER",
-      "n": 81
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 75
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 73
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 68
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 180
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 67
+      "n": 179
     },
     {
-      "theme": "EDUCATION",
-      "n": 66
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 175
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 156
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 148
+    },
+    {
+      "theme": "LEADER",
+      "n": 146
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 143
+    },
+    {
+      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
+      "n": 141
+    },
+    {
+      "theme": "WB_939_NEGOTIATION",
+      "n": 141
+    },
+    {
+      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
+      "n": 141
     }
   ]
 }
