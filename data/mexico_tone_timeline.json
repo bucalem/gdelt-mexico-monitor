@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-25T17:14:17.042461+00:00",
-  "rows_total_scanned_last_run": 4653,
-  "rows_mexico_last_run": 78,
-  "overall_avg_tone_4h": -1.352,
+  "generated_at": "2026-08-25T17:45:42.922276+00:00",
+  "rows_total_scanned_last_run": 6202,
+  "rows_mexico_last_run": 112,
+  "overall_avg_tone_4h": -1.483,
   "timeline": [
-    {
-      "time": "2026-08-22T17:15",
-      "avg_tone": -0.145,
-      "n_articles": 25
-    },
-    {
-      "time": "2026-08-22T17:30",
-      "avg_tone": -0.218,
-      "n_articles": 19
-    },
     {
       "time": "2026-08-22T17:45",
       "avg_tone": -0.107,
@@ -1343,13 +1333,43 @@
       "time": "2026-08-25T17:00",
       "avg_tone": -1.552,
       "n_articles": 24
+    },
+    {
+      "time": "2026-08-25T17:15",
+      "avg_tone": -1.501,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-08-25T17:30",
+      "avg_tone": -1.756,
+      "n_articles": 43
+    },
+    {
+      "time": "2026-08-25T17:45",
+      "avg_tone": -3.012,
+      "n_articles": 20
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 13,
+      "n": 27,
       "avg_tone": -3.563
+    },
+    {
+      "source": "freshplaza.com",
+      "n": 7,
+      "avg_tone": 1.857
+    },
+    {
+      "source": "fox13seattle.com",
+      "n": 3,
+      "avg_tone": -3.264
+    },
+    {
+      "source": "cubaheadlines.com",
+      "n": 3,
+      "avg_tone": -0.029
     },
     {
       "source": "banderasnews.com",
@@ -1357,131 +1377,116 @@
       "avg_tone": 0.465
     },
     {
-      "source": "billboard.com",
+      "source": "yahoo.com",
       "n": 2,
-      "avg_tone": 1.426
+      "avg_tone": 0.744
     },
     {
-      "source": "wkjc.com",
-      "n": 2,
-      "avg_tone": -1.546
-    },
-    {
-      "source": "dailypolitical.com",
-      "n": 2,
-      "avg_tone": 0.883
-    },
-    {
-      "source": "dailypress.com",
-      "n": 2,
-      "avg_tone": -1.458
-    },
-    {
-      "source": "wondradio.com",
-      "n": 2,
-      "avg_tone": -1.546
-    },
-    {
-      "source": "abc13.com",
+      "source": "abc7chicago.com",
       "n": 2,
       "avg_tone": -3.244
     },
     {
-      "source": "cnn.com",
-      "n": 1,
-      "avg_tone": -2.799
+      "source": "wfae.org",
+      "n": 2,
+      "avg_tone": -4.805
     },
     {
-      "source": "caranddriver.com",
-      "n": 1,
-      "avg_tone": -0.752
+      "source": "adn.com",
+      "n": 2,
+      "avg_tone": -0.999
     },
     {
-      "source": "freemalaysiatoday.com",
-      "n": 1,
-      "avg_tone": -2.892
+      "source": "wadk.com",
+      "n": 2,
+      "avg_tone": -1.546
     },
     {
-      "source": "morningstar.com",
+      "source": "redstate.com",
       "n": 1,
-      "avg_tone": 1.783
+      "avg_tone": -5.3
     },
     {
-      "source": "travelerstoday.com",
+      "source": "mesabitribune.com",
       "n": 1,
-      "avg_tone": -0.07
+      "avg_tone": -2.353
     },
     {
-      "source": "mercurynews.com",
-      "n": 1,
-      "avg_tone": 2.098
-    },
-    {
-      "source": "krna.com",
+      "source": "1057thehawk.com",
       "n": 1,
       "avg_tone": -1.954
+    },
+    {
+      "source": "grandrapidsmn.com",
+      "n": 1,
+      "avg_tone": 1.143
+    },
+    {
+      "source": "hngn.com",
+      "n": 1,
+      "avg_tone": -3.732
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 234
+      "n": 373
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 119
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 96
-    },
-    {
-      "theme": "LEADER",
-      "n": 87
+      "n": 159
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 76
+      "n": 147
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 124
+    },
+    {
+      "theme": "LEADER",
+      "n": 115
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
-      "n": 67
+      "n": 106
     },
     {
       "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 57
-    },
-    {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 47
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 47
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 47
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 44
+      "n": 85
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 43
+      "n": 77
     },
     {
-      "theme": "UNGP_HEALTHCARE",
-      "n": 43
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 76
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 42
+      "theme": "AGRICULTURE",
+      "n": 76
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 42
+      "theme": "WB_137_WATER",
+      "n": 74
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 72
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 67
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 66
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 65
     }
   ]
 }
