@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-25T08:06:52.500092+00:00",
-  "rows_total_scanned_last_run": 1804,
-  "rows_mexico_last_run": 18,
-  "overall_avg_tone_4h": -1.998,
+  "generated_at": "2026-08-25T08:57:25.350513+00:00",
+  "rows_total_scanned_last_run": 2627,
+  "rows_mexico_last_run": 41,
+  "overall_avg_tone_4h": -1.824,
   "timeline": [
-    {
-      "time": "2026-08-22T08:15",
-      "avg_tone": -1.743,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-08-22T08:30",
-      "avg_tone": -1.032,
-      "n_articles": 30
-    },
-    {
-      "time": "2026-08-22T08:45",
-      "avg_tone": -0.877,
-      "n_articles": 23
-    },
     {
       "time": "2026-08-22T09:00",
       "avg_tone": -0.443,
@@ -1343,145 +1328,160 @@
       "time": "2026-08-25T08:00",
       "avg_tone": -1.357,
       "n_articles": 13
+    },
+    {
+      "time": "2026-08-25T08:15",
+      "avg_tone": -0.842,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-08-25T08:30",
+      "avg_tone": -1.253,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-08-25T08:45",
+      "avg_tone": -1.178,
+      "n_articles": 18
     }
   ],
   "top_sources": [
     {
-      "source": "hngnews.com",
+      "source": "riotimesonline.com",
+      "n": 10,
+      "avg_tone": -1.087
+    },
+    {
+      "source": "thepolypost.com",
       "n": 2,
-      "avg_tone": -4.199
+      "avg_tone": 1.177
     },
     {
-      "source": "asiaone.com",
+      "source": "finanznachrichten.de",
       "n": 2,
-      "avg_tone": -1.828
+      "avg_tone": 1.782
     },
     {
-      "source": "indiatimes.com",
-      "n": 1,
-      "avg_tone": 1.308
-    },
-    {
-      "source": "taylorvilledailynews.com",
-      "n": 1,
-      "avg_tone": -1.875
-    },
-    {
-      "source": "thenews.com.pk",
-      "n": 1,
-      "avg_tone": -2.521
-    },
-    {
-      "source": "arynews.tv",
-      "n": 1,
-      "avg_tone": -2.969
-    },
-    {
-      "source": "travelextra.ie",
-      "n": 1,
-      "avg_tone": 3.621
-    },
-    {
-      "source": "erienewsnow.com",
-      "n": 1,
-      "avg_tone": -1.852
-    },
-    {
-      "source": "union-bulletin.com",
-      "n": 1,
-      "avg_tone": -1.712
-    },
-    {
-      "source": "yumasun.com",
-      "n": 1,
-      "avg_tone": -2.051
-    },
-    {
-      "source": "singersroom.com",
-      "n": 1,
-      "avg_tone": 2.47
-    },
-    {
-      "source": "winknews.com",
-      "n": 1,
-      "avg_tone": -1.852
-    },
-    {
-      "source": "kvoa.com",
-      "n": 1,
-      "avg_tone": 2.192
-    },
-    {
-      "source": "shafaqna.com",
-      "n": 1,
-      "avg_tone": -5.882
-    },
-    {
-      "source": "wgal.com",
+      "source": "wpbf.com",
       "n": 1,
       "avg_tone": -0.789
+    },
+    {
+      "source": "aginfo.net",
+      "n": 1,
+      "avg_tone": -4.306
+    },
+    {
+      "source": "hindustantimes.com",
+      "n": 1,
+      "avg_tone": -8.685
+    },
+    {
+      "source": "thesouthafrican.com",
+      "n": 1,
+      "avg_tone": 2.003
+    },
+    {
+      "source": "bworldonline.com",
+      "n": 1,
+      "avg_tone": -7.746
+    },
+    {
+      "source": "wisn.com",
+      "n": 1,
+      "avg_tone": -0.789
+    },
+    {
+      "source": "adgully.com",
+      "n": 1,
+      "avg_tone": 3.339
+    },
+    {
+      "source": "connexionfrance.com",
+      "n": 1,
+      "avg_tone": -0.149
+    },
+    {
+      "source": "clickondetroit.com",
+      "n": 1,
+      "avg_tone": -1.762
+    },
+    {
+      "source": "the-star.co.ke",
+      "n": 1,
+      "avg_tone": -4.005
+    },
+    {
+      "source": "hospitalityireland.com",
+      "n": 1,
+      "avg_tone": 3.549
+    },
+    {
+      "source": "hcn.org",
+      "n": 1,
+      "avg_tone": -4.396
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_137_WATER",
-      "n": 73
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 68
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 64
+      "theme": "TAX_ECON_PRICE",
+      "n": 167
     },
     {
       "theme": "AGRICULTURE",
-      "n": 62
+      "n": 160
     },
     {
       "theme": "BORDER",
-      "n": 62
+      "n": 96
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 95
+    },
+    {
+      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
+      "n": 72
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 55
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 55
+      "n": 69
     },
     {
       "theme": "LEADER",
-      "n": 54
+      "n": 67
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 59
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 54
+      "n": 56
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 42
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 56
     },
     {
-      "theme": "EPU_ECONOMY",
-      "n": 36
+      "theme": "ECON_WORLDCURRENCIES_PESO",
+      "n": 56
     },
     {
-      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
-      "n": 34
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 55
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 33
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 53
     },
     {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 29
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 53
     },
     {
-      "theme": "ARMEDCONFLICT",
-      "n": 24
+      "theme": "WB_2936_GOLD",
+      "n": 51
     }
   ]
 }
