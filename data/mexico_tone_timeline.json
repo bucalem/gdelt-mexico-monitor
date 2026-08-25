@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-25T16:36:50.772513+00:00",
-  "rows_total_scanned_last_run": 6290,
-  "rows_mexico_last_run": 109,
-  "overall_avg_tone_4h": -1.3,
+  "generated_at": "2026-08-25T17:14:17.042461+00:00",
+  "rows_total_scanned_last_run": 4653,
+  "rows_mexico_last_run": 78,
+  "overall_avg_tone_4h": -1.352,
   "timeline": [
-    {
-      "time": "2026-08-22T16:45",
-      "avg_tone": -0.761,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-08-22T17:00",
-      "avg_tone": -0.915,
-      "n_articles": 13
-    },
     {
       "time": "2026-08-22T17:15",
       "avg_tone": -0.145,
@@ -1348,23 +1338,23 @@
       "time": "2026-08-25T16:45",
       "avg_tone": -1.634,
       "n_articles": 31
+    },
+    {
+      "time": "2026-08-25T17:00",
+      "avg_tone": -1.552,
+      "n_articles": 24
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 8,
+      "n": 13,
       "avg_tone": -3.563
     },
     {
-      "source": "prnewswire.com",
+      "source": "banderasnews.com",
       "n": 3,
-      "avg_tone": 3.228
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 3,
-      "avg_tone": 1.389
+      "avg_tone": 0.465
     },
     {
       "source": "billboard.com",
@@ -1397,96 +1387,101 @@
       "avg_tone": -3.244
     },
     {
-      "source": "rfdtv.com",
-      "n": 2,
-      "avg_tone": 1.415
-    },
-    {
-      "source": "fox4news.com",
-      "n": 2,
-      "avg_tone": -5.566
-    },
-    {
-      "source": "fox13news.com",
-      "n": 2,
-      "avg_tone": -2.714
-    },
-    {
-      "source": "orlandosentinel.com",
-      "n": 2,
-      "avg_tone": -1.458
-    },
-    {
-      "source": "tmz.com",
+      "source": "cnn.com",
       "n": 1,
-      "avg_tone": -4.979
+      "avg_tone": -2.799
     },
     {
-      "source": "prowrestling.net",
+      "source": "caranddriver.com",
       "n": 1,
-      "avg_tone": -1.084
+      "avg_tone": -0.752
+    },
+    {
+      "source": "freemalaysiatoday.com",
+      "n": 1,
+      "avg_tone": -2.892
+    },
+    {
+      "source": "morningstar.com",
+      "n": 1,
+      "avg_tone": 1.783
+    },
+    {
+      "source": "travelerstoday.com",
+      "n": 1,
+      "avg_tone": -0.07
+    },
+    {
+      "source": "mercurynews.com",
+      "n": 1,
+      "avg_tone": 2.098
+    },
+    {
+      "source": "krna.com",
+      "n": 1,
+      "avg_tone": -1.954
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 257
+      "n": 234
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 195
-    },
-    {
-      "theme": "LEADER",
-      "n": 160
+      "n": 119
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 148
+      "n": 96
+    },
+    {
+      "theme": "LEADER",
+      "n": 87
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 141
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 83
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 82
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
-      "n": 80
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 78
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 77
-    },
-    {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
       "n": 76
     },
     {
+      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
+      "n": 67
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 57
+    },
+    {
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 47
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 47
+    },
+    {
+      "theme": "ARMEDCONFLICT",
+      "n": 47
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 44
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 43
+    },
+    {
+      "theme": "UNGP_HEALTHCARE",
+      "n": 43
+    },
+    {
       "theme": "WB_840_JUSTICE",
-      "n": 69
+      "n": 42
     },
     {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 68
-    },
-    {
-      "theme": "BORDER",
-      "n": 68
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 64
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 42
     }
   ]
 }
