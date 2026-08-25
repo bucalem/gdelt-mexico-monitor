@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-25T11:18:33.601778+00:00",
-  "rows_total_scanned_last_run": 4884,
-  "rows_mexico_last_run": 43,
-  "overall_avg_tone_4h": -1.267,
+  "generated_at": "2026-08-25T11:51:27.971365+00:00",
+  "rows_total_scanned_last_run": 5129,
+  "rows_mexico_last_run": 38,
+  "overall_avg_tone_4h": -1.246,
   "timeline": [
-    {
-      "time": "2026-08-22T11:30",
-      "avg_tone": -1.347,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-08-22T11:45",
-      "avg_tone": -1.267,
-      "n_articles": 13
-    },
     {
       "time": "2026-08-22T12:00",
       "avg_tone": -1.49,
@@ -1343,145 +1333,160 @@
       "time": "2026-08-25T11:15",
       "avg_tone": -2.303,
       "n_articles": 9
+    },
+    {
+      "time": "2026-08-25T11:30",
+      "avg_tone": -2.314,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-08-25T11:45",
+      "avg_tone": -0.731,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-08-25T12:00",
+      "avg_tone": -2.037,
+      "n_articles": 11
     }
   ],
   "top_sources": [
     {
-      "source": "themarketsdaily.com",
-      "n": 3,
-      "avg_tone": 1.884
-    },
-    {
-      "source": "hindustantimes.com",
+      "source": "prnewswire.com",
       "n": 2,
-      "avg_tone": -0.674
+      "avg_tone": 2.617
     },
     {
-      "source": "retailtimes.co.uk",
+      "source": "forbes.com",
       "n": 2,
-      "avg_tone": 6.659
+      "avg_tone": -1.961
     },
     {
-      "source": "mondaq.com",
-      "n": 2,
-      "avg_tone": -2.94
-    },
-    {
-      "source": "globalcement.com",
-      "n": 2,
-      "avg_tone": -0.897
-    },
-    {
-      "source": "courant.com",
-      "n": 2,
-      "avg_tone": -0.661
-    },
-    {
-      "source": "daily-tribune.com",
+      "source": "elpais.com",
       "n": 1,
-      "avg_tone": -1.003
+      "avg_tone": -2.005
     },
     {
-      "source": "fultonsun.com",
+      "source": "spokanepublicradio.org",
       "n": 1,
-      "avg_tone": -6.25
+      "avg_tone": -5.263
     },
     {
-      "source": "zerohedge.com",
+      "source": "themarysue.com",
       "n": 1,
-      "avg_tone": -3.029
+      "avg_tone": -4.365
     },
     {
-      "source": "news-medical.net",
+      "source": "abc7.com",
       "n": 1,
-      "avg_tone": -1.921
+      "avg_tone": -3.122
     },
     {
-      "source": "wbaltv.com",
+      "source": "fox26houston.com",
       "n": 1,
-      "avg_tone": -5.714
+      "avg_tone": -9.936
     },
     {
-      "source": "imt.ie",
+      "source": "juniorminingnetwork.com",
       "n": 1,
-      "avg_tone": -1.9
+      "avg_tone": 0.958
     },
     {
-      "source": "columbiagorgenews.com",
+      "source": "brandonsun.com",
       "n": 1,
-      "avg_tone": 0.385
+      "avg_tone": -0.306
     },
     {
-      "source": "wgan.com",
+      "source": "riotimesonline.com",
       "n": 1,
-      "avg_tone": -1.845
+      "avg_tone": -1.018
     },
     {
-      "source": "finanzen.ch",
+      "source": "bgr.com",
       "n": 1,
-      "avg_tone": -1.375
+      "avg_tone": -2.587
+    },
+    {
+      "source": "kikn.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "upr.org",
+      "n": 1,
+      "avg_tone": 0.954
+    },
+    {
+      "source": "theitem.com",
+      "n": 1,
+      "avg_tone": -1.852
+    },
+    {
+      "source": "lbc.co.uk",
+      "n": 1,
+      "avg_tone": -3.765
     }
   ],
   "top_themes": [
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 77
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 75
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 66
-    },
-    {
-      "theme": "LEADER",
-      "n": 62
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 60
+      "n": 67
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 55
+      "n": 61
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 60
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 53
+      "n": 58
     },
     {
-      "theme": "MEDICAL",
-      "n": 49
+      "theme": "LEADER",
+      "n": 57
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 49
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 55
     },
     {
       "theme": "EPU_ECONOMY",
-      "n": 43
+      "n": 50
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 40
+      "theme": "USPEC_POLICY1",
+      "n": 44
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 37
+      "n": 39
     },
     {
-      "theme": "WB_470_EDUCATION",
-      "n": 37
+      "theme": "ARMEDCONFLICT",
+      "n": 33
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 36
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 32
     },
     {
-      "theme": "WB_137_WATER",
+      "theme": "MEDICAL",
       "n": 31
+    },
+    {
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 30
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 30
+    },
+    {
+      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
+      "n": 29
     }
   ]
 }
