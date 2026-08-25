@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-25T19:43:47.590205+00:00",
-  "rows_total_scanned_last_run": 3248,
-  "rows_mexico_last_run": 62,
-  "overall_avg_tone_4h": -1.617,
+  "generated_at": "2026-08-25T20:01:10.787690+00:00",
+  "rows_total_scanned_last_run": 6357,
+  "rows_mexico_last_run": 111,
+  "overall_avg_tone_4h": -1.49,
   "timeline": [
-    {
-      "time": "2026-08-22T19:45",
-      "avg_tone": -0.31,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-08-22T20:00",
-      "avg_tone": -1.867,
-      "n_articles": 5
-    },
     {
       "time": "2026-08-22T20:15",
       "avg_tone": -1.016,
@@ -1338,18 +1328,48 @@
       "time": "2026-08-25T19:15",
       "avg_tone": -1.605,
       "n_articles": 33
+    },
+    {
+      "time": "2026-08-25T19:30",
+      "avg_tone": -0.885,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-08-25T19:45",
+      "avg_tone": -0.277,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-08-25T20:00",
+      "avg_tone": 0.282,
+      "n_articles": 26
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 11,
-      "avg_tone": -2.799
+      "n": 17,
+      "avg_tone": -2.617
     },
     {
-      "source": "news4jax.com",
-      "n": 3,
-      "avg_tone": -3.565
+      "source": "calgarysun.com",
+      "n": 10,
+      "avg_tone": 0.28
+    },
+    {
+      "source": "newsregister.com",
+      "n": 2,
+      "avg_tone": 1.002
+    },
+    {
+      "source": "indiatimes.com",
+      "n": 2,
+      "avg_tone": 5.288
+    },
+    {
+      "source": "foxsanantonio.com",
+      "n": 2,
+      "avg_tone": -7.359
     },
     {
       "source": "foxnews.com",
@@ -1367,116 +1387,101 @@
       "avg_tone": -1.459
     },
     {
-      "source": "ksyl.com",
-      "n": 2,
-      "avg_tone": -1.546
+      "source": "local10.com",
+      "n": 1,
+      "avg_tone": -2.817
     },
     {
-      "source": "netscape.com",
-      "n": 2,
-      "avg_tone": -5.559
+      "source": "digitaljournal.com",
+      "n": 1,
+      "avg_tone": -3.255
     },
     {
-      "source": "kristv.com",
+      "source": "wfdd.org",
+      "n": 1,
+      "avg_tone": -0.559
+    },
+    {
+      "source": "republicanherald.com",
+      "n": 1,
+      "avg_tone": -0.666
+    },
+    {
+      "source": "fastcasual.com",
       "n": 1,
       "avg_tone": 0.0
     },
     {
-      "source": "b1027.com",
+      "source": "991thewhale.com",
       "n": 1,
       "avg_tone": -1.954
     },
     {
-      "source": "islands.com",
+      "source": "mobileidworld.com",
       "n": 1,
-      "avg_tone": 3.704
-    },
-    {
-      "source": "dailysabah.com",
-      "n": 1,
-      "avg_tone": -1.949
-    },
-    {
-      "source": "winnipegfreepress.com",
-      "n": 1,
-      "avg_tone": -0.78
-    },
-    {
-      "source": "us105fm.com",
-      "n": 1,
-      "avg_tone": -6.522
-    },
-    {
-      "source": "agri-pulse.com",
-      "n": 1,
-      "avg_tone": 0.079
-    },
-    {
-      "source": "krforadio.com",
-      "n": 1,
-      "avg_tone": -1.954
+      "avg_tone": -2.21
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 182
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 135
+      "n": 328
     },
     {
       "theme": "LEADER",
-      "n": 131
+      "n": 221
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 90
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 199
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 87
+      "n": 162
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 60
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 55
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 151
     },
     {
       "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
-      "n": 53
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 45
+      "n": 108
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 42
+      "n": 88
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 41
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 83
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 41
+      "theme": "AGRICULTURE",
+      "n": 80
+    },
+    {
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 65
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 63
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 39
+      "n": 61
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 37
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 58
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 37
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 57
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 55
     }
   ]
 }
