@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-25T21:58:40.153829+00:00",
-  "rows_total_scanned_last_run": 5963,
-  "rows_mexico_last_run": 117,
-  "overall_avg_tone_4h": -1.325,
+  "generated_at": "2026-08-25T22:27:29.036852+00:00",
+  "rows_total_scanned_last_run": 6021,
+  "rows_mexico_last_run": 119,
+  "overall_avg_tone_4h": -1.285,
   "timeline": [
-    {
-      "time": "2026-08-22T22:00",
-      "avg_tone": -0.279,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-08-22T22:15",
-      "avg_tone": -1.624,
-      "n_articles": 7
-    },
     {
       "time": "2026-08-22T22:30",
       "avg_tone": 0.087,
@@ -1348,13 +1338,23 @@
       "time": "2026-08-25T22:00",
       "avg_tone": -0.963,
       "n_articles": 33
+    },
+    {
+      "time": "2026-08-25T22:15",
+      "avg_tone": -0.732,
+      "n_articles": 35
+    },
+    {
+      "time": "2026-08-25T22:30",
+      "avg_tone": -1.558,
+      "n_articles": 19
     }
   ],
   "top_sources": [
     {
-      "source": "iheart.com",
-      "n": 5,
-      "avg_tone": -3.563
+      "source": "kvia.com",
+      "n": 3,
+      "avg_tone": -1.505
     },
     {
       "source": "chicagotribune.com",
@@ -1367,9 +1367,34 @@
       "avg_tone": -3.034
     },
     {
-      "source": "yahoo.com",
+      "source": "fox10phoenix.com",
       "n": 2,
-      "avg_tone": 4.478
+      "avg_tone": -7.881
+    },
+    {
+      "source": "manilatimes.net",
+      "n": 2,
+      "avg_tone": -2.212
+    },
+    {
+      "source": "clickondetroit.com",
+      "n": 2,
+      "avg_tone": -1.332
+    },
+    {
+      "source": "theglobeandmail.com",
+      "n": 2,
+      "avg_tone": -0.711
+    },
+    {
+      "source": "bleedingcool.com",
+      "n": 2,
+      "avg_tone": -1.878
+    },
+    {
+      "source": "stcatharinesstandard.ca",
+      "n": 2,
+      "avg_tone": -0.461
     },
     {
       "source": "taylorvilledailynews.com",
@@ -1380,11 +1405,6 @@
       "source": "ideastream.org",
       "n": 2,
       "avg_tone": -1.918
-    },
-    {
-      "source": "screenrant.com",
-      "n": 2,
-      "avg_tone": 1.296
     },
     {
       "source": "fox26houston.com",
@@ -1405,88 +1425,68 @@
       "source": "capitalgazette.com",
       "n": 2,
       "avg_tone": -1.544
-    },
-    {
-      "source": "winknews.com",
-      "n": 2,
-      "avg_tone": -2.754
-    },
-    {
-      "source": "hindustantimes.com",
-      "n": 2,
-      "avg_tone": -1.718
-    },
-    {
-      "source": "thetimes-tribune.com",
-      "n": 2,
-      "avg_tone": -1.544
-    },
-    {
-      "source": "capitalpress.com",
-      "n": 2,
-      "avg_tone": 1.072
     }
   ],
   "top_themes": [
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 244
-    },
     {
       "theme": "LEADER",
       "n": 240
     },
     {
-      "theme": "TAX_DISEASE_MEASLES",
-      "n": 215
-    },
-    {
-      "theme": "UNGP_HEALTHCARE",
-      "n": 207
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 240
     },
     {
       "theme": "MEDICAL",
-      "n": 200
+      "n": 203
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 195
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 195
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 190
+      "n": 194
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 189
+      "n": 187
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 180
+    },
+    {
+      "theme": "TAX_DISEASE_MEASLES",
+      "n": 167
+    },
+    {
+      "theme": "UNGP_HEALTHCARE",
+      "n": 164
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 146
     },
     {
       "theme": "BORDER",
-      "n": 137
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 111
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 96
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 90
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 89
+      "n": 142
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 88
+      "n": 112
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 103
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 95
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 95
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 84
     }
   ]
 }
