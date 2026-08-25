@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-25T21:41:04.153597+00:00",
-  "rows_total_scanned_last_run": 5786,
-  "rows_mexico_last_run": 105,
-  "overall_avg_tone_4h": -1.385,
+  "generated_at": "2026-08-25T21:58:40.153829+00:00",
+  "rows_total_scanned_last_run": 5963,
+  "rows_mexico_last_run": 117,
+  "overall_avg_tone_4h": -1.325,
   "timeline": [
-    {
-      "time": "2026-08-22T21:45",
-      "avg_tone": -0.004,
-      "n_articles": 11
-    },
     {
       "time": "2026-08-22T22:00",
       "avg_tone": -0.279,
@@ -1348,18 +1343,48 @@
       "time": "2026-08-25T21:45",
       "avg_tone": -2.419,
       "n_articles": 32
+    },
+    {
+      "time": "2026-08-25T22:00",
+      "avg_tone": -0.963,
+      "n_articles": 33
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 9,
+      "n": 5,
       "avg_tone": -3.563
+    },
+    {
+      "source": "chicagotribune.com",
+      "n": 3,
+      "avg_tone": -1.582
     },
     {
       "source": "latinpost.com",
       "n": 3,
       "avg_tone": -3.034
+    },
+    {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": 4.478
+    },
+    {
+      "source": "taylorvilledailynews.com",
+      "n": 2,
+      "avg_tone": -1.528
+    },
+    {
+      "source": "ideastream.org",
+      "n": 2,
+      "avg_tone": -1.918
+    },
+    {
+      "source": "screenrant.com",
+      "n": 2,
+      "avg_tone": 1.296
     },
     {
       "source": "fox26houston.com",
@@ -1397,96 +1422,71 @@
       "avg_tone": -1.544
     },
     {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": 2.937
-    },
-    {
       "source": "capitalpress.com",
       "n": 2,
       "avg_tone": 1.072
-    },
-    {
-      "source": "journal-advocate.com",
-      "n": 2,
-      "avg_tone": -1.544
-    },
-    {
-      "source": "wsbradio.com",
-      "n": 2,
-      "avg_tone": -1.558
-    },
-    {
-      "source": "reporterherald.com",
-      "n": 2,
-      "avg_tone": -1.544
-    },
-    {
-      "source": "mercurynews.com",
-      "n": 2,
-      "avg_tone": -0.292
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 214
-    },
-    {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 205
+      "n": 244
     },
     {
       "theme": "LEADER",
-      "n": 197
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 189
+      "n": 240
     },
     {
       "theme": "TAX_DISEASE_MEASLES",
-      "n": 176
+      "n": 215
     },
     {
       "theme": "UNGP_HEALTHCARE",
-      "n": 167
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 159
+      "n": 207
     },
     {
       "theme": "MEDICAL",
-      "n": 151
+      "n": 200
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 195
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 146
+      "n": 195
     },
     {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 108
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 190
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 189
     },
     {
       "theme": "BORDER",
-      "n": 108
+      "n": 137
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 111
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 98
+      "n": 96
     },
     {
-      "theme": "WB_137_WATER",
-      "n": 83
+      "theme": "TAX_ECON_PRICE",
+      "n": 90
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 79
+      "theme": "AGRICULTURE",
+      "n": 89
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 76
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 88
     }
   ]
 }
