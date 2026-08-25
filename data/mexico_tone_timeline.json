@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-25T07:28:28.571133+00:00",
-  "rows_total_scanned_last_run": 3617,
-  "rows_mexico_last_run": 48,
-  "overall_avg_tone_4h": -2.034,
+  "generated_at": "2026-08-25T08:06:52.500092+00:00",
+  "rows_total_scanned_last_run": 1804,
+  "rows_mexico_last_run": 18,
+  "overall_avg_tone_4h": -1.998,
   "timeline": [
-    {
-      "time": "2026-08-22T07:30",
-      "avg_tone": -1.43,
-      "n_articles": 23
-    },
-    {
-      "time": "2026-08-22T07:45",
-      "avg_tone": -1.49,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-08-22T08:00",
-      "avg_tone": -1.105,
-      "n_articles": 12
-    },
     {
       "time": "2026-08-22T08:15",
       "avg_tone": -1.743,
@@ -1353,28 +1338,68 @@
       "time": "2026-08-25T07:30",
       "avg_tone": -1.345,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-25T08:00",
+      "avg_tone": -1.357,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
-      "source": "santafenewmexican.com",
-      "n": 3,
-      "avg_tone": -2.211
+      "source": "hngnews.com",
+      "n": 2,
+      "avg_tone": -4.199
     },
     {
-      "source": "business-standard.com",
+      "source": "asiaone.com",
       "n": 2,
-      "avg_tone": -2.269
+      "avg_tone": -1.828
     },
     {
-      "source": "wsws.org",
-      "n": 2,
-      "avg_tone": -3.329
+      "source": "indiatimes.com",
+      "n": 1,
+      "avg_tone": 1.308
     },
     {
-      "source": "hindustantimes.com",
-      "n": 2,
-      "avg_tone": -1.971
+      "source": "taylorvilledailynews.com",
+      "n": 1,
+      "avg_tone": -1.875
+    },
+    {
+      "source": "thenews.com.pk",
+      "n": 1,
+      "avg_tone": -2.521
+    },
+    {
+      "source": "arynews.tv",
+      "n": 1,
+      "avg_tone": -2.969
+    },
+    {
+      "source": "travelextra.ie",
+      "n": 1,
+      "avg_tone": 3.621
+    },
+    {
+      "source": "erienewsnow.com",
+      "n": 1,
+      "avg_tone": -1.852
+    },
+    {
+      "source": "union-bulletin.com",
+      "n": 1,
+      "avg_tone": -1.712
+    },
+    {
+      "source": "yumasun.com",
+      "n": 1,
+      "avg_tone": -2.051
+    },
+    {
+      "source": "singersroom.com",
+      "n": 1,
+      "avg_tone": 2.47
     },
     {
       "source": "winknews.com",
@@ -1395,103 +1420,68 @@
       "source": "wgal.com",
       "n": 1,
       "avg_tone": -0.789
-    },
-    {
-      "source": "tribtoday.com",
-      "n": 1,
-      "avg_tone": -0.394
-    },
-    {
-      "source": "huffingtonpost.co.uk",
-      "n": 1,
-      "avg_tone": -3.691
-    },
-    {
-      "source": "newsandsentinel.com",
-      "n": 1,
-      "avg_tone": 1.741
-    },
-    {
-      "source": "kcbd.com",
-      "n": 1,
-      "avg_tone": -0.823
-    },
-    {
-      "source": "risk.net",
-      "n": 1,
-      "avg_tone": 1.493
-    },
-    {
-      "source": "freemalaysiatoday.com",
-      "n": 1,
-      "avg_tone": -2.755
-    },
-    {
-      "source": "irishmirror.ie",
-      "n": 1,
-      "avg_tone": -9.318
     }
   ],
   "top_themes": [
     {
+      "theme": "WB_137_WATER",
+      "n": 73
+    },
+    {
       "theme": "WB_698_TRADE",
-      "n": 123
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 102
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 98
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 98
-    },
-    {
-      "theme": "BORDER",
-      "n": 97
-    },
-    {
-      "theme": "LEADER",
-      "n": 96
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 94
+      "n": 68
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 89
+      "n": 64
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 62
+    },
+    {
+      "theme": "BORDER",
+      "n": 62
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 55
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 55
+    },
+    {
+      "theme": "LEADER",
+      "n": 54
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 54
     },
     {
       "theme": "TAX_ECON_PRICE",
-      "n": 83
-    },
-    {
-      "theme": "TAX_FNCACT_WORKERS",
-      "n": 56
+      "n": 42
     },
     {
       "theme": "EPU_ECONOMY",
-      "n": 52
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 49
+      "n": 36
     },
     {
       "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
-      "n": 47
+      "n": 34
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 47
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 33
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 46
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 29
+    },
+    {
+      "theme": "ARMEDCONFLICT",
+      "n": 24
     }
   ]
 }
