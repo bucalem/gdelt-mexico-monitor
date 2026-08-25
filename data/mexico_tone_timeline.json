@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-25T03:29:15.528654+00:00",
-  "rows_total_scanned_last_run": 2870,
-  "rows_mexico_last_run": 56,
+  "generated_at": "2026-08-25T04:08:50.315179+00:00",
+  "rows_total_scanned_last_run": 662,
+  "rows_mexico_last_run": 17,
   "overall_avg_tone_4h": -2.241,
   "timeline": [
-    {
-      "time": "2026-08-22T03:30",
-      "avg_tone": -0.74,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-22T03:45",
-      "avg_tone": -0.551,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-08-22T04:00",
-      "avg_tone": -1.123,
-      "n_articles": 13
-    },
     {
       "time": "2026-08-22T04:15",
       "avg_tone": -0.762,
@@ -1377,44 +1362,9 @@
       "avg_tone": -1.018
     },
     {
-      "source": "fox5ny.com",
-      "n": 3,
-      "avg_tone": -3.258
-    },
-    {
       "source": "wsbradio.com",
       "n": 2,
       "avg_tone": -2.134
-    },
-    {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -0.171
-    },
-    {
-      "source": "lonestar995fm.com",
-      "n": 2,
-      "avg_tone": -1.632
-    },
-    {
-      "source": "bozemandailychronicle.com",
-      "n": 2,
-      "avg_tone": -2.013
-    },
-    {
-      "source": "thetimes-tribune.com",
-      "n": 2,
-      "avg_tone": -2.874
-    },
-    {
-      "source": "b93.net",
-      "n": 2,
-      "avg_tone": -1.632
-    },
-    {
-      "source": "krcgtv.com",
-      "n": 2,
-      "avg_tone": -3.781
     },
     {
       "source": "krcrtv.com",
@@ -1440,68 +1390,88 @@
       "source": "awesome98.com",
       "n": 1,
       "avg_tone": -6.522
+    },
+    {
+      "source": "nebraska.tv",
+      "n": 1,
+      "avg_tone": -4.39
+    },
+    {
+      "source": "kcby.com",
+      "n": 1,
+      "avg_tone": -4.749
+    },
+    {
+      "source": "bakersfieldnow.com",
+      "n": 1,
+      "avg_tone": -4.39
+    },
+    {
+      "source": "yahoo.com",
+      "n": 1,
+      "avg_tone": 3.977
     }
   ],
   "top_themes": [
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 110
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 108
+      "n": 44
     },
     {
       "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 106
+      "n": 43
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 43
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 106
+      "n": 43
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 106
+      "n": 43
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 106
+      "n": 43
     },
     {
       "theme": "EPU_CATS_HEALTHCARE",
-      "n": 87
+      "n": 38
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 73
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 69
+      "n": 25
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 68
+      "n": 24
     },
     {
       "theme": "WB_1014_CRIMINAL_JUSTICE",
-      "n": 68
+      "n": 24
     },
     {
-      "theme": "LEADER",
-      "n": 60
+      "theme": "GENERAL_HEALTH",
+      "n": 23
     },
     {
       "theme": "WB_831_GOVERNANCE",
-      "n": 57
+      "n": 22
     },
     {
       "theme": "WB_832_ANTI_CORRUPTION",
-      "n": 57
+      "n": 22
     },
     {
       "theme": "TAX_DISEASE_SALMONELLA",
-      "n": 57
+      "n": 22
+    },
+    {
+      "theme": "WB_2024_ANTI_CORRUPTION_AUTHORITIES",
+      "n": 21
     }
   ]
 }
