@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-25T04:08:50.315179+00:00",
-  "rows_total_scanned_last_run": 662,
-  "rows_mexico_last_run": 17,
-  "overall_avg_tone_4h": -2.241,
+  "generated_at": "2026-08-25T04:50:55.665824+00:00",
+  "rows_total_scanned_last_run": 2171,
+  "rows_mexico_last_run": 34,
+  "overall_avg_tone_4h": -2.132,
   "timeline": [
-    {
-      "time": "2026-08-22T04:15",
-      "avg_tone": -0.762,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-08-22T04:30",
-      "avg_tone": -0.434,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-08-22T04:45",
-      "avg_tone": -0.971,
-      "n_articles": 18
-    },
     {
       "time": "2026-08-22T05:00",
       "avg_tone": -1.189,
@@ -1348,130 +1333,160 @@
       "time": "2026-08-25T03:30",
       "avg_tone": -2.84,
       "n_articles": 17
+    },
+    {
+      "time": "2026-08-25T04:15",
+      "avg_tone": -1.71,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-08-25T04:30",
+      "avg_tone": -1.415,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-08-25T05:00",
+      "avg_tone": -2.689,
+      "n_articles": 19
     }
   ],
   "top_sources": [
     {
-      "source": "fox10phoenix.com",
+      "source": "gringogazette.com",
       "n": 3,
-      "avg_tone": -1.885
+      "avg_tone": -0.218
     },
     {
-      "source": "kob.com",
-      "n": 3,
-      "avg_tone": -1.018
-    },
-    {
-      "source": "wsbradio.com",
+      "source": "artdaily.com",
       "n": 2,
-      "avg_tone": -2.134
+      "avg_tone": -1.242
     },
     {
-      "source": "krcrtv.com",
+      "source": "kfoxtv.com",
+      "n": 2,
+      "avg_tone": -3.029
+    },
+    {
+      "source": "abajournal.com",
+      "n": 1,
+      "avg_tone": -3.912
+    },
+    {
+      "source": "fox23maine.com",
       "n": 1,
       "avg_tone": -4.749
     },
     {
-      "source": "hachettebookgroup.com",
-      "n": 1,
-      "avg_tone": -2.841
-    },
-    {
-      "source": "midmichigannow.com",
+      "source": "ktxs.com",
       "n": 1,
       "avg_tone": -4.749
     },
     {
-      "source": "cruiselawnews.com",
+      "source": "netscape.com",
       "n": 1,
-      "avg_tone": -6.897
+      "avg_tone": -1.976
     },
     {
-      "source": "awesome98.com",
+      "source": "el-balad.com",
       "n": 1,
-      "avg_tone": -6.522
+      "avg_tone": 2.286
     },
     {
-      "source": "nebraska.tv",
+      "source": "fox56.com",
+      "n": 1,
+      "avg_tone": -4.749
+    },
+    {
+      "source": "fox4beaumont.com",
       "n": 1,
       "avg_tone": -4.39
     },
     {
-      "source": "kcby.com",
+      "source": "strategypage.com",
+      "n": 1,
+      "avg_tone": -4.61
+    },
+    {
+      "source": "katv.com",
       "n": 1,
       "avg_tone": -4.749
     },
     {
-      "source": "bakersfieldnow.com",
+      "source": "goskagit.com",
       "n": 1,
-      "avg_tone": -4.39
+      "avg_tone": -1.852
     },
     {
-      "source": "yahoo.com",
+      "source": "indiatimes.com",
       "n": 1,
-      "avg_tone": 3.977
+      "avg_tone": -1.7
+    },
+    {
+      "source": "2news.com",
+      "n": 1,
+      "avg_tone": -1.852
     }
   ],
   "top_themes": [
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 44
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 43
+      "n": 79
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 43
+      "n": 67
     },
     {
       "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 43
+      "n": 65
+    },
+    {
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 64
     },
     {
       "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 43
+      "n": 64
     },
     {
       "theme": "WB_2167_PANDEMICS",
-      "n": 43
+      "n": 64
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 61
     },
     {
       "theme": "EPU_CATS_HEALTHCARE",
-      "n": 38
+      "n": 55
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 53
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 25
+      "n": 48
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 48
+    },
+    {
+      "theme": "LEADER",
+      "n": 47
     },
     {
       "theme": "WB_840_JUSTICE",
-      "n": 24
+      "n": 46
     },
     {
-      "theme": "WB_1014_CRIMINAL_JUSTICE",
-      "n": 24
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 46
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 23
-    },
-    {
-      "theme": "WB_831_GOVERNANCE",
-      "n": 22
-    },
-    {
-      "theme": "WB_832_ANTI_CORRUPTION",
-      "n": 22
-    },
-    {
-      "theme": "TAX_DISEASE_SALMONELLA",
-      "n": 22
-    },
-    {
-      "theme": "WB_2024_ANTI_CORRUPTION_AUTHORITIES",
-      "n": 21
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 43
     }
   ]
 }
