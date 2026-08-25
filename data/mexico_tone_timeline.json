@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-25T20:43:09.754678+00:00",
-  "rows_total_scanned_last_run": 7007,
-  "rows_mexico_last_run": 108,
-  "overall_avg_tone_4h": -1.518,
+  "generated_at": "2026-08-25T21:02:58.721668+00:00",
+  "rows_total_scanned_last_run": 6884,
+  "rows_mexico_last_run": 103,
+  "overall_avg_tone_4h": -1.482,
   "timeline": [
-    {
-      "time": "2026-08-22T20:45",
-      "avg_tone": -2.039,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-22T21:00",
-      "avg_tone": 0.235,
-      "n_articles": 13
-    },
     {
       "time": "2026-08-22T21:15",
       "avg_tone": -1.273,
@@ -1348,23 +1338,33 @@
       "time": "2026-08-25T20:45",
       "avg_tone": -1.292,
       "n_articles": 25
+    },
+    {
+      "time": "2026-08-25T21:00",
+      "avg_tone": -0.821,
+      "n_articles": 21
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 19,
+      "n": 21,
       "avg_tone": -3.563
-    },
-    {
-      "source": "calgarysun.com",
-      "n": 10,
-      "avg_tone": 0.28
     },
     {
       "source": "riviera-maya-news.com",
       "n": 4,
       "avg_tone": -5.333
+    },
+    {
+      "source": "mercurynews.com",
+      "n": 2,
+      "avg_tone": -0.292
+    },
+    {
+      "source": "sandiegouniontribune.com",
+      "n": 2,
+      "avg_tone": -0.575
     },
     {
       "source": "winnipegfreepress.com",
@@ -1392,101 +1392,96 @@
       "avg_tone": -0.871
     },
     {
-      "source": "baltimoresun.com",
+      "source": "us1033.com",
       "n": 1,
-      "avg_tone": -0.666
+      "avg_tone": 2.74
     },
     {
-      "source": "thehardtackle.com",
+      "source": "yahoo.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -0.792
     },
     {
-      "source": "chicoer.com",
+      "source": "mirror.co.uk",
       "n": 1,
-      "avg_tone": -0.666
+      "avg_tone": -0.329
     },
     {
-      "source": "aol.com",
+      "source": "z1077fm.com",
       "n": 1,
-      "avg_tone": -1.994
+      "avg_tone": 1.06
     },
     {
-      "source": "cnn.com",
+      "source": "rfdtv.com",
       "n": 1,
-      "avg_tone": -2.799
+      "avg_tone": -1.227
     },
     {
-      "source": "theguardian.com",
+      "source": "exclaim.ca",
       "n": 1,
-      "avg_tone": -1.325
-    },
-    {
-      "source": "just-auto.com",
-      "n": 1,
-      "avg_tone": 3.704
+      "avg_tone": 2.284
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 408
+      "n": 407
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 244
-    },
-    {
-      "theme": "LEADER",
-      "n": 199
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 179
+      "n": 260
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 176
+      "n": 203
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 77
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 195
+    },
+    {
+      "theme": "LEADER",
+      "n": 193
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 77
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 75
+      "n": 86
     },
     {
       "theme": "BORDER",
-      "n": 75
+      "n": 83
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 72
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 82
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 71
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 70
-    },
-    {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 70
+      "n": 80
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 68
+      "n": 75
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 74
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 74
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 73
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 72
     },
     {
       "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 68
+      "n": 71
     }
   ]
 }
