@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-25T22:27:29.036852+00:00",
-  "rows_total_scanned_last_run": 6021,
-  "rows_mexico_last_run": 119,
-  "overall_avg_tone_4h": -1.285,
+  "generated_at": "2026-08-25T22:54:36.959184+00:00",
+  "rows_total_scanned_last_run": 5526,
+  "rows_mexico_last_run": 100,
+  "overall_avg_tone_4h": -1.132,
   "timeline": [
-    {
-      "time": "2026-08-22T22:30",
-      "avg_tone": 0.087,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-22T22:45",
-      "avg_tone": 1.205,
-      "n_articles": 8
-    },
     {
       "time": "2026-08-22T23:00",
       "avg_tone": 0.53,
@@ -1348,23 +1338,38 @@
       "time": "2026-08-25T22:30",
       "avg_tone": -1.558,
       "n_articles": 19
+    },
+    {
+      "time": "2026-08-25T22:45",
+      "avg_tone": -0.517,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-08-25T23:00",
+      "avg_tone": -1.694,
+      "n_articles": 23
     }
   ],
   "top_sources": [
+    {
+      "source": "wdbo.com",
+      "n": 3,
+      "avg_tone": -3.413
+    },
     {
       "source": "kvia.com",
       "n": 3,
       "avg_tone": -1.505
     },
     {
-      "source": "chicagotribune.com",
-      "n": 3,
-      "avg_tone": -1.582
+      "source": "wsls.com",
+      "n": 2,
+      "avg_tone": -1.332
     },
     {
-      "source": "latinpost.com",
-      "n": 3,
-      "avg_tone": -3.034
+      "source": "forbes.com",
+      "n": 2,
+      "avg_tone": 0.019
     },
     {
       "source": "fox10phoenix.com",
@@ -1397,96 +1402,91 @@
       "avg_tone": -0.461
     },
     {
-      "source": "taylorvilledailynews.com",
-      "n": 2,
-      "avg_tone": -1.528
+      "source": "wcsufm.org",
+      "n": 1,
+      "avg_tone": -0.559
     },
     {
-      "source": "ideastream.org",
-      "n": 2,
-      "avg_tone": -1.918
+      "source": "wvxu.org",
+      "n": 1,
+      "avg_tone": -0.559
     },
     {
-      "source": "fox26houston.com",
-      "n": 2,
-      "avg_tone": -1.839
+      "source": "wandtv.com",
+      "n": 1,
+      "avg_tone": -2.384
     },
     {
-      "source": "mlsmultiplex.com",
-      "n": 2,
-      "avg_tone": -0.155
+      "source": "christendom.edu",
+      "n": 1,
+      "avg_tone": 1.965
     },
     {
-      "source": "wgauradio.com",
-      "n": 2,
-      "avg_tone": -1.548
-    },
-    {
-      "source": "capitalgazette.com",
-      "n": 2,
-      "avg_tone": -1.544
+      "source": "rollcall.com",
+      "n": 1,
+      "avg_tone": 0.649
     }
   ],
   "top_themes": [
     {
-      "theme": "LEADER",
-      "n": 240
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 240
-    },
-    {
       "theme": "MEDICAL",
-      "n": 203
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 194
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 187
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 180
-    },
-    {
-      "theme": "TAX_DISEASE_MEASLES",
-      "n": 167
-    },
-    {
-      "theme": "UNGP_HEALTHCARE",
       "n": 164
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 146
+      "theme": "UNGP_HEALTHCARE",
+      "n": 160
     },
     {
-      "theme": "BORDER",
-      "n": 142
+      "theme": "TAX_DISEASE_MEASLES",
+      "n": 154
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
+      "theme": "GENERAL_HEALTH",
+      "n": 147
+    },
+    {
+      "theme": "LEADER",
+      "n": 127
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 119
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
       "n": 112
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 103
+      "theme": "WB_698_TRADE",
+      "n": 109
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 95
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 102
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 95
+      "theme": "BORDER",
+      "n": 81
     },
     {
       "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 84
+      "n": 78
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 78
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 71
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 66
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 62
     }
   ]
 }
