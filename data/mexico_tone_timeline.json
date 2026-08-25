@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-25T04:50:55.665824+00:00",
-  "rows_total_scanned_last_run": 2171,
-  "rows_mexico_last_run": 34,
-  "overall_avg_tone_4h": -2.132,
+  "generated_at": "2026-08-25T05:23:46.917063+00:00",
+  "rows_total_scanned_last_run": 2842,
+  "rows_mexico_last_run": 72,
+  "overall_avg_tone_4h": -2.172,
   "timeline": [
-    {
-      "time": "2026-08-22T05:00",
-      "avg_tone": -1.189,
-      "n_articles": 19
-    },
-    {
-      "time": "2026-08-22T05:15",
-      "avg_tone": -1.81,
-      "n_articles": 18
-    },
     {
       "time": "2026-08-22T05:30",
       "avg_tone": -2.664,
@@ -1345,16 +1335,56 @@
       "n_articles": 8
     },
     {
+      "time": "2026-08-25T04:45",
+      "avg_tone": -3.691,
+      "n_articles": 18
+    },
+    {
       "time": "2026-08-25T05:00",
       "avg_tone": -2.689,
       "n_articles": 19
+    },
+    {
+      "time": "2026-08-25T05:15",
+      "avg_tone": -2.249,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-08-25T05:30",
+      "avg_tone": -1.862,
+      "n_articles": 21
     }
   ],
   "top_sources": [
     {
-      "source": "gringogazette.com",
+      "source": "fox35orlando.com",
       "n": 3,
-      "avg_tone": -0.218
+      "avg_tone": -3.264
+    },
+    {
+      "source": "nbcsandiego.com",
+      "n": 2,
+      "avg_tone": -4.853
+    },
+    {
+      "source": "wokv.com",
+      "n": 2,
+      "avg_tone": -1.516
+    },
+    {
+      "source": "ksat.com",
+      "n": 2,
+      "avg_tone": -0.759
+    },
+    {
+      "source": "fox29.com",
+      "n": 2,
+      "avg_tone": -4.298
+    },
+    {
+      "source": "idahostatejournal.com",
+      "n": 2,
+      "avg_tone": -1.852
     },
     {
       "source": "artdaily.com",
@@ -1367,126 +1397,101 @@
       "avg_tone": -3.029
     },
     {
-      "source": "abajournal.com",
-      "n": 1,
-      "avg_tone": -3.912
+      "source": "asiaone.com",
+      "n": 2,
+      "avg_tone": -4.645
     },
     {
-      "source": "fox23maine.com",
+      "source": "news4jax.com",
+      "n": 2,
+      "avg_tone": -1.433
+    },
+    {
+      "source": "cbs4local.com",
+      "n": 2,
+      "avg_tone": -3.029
+    },
+    {
+      "source": "chicagotribune.com",
+      "n": 1,
+      "avg_tone": 1.385
+    },
+    {
+      "source": "wwmt.com",
       "n": 1,
       "avg_tone": -4.749
     },
     {
-      "source": "ktxs.com",
+      "source": "vaildaily.com",
+      "n": 1,
+      "avg_tone": 2.734
+    },
+    {
+      "source": "nbcmontana.com",
       "n": 1,
       "avg_tone": -4.749
-    },
-    {
-      "source": "netscape.com",
-      "n": 1,
-      "avg_tone": -1.976
-    },
-    {
-      "source": "el-balad.com",
-      "n": 1,
-      "avg_tone": 2.286
-    },
-    {
-      "source": "fox56.com",
-      "n": 1,
-      "avg_tone": -4.749
-    },
-    {
-      "source": "fox4beaumont.com",
-      "n": 1,
-      "avg_tone": -4.39
-    },
-    {
-      "source": "strategypage.com",
-      "n": 1,
-      "avg_tone": -4.61
-    },
-    {
-      "source": "katv.com",
-      "n": 1,
-      "avg_tone": -4.749
-    },
-    {
-      "source": "goskagit.com",
-      "n": 1,
-      "avg_tone": -1.852
-    },
-    {
-      "source": "indiatimes.com",
-      "n": 1,
-      "avg_tone": -1.7
-    },
-    {
-      "source": "2news.com",
-      "n": 1,
-      "avg_tone": -1.852
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 79
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 67
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 65
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 64
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 64
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 64
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 61
-    },
-    {
-      "theme": "EPU_CATS_HEALTHCARE",
-      "n": 55
-    },
-    {
       "theme": "WB_698_TRADE",
-      "n": 53
+      "n": 193
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 48
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 48
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 175
     },
     {
       "theme": "LEADER",
-      "n": 47
+      "n": 166
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 46
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 163
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 46
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 160
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 160
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 160
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 160
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 143
+    },
+    {
+      "theme": "EPU_CATS_HEALTHCARE",
+      "n": 142
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 43
+      "n": 133
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 131
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 131
+    },
+    {
+      "theme": "BORDER",
+      "n": 124
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 121
     }
   ]
 }
