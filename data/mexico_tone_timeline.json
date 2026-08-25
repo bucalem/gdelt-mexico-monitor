@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-25T10:47:13.014394+00:00",
-  "rows_total_scanned_last_run": 4166,
-  "rows_mexico_last_run": 46,
-  "overall_avg_tone_4h": -1.325,
+  "generated_at": "2026-08-25T11:18:33.601778+00:00",
+  "rows_total_scanned_last_run": 4884,
+  "rows_mexico_last_run": 43,
+  "overall_avg_tone_4h": -1.267,
   "timeline": [
-    {
-      "time": "2026-08-22T11:00",
-      "avg_tone": -1.797,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-22T11:15",
-      "avg_tone": -2.066,
-      "n_articles": 14
-    },
     {
       "time": "2026-08-22T11:30",
       "avg_tone": -1.347,
@@ -1343,6 +1333,16 @@
       "time": "2026-08-25T10:45",
       "avg_tone": -2.144,
       "n_articles": 11
+    },
+    {
+      "time": "2026-08-25T11:00",
+      "avg_tone": 1.706,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-25T11:15",
+      "avg_tone": -2.303,
+      "n_articles": 9
     }
   ],
   "top_sources": [
@@ -1350,6 +1350,16 @@
       "source": "themarketsdaily.com",
       "n": 3,
       "avg_tone": 1.884
+    },
+    {
+      "source": "hindustantimes.com",
+      "n": 2,
+      "avg_tone": -0.674
+    },
+    {
+      "source": "retailtimes.co.uk",
+      "n": 2,
+      "avg_tone": 6.659
     },
     {
       "source": "mondaq.com",
@@ -1367,121 +1377,111 @@
       "avg_tone": -0.661
     },
     {
-      "source": "indiatimes.com",
-      "n": 2,
-      "avg_tone": -0.706
-    },
-    {
-      "source": "ventureburn.com",
-      "n": 2,
-      "avg_tone": -0.949
-    },
-    {
-      "source": "jowhar.com",
+      "source": "daily-tribune.com",
       "n": 1,
-      "avg_tone": -3.378
+      "avg_tone": -1.003
     },
     {
-      "source": "publicradioeast.org",
+      "source": "fultonsun.com",
       "n": 1,
-      "avg_tone": -5.263
+      "avg_tone": -6.25
     },
     {
-      "source": "udn.com",
+      "source": "zerohedge.com",
       "n": 1,
-      "avg_tone": -1.076
+      "avg_tone": -3.029
     },
     {
-      "source": "newsday.com",
+      "source": "news-medical.net",
       "n": 1,
-      "avg_tone": -2.186
+      "avg_tone": -1.921
     },
     {
-      "source": "independent.co.uk",
+      "source": "wbaltv.com",
       "n": 1,
-      "avg_tone": -5.371
+      "avg_tone": -5.714
     },
     {
-      "source": "winnipegfreepress.com",
-      "n": 1,
-      "avg_tone": -0.597
-    },
-    {
-      "source": "hindustantimes.com",
+      "source": "imt.ie",
       "n": 1,
       "avg_tone": -1.9
     },
     {
-      "source": "wkyufm.org",
+      "source": "columbiagorgenews.com",
       "n": 1,
-      "avg_tone": -5.263
+      "avg_tone": 0.385
     },
     {
-      "source": "news8000.com",
+      "source": "wgan.com",
       "n": 1,
-      "avg_tone": -1.852
+      "avg_tone": -1.845
+    },
+    {
+      "source": "finanzen.ch",
+      "n": 1,
+      "avg_tone": -1.375
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 119
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 116
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 80
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 77
     },
     {
       "theme": "EDUCATION",
+      "n": 75
+    },
+    {
+      "theme": "WB_698_TRADE",
       "n": 66
     },
     {
       "theme": "LEADER",
-      "n": 65
-    },
-    {
-      "theme": "BORDER",
-      "n": 65
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
       "n": 62
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 57
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 60
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 53
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 45
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 43
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 42
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 36
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 35
+      "n": 55
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 34
+      "n": 53
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 49
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 49
+    },
+    {
+      "theme": "EPU_ECONOMY",
+      "n": 43
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 40
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 37
+    },
+    {
+      "theme": "WB_470_EDUCATION",
+      "n": 37
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 36
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 31
     }
   ]
 }
