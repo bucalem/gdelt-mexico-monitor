@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-25T05:23:46.917063+00:00",
-  "rows_total_scanned_last_run": 2842,
-  "rows_mexico_last_run": 72,
-  "overall_avg_tone_4h": -2.172,
+  "generated_at": "2026-08-25T05:55:19.759094+00:00",
+  "rows_total_scanned_last_run": 2742,
+  "rows_mexico_last_run": 67,
+  "overall_avg_tone_4h": -2.216,
   "timeline": [
-    {
-      "time": "2026-08-22T05:30",
-      "avg_tone": -2.664,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-08-22T05:45",
-      "avg_tone": -1.732,
-      "n_articles": 19
-    },
     {
       "time": "2026-08-22T06:00",
       "avg_tone": -1.238,
@@ -1353,13 +1343,38 @@
       "time": "2026-08-25T05:30",
       "avg_tone": -1.862,
       "n_articles": 21
+    },
+    {
+      "time": "2026-08-25T05:45",
+      "avg_tone": -1.724,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-08-25T06:00",
+      "avg_tone": -2.298,
+      "n_articles": 15
     }
   ],
   "top_sources": [
     {
+      "source": "mymotherlode.com",
+      "n": 4,
+      "avg_tone": -2.297
+    },
+    {
       "source": "fox35orlando.com",
       "n": 3,
       "avg_tone": -3.264
+    },
+    {
+      "source": "wach.com",
+      "n": 2,
+      "avg_tone": -6.296
+    },
+    {
+      "source": "yumasun.com",
+      "n": 2,
+      "avg_tone": -1.104
     },
     {
       "source": "nbcsandiego.com",
@@ -1387,47 +1402,32 @@
       "avg_tone": -1.852
     },
     {
-      "source": "artdaily.com",
-      "n": 2,
-      "avg_tone": -1.242
-    },
-    {
-      "source": "kfoxtv.com",
-      "n": 2,
-      "avg_tone": -3.029
-    },
-    {
-      "source": "asiaone.com",
-      "n": 2,
-      "avg_tone": -4.645
-    },
-    {
-      "source": "news4jax.com",
-      "n": 2,
-      "avg_tone": -1.433
-    },
-    {
-      "source": "cbs4local.com",
-      "n": 2,
-      "avg_tone": -3.029
-    },
-    {
-      "source": "chicagotribune.com",
+      "source": "wblm.com",
       "n": 1,
-      "avg_tone": 1.385
+      "avg_tone": 4.991
     },
     {
-      "source": "wwmt.com",
+      "source": "gazette.com",
       "n": 1,
-      "avg_tone": -4.749
+      "avg_tone": 1.556
     },
     {
-      "source": "vaildaily.com",
+      "source": "mynbc5.com",
       "n": 1,
-      "avg_tone": 2.734
+      "avg_tone": -0.789
     },
     {
-      "source": "nbcmontana.com",
+      "source": "local10.com",
+      "n": 1,
+      "avg_tone": -1.82
+    },
+    {
+      "source": "sitkasentinel.com",
+      "n": 1,
+      "avg_tone": -1.842
+    },
+    {
+      "source": "news4sanantonio.com",
       "n": 1,
       "avg_tone": -4.749
     }
@@ -1435,63 +1435,63 @@
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 193
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 175
+      "n": 186
     },
     {
       "theme": "LEADER",
-      "n": 166
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 163
-    },
-    {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 160
-    },
-    {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 160
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 160
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 160
+      "n": 146
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 143
+      "n": 145
     },
     {
-      "theme": "EPU_CATS_HEALTHCARE",
-      "n": 142
+      "theme": "AGRICULTURE",
+      "n": 144
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 133
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 131
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 136
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 131
+      "n": 135
     },
     {
       "theme": "BORDER",
-      "n": 124
+      "n": 134
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 121
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 133
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 126
+    },
+    {
+      "theme": "EPU_ECONOMY",
+      "n": 107
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 105
+    },
+    {
+      "theme": "TAX_DISEASE_OUTBREAK",
+      "n": 102
+    },
+    {
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 102
+    },
+    {
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 102
+    },
+    {
+      "theme": "WB_2167_PANDEMICS",
+      "n": 102
     }
   ]
 }
