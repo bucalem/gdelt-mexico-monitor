@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-08-26T05:25:19.780943+00:00",
-  "rows_total_scanned_last_run": 3719,
-  "rows_mexico_last_run": 62,
-  "overall_avg_tone_4h": -1.45,
+  "generated_at": "2026-08-26T05:57:54.303727+00:00",
+  "rows_total_scanned_last_run": 3595,
+  "rows_mexico_last_run": 63,
+  "overall_avg_tone_4h": -1.55,
   "timeline": [
-    {
-      "time": "2026-08-23T05:30",
-      "avg_tone": 0.028,
-      "n_articles": 11
-    },
     {
       "time": "2026-08-23T06:00",
       "avg_tone": -2.048,
@@ -1363,13 +1358,33 @@
       "time": "2026-08-26T05:30",
       "avg_tone": -3.108,
       "n_articles": 15
+    },
+    {
+      "time": "2026-08-26T05:45",
+      "avg_tone": -0.831,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-08-26T06:00",
+      "avg_tone": -2.383,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
+      "source": "stcatharinesstandard.ca",
+      "n": 4,
+      "avg_tone": -3.189
+    },
+    {
       "source": "thepeterboroughexaminer.com",
       "n": 4,
       "avg_tone": -2.528
+    },
+    {
+      "source": "e-flux.com",
+      "n": 3,
+      "avg_tone": 0.873
     },
     {
       "source": "clickondetroit.com",
@@ -1377,9 +1392,29 @@
       "avg_tone": -2.001
     },
     {
-      "source": "clickorlando.com",
-      "n": 3,
-      "avg_tone": -2.001
+      "source": "wral.com",
+      "n": 2,
+      "avg_tone": -2.254
+    },
+    {
+      "source": "lahainanews.com",
+      "n": 2,
+      "avg_tone": -2.118
+    },
+    {
+      "source": "wsbradio.com",
+      "n": 2,
+      "avg_tone": -2.134
+    },
+    {
+      "source": "wokv.com",
+      "n": 2,
+      "avg_tone": -1.466
+    },
+    {
+      "source": "cnn.com",
+      "n": 2,
+      "avg_tone": -2.699
     },
     {
       "source": "sitkasentinel.com",
@@ -1392,116 +1427,86 @@
       "avg_tone": -3.207
     },
     {
-      "source": "thedailymeal.com",
+      "source": "theguardian.com",
       "n": 1,
-      "avg_tone": 3.464
+      "avg_tone": -8.929
     },
     {
-      "source": "businessday.co.za",
+      "source": "therecordlive.com",
       "n": 1,
-      "avg_tone": -2.033
+      "avg_tone": 2.483
     },
     {
-      "source": "jacarandafm.com",
+      "source": "yahoo.com",
       "n": 1,
-      "avg_tone": -5.805
+      "avg_tone": -5.076
     },
     {
-      "source": "oann.com",
+      "source": "greaterbelize.com",
       "n": 1,
-      "avg_tone": -5.21
-    },
-    {
-      "source": "texarkanagazette.com",
-      "n": 1,
-      "avg_tone": -6.122
-    },
-    {
-      "source": "finanznachrichten.de",
-      "n": 1,
-      "avg_tone": 2.079
-    },
-    {
-      "source": "koreatimes.co.kr",
-      "n": 1,
-      "avg_tone": -5.163
-    },
-    {
-      "source": "freerepublic.com",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "wboc.com",
-      "n": 1,
-      "avg_tone": -2.318
-    },
-    {
-      "source": "lompocrecord.com",
-      "n": 1,
-      "avg_tone": -9.896
+      "avg_tone": -1.768
     }
   ],
   "top_themes": [
     {
       "theme": "LEADER",
-      "n": 131
+      "n": 124
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 128
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 74
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 69
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 65
+      "n": 116
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 61
+      "n": 112
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 93
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 89
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 58
+      "n": 68
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 57
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 54
-    },
-    {
-      "theme": "TRIAL",
-      "n": 50
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 46
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 63
     },
     {
       "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
-      "n": 46
+      "n": 60
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 58
+    },
+    {
+      "theme": "TRIAL",
+      "n": 55
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 46
+      "n": 50
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "theme": "AGRICULTURE",
+      "n": 49
+    },
+    {
+      "theme": "BORDER",
+      "n": 45
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 44
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 43
+      "theme": "WB_470_EDUCATION",
+      "n": 44
     }
   ]
 }
