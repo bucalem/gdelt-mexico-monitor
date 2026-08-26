@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-26T03:18:29.468787+00:00",
-  "rows_total_scanned_last_run": 3529,
-  "rows_mexico_last_run": 61,
-  "overall_avg_tone_4h": -1.16,
+  "generated_at": "2026-08-26T04:08:27.451664+00:00",
+  "rows_total_scanned_last_run": 3197,
+  "rows_mexico_last_run": 38,
+  "overall_avg_tone_4h": -1.214,
   "timeline": [
-    {
-      "time": "2026-08-23T03:30",
-      "avg_tone": -0.763,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-23T03:45",
-      "avg_tone": -0.366,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-23T04:00",
-      "avg_tone": -2.513,
-      "n_articles": 11
-    },
     {
       "time": "2026-08-23T04:15",
       "avg_tone": 1.215,
@@ -1358,145 +1343,165 @@
       "time": "2026-08-26T03:15",
       "avg_tone": -2.23,
       "n_articles": 16
+    },
+    {
+      "time": "2026-08-26T03:30",
+      "avg_tone": -1.561,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-26T03:45",
+      "avg_tone": -1.378,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-26T04:00",
+      "avg_tone": -1.977,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-08-26T04:15",
+      "avg_tone": -0.389,
+      "n_articles": 11
     }
   ],
   "top_sources": [
     {
-      "source": "mexicostar.com",
+      "source": "yahoo.com",
       "n": 2,
-      "avg_tone": -0.168
+      "avg_tone": -2.058
     },
     {
-      "source": "arkansasonline.com",
+      "source": "mymotherlode.com",
       "n": 2,
-      "avg_tone": -5.603
+      "avg_tone": -4.24
     },
     {
-      "source": "ft.lk",
-      "n": 2,
-      "avg_tone": -2.165
-    },
-    {
-      "source": "santamariatimes.com",
-      "n": 2,
-      "avg_tone": -6.474
-    },
-    {
-      "source": "taylorvilledailynews.com",
-      "n": 2,
-      "avg_tone": -5.124
-    },
-    {
-      "source": "theepochtimes.com",
-      "n": 2,
-      "avg_tone": -0.472
-    },
-    {
-      "source": "portlandtribune.com",
+      "source": "singaporestar.com",
       "n": 1,
-      "avg_tone": -10.012
+      "avg_tone": 0.334
     },
     {
-      "source": "manilatimes.net",
+      "source": "el-balad.com",
       "n": 1,
-      "avg_tone": -0.706
+      "avg_tone": -0.48
     },
     {
-      "source": "cbc.ca",
+      "source": "independent.co.uk",
       "n": 1,
-      "avg_tone": -2.49
+      "avg_tone": -3.965
     },
     {
-      "source": "latintimes.com",
+      "source": "iheart.com",
       "n": 1,
-      "avg_tone": -1.305
+      "avg_tone": -5.353
     },
     {
-      "source": "womenboxing.com",
+      "source": "koat.com",
       "n": 1,
-      "avg_tone": 4.961
+      "avg_tone": -1.431
     },
     {
-      "source": "wfae.org",
+      "source": "ksbw.com",
       "n": 1,
-      "avg_tone": -0.559
+      "avg_tone": 3.133
     },
     {
-      "source": "squatchrocks.com",
+      "source": "newjerseytelegraph.com",
       "n": 1,
-      "avg_tone": -5.357
+      "avg_tone": 0.334
     },
     {
-      "source": "bozemandailychronicle.com",
+      "source": "gringogazette.com",
       "n": 1,
-      "avg_tone": -7.706
+      "avg_tone": 5.769
     },
     {
-      "source": "sitkasentinel.com",
+      "source": "aircargonews.com",
       "n": 1,
-      "avg_tone": -2.318
+      "avg_tone": -0.636
+    },
+    {
+      "source": "indiatimes.com",
+      "n": 1,
+      "avg_tone": -2.139
+    },
+    {
+      "source": "duncanbanner.com",
+      "n": 1,
+      "avg_tone": 0.157
+    },
+    {
+      "source": "thehindubusinessline.com",
+      "n": 1,
+      "avg_tone": -0.822
+    },
+    {
+      "source": "katu.com",
+      "n": 1,
+      "avg_tone": -5.586
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
-      "n": 107
-    },
-    {
-      "theme": "ECON_INFLATION",
-      "n": 104
-    },
-    {
-      "theme": "WB_442_INFLATION",
-      "n": 104
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 65
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 43
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 63
+      "n": 39
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 60
+      "n": 37
     },
     {
-      "theme": "LEADER",
-      "n": 58
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 33
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 53
+      "theme": "TRIAL",
+      "n": 31
     },
     {
-      "theme": "SOC_GENERALCRIME",
-      "n": 51
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
-      "n": 51
-    },
-    {
-      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
-      "n": 50
-    },
-    {
-      "theme": "WB_1979_NATURAL_RESOURCE_MANAGEMENT",
-      "n": 45
-    },
-    {
-      "theme": "WB_1986_MOUNTAINS",
-      "n": 45
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 44
+      "theme": "TAX_FNCACT_ATTORNEY",
+      "n": 27
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 41
+      "n": 25
+    },
+    {
+      "theme": "WB_1331_HEALTH_TECHNOLOGIES",
+      "n": 25
+    },
+    {
+      "theme": "WB_1350_PHARMACEUTICALS",
+      "n": 25
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 25
+    },
+    {
+      "theme": "URBAN",
+      "n": 25
+    },
+    {
+      "theme": "WB_2453_ORGANIZED_CRIME",
+      "n": 24
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 24
+    },
+    {
+      "theme": "WB_2456_DRUGS_AND_NARCOTICS",
+      "n": 24
+    },
+    {
+      "theme": "ARREST",
+      "n": 24
     }
   ]
 }
