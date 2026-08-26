@@ -1,49 +1,9 @@
 {
-  "generated_at": "2026-08-26T18:22:21.995847+00:00",
-  "rows_total_scanned_last_run": 5050,
-  "rows_mexico_last_run": 88,
-  "overall_avg_tone_4h": -0.697,
+  "generated_at": "2026-08-26T20:23:22.104667+00:00",
+  "rows_total_scanned_last_run": 6784,
+  "rows_mexico_last_run": 108,
+  "overall_avg_tone_4h": -1.45,
   "timeline": [
-    {
-      "time": "2026-08-23T18:30",
-      "avg_tone": -1.413,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-08-23T18:45",
-      "avg_tone": -0.779,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-08-23T19:00",
-      "avg_tone": -1.383,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-08-23T19:15",
-      "avg_tone": -1.21,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-08-23T19:30",
-      "avg_tone": -1.139,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-08-23T19:45",
-      "avg_tone": -1.429,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-23T20:00",
-      "avg_tone": -1.147,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-23T20:15",
-      "avg_tone": -0.57,
-      "n_articles": 3
-    },
     {
       "time": "2026-08-23T20:30",
       "avg_tone": -1.887,
@@ -1308,145 +1268,165 @@
       "time": "2026-08-26T18:15",
       "avg_tone": -1.167,
       "n_articles": 28
+    },
+    {
+      "time": "2026-08-26T19:45",
+      "avg_tone": -2.504,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-08-26T20:00",
+      "avg_tone": -2.868,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-08-26T20:15",
+      "avg_tone": -3.365,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-08-26T20:30",
+      "avg_tone": -2.435,
+      "n_articles": 41
     }
   ],
   "top_sources": [
     {
       "source": "riotimesonline.com",
       "n": 4,
-      "avg_tone": 0.466
+      "avg_tone": 0.189
     },
     {
-      "source": "theoaklandpress.com",
+      "source": "riviera-maya-news.com",
+      "n": 4,
+      "avg_tone": -5.682
+    },
+    {
+      "source": "montereyherald.com",
       "n": 3,
-      "avg_tone": -2.408
+      "avg_tone": -2.404
     },
     {
-      "source": "dailylocal.com",
+      "source": "wsbradio.com",
       "n": 3,
-      "avg_tone": -4.863
+      "avg_tone": -6.445
     },
     {
-      "source": "pottsmerc.com",
-      "n": 3,
-      "avg_tone": -4.863
-    },
-    {
-      "source": "mainlinemedianews.com",
-      "n": 3,
-      "avg_tone": -1.446
-    },
-    {
-      "source": "nrn.com",
-      "n": 3,
-      "avg_tone": 2.641
-    },
-    {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -1.519
-    },
-    {
-      "source": "tucson.com",
-      "n": 2,
-      "avg_tone": 0.503
-    },
-    {
-      "source": "advocate-news.com",
+      "source": "dailynews.com",
       "n": 2,
       "avg_tone": -2.311
     },
     {
-      "source": "manilatimes.net",
+      "source": "culturemap.com",
       "n": 2,
-      "avg_tone": 3.65
+      "avg_tone": -1.815
     },
     {
-      "source": "prnewswire.com",
+      "source": "twincities.com",
       "n": 2,
-      "avg_tone": 2.773
+      "avg_tone": -6.0
     },
     {
-      "source": "aol.co.uk",
+      "source": "fox35orlando.com",
       "n": 2,
-      "avg_tone": 3.357
+      "avg_tone": -3.52
     },
     {
-      "source": "marinij.com",
-      "n": 2,
-      "avg_tone": -2.391
+      "source": "theatlantic.com",
+      "n": 1,
+      "avg_tone": -1.382
     },
     {
-      "source": "sentinelandenterprise.com",
-      "n": 2,
-      "avg_tone": -2.391
+      "source": "centralwesterndaily.com.au",
+      "n": 1,
+      "avg_tone": -3.933
     },
     {
-      "source": "bostonherald.com",
-      "n": 2,
-      "avg_tone": -2.391
+      "source": "denverpost.com",
+      "n": 1,
+      "avg_tone": -2.59
+    },
+    {
+      "source": "wral.com",
+      "n": 1,
+      "avg_tone": -2.936
+    },
+    {
+      "source": "wgauradio.com",
+      "n": 1,
+      "avg_tone": -2.894
+    },
+    {
+      "source": "ckom.com",
+      "n": 1,
+      "avg_tone": -1.58
+    },
+    {
+      "source": "journal-advocate.com",
+      "n": 1,
+      "avg_tone": -2.441
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 258
+      "n": 419
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 239
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 145
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 136
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 128
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 112
+      "n": 241
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 112
+      "n": 199
+    },
+    {
+      "theme": "ENV_OIL",
+      "n": 173
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 139
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 105
+      "n": 130
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 95
-    },
-    {
-      "theme": "WB_470_EDUCATION",
-      "n": 93
-    },
-    {
-      "theme": "WB_1467_EDUCATION_FOR_ALL",
-      "n": 88
-    },
-    {
-      "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
-      "n": 88
-    },
-    {
-      "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
-      "n": 88
-    },
-    {
-      "theme": "EPU_ECONOMY",
-      "n": 87
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 124
     },
     {
       "theme": "LEADER",
-      "n": 87
+      "n": 117
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 114
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 110
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 107
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 107
+    },
+    {
+      "theme": "EPU_ECONOMY",
+      "n": 107
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 98
+    },
+    {
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 92
     }
   ]
 }
