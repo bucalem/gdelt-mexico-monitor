@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-26T05:57:54.303727+00:00",
-  "rows_total_scanned_last_run": 3595,
-  "rows_mexico_last_run": 63,
-  "overall_avg_tone_4h": -1.55,
+  "generated_at": "2026-08-26T06:45:41.096830+00:00",
+  "rows_total_scanned_last_run": 3570,
+  "rows_mexico_last_run": 50,
+  "overall_avg_tone_4h": -1.499,
   "timeline": [
-    {
-      "time": "2026-08-23T06:00",
-      "avg_tone": -2.048,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-23T06:15",
-      "avg_tone": -0.606,
-      "n_articles": 3
-    },
-    {
-      "time": "2026-08-23T06:30",
-      "avg_tone": 2.033,
-      "n_articles": 4
-    },
     {
       "time": "2026-08-23T06:45",
       "avg_tone": -0.551,
@@ -1368,28 +1353,53 @@
       "time": "2026-08-26T06:00",
       "avg_tone": -2.383,
       "n_articles": 13
+    },
+    {
+      "time": "2026-08-26T06:15",
+      "avg_tone": -0.872,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-08-26T06:30",
+      "avg_tone": -0.735,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-08-26T06:45",
+      "avg_tone": -2.646,
+      "n_articles": 12
     }
   ],
   "top_sources": [
     {
-      "source": "stcatharinesstandard.ca",
+      "source": "wsws.org",
       "n": 4,
-      "avg_tone": -3.189
+      "avg_tone": -3.789
     },
     {
-      "source": "thepeterboroughexaminer.com",
-      "n": 4,
-      "avg_tone": -2.528
-    },
-    {
-      "source": "e-flux.com",
+      "source": "iheart.com",
       "n": 3,
-      "avg_tone": 0.873
+      "avg_tone": -5.353
     },
     {
-      "source": "clickondetroit.com",
+      "source": "niagarafallsreview.ca",
       "n": 3,
-      "avg_tone": -2.001
+      "avg_tone": -3.485
+    },
+    {
+      "source": "morungexpress.com",
+      "n": 2,
+      "avg_tone": -1.91
+    },
+    {
+      "source": "theguardian.com",
+      "n": 2,
+      "avg_tone": -5.516
+    },
+    {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": -5.992
     },
     {
       "source": "wral.com",
@@ -1407,106 +1417,96 @@
       "avg_tone": -2.134
     },
     {
-      "source": "wokv.com",
-      "n": 2,
-      "avg_tone": -1.466
-    },
-    {
-      "source": "cnn.com",
-      "n": 2,
-      "avg_tone": -2.699
-    },
-    {
-      "source": "sitkasentinel.com",
-      "n": 2,
-      "avg_tone": -4.808
-    },
-    {
-      "source": "dailymail.com",
-      "n": 2,
-      "avg_tone": -3.207
-    },
-    {
-      "source": "theguardian.com",
+      "source": "gazettextra.com",
       "n": 1,
-      "avg_tone": -8.929
+      "avg_tone": -3.055
     },
     {
-      "source": "therecordlive.com",
+      "source": "altoonamirror.com",
       "n": 1,
-      "avg_tone": 2.483
+      "avg_tone": -5.263
     },
     {
-      "source": "yahoo.com",
+      "source": "motherearthliving.com",
       "n": 1,
-      "avg_tone": -5.076
+      "avg_tone": 2.3
     },
     {
-      "source": "greaterbelize.com",
+      "source": "walesonline.co.uk",
       "n": 1,
-      "avg_tone": -1.768
+      "avg_tone": 0.118
+    },
+    {
+      "source": "superherohype.com",
+      "n": 1,
+      "avg_tone": -1.52
+    },
+    {
+      "source": "ktvu.com",
+      "n": 1,
+      "avg_tone": 3.417
     }
   ],
   "top_themes": [
     {
-      "theme": "LEADER",
-      "n": 124
-    },
-    {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 116
+      "n": 138
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 112
+      "theme": "LEADER",
+      "n": 136
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 93
-    },
-    {
-      "theme": "WB_137_WATER",
       "n": 89
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 68
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 84
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 63
+      "theme": "TAX_FNCACT_WORKERS",
+      "n": 67
     },
     {
-      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
-      "n": 60
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 65
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 58
-    },
-    {
-      "theme": "TRIAL",
-      "n": 55
+      "n": 62
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 50
+      "n": 58
     },
     {
-      "theme": "AGRICULTURE",
-      "n": 49
+      "theme": "GENERAL_HEALTH",
+      "n": 55
     },
     {
-      "theme": "BORDER",
-      "n": 45
+      "theme": "UNGP_HEALTHCARE",
+      "n": 53
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 53
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 44
+      "n": 52
     },
     {
-      "theme": "WB_470_EDUCATION",
-      "n": 44
+      "theme": "MEDICAL",
+      "n": 51
+    },
+    {
+      "theme": "TAX_DISEASE_MEASLES",
+      "n": 51
+    },
+    {
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 48
     }
   ]
 }
