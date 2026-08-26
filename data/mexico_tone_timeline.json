@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-25T23:45:53.009922+00:00",
-  "rows_total_scanned_last_run": 4722,
-  "rows_mexico_last_run": 98,
-  "overall_avg_tone_4h": -1.115,
+  "generated_at": "2026-08-26T00:44:41.994892+00:00",
+  "rows_total_scanned_last_run": 4716,
+  "rows_mexico_last_run": 107,
+  "overall_avg_tone_4h": -1.072,
   "timeline": [
-    {
-      "time": "2026-08-22T23:45",
-      "avg_tone": -2.2,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-23T00:00",
-      "avg_tone": -1.339,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-08-23T00:30",
-      "avg_tone": 1.283,
-      "n_articles": 5
-    },
     {
       "time": "2026-08-23T00:45",
       "avg_tone": -0.007,
@@ -1348,145 +1333,165 @@
       "time": "2026-08-25T23:45",
       "avg_tone": -1.108,
       "n_articles": 25
+    },
+    {
+      "time": "2026-08-26T00:00",
+      "avg_tone": -0.89,
+      "n_articles": 28
+    },
+    {
+      "time": "2026-08-26T00:15",
+      "avg_tone": -1.905,
+      "n_articles": 29
+    },
+    {
+      "time": "2026-08-26T00:30",
+      "avg_tone": -0.227,
+      "n_articles": 32
+    },
+    {
+      "time": "2026-08-26T00:45",
+      "avg_tone": -1.036,
+      "n_articles": 18
     }
   ],
   "top_sources": [
     {
-      "source": "idahostatejournal.com",
-      "n": 3,
-      "avg_tone": -1.449
+      "source": "calgarysun.com",
+      "n": 8,
+      "avg_tone": 1.594
     },
     {
-      "source": "forbes.com",
+      "source": "alternet.org",
       "n": 3,
-      "avg_tone": 0.815
+      "avg_tone": -2.603
     },
     {
-      "source": "gringogazette.com",
+      "source": "the-messenger.com",
       "n": 3,
-      "avg_tone": 2.264
+      "avg_tone": -2.455
     },
     {
-      "source": "wdbo.com",
-      "n": 3,
-      "avg_tone": -3.413
-    },
-    {
-      "source": "netscape.com",
+      "source": "riotimesonline.com",
       "n": 2,
-      "avg_tone": -2.081
+      "avg_tone": -0.682
     },
     {
-      "source": "news4jax.com",
+      "source": "ft.lk",
+      "n": 2,
+      "avg_tone": -2.165
+    },
+    {
+      "source": "kunm.org",
+      "n": 2,
+      "avg_tone": -0.89
+    },
+    {
+      "source": "tickerreport.com",
+      "n": 2,
+      "avg_tone": 6.095
+    },
+    {
+      "source": "ksat.com",
       "n": 2,
       "avg_tone": -1.808
     },
     {
-      "source": "kgou.org",
+      "source": "westword.com",
       "n": 2,
-      "avg_tone": -0.983
+      "avg_tone": 4.447
     },
     {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": -0.024
-    },
-    {
-      "source": "singaporestar.com",
+      "source": "australiannews.net",
       "n": 2,
       "avg_tone": -0.143
     },
     {
-      "source": "wsls.com",
+      "source": "newswise.com",
       "n": 2,
-      "avg_tone": -1.332
+      "avg_tone": 2.244
     },
     {
-      "source": "bignewsnetwork.com",
+      "source": "redlandsdailyfacts.com",
       "n": 1,
-      "avg_tone": -0.671
+      "avg_tone": 2.083
     },
     {
-      "source": "pilotonline.com",
+      "source": "orlandosentinel.com",
       "n": 1,
-      "avg_tone": -0.666
+      "avg_tone": -3.021
     },
     {
-      "source": "foxla.com",
+      "source": "dailytarheel.com",
       "n": 1,
-      "avg_tone": -4.428
+      "avg_tone": 0.0
     },
     {
-      "source": "salinapost.com",
+      "source": "literock973.com",
       "n": 1,
-      "avg_tone": -2.699
-    },
-    {
-      "source": "aspenpublicradio.org",
-      "n": 1,
-      "avg_tone": -0.559
+      "avg_tone": -2.357
     }
   ],
   "top_themes": [
     {
       "theme": "UNGP_HEALTHCARE",
-      "n": 130
+      "n": 160
     },
     {
       "theme": "TAX_DISEASE_MEASLES",
-      "n": 129
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 125
+      "n": 157
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 123
+      "n": 142
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 137
     },
     {
       "theme": "LEADER",
-      "n": 117
+      "n": 129
     },
     {
-      "theme": "WB_698_TRADE",
+      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
+      "n": 125
+    },
+    {
+      "theme": "ECON_INFLATION",
       "n": 104
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 102
+      "theme": "WB_442_INFLATION",
+      "n": 104
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 94
+      "n": 103
     },
     {
-      "theme": "BORDER",
-      "n": 92
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 99
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 87
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 99
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 83
+      "n": 94
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 83
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 92
     },
     {
       "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 82
+      "n": 81
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 70
-    },
-    {
-      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
-      "n": 67
+      "theme": "WB_698_TRADE",
+      "n": 81
     }
   ]
 }
