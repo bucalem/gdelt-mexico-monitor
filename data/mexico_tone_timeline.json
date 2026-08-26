@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-26T02:13:59.842043+00:00",
-  "rows_total_scanned_last_run": 3901,
-  "rows_mexico_last_run": 65,
-  "overall_avg_tone_4h": -0.994,
+  "generated_at": "2026-08-26T03:18:29.468787+00:00",
+  "rows_total_scanned_last_run": 3529,
+  "rows_mexico_last_run": 61,
+  "overall_avg_tone_4h": -1.16,
   "timeline": [
-    {
-      "time": "2026-08-23T02:15",
-      "avg_tone": 0.71,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-23T02:30",
-      "avg_tone": -0.402,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-08-23T02:45",
-      "avg_tone": -0.898,
-      "n_articles": 5
-    },
     {
       "time": "2026-08-23T03:30",
       "avg_tone": -0.763,
@@ -1353,145 +1338,165 @@
       "time": "2026-08-26T02:15",
       "avg_tone": -1.945,
       "n_articles": 17
+    },
+    {
+      "time": "2026-08-26T02:30",
+      "avg_tone": -1.102,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-08-26T02:45",
+      "avg_tone": -1.838,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-08-26T03:00",
+      "avg_tone": -1.581,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-08-26T03:15",
+      "avg_tone": -2.23,
+      "n_articles": 16
     }
   ],
   "top_sources": [
     {
-      "source": "themilitant.com",
-      "n": 3,
-      "avg_tone": -2.771
-    },
-    {
-      "source": "riviera-maya-news.com",
-      "n": 3,
-      "avg_tone": -3.411
-    },
-    {
-      "source": "prokerala.com",
+      "source": "mexicostar.com",
       "n": 2,
-      "avg_tone": -4.23
+      "avg_tone": -0.168
     },
     {
-      "source": "ianslive.in",
-      "n": 2,
-      "avg_tone": -3.95
-    },
-    {
-      "source": "nwaonline.com",
+      "source": "arkansasonline.com",
       "n": 2,
       "avg_tone": -5.603
     },
     {
-      "source": "inlandnewstoday.com",
+      "source": "ft.lk",
       "n": 2,
-      "avg_tone": -0.695
+      "avg_tone": -2.165
     },
     {
-      "source": "sandiegouniontribune.com",
+      "source": "santamariatimes.com",
       "n": 2,
-      "avg_tone": 1.491
+      "avg_tone": -6.474
     },
     {
-      "source": "chattanoogan.com",
-      "n": 1,
-      "avg_tone": 2.868
+      "source": "taylorvilledailynews.com",
+      "n": 2,
+      "avg_tone": -5.124
     },
     {
-      "source": "abc7.com",
-      "n": 1,
-      "avg_tone": 0.275
+      "source": "theepochtimes.com",
+      "n": 2,
+      "avg_tone": -0.472
     },
     {
-      "source": "thestarphoenix.com",
+      "source": "portlandtribune.com",
       "n": 1,
-      "avg_tone": 6.755
+      "avg_tone": -10.012
     },
     {
-      "source": "y105fm.com",
+      "source": "manilatimes.net",
       "n": 1,
-      "avg_tone": -5.381
+      "avg_tone": -0.706
     },
     {
-      "source": "deccanchronicle.com",
+      "source": "cbc.ca",
       "n": 1,
-      "avg_tone": -0.905
+      "avg_tone": -2.49
     },
     {
-      "source": "santafenewmexican.com",
+      "source": "latintimes.com",
       "n": 1,
-      "avg_tone": -0.936
+      "avg_tone": -1.305
     },
     {
-      "source": "indiatimes.com",
+      "source": "womenboxing.com",
       "n": 1,
-      "avg_tone": -2.667
+      "avg_tone": 4.961
     },
     {
-      "source": "courant.com",
+      "source": "wfae.org",
       "n": 1,
-      "avg_tone": -3.021
+      "avg_tone": -0.559
+    },
+    {
+      "source": "squatchrocks.com",
+      "n": 1,
+      "avg_tone": -5.357
+    },
+    {
+      "source": "bozemandailychronicle.com",
+      "n": 1,
+      "avg_tone": -7.706
+    },
+    {
+      "source": "sitkasentinel.com",
+      "n": 1,
+      "avg_tone": -2.318
     }
   ],
   "top_themes": [
     {
-      "theme": "LEADER",
-      "n": 309
+      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
+      "n": 107
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 297
+      "theme": "ECON_INFLATION",
+      "n": 104
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 281
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 79
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 71
-    },
-    {
-      "theme": "EPU_POLICY_WHITE_HOUSE",
-      "n": 67
+      "theme": "WB_442_INFLATION",
+      "n": 104
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 56
+      "n": 65
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 63
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 55
+      "n": 60
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "theme": "LEADER",
+      "n": 58
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 53
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 47
+      "theme": "SOC_GENERALCRIME",
+      "n": 51
     },
     {
-      "theme": "ALLIANCE",
-      "n": 47
+      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
+      "n": 51
+    },
+    {
+      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
+      "n": 50
+    },
+    {
+      "theme": "WB_1979_NATURAL_RESOURCE_MANAGEMENT",
+      "n": 45
+    },
+    {
+      "theme": "WB_1986_MOUNTAINS",
+      "n": 45
     },
     {
       "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 46
-    },
-    {
-      "theme": "GENERAL_HEALTH",
       "n": 44
     },
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 44
-    },
-    {
-      "theme": "UNGP_HEALTHCARE",
-      "n": 44
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 41
     }
   ]
 }
