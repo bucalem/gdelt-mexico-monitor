@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-26T10:25:29.059094+00:00",
-  "rows_total_scanned_last_run": 4039,
-  "rows_mexico_last_run": 35,
-  "overall_avg_tone_4h": -1.339,
+  "generated_at": "2026-08-26T10:59:07.502159+00:00",
+  "rows_total_scanned_last_run": 4739,
+  "rows_mexico_last_run": 49,
+  "overall_avg_tone_4h": -1.433,
   "timeline": [
-    {
-      "time": "2026-08-23T10:30",
-      "avg_tone": -0.609,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-08-23T10:45",
-      "avg_tone": -1.201,
-      "n_articles": 15
-    },
     {
       "time": "2026-08-23T11:00",
       "avg_tone": -1.215,
@@ -1368,6 +1358,16 @@
       "time": "2026-08-26T10:30",
       "avg_tone": 0.794,
       "n_articles": 10
+    },
+    {
+      "time": "2026-08-26T10:45",
+      "avg_tone": -0.689,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-08-26T11:00",
+      "avg_tone": -2.759,
+      "n_articles": 17
     }
   ],
   "top_sources": [
@@ -1377,9 +1377,19 @@
       "avg_tone": -0.186
     },
     {
+      "source": "lancasteronline.com",
+      "n": 2,
+      "avg_tone": -2.559
+    },
+    {
+      "source": "latimes.com",
+      "n": 2,
+      "avg_tone": -4.331
+    },
+    {
       "source": "themarketsdaily.com",
-      "n": 3,
-      "avg_tone": 2.125
+      "n": 2,
+      "avg_tone": 1.729
     },
     {
       "source": "ksat.com",
@@ -1387,126 +1397,116 @@
       "avg_tone": -2.434
     },
     {
-      "source": "ironmountaindailynews.com",
-      "n": 2,
-      "avg_tone": -2.66
+      "source": "yahoo.com",
+      "n": 1,
+      "avg_tone": -4.337
     },
     {
-      "source": "demingheadlight.com",
+      "source": "abcnews.com",
       "n": 1,
-      "avg_tone": 0.99
+      "avg_tone": -1.808
     },
     {
-      "source": "moabtimes.com",
+      "source": "theblaze.com",
       "n": 1,
-      "avg_tone": 3.894
+      "avg_tone": -7.477
     },
     {
-      "source": "dailytrojan.com",
+      "source": "fultonsun.com",
       "n": 1,
-      "avg_tone": 2.602
+      "avg_tone": 1.014
     },
     {
-      "source": "woonsocketcall.com",
+      "source": "messenger-inquirer.com",
       "n": 1,
-      "avg_tone": -2.222
+      "avg_tone": -3.276
     },
     {
-      "source": "travelwires.com",
+      "source": "asiabulletin.com",
       "n": 1,
-      "avg_tone": 4.601
+      "avg_tone": 7.583
     },
     {
-      "source": "dailycamera.com",
+      "source": "rozanaspokesman.com",
       "n": 1,
-      "avg_tone": -3.237
+      "avg_tone": -8.491
     },
     {
-      "source": "southtahoenow.com",
+      "source": "bleedingcool.com",
       "n": 1,
-      "avg_tone": 7.752
+      "avg_tone": -2.883
     },
     {
-      "source": "postregister.com",
+      "source": "union-bulletin.com",
       "n": 1,
-      "avg_tone": -8.431
+      "avg_tone": -3.116
     },
     {
-      "source": "indiatimes.com",
+      "source": "nj1015.com",
       "n": 1,
-      "avg_tone": 0.381
-    },
-    {
-      "source": "jamaica-gleaner.com",
-      "n": 1,
-      "avg_tone": -0.509
-    },
-    {
-      "source": "formula1.com",
-      "n": 1,
-      "avg_tone": -1.074
+      "avg_tone": -6.245
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 89
+      "n": 184
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 74
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 72
+      "n": 117
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 61
-    },
-    {
-      "theme": "LEADER",
-      "n": 54
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 52
-    },
-    {
-      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
-      "n": 47
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 46
+      "n": 103
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 42
+      "n": 83
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 41
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 78
     },
     {
-      "theme": "EPU_ECONOMY",
-      "n": 40
+      "theme": "WB_137_WATER",
+      "n": 78
     },
     {
-      "theme": "WB_470_EDUCATION",
-      "n": 36
+      "theme": "LEADER",
+      "n": 76
     },
     {
-      "theme": "ECON_WORLDCURRENCIES_PESO",
-      "n": 36
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 68
     },
     {
-      "theme": "WB_1467_EDUCATION_FOR_ALL",
-      "n": 35
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 67
     },
     {
-      "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
-      "n": 35
+      "theme": "ARMEDCONFLICT",
+      "n": 67
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 66
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 65
+    },
+    {
+      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
+      "n": 62
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 59
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 58
     }
   ]
 }
