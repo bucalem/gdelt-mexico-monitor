@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-26T11:31:50.402960+00:00",
-  "rows_total_scanned_last_run": 5093,
-  "rows_mexico_last_run": 53,
-  "overall_avg_tone_4h": -1.581,
+  "generated_at": "2026-08-26T12:01:08.413283+00:00",
+  "rows_total_scanned_last_run": 4987,
+  "rows_mexico_last_run": 56,
+  "overall_avg_tone_4h": -1.032,
   "timeline": [
-    {
-      "time": "2026-08-23T11:45",
-      "avg_tone": -1.842,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-08-23T12:00",
-      "avg_tone": -0.082,
-      "n_articles": 12
-    },
     {
       "time": "2026-08-23T12:15",
       "avg_tone": -1.327,
@@ -1363,13 +1353,28 @@
       "time": "2026-08-26T11:30",
       "avg_tone": -2.931,
       "n_articles": 18
+    },
+    {
+      "time": "2026-08-26T11:45",
+      "avg_tone": 2.039,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-08-26T12:00",
+      "avg_tone": -1.113,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
-      "source": "latimes.com",
-      "n": 4,
-      "avg_tone": -1.358
+      "source": "manilatimes.net",
+      "n": 6,
+      "avg_tone": 1.898
+    },
+    {
+      "source": "yahoo.com",
+      "n": 3,
+      "avg_tone": 0.005
     },
     {
       "source": "thegazette.com",
@@ -1377,9 +1382,24 @@
       "avg_tone": -5.168
     },
     {
-      "source": "yahoo.com",
+      "source": "toronto.citynews.ca",
       "n": 2,
-      "avg_tone": -1.385
+      "avg_tone": -5.376
+    },
+    {
+      "source": "juniorminingnetwork.com",
+      "n": 2,
+      "avg_tone": 0.459
+    },
+    {
+      "source": "singersroom.com",
+      "n": 2,
+      "avg_tone": 5.538
+    },
+    {
+      "source": "igamingbusiness.com",
+      "n": 2,
+      "avg_tone": 4.259
     },
     {
       "source": "wgauradio.com",
@@ -1392,116 +1412,96 @@
       "avg_tone": -5.868
     },
     {
-      "source": "messenger-inquirer.com",
+      "source": "latimes.com",
       "n": 2,
-      "avg_tone": -2.029
+      "avg_tone": 1.614
     },
     {
-      "source": "lancasteronline.com",
-      "n": 2,
-      "avg_tone": -2.559
-    },
-    {
-      "source": "hindustantimes.com",
+      "source": "nearshoreamericas.com",
       "n": 1,
-      "avg_tone": 0.477
+      "avg_tone": 1.754
     },
     {
-      "source": "rockymounttelegram.com",
+      "source": "bangordailynews.com",
       "n": 1,
-      "avg_tone": -8.431
+      "avg_tone": -3.271
     },
     {
-      "source": "gazettextra.com",
+      "source": "santamariatimes.com",
       "n": 1,
-      "avg_tone": -2.222
+      "avg_tone": -1.726
     },
     {
-      "source": "reporterherald.com",
+      "source": "myklgr.com",
       "n": 1,
-      "avg_tone": -3.304
+      "avg_tone": 0.0
     },
     {
-      "source": "krgv.com",
+      "source": "naharnet.com",
       "n": 1,
-      "avg_tone": -6.565
-    },
-    {
-      "source": "nigeriasun.com",
-      "n": 1,
-      "avg_tone": 0.328
-    },
-    {
-      "source": "finanznachrichten.de",
-      "n": 1,
-      "avg_tone": 1.48
-    },
-    {
-      "source": "2news.com",
-      "n": 1,
-      "avg_tone": -3.276
+      "avg_tone": -1.897
     }
   ],
   "top_themes": [
     {
       "theme": "WB_698_TRADE",
-      "n": 204
+      "n": 166
     },
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 113
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 109
+      "n": 83
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 97
+      "n": 72
     },
     {
-      "theme": "LEADER",
-      "n": 80
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 78
-    },
-    {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 76
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 73
-    },
-    {
-      "theme": "WB_2670_JOBS",
+      "theme": "TAX_FOODSTAPLES_RICE",
       "n": 70
     },
     {
-      "theme": "WB_137_WATER",
+      "theme": "EPU_ECONOMY_HISTORIC",
       "n": 69
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 68
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 69
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
+      "theme": "LEADER",
       "n": 63
     },
     {
-      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
-      "n": 60
+      "theme": "TAX_ECON_PRICE",
+      "n": 54
     },
     {
-      "theme": "WB_470_EDUCATION",
-      "n": 58
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 53
     },
     {
-      "theme": "ECON_TRADE_DISPUTE",
-      "n": 58
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 49
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 48
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 45
+    },
+    {
+      "theme": "ARMEDCONFLICT",
+      "n": 45
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 44
+    },
+    {
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 44
     }
   ]
 }
