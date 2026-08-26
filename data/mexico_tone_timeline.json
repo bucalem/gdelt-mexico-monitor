@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-08-26T09:08:31.947858+00:00",
-  "rows_total_scanned_last_run": 4222,
-  "rows_mexico_last_run": 30,
-  "overall_avg_tone_4h": -1.659,
+  "generated_at": "2026-08-26T09:54:50.087268+00:00",
+  "rows_total_scanned_last_run": 4068,
+  "rows_mexico_last_run": 32,
+  "overall_avg_tone_4h": -1.366,
   "timeline": [
-    {
-      "time": "2026-08-23T09:15",
-      "avg_tone": -1.509,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-23T09:30",
-      "avg_tone": -1.657,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-08-23T09:45",
-      "avg_tone": -1.926,
-      "n_articles": 13
-    },
     {
       "time": "2026-08-23T10:00",
       "avg_tone": -0.986,
@@ -1368,13 +1353,38 @@
       "time": "2026-08-26T09:15",
       "avg_tone": -2.882,
       "n_articles": 5
+    },
+    {
+      "time": "2026-08-26T09:30",
+      "avg_tone": -0.925,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-08-26T09:45",
+      "avg_tone": 1.235,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-08-26T10:00",
+      "avg_tone": -0.015,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "news4jax.com",
-      "n": 4,
-      "avg_tone": -3.545
+      "source": "ironmountaindailynews.com",
+      "n": 2,
+      "avg_tone": -2.66
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 2.337
+    },
+    {
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": 2.216
     },
     {
       "source": "kxl.com",
@@ -1382,131 +1392,121 @@
       "avg_tone": -1.487
     },
     {
-      "source": "wdbo.com",
-      "n": 2,
-      "avg_tone": -1.466
-    },
-    {
-      "source": "livemint.com",
+      "source": "click2houston.com",
       "n": 1,
-      "avg_tone": -0.205
+      "avg_tone": -1.673
     },
     {
-      "source": "clickorlando.com",
+      "source": "billboard.com",
+      "n": 1,
+      "avg_tone": 2.088
+    },
+    {
+      "source": "business-standard.com",
+      "n": 1,
+      "avg_tone": 1.52
+    },
+    {
+      "source": "nbclosangeles.com",
+      "n": 1,
+      "avg_tone": -1.668
+    },
+    {
+      "source": "thehindu.com",
+      "n": 1,
+      "avg_tone": 2.015
+    },
+    {
+      "source": "mining-technology.com",
+      "n": 1,
+      "avg_tone": 3.218
+    },
+    {
+      "source": "miningjournal.net",
+      "n": 1,
+      "avg_tone": -3.393
+    },
+    {
+      "source": "koreatimes.co.kr",
+      "n": 1,
+      "avg_tone": 2.653
+    },
+    {
+      "source": "nbcsandiego.com",
+      "n": 1,
+      "avg_tone": -1.665
+    },
+    {
+      "source": "lasvegassun.com",
+      "n": 1,
+      "avg_tone": 3.819
+    },
+    {
+      "source": "clickondetroit.com",
       "n": 1,
       "avg_tone": -8.178
-    },
-    {
-      "source": "consortiumnews.com",
-      "n": 1,
-      "avg_tone": -3.053
-    },
-    {
-      "source": "ptleader.com",
-      "n": 1,
-      "avg_tone": 3.536
-    },
-    {
-      "source": "metro.co.uk",
-      "n": 1,
-      "avg_tone": -3.101
-    },
-    {
-      "source": "travelextra.ie",
-      "n": 1,
-      "avg_tone": 1.329
-    },
-    {
-      "source": "forbes.com",
-      "n": 1,
-      "avg_tone": 3.54
-    },
-    {
-      "source": "nypost.com",
-      "n": 1,
-      "avg_tone": -10.526
-    },
-    {
-      "source": "variety.com",
-      "n": 1,
-      "avg_tone": 5.3
-    },
-    {
-      "source": "kfyrtv.com",
-      "n": 1,
-      "avg_tone": -0.781
-    },
-    {
-      "source": "hilltimes.com",
-      "n": 1,
-      "avg_tone": -2.938
-    },
-    {
-      "source": "bakeryandsnacks.com",
-      "n": 1,
-      "avg_tone": -2.326
     }
   ],
   "top_themes": [
     {
       "theme": "WB_137_WATER",
-      "n": 65
+      "n": 66
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 58
+      "theme": "WB_2670_JOBS",
+      "n": 60
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 56
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_RICE",
+      "n": 54
     },
     {
       "theme": "LEADER",
       "n": 51
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 43
-    },
-    {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 40
+      "n": 50
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 35
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 32
-    },
-    {
-      "theme": "TRIAL",
-      "n": 32
+      "theme": "WB_698_TRADE",
+      "n": 46
     },
     {
       "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
-      "n": 31
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 30
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 28
+      "n": 45
     },
     {
       "theme": "WB_1467_EDUCATION_FOR_ALL",
-      "n": 27
+      "n": 45
     },
     {
       "theme": "WB_470_EDUCATION",
-      "n": 27
+      "n": 45
     },
     {
       "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
-      "n": 27
+      "n": 45
     },
     {
       "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
-      "n": 27
+      "n": 45
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 36
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 35
+    },
+    {
+      "theme": "EPU_ECONOMY",
+      "n": 33
     }
   ]
 }
