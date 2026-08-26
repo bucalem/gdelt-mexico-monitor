@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-08-26T09:54:50.087268+00:00",
-  "rows_total_scanned_last_run": 4068,
-  "rows_mexico_last_run": 32,
-  "overall_avg_tone_4h": -1.366,
+  "generated_at": "2026-08-26T10:25:29.059094+00:00",
+  "rows_total_scanned_last_run": 4039,
+  "rows_mexico_last_run": 35,
+  "overall_avg_tone_4h": -1.339,
   "timeline": [
-    {
-      "time": "2026-08-23T10:00",
-      "avg_tone": -0.986,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-08-23T10:15",
-      "avg_tone": -1.092,
-      "n_articles": 12
-    },
     {
       "time": "2026-08-23T10:30",
       "avg_tone": -0.609,
@@ -1368,145 +1358,155 @@
       "time": "2026-08-26T10:00",
       "avg_tone": -0.015,
       "n_articles": 8
+    },
+    {
+      "time": "2026-08-26T10:15",
+      "avg_tone": -1.559,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-08-26T10:30",
+      "avg_tone": 0.794,
+      "n_articles": 10
     }
   ],
   "top_sources": [
+    {
+      "source": "riotimesonline.com",
+      "n": 3,
+      "avg_tone": -0.186
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 3,
+      "avg_tone": 2.125
+    },
+    {
+      "source": "ksat.com",
+      "n": 2,
+      "avg_tone": -2.434
+    },
     {
       "source": "ironmountaindailynews.com",
       "n": 2,
       "avg_tone": -2.66
     },
     {
-      "source": "themarketsdaily.com",
-      "n": 2,
-      "avg_tone": 2.337
-    },
-    {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": 2.216
-    },
-    {
-      "source": "kxl.com",
-      "n": 2,
-      "avg_tone": -1.487
-    },
-    {
-      "source": "click2houston.com",
+      "source": "demingheadlight.com",
       "n": 1,
-      "avg_tone": -1.673
+      "avg_tone": 0.99
     },
     {
-      "source": "billboard.com",
+      "source": "moabtimes.com",
       "n": 1,
-      "avg_tone": 2.088
+      "avg_tone": 3.894
     },
     {
-      "source": "business-standard.com",
+      "source": "dailytrojan.com",
       "n": 1,
-      "avg_tone": 1.52
+      "avg_tone": 2.602
     },
     {
-      "source": "nbclosangeles.com",
+      "source": "woonsocketcall.com",
       "n": 1,
-      "avg_tone": -1.668
+      "avg_tone": -2.222
     },
     {
-      "source": "thehindu.com",
+      "source": "travelwires.com",
       "n": 1,
-      "avg_tone": 2.015
+      "avg_tone": 4.601
     },
     {
-      "source": "mining-technology.com",
+      "source": "dailycamera.com",
       "n": 1,
-      "avg_tone": 3.218
+      "avg_tone": -3.237
     },
     {
-      "source": "miningjournal.net",
+      "source": "southtahoenow.com",
       "n": 1,
-      "avg_tone": -3.393
+      "avg_tone": 7.752
     },
     {
-      "source": "koreatimes.co.kr",
+      "source": "postregister.com",
       "n": 1,
-      "avg_tone": 2.653
+      "avg_tone": -8.431
     },
     {
-      "source": "nbcsandiego.com",
+      "source": "indiatimes.com",
       "n": 1,
-      "avg_tone": -1.665
+      "avg_tone": 0.381
     },
     {
-      "source": "lasvegassun.com",
+      "source": "jamaica-gleaner.com",
       "n": 1,
-      "avg_tone": 3.819
+      "avg_tone": -0.509
     },
     {
-      "source": "clickondetroit.com",
+      "source": "formula1.com",
       "n": 1,
-      "avg_tone": -8.178
+      "avg_tone": -1.074
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_137_WATER",
-      "n": 66
+      "theme": "WB_698_TRADE",
+      "n": 89
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 60
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 74
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 56
-    },
-    {
-      "theme": "TAX_FOODSTAPLES_RICE",
-      "n": 54
-    },
-    {
-      "theme": "LEADER",
-      "n": 51
+      "n": 72
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 50
+      "n": 61
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 46
+      "theme": "LEADER",
+      "n": 54
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 52
     },
     {
       "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
-      "n": 45
+      "n": 47
     },
     {
-      "theme": "WB_1467_EDUCATION_FOR_ALL",
-      "n": 45
-    },
-    {
-      "theme": "WB_470_EDUCATION",
-      "n": 45
-    },
-    {
-      "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
-      "n": 45
-    },
-    {
-      "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
-      "n": 45
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 36
+      "theme": "WB_2670_JOBS",
+      "n": 46
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 35
+      "n": 42
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 41
     },
     {
       "theme": "EPU_ECONOMY",
-      "n": 33
+      "n": 40
+    },
+    {
+      "theme": "WB_470_EDUCATION",
+      "n": 36
+    },
+    {
+      "theme": "ECON_WORLDCURRENCIES_PESO",
+      "n": 36
+    },
+    {
+      "theme": "WB_1467_EDUCATION_FOR_ALL",
+      "n": 35
+    },
+    {
+      "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
+      "n": 35
     }
   ]
 }
