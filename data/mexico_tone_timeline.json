@@ -1,79 +1,9 @@
 {
-  "generated_at": "2026-08-26T20:23:22.104667+00:00",
-  "rows_total_scanned_last_run": 6784,
-  "rows_mexico_last_run": 108,
-  "overall_avg_tone_4h": -1.45,
+  "generated_at": "2026-08-26T23:52:32.655193+00:00",
+  "rows_total_scanned_last_run": 5282,
+  "rows_mexico_last_run": 91,
+  "overall_avg_tone_4h": -2.353,
   "timeline": [
-    {
-      "time": "2026-08-23T20:30",
-      "avg_tone": -1.887,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-08-23T20:45",
-      "avg_tone": -1.802,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-08-23T21:00",
-      "avg_tone": -2.156,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-08-23T21:15",
-      "avg_tone": -1.511,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-08-23T21:30",
-      "avg_tone": -1.36,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-08-23T21:45",
-      "avg_tone": -2.697,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-23T22:00",
-      "avg_tone": -1.847,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-23T22:15",
-      "avg_tone": -1.076,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-23T22:30",
-      "avg_tone": -1.998,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-08-23T22:45",
-      "avg_tone": -0.508,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-08-23T23:00",
-      "avg_tone": -1.288,
-      "n_articles": 19
-    },
-    {
-      "time": "2026-08-23T23:15",
-      "avg_tone": -1.116,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-08-23T23:30",
-      "avg_tone": -2.16,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-08-23T23:45",
-      "avg_tone": -1.495,
-      "n_articles": 12
-    },
     {
       "time": "2026-08-24T00:00",
       "avg_tone": -0.731,
@@ -1288,145 +1218,165 @@
       "time": "2026-08-26T20:30",
       "avg_tone": -2.435,
       "n_articles": 41
+    },
+    {
+      "time": "2026-08-26T23:15",
+      "avg_tone": -6.54,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-08-26T23:30",
+      "avg_tone": -5.988,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-08-26T23:45",
+      "avg_tone": -4.386,
+      "n_articles": 28
+    },
+    {
+      "time": "2026-08-27T00:00",
+      "avg_tone": -2.132,
+      "n_articles": 14
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 4,
-      "avg_tone": 0.189
+      "source": "iheart.com",
+      "n": 23,
+      "avg_tone": -11.18
     },
     {
-      "source": "riviera-maya-news.com",
-      "n": 4,
-      "avg_tone": -5.682
-    },
-    {
-      "source": "montereyherald.com",
+      "source": "yahoo.com",
       "n": 3,
-      "avg_tone": -2.404
+      "avg_tone": -0.249
     },
     {
-      "source": "wsbradio.com",
-      "n": 3,
-      "avg_tone": -6.445
-    },
-    {
-      "source": "dailynews.com",
+      "source": "tpr.org",
       "n": 2,
-      "avg_tone": -2.311
+      "avg_tone": -3.364
     },
     {
-      "source": "culturemap.com",
+      "source": "rollingstone.com",
       "n": 2,
-      "avg_tone": -1.815
+      "avg_tone": 2.148
     },
     {
-      "source": "twincities.com",
+      "source": "aljazeera.com",
       "n": 2,
-      "avg_tone": -6.0
+      "avg_tone": -7.676
     },
     {
-      "source": "fox35orlando.com",
+      "source": "alextimes.com",
       "n": 2,
-      "avg_tone": -3.52
+      "avg_tone": -1.654
     },
     {
-      "source": "theatlantic.com",
-      "n": 1,
-      "avg_tone": -1.382
+      "source": "glasgowcourier.com",
+      "n": 2,
+      "avg_tone": -0.066
     },
     {
-      "source": "centralwesterndaily.com.au",
+      "source": "greeleytribune.com",
       "n": 1,
-      "avg_tone": -3.933
+      "avg_tone": -4.143
     },
     {
-      "source": "denverpost.com",
+      "source": "lasvegassun.com",
       "n": 1,
-      "avg_tone": -2.59
+      "avg_tone": -3.128
     },
     {
-      "source": "wral.com",
+      "source": "nbcbayarea.com",
       "n": 1,
-      "avg_tone": -2.936
+      "avg_tone": -9.123
     },
     {
-      "source": "wgauradio.com",
+      "source": "ncregister.com",
       "n": 1,
-      "avg_tone": -2.894
+      "avg_tone": 0.859
     },
     {
-      "source": "ckom.com",
+      "source": "lebanondemocrat.com",
       "n": 1,
-      "avg_tone": -1.58
+      "avg_tone": 4.033
     },
     {
-      "source": "journal-advocate.com",
+      "source": "timescall.com",
       "n": 1,
-      "avg_tone": -2.441
+      "avg_tone": -4.143
+    },
+    {
+      "source": "redstate.com",
+      "n": 1,
+      "avg_tone": -3.602
+    },
+    {
+      "source": "freebeacon.com",
+      "n": 1,
+      "avg_tone": -3.698
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 419
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 241
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 199
-    },
-    {
-      "theme": "ENV_OIL",
-      "n": 173
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 139
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 130
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 124
-    },
-    {
       "theme": "LEADER",
-      "n": 117
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 114
+      "n": 398
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 110
+      "n": 306
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 290
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 107
+      "n": 138
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 107
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 126
     },
     {
-      "theme": "EPU_ECONOMY",
-      "n": 107
+      "theme": "IMMIGRATION",
+      "n": 123
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 98
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 122
     },
     {
-      "theme": "TAX_FNCACT_MINISTER",
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 121
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 121
+    },
+    {
+      "theme": "TAX_FNCACT_GOVERNOR",
+      "n": 120
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 111
+    },
+    {
+      "theme": "TAX_FNCACT_JUDGE",
+      "n": 108
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
       "n": 92
+    },
+    {
+      "theme": "ARREST",
+      "n": 88
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_JAIL",
+      "n": 83
     }
   ]
 }
