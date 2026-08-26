@@ -1,44 +1,9 @@
 {
-  "generated_at": "2026-08-26T15:00:30.027641+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -0.771,
+  "generated_at": "2026-08-26T16:33:03.711794+00:00",
+  "rows_total_scanned_last_run": 7086,
+  "rows_mexico_last_run": 87,
+  "overall_avg_tone_4h": -0.964,
   "timeline": [
-    {
-      "time": "2026-08-23T15:00",
-      "avg_tone": -1.81,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-08-23T15:15",
-      "avg_tone": -1.737,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-08-23T15:30",
-      "avg_tone": -1.12,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-08-23T15:45",
-      "avg_tone": -1.057,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-08-23T16:00",
-      "avg_tone": -0.946,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-08-23T16:15",
-      "avg_tone": 0.572,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-08-23T16:30",
-      "avg_tone": 0.029,
-      "n_articles": 11
-    },
     {
       "time": "2026-08-23T16:45",
       "avg_tone": -0.988,
@@ -1343,8 +1308,165 @@
       "time": "2026-08-26T14:00",
       "avg_tone": 0.403,
       "n_articles": 16
+    },
+    {
+      "time": "2026-08-26T15:45",
+      "avg_tone": 0.095,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-08-26T16:00",
+      "avg_tone": -1.512,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-08-26T16:15",
+      "avg_tone": -2.499,
+      "n_articles": 28
+    },
+    {
+      "time": "2026-08-26T16:30",
+      "avg_tone": -0.419,
+      "n_articles": 20
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "riotimesonline.com",
+      "n": 5,
+      "avg_tone": 3.396
+    },
+    {
+      "source": "freshplaza.com",
+      "n": 4,
+      "avg_tone": 0.847
+    },
+    {
+      "source": "courant.com",
+      "n": 3,
+      "avg_tone": -4.624
+    },
+    {
+      "source": "thetimes-tribune.com",
+      "n": 3,
+      "avg_tone": -4.624
+    },
+    {
+      "source": "sandiegouniontribune.com",
+      "n": 3,
+      "avg_tone": -4.624
+    },
+    {
+      "source": "rrdailyherald.com",
+      "n": 2,
+      "avg_tone": 1.342
+    },
+    {
+      "source": "fool.com",
+      "n": 2,
+      "avg_tone": 1.132
+    },
+    {
+      "source": "broomfieldenterprise.com",
+      "n": 2,
+      "avg_tone": -2.391
+    },
+    {
+      "source": "fox5atlanta.com",
+      "n": 2,
+      "avg_tone": -1.746
+    },
+    {
+      "source": "akronnewsreporter.com",
+      "n": 2,
+      "avg_tone": -2.391
+    },
+    {
+      "source": "reporterherald.com",
+      "n": 2,
+      "avg_tone": -5.846
+    },
+    {
+      "source": "juniorminingnetwork.com",
+      "n": 2,
+      "avg_tone": 0.346
+    },
+    {
+      "source": "elpasoinc.com",
+      "n": 2,
+      "avg_tone": 1.342
+    },
+    {
+      "source": "knsiradio.com",
+      "n": 1,
+      "avg_tone": -7.726
+    },
+    {
+      "source": "medicinehatnews.com",
+      "n": 1,
+      "avg_tone": -1.56
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "WB_698_TRADE",
+      "n": 220
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 175
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 161
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 143
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 117
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 108
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 106
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 106
+    },
+    {
+      "theme": "LEADER",
+      "n": 103
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 103
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 102
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 98
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 97
+    },
+    {
+      "theme": "ENV_METALS",
+      "n": 85
+    },
+    {
+      "theme": "ARMEDCONFLICT",
+      "n": 82
+    }
+  ]
 }
