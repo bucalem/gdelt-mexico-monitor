@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-08-29T18:50:38.717821+00:00",
-  "rows_total_scanned_last_run": 3839,
-  "rows_mexico_last_run": 92,
-  "overall_avg_tone_4h": -1.239,
+  "generated_at": "2026-08-29T21:24:33.989446+00:00",
+  "rows_total_scanned_last_run": 2053,
+  "rows_mexico_last_run": 36,
+  "overall_avg_tone_4h": -0.983,
   "timeline": [
-    {
-      "time": "2026-08-26T19:45",
-      "avg_tone": -2.504,
-      "n_articles": 23
-    },
-    {
-      "time": "2026-08-26T20:00",
-      "avg_tone": -2.868,
-      "n_articles": 27
-    },
-    {
-      "time": "2026-08-26T20:15",
-      "avg_tone": -3.365,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-08-26T20:30",
-      "avg_tone": -2.435,
-      "n_articles": 41
-    },
     {
       "time": "2026-08-26T23:15",
       "avg_tone": -6.54,
@@ -223,145 +203,165 @@
       "time": "2026-08-29T19:00",
       "avg_tone": -0.253,
       "n_articles": 4
+    },
+    {
+      "time": "2026-08-29T20:45",
+      "avg_tone": -2.979,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-29T21:00",
+      "avg_tone": -0.806,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-29T21:15",
+      "avg_tone": -1.289,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-08-29T21:30",
+      "avg_tone": -1.612,
+      "n_articles": 6
     }
   ],
   "top_sources": [
     {
-      "source": "geneamusings.com",
-      "n": 52,
-      "avg_tone": -0.504
-    },
-    {
-      "source": "timesofsandiego.com",
+      "source": "wdtimes.com",
       "n": 2,
-      "avg_tone": -0.509
+      "avg_tone": -2.156
     },
     {
-      "source": "tickerreport.com",
+      "source": "clickondetroit.com",
       "n": 2,
-      "avg_tone": 2.257
+      "avg_tone": -2.101
     },
     {
-      "source": "wcvb.com",
+      "source": "oilprice.com",
       "n": 2,
-      "avg_tone": -3.494
+      "avg_tone": -0.784
     },
     {
-      "source": "wmur.com",
+      "source": "wral.com",
       "n": 2,
-      "avg_tone": -3.494
+      "avg_tone": -2.202
     },
     {
-      "source": "netscape.com",
+      "source": "wsls.com",
       "n": 2,
-      "avg_tone": -1.101
+      "avg_tone": -2.101
     },
     {
-      "source": "latintimes.com",
+      "source": "krwg.org",
       "n": 2,
-      "avg_tone": -1.004
+      "avg_tone": -3.155
     },
     {
-      "source": "yahoo.com",
+      "source": "inquirer.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -2.77
     },
     {
-      "source": "cjme.com",
+      "source": "pressherald.com",
       "n": 1,
-      "avg_tone": -0.211
+      "avg_tone": -3.891
     },
     {
-      "source": "yakimaherald.com",
+      "source": "oit.edu",
       "n": 1,
-      "avg_tone": -1.245
+      "avg_tone": 4.272
     },
     {
-      "source": "komu.com",
+      "source": "abcnews.com",
       "n": 1,
-      "avg_tone": 0.443
+      "avg_tone": -2.973
     },
     {
-      "source": "vaildaily.com",
+      "source": "bangordailynews.com",
       "n": 1,
-      "avg_tone": 0.674
+      "avg_tone": -0.208
     },
     {
-      "source": "boxingnewsonline.net",
+      "source": "theglobeandmail.com",
       "n": 1,
-      "avg_tone": -2.98
+      "avg_tone": -1.147
     },
     {
-      "source": "wcbm.com",
+      "source": "gazettextra.com",
       "n": 1,
-      "avg_tone": -7.154
+      "avg_tone": -2.721
     },
     {
-      "source": "vegnews.com",
+      "source": "elpasoinc.com",
       "n": 1,
-      "avg_tone": 2.675
+      "avg_tone": -0.314
+    },
+    {
+      "source": "newsday.com",
+      "n": 1,
+      "avg_tone": -0.85
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_RELIGION_CHURCH",
-      "n": 256
-    },
-    {
       "theme": "ENV_OIL",
-      "n": 155
-    },
-    {
-      "theme": "TAX_RELIGION_CATHOLIC",
-      "n": 117
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 97
-    },
-    {
-      "theme": "KILL",
-      "n": 89
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 77
-    },
-    {
-      "theme": "MEDIA_SOCIAL",
-      "n": 67
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 67
+      "n": 166
     },
     {
       "theme": "LEADER",
-      "n": 65
+      "n": 114
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 64
-    },
-    {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 62
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 109
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 59
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 58
+      "n": 62
     },
     {
       "theme": "GENERAL_GOVERNMENT",
-      "n": 57
+      "n": 50
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 49
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 47
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 38
+    },
+    {
+      "theme": "TAX_ETHNICITY_VENEZUELAN",
+      "n": 38
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 37
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 37
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 35
     },
     {
       "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 55
+      "n": 35
+    },
+    {
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 33
+    },
+    {
+      "theme": "MEDIA_SOCIAL",
+      "n": 31
     }
   ]
 }
