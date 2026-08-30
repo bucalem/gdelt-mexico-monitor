@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-30T19:48:40.829554+00:00",
-  "rows_total_scanned_last_run": 2502,
-  "rows_mexico_last_run": 72,
-  "overall_avg_tone_4h": -1.85,
+  "generated_at": "2026-08-30T22:14:42.123024+00:00",
+  "rows_total_scanned_last_run": 2315,
+  "rows_mexico_last_run": 32,
+  "overall_avg_tone_4h": -2.052,
   "timeline": [
     {
       "time": "2026-08-28T00:45",
@@ -283,145 +283,165 @@
       "time": "2026-08-30T19:45",
       "avg_tone": -2.634,
       "n_articles": 14
+    },
+    {
+      "time": "2026-08-30T21:30",
+      "avg_tone": -4.095,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-08-30T21:45",
+      "avg_tone": -3.534,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-08-30T22:00",
+      "avg_tone": -2.748,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-08-30T22:15",
+      "avg_tone": -2.096,
+      "n_articles": 11
     }
   ],
   "top_sources": [
     {
-      "source": "tickerreport.com",
-      "n": 3,
-      "avg_tone": 2.895
+      "source": "theyeshivaworld.com",
+      "n": 2,
+      "avg_tone": -5.234
     },
     {
-      "source": "torontosun.com",
-      "n": 3,
-      "avg_tone": 0.792
-    },
-    {
-      "source": "kjzz.org",
-      "n": 3,
-      "avg_tone": 0.482
-    },
-    {
-      "source": "cnn.com",
+      "source": "wdio.com",
       "n": 1,
-      "avg_tone": -0.797
+      "avg_tone": -5.323
     },
     {
-      "source": "riotimesonline.com",
+      "source": "mininggazette.com",
       "n": 1,
-      "avg_tone": -1.033
+      "avg_tone": -0.718
     },
     {
-      "source": "cubaheadlines.com",
+      "source": "bignewsnetwork.com",
       "n": 1,
-      "avg_tone": -3.125
+      "avg_tone": 0.535
     },
     {
-      "source": "hngnews.com",
-      "n": 1,
-      "avg_tone": -3.827
-    },
-    {
-      "source": "areanews.com.au",
-      "n": 1,
-      "avg_tone": -3.544
-    },
-    {
-      "source": "azfamily.com",
-      "n": 1,
-      "avg_tone": -4.529
-    },
-    {
-      "source": "hotair.com",
-      "n": 1,
-      "avg_tone": -0.761
-    },
-    {
-      "source": "fox29.com",
-      "n": 1,
-      "avg_tone": -0.821
-    },
-    {
-      "source": "theleader.com.au",
-      "n": 1,
-      "avg_tone": -3.446
-    },
-    {
-      "source": "wellingtontimes.com.au",
+      "source": "muswellbrookchronicle.com.au",
       "n": 1,
       "avg_tone": -3.624
     },
     {
-      "source": "wxpr.org",
+      "source": "allaboutbeer.com",
       "n": 1,
-      "avg_tone": -0.885
+      "avg_tone": 2.387
     },
     {
-      "source": "culturemap.com",
+      "source": "thejournal.ie",
       "n": 1,
-      "avg_tone": -1.815
+      "avg_tone": 1.813
+    },
+    {
+      "source": "illawarramercury.com.au",
+      "n": 1,
+      "avg_tone": -3.533
+    },
+    {
+      "source": "fox5dc.com",
+      "n": 1,
+      "avg_tone": -0.821
+    },
+    {
+      "source": "dailyadvance.com",
+      "n": 1,
+      "avg_tone": -5.761
+    },
+    {
+      "source": "theadvocate.com.au",
+      "n": 1,
+      "avg_tone": -3.533
+    },
+    {
+      "source": "okaz.com.sa",
+      "n": 1,
+      "avg_tone": -4.478
+    },
+    {
+      "source": "tenterfieldstar.com.au",
+      "n": 1,
+      "avg_tone": -3.624
+    },
+    {
+      "source": "kxxv.com",
+      "n": 1,
+      "avg_tone": -0.791
+    },
+    {
+      "source": "armidaleexpress.com.au",
+      "n": 1,
+      "avg_tone": -3.629
     }
   ],
   "top_themes": [
     {
-      "theme": "ENV_OIL",
-      "n": 221
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 55
+    },
+    {
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 53
     },
     {
       "theme": "LEADER",
-      "n": 191
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 159
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 156
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 111
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 108
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 100
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 97
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 97
-    },
-    {
-      "theme": "MEDIA_SOCIAL",
-      "n": 89
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 82
-    },
-    {
-      "theme": "BORDER",
-      "n": 75
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 62
+      "n": 53
     },
     {
       "theme": "TAX_FNCACT_EXECUTIVE",
-      "n": 60
+      "n": 40
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICANS",
-      "n": 58
+      "theme": "EPU_POLICY_POLITICAL",
+      "n": 30
+    },
+    {
+      "theme": "ENV_OIL",
+      "n": 25
+    },
+    {
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 22
+    },
+    {
+      "theme": "NATURAL_DISASTER_SUSTAINED_WINDS",
+      "n": 19
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 18
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 18
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 18
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 18
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 16
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 15
+    },
+    {
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 15
     }
   ]
 }
