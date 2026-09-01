@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-01T16:54:12.206241+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -0.231,
+  "generated_at": "2026-09-01T19:41:32.365937+00:00",
+  "rows_total_scanned_last_run": 3665,
+  "rows_mexico_last_run": 46,
+  "overall_avg_tone_4h": -0.432,
   "timeline": [
-    {
-      "time": "2026-08-29T18:15",
-      "avg_tone": -1.276,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-08-29T18:30",
-      "avg_tone": -0.412,
-      "n_articles": 60
-    },
-    {
-      "time": "2026-08-29T18:45",
-      "avg_tone": -0.835,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-08-29T19:00",
-      "avg_tone": -0.253,
-      "n_articles": 4
-    },
     {
       "time": "2026-08-29T20:45",
       "avg_tone": -2.979,
@@ -328,8 +308,155 @@
       "time": "2026-09-01T12:30",
       "avg_tone": -0.109,
       "n_articles": 18
+    },
+    {
+      "time": "2026-09-01T19:00",
+      "avg_tone": 0.221,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-09-01T19:15",
+      "avg_tone": -0.884,
+      "n_articles": 21
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "mymotherlode.com",
+      "n": 3,
+      "avg_tone": -3.428
+    },
+    {
+      "source": "americansongwriter.com",
+      "n": 2,
+      "avg_tone": 3.116
+    },
+    {
+      "source": "prnewswire.com",
+      "n": 2,
+      "avg_tone": 0.372
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 2.184
+    },
+    {
+      "source": "whittierdailynews.com",
+      "n": 2,
+      "avg_tone": -3.443
+    },
+    {
+      "source": "prowrestling.net",
+      "n": 2,
+      "avg_tone": 0.843
+    },
+    {
+      "source": "ajot.com",
+      "n": 2,
+      "avg_tone": 1.979
+    },
+    {
+      "source": "auburn-reporter.com",
+      "n": 1,
+      "avg_tone": -8.344
+    },
+    {
+      "source": "987jack.com",
+      "n": 1,
+      "avg_tone": 2.397
+    },
+    {
+      "source": "blackamericaweb.com",
+      "n": 1,
+      "avg_tone": -5.106
+    },
+    {
+      "source": "taosnews.com",
+      "n": 1,
+      "avg_tone": -2.821
+    },
+    {
+      "source": "963theblaze.com",
+      "n": 1,
+      "avg_tone": 2.397
+    },
+    {
+      "source": "dchieftain.com",
+      "n": 1,
+      "avg_tone": 0.464
+    },
+    {
+      "source": "castanetkamloops.net",
+      "n": 1,
+      "avg_tone": 2.65
+    },
+    {
+      "source": "pitchfork.com",
+      "n": 1,
+      "avg_tone": 0.958
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "EDUCATION",
+      "n": 75
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 66
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 65
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
+      "n": 64
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 61
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 45
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 42
+    },
+    {
+      "theme": "LEADER",
+      "n": 41
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 41
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 41
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 38
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 35
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 35
+    },
+    {
+      "theme": "TAX_WORLDFISH_SHARK",
+      "n": 35
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 34
+    }
+  ]
 }
