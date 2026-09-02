@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-02T00:09:25.671653+00:00",
-  "rows_total_scanned_last_run": 4775,
-  "rows_mexico_last_run": 44,
-  "overall_avg_tone_4h": -0.469,
+  "generated_at": "2026-09-02T04:27:14.955172+00:00",
+  "rows_total_scanned_last_run": 3135,
+  "rows_mexico_last_run": 37,
+  "overall_avg_tone_4h": -0.5,
   "timeline": [
-    {
-      "time": "2026-08-30T00:45",
-      "avg_tone": -2.308,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-08-30T01:00",
-      "avg_tone": -2.298,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-08-30T01:15",
-      "avg_tone": -0.346,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-08-30T01:30",
-      "avg_tone": -2.547,
-      "n_articles": 11
-    },
     {
       "time": "2026-08-30T06:15",
       "avg_tone": -2.685,
@@ -318,145 +298,165 @@
       "time": "2026-09-02T00:15",
       "avg_tone": -2.991,
       "n_articles": 13
+    },
+    {
+      "time": "2026-09-02T03:45",
+      "avg_tone": -2.257,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-09-02T04:00",
+      "avg_tone": 0.45,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-09-02T04:15",
+      "avg_tone": 0.204,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-09-02T04:30",
+      "avg_tone": -0.878,
+      "n_articles": 11
     }
   ],
   "top_sources": [
     {
-      "source": "prnewswire.com",
-      "n": 4,
-      "avg_tone": 6.384
+      "source": "yahoo.com",
+      "n": 3,
+      "avg_tone": -1.246
     },
     {
-      "source": "fool.com",
+      "source": "newswiretoday.com",
       "n": 2,
-      "avg_tone": 1.843
+      "avg_tone": 1.863
+    },
+    {
+      "source": "thefastmode.com",
+      "n": 2,
+      "avg_tone": 1.716
+    },
+    {
+      "source": "theprovince.com",
+      "n": 2,
+      "avg_tone": -0.952
+    },
+    {
+      "source": "americansongwriter.com",
+      "n": 1,
+      "avg_tone": 1.208
+    },
+    {
+      "source": "vindy.com",
+      "n": 1,
+      "avg_tone": 3.061
+    },
+    {
+      "source": "couriernews.com",
+      "n": 1,
+      "avg_tone": 0.142
+    },
+    {
+      "source": "archinect.com",
+      "n": 1,
+      "avg_tone": 2.283
+    },
+    {
+      "source": "freemalaysiatoday.com",
+      "n": 1,
+      "avg_tone": -1.149
+    },
+    {
+      "source": "watchingamerica.com",
+      "n": 1,
+      "avg_tone": -0.261
+    },
+    {
+      "source": "myk104.com",
+      "n": 1,
+      "avg_tone": -1.84
     },
     {
       "source": "cnn.com",
-      "n": 2,
-      "avg_tone": -3.066
-    },
-    {
-      "source": "krwg.org",
-      "n": 2,
-      "avg_tone": 1.665
-    },
-    {
-      "source": "blackamericaweb.com",
       "n": 1,
-      "avg_tone": -1.176
+      "avg_tone": -1.705
     },
     {
-      "source": "krgv.com",
+      "source": "rightspeak.net",
       "n": 1,
-      "avg_tone": -5.575
+      "avg_tone": -11.401
     },
     {
-      "source": "theboot.com",
+      "source": "spokesman.com",
       "n": 1,
-      "avg_tone": 1.111
+      "avg_tone": 0.128
     },
     {
-      "source": "theepochtimes.com",
+      "source": "michigandaily.com",
       "n": 1,
-      "avg_tone": -12.977
-    },
-    {
-      "source": "dchieftain.com",
-      "n": 1,
-      "avg_tone": -5.825
-    },
-    {
-      "source": "firstalert4.com",
-      "n": 1,
-      "avg_tone": -11.111
-    },
-    {
-      "source": "stopthedrugwar.org",
-      "n": 1,
-      "avg_tone": -4.208
-    },
-    {
-      "source": "californiatelegraph.com",
-      "n": 1,
-      "avg_tone": 0.626
-    },
-    {
-      "source": "breitbart.com",
-      "n": 1,
-      "avg_tone": -0.753
-    },
-    {
-      "source": "owensoundsuntimes.com",
-      "n": 1,
-      "avg_tone": 1.877
-    },
-    {
-      "source": "uschamber.com",
-      "n": 1,
-      "avg_tone": 3.43
+      "avg_tone": 4.454
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 74
+      "theme": "TAX_ETHNICITY_VIETNAMESE",
+      "n": 49
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 67
+      "theme": "TAX_WORLDLANGUAGES_VIETNAMESE",
+      "n": 49
     },
     {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 63
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 33
     },
     {
-      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 63
-    },
-    {
-      "theme": "WB_1281_MANUFACTURING",
-      "n": 63
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 45
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 40
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 34
-    },
-    {
-      "theme": "WB_135_TRANSPORT",
-      "n": 31
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 31
+      "theme": "WB_698_TRADE",
+      "n": 32
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 30
+      "n": 31
     },
     {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 30
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 28
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 30
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 29
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "theme": "CRISISLEX_O01_WEATHER",
       "n": 26
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 25
+    },
+    {
+      "theme": "WB_2601_TRADE_LINKAGES_SPILLOVERS_AND_CONNECTIVITY",
+      "n": 24
+    },
+    {
+      "theme": "WB_772_TRADE_FACILITATION_AND_LOGISTICS",
+      "n": 24
+    },
+    {
+      "theme": "WB_699_URBAN_DEVELOPMENT",
+      "n": 24
+    },
+    {
+      "theme": "WB_866_CONNECTIVITY_AND_LAGGING_REGIONS",
+      "n": 24
+    },
+    {
+      "theme": "WB_797_NATIONAL_URBAN_POLICIES",
+      "n": 24
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 23
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 22
     }
   ]
 }
