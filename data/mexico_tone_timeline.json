@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-03T19:50:04.554897+00:00",
-  "rows_total_scanned_last_run": 6363,
-  "rows_mexico_last_run": 82,
-  "overall_avg_tone_4h": -1.49,
+  "generated_at": "2026-09-03T22:02:00.050923+00:00",
+  "rows_total_scanned_last_run": 4041,
+  "rows_mexico_last_run": 61,
+  "overall_avg_tone_4h": -1.842,
   "timeline": [
     {
       "time": "2026-08-31T22:45",
@@ -358,145 +358,160 @@
       "time": "2026-09-03T19:45",
       "avg_tone": -2.002,
       "n_articles": 23
+    },
+    {
+      "time": "2026-09-03T21:15",
+      "avg_tone": -1.908,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-09-03T21:30",
+      "avg_tone": -3.058,
+      "n_articles": 24
+    },
+    {
+      "time": "2026-09-03T21:45",
+      "avg_tone": -3.708,
+      "n_articles": 23
     }
   ],
   "top_sources": [
     {
-      "source": "yahoo.com",
-      "n": 6,
-      "avg_tone": -1.59
+      "source": "iheart.com",
+      "n": 4,
+      "avg_tone": -5.095
     },
     {
-      "source": "abc7.com",
-      "n": 3,
-      "avg_tone": -4.093
-    },
-    {
-      "source": "marinij.com",
+      "source": "kfoxtv.com",
       "n": 2,
-      "avg_tone": -0.343
+      "avg_tone": -0.169
     },
     {
-      "source": "1063thebuzz.com",
+      "source": "fox35orlando.com",
       "n": 2,
-      "avg_tone": -1.467
+      "avg_tone": -4.871
     },
     {
-      "source": "culturemap.com",
+      "source": "thewrap.com",
       "n": 2,
-      "avg_tone": 0.812
+      "avg_tone": 2.114
     },
     {
-      "source": "mercurynews.com",
-      "n": 2,
-      "avg_tone": -3.125
-    },
-    {
-      "source": "news4jax.com",
-      "n": 2,
-      "avg_tone": -4.187
-    },
-    {
-      "source": "kansaspublicradio.org",
-      "n": 2,
-      "avg_tone": -0.35
-    },
-    {
-      "source": "dchieftain.com",
-      "n": 2,
-      "avg_tone": 3.392
-    },
-    {
-      "source": "scvnews.com",
-      "n": 2,
-      "avg_tone": 3.785
-    },
-    {
-      "source": "gringogazette.com",
+      "source": "cbsnews.com",
       "n": 1,
-      "avg_tone": 4.099
+      "avg_tone": -3.215
     },
     {
-      "source": "tsn.ca",
+      "source": "smdp.com",
       "n": 1,
-      "avg_tone": -2.439
+      "avg_tone": -5.99
     },
     {
-      "source": "nzherald.co.nz",
+      "source": "news4sanantonio.com",
       "n": 1,
-      "avg_tone": -3.857
+      "avg_tone": -0.448
     },
     {
-      "source": "livemint.com",
+      "source": "mynewsla.com",
       "n": 1,
-      "avg_tone": -4.932
+      "avg_tone": -6.744
     },
     {
-      "source": "tickerreport.com",
+      "source": "knopnews2.com",
       "n": 1,
-      "avg_tone": 0.648
+      "avg_tone": -6.393
+    },
+    {
+      "source": "capjournal.com",
+      "n": 1,
+      "avg_tone": -4.796
+    },
+    {
+      "source": "kfgo.com",
+      "n": 1,
+      "avg_tone": -4.04
+    },
+    {
+      "source": "yakimaherald.com",
+      "n": 1,
+      "avg_tone": -1.244
+    },
+    {
+      "source": "mcall.com",
+      "n": 1,
+      "avg_tone": -4.202
+    },
+    {
+      "source": "insightcrime.org",
+      "n": 1,
+      "avg_tone": -9.361
+    },
+    {
+      "source": "mitchellrepublic.com",
+      "n": 1,
+      "avg_tone": -4.796
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_MILITARY_TITLE_OFFICER",
-      "n": 139
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 179
     },
     {
-      "theme": "TAX_FNCACT_OFFICER",
-      "n": 139
+      "theme": "SECURITY_SERVICES",
+      "n": 163
     },
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 126
+      "theme": "TAX_FNCACT_POLICE",
+      "n": 159
     },
     {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 104
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 101
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 96
-    },
-    {
-      "theme": "TAX_FNCACT_AUTHORITIES",
-      "n": 90
-    },
-    {
-      "theme": "EPU_POLICY_AUTHORITIES",
-      "n": 90
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 89
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 87
-    },
-    {
-      "theme": "WB_831_GOVERNANCE",
-      "n": 87
-    },
-    {
-      "theme": "WB_832_ANTI_CORRUPTION",
-      "n": 87
-    },
-    {
-      "theme": "WB_1014_CRIMINAL_JUSTICE",
-      "n": 86
-    },
-    {
-      "theme": "WB_2024_ANTI_CORRUPTION_AUTHORITIES",
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
       "n": 85
     },
     {
-      "theme": "WB_2025_INVESTIGATION",
-      "n": 84
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 72
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICER",
+      "n": 65
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 64
+    },
+    {
+      "theme": "TAX_MILITARY_TITLE_OFFICER",
+      "n": 61
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 57
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 53
+    },
+    {
+      "theme": "WB_831_GOVERNANCE",
+      "n": 52
+    },
+    {
+      "theme": "WB_832_ANTI_CORRUPTION",
+      "n": 51
+    },
+    {
+      "theme": "WB_1014_CRIMINAL_JUSTICE",
+      "n": 51
+    },
+    {
+      "theme": "TRIAL",
+      "n": 50
+    },
+    {
+      "theme": "TAX_FNCACT_AUTHORITIES",
+      "n": 50
     }
   ]
 }
