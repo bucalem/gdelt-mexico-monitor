@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-09-03T22:02:00.050923+00:00",
-  "rows_total_scanned_last_run": 4041,
-  "rows_mexico_last_run": 61,
-  "overall_avg_tone_4h": -1.842,
+  "generated_at": "2026-09-04T00:02:49.608841+00:00",
+  "rows_total_scanned_last_run": 4771,
+  "rows_mexico_last_run": 89,
+  "overall_avg_tone_4h": -2.086,
   "timeline": [
-    {
-      "time": "2026-08-31T22:45",
-      "avg_tone": -0.596,
-      "n_articles": 13
-    },
     {
       "time": "2026-09-01T01:15",
       "avg_tone": -0.777,
@@ -373,145 +368,165 @@
       "time": "2026-09-03T21:45",
       "avg_tone": -3.708,
       "n_articles": 23
+    },
+    {
+      "time": "2026-09-03T23:15",
+      "avg_tone": -3.094,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-09-03T23:30",
+      "avg_tone": -1.166,
+      "n_articles": 24
+    },
+    {
+      "time": "2026-09-03T23:45",
+      "avg_tone": -3.767,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-09-04T00:00",
+      "avg_tone": -1.854,
+      "n_articles": 20
     }
   ],
   "top_sources": [
     {
-      "source": "iheart.com",
-      "n": 4,
-      "avg_tone": -5.095
-    },
-    {
-      "source": "kfoxtv.com",
+      "source": "wgauradio.com",
       "n": 2,
-      "avg_tone": -0.169
+      "avg_tone": -4.334
     },
     {
-      "source": "fox35orlando.com",
+      "source": "fox10phoenix.com",
+      "n": 2,
+      "avg_tone": -7.357
+    },
+    {
+      "source": "news4jax.com",
+      "n": 2,
+      "avg_tone": -3.802
+    },
+    {
+      "source": "mercurynews.com",
+      "n": 2,
+      "avg_tone": -1.893
+    },
+    {
+      "source": "netscape.com",
+      "n": 2,
+      "avg_tone": -7.121
+    },
+    {
+      "source": "ktvu.com",
       "n": 2,
       "avg_tone": -4.871
     },
     {
-      "source": "thewrap.com",
+      "source": "dailybreeze.com",
       "n": 2,
-      "avg_tone": 2.114
+      "avg_tone": -2.01
     },
     {
-      "source": "cbsnews.com",
-      "n": 1,
-      "avg_tone": -3.215
+      "source": "pilotonline.com",
+      "n": 2,
+      "avg_tone": -3.017
     },
     {
-      "source": "smdp.com",
-      "n": 1,
-      "avg_tone": -5.99
+      "source": "citizensvoice.com",
+      "n": 2,
+      "avg_tone": -3.943
     },
     {
-      "source": "news4sanantonio.com",
-      "n": 1,
-      "avg_tone": -0.448
+      "source": "boxingnewsonline.net",
+      "n": 2,
+      "avg_tone": -1.521
     },
     {
-      "source": "mynewsla.com",
-      "n": 1,
-      "avg_tone": -6.744
+      "source": "azfamily.com",
+      "n": 2,
+      "avg_tone": -7.407
     },
     {
-      "source": "knopnews2.com",
-      "n": 1,
-      "avg_tone": -6.393
+      "source": "foxsanantonio.com",
+      "n": 2,
+      "avg_tone": -3.651
     },
     {
-      "source": "capjournal.com",
+      "source": "wellandtribune.ca",
       "n": 1,
-      "avg_tone": -4.796
+      "avg_tone": -6.358
     },
     {
-      "source": "kfgo.com",
+      "source": "rttnews.com",
       "n": 1,
-      "avg_tone": -4.04
+      "avg_tone": 1.156
     },
     {
-      "source": "yakimaherald.com",
+      "source": "aol.com",
       "n": 1,
-      "avg_tone": -1.244
-    },
-    {
-      "source": "mcall.com",
-      "n": 1,
-      "avg_tone": -4.202
-    },
-    {
-      "source": "insightcrime.org",
-      "n": 1,
-      "avg_tone": -9.361
-    },
-    {
-      "source": "mitchellrepublic.com",
-      "n": 1,
-      "avg_tone": -4.796
+      "avg_tone": 4.906
     }
   ],
   "top_themes": [
     {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 179
+      "n": 213
     },
     {
       "theme": "SECURITY_SERVICES",
-      "n": 163
+      "n": 184
     },
     {
       "theme": "TAX_FNCACT_POLICE",
-      "n": 159
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 85
-    },
-    {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 72
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICER",
-      "n": 65
+      "n": 179
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 64
+      "n": 89
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICER",
+      "n": 77
     },
     {
       "theme": "TAX_MILITARY_TITLE_OFFICER",
-      "n": 61
+      "n": 73
     },
     {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 57
+      "theme": "TAX_ETHNICITY_CHINESE",
+      "n": 72
+    },
+    {
+      "theme": "LEADER",
+      "n": 70
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_CHINESE",
+      "n": 70
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 53
+      "n": 64
     },
     {
-      "theme": "WB_831_GOVERNANCE",
-      "n": 52
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 63
     },
     {
-      "theme": "WB_832_ANTI_CORRUPTION",
-      "n": 51
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 63
     },
     {
-      "theme": "WB_1014_CRIMINAL_JUSTICE",
-      "n": 51
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 61
     },
     {
-      "theme": "TRIAL",
-      "n": 50
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 58
     },
     {
-      "theme": "TAX_FNCACT_AUTHORITIES",
-      "n": 50
+      "theme": "SANCTIONS",
+      "n": 56
     }
   ]
 }
