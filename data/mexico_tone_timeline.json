@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-04T13:06:29.772513+00:00",
-  "rows_total_scanned_last_run": 5741,
-  "rows_mexico_last_run": 85,
-  "overall_avg_tone_4h": -1.684,
+  "generated_at": "2026-09-04T16:50:47.213766+00:00",
+  "rows_total_scanned_last_run": 5667,
+  "rows_mexico_last_run": 62,
+  "overall_avg_tone_4h": -0.899,
   "timeline": [
     {
       "time": "2026-09-01T19:00",
@@ -383,145 +383,165 @@
       "time": "2026-09-04T13:15",
       "avg_tone": -0.337,
       "n_articles": 18
+    },
+    {
+      "time": "2026-09-04T16:15",
+      "avg_tone": -0.327,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-09-04T16:30",
+      "avg_tone": 0.928,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-09-04T16:45",
+      "avg_tone": -1.044,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-09-04T17:00",
+      "avg_tone": -1.71,
+      "n_articles": 11
     }
   ],
   "top_sources": [
     {
+      "source": "themarketsdaily.com",
+      "n": 4,
+      "avg_tone": 0.842
+    },
+    {
+      "source": "finanznachrichten.de",
+      "n": 2,
+      "avg_tone": 2.794
+    },
+    {
+      "source": "dailycamera.com",
+      "n": 2,
+      "avg_tone": 0.821
+    },
+    {
       "source": "latintimes.com",
-      "n": 5,
-      "avg_tone": -4.399
-    },
-    {
-      "source": "theepochtimes.com",
       "n": 2,
-      "avg_tone": -3.243
+      "avg_tone": 0.867
     },
     {
-      "source": "thespiritsbusiness.com",
+      "source": "timescall.com",
       "n": 2,
-      "avg_tone": 3.059
+      "avg_tone": 0.821
     },
     {
-      "source": "hot96.com",
-      "n": 2,
-      "avg_tone": -2.074
-    },
-    {
-      "source": "mymixfm.com",
-      "n": 2,
-      "avg_tone": -2.074
-    },
-    {
-      "source": "indiatimes.com",
-      "n": 2,
-      "avg_tone": -1.888
-    },
-    {
-      "source": "kelo.com",
-      "n": 2,
-      "avg_tone": -2.074
-    },
-    {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": 1.871
-    },
-    {
-      "source": "wtvbam.com",
-      "n": 2,
-      "avg_tone": -2.074
-    },
-    {
-      "source": "mexicoledger.com",
-      "n": 2,
-      "avg_tone": 1.587
-    },
-    {
-      "source": "dailypolitical.com",
-      "n": 2,
-      "avg_tone": 3.134
-    },
-    {
-      "source": "aol.com",
-      "n": 2,
-      "avg_tone": -3.655
-    },
-    {
-      "source": "bostonherald.com",
-      "n": 2,
-      "avg_tone": -2.25
-    },
-    {
-      "source": "globalsecurity.org",
-      "n": 2,
-      "avg_tone": 3.077
-    },
-    {
-      "source": "hellenicshippingnews.com",
+      "source": "fox7austin.com",
       "n": 1,
-      "avg_tone": -0.841
+      "avg_tone": -3.004
+    },
+    {
+      "source": "mcall.com",
+      "n": 1,
+      "avg_tone": -1.175
+    },
+    {
+      "source": "timeout.com",
+      "n": 1,
+      "avg_tone": 3.349
+    },
+    {
+      "source": "reporterherald.com",
+      "n": 1,
+      "avg_tone": -1.175
+    },
+    {
+      "source": "winchesterstar.com",
+      "n": 1,
+      "avg_tone": 3.03
+    },
+    {
+      "source": "cnn.com",
+      "n": 1,
+      "avg_tone": -2.462
+    },
+    {
+      "source": "wlrn.org",
+      "n": 1,
+      "avg_tone": -7.299
+    },
+    {
+      "source": "jamaicaobserver.com",
+      "n": 1,
+      "avg_tone": -4.403
+    },
+    {
+      "source": "charlestoncitypaper.com",
+      "n": 1,
+      "avg_tone": -0.365
+    },
+    {
+      "source": "naharnet.com",
+      "n": 1,
+      "avg_tone": -1.316
     }
   ],
   "top_themes": [
     {
+      "theme": "TAX_ETHNICITY_GERMAN",
+      "n": 104
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_GERMAN",
+      "n": 104
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 80
+    },
+    {
+      "theme": "EPU_POLICY_DEFICIT",
+      "n": 64
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 44
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 42
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 35
+    },
+    {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 555
+      "n": 33
     },
     {
-      "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 444
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 30
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 181
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 29
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 177
+      "theme": "TAX_ETHNICITY_CHINESE",
+      "n": 28
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 175
-    },
-    {
-      "theme": "EPU_CATS_REGULATION",
-      "n": 163
-    },
-    {
-      "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
-      "n": 157
-    },
-    {
-      "theme": "CRIME_CARTELS",
-      "n": 156
-    },
-    {
-      "theme": "ORGANIZED_CRIME",
-      "n": 156
-    },
-    {
-      "theme": "WB_1743_ANTICARTEL_ENFORCEMENT",
-      "n": 156
-    },
-    {
-      "theme": "WB_2446_CARTELS",
-      "n": 156
-    },
-    {
-      "theme": "WB_406_COMPETITION_POLICY",
-      "n": 156
-    },
-    {
-      "theme": "WB_2101_ANTITRUST",
-      "n": 156
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 147
+      "theme": "TAX_WORLDLANGUAGES_CHINESE",
+      "n": 28
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 135
+      "n": 26
+    },
+    {
+      "theme": "LEADER",
+      "n": 25
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 24
     }
   ]
 }
