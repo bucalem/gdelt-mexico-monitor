@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-09-04T19:13:27.173170+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -0.899,
+  "generated_at": "2026-09-04T21:28:50.115760+00:00",
+  "rows_total_scanned_last_run": 5213,
+  "rows_mexico_last_run": 87,
+  "overall_avg_tone_4h": -1.673,
   "timeline": [
-    {
-      "time": "2026-09-01T19:15",
-      "avg_tone": -0.884,
-      "n_articles": 21
-    },
-    {
-      "time": "2026-09-01T21:15",
-      "avg_tone": -0.363,
-      "n_articles": 21
-    },
     {
       "time": "2026-09-01T21:30",
       "avg_tone": -0.156,
@@ -398,8 +388,165 @@
       "time": "2026-09-04T17:00",
       "avg_tone": -1.71,
       "n_articles": 11
+    },
+    {
+      "time": "2026-09-04T20:45",
+      "avg_tone": -3.365,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-09-04T21:00",
+      "avg_tone": -4.265,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-09-04T21:15",
+      "avg_tone": -4.948,
+      "n_articles": 24
+    },
+    {
+      "time": "2026-09-04T21:30",
+      "avg_tone": -2.818,
+      "n_articles": 26
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "news4sanantonio.com",
+      "n": 3,
+      "avg_tone": -6.71
+    },
+    {
+      "source": "latintimes.com",
+      "n": 3,
+      "avg_tone": -1.07
+    },
+    {
+      "source": "manilatimes.net",
+      "n": 2,
+      "avg_tone": -3.572
+    },
+    {
+      "source": "fox4beaumont.com",
+      "n": 2,
+      "avg_tone": -9.428
+    },
+    {
+      "source": "wgxa.tv",
+      "n": 2,
+      "avg_tone": -9.428
+    },
+    {
+      "source": "wchstv.com",
+      "n": 2,
+      "avg_tone": -9.428
+    },
+    {
+      "source": "myfox28columbus.com",
+      "n": 2,
+      "avg_tone": -9.428
+    },
+    {
+      "source": "wlos.com",
+      "n": 2,
+      "avg_tone": -9.428
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 1.491
+    },
+    {
+      "source": "hcamag.com",
+      "n": 2,
+      "avg_tone": 0.094
+    },
+    {
+      "source": "times-standard.com",
+      "n": 1,
+      "avg_tone": 1.012
+    },
+    {
+      "source": "agri-pulse.com",
+      "n": 1,
+      "avg_tone": -0.288
+    },
+    {
+      "source": "bearingarms.com",
+      "n": 1,
+      "avg_tone": -1.043
+    },
+    {
+      "source": "nepalnational.com",
+      "n": 1,
+      "avg_tone": 0.463
+    },
+    {
+      "source": "mycountry955.com",
+      "n": 1,
+      "avg_tone": -0.761
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 93
+    },
+    {
+      "theme": "LEADER",
+      "n": 93
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 92
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 87
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 84
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 67
+    },
+    {
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 67
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 64
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 63
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 60
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 60
+    },
+    {
+      "theme": "ARMEDCONFLICT",
+      "n": 60
+    },
+    {
+      "theme": "KILL",
+      "n": 55
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 53
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 52
+    }
+  ]
 }
