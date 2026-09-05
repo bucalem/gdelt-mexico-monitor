@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-09-05T19:29:04.588352+00:00",
-  "rows_total_scanned_last_run": 2714,
-  "rows_mexico_last_run": 24,
-  "overall_avg_tone_4h": -1.055,
+  "generated_at": "2026-09-05T21:31:31.577045+00:00",
+  "rows_total_scanned_last_run": 2215,
+  "rows_mexico_last_run": 26,
+  "overall_avg_tone_4h": -1.054,
   "timeline": [
-    {
-      "time": "2026-09-02T19:30",
-      "avg_tone": 1.184,
-      "n_articles": 19
-    },
-    {
-      "time": "2026-09-02T19:45",
-      "avg_tone": -1.45,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-09-02T21:30",
-      "avg_tone": -0.506,
-      "n_articles": 25
-    },
     {
       "time": "2026-09-02T21:45",
       "avg_tone": -0.003,
@@ -428,145 +413,165 @@
       "time": "2026-09-05T19:30",
       "avg_tone": -5.214,
       "n_articles": 2
+    },
+    {
+      "time": "2026-09-05T20:45",
+      "avg_tone": -0.255,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-09-05T21:00",
+      "avg_tone": -3.686,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-09-05T21:15",
+      "avg_tone": -0.577,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-09-05T21:30",
+      "avg_tone": -1.232,
+      "n_articles": 9
     }
   ],
   "top_sources": [
     {
-      "source": "truthout.org",
+      "source": "breitbart.com",
+      "n": 3,
+      "avg_tone": -7.462
+    },
+    {
+      "source": "kfoxtv.com",
       "n": 2,
-      "avg_tone": -5.214
+      "avg_tone": 2.403
     },
     {
-      "source": "eptrail.com",
+      "source": "theblaze.com",
       "n": 1,
-      "avg_tone": -0.81
+      "avg_tone": -6.08
     },
     {
-      "source": "culturemap.com",
+      "source": "marketbusinessnews.com",
       "n": 1,
-      "avg_tone": 6.115
+      "avg_tone": -2.936
     },
     {
-      "source": "tickerreport.com",
+      "source": "nbcmiami.com",
       "n": 1,
-      "avg_tone": 4.134
+      "avg_tone": -2.712
     },
     {
-      "source": "slashfilm.com",
+      "source": "ottawasun.com",
       "n": 1,
-      "avg_tone": -0.347
+      "avg_tone": 0.055
     },
     {
-      "source": "napavalleyregister.com",
+      "source": "dailypolitical.com",
       "n": 1,
-      "avg_tone": 1.878
+      "avg_tone": 3.2
     },
     {
-      "source": "krwg.org",
+      "source": "abc7amarillo.com",
       "n": 1,
-      "avg_tone": -6.613
+      "avg_tone": -0.826
     },
     {
-      "source": "santafenewmexican.com",
+      "source": "brightonandhovenews.org",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": 0.597
     },
     {
-      "source": "the-star.co.ke",
-      "n": 1,
-      "avg_tone": -5.851
-    },
-    {
-      "source": "muscatdaily.com",
-      "n": 1,
-      "avg_tone": 2.146
-    },
-    {
-      "source": "torontotelegraph.com",
+      "source": "orlandoecho.com",
       "n": 1,
       "avg_tone": 4.375
     },
     {
-      "source": "jpost.com",
+      "source": "wtxl.com",
       "n": 1,
-      "avg_tone": 0.484
+      "avg_tone": -6.757
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "cubaheadlines.com",
       "n": 1,
-      "avg_tone": 1.52
+      "avg_tone": 2.734
     },
     {
-      "source": "abc.net.au",
+      "source": "sbs.com.au",
       "n": 1,
-      "avg_tone": -5.12
+      "avg_tone": -3.103
     },
     {
-      "source": "nypost.com",
+      "source": "therightscoop.com",
       "n": 1,
-      "avg_tone": -3.327
+      "avg_tone": 0.73
+    },
+    {
+      "source": "dailymail.com",
+      "n": 1,
+      "avg_tone": -2.671
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_AMBASSADOR",
-      "n": 37
+      "theme": "AGRICULTURE",
+      "n": 51
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 35
+      "theme": "CLOSURE",
+      "n": 34
     },
     {
-      "theme": "TAX_FNCACT_WORKERS",
-      "n": 31
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 32
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 32
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 32
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 30
+    },
+    {
+      "theme": "TAX_FNCACT_SHERIFF",
+      "n": 28
+    },
+    {
+      "theme": "CRIME_CARTELS",
       "n": 27
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 25
+      "theme": "WB_1743_ANTICARTEL_ENFORCEMENT",
+      "n": 27
     },
     {
-      "theme": "TAX_FNCACT_ATTORNEY",
-      "n": 25
+      "theme": "WB_2446_CARTELS",
+      "n": 27
     },
     {
-      "theme": "LEGISLATION",
-      "n": 24
+      "theme": "WB_406_COMPETITION_POLICY",
+      "n": 27
     },
     {
-      "theme": "EPU_POLICY_LAW",
-      "n": 24
+      "theme": "WB_2101_ANTITRUST",
+      "n": 27
     },
     {
-      "theme": "AGRICULTURE",
-      "n": 23
+      "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
+      "n": 27
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 23
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 26
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 23
-    },
-    {
-      "theme": "LEADER",
-      "n": 22
-    },
-    {
-      "theme": "TAX_FNCACT_PLENIPOTENTIARY",
-      "n": 21
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 18
-    },
-    {
-      "theme": "ENV_OIL",
-      "n": 18
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 26
     }
   ]
 }
