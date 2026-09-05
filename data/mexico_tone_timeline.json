@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-04T23:10:59.443123+00:00",
-  "rows_total_scanned_last_run": 4446,
-  "rows_mexico_last_run": 88,
-  "overall_avg_tone_4h": -2.399,
+  "generated_at": "2026-09-05T00:55:52.408925+00:00",
+  "rows_total_scanned_last_run": 877,
+  "rows_mexico_last_run": 16,
+  "overall_avg_tone_4h": -2.551,
   "timeline": [
-    {
-      "time": "2026-09-01T23:30",
-      "avg_tone": 0.313,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-09-01T23:45",
-      "avg_tone": 0.991,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-09-02T00:00",
-      "avg_tone": 1.682,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-09-02T00:15",
-      "avg_tone": -2.991,
-      "n_articles": 13
-    },
     {
       "time": "2026-09-02T03:45",
       "avg_tone": -2.257,
@@ -413,145 +393,140 @@
       "time": "2026-09-04T23:15",
       "avg_tone": -1.838,
       "n_articles": 13
+    },
+    {
+      "time": "2026-09-05T00:15",
+      "avg_tone": -4.305,
+      "n_articles": 16
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 4,
-      "avg_tone": -0.897
-    },
-    {
-      "source": "fox11online.com",
-      "n": 3,
-      "avg_tone": -7.94
-    },
-    {
-      "source": "yahoo.com",
-      "n": 2,
-      "avg_tone": 1.204
-    },
-    {
-      "source": "okcfox.com",
+      "source": "midmichigannow.com",
       "n": 2,
       "avg_tone": -9.428
     },
     {
-      "source": "turnto10.com",
+      "source": "wjcl.com",
+      "n": 2,
+      "avg_tone": -1.626
+    },
+    {
+      "source": "newschannel9.com",
       "n": 2,
       "avg_tone": -9.428
     },
     {
-      "source": "kdhnews.com",
-      "n": 2,
-      "avg_tone": -6.034
+      "source": "theartnewspaper.com",
+      "n": 1,
+      "avg_tone": 3.03
     },
     {
-      "source": "fox23maine.com",
-      "n": 2,
-      "avg_tone": -9.428
+      "source": "dw.com",
+      "n": 1,
+      "avg_tone": -0.385
     },
     {
-      "source": "foxreno.com",
-      "n": 2,
-      "avg_tone": -9.428
+      "source": "4029tv.com",
+      "n": 1,
+      "avg_tone": -6.897
     },
     {
-      "source": "wral.com",
-      "n": 2,
-      "avg_tone": -6.049
+      "source": "aol.com",
+      "n": 1,
+      "avg_tone": -0.965
     },
     {
-      "source": "weartv.com",
-      "n": 2,
-      "avg_tone": -9.428
+      "source": "tsn.ca",
+      "n": 1,
+      "avg_tone": -0.958
     },
     {
-      "source": "scvnews.com",
-      "n": 2,
-      "avg_tone": 5.026
+      "source": "kmbc.com",
+      "n": 1,
+      "avg_tone": -6.897
     },
     {
-      "source": "mynews4.com",
-      "n": 2,
-      "avg_tone": -9.428
+      "source": "aa.com.tr",
+      "n": 1,
+      "avg_tone": -10.03
     },
     {
-      "source": "wsbt.com",
-      "n": 2,
-      "avg_tone": -9.428
+      "source": "wgauradio.com",
+      "n": 1,
+      "avg_tone": -7.658
     },
     {
-      "source": "artnews.com",
-      "n": 2,
-      "avg_tone": 3.087
+      "source": "montrealgazette.com",
+      "n": 1,
+      "avg_tone": 1.838
     },
     {
-      "source": "foxrochester.com",
-      "n": 2,
-      "avg_tone": -9.428
+      "source": "koreaherald.com",
+      "n": 1,
+      "avg_tone": 0.998
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 424
-    },
-    {
-      "theme": "LEADER",
-      "n": 420
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 412
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 150
-    },
-    {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 138
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 106
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 101
-    },
-    {
-      "theme": "ELECTION",
-      "n": 97
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 92
+      "theme": "SANCTIONS",
+      "n": 30
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 90
+      "n": 18
     },
     {
-      "theme": "AGRICULTURE",
-      "n": 87
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 16
     },
     {
-      "theme": "EPU_POLICY_WHITE_HOUSE",
-      "n": 79
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 14
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 13
+    },
+    {
+      "theme": "LEADER",
+      "n": 12
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 12
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 12
+    },
+    {
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 11
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 11
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 11
+    },
+    {
+      "theme": "EPU_ECONOMY",
+      "n": 10
+    },
+    {
+      "theme": "ENV_OIL",
+      "n": 10
     },
     {
       "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 79
+      "n": 9
     },
     {
       "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 77
-    },
-    {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 77
+      "n": 9
     }
   ]
 }
