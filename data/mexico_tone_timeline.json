@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-09-05T17:37:26.952983+00:00",
-  "rows_total_scanned_last_run": 2801,
-  "rows_mexico_last_run": 25,
-  "overall_avg_tone_4h": -0.698,
+  "generated_at": "2026-09-05T19:29:04.588352+00:00",
+  "rows_total_scanned_last_run": 2714,
+  "rows_mexico_last_run": 24,
+  "overall_avg_tone_4h": -1.055,
   "timeline": [
-    {
-      "time": "2026-09-02T19:00",
-      "avg_tone": -0.378,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-09-02T19:15",
-      "avg_tone": -0.269,
-      "n_articles": 15
-    },
     {
       "time": "2026-09-02T19:30",
       "avg_tone": 1.184,
@@ -418,113 +408,129 @@
       "time": "2026-09-05T17:45",
       "avg_tone": 0.117,
       "n_articles": 10
+    },
+    {
+      "time": "2026-09-05T18:45",
+      "avg_tone": -1.293,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-09-05T19:00",
+      "avg_tone": -0.739,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-09-05T19:15",
+      "avg_tone": 0.072,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-09-05T19:30",
+      "avg_tone": -5.214,
+      "n_articles": 2
     }
   ],
   "top_sources": [
     {
+      "source": "truthout.org",
+      "n": 2,
+      "avg_tone": -5.214
+    },
+    {
+      "source": "eptrail.com",
+      "n": 1,
+      "avg_tone": -0.81
+    },
+    {
+      "source": "culturemap.com",
+      "n": 1,
+      "avg_tone": 6.115
+    },
+    {
+      "source": "tickerreport.com",
+      "n": 1,
+      "avg_tone": 4.134
+    },
+    {
+      "source": "slashfilm.com",
+      "n": 1,
+      "avg_tone": -0.347
+    },
+    {
+      "source": "napavalleyregister.com",
+      "n": 1,
+      "avg_tone": 1.878
+    },
+    {
+      "source": "krwg.org",
+      "n": 1,
+      "avg_tone": -6.613
+    },
+    {
+      "source": "santafenewmexican.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "the-star.co.ke",
+      "n": 1,
+      "avg_tone": -5.851
+    },
+    {
+      "source": "muscatdaily.com",
+      "n": 1,
+      "avg_tone": 2.146
+    },
+    {
+      "source": "torontotelegraph.com",
+      "n": 1,
+      "avg_tone": 4.375
+    },
+    {
+      "source": "jpost.com",
+      "n": 1,
+      "avg_tone": 0.484
+    },
+    {
       "source": "themarketsdaily.com",
-      "n": 2,
-      "avg_tone": 0.84
-    },
-    {
-      "source": "timesofsandiego.com",
-      "n": 2,
-      "avg_tone": 1.934
-    },
-    {
-      "source": "urbanmilwaukee.com",
       "n": 1,
-      "avg_tone": -6.963
+      "avg_tone": 1.52
     },
     {
-      "source": "koolfmabilene.com",
+      "source": "abc.net.au",
       "n": 1,
-      "avg_tone": 4.78
+      "avg_tone": -5.12
     },
     {
-      "source": "dailymail.com",
+      "source": "nypost.com",
       "n": 1,
-      "avg_tone": 2.375
-    },
-    {
-      "source": "clickondetroit.com",
-      "n": 1,
-      "avg_tone": -0.956
-    },
-    {
-      "source": "mexicoledger.com",
-      "n": 1,
-      "avg_tone": -2.732
-    },
-    {
-      "source": "indiatimes.com",
-      "n": 1,
-      "avg_tone": -0.881
-    },
-    {
-      "source": "abqjournal.com",
-      "n": 1,
-      "avg_tone": -4.691
-    },
-    {
-      "source": "newsweek.com",
-      "n": 1,
-      "avg_tone": -0.559
-    },
-    {
-      "source": "lexch.com",
-      "n": 1,
-      "avg_tone": -0.8
-    },
-    {
-      "source": "theportugalnews.com",
-      "n": 1,
-      "avg_tone": 0.971
-    },
-    {
-      "source": "yahoo.com",
-      "n": 1,
-      "avg_tone": -6.604
-    },
-    {
-      "source": "dailykos.com",
-      "n": 1,
-      "avg_tone": 0.176
-    },
-    {
-      "source": "wjfw.com",
-      "n": 1,
-      "avg_tone": -5.314
+      "avg_tone": -3.327
     }
   ],
   "top_themes": [
     {
-      "theme": "DEMOCRACY",
-      "n": 84
+      "theme": "TAX_FNCACT_AMBASSADOR",
+      "n": 37
     },
     {
-      "theme": "TAX_FNCACT_CANDIDATES",
-      "n": 83
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 35
     },
     {
-      "theme": "ELECTION",
-      "n": 42
+      "theme": "TAX_FNCACT_WORKERS",
+      "n": 31
     },
     {
-      "theme": "LEADER",
-      "n": 36
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 27
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 26
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 25
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 24
+      "theme": "TAX_FNCACT_ATTORNEY",
+      "n": 25
     },
     {
       "theme": "LEGISLATION",
@@ -535,28 +541,32 @@
       "n": 24
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 22
+      "theme": "AGRICULTURE",
+      "n": 23
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 23
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 23
+    },
+    {
+      "theme": "LEADER",
       "n": 22
     },
     {
-      "theme": "TAX_ECON_PRICE",
+      "theme": "TAX_FNCACT_PLENIPOTENTIARY",
       "n": 21
     },
     {
-      "theme": "TAX_POLITICAL_PARTY_DEMOCRATS",
-      "n": 21
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 18
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 20
-    },
-    {
-      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
-      "n": 20
+      "theme": "ENV_OIL",
+      "n": 18
     }
   ]
 }
