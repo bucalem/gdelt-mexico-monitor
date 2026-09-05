@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-05T05:08:50.320741+00:00",
-  "rows_total_scanned_last_run": 2562,
-  "rows_mexico_last_run": 43,
-  "overall_avg_tone_4h": -2.825,
+  "generated_at": "2026-09-05T09:01:23.851531+00:00",
+  "rows_total_scanned_last_run": 2480,
+  "rows_mexico_last_run": 23,
+  "overall_avg_tone_4h": -2.857,
   "timeline": [
-    {
-      "time": "2026-09-02T08:15",
-      "avg_tone": -0.397,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-09-02T08:30",
-      "avg_tone": -0.029,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-09-02T08:45",
-      "avg_tone": 0.547,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-09-02T09:00",
-      "avg_tone": -1.801,
-      "n_articles": 3
-    },
     {
       "time": "2026-09-02T12:30",
       "avg_tone": -1.342,
@@ -398,145 +378,165 @@
       "time": "2026-09-05T05:15",
       "avg_tone": -1.196,
       "n_articles": 10
+    },
+    {
+      "time": "2026-09-05T08:15",
+      "avg_tone": 0.438,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-09-05T08:30",
+      "avg_tone": 0.67,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-09-05T08:45",
+      "avg_tone": -0.035,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-09-05T09:00",
+      "avg_tone": 1.147,
+      "n_articles": 4
     }
   ],
   "top_sources": [
     {
-      "source": "thesudburystar.com",
-      "n": 1,
-      "avg_tone": 0.543
+      "source": "arkansasonline.com",
+      "n": 3,
+      "avg_tone": -3.446
     },
     {
-      "source": "kunm.org",
-      "n": 1,
-      "avg_tone": -3.03
-    },
-    {
-      "source": "dentonrc.com",
-      "n": 1,
-      "avg_tone": 3.037
-    },
-    {
-      "source": "pinchercreekecho.com",
+      "source": "cochranetimes.com",
       "n": 1,
       "avg_tone": 0.294
     },
     {
-      "source": "chattooga1180.com",
-      "n": 1,
-      "avg_tone": -6.939
-    },
-    {
-      "source": "tasteofcountry.com",
-      "n": 1,
-      "avg_tone": -1.359
-    },
-    {
-      "source": "wpst.com",
-      "n": 1,
-      "avg_tone": -1.359
-    },
-    {
-      "source": "irishtimes.com",
-      "n": 1,
-      "avg_tone": 2.86
-    },
-    {
-      "source": "businesstoday.in",
-      "n": 1,
-      "avg_tone": -4.734
-    },
-    {
-      "source": "wrestlinginc.com",
-      "n": 1,
-      "avg_tone": -1.277
-    },
-    {
-      "source": "bssnews.net",
-      "n": 1,
-      "avg_tone": -3.742
-    },
-    {
-      "source": "987jack.com",
-      "n": 1,
-      "avg_tone": -1.359
-    },
-    {
-      "source": "liteonline.com",
-      "n": 1,
-      "avg_tone": -1.359
-    },
-    {
-      "source": "dailyheraldtribune.com",
-      "n": 1,
-      "avg_tone": 0.451
-    },
-    {
-      "source": "mitchelladvocate.com",
+      "source": "elliotlakestandard.ca",
       "n": 1,
       "avg_tone": 0.294
+    },
+    {
+      "source": "cochranetimespost.ca",
+      "n": 1,
+      "avg_tone": 0.294
+    },
+    {
+      "source": "woodlandsonline.com",
+      "n": 1,
+      "avg_tone": 3.709
+    },
+    {
+      "source": "timminspress.com",
+      "n": 1,
+      "avg_tone": 0.449
+    },
+    {
+      "source": "mississippivalleypublishing.com",
+      "n": 1,
+      "avg_tone": 2.548
+    },
+    {
+      "source": "jagranjosh.com",
+      "n": 1,
+      "avg_tone": 0.594
+    },
+    {
+      "source": "uniondemocrat.com",
+      "n": 1,
+      "avg_tone": -1.456
+    },
+    {
+      "source": "aol.co.uk",
+      "n": 1,
+      "avg_tone": -0.94
+    },
+    {
+      "source": "express.co.uk",
+      "n": 1,
+      "avg_tone": -1.403
+    },
+    {
+      "source": "hollywoodreporter.com",
+      "n": 1,
+      "avg_tone": 1.424
+    },
+    {
+      "source": "lakeshoreadvance.com",
+      "n": 1,
+      "avg_tone": 0.294
+    },
+    {
+      "source": "northernnews.ca",
+      "n": 1,
+      "avg_tone": 0.294
+    },
+    {
+      "source": "tickerreport.com",
+      "n": 1,
+      "avg_tone": 1.688
     }
   ],
   "top_themes": [
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 38
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 28
-    },
-    {
-      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
+      "theme": "TAX_FNCACT_CARPENTER",
       "n": 27
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 27
-    },
-    {
-      "theme": "TAX_FNCACT_DOCTORS",
-      "n": 24
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_HOSPITAL",
-      "n": 24
-    },
-    {
-      "theme": "LEADER",
-      "n": 21
     },
     {
       "theme": "EDUCATION",
+      "n": 26
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_YOSEMITE",
       "n": 18
     },
     {
-      "theme": "TRIAL",
-      "n": 18
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 14
     },
     {
-      "theme": "KILL",
-      "n": 18
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 13
     },
     {
-      "theme": "CRISISLEX_T03_DEAD",
-      "n": 17
+      "theme": "LEADER",
+      "n": 12
     },
     {
-      "theme": "MEDIA_MSM",
-      "n": 16
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 12
     },
     {
-      "theme": "TAX_FNCACT_REPRESENTATIVE",
-      "n": 16
+      "theme": "WB_644_NUTRITION",
+      "n": 11
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 15
+      "theme": "WB_1441_SUPPLEMENTS",
+      "n": 11
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_CHINESE",
-      "n": 15
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 10
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
+      "n": 10
+    },
+    {
+      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
+      "n": 10
+    },
+    {
+      "theme": "WB_3007_NATIONAL_PARKS",
+      "n": 10
+    },
+    {
+      "theme": "WB_1833_PROTECTED_AREAS_SYSTEMS",
+      "n": 10
+    },
+    {
+      "theme": "WB_1829_ECOSYSTEM_MANAGEMENT",
+      "n": 10
     }
   ]
 }
