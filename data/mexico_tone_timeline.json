@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-06T01:08:29.261912+00:00",
-  "rows_total_scanned_last_run": 1817,
-  "rows_mexico_last_run": 12,
-  "overall_avg_tone_4h": -1.169,
+  "generated_at": "2026-09-06T05:54:14.490280+00:00",
+  "rows_total_scanned_last_run": 1706,
+  "rows_mexico_last_run": 26,
+  "overall_avg_tone_4h": -0.889,
   "timeline": [
-    {
-      "time": "2026-09-03T03:45",
-      "avg_tone": -1.085,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-09-03T04:00",
-      "avg_tone": -0.619,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-09-03T04:15",
-      "avg_tone": -5.004,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-09-03T04:30",
-      "avg_tone": 0.434,
-      "n_articles": 13
-    },
     {
       "time": "2026-09-03T08:30",
       "avg_tone": -0.63,
@@ -438,120 +418,165 @@
       "time": "2026-09-06T01:15",
       "avg_tone": -1.144,
       "n_articles": 3
+    },
+    {
+      "time": "2026-09-06T05:15",
+      "avg_tone": -0.542,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-09-06T05:30",
+      "avg_tone": 0.187,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-09-06T05:45",
+      "avg_tone": 2.853,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-09-06T06:00",
+      "avg_tone": -1.445,
+      "n_articles": 6
     }
   ],
   "top_sources": [
     {
-      "source": "cagesideseats.com",
+      "source": "nwaonline.com",
       "n": 2,
-      "avg_tone": 0.731
+      "avg_tone": -5.129
     },
     {
-      "source": "latintimes.com",
+      "source": "aol.co.uk",
       "n": 2,
-      "avg_tone": -2.456
+      "avg_tone": -4.719
     },
     {
-      "source": "rawstory.com",
+      "source": "koat.com",
       "n": 1,
-      "avg_tone": -4.895
+      "avg_tone": -4.339
     },
     {
-      "source": "thecattlesite.com",
+      "source": "wfmd.com",
       "n": 1,
-      "avg_tone": -2.356
+      "avg_tone": -6.268
     },
     {
-      "source": "standpointmag.co.uk",
+      "source": "vogue.in",
       "n": 1,
-      "avg_tone": -1.232
+      "avg_tone": 5.858
     },
     {
-      "source": "londonmercury.com",
+      "source": "mirror.co.uk",
       "n": 1,
-      "avg_tone": -1.361
+      "avg_tone": -5.226
     },
     {
-      "source": "cbs58.com",
+      "source": "newcastleherald.com.au",
       "n": 1,
-      "avg_tone": -0.197
+      "avg_tone": 2.2
     },
     {
-      "source": "wearemoviegeeks.com",
+      "source": "business-standard.com",
       "n": 1,
-      "avg_tone": -5.54
+      "avg_tone": -0.893
     },
     {
-      "source": "640wxsm.com",
+      "source": "themarketsdaily.com",
       "n": 1,
-      "avg_tone": -1.805
+      "avg_tone": 1.322
     },
     {
-      "source": "catholicworldreport.com",
+      "source": "myhorrynews.com",
       "n": 1,
-      "avg_tone": -0.28
+      "avg_tone": 7.463
+    },
+    {
+      "source": "eastcountymagazine.org",
+      "n": 1,
+      "avg_tone": 1.407
+    },
+    {
+      "source": "thedailytimes.com",
+      "n": 1,
+      "avg_tone": 1.221
+    },
+    {
+      "source": "walesonline.co.uk",
+      "n": 1,
+      "avg_tone": 4.867
+    },
+    {
+      "source": "keanradio.com",
+      "n": 1,
+      "avg_tone": 7.176
+    },
+    {
+      "source": "leadership.ng",
+      "n": 1,
+      "avg_tone": -1.485
     }
   ],
   "top_themes": [
     {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 34
+      "theme": "TAX_WORLDMAMMALS_WOLVES",
+      "n": 33
     },
     {
-      "theme": "TAX_POLITICAL_PARTY_REPUBLICANS",
+      "theme": "TAX_WORLDMAMMALS_WOLF",
+      "n": 31
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 25
     },
     {
-      "theme": "TAX_POLITICAL_PARTY_DEMOCRATS",
-      "n": 17
-    },
-    {
       "theme": "LEADER",
-      "n": 15
-    },
-    {
-      "theme": "WB_698_TRADE",
-      "n": 14
-    },
-    {
-      "theme": "TAX_FNCACT_WOMEN",
-      "n": 14
-    },
-    {
-      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
-      "n": 13
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 12
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 11
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 10
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 9
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 9
+      "n": 25
     },
     {
       "theme": "EDUCATION",
-      "n": 8
+      "n": 23
     },
     {
-      "theme": "MARITIME",
-      "n": 8
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 21
     },
     {
-      "theme": "WB_135_TRANSPORT",
-      "n": 8
+      "theme": "ECON_INFLATION",
+      "n": 21
+    },
+    {
+      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
+      "n": 21
+    },
+    {
+      "theme": "WB_442_INFLATION",
+      "n": 21
+    },
+    {
+      "theme": "EPU_POLICY_POLITICAL",
+      "n": 20
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 20
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 20
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 19
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 16
+    },
+    {
+      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
+      "n": 15
     }
   ]
 }
