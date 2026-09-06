@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-06T16:21:09.744610+00:00",
-  "rows_total_scanned_last_run": 2564,
-  "rows_mexico_last_run": 32,
-  "overall_avg_tone_4h": -0.245,
+  "generated_at": "2026-09-06T18:26:59.042356+00:00",
+  "rows_total_scanned_last_run": 2748,
+  "rows_mexico_last_run": 31,
+  "overall_avg_tone_4h": -0.401,
   "timeline": [
-    {
-      "time": "2026-09-03T16:30",
-      "avg_tone": -2.094,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-09-03T16:45",
-      "avg_tone": -0.974,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-09-03T17:00",
-      "avg_tone": -1.918,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-09-03T17:15",
-      "avg_tone": -0.139,
-      "n_articles": 36
-    },
     {
       "time": "2026-09-03T19:00",
       "avg_tone": -1.331,
@@ -458,145 +438,165 @@
       "time": "2026-09-06T16:30",
       "avg_tone": -1.132,
       "n_articles": 10
+    },
+    {
+      "time": "2026-09-06T17:45",
+      "avg_tone": 0.551,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-09-06T18:00",
+      "avg_tone": -1.298,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-09-06T18:15",
+      "avg_tone": 0.007,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-09-06T18:30",
+      "avg_tone": -1.749,
+      "n_articles": 10
     }
   ],
   "top_sources": [
     {
-      "source": "elpais.com",
-      "n": 7,
-      "avg_tone": -2.605
+      "source": "riotimesonline.com",
+      "n": 3,
+      "avg_tone": -2.684
     },
     {
-      "source": "ksl.com",
+      "source": "eurasiareview.com",
       "n": 2,
-      "avg_tone": 0.145
+      "avg_tone": -3.283
     },
     {
-      "source": "yahoo.com",
+      "source": "jpost.com",
       "n": 2,
-      "avg_tone": -5.669
+      "avg_tone": 3.643
     },
     {
-      "source": "wellandtribune.ca",
-      "n": 2,
-      "avg_tone": -1.093
-    },
-    {
-      "source": "thepeterboroughexaminer.com",
+      "source": "dailymail.com",
       "n": 1,
-      "avg_tone": -1.174
+      "avg_tone": -6.761
     },
     {
-      "source": "ttnworldwide.com",
+      "source": "ukiahdailyjournal.com",
       "n": 1,
-      "avg_tone": 2.083
+      "avg_tone": -3.866
     },
     {
-      "source": "redlandsdailyfacts.com",
+      "source": "963theblaze.com",
+      "n": 1,
+      "avg_tone": -0.507
+    },
+    {
+      "source": "cbc.ca",
+      "n": 1,
+      "avg_tone": -0.248
+    },
+    {
+      "source": "dailybulletin.com",
       "n": 1,
       "avg_tone": -5.289
     },
     {
-      "source": "thehardtackle.com",
+      "source": "chronicleonline.com",
       "n": 1,
-      "avg_tone": -0.489
+      "avg_tone": -1.538
     },
     {
-      "source": "deadline.com",
+      "source": "slashfilm.com",
       "n": 1,
-      "avg_tone": 1.597
+      "avg_tone": -1.126
     },
     {
-      "source": "orlandosentinel.com",
+      "source": "redrocknews.com",
       "n": 1,
-      "avg_tone": -1.027
+      "avg_tone": 1.357
     },
     {
-      "source": "kjzz.org",
+      "source": "esquire.com",
       "n": 1,
-      "avg_tone": -2.326
+      "avg_tone": -2.169
     },
     {
-      "source": "premiumtimesng.com",
+      "source": "aol.co.uk",
       "n": 1,
-      "avg_tone": -4.983
+      "avg_tone": 6.066
     },
     {
-      "source": "foodsafetynews.com",
+      "source": "kmhk.com",
       "n": 1,
-      "avg_tone": 1.077
+      "avg_tone": -0.507
     },
     {
-      "source": "tickerreport.com",
+      "source": "express.co.uk",
       "n": 1,
-      "avg_tone": 1.852
-    },
-    {
-      "source": "usmagazine.com",
-      "n": 1,
-      "avg_tone": 2.53
+      "avg_tone": 5.419
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 45
+      "theme": "TAX_FNCACT_CANDIDATES",
+      "n": 83
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 44
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 43
-    },
-    {
-      "theme": "LEADER",
-      "n": 38
-    },
-    {
-      "theme": "BORDER",
-      "n": 38
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 36
-    },
-    {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 33
-    },
-    {
-      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 32
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 31
+      "theme": "DEMOCRACY",
+      "n": 82
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 30
+      "n": 38
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "theme": "TAX_WORLDFISH_SHARK",
+      "n": 35
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 34
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 33
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
       "n": 29
     },
     {
-      "theme": "WB_1331_HEALTH_TECHNOLOGIES",
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 29
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
       "n": 28
     },
     {
-      "theme": "WB_2453_ORGANIZED_CRIME",
-      "n": 28
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 26
     },
     {
-      "theme": "WB_1350_PHARMACEUTICALS",
-      "n": 28
+      "theme": "TAX_WORLDFISH_SHARKS",
+      "n": 26
     },
     {
-      "theme": "WB_2456_DRUGS_AND_NARCOTICS",
-      "n": 28
+      "theme": "DRUG_TRADE",
+      "n": 25
+    },
+    {
+      "theme": "TAX_WORLDFISH_COD",
+      "n": 25
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 22
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 21
     }
   ]
 }
