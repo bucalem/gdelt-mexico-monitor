@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-05T23:16:36.862526+00:00",
-  "rows_total_scanned_last_run": 1937,
-  "rows_mexico_last_run": 28,
-  "overall_avg_tone_4h": -1.01,
+  "generated_at": "2026-09-06T01:08:29.261912+00:00",
+  "rows_total_scanned_last_run": 1817,
+  "rows_mexico_last_run": 12,
+  "overall_avg_tone_4h": -1.169,
   "timeline": [
-    {
-      "time": "2026-09-02T23:30",
-      "avg_tone": 2.047,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-09-02T23:45",
-      "avg_tone": -1.425,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-09-03T00:00",
-      "avg_tone": -4.02,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-09-03T00:15",
-      "avg_tone": -1.188,
-      "n_articles": 5
-    },
     {
       "time": "2026-09-03T03:45",
       "avg_tone": -1.085,
@@ -438,145 +418,140 @@
       "time": "2026-09-05T23:15",
       "avg_tone": 0.141,
       "n_articles": 4
+    },
+    {
+      "time": "2026-09-06T00:30",
+      "avg_tone": -1.749,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-09-06T00:45",
+      "avg_tone": -2.366,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-09-06T01:00",
+      "avg_tone": -1.794,
+      "n_articles": 2
+    },
+    {
+      "time": "2026-09-06T01:15",
+      "avg_tone": -1.144,
+      "n_articles": 3
     }
   ],
   "top_sources": [
     {
-      "source": "abqjournal.com",
-      "n": 4,
-      "avg_tone": -0.288
-    },
-    {
-      "source": "yahoo.com",
-      "n": 3,
-      "avg_tone": -3.278
-    },
-    {
-      "source": "inquirer.com",
+      "source": "cagesideseats.com",
       "n": 2,
-      "avg_tone": -0.626
+      "avg_tone": 0.731
     },
     {
-      "source": "calgarysun.com",
+      "source": "latintimes.com",
+      "n": 2,
+      "avg_tone": -2.456
+    },
+    {
+      "source": "rawstory.com",
       "n": 1,
-      "avg_tone": 0.53
+      "avg_tone": -4.895
     },
     {
-      "source": "tribuneindia.com",
+      "source": "thecattlesite.com",
       "n": 1,
-      "avg_tone": 1.843
+      "avg_tone": -2.356
     },
     {
-      "source": "latimes.com",
+      "source": "standpointmag.co.uk",
       "n": 1,
-      "avg_tone": -1.032
+      "avg_tone": -1.232
     },
     {
-      "source": "elpasoinc.com",
-      "n": 1,
-      "avg_tone": 3.191
-    },
-    {
-      "source": "santafenewmexican.com",
-      "n": 1,
-      "avg_tone": -0.466
-    },
-    {
-      "source": "gvnews.com",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "fortune.com",
-      "n": 1,
-      "avg_tone": -8.166
-    },
-    {
-      "source": "britainnews.net",
+      "source": "londonmercury.com",
       "n": 1,
       "avg_tone": -1.361
     },
     {
-      "source": "bignewsnetwork.com",
+      "source": "cbs58.com",
       "n": 1,
-      "avg_tone": -1.361
+      "avg_tone": -0.197
     },
     {
-      "source": "el-balad.com",
+      "source": "wearemoviegeeks.com",
       "n": 1,
-      "avg_tone": 1.604
+      "avg_tone": -5.54
     },
     {
-      "source": "redstate.com",
+      "source": "640wxsm.com",
       "n": 1,
-      "avg_tone": -0.158
+      "avg_tone": -1.805
     },
     {
-      "source": "gostanford.com",
+      "source": "catholicworldreport.com",
       "n": 1,
-      "avg_tone": 2.496
+      "avg_tone": -0.28
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_KING",
-      "n": 77
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 34
     },
     {
-      "theme": "AGRICULTURE",
-      "n": 56
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 39
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 35
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 31
-    },
-    {
-      "theme": "TAX_WORLDMAMMALS_WOLF",
-      "n": 30
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 29
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 29
-    },
-    {
-      "theme": "TAX_WORLDMAMMALS_WOLVES",
-      "n": 28
-    },
-    {
-      "theme": "TAX_FNCACT_SHERIFF",
-      "n": 26
-    },
-    {
-      "theme": "WB_2670_JOBS",
+      "theme": "TAX_POLITICAL_PARTY_REPUBLICANS",
       "n": 25
     },
     {
-      "theme": "EPU_POLICY_POLICY",
-      "n": 24
-    },
-    {
-      "theme": "TRIAL",
-      "n": 23
-    },
-    {
-      "theme": "KILL",
-      "n": 22
+      "theme": "TAX_POLITICAL_PARTY_DEMOCRATS",
+      "n": 17
     },
     {
       "theme": "LEADER",
-      "n": 22
+      "n": 15
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 14
+    },
+    {
+      "theme": "TAX_FNCACT_WOMEN",
+      "n": 14
+    },
+    {
+      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
+      "n": 13
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 12
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 11
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 10
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 9
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 9
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 8
+    },
+    {
+      "theme": "MARITIME",
+      "n": 8
+    },
+    {
+      "theme": "WB_135_TRANSPORT",
+      "n": 8
     }
   ]
 }
