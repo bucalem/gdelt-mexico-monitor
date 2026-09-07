@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-07T15:15:56.386159+00:00",
-  "rows_total_scanned_last_run": 4662,
-  "rows_mexico_last_run": 82,
-  "overall_avg_tone_4h": -2.172,
+  "generated_at": "2026-09-07T19:17:51.933705+00:00",
+  "rows_total_scanned_last_run": 3848,
+  "rows_mexico_last_run": 70,
+  "overall_avg_tone_4h": -1.62,
   "timeline": [
-    {
-      "time": "2026-09-04T16:15",
-      "avg_tone": -0.327,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-09-04T16:30",
-      "avg_tone": 0.928,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-09-04T16:45",
-      "avg_tone": -1.044,
-      "n_articles": 27
-    },
-    {
-      "time": "2026-09-04T17:00",
-      "avg_tone": -1.71,
-      "n_articles": 11
-    },
     {
       "time": "2026-09-04T20:45",
       "avg_tone": -3.365,
@@ -448,145 +428,165 @@
       "time": "2026-09-07T15:15",
       "avg_tone": -1.639,
       "n_articles": 24
+    },
+    {
+      "time": "2026-09-07T18:30",
+      "avg_tone": -0.937,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-09-07T18:45",
+      "avg_tone": -0.481,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-09-07T19:00",
+      "avg_tone": -1.132,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-09-07T19:15",
+      "avg_tone": -0.942,
+      "n_articles": 7
     }
   ],
   "top_sources": [
     {
-      "source": "riviera-maya-news.com",
-      "n": 7,
-      "avg_tone": -4.37
+      "source": "newsweek.com",
+      "n": 5,
+      "avg_tone": -1.712
     },
     {
-      "source": "elpais.com",
-      "n": 3,
-      "avg_tone": -1.134
+      "source": "gringogazette.com",
+      "n": 4,
+      "avg_tone": -0.765
     },
     {
-      "source": "nbcnewyork.com",
+      "source": "theepochtimes.com",
       "n": 2,
-      "avg_tone": -1.676
+      "avg_tone": -3.94
     },
     {
-      "source": "dailystar.co.uk",
+      "source": "tickerreport.com",
       "n": 2,
-      "avg_tone": 0.689
+      "avg_tone": 3.013
     },
     {
-      "source": "dailymail.com",
+      "source": "taylorvilledailynews.com",
       "n": 2,
-      "avg_tone": -2.873
+      "avg_tone": -4.902
     },
     {
-      "source": "cnn.com",
+      "source": "fox32chicago.com",
       "n": 2,
-      "avg_tone": 0.215
+      "avg_tone": -5.702
     },
     {
-      "source": "investegate.co.uk",
+      "source": "elpasoinc.com",
       "n": 2,
-      "avg_tone": 0.669
+      "avg_tone": 1.521
     },
     {
-      "source": "thecattlesite.com",
-      "n": 2,
-      "avg_tone": -4.075
-    },
-    {
-      "source": "abc11.com",
-      "n": 2,
-      "avg_tone": -5.23
-    },
-    {
-      "source": "alternet.org",
-      "n": 2,
-      "avg_tone": -1.721
-    },
-    {
-      "source": "greeleytribune.com",
-      "n": 2,
-      "avg_tone": 2.061
-    },
-    {
-      "source": "thehedgefundjournal.com",
-      "n": 2,
-      "avg_tone": -2.014
-    },
-    {
-      "source": "siasat.com",
+      "source": "kbtx.com",
       "n": 1,
-      "avg_tone": -3.942
+      "avg_tone": 0.0
     },
     {
-      "source": "tmz.com",
+      "source": "businesstoday.in",
       "n": 1,
-      "avg_tone": -12.022
+      "avg_tone": 2.419
     },
     {
-      "source": "thefederalist.com",
+      "source": "local21news.com",
       "n": 1,
-      "avg_tone": -1.932
+      "avg_tone": 0.559
+    },
+    {
+      "source": "worthynews.com",
+      "n": 1,
+      "avg_tone": -5.99
+    },
+    {
+      "source": "wrganews.com",
+      "n": 1,
+      "avg_tone": -4.738
+    },
+    {
+      "source": "spacing.ca",
+      "n": 1,
+      "avg_tone": 0.197
+    },
+    {
+      "source": "fox13news.com",
+      "n": 1,
+      "avg_tone": 0.959
+    },
+    {
+      "source": "en.apa.az",
+      "n": 1,
+      "avg_tone": 0.0
     }
   ],
   "top_themes": [
     {
       "theme": "LEADER",
-      "n": 112
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 112
+      "n": 134
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 106
+      "n": 127
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 100
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 127
+    },
+    {
+      "theme": "LITERACY",
+      "n": 60
+    },
+    {
+      "theme": "UNGP_EDUCATION",
+      "n": 60
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 92
+      "n": 53
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 87
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 50
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 76
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 74
-    },
-    {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 72
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 64
+      "theme": "EDUCATION",
+      "n": 47
     },
     {
       "theme": "GENERAL_GOVERNMENT",
-      "n": 63
+      "n": 46
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 58
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 45
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 55
+      "n": 45
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 55
+      "theme": "IMMIGRATION",
+      "n": 43
     },
     {
-      "theme": "ENV_MINING",
-      "n": 54
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 43
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 43
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 42
     }
   ]
 }
