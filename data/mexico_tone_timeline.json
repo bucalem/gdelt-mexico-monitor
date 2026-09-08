@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-09-08T00:21:56.024913+00:00",
-  "rows_total_scanned_last_run": 1821,
-  "rows_mexico_last_run": 32,
-  "overall_avg_tone_4h": -1.366,
+  "generated_at": "2026-09-08T04:55:34.559365+00:00",
+  "rows_total_scanned_last_run": 2633,
+  "rows_mexico_last_run": 31,
+  "overall_avg_tone_4h": -1.382,
   "timeline": [
-    {
-      "time": "2026-09-05T04:30",
-      "avg_tone": -1.648,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-09-05T04:45",
-      "avg_tone": -0.443,
-      "n_articles": 15
-    },
     {
       "time": "2026-09-05T05:00",
       "avg_tone": -0.829,
@@ -438,145 +428,165 @@
       "time": "2026-09-08T00:15",
       "avg_tone": -3.749,
       "n_articles": 9
+    },
+    {
+      "time": "2026-09-08T04:15",
+      "avg_tone": 0.047,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-09-08T04:30",
+      "avg_tone": -1.305,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-09-08T04:45",
+      "avg_tone": 0.449,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-09-08T05:00",
+      "avg_tone": -0.622,
+      "n_articles": 7
     }
   ],
   "top_sources": [
     {
-      "source": "latinpost.com",
-      "n": 2,
-      "avg_tone": 2.095
-    },
-    {
-      "source": "gringogazette.com",
-      "n": 2,
-      "avg_tone": -0.392
-    },
-    {
-      "source": "freerepublic.com",
-      "n": 2,
-      "avg_tone": -0.858
-    },
-    {
-      "source": "dailykos.com",
-      "n": 2,
-      "avg_tone": -4.517
-    },
-    {
-      "source": "wbko.com",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "newyorktelegraph.com",
-      "n": 1,
-      "avg_tone": 2.147
-    },
-    {
-      "source": "cbs2iowa.com",
-      "n": 1,
-      "avg_tone": -8.263
-    },
-    {
-      "source": "fox5ny.com",
-      "n": 1,
-      "avg_tone": -3.43
-    },
-    {
-      "source": "komonews.com",
-      "n": 1,
-      "avg_tone": -8.263
-    },
-    {
-      "source": "winnipegfreepress.com",
-      "n": 1,
-      "avg_tone": 2.944
-    },
-    {
       "source": "yahoo.com",
-      "n": 1,
-      "avg_tone": -2.184
+      "n": 3,
+      "avg_tone": -2.626
     },
     {
-      "source": "perthnow.com.au",
-      "n": 1,
-      "avg_tone": -8.431
+      "source": "artdaily.com",
+      "n": 2,
+      "avg_tone": 3.503
     },
     {
-      "source": "wchstv.com",
-      "n": 1,
-      "avg_tone": -8.263
+      "source": "theconservativetreehouse.com",
+      "n": 2,
+      "avg_tone": -1.497
     },
     {
-      "source": "marketplace.org",
+      "source": "dailymail.com",
       "n": 1,
-      "avg_tone": 1.429
+      "avg_tone": -5.429
     },
     {
-      "source": "midmichigannow.com",
+      "source": "thestarphoenix.com",
       "n": 1,
-      "avg_tone": -8.263
+      "avg_tone": 0.228
+    },
+    {
+      "source": "kpcnews.com",
+      "n": 1,
+      "avg_tone": 3.621
+    },
+    {
+      "source": "sbs.com.au",
+      "n": 1,
+      "avg_tone": -2.642
+    },
+    {
+      "source": "lbc.co.uk",
+      "n": 1,
+      "avg_tone": -2.473
+    },
+    {
+      "source": "china.org.cn",
+      "n": 1,
+      "avg_tone": 6.294
+    },
+    {
+      "source": "thedailytimes.com",
+      "n": 1,
+      "avg_tone": -3.955
+    },
+    {
+      "source": "timesheraldonline.com",
+      "n": 1,
+      "avg_tone": 0.275
+    },
+    {
+      "source": "theguardian.com",
+      "n": 1,
+      "avg_tone": 1.529
+    },
+    {
+      "source": "business-standard.com",
+      "n": 1,
+      "avg_tone": -0.36
+    },
+    {
+      "source": "gasgoo.com",
+      "n": 1,
+      "avg_tone": 2.703
+    },
+    {
+      "source": "thewhig.com",
+      "n": 1,
+      "avg_tone": 0.228
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 93
-    },
-    {
-      "theme": "WB_831_GOVERNANCE",
-      "n": 81
-    },
-    {
-      "theme": "WB_2019_ANTI_CORRUPTION_LEGISLATION",
-      "n": 80
-    },
-    {
-      "theme": "WB_832_ANTI_CORRUPTION",
-      "n": 80
-    },
-    {
-      "theme": "WB_2020_BRIBERY_FRAUD_AND_COLLUSION",
-      "n": 80
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 63
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 60
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 52
-    },
-    {
-      "theme": "TAX_FNCACT_AUTHORITIES",
-      "n": 51
-    },
-    {
-      "theme": "EPU_POLICY_AUTHORITIES",
-      "n": 51
-    },
-    {
-      "theme": "CORRUPTION",
-      "n": 40
-    },
-    {
       "theme": "LEADER",
-      "n": 34
+      "n": 82
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 78
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 77
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 64
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 51
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 50
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 50
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 48
+    },
+    {
+      "theme": "WB_2936_GOLD",
+      "n": 40
+    },
+    {
+      "theme": "ENV_MINING",
+      "n": 36
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 31
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 29
     },
     {
-      "theme": "TAX_FNCACT_PROSECUTORS",
+      "theme": "EPU_ECONOMY_HISTORIC",
       "n": 27
     },
     {
-      "theme": "WB_2670_JOBS",
+      "theme": "TAX_ETHNICITY_CANADIAN",
       "n": 27
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 26
     }
   ]
 }
