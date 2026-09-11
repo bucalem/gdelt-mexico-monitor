@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-09-11T00:11:30.785891+00:00",
-  "rows_total_scanned_last_run": 4687,
-  "rows_mexico_last_run": 54,
-  "overall_avg_tone_4h": -0.579,
+  "generated_at": "2026-09-11T04:37:13.629741+00:00",
+  "rows_total_scanned_last_run": 3162,
+  "rows_mexico_last_run": 53,
+  "overall_avg_tone_4h": -1.006,
   "timeline": [
-    {
-      "time": "2026-09-08T00:15",
-      "avg_tone": -3.749,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-09-08T04:15",
-      "avg_tone": 0.047,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-09-08T04:30",
-      "avg_tone": -1.305,
-      "n_articles": 10
-    },
     {
       "time": "2026-09-08T04:45",
       "avg_tone": 0.449,
@@ -383,145 +368,165 @@
       "time": "2026-09-11T00:15",
       "avg_tone": -1.899,
       "n_articles": 13
+    },
+    {
+      "time": "2026-09-11T04:00",
+      "avg_tone": -1.267,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-09-11T04:15",
+      "avg_tone": -2.466,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-09-11T04:30",
+      "avg_tone": -0.881,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-09-11T04:45",
+      "avg_tone": -0.88,
+      "n_articles": 17
     }
   ],
   "top_sources": [
     {
-      "source": "gringogazette.com",
-      "n": 4,
-      "avg_tone": -2.776
+      "source": "santafenewmexican.com",
+      "n": 3,
+      "avg_tone": -1.9
     },
     {
-      "source": "yahoo.com",
+      "source": "abc.net.au",
       "n": 2,
-      "avg_tone": -0.702
+      "avg_tone": -1.143
     },
     {
-      "source": "wallstreet-online.de",
+      "source": "theguardian.com",
       "n": 2,
-      "avg_tone": 1.414
+      "avg_tone": -3.979
     },
     {
-      "source": "bignewsnetwork.com",
+      "source": "idahostatejournal.com",
       "n": 2,
-      "avg_tone": -4.86
+      "avg_tone": -1.144
     },
     {
-      "source": "latintimes.com",
-      "n": 2,
-      "avg_tone": -2.497
-    },
-    {
-      "source": "nvdaily.com",
-      "n": 2,
-      "avg_tone": -3.969
-    },
-    {
-      "source": "miragenews.com",
+      "source": "dailypolitical.com",
       "n": 1,
-      "avg_tone": -1.571
+      "avg_tone": 3.095
     },
     {
-      "source": "news-bulletin.com",
+      "source": "740thefan.com",
       "n": 1,
-      "avg_tone": -1.661
+      "avg_tone": -1.802
     },
     {
-      "source": "el-balad.com",
+      "source": "wapt.com",
       "n": 1,
-      "avg_tone": -0.424
+      "avg_tone": -1.247
     },
     {
-      "source": "wokv.com",
+      "source": "texarkanagazette.com",
       "n": 1,
-      "avg_tone": -5.425
+      "avg_tone": -1.141
     },
     {
-      "source": "theepochtimes.com",
+      "source": "southcarolinapublicradio.org",
       "n": 1,
-      "avg_tone": -1.948
+      "avg_tone": -0.729
     },
     {
-      "source": "kitv.com",
+      "source": "wflx.com",
       "n": 1,
-      "avg_tone": -5.618
+      "avg_tone": -3.831
+    },
+    {
+      "source": "wect.com",
+      "n": 1,
+      "avg_tone": 1.567
+    },
+    {
+      "source": "nassauweekly.com",
+      "n": 1,
+      "avg_tone": -0.135
+    },
+    {
+      "source": "alternet.org",
+      "n": 1,
+      "avg_tone": -1.864
+    },
+    {
+      "source": "katu.com",
+      "n": 1,
+      "avg_tone": -0.725
     },
     {
       "source": "wyff4.com",
       "n": 1,
-      "avg_tone": -1.046
-    },
-    {
-      "source": "kgns.tv",
-      "n": 1,
-      "avg_tone": 1.25
-    },
-    {
-      "source": "wbkr.com",
-      "n": 1,
-      "avg_tone": 2.859
+      "avg_tone": -1.246
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 105
-    },
-    {
-      "theme": "EPU_CATS_REGULATION",
-      "n": 91
-    },
-    {
-      "theme": "ORGANIZED_CRIME",
-      "n": 90
-    },
-    {
-      "theme": "WB_1743_ANTICARTEL_ENFORCEMENT",
-      "n": 90
-    },
-    {
-      "theme": "WB_2446_CARTELS",
-      "n": 90
-    },
-    {
-      "theme": "WB_406_COMPETITION_POLICY",
-      "n": 90
-    },
-    {
-      "theme": "WB_2101_ANTITRUST",
-      "n": 90
-    },
-    {
-      "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
-      "n": 90
-    },
-    {
       "theme": "LEADER",
-      "n": 88
+      "n": 159
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 87
+      "n": 149
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 82
+      "n": 143
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 62
+      "theme": "TAX_POLITICAL_PARTY_REPUBLICANS",
+      "n": 117
+    },
+    {
+      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
+      "n": 108
+    },
+    {
+      "theme": "TAX_POLITICAL_PARTY_DEMOCRATS",
+      "n": 87
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 72
+    },
+    {
+      "theme": "TAX_FNCACT_VICE_PRESIDENT",
+      "n": 49
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 42
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 42
     },
     {
       "theme": "GENERAL_GOVERNMENT",
-      "n": 58
+      "n": 40
     },
     {
-      "theme": "WB_2452_GANGS",
-      "n": 55
+      "theme": "TAX_ECON_PRICE",
+      "n": 39
     },
     {
-      "theme": "TAX_FNCACT_CRIMINAL",
-      "n": 53
+      "theme": "USPEC_POLICY1",
+      "n": 36
+    },
+    {
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 35
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 34
     }
   ]
 }
