@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-09-12T14:21:30.637968+00:00",
-  "rows_total_scanned_last_run": 3001,
-  "rows_mexico_last_run": 47,
-  "overall_avg_tone_4h": -1.114,
+  "generated_at": "2026-09-12T17:18:51.457926+00:00",
+  "rows_total_scanned_last_run": 2792,
+  "rows_mexico_last_run": 40,
+  "overall_avg_tone_4h": -0.251,
   "timeline": [
-    {
-      "time": "2026-09-09T14:30",
-      "avg_tone": -0.841,
-      "n_articles": 29
-    },
-    {
-      "time": "2026-09-09T17:15",
-      "avg_tone": -1.503,
-      "n_articles": 17
-    },
     {
       "time": "2026-09-09T17:30",
       "avg_tone": -0.198,
@@ -418,145 +408,165 @@
       "time": "2026-09-12T14:30",
       "avg_tone": -1.528,
       "n_articles": 10
+    },
+    {
+      "time": "2026-09-12T16:30",
+      "avg_tone": -0.084,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-09-12T16:45",
+      "avg_tone": -1.109,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-09-12T17:00",
+      "avg_tone": -0.817,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-09-12T17:15",
+      "avg_tone": -0.541,
+      "n_articles": 11
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 3,
-      "avg_tone": 0.441
-    },
-    {
-      "source": "latintimes.com",
+      "source": "yahoo.com",
       "n": 2,
-      "avg_tone": -2.924
+      "avg_tone": -0.647
     },
     {
-      "source": "boredpanda.com",
+      "source": "taosnews.com",
       "n": 2,
-      "avg_tone": -0.081
+      "avg_tone": -0.241
     },
     {
-      "source": "nypost.com",
-      "n": 2,
-      "avg_tone": -3.922
+      "source": "singletonargus.com.au",
+      "n": 1,
+      "avg_tone": 0.115
     },
     {
-      "source": "dailymail.com",
-      "n": 2,
-      "avg_tone": 0.837
+      "source": "kxl.com",
+      "n": 1,
+      "avg_tone": -1.685
     },
     {
-      "source": "eldoradonews.com",
-      "n": 2,
-      "avg_tone": -3.009
+      "source": "breitbart.com",
+      "n": 1,
+      "avg_tone": -3.238
     },
     {
-      "source": "dailylocal.com",
+      "source": "la1ere.franceinfo.fr",
+      "n": 1,
+      "avg_tone": -3.516
+    },
+    {
+      "source": "advocate-news.com",
       "n": 1,
       "avg_tone": -1.442
     },
     {
-      "source": "ibtimes.co.uk",
+      "source": "prokerala.com",
       "n": 1,
-      "avg_tone": 1.414
+      "avg_tone": 0.493
     },
     {
-      "source": "toronto.citynews.ca",
+      "source": "goulburnpost.com.au",
       "n": 1,
-      "avg_tone": -1.566
+      "avg_tone": 0.115
     },
     {
-      "source": "dailypolitical.com",
+      "source": "westernadvocate.com.au",
       "n": 1,
-      "avg_tone": 3.254
+      "avg_tone": 0.115
     },
     {
-      "source": "politicalwire.com",
+      "source": "whyy.org",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": 5.352
     },
     {
-      "source": "newsweek.com",
+      "source": "travelerstoday.com",
       "n": 1,
-      "avg_tone": -6.678
+      "avg_tone": -0.726
     },
     {
-      "source": "bendbulletin.com",
+      "source": "islands.com",
       "n": 1,
-      "avg_tone": -2.783
+      "avg_tone": 2.517
     },
     {
-      "source": "union-bulletin.com",
-      "n": 1,
-      "avg_tone": -1.631
-    },
-    {
-      "source": "suncommercial.com",
+      "source": "grandrapidsmn.com",
       "n": 1,
       "avg_tone": 0.8
+    },
+    {
+      "source": "crookwellgazette.com.au",
+      "n": 1,
+      "avg_tone": 0.115
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FOODSTAPLES_MEAT",
-      "n": 60
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 132
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 54
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 52
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_AZERBAIJAN",
-      "n": 44
+      "theme": "WB_698_TRADE",
+      "n": 71
     },
     {
       "theme": "LEADER",
-      "n": 43
+      "n": 61
     },
     {
-      "theme": "TAX_FNCACT_COWBOY",
-      "n": 37
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 50
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 36
+      "n": 50
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 35
-    },
-    {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 33
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 48
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 45
+    },
+    {
+      "theme": "EPU_CATS_REGULATION",
+      "n": 43
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 40
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 37
+    },
+    {
+      "theme": "WB_1406_DISEASES",
+      "n": 35
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 34
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
       "n": 33
     },
     {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 32
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 32
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 32
-    },
-    {
       "theme": "USPEC_POLICY1",
-      "n": 30
+      "n": 32
     },
     {
-      "theme": "WB_137_WATER",
-      "n": 29
+      "theme": "WB_1427_NON_COMMUNICABLE_DISEASE_AND_INJURY",
+      "n": 32
     }
   ]
 }
