@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-09-12T21:38:06.342215+00:00",
-  "rows_total_scanned_last_run": 2080,
-  "rows_mexico_last_run": 26,
-  "overall_avg_tone_4h": -0.566,
+  "generated_at": "2026-09-12T23:20:47.951938+00:00",
+  "rows_total_scanned_last_run": 2006,
+  "rows_mexico_last_run": 43,
+  "overall_avg_tone_4h": -0.393,
   "timeline": [
-    {
-      "time": "2026-09-09T22:00",
-      "avg_tone": -2.058,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-09-09T22:15",
-      "avg_tone": -0.687,
-      "n_articles": 26
-    },
     {
       "time": "2026-09-10T00:00",
       "avg_tone": -2.552,
@@ -433,145 +423,165 @@
       "time": "2026-09-12T21:45",
       "avg_tone": -2.361,
       "n_articles": 3
+    },
+    {
+      "time": "2026-09-12T22:45",
+      "avg_tone": 0.754,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-09-12T23:00",
+      "avg_tone": -0.438,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-09-12T23:15",
+      "avg_tone": -0.28,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-09-12T23:30",
+      "avg_tone": -0.565,
+      "n_articles": 15
     }
   ],
   "top_sources": [
     {
-      "source": "breitbart.com",
-      "n": 4,
-      "avg_tone": -2.3
+      "source": "gringogazette.com",
+      "n": 3,
+      "avg_tone": -1.51
     },
     {
-      "source": "bleedingcool.com",
+      "source": "elpais.com",
       "n": 2,
-      "avg_tone": 0.127
+      "avg_tone": -3.623
     },
     {
-      "source": "cheknews.ca",
+      "source": "nigeriasun.com",
       "n": 1,
-      "avg_tone": -1.577
+      "avg_tone": -2.594
     },
     {
-      "source": "azfamily.com",
+      "source": "oswegocountytoday.com",
       "n": 1,
-      "avg_tone": -4.681
+      "avg_tone": 5.68
     },
     {
-      "source": "pasadenastarnews.com",
+      "source": "pentictonherald.ca",
       "n": 1,
-      "avg_tone": -0.826
+      "avg_tone": 2.046
     },
     {
-      "source": "wwaytv3.com",
+      "source": "afghanistansun.com",
       "n": 1,
-      "avg_tone": -2.907
+      "avg_tone": -2.594
     },
     {
-      "source": "redriverradio.org",
+      "source": "adn.com",
       "n": 1,
-      "avg_tone": 5.556
+      "avg_tone": -1.894
     },
     {
-      "source": "timesofsandiego.com",
+      "source": "philippinetimes.com",
       "n": 1,
-      "avg_tone": -1.308
+      "avg_tone": -2.594
     },
     {
-      "source": "cp24.com",
+      "source": "israelherald.com",
       "n": 1,
-      "avg_tone": -3.158
+      "avg_tone": -2.594
     },
     {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 1.102
-    },
-    {
-      "source": "gjsentinel.com",
+      "source": "ktvo.com",
       "n": 1,
       "avg_tone": 0.496
     },
     {
-      "source": "theguardian.com",
+      "source": "iranherald.com",
       "n": 1,
-      "avg_tone": -1.13
+      "avg_tone": -2.594
     },
     {
-      "source": "ktbb.com",
+      "source": "taiwansun.com",
       "n": 1,
-      "avg_tone": -2.715
+      "avg_tone": -2.594
     },
     {
-      "source": "oilprice.com",
+      "source": "argentinastar.com",
       "n": 1,
-      "avg_tone": -7.253
+      "avg_tone": -2.594
     },
     {
-      "source": "yahoo.com",
+      "source": "el-balad.com",
       "n": 1,
-      "avg_tone": -1.07
+      "avg_tone": -1.042
+    },
+    {
+      "source": "texarkanagazette.com",
+      "n": 1,
+      "avg_tone": -2.208
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 39
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 56
     },
     {
-      "theme": "LEADER",
-      "n": 35
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 53
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 32
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 32
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 30
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 25
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 24
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 23
-    },
-    {
-      "theme": "TAX_ETHNICITY_SAMI",
-      "n": 23
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 22
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 22
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 21
+      "theme": "AFFECT",
+      "n": 31
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 30
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 28
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 27
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 21
+    },
+    {
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 21
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 21
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
       "n": 20
     },
     {
-      "theme": "ORGANIZED_CRIME",
+      "theme": "WB_1920_FINANCIAL_SECTOR_DEVELOPMENT",
       "n": 20
     },
     {
-      "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
+      "theme": "SOC_GENERALCRIME",
       "n": 20
+    },
+    {
+      "theme": "SECURITY_SERVICES",
+      "n": 19
+    },
+    {
+      "theme": "MEDIA_MSM",
+      "n": 19
+    },
+    {
+      "theme": "WB_328_FINANCIAL_INTEGRITY",
+      "n": 19
     }
   ]
 }
