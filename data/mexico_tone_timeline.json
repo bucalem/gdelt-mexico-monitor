@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-09-12T17:18:51.457926+00:00",
-  "rows_total_scanned_last_run": 2792,
-  "rows_mexico_last_run": 40,
-  "overall_avg_tone_4h": -0.251,
+  "generated_at": "2026-09-12T19:30:41.716267+00:00",
+  "rows_total_scanned_last_run": 2618,
+  "rows_mexico_last_run": 31,
+  "overall_avg_tone_4h": -0.179,
   "timeline": [
-    {
-      "time": "2026-09-09T17:30",
-      "avg_tone": -0.198,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-09-09T17:45",
-      "avg_tone": -2.005,
-      "n_articles": 21
-    },
-    {
-      "time": "2026-09-09T18:00",
-      "avg_tone": -0.879,
-      "n_articles": 18
-    },
     {
       "time": "2026-09-09T19:45",
       "avg_tone": 0.025,
@@ -428,145 +413,165 @@
       "time": "2026-09-12T17:15",
       "avg_tone": -0.541,
       "n_articles": 11
+    },
+    {
+      "time": "2026-09-12T18:45",
+      "avg_tone": -2.888,
+      "n_articles": 2
+    },
+    {
+      "time": "2026-09-12T19:00",
+      "avg_tone": -1.183,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-09-12T19:15",
+      "avg_tone": -0.249,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-09-12T19:30",
+      "avg_tone": 1.192,
+      "n_articles": 10
     }
   ],
   "top_sources": [
     {
+      "source": "nbcchicago.com",
+      "n": 2,
+      "avg_tone": 3.141
+    },
+    {
+      "source": "latintimes.com",
+      "n": 2,
+      "avg_tone": 0.204
+    },
+    {
       "source": "yahoo.com",
       "n": 2,
-      "avg_tone": -0.647
+      "avg_tone": -1.252
     },
     {
-      "source": "taosnews.com",
-      "n": 2,
-      "avg_tone": -0.241
-    },
-    {
-      "source": "singletonargus.com.au",
+      "source": "dailymail.com",
       "n": 1,
-      "avg_tone": 0.115
+      "avg_tone": 0.782
     },
     {
-      "source": "kxl.com",
+      "source": "nrn.com",
       "n": 1,
-      "avg_tone": -1.685
+      "avg_tone": 5.118
     },
     {
-      "source": "breitbart.com",
+      "source": "kvia.com",
       "n": 1,
-      "avg_tone": -3.238
+      "avg_tone": 6.364
     },
     {
-      "source": "la1ere.franceinfo.fr",
+      "source": "dailygazette.com",
       "n": 1,
-      "avg_tone": -3.516
+      "avg_tone": -0.392
     },
     {
-      "source": "advocate-news.com",
+      "source": "lowkickmma.com",
+      "n": 1,
+      "avg_tone": -0.341
+    },
+    {
+      "source": "patch.com",
+      "n": 1,
+      "avg_tone": -4.348
+    },
+    {
+      "source": "homenewshere.com",
+      "n": 1,
+      "avg_tone": 5.364
+    },
+    {
+      "source": "dailypolitical.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "ksat.com",
+      "n": 1,
+      "avg_tone": 2.823
+    },
+    {
+      "source": "ibtimes.co.in",
+      "n": 1,
+      "avg_tone": -3.452
+    },
+    {
+      "source": "journal-advocate.com",
       "n": 1,
       "avg_tone": -1.442
     },
     {
-      "source": "prokerala.com",
+      "source": "chronogram.com",
       "n": 1,
-      "avg_tone": 0.493
-    },
-    {
-      "source": "goulburnpost.com.au",
-      "n": 1,
-      "avg_tone": 0.115
-    },
-    {
-      "source": "westernadvocate.com.au",
-      "n": 1,
-      "avg_tone": 0.115
-    },
-    {
-      "source": "whyy.org",
-      "n": 1,
-      "avg_tone": 5.352
-    },
-    {
-      "source": "travelerstoday.com",
-      "n": 1,
-      "avg_tone": -0.726
-    },
-    {
-      "source": "islands.com",
-      "n": 1,
-      "avg_tone": 2.517
-    },
-    {
-      "source": "grandrapidsmn.com",
-      "n": 1,
-      "avg_tone": 0.8
-    },
-    {
-      "source": "crookwellgazette.com.au",
-      "n": 1,
-      "avg_tone": 0.115
+      "avg_tone": 3.359
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 132
+      "n": 87
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 71
-    },
-    {
-      "theme": "LEADER",
-      "n": 61
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 50
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 50
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 48
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 45
-    },
-    {
-      "theme": "EPU_CATS_REGULATION",
-      "n": 43
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 40
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 37
+      "n": 57
     },
     {
       "theme": "WB_1406_DISEASES",
-      "n": 35
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 34
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 33
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 32
+      "n": 39
     },
     {
       "theme": "WB_1427_NON_COMMUNICABLE_DISEASE_AND_INJURY",
-      "n": 32
+      "n": 37
+    },
+    {
+      "theme": "WB_1437_SOCIAL_DETERMINANTS_FOR_HEALTH",
+      "n": 36
+    },
+    {
+      "theme": "WB_1438_ALCOHOL_AND_SUBSTANCE_ABUSE",
+      "n": 36
+    },
+    {
+      "theme": "TAX_ETHNICITY_ARAB",
+      "n": 33
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 33
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 28
+    },
+    {
+      "theme": "LEADER",
+      "n": 28
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 28
+    },
+    {
+      "theme": "EPU_CATS_REGULATION",
+      "n": 27
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 26
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 25
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 24
     }
   ]
 }
