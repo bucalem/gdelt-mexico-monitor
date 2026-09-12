@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-09-12T07:14:55.363450+00:00",
-  "rows_total_scanned_last_run": 2603,
-  "rows_mexico_last_run": 37,
-  "overall_avg_tone_4h": -2.402,
+  "generated_at": "2026-09-12T11:37:09.303889+00:00",
+  "rows_total_scanned_last_run": 2962,
+  "rows_mexico_last_run": 33,
+  "overall_avg_tone_4h": -2.048,
   "timeline": [
-    {
-      "time": "2026-09-09T09:15",
-      "avg_tone": 0.701,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-09-09T09:30",
-      "avg_tone": -1.969,
-      "n_articles": 12
-    },
     {
       "time": "2026-09-09T13:45",
       "avg_tone": -1.306,
@@ -403,145 +393,165 @@
       "time": "2026-09-12T07:15",
       "avg_tone": -1.943,
       "n_articles": 6
+    },
+    {
+      "time": "2026-09-12T11:00",
+      "avg_tone": 0.197,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-09-12T11:15",
+      "avg_tone": 0.564,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-09-12T11:30",
+      "avg_tone": 1.777,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-09-12T11:45",
+      "avg_tone": 1.552,
+      "n_articles": 10
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 12,
-      "avg_tone": -1.136
+      "source": "tickerreport.com",
+      "n": 5,
+      "avg_tone": 2.579
+    },
+    {
+      "source": "wyomingnews.com",
+      "n": 2,
+      "avg_tone": 2.809
     },
     {
       "source": "trend.az",
-      "n": 2,
-      "avg_tone": 2.09
-    },
-    {
-      "source": "philboxing.com",
-      "n": 2,
-      "avg_tone": 1.91
-    },
-    {
-      "source": "noozhawk.com",
-      "n": 2,
-      "avg_tone": 0.32
-    },
-    {
-      "source": "balticbusinessnews.com",
       "n": 1,
-      "avg_tone": 0.205
+      "avg_tone": 3.03
     },
     {
-      "source": "goldderby.com",
+      "source": "malaysiasun.com",
       "n": 1,
-      "avg_tone": 1.045
+      "avg_tone": 2.068
     },
     {
-      "source": "aljazeera.com",
+      "source": "arynews.tv",
       "n": 1,
-      "avg_tone": -6.135
+      "avg_tone": -6.284
     },
     {
-      "source": "foxrochester.com",
+      "source": "bignewsnetwork.com",
       "n": 1,
-      "avg_tone": -6.169
+      "avg_tone": 2.064
     },
     {
-      "source": "wfsb.com",
+      "source": "variety.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": 4.33
     },
     {
-      "source": "asiaone.com",
+      "source": "thailandnews.net",
       "n": 1,
-      "avg_tone": -0.606
+      "avg_tone": 2.068
     },
     {
-      "source": "newsitem.com",
+      "source": "933thedrive.com",
       "n": 1,
-      "avg_tone": -0.752
+      "avg_tone": -0.344
     },
     {
-      "source": "dailypioneer.com",
+      "source": "outsideonline.com",
       "n": 1,
-      "avg_tone": -0.861
+      "avg_tone": -0.992
     },
     {
-      "source": "ianslive.in",
+      "source": "ivpressonline.com",
       "n": 1,
-      "avg_tone": 3.614
+      "avg_tone": 1.958
     },
     {
-      "source": "theguardian.com",
+      "source": "sfstation.com",
       "n": 1,
-      "avg_tone": 0.264
+      "avg_tone": 0.4
     },
     {
-      "source": "aa.com.tr",
+      "source": "adweek.com",
       "n": 1,
-      "avg_tone": -3.959
+      "avg_tone": 6.486
+    },
+    {
+      "source": "chinanationalnews.com",
+      "n": 1,
+      "avg_tone": 2.068
+    },
+    {
+      "source": "shanghainews.net",
+      "n": 1,
+      "avg_tone": 2.068
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 133
+      "theme": "LEADER",
+      "n": 50
     },
     {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 122
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 122
-    },
-    {
-      "theme": "ENV_METALS",
-      "n": 95
-    },
-    {
-      "theme": "ECON_WORLDCURRENCIES_PESO",
-      "n": 85
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 67
-    },
-    {
-      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
-      "n": 67
-    },
-    {
-      "theme": "WB_2934_COPPER",
-      "n": 59
-    },
-    {
-      "theme": "ENV_OIL",
-      "n": 47
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_AZERBAIJAN",
-      "n": 44
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
+      "theme": "TAX_FNCACT_PRESIDENT",
       "n": 40
     },
     {
-      "theme": "WB_2937_SILVER",
-      "n": 38
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
+      "theme": "TAX_WORLDLANGUAGES_AZERBAIJAN",
       "n": 37
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 36
+      "n": 33
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 36
+      "theme": "ENV_MINING",
+      "n": 31
+    },
+    {
+      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
+      "n": 27
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 26
+    },
+    {
+      "theme": "ENV_METALS",
+      "n": 26
+    },
+    {
+      "theme": "WB_2937_SILVER",
+      "n": 26
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 26
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 26
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 26
+    },
+    {
+      "theme": "TAX_ETHNICITY_CHINESE",
+      "n": 23
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_CHINESE",
+      "n": 23
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 23
     }
   ]
 }
