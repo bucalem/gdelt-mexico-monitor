@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-13T15:20:39.874398+00:00",
-  "rows_total_scanned_last_run": 2727,
-  "rows_mexico_last_run": 22,
-  "overall_avg_tone_4h": -0.0,
+  "generated_at": "2026-09-13T18:16:06.902388+00:00",
+  "rows_total_scanned_last_run": 2629,
+  "rows_mexico_last_run": 21,
+  "overall_avg_tone_4h": 0.103,
   "timeline": [
-    {
-      "time": "2026-09-10T16:45",
-      "avg_tone": -0.663,
-      "n_articles": 35
-    },
-    {
-      "time": "2026-09-10T17:00",
-      "avg_tone": 0.897,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-09-10T17:15",
-      "avg_tone": -1.991,
-      "n_articles": 25
-    },
-    {
-      "time": "2026-09-10T17:30",
-      "avg_tone": -2.744,
-      "n_articles": 25
-    },
     {
       "time": "2026-09-10T19:15",
       "avg_tone": 0.9,
@@ -428,145 +408,165 @@
       "time": "2026-09-13T15:30",
       "avg_tone": -1.239,
       "n_articles": 8
+    },
+    {
+      "time": "2026-09-13T17:30",
+      "avg_tone": 0.037,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-09-13T17:45",
+      "avg_tone": 0.084,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-09-13T18:00",
+      "avg_tone": -0.045,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-09-13T18:15",
+      "avg_tone": 1.262,
+      "n_articles": 3
     }
   ],
   "top_sources": [
     {
-      "source": "theatlantic.com",
-      "n": 1,
-      "avg_tone": -0.973
+      "source": "caribbeanherald.com",
+      "n": 2,
+      "avg_tone": -1.093
     },
     {
-      "source": "the-messenger.com",
-      "n": 1,
-      "avg_tone": 1.722
+      "source": "tickerreport.com",
+      "n": 2,
+      "avg_tone": 1.482
     },
     {
-      "source": "bignewsnetwork.com",
+      "source": "coventrytelegraph.net",
       "n": 1,
-      "avg_tone": -2.18
+      "avg_tone": 0.147
     },
     {
-      "source": "jamaicantimes.com",
+      "source": "nydailynews.com",
       "n": 1,
-      "avg_tone": -2.186
+      "avg_tone": 3.451
     },
     {
-      "source": "brazilsun.com",
+      "source": "aol.co.uk",
       "n": 1,
-      "avg_tone": -2.186
+      "avg_tone": 0.187
     },
     {
-      "source": "austinglobe.com",
+      "source": "singersroom.com",
       "n": 1,
-      "avg_tone": -2.186
+      "avg_tone": 2.082
     },
     {
-      "source": "muscatinejournal.com",
+      "source": "butlereagle.com",
       "n": 1,
-      "avg_tone": -0.155
+      "avg_tone": -1.842
     },
     {
-      "source": "cagesideseats.com",
+      "source": "dailyforex.com",
       "n": 1,
-      "avg_tone": -1.769
+      "avg_tone": -0.419
     },
     {
-      "source": "wyomingnewsnow.tv",
+      "source": "caribjournal.com",
       "n": 1,
-      "avg_tone": 1.722
+      "avg_tone": -0.2
     },
     {
-      "source": "trinidadtimes.com",
+      "source": "legallyindia.com",
       "n": 1,
-      "avg_tone": -2.186
+      "avg_tone": -1.899
     },
     {
-      "source": "northumberlandnews.com",
+      "source": "wtju.net",
       "n": 1,
-      "avg_tone": 1.818
+      "avg_tone": 7.08
     },
     {
-      "source": "wcfcourier.com",
+      "source": "slashfilm.com",
       "n": 1,
-      "avg_tone": -0.155
+      "avg_tone": -1.823
     },
     {
-      "source": "livenews.co.nz",
+      "source": "sandiegouniontribune.com",
       "n": 1,
-      "avg_tone": 2.538
+      "avg_tone": 0.943
     },
     {
-      "source": "freemalaysiatoday.com",
+      "source": "deadline.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -1.328
     },
     {
-      "source": "ncregister.com",
+      "source": "thailand-business-news.com",
       "n": 1,
-      "avg_tone": 2.602
+      "avg_tone": 2.487
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_RELIGION_CHURCH",
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 54
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 44
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 43
+    },
+    {
+      "theme": "WB_845_LEGAL_AND_REGULATORY_FRAMEWORK",
+      "n": 40
+    },
+    {
+      "theme": "WB_1024_PUBLIC_INTERNATIONAL_LAW",
+      "n": 40
+    },
+    {
+      "theme": "WB_1026_TREATIES",
+      "n": 40
+    },
+    {
+      "theme": "WB_962_INTERNATIONAL_LAW",
+      "n": 40
+    },
+    {
+      "theme": "EPU_POLICY_TAX",
       "n": 34
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 33
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 28
     },
     {
-      "theme": "TAX_FNCACT_COOK",
-      "n": 24
+      "theme": "USPEC_POLICY1",
+      "n": 25
     },
     {
-      "theme": "EDUCATION",
+      "theme": "GENERAL_GOVERNMENT",
       "n": 23
     },
     {
-      "theme": "SOC_POINTSOFINTEREST_UNIVERSITY",
-      "n": 17
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 21
     },
     {
-      "theme": "TAX_FOODSTAPLES_RICE",
-      "n": 16
+      "theme": "ECON_TAXATION",
+      "n": 21
     },
     {
-      "theme": "TAX_FNCACT_PROFESSOR",
-      "n": 16
+      "theme": "EPU_CATS_TAXES",
+      "n": 21
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
-      "n": 16
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 15
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 15
-    },
-    {
-      "theme": "SOC_GENERALCRIME",
-      "n": 15
-    },
-    {
-      "theme": "TAX_ETHNICITY_FRENCH",
-      "n": 15
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_FRENCH",
-      "n": 15
-    },
-    {
-      "theme": "TAX_WORLDCRUSTACEANS_SHRIMP",
-      "n": 14
-    },
-    {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 13
+      "theme": "LEADER",
+      "n": 20
     }
   ]
 }
