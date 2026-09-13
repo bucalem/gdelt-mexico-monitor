@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-09-13T18:16:06.902388+00:00",
-  "rows_total_scanned_last_run": 2629,
-  "rows_mexico_last_run": 21,
-  "overall_avg_tone_4h": 0.103,
+  "generated_at": "2026-09-13T20:59:02.431424+00:00",
+  "rows_total_scanned_last_run": 621,
+  "rows_mexico_last_run": 9,
+  "overall_avg_tone_4h": -0.368,
   "timeline": [
-    {
-      "time": "2026-09-10T19:15",
-      "avg_tone": 0.9,
-      "n_articles": 18
-    },
     {
       "time": "2026-09-10T21:30",
       "avg_tone": -1.486,
@@ -428,145 +423,120 @@
       "time": "2026-09-13T18:15",
       "avg_tone": 1.262,
       "n_articles": 3
+    },
+    {
+      "time": "2026-09-13T20:15",
+      "avg_tone": -4.619,
+      "n_articles": 9
     }
   ],
   "top_sources": [
     {
-      "source": "caribbeanherald.com",
-      "n": 2,
-      "avg_tone": -1.093
-    },
-    {
-      "source": "tickerreport.com",
-      "n": 2,
-      "avg_tone": 1.482
-    },
-    {
-      "source": "coventrytelegraph.net",
+      "source": "krcgtv.com",
       "n": 1,
-      "avg_tone": 0.147
+      "avg_tone": -5.805
     },
     {
-      "source": "nydailynews.com",
+      "source": "katu.com",
       "n": 1,
-      "avg_tone": 3.451
+      "avg_tone": -5.805
     },
     {
-      "source": "aol.co.uk",
+      "source": "wwmt.com",
       "n": 1,
-      "avg_tone": 0.187
+      "avg_tone": -5.805
     },
     {
-      "source": "singersroom.com",
+      "source": "theifp.ca",
       "n": 1,
-      "avg_tone": 2.082
+      "avg_tone": 1.818
     },
     {
-      "source": "butlereagle.com",
+      "source": "13wham.com",
       "n": 1,
-      "avg_tone": -1.842
+      "avg_tone": -5.805
     },
     {
-      "source": "dailyforex.com",
+      "source": "fox23.com",
       "n": 1,
-      "avg_tone": -0.419
+      "avg_tone": -5.805
     },
     {
-      "source": "caribjournal.com",
+      "source": "weartv.com",
       "n": 1,
-      "avg_tone": -0.2
+      "avg_tone": -5.805
     },
     {
-      "source": "legallyindia.com",
+      "source": "wjla.com",
       "n": 1,
-      "avg_tone": -1.899
+      "avg_tone": -5.805
     },
     {
-      "source": "wtju.net",
+      "source": "chroniclejournal.com",
       "n": 1,
-      "avg_tone": 7.08
-    },
-    {
-      "source": "slashfilm.com",
-      "n": 1,
-      "avg_tone": -1.823
-    },
-    {
-      "source": "sandiegouniontribune.com",
-      "n": 1,
-      "avg_tone": 0.943
-    },
-    {
-      "source": "deadline.com",
-      "n": 1,
-      "avg_tone": -1.328
-    },
-    {
-      "source": "thailand-business-news.com",
-      "n": 1,
-      "avg_tone": 2.487
+      "avg_tone": -2.756
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 54
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 92
     },
     {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 44
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 91
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 43
-    },
-    {
-      "theme": "WB_845_LEGAL_AND_REGULATORY_FRAMEWORK",
-      "n": 40
-    },
-    {
-      "theme": "WB_1024_PUBLIC_INTERNATIONAL_LAW",
-      "n": 40
-    },
-    {
-      "theme": "WB_1026_TREATIES",
-      "n": 40
-    },
-    {
-      "theme": "WB_962_INTERNATIONAL_LAW",
-      "n": 40
-    },
-    {
-      "theme": "EPU_POLICY_TAX",
-      "n": 34
-    },
-    {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 28
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 25
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 23
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
+      "theme": "WB_286_TELECOMMUNICATIONS_AND_BROADBAND_ACCESS",
       "n": 21
     },
     {
-      "theme": "ECON_TAXATION",
+      "theme": "WB_2120_SATELLITES",
       "n": 21
     },
     {
-      "theme": "EPU_CATS_TAXES",
+      "theme": "WB_2329_ACCESS_AND_CONNECTIVITY",
       "n": 21
     },
     {
-      "theme": "LEADER",
-      "n": 20
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 21
+    },
+    {
+      "theme": "NATURAL_DISASTER_TROPICAL_STORM",
+      "n": 14
+    },
+    {
+      "theme": "UNREST_BELLIGERENT",
+      "n": 14
+    },
+    {
+      "theme": "SECURITY_SERVICES",
+      "n": 12
+    },
+    {
+      "theme": "TAX_FNCACT_POLICE",
+      "n": 12
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 12
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 8
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 7
+    },
+    {
+      "theme": "NATURAL_DISASTER_HURRICANES",
+      "n": 7
+    },
+    {
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 7
     }
   ]
 }
