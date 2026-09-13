@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-13T06:12:04.707330+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -0.102,
+  "generated_at": "2026-09-13T11:49:44.604607+00:00",
+  "rows_total_scanned_last_run": 2496,
+  "rows_mexico_last_run": 14,
+  "overall_avg_tone_4h": -0.226,
   "timeline": [
-    {
-      "time": "2026-09-10T09:15",
-      "avg_tone": 1.745,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-09-10T09:30",
-      "avg_tone": -0.703,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-09-10T09:45",
-      "avg_tone": -0.133,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-09-10T10:00",
-      "avg_tone": 0.717,
-      "n_articles": 14
-    },
     {
       "time": "2026-09-10T13:15",
       "avg_tone": 1.224,
@@ -428,8 +408,150 @@
       "time": "2026-09-13T01:15",
       "avg_tone": 0.33,
       "n_articles": 8
+    },
+    {
+      "time": "2026-09-13T11:00",
+      "avg_tone": 0.579,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-09-13T11:15",
+      "avg_tone": -1.735,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-09-13T11:30",
+      "avg_tone": -3.692,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-09-13T11:45",
+      "avg_tone": -0.475,
+      "n_articles": 3
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "newstribune.com",
+      "n": 2,
+      "avg_tone": -1.98
+    },
+    {
+      "source": "latimes.com",
+      "n": 2,
+      "avg_tone": -2.647
+    },
+    {
+      "source": "sitkasentinel.com",
+      "n": 1,
+      "avg_tone": -1.311
+    },
+    {
+      "source": "aawsat.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "dunyanews.tv",
+      "n": 1,
+      "avg_tone": -0.113
+    },
+    {
+      "source": "clickondetroit.com",
+      "n": 1,
+      "avg_tone": -7.116
+    },
+    {
+      "source": "collider.com",
+      "n": 1,
+      "avg_tone": 0.064
+    },
+    {
+      "source": "globaltimes.cn",
+      "n": 1,
+      "avg_tone": -1.711
+    },
+    {
+      "source": "mirror.co.uk",
+      "n": 1,
+      "avg_tone": -4.773
+    },
+    {
+      "source": "lasvegasweekly.com",
+      "n": 1,
+      "avg_tone": 6.767
+    },
+    {
+      "source": "dailyinterlake.com",
+      "n": 1,
+      "avg_tone": 4.437
+    },
+    {
+      "source": "aol.co.uk",
+      "n": 1,
+      "avg_tone": -4.113
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 34
+    },
+    {
+      "theme": "UNGP_HEALTHCARE",
+      "n": 33
+    },
+    {
+      "theme": "TAX_ETHNICITY_CHINESE",
+      "n": 25
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_CHINESE",
+      "n": 25
+    },
+    {
+      "theme": "WB_1406_DISEASES",
+      "n": 23
+    },
+    {
+      "theme": "TAX_DISEASE_DISEASE",
+      "n": 22
+    },
+    {
+      "theme": "TAX_DISEASE_LYME_DISEASE",
+      "n": 20
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 18
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 16
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 16
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 16
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 16
+    },
+    {
+      "theme": "LEADER",
+      "n": 15
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 15
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 15
+    }
+  ]
 }
