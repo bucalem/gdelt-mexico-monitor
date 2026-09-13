@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-13T20:59:02.431424+00:00",
-  "rows_total_scanned_last_run": 621,
-  "rows_mexico_last_run": 9,
-  "overall_avg_tone_4h": -0.368,
+  "generated_at": "2026-09-13T22:57:58.522146+00:00",
+  "rows_total_scanned_last_run": 2043,
+  "rows_mexico_last_run": 24,
+  "overall_avg_tone_4h": -0.957,
   "timeline": [
-    {
-      "time": "2026-09-10T21:30",
-      "avg_tone": -1.486,
-      "n_articles": 19
-    },
-    {
-      "time": "2026-09-10T21:45",
-      "avg_tone": 0.025,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-09-10T22:00",
-      "avg_tone": -0.203,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-09-10T22:15",
-      "avg_tone": -0.596,
-      "n_articles": 14
-    },
     {
       "time": "2026-09-10T23:30",
       "avg_tone": -1.764,
@@ -428,115 +408,165 @@
       "time": "2026-09-13T20:15",
       "avg_tone": -4.619,
       "n_articles": 9
+    },
+    {
+      "time": "2026-09-13T22:15",
+      "avg_tone": -1.49,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-09-13T22:30",
+      "avg_tone": -0.65,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-09-13T22:45",
+      "avg_tone": -2.073,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-09-13T23:00",
+      "avg_tone": -0.947,
+      "n_articles": 6
     }
   ],
   "top_sources": [
     {
-      "source": "krcgtv.com",
-      "n": 1,
-      "avg_tone": -5.805
+      "source": "calgarysun.com",
+      "n": 2,
+      "avg_tone": 0.111
     },
     {
-      "source": "katu.com",
+      "source": "collider.com",
       "n": 1,
-      "avg_tone": -5.805
+      "avg_tone": -0.314
     },
     {
-      "source": "wwmt.com",
+      "source": "itbrief.co.nz",
       "n": 1,
-      "avg_tone": -5.805
+      "avg_tone": 1.083
     },
     {
-      "source": "theifp.ca",
+      "source": "medicinehatnews.com",
       "n": 1,
-      "avg_tone": 1.818
+      "avg_tone": -1.308
     },
     {
-      "source": "13wham.com",
+      "source": "lowkickmma.com",
       "n": 1,
-      "avg_tone": -5.805
+      "avg_tone": -0.92
     },
     {
-      "source": "fox23.com",
+      "source": "brownpoliticalreview.org",
       "n": 1,
-      "avg_tone": -5.805
+      "avg_tone": -2.46
     },
     {
-      "source": "weartv.com",
+      "source": "panow.com",
       "n": 1,
-      "avg_tone": -5.805
+      "avg_tone": -1.765
     },
     {
-      "source": "wjla.com",
+      "source": "vanguardngr.com",
       "n": 1,
-      "avg_tone": -5.805
+      "avg_tone": -5.164
     },
     {
-      "source": "chroniclejournal.com",
+      "source": "niagarafallsreview.ca",
       "n": 1,
-      "avg_tone": -2.756
+      "avg_tone": -1.047
+    },
+    {
+      "source": "lethbridgeherald.com",
+      "n": 1,
+      "avg_tone": -1.308
+    },
+    {
+      "source": "dailykos.com",
+      "n": 1,
+      "avg_tone": -4.401
+    },
+    {
+      "source": "latimes.com",
+      "n": 1,
+      "avg_tone": -1.175
+    },
+    {
+      "source": "foxwilmington.com",
+      "n": 1,
+      "avg_tone": 0.658
+    },
+    {
+      "source": "winnipegfreepress.com",
+      "n": 1,
+      "avg_tone": -1.491
+    },
+    {
+      "source": "dailymail.com",
+      "n": 1,
+      "avg_tone": 1.355
     }
   ],
   "top_themes": [
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 92
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 36
     },
     {
-      "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 91
-    },
-    {
-      "theme": "WB_286_TELECOMMUNICATIONS_AND_BROADBAND_ACCESS",
-      "n": 21
-    },
-    {
-      "theme": "WB_2120_SATELLITES",
-      "n": 21
-    },
-    {
-      "theme": "WB_2329_ACCESS_AND_CONNECTIVITY",
-      "n": 21
-    },
-    {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 21
-    },
-    {
-      "theme": "NATURAL_DISASTER_TROPICAL_STORM",
-      "n": 14
-    },
-    {
-      "theme": "UNREST_BELLIGERENT",
-      "n": 14
-    },
-    {
-      "theme": "SECURITY_SERVICES",
-      "n": 12
-    },
-    {
-      "theme": "TAX_FNCACT_POLICE",
-      "n": 12
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 12
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 8
+      "theme": "LEADER",
+      "n": 34
     },
     {
       "theme": "WB_137_WATER",
-      "n": 7
+      "n": 33
     },
     {
-      "theme": "NATURAL_DISASTER_HURRICANES",
-      "n": 7
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 30
     },
     {
-      "theme": "CRISISLEX_O01_WEATHER",
-      "n": 7
+      "theme": "WB_698_TRADE",
+      "n": 22
+    },
+    {
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 20
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 20
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 19
+    },
+    {
+      "theme": "ARMEDCONFLICT",
+      "n": 19
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 17
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 16
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 16
+    },
+    {
+      "theme": "MEDIA_MSM",
+      "n": 15
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 13
+    },
+    {
+      "theme": "WB_1014_CRIMINAL_JUSTICE",
+      "n": 12
     }
   ]
 }
