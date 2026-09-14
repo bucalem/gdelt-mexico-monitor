@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-13T22:57:58.522146+00:00",
-  "rows_total_scanned_last_run": 2043,
-  "rows_mexico_last_run": 24,
-  "overall_avg_tone_4h": -0.957,
+  "generated_at": "2026-09-14T00:44:48.573546+00:00",
+  "rows_total_scanned_last_run": 1987,
+  "rows_mexico_last_run": 21,
+  "overall_avg_tone_4h": -0.888,
   "timeline": [
-    {
-      "time": "2026-09-10T23:30",
-      "avg_tone": -1.764,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-09-10T23:45",
-      "avg_tone": -1.349,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-09-11T00:00",
-      "avg_tone": -0.968,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-09-11T00:15",
-      "avg_tone": -1.899,
-      "n_articles": 13
-    },
     {
       "time": "2026-09-11T04:00",
       "avg_tone": -1.267,
@@ -428,145 +408,165 @@
       "time": "2026-09-13T23:00",
       "avg_tone": -0.947,
       "n_articles": 6
+    },
+    {
+      "time": "2026-09-14T00:00",
+      "avg_tone": -0.461,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-09-14T00:15",
+      "avg_tone": -0.157,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-09-14T00:30",
+      "avg_tone": 1.144,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-09-14T00:45",
+      "avg_tone": -1.592,
+      "n_articles": 7
     }
   ],
   "top_sources": [
     {
-      "source": "calgarysun.com",
+      "source": "fool.com",
       "n": 2,
-      "avg_tone": 0.111
+      "avg_tone": -0.259
     },
     {
-      "source": "collider.com",
+      "source": "wrestlinginc.com",
       "n": 1,
-      "avg_tone": -0.314
+      "avg_tone": -2.256
     },
     {
-      "source": "itbrief.co.nz",
+      "source": "spacewar.com",
       "n": 1,
-      "avg_tone": 1.083
+      "avg_tone": -3.571
     },
     {
-      "source": "medicinehatnews.com",
+      "source": "cagesideseats.com",
       "n": 1,
-      "avg_tone": -1.308
+      "avg_tone": -2.583
     },
     {
-      "source": "lowkickmma.com",
+      "source": "comoxvalleyrecord.com",
       "n": 1,
-      "avg_tone": -0.92
+      "avg_tone": 3.147
     },
     {
-      "source": "brownpoliticalreview.org",
+      "source": "foxsanantonio.com",
       "n": 1,
-      "avg_tone": -2.46
+      "avg_tone": 0.0
     },
     {
-      "source": "panow.com",
+      "source": "stgeorgeutah.com",
       "n": 1,
-      "avg_tone": -1.765
+      "avg_tone": -7.19
     },
     {
-      "source": "vanguardngr.com",
+      "source": "fox5vegas.com",
       "n": 1,
-      "avg_tone": -5.164
+      "avg_tone": 1.307
     },
     {
-      "source": "niagarafallsreview.ca",
+      "source": "fox4beaumont.com",
       "n": 1,
-      "avg_tone": -1.047
+      "avg_tone": 3.974
     },
     {
-      "source": "lethbridgeherald.com",
+      "source": "boredpanda.com",
       "n": 1,
-      "avg_tone": -1.308
+      "avg_tone": -3.348
     },
     {
-      "source": "dailykos.com",
+      "source": "businesstoday.in",
       "n": 1,
-      "avg_tone": -4.401
+      "avg_tone": 2.806
     },
     {
-      "source": "latimes.com",
+      "source": "hellenicshippingnews.com",
       "n": 1,
-      "avg_tone": -1.175
+      "avg_tone": 0.336
     },
     {
-      "source": "foxwilmington.com",
+      "source": "thecattlesite.com",
       "n": 1,
-      "avg_tone": 0.658
+      "avg_tone": -0.547
     },
     {
-      "source": "winnipegfreepress.com",
+      "source": "sandiegouniontribune.com",
       "n": 1,
-      "avg_tone": -1.491
+      "avg_tone": 0.166
     },
     {
-      "source": "dailymail.com",
+      "source": "ksat.com",
       "n": 1,
-      "avg_tone": 1.355
+      "avg_tone": -9.6
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 36
-    },
-    {
-      "theme": "LEADER",
-      "n": 34
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 33
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 30
+      "theme": "AGRICULTURE",
+      "n": 63
     },
     {
       "theme": "WB_698_TRADE",
+      "n": 24
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
       "n": 22
     },
     {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 20
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 20
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 19
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 19
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 17
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 16
+      "theme": "TAX_FOODSTAPLES_MILK",
+      "n": 17
     },
     {
-      "theme": "EDUCATION",
-      "n": 16
-    },
-    {
-      "theme": "MEDIA_MSM",
-      "n": 15
-    },
-    {
-      "theme": "WB_840_JUSTICE",
+      "theme": "TAX_ECON_PRICE",
       "n": 13
     },
     {
-      "theme": "WB_1014_CRIMINAL_JUSTICE",
+      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
       "n": 12
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 11
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 11
+    },
+    {
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 11
+    },
+    {
+      "theme": "ECON_STOCKMARKET",
+      "n": 11
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 11
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 10
+    },
+    {
+      "theme": "SLUMS",
+      "n": 10
     }
   ]
 }
