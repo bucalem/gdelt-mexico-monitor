@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-15T01:43:10.728318+00:00",
-  "rows_total_scanned_last_run": 3812,
-  "rows_mexico_last_run": 54,
-  "overall_avg_tone_4h": 0.392,
+  "generated_at": "2026-09-15T06:43:51.348155+00:00",
+  "rows_total_scanned_last_run": 659,
+  "rows_mexico_last_run": 3,
+  "overall_avg_tone_4h": 0.46,
   "timeline": [
-    {
-      "time": "2026-09-12T01:45",
-      "avg_tone": -1.075,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-09-12T02:00",
-      "avg_tone": -4.027,
-      "n_articles": 19
-    },
-    {
-      "time": "2026-09-12T02:15",
-      "avg_tone": -3.231,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-09-12T06:30",
-      "avg_tone": 1.63,
-      "n_articles": 11
-    },
     {
       "time": "2026-09-12T06:45",
       "avg_tone": -1.756,
@@ -393,145 +373,90 @@
       "time": "2026-09-15T01:45",
       "avg_tone": -0.233,
       "n_articles": 18
+    },
+    {
+      "time": "2026-09-15T06:00",
+      "avg_tone": 2.308,
+      "n_articles": 3
     }
   ],
   "top_sources": [
     {
-      "source": "santafenewmexican.com",
-      "n": 5,
-      "avg_tone": -1.282
-    },
-    {
-      "source": "el-balad.com",
-      "n": 2,
-      "avg_tone": -1.695
-    },
-    {
-      "source": "mynewsla.com",
-      "n": 2,
-      "avg_tone": -3.051
-    },
-    {
-      "source": "informationng.com",
+      "source": "thetimes.com",
       "n": 1,
-      "avg_tone": -3.245
+      "avg_tone": 5.326
     },
     {
-      "source": "kmuw.org",
+      "source": "tickerreport.com",
       "n": 1,
-      "avg_tone": -2.062
+      "avg_tone": 1.709
     },
     {
-      "source": "abc.net.au",
+      "source": "eurasiareview.com",
       "n": 1,
-      "avg_tone": -5.042
-    },
-    {
-      "source": "wjjo.com",
-      "n": 1,
-      "avg_tone": 1.113
-    },
-    {
-      "source": "longislandpress.com",
-      "n": 1,
-      "avg_tone": -0.818
-    },
-    {
-      "source": "moneycontrol.com",
-      "n": 1,
-      "avg_tone": 1.317
-    },
-    {
-      "source": "philboxing.com",
-      "n": 1,
-      "avg_tone": 1.224
-    },
-    {
-      "source": "comicbook.com",
-      "n": 1,
-      "avg_tone": -0.694
-    },
-    {
-      "source": "wctrib.com",
-      "n": 1,
-      "avg_tone": 6.478
-    },
-    {
-      "source": "pmnewsnigeria.com",
-      "n": 1,
-      "avg_tone": 1.942
-    },
-    {
-      "source": "krwg.org",
-      "n": 1,
-      "avg_tone": -2.062
-    },
-    {
-      "source": "nanaimobulletin.com",
-      "n": 1,
-      "avg_tone": 4.063
+      "avg_tone": -0.112
     }
   ],
   "top_themes": [
     {
-      "theme": "BORDER",
-      "n": 259
+      "theme": "GENERAL_HEALTH",
+      "n": 13
     },
     {
-      "theme": "TRIAL",
-      "n": 168
+      "theme": "MEDICAL",
+      "n": 13
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 103
+      "theme": "WB_135_TRANSPORT",
+      "n": 8
     },
     {
-      "theme": "ALLIANCE",
-      "n": 81
+      "theme": "TAX_ECON_PRICE",
+      "n": 7
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 67
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 5
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_MARFA",
-      "n": 66
+      "theme": "ECON_STOCKMARKET",
+      "n": 4
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 54
+      "theme": "WB_1458_HEALTH_PROMOTION_AND_DISEASE_PREVENTION",
+      "n": 4
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 49
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 4
+    },
+    {
+      "theme": "WB_1464_HEALTH_OF_THE_DISABLED",
+      "n": 4
+    },
+    {
+      "theme": "TAX_DISEASE_MILD_COGNITIVE_IMPAIRMENT",
+      "n": 4
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 43
+      "n": 3
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 42
+      "theme": "GEN_HOLIDAY",
+      "n": 3
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 42
+      "theme": "TAX_FNCACT_ANALYST",
+      "n": 3
     },
     {
-      "theme": "TAX_FNCACT_SECRETARY",
-      "n": 41
+      "theme": "SCIENCE",
+      "n": 3
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 41
-    },
-    {
-      "theme": "LEGISLATION",
-      "n": 40
-    },
-    {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 38
+      "theme": "RURAL",
+      "n": 3
     }
   ]
 }
