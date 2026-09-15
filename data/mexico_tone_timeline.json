@@ -1,39 +1,9 @@
 {
-  "generated_at": "2026-09-15T16:55:26.854541+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": 0.816,
+  "generated_at": "2026-09-15T19:55:54.501726+00:00",
+  "rows_total_scanned_last_run": 6357,
+  "rows_mexico_last_run": 118,
+  "overall_avg_tone_4h": -0.021,
   "timeline": [
-    {
-      "time": "2026-09-12T17:00",
-      "avg_tone": -0.817,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-09-12T17:15",
-      "avg_tone": -0.541,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-09-12T18:45",
-      "avg_tone": -2.888,
-      "n_articles": 2
-    },
-    {
-      "time": "2026-09-12T19:00",
-      "avg_tone": -1.183,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-09-12T19:15",
-      "avg_tone": -0.249,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-09-12T19:30",
-      "avg_tone": 1.192,
-      "n_articles": 10
-    },
     {
       "time": "2026-09-12T21:00",
       "avg_tone": 0.799,
@@ -333,8 +303,165 @@
       "time": "2026-09-15T12:15",
       "avg_tone": 3.467,
       "n_articles": 8
+    },
+    {
+      "time": "2026-09-15T19:15",
+      "avg_tone": -2.314,
+      "n_articles": 31
+    },
+    {
+      "time": "2026-09-15T19:30",
+      "avg_tone": -1.057,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-09-15T19:45",
+      "avg_tone": 0.342,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-09-15T20:00",
+      "avg_tone": 0.3,
+      "n_articles": 40
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "riviera-maya-news.com",
+      "n": 4,
+      "avg_tone": -3.211
+    },
+    {
+      "source": "idahostatejournal.com",
+      "n": 3,
+      "avg_tone": -2.257
+    },
+    {
+      "source": "nrn.com",
+      "n": 3,
+      "avg_tone": 2.593
+    },
+    {
+      "source": "netscape.com",
+      "n": 3,
+      "avg_tone": -5.142
+    },
+    {
+      "source": "aol.com",
+      "n": 2,
+      "avg_tone": 0.642
+    },
+    {
+      "source": "dailypolitical.com",
+      "n": 2,
+      "avg_tone": 1.255
+    },
+    {
+      "source": "billboard.com",
+      "n": 2,
+      "avg_tone": 1.817
+    },
+    {
+      "source": "nbcbayarea.com",
+      "n": 2,
+      "avg_tone": 3.283
+    },
+    {
+      "source": "rockymounttelegram.com",
+      "n": 2,
+      "avg_tone": -2.599
+    },
+    {
+      "source": "roundupweb.com",
+      "n": 2,
+      "avg_tone": 1.329
+    },
+    {
+      "source": "sun-sentinel.com",
+      "n": 2,
+      "avg_tone": -5.477
+    },
+    {
+      "source": "reporterherald.com",
+      "n": 2,
+      "avg_tone": -5.477
+    },
+    {
+      "source": "carbuzz.com",
+      "n": 2,
+      "avg_tone": -1.267
+    },
+    {
+      "source": "greeleytribune.com",
+      "n": 2,
+      "avg_tone": -5.477
+    },
+    {
+      "source": "fox7austin.com",
+      "n": 2,
+      "avg_tone": -3.836
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "UNGP_HEALTHCARE",
+      "n": 149
+    },
+    {
+      "theme": "TAX_DISEASE_MEASLES",
+      "n": 126
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 98
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 96
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 84
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 79
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 77
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 77
+    },
+    {
+      "theme": "LEADER",
+      "n": 69
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 66
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 64
+    },
+    {
+      "theme": "TAX_FNCACT_PRODUCER",
+      "n": 64
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 57
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 57
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 54
+    }
+  ]
 }
