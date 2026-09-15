@@ -1,44 +1,9 @@
 {
-  "generated_at": "2026-09-15T06:43:51.348155+00:00",
-  "rows_total_scanned_last_run": 659,
-  "rows_mexico_last_run": 3,
-  "overall_avg_tone_4h": 0.46,
+  "generated_at": "2026-09-15T12:09:38.252846+00:00",
+  "rows_total_scanned_last_run": 4922,
+  "rows_mexico_last_run": 33,
+  "overall_avg_tone_4h": 0.816,
   "timeline": [
-    {
-      "time": "2026-09-12T06:45",
-      "avg_tone": -1.756,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-09-12T07:00",
-      "avg_tone": -0.879,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-09-12T07:15",
-      "avg_tone": -1.943,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-09-12T11:00",
-      "avg_tone": 0.197,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-09-12T11:15",
-      "avg_tone": 0.564,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-09-12T11:30",
-      "avg_tone": 1.777,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-09-12T11:45",
-      "avg_tone": 1.552,
-      "n_articles": 10
-    },
     {
       "time": "2026-09-12T13:45",
       "avg_tone": -0.949,
@@ -378,85 +343,165 @@
       "time": "2026-09-15T06:00",
       "avg_tone": 2.308,
       "n_articles": 3
+    },
+    {
+      "time": "2026-09-15T11:30",
+      "avg_tone": 3.405,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-09-15T11:45",
+      "avg_tone": -1.029,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-09-15T12:00",
+      "avg_tone": 0.174,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-09-15T12:15",
+      "avg_tone": 3.467,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "thetimes.com",
-      "n": 1,
-      "avg_tone": 5.326
+      "source": "prnewswire.com",
+      "n": 2,
+      "avg_tone": 5.871
     },
     {
-      "source": "tickerreport.com",
-      "n": 1,
-      "avg_tone": 1.709
+      "source": "foxnews.com",
+      "n": 2,
+      "avg_tone": -3.521
     },
     {
-      "source": "eurasiareview.com",
+      "source": "restaurantonline.co.uk",
       "n": 1,
-      "avg_tone": -0.112
+      "avg_tone": -0.529
+    },
+    {
+      "source": "prokerala.com",
+      "n": 1,
+      "avg_tone": 5.738
+    },
+    {
+      "source": "derbytelegraph.co.uk",
+      "n": 1,
+      "avg_tone": 4.1
+    },
+    {
+      "source": "businessinsider.com",
+      "n": 1,
+      "avg_tone": -0.235
+    },
+    {
+      "source": "tribuneonlineng.com",
+      "n": 1,
+      "avg_tone": 6.5
+    },
+    {
+      "source": "recorderonline.com",
+      "n": 1,
+      "avg_tone": 0.417
+    },
+    {
+      "source": "webpronews.com",
+      "n": 1,
+      "avg_tone": -1.601
+    },
+    {
+      "source": "hometownregister.com",
+      "n": 1,
+      "avg_tone": 1.175
+    },
+    {
+      "source": "castanetkamloops.net",
+      "n": 1,
+      "avg_tone": -0.442
+    },
+    {
+      "source": "hcn.org",
+      "n": 1,
+      "avg_tone": -1.831
+    },
+    {
+      "source": "indianapolismonthly.com",
+      "n": 1,
+      "avg_tone": 1.54
+    },
+    {
+      "source": "foodnavigator.com",
+      "n": 1,
+      "avg_tone": 2.933
+    },
+    {
+      "source": "washingtonian.com",
+      "n": 1,
+      "avg_tone": -0.243
     }
   ],
   "top_themes": [
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 13
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 13
-    },
-    {
-      "theme": "WB_135_TRANSPORT",
-      "n": 8
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 7
-    },
-    {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 5
+      "n": 48
     },
     {
-      "theme": "ECON_STOCKMARKET",
-      "n": 4
+      "theme": "EDUCATION",
+      "n": 44
     },
     {
-      "theme": "WB_1458_HEALTH_PROMOTION_AND_DISEASE_PREVENTION",
-      "n": 4
+      "theme": "GENERAL_HEALTH",
+      "n": 42
     },
     {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 4
+      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
+      "n": 41
     },
     {
-      "theme": "WB_1464_HEALTH_OF_THE_DISABLED",
-      "n": 4
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 39
     },
     {
-      "theme": "TAX_DISEASE_MILD_COGNITIVE_IMPAIRMENT",
-      "n": 4
+      "theme": "WB_1973_FINANCIAL_RISK_REDUCTION",
+      "n": 39
+    },
+    {
+      "theme": "WB_337_INSURANCE",
+      "n": 39
+    },
+    {
+      "theme": "WB_1967_AGRICULTURAL_RISK_AND_SECURITY",
+      "n": 39
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 3
+      "n": 38
     },
     {
-      "theme": "GEN_HOLIDAY",
-      "n": 3
+      "theme": "RETIREMENT",
+      "n": 37
     },
     {
-      "theme": "TAX_FNCACT_ANALYST",
-      "n": 3
+      "theme": "WB_470_EDUCATION",
+      "n": 34
     },
     {
-      "theme": "SCIENCE",
-      "n": 3
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 33
     },
     {
-      "theme": "RURAL",
-      "n": 3
+      "theme": "WB_2670_JOBS",
+      "n": 30
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 29
+    },
+    {
+      "theme": "TAX_FNCACT_EMPLOYEES",
+      "n": 28
     }
   ]
 }
