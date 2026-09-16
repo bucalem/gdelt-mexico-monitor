@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-16T21:48:07.616386+00:00",
-  "rows_total_scanned_last_run": 4440,
-  "rows_mexico_last_run": 69,
-  "overall_avg_tone_4h": -0.243,
+  "generated_at": "2026-09-16T23:58:54.051688+00:00",
+  "rows_total_scanned_last_run": 2430,
+  "rows_mexico_last_run": 40,
+  "overall_avg_tone_4h": -0.533,
   "timeline": [
-    {
-      "time": "2026-09-13T22:15",
-      "avg_tone": -1.49,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-09-13T22:30",
-      "avg_tone": -0.65,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-09-13T22:45",
-      "avg_tone": -2.073,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-09-13T23:00",
-      "avg_tone": -0.947,
-      "n_articles": 6
-    },
     {
       "time": "2026-09-14T00:00",
       "avg_tone": -0.461,
@@ -333,145 +313,155 @@
       "time": "2026-09-16T21:45",
       "avg_tone": -0.713,
       "n_articles": 20
+    },
+    {
+      "time": "2026-09-16T23:15",
+      "avg_tone": -2.19,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-09-17T00:00",
+      "avg_tone": -4.258,
+      "n_articles": 21
     }
   ],
   "top_sources": [
     {
-      "source": "yahoo.com",
-      "n": 4,
-      "avg_tone": 1.957
-    },
-    {
-      "source": "deadline.com",
+      "source": "cbs4local.com",
       "n": 2,
-      "avg_tone": -1.072
+      "avg_tone": 3.554
     },
     {
-      "source": "wyomingpublicmedia.org",
+      "source": "wkms.org",
       "n": 2,
-      "avg_tone": -1.617
+      "avg_tone": -6.37
     },
     {
-      "source": "kob.com",
+      "source": "wypr.org",
       "n": 2,
-      "avg_tone": 2.051
+      "avg_tone": -6.37
     },
     {
-      "source": "sacurrent.com",
+      "source": "fox7austin.com",
       "n": 2,
-      "avg_tone": 1.09
+      "avg_tone": -8.663
     },
     {
-      "source": "wfae.org",
+      "source": "klcc.org",
       "n": 2,
-      "avg_tone": -1.617
+      "avg_tone": -6.37
     },
     {
-      "source": "mining.com",
+      "source": "cubaheadlines.com",
       "n": 2,
-      "avg_tone": -0.673
+      "avg_tone": -1.99
     },
     {
-      "source": "aspenpublicradio.org",
+      "source": "kpbs.org",
       "n": 2,
       "avg_tone": -1.617
     },
     {
-      "source": "wxxinews.org",
+      "source": "heraldglobe.com",
       "n": 2,
-      "avg_tone": -1.617
+      "avg_tone": -3.823
     },
     {
-      "source": "breitbart.com",
-      "n": 2,
-      "avg_tone": -3.943
-    },
-    {
-      "source": "ypradio.org",
-      "n": 2,
-      "avg_tone": -1.617
-    },
-    {
-      "source": "kdhlradio.com",
-      "n": 2,
-      "avg_tone": 4.992
-    },
-    {
-      "source": "brazilsun.com",
+      "source": "kpcw.org",
       "n": 1,
-      "avg_tone": 2.788
+      "avg_tone": -4.886
     },
     {
-      "source": "el-balad.com",
+      "source": "wxpr.org",
       "n": 1,
-      "avg_tone": -0.885
+      "avg_tone": -4.886
     },
     {
-      "source": "reddeeradvocate.com",
+      "source": "wrestlinginc.com",
       "n": 1,
-      "avg_tone": 1.61
+      "avg_tone": 0.766
+    },
+    {
+      "source": "ipsnews.net",
+      "n": 1,
+      "avg_tone": -3.562
+    },
+    {
+      "source": "interlochenpublicradio.org",
+      "n": 1,
+      "avg_tone": -4.886
+    },
+    {
+      "source": "wkyufm.org",
+      "n": 1,
+      "avg_tone": -4.886
+    },
+    {
+      "source": "wqcs.org",
+      "n": 1,
+      "avg_tone": -4.886
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 73
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 71
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 70
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 70
-    },
-    {
-      "theme": "TAX_ETHNICITY_RUSSIAN",
-      "n": 68
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_RUSSIAN",
-      "n": 68
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_RUSSIA",
-      "n": 62
-    },
-    {
-      "theme": "SOC_GENERALCRIME",
-      "n": 59
-    },
-    {
-      "theme": "TAX_FNCACT_PROSECUTORS",
-      "n": 59
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 53
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 50
-    },
-    {
-      "theme": "TAX_FNCACT_ARTIST",
-      "n": 47
-    },
-    {
-      "theme": "ENV_METALS",
-      "n": 47
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 414
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 44
+      "n": 383
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 42
+      "theme": "KILL",
+      "n": 369
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 231
+    },
+    {
+      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
+      "n": 220
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 215
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 164
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 127
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_MARICOPA",
+      "n": 110
+    },
+    {
+      "theme": "TAX_FNCACT_MEDICAL_EXAMINER",
+      "n": 90
+    },
+    {
+      "theme": "TAX_FNCACT_EXAMINER",
+      "n": 90
+    },
+    {
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 87
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 86
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 81
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 81
     }
   ]
 }
