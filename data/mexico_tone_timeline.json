@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-09-16T18:52:06.678326+00:00",
-  "rows_total_scanned_last_run": 6937,
-  "rows_mexico_last_run": 130,
-  "overall_avg_tone_4h": -0.281,
+  "generated_at": "2026-09-16T21:48:07.616386+00:00",
+  "rows_total_scanned_last_run": 4440,
+  "rows_mexico_last_run": 69,
+  "overall_avg_tone_4h": -0.243,
   "timeline": [
-    {
-      "time": "2026-09-13T20:15",
-      "avg_tone": -4.619,
-      "n_articles": 9
-    },
     {
       "time": "2026-09-13T22:15",
       "avg_tone": -1.49,
@@ -323,145 +318,160 @@
       "time": "2026-09-16T19:00",
       "avg_tone": -0.835,
       "n_articles": 38
+    },
+    {
+      "time": "2026-09-16T21:00",
+      "avg_tone": 0.745,
+      "n_articles": 31
+    },
+    {
+      "time": "2026-09-16T21:15",
+      "avg_tone": -0.37,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-09-16T21:45",
+      "avg_tone": -0.713,
+      "n_articles": 20
     }
   ],
   "top_sources": [
     {
-      "source": "latintimes.com",
+      "source": "yahoo.com",
       "n": 4,
-      "avg_tone": -3.687
+      "avg_tone": 1.957
     },
     {
-      "source": "wrestlezone.com",
-      "n": 3,
-      "avg_tone": 0.214
+      "source": "deadline.com",
+      "n": 2,
+      "avg_tone": -1.072
     },
     {
-      "source": "wypr.org",
+      "source": "wyomingpublicmedia.org",
       "n": 2,
       "avg_tone": -1.617
     },
     {
-      "source": "gfmag.com",
+      "source": "kob.com",
       "n": 2,
-      "avg_tone": 2.723
+      "avg_tone": 2.051
     },
     {
-      "source": "prairiepublic.org",
+      "source": "sacurrent.com",
+      "n": 2,
+      "avg_tone": 1.09
+    },
+    {
+      "source": "wfae.org",
       "n": 2,
       "avg_tone": -1.617
     },
     {
-      "source": "wxpr.org",
+      "source": "mining.com",
+      "n": 2,
+      "avg_tone": -0.673
+    },
+    {
+      "source": "aspenpublicradio.org",
       "n": 2,
       "avg_tone": -1.617
     },
     {
-      "source": "interlochenpublicradio.org",
+      "source": "wxxinews.org",
       "n": 2,
       "avg_tone": -1.617
     },
     {
-      "source": "kpcw.org",
+      "source": "breitbart.com",
+      "n": 2,
+      "avg_tone": -3.943
+    },
+    {
+      "source": "ypradio.org",
       "n": 2,
       "avg_tone": -1.617
     },
     {
-      "source": "kuow.org",
+      "source": "kdhlradio.com",
       "n": 2,
-      "avg_tone": -1.617
+      "avg_tone": 4.992
     },
     {
-      "source": "wncw.org",
-      "n": 2,
-      "avg_tone": -1.617
+      "source": "brazilsun.com",
+      "n": 1,
+      "avg_tone": 2.788
     },
     {
-      "source": "dailypolitical.com",
-      "n": 2,
-      "avg_tone": 3.419
+      "source": "el-balad.com",
+      "n": 1,
+      "avg_tone": -0.885
     },
     {
-      "source": "npr.org",
-      "n": 2,
-      "avg_tone": -1.217
-    },
-    {
-      "source": "wboi.org",
-      "n": 2,
-      "avg_tone": -1.617
-    },
-    {
-      "source": "wvik.org",
-      "n": 2,
-      "avg_tone": -1.617
-    },
-    {
-      "source": "kyuk.org",
-      "n": 2,
-      "avg_tone": -1.617
+      "source": "reddeeradvocate.com",
+      "n": 1,
+      "avg_tone": 1.61
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 342
-    },
-    {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 236
+      "n": 73
     },
     {
-      "theme": "SOC_GENERALCRIME",
-      "n": 222
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 71
     },
     {
-      "theme": "TAX_FNCACT_PROSECUTORS",
-      "n": 212
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 70
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_RUSSIA",
-      "n": 212
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 70
     },
     {
       "theme": "TAX_ETHNICITY_RUSSIAN",
-      "n": 208
+      "n": 68
     },
     {
       "theme": "TAX_WORLDLANGUAGES_RUSSIAN",
-      "n": 208
+      "n": 68
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_RUSSIA",
+      "n": 62
+    },
+    {
+      "theme": "SOC_GENERALCRIME",
+      "n": 59
+    },
+    {
+      "theme": "TAX_FNCACT_PROSECUTORS",
+      "n": 59
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 53
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 50
     },
     {
       "theme": "TAX_FNCACT_ARTIST",
-      "n": 176
+      "n": 47
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 162
-    },
-    {
-      "theme": "TAX_FNCACT_NOMINEES",
-      "n": 136
+      "theme": "ENV_METALS",
+      "n": 47
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 124
+      "n": 44
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 119
-    },
-    {
-      "theme": "BORDER",
-      "n": 101
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 87
-    },
-    {
-      "theme": "TAX_ETHNICITY_VENEZUELAN",
-      "n": 86
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 42
     }
   ]
 }
