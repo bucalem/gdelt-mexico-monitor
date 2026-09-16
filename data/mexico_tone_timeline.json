@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-09-16T00:47:48.246847+00:00",
-  "rows_total_scanned_last_run": 4339,
-  "rows_mexico_last_run": 188,
-  "overall_avg_tone_4h": -1.597,
+  "generated_at": "2026-09-16T05:30:10.720157+00:00",
+  "rows_total_scanned_last_run": 3000,
+  "rows_mexico_last_run": 69,
+  "overall_avg_tone_4h": -1.608,
   "timeline": [
-    {
-      "time": "2026-09-13T01:00",
-      "avg_tone": 0.64,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-09-13T01:15",
-      "avg_tone": 0.33,
-      "n_articles": 8
-    },
     {
       "time": "2026-09-13T11:00",
       "avg_tone": 0.579,
@@ -313,145 +303,165 @@
       "time": "2026-09-16T00:45",
       "avg_tone": -1.772,
       "n_articles": 47
+    },
+    {
+      "time": "2026-09-16T04:45",
+      "avg_tone": -0.464,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-09-16T05:00",
+      "avg_tone": -1.459,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-09-16T05:15",
+      "avg_tone": 1.281,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-09-16T05:30",
+      "avg_tone": -0.804,
+      "n_articles": 20
     }
   ],
   "top_sources": [
     {
-      "source": "iheart.com",
-      "n": 122,
-      "avg_tone": -2.413
-    },
-    {
-      "source": "cubaheadlines.com",
-      "n": 3,
-      "avg_tone": -2.606
-    },
-    {
-      "source": "billboard.com",
-      "n": 2,
-      "avg_tone": 2.901
+      "source": "dailytarheel.com",
+      "n": 5,
+      "avg_tone": 2.464
     },
     {
       "source": "yahoo.com",
+      "n": 4,
+      "avg_tone": -0.922
+    },
+    {
+      "source": "santafenewmexican.com",
       "n": 2,
-      "avg_tone": -2.359
+      "avg_tone": -0.339
     },
     {
-      "source": "koco.com",
+      "source": "greaterbelize.com",
       "n": 2,
-      "avg_tone": -0.853
+      "avg_tone": -2.364
     },
     {
-      "source": "kjzz.org",
-      "n": 2,
-      "avg_tone": -4.077
-    },
-    {
-      "source": "tomsguide.com",
-      "n": 2,
-      "avg_tone": 3.438
-    },
-    {
-      "source": "wjcl.com",
-      "n": 2,
-      "avg_tone": -8.471
-    },
-    {
-      "source": "wgauradio.com",
-      "n": 2,
-      "avg_tone": -4.604
-    },
-    {
-      "source": "kyma.com",
+      "source": "kuow.org",
       "n": 1,
-      "avg_tone": -3.641
+      "avg_tone": -2.225
     },
     {
-      "source": "sandiegouniontribune.com",
+      "source": "massachusettssun.com",
       "n": 1,
-      "avg_tone": -3.934
+      "avg_tone": 0.0
     },
     {
-      "source": "kold.com",
+      "source": "brazilsun.com",
       "n": 1,
-      "avg_tone": -1.646
+      "avg_tone": 0.0
     },
     {
-      "source": "kpel965.com",
+      "source": "milwaukeesun.com",
       "n": 1,
-      "avg_tone": 3.565
+      "avg_tone": 0.0
     },
     {
-      "source": "dailypolitical.com",
+      "source": "dailypost.ng",
       "n": 1,
-      "avg_tone": 2.468
+      "avg_tone": -0.998
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "sanantoniopost.com",
       "n": 1,
-      "avg_tone": 6.128
+      "avg_tone": 0.0
+    },
+    {
+      "source": "jamaicantimes.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "mix1069.com",
+      "n": 1,
+      "avg_tone": -4.21
+    },
+    {
+      "source": "playboy.com",
+      "n": 1,
+      "avg_tone": 2.258
+    },
+    {
+      "source": "clevelandstar.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "kiro7.com",
+      "n": 1,
+      "avg_tone": -1.37
     }
   ],
   "top_themes": [
     {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 301
+    },
+    {
       "theme": "LEADER",
-      "n": 643
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 642
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 635
-    },
-    {
-      "theme": "KILL",
-      "n": 343
-    },
-    {
-      "theme": "LEGISLATION",
-      "n": 166
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 162
-    },
-    {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 160
+      "n": 113
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 156
+      "n": 111
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 96
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 87
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 76
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 66
     },
     {
       "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 155
+      "n": 62
     },
     {
-      "theme": "EPU_POLICY_LAW",
-      "n": 152
+      "theme": "EDUCATION",
+      "n": 56
     },
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 152
+      "theme": "TAX_ECON_PRICE",
+      "n": 51
     },
     {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 152
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 50
     },
     {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 149
+      "theme": "TAX_FNCACT_RETAILER",
+      "n": 50
     },
     {
-      "theme": "WB_2936_GOLD",
-      "n": 148
+      "theme": "TAX_FNCACT_GROCER",
+      "n": 50
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 140
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 42
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 41
     }
   ]
 }
