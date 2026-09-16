@@ -1,39 +1,9 @@
 {
-  "generated_at": "2026-09-16T15:05:15.479024+00:00",
-  "rows_total_scanned_last_run": 6085,
-  "rows_mexico_last_run": 68,
-  "overall_avg_tone_4h": -1.212,
+  "generated_at": "2026-09-16T18:52:06.678326+00:00",
+  "rows_total_scanned_last_run": 6937,
+  "rows_mexico_last_run": 130,
+  "overall_avg_tone_4h": -0.281,
   "timeline": [
-    {
-      "time": "2026-09-13T15:15",
-      "avg_tone": 0.906,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-09-13T15:30",
-      "avg_tone": -1.239,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-09-13T17:30",
-      "avg_tone": 0.037,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-09-13T17:45",
-      "avg_tone": 0.084,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-09-13T18:00",
-      "avg_tone": -0.045,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-09-13T18:15",
-      "avg_tone": 1.262,
-      "n_articles": 3
-    },
     {
       "time": "2026-09-13T20:15",
       "avg_tone": -4.619,
@@ -333,145 +303,165 @@
       "time": "2026-09-16T15:00",
       "avg_tone": 0.552,
       "n_articles": 21
+    },
+    {
+      "time": "2026-09-16T18:15",
+      "avg_tone": -0.917,
+      "n_articles": 35
+    },
+    {
+      "time": "2026-09-16T18:30",
+      "avg_tone": -0.536,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-09-16T18:45",
+      "avg_tone": -0.064,
+      "n_articles": 30
+    },
+    {
+      "time": "2026-09-16T19:00",
+      "avg_tone": -0.835,
+      "n_articles": 38
     }
   ],
   "top_sources": [
     {
-      "source": "rustourismnews.com",
+      "source": "latintimes.com",
+      "n": 4,
+      "avg_tone": -3.687
+    },
+    {
+      "source": "wrestlezone.com",
+      "n": 3,
+      "avg_tone": 0.214
+    },
+    {
+      "source": "wypr.org",
       "n": 2,
-      "avg_tone": 0.527
+      "avg_tone": -1.617
     },
     {
-      "source": "elpais.com",
+      "source": "gfmag.com",
       "n": 2,
-      "avg_tone": -3.04
+      "avg_tone": 2.723
     },
     {
-      "source": "thespiritsbusiness.com",
+      "source": "prairiepublic.org",
       "n": 2,
-      "avg_tone": 4.815
+      "avg_tone": -1.617
     },
     {
-      "source": "click2houston.com",
+      "source": "wxpr.org",
       "n": 2,
-      "avg_tone": -2.081
+      "avg_tone": -1.617
     },
     {
-      "source": "hazard-herald.com",
+      "source": "interlochenpublicradio.org",
       "n": 2,
-      "avg_tone": -3.028
+      "avg_tone": -1.617
     },
     {
-      "source": "santamariatimes.com",
-      "n": 1,
-      "avg_tone": -1.068
+      "source": "kpcw.org",
+      "n": 2,
+      "avg_tone": -1.617
     },
     {
-      "source": "finanznachrichten.de",
-      "n": 1,
-      "avg_tone": 1.402
+      "source": "kuow.org",
+      "n": 2,
+      "avg_tone": -1.617
     },
     {
-      "source": "nme.com",
-      "n": 1,
-      "avg_tone": 2.995
+      "source": "wncw.org",
+      "n": 2,
+      "avg_tone": -1.617
     },
     {
-      "source": "theatlantic.com",
-      "n": 1,
-      "avg_tone": -2.323
+      "source": "dailypolitical.com",
+      "n": 2,
+      "avg_tone": 3.419
     },
     {
-      "source": "rutlandherald.com",
-      "n": 1,
-      "avg_tone": -2.864
+      "source": "npr.org",
+      "n": 2,
+      "avg_tone": -1.217
     },
     {
-      "source": "breitbart.com",
-      "n": 1,
-      "avg_tone": -7.229
+      "source": "wboi.org",
+      "n": 2,
+      "avg_tone": -1.617
     },
     {
-      "source": "grandrapidsmn.com",
-      "n": 1,
-      "avg_tone": 1.457
+      "source": "wvik.org",
+      "n": 2,
+      "avg_tone": -1.617
     },
     {
-      "source": "gamingintelligence.com",
-      "n": 1,
-      "avg_tone": 2.007
-    },
-    {
-      "source": "fool.com",
-      "n": 1,
-      "avg_tone": 1.504
-    },
-    {
-      "source": "clickorlando.com",
-      "n": 1,
-      "avg_tone": 3.673
+      "source": "kyuk.org",
+      "n": 2,
+      "avg_tone": -1.617
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 125
+      "n": 342
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 62
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 236
     },
     {
-      "theme": "TAX_FNCACT_NOMINEES",
-      "n": 54
+      "theme": "SOC_GENERALCRIME",
+      "n": 222
+    },
+    {
+      "theme": "TAX_FNCACT_PROSECUTORS",
+      "n": 212
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_RUSSIA",
+      "n": 212
+    },
+    {
+      "theme": "TAX_ETHNICITY_RUSSIAN",
+      "n": 208
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_RUSSIAN",
+      "n": 208
     },
     {
       "theme": "TAX_FNCACT_ARTIST",
-      "n": 52
+      "n": 176
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 162
+    },
+    {
+      "theme": "TAX_FNCACT_NOMINEES",
+      "n": 136
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 50
+      "n": 124
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 49
+      "n": 119
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 44
+      "theme": "BORDER",
+      "n": 101
     },
     {
-      "theme": "MEDICAL",
-      "n": 42
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 87
     },
     {
-      "theme": "URBAN",
-      "n": 41
-    },
-    {
-      "theme": "TAX_FOODSTAPLES_POTATOES",
-      "n": 39
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 38
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 36
-    },
-    {
-      "theme": "WB_831_GOVERNANCE",
-      "n": 36
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 33
-    },
-    {
-      "theme": "WB_832_ANTI_CORRUPTION",
-      "n": 32
+      "theme": "TAX_ETHNICITY_VENEZUELAN",
+      "n": 86
     }
   ]
 }
