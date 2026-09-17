@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-16T23:58:54.051688+00:00",
-  "rows_total_scanned_last_run": 2430,
-  "rows_mexico_last_run": 40,
-  "overall_avg_tone_4h": -0.533,
+  "generated_at": "2026-09-17T03:54:23.517138+00:00",
+  "rows_total_scanned_last_run": 3564,
+  "rows_mexico_last_run": 58,
+  "overall_avg_tone_4h": -0.771,
   "timeline": [
-    {
-      "time": "2026-09-14T00:00",
-      "avg_tone": -0.461,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-09-14T00:15",
-      "avg_tone": -0.157,
-      "n_articles": 3
-    },
-    {
-      "time": "2026-09-14T00:30",
-      "avg_tone": 1.144,
-      "n_articles": 3
-    },
-    {
-      "time": "2026-09-14T00:45",
-      "avg_tone": -1.592,
-      "n_articles": 7
-    },
     {
       "time": "2026-09-14T04:45",
       "avg_tone": 2.155,
@@ -323,81 +303,101 @@
       "time": "2026-09-17T00:00",
       "avg_tone": -4.258,
       "n_articles": 21
+    },
+    {
+      "time": "2026-09-17T03:15",
+      "avg_tone": -1.317,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-09-17T03:30",
+      "avg_tone": -4.274,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-09-17T03:45",
+      "avg_tone": -0.892,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-09-17T04:00",
+      "avg_tone": -1.559,
+      "n_articles": 9
     }
   ],
   "top_sources": [
     {
-      "source": "cbs4local.com",
+      "source": "mexicoledger.com",
+      "n": 2,
+      "avg_tone": -1.522
+    },
+    {
+      "source": "kasu.org",
+      "n": 2,
+      "avg_tone": -6.37
+    },
+    {
+      "source": "webpronews.com",
+      "n": 2,
+      "avg_tone": 0.643
+    },
+    {
+      "source": "kfoxtv.com",
       "n": 2,
       "avg_tone": 3.554
     },
     {
-      "source": "wkms.org",
+      "source": "wfdd.org",
       "n": 2,
       "avg_tone": -6.37
     },
     {
-      "source": "wypr.org",
-      "n": 2,
-      "avg_tone": -6.37
+      "source": "kalw.org",
+      "n": 1,
+      "avg_tone": -4.886
     },
     {
-      "source": "fox7austin.com",
-      "n": 2,
-      "avg_tone": -8.663
+      "source": "deccanchronicle.com",
+      "n": 1,
+      "avg_tone": -4.706
     },
     {
-      "source": "klcc.org",
-      "n": 2,
-      "avg_tone": -6.37
+      "source": "winnipegfreepress.com",
+      "n": 1,
+      "avg_tone": 0.0
     },
     {
-      "source": "cubaheadlines.com",
-      "n": 2,
-      "avg_tone": -1.99
+      "source": "natlawreview.com",
+      "n": 1,
+      "avg_tone": -1.147
+    },
+    {
+      "source": "pagosasun.com",
+      "n": 1,
+      "avg_tone": 3.877
+    },
+    {
+      "source": "knpr.org",
+      "n": 1,
+      "avg_tone": -4.886
+    },
+    {
+      "source": "wbaa.org",
+      "n": 1,
+      "avg_tone": -4.886
+    },
+    {
+      "source": "spokesman.com",
+      "n": 1,
+      "avg_tone": -0.119
+    },
+    {
+      "source": "independent.com",
+      "n": 1,
+      "avg_tone": 2.718
     },
     {
       "source": "kpbs.org",
-      "n": 2,
-      "avg_tone": -1.617
-    },
-    {
-      "source": "heraldglobe.com",
-      "n": 2,
-      "avg_tone": -3.823
-    },
-    {
-      "source": "kpcw.org",
-      "n": 1,
-      "avg_tone": -4.886
-    },
-    {
-      "source": "wxpr.org",
-      "n": 1,
-      "avg_tone": -4.886
-    },
-    {
-      "source": "wrestlinginc.com",
-      "n": 1,
-      "avg_tone": 0.766
-    },
-    {
-      "source": "ipsnews.net",
-      "n": 1,
-      "avg_tone": -3.562
-    },
-    {
-      "source": "interlochenpublicradio.org",
-      "n": 1,
-      "avg_tone": -4.886
-    },
-    {
-      "source": "wkyufm.org",
-      "n": 1,
-      "avg_tone": -4.886
-    },
-    {
-      "source": "wqcs.org",
       "n": 1,
       "avg_tone": -4.886
     }
@@ -405,63 +405,63 @@
   "top_themes": [
     {
       "theme": "CRISISLEX_O01_WEATHER",
-      "n": 414
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 383
+      "n": 799
     },
     {
       "theme": "KILL",
-      "n": 369
+      "n": 685
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 231
-    },
-    {
-      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
-      "n": 220
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 679
     },
     {
       "theme": "MEDICAL",
-      "n": 215
+      "n": 431
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 164
+      "theme": "GENERAL_HEALTH",
+      "n": 430
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 127
+      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
+      "n": 411
     },
     {
       "theme": "TAX_WORLDLANGUAGES_MARICOPA",
-      "n": 110
+      "n": 198
     },
     {
-      "theme": "TAX_FNCACT_MEDICAL_EXAMINER",
-      "n": 90
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 188
     },
     {
       "theme": "TAX_FNCACT_EXAMINER",
-      "n": 90
+      "n": 177
     },
     {
-      "theme": "CRISISLEX_T03_DEAD",
-      "n": 87
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 86
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 81
+      "theme": "TAX_FNCACT_MEDICAL_EXAMINER",
+      "n": 177
     },
     {
       "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 81
+      "n": 162
+    },
+    {
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 141
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 138
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 136
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 131
     }
   ]
 }
