@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-09-17T14:16:04.851154+00:00",
-  "rows_total_scanned_last_run": 5049,
-  "rows_mexico_last_run": 61,
-  "overall_avg_tone_4h": -0.642,
+  "generated_at": "2026-09-17T18:23:20.840153+00:00",
+  "rows_total_scanned_last_run": 6661,
+  "rows_mexico_last_run": 118,
+  "overall_avg_tone_4h": -0.39,
   "timeline": [
-    {
-      "time": "2026-09-14T16:00",
-      "avg_tone": 0.722,
-      "n_articles": 33
-    },
-    {
-      "time": "2026-09-14T16:15",
-      "avg_tone": 0.538,
-      "n_articles": 25
-    },
     {
       "time": "2026-09-14T20:00",
       "avg_tone": -0.934,
@@ -323,145 +313,165 @@
       "time": "2026-09-17T14:15",
       "avg_tone": 2.289,
       "n_articles": 16
+    },
+    {
+      "time": "2026-09-17T17:45",
+      "avg_tone": -1.501,
+      "n_articles": 36
+    },
+    {
+      "time": "2026-09-17T18:00",
+      "avg_tone": -0.094,
+      "n_articles": 33
+    },
+    {
+      "time": "2026-09-17T18:15",
+      "avg_tone": -0.807,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-09-17T18:30",
+      "avg_tone": -1.075,
+      "n_articles": 22
     }
   ],
   "top_sources": [
     {
-      "source": "freshplaza.com",
-      "n": 5,
-      "avg_tone": 0.145
+      "source": "iheart.com",
+      "n": 9,
+      "avg_tone": -8.475
     },
     {
-      "source": "cambodiantimes.com",
+      "source": "riotimesonline.com",
+      "n": 3,
+      "avg_tone": 0.848
+    },
+    {
+      "source": "kvia.com",
+      "n": 3,
+      "avg_tone": -0.239
+    },
+    {
+      "source": "abqjournal.com",
+      "n": 3,
+      "avg_tone": 0.53
+    },
+    {
+      "source": "coldlakesun.com",
       "n": 2,
-      "avg_tone": 1.91
+      "avg_tone": -0.147
     },
     {
-      "source": "prnewswire.com",
+      "source": "kcra.com",
       "n": 2,
-      "avg_tone": 4.335
+      "avg_tone": 1.641
     },
     {
-      "source": "abcnews.com",
+      "source": "thetimes-tribune.com",
       "n": 2,
-      "avg_tone": -0.144
+      "avg_tone": -0.117
     },
     {
-      "source": "denverpost.com",
+      "source": "prrecordgazette.com",
       "n": 2,
-      "avg_tone": 1.681
+      "avg_tone": -0.147
     },
     {
-      "source": "thehardtackle.com",
-      "n": 1,
-      "avg_tone": 2.646
+      "source": "z94.com",
+      "n": 2,
+      "avg_tone": -0.335
     },
     {
-      "source": "jamaica-star.com",
-      "n": 1,
-      "avg_tone": 6.647
+      "source": "paloaltoonline.com",
+      "n": 2,
+      "avg_tone": -0.623
     },
     {
-      "source": "highrivertimes.com",
-      "n": 1,
-      "avg_tone": 2.348
+      "source": "fairviewpost.com",
+      "n": 2,
+      "avg_tone": -0.147
     },
     {
-      "source": "airdrieecho.com",
-      "n": 1,
-      "avg_tone": 2.348
+      "source": "journal-advocate.com",
+      "n": 2,
+      "avg_tone": -1.078
     },
     {
-      "source": "theitem.com",
-      "n": 1,
-      "avg_tone": -1.77
+      "source": "latintimes.com",
+      "n": 2,
+      "avg_tone": -2.087
     },
     {
-      "source": "singaporestar.com",
-      "n": 1,
-      "avg_tone": 2.31
+      "source": "capitalgazette.com",
+      "n": 2,
+      "avg_tone": -1.078
     },
     {
-      "source": "goderichsignalstar.com",
+      "source": "houstonpress.com",
       "n": 1,
-      "avg_tone": 2.348
-    },
-    {
-      "source": "wetaskiwintimes.com",
-      "n": 1,
-      "avg_tone": 2.348
-    },
-    {
-      "source": "srilankasource.com",
-      "n": 1,
-      "avg_tone": 1.51
-    },
-    {
-      "source": "whec.com",
-      "n": 1,
-      "avg_tone": 0.91
+      "avg_tone": 2.833
     }
   ],
   "top_themes": [
     {
+      "theme": "TAX_ETHNICITY_VENEZUELAN",
+      "n": 245
+    },
+    {
+      "theme": "BORDER",
+      "n": 148
+    },
+    {
+      "theme": "TAX_ETHNICITY_VENEZUELANS",
+      "n": 142
+    },
+    {
+      "theme": "TAX_WORLDMAMMALS_BEAR",
+      "n": 139
+    },
+    {
+      "theme": "TAX_WORLDMAMMALS_BEARS",
+      "n": 136
+    },
+    {
       "theme": "TAX_FNCACT_CHEF",
-      "n": 115
+      "n": 133
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 85
+      "theme": "IMMIGRATION",
+      "n": 127
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 74
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 127
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 61
+      "theme": "WB_2670_JOBS",
+      "n": 120
     },
     {
-      "theme": "EDUCATION",
-      "n": 57
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 117
     },
     {
-      "theme": "MEDICAL",
-      "n": 57
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 117
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 50
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 117
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 112
+    },
+    {
+      "theme": "AFFECT",
+      "n": 103
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 48
-    },
-    {
-      "theme": "URBAN",
-      "n": 45
-    },
-    {
-      "theme": "TAX_FNCACT_MANAGER",
-      "n": 44
-    },
-    {
-      "theme": "TAX_ETHNICITY_CHINESE",
-      "n": 37
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_CHINESE",
-      "n": 37
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 36
-    },
-    {
-      "theme": "TAX_FNCACT_CHEFS",
-      "n": 33
-    },
-    {
-      "theme": "WB_1406_DISEASES",
-      "n": 33
+      "n": 103
     }
   ]
 }
