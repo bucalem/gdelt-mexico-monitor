@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-18T18:24:54.147011+00:00",
-  "rows_total_scanned_last_run": 4670,
-  "rows_mexico_last_run": 65,
-  "overall_avg_tone_4h": -0.098,
+  "generated_at": "2026-09-18T21:03:33.752557+00:00",
+  "rows_total_scanned_last_run": 1209,
+  "rows_mexico_last_run": 9,
+  "overall_avg_tone_4h": -0.131,
   "timeline": [
-    {
-      "time": "2026-09-15T19:15",
-      "avg_tone": -2.314,
-      "n_articles": 31
-    },
-    {
-      "time": "2026-09-15T19:30",
-      "avg_tone": -1.057,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-09-15T19:45",
-      "avg_tone": 0.342,
-      "n_articles": 21
-    },
-    {
-      "time": "2026-09-15T20:00",
-      "avg_tone": 0.3,
-      "n_articles": 40
-    },
     {
       "time": "2026-09-15T22:00",
       "avg_tone": -1.773,
@@ -363,145 +343,120 @@
       "time": "2026-09-18T18:15",
       "avg_tone": -1.143,
       "n_articles": 29
+    },
+    {
+      "time": "2026-09-18T20:15",
+      "avg_tone": -0.249,
+      "n_articles": 9
     }
   ],
   "top_sources": [
     {
-      "source": "elpais.com",
-      "n": 5,
-      "avg_tone": -1.961
-    },
-    {
-      "source": "riviera-maya-news.com",
-      "n": 4,
-      "avg_tone": -1.211
-    },
-    {
-      "source": "dailycamera.com",
-      "n": 3,
-      "avg_tone": -0.241
-    },
-    {
-      "source": "bozemandailychronicle.com",
-      "n": 2,
-      "avg_tone": -0.411
-    },
-    {
-      "source": "theepochtimes.com",
-      "n": 2,
-      "avg_tone": -4.636
-    },
-    {
-      "source": "republicanherald.com",
-      "n": 2,
-      "avg_tone": -1.494
-    },
-    {
-      "source": "clickorlando.com",
-      "n": 2,
-      "avg_tone": -0.292
-    },
-    {
-      "source": "shankennewsdaily.com",
-      "n": 2,
-      "avg_tone": 0.617
-    },
-    {
-      "source": "record-bee.com",
-      "n": 2,
-      "avg_tone": -1.494
-    },
-    {
-      "source": "wokv.com",
-      "n": 2,
-      "avg_tone": -0.398
-    },
-    {
-      "source": "sonomanews.com",
-      "n": 2,
-      "avg_tone": 5.013
-    },
-    {
-      "source": "newswise.com",
+      "source": "westseattleblog.com",
       "n": 1,
-      "avg_tone": 8.202
+      "avg_tone": 5.607
     },
     {
-      "source": "winnipegfreepress.com",
+      "source": "indiagazette.com",
       "n": 1,
-      "avg_tone": -2.203
+      "avg_tone": 2.505
     },
     {
-      "source": "insidermonkey.com",
+      "source": "canoncitydailyrecord.com",
       "n": 1,
-      "avg_tone": 2.96
+      "avg_tone": -0.561
     },
     {
-      "source": "medicinehatnews.com",
+      "source": "hollywoodreporter.com",
       "n": 1,
-      "avg_tone": 1.399
+      "avg_tone": -1.163
+    },
+    {
+      "source": "americanthinker.com",
+      "n": 1,
+      "avg_tone": -1.395
+    },
+    {
+      "source": "koolfmabilene.com",
+      "n": 1,
+      "avg_tone": 3.32
+    },
+    {
+      "source": "theage.com.au",
+      "n": 1,
+      "avg_tone": -1.299
+    },
+    {
+      "source": "brisbanetimes.com.au",
+      "n": 1,
+      "avg_tone": -1.299
+    },
+    {
+      "source": "surinenglish.com",
+      "n": 1,
+      "avg_tone": -7.958
     }
   ],
   "top_themes": [
     {
-      "theme": "BORDER",
-      "n": 161
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 10
+    },
+    {
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 10
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 10
+    },
+    {
+      "theme": "TAX_FNCACT_FATHER",
+      "n": 10
+    },
+    {
+      "theme": "ENV_OIL",
+      "n": 9
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 8
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 8
+    },
+    {
+      "theme": "MEDIA_MSM",
+      "n": 7
     },
     {
       "theme": "EDUCATION",
-      "n": 82
+      "n": 7
     },
     {
-      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
-      "n": 65
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 65
+      "theme": "TAX_WORLDLANGUAGES_RUSSIA",
+      "n": 6
     },
     {
       "theme": "GENERAL_GOVERNMENT",
-      "n": 57
+      "n": 6
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 6
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 6
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 6
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 51
-    },
-    {
-      "theme": "LEADER",
-      "n": 50
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 47
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 45
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 42
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 42
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 41
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 41
-    },
-    {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 41
-    },
-    {
-      "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
-      "n": 41
+      "n": 6
     }
   ]
 }
