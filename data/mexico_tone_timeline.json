@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-09-19T21:33:42.891815+00:00",
-  "rows_total_scanned_last_run": 2329,
-  "rows_mexico_last_run": 38,
-  "overall_avg_tone_4h": 2.069,
+  "generated_at": "2026-09-19T23:31:41.024276+00:00",
+  "rows_total_scanned_last_run": 1816,
+  "rows_mexico_last_run": 50,
+  "overall_avg_tone_4h": 2.453,
   "timeline": [
-    {
-      "time": "2026-09-16T21:45",
-      "avg_tone": -0.713,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-09-16T23:15",
-      "avg_tone": -2.19,
-      "n_articles": 19
-    },
     {
       "time": "2026-09-17T00:00",
       "avg_tone": -4.258,
@@ -358,145 +348,165 @@
       "time": "2026-09-19T21:30",
       "avg_tone": -0.222,
       "n_articles": 6
+    },
+    {
+      "time": "2026-09-19T22:45",
+      "avg_tone": 2.379,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-09-19T23:00",
+      "avg_tone": 0.885,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-09-19T23:15",
+      "avg_tone": 3.366,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-09-19T23:30",
+      "avg_tone": 2.735,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 3,
-      "avg_tone": 0.753
-    },
-    {
-      "source": "inquirer.com",
+      "source": "collider.com",
       "n": 2,
-      "avg_tone": -3.46
+      "avg_tone": -2.777
     },
     {
-      "source": "dailypolitical.com",
+      "source": "gringogazette.com",
       "n": 2,
-      "avg_tone": 4.469
+      "avg_tone": 2.175
     },
     {
-      "source": "tickerreport.com",
-      "n": 2,
-      "avg_tone": 4.196
-    },
-    {
-      "source": "ksl.com",
+      "source": "abc17news.com",
       "n": 1,
-      "avg_tone": 4.712
+      "avg_tone": 2.584
     },
     {
-      "source": "israelnationalnews.com",
+      "source": "gloucesteradvocate.com.au",
       "n": 1,
-      "avg_tone": -6.618
+      "avg_tone": 3.543
     },
     {
-      "source": "lowkickmma.com",
+      "source": "camdencourier.com.au",
       "n": 1,
-      "avg_tone": 1.211
+      "avg_tone": 3.543
     },
     {
-      "source": "whsm.com",
+      "source": "goulburnpost.com.au",
       "n": 1,
-      "avg_tone": -0.346
+      "avg_tone": 3.543
     },
     {
-      "source": "femalefirst.co.uk",
+      "source": "theconservativetreehouse.com",
       "n": 1,
-      "avg_tone": -3.567
+      "avg_tone": 0.122
     },
     {
-      "source": "nbcsandiego.com",
+      "source": "dailyliberal.com.au",
       "n": 1,
-      "avg_tone": 3.275
+      "avg_tone": 3.543
     },
     {
-      "source": "reporterherald.com",
+      "source": "naroomanewsonline.com.au",
       "n": 1,
-      "avg_tone": -0.576
+      "avg_tone": 3.543
     },
     {
-      "source": "wltribune.com",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "dailybreeze.com",
+      "source": "presstelegram.com",
       "n": 1,
       "avg_tone": 2.168
     },
     {
-      "source": "dualshockers.com",
+      "source": "bendigoadvertiser.com.au",
       "n": 1,
-      "avg_tone": 1.447
+      "avg_tone": 3.543
     },
     {
-      "source": "novinite.com",
+      "source": "hardenexpress.com.au",
       "n": 1,
-      "avg_tone": 0.249
+      "avg_tone": 3.543
+    },
+    {
+      "source": "whittierdailynews.com",
+      "n": 1,
+      "avg_tone": 2.168
+    },
+    {
+      "source": "nextbigfuture.com",
+      "n": 1,
+      "avg_tone": 0.166
+    },
+    {
+      "source": "northerndailyleader.com.au",
+      "n": 1,
+      "avg_tone": 3.543
     }
   ],
   "top_themes": [
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 44
-    },
-    {
-      "theme": "LEADER",
-      "n": 43
-    },
-    {
-      "theme": "TAX_FNCACT_MAN",
-      "n": 36
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 31
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 30
-    },
-    {
-      "theme": "TAX_WORLDFISH_DORADOS",
-      "n": 30
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 25
-    },
-    {
       "theme": "WB_135_TRANSPORT",
-      "n": 25
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 24
+      "n": 385
     },
     {
       "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 23
+      "n": 379
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 22
+      "theme": "TAX_FNCACT_MAN",
+      "n": 363
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 22
+      "theme": "WB_167_PORTS",
+      "n": 350
     },
     {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 22
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 143
     },
     {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 22
+      "theme": "TAX_FNCACT_GUIDE",
+      "n": 75
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 62
     },
     {
       "theme": "WB_168_ROADS_AND_HIGHWAYS",
-      "n": 22
+      "n": 54
+    },
+    {
+      "theme": "WB_1809_HIGHWAYS",
+      "n": 54
+    },
+    {
+      "theme": "GEN_HOLIDAY",
+      "n": 50
+    },
+    {
+      "theme": "TAX_WORLDREPTILES_CROCODILES",
+      "n": 50
+    },
+    {
+      "theme": "KILL",
+      "n": 45
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
+      "n": 39
+    },
+    {
+      "theme": "SOC_GENERALCRIME",
+      "n": 38
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 35
     }
   ]
 }
