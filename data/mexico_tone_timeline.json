@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-19T17:15:21.824428+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -0.253,
+  "generated_at": "2026-09-19T19:25:29.394332+00:00",
+  "rows_total_scanned_last_run": 2423,
+  "rows_mexico_last_run": 143,
+  "overall_avg_tone_4h": 2.023,
   "timeline": [
-    {
-      "time": "2026-09-16T18:15",
-      "avg_tone": -0.917,
-      "n_articles": 35
-    },
-    {
-      "time": "2026-09-16T18:30",
-      "avg_tone": -0.536,
-      "n_articles": 27
-    },
-    {
-      "time": "2026-09-16T18:45",
-      "avg_tone": -0.064,
-      "n_articles": 30
-    },
-    {
-      "time": "2026-09-16T19:00",
-      "avg_tone": -0.835,
-      "n_articles": 38
-    },
     {
       "time": "2026-09-16T21:00",
       "avg_tone": 0.745,
@@ -348,8 +328,165 @@
       "time": "2026-09-19T14:00",
       "avg_tone": -1.134,
       "n_articles": 7
+    },
+    {
+      "time": "2026-09-19T18:45",
+      "avg_tone": 1.834,
+      "n_articles": 30
+    },
+    {
+      "time": "2026-09-19T19:00",
+      "avg_tone": 4.087,
+      "n_articles": 36
+    },
+    {
+      "time": "2026-09-19T19:15",
+      "avg_tone": 3.745,
+      "n_articles": 43
+    },
+    {
+      "time": "2026-09-19T19:30",
+      "avg_tone": 4.119,
+      "n_articles": 34
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "iheart.com",
+      "n": 89,
+      "avg_tone": 6.301
+    },
+    {
+      "source": "riotimesonline.com",
+      "n": 3,
+      "avg_tone": 0.599
+    },
+    {
+      "source": "sandiegomagazine.com",
+      "n": 3,
+      "avg_tone": 2.184
+    },
+    {
+      "source": "capitalgazette.com",
+      "n": 2,
+      "avg_tone": 0.467
+    },
+    {
+      "source": "theconservativetreehouse.com",
+      "n": 2,
+      "avg_tone": 0.122
+    },
+    {
+      "source": "pentictonherald.ca",
+      "n": 2,
+      "avg_tone": -1.783
+    },
+    {
+      "source": "abcnews.com",
+      "n": 2,
+      "avg_tone": -0.641
+    },
+    {
+      "source": "breitbart.com",
+      "n": 1,
+      "avg_tone": -11.234
+    },
+    {
+      "source": "wrestlinginc.com",
+      "n": 1,
+      "avg_tone": 2.113
+    },
+    {
+      "source": "torontosun.com",
+      "n": 1,
+      "avg_tone": 1.157
+    },
+    {
+      "source": "truthout.org",
+      "n": 1,
+      "avg_tone": -0.629
+    },
+    {
+      "source": "kcbd.com",
+      "n": 1,
+      "avg_tone": -2.036
+    },
+    {
+      "source": "canberratimes.com.au",
+      "n": 1,
+      "avg_tone": 1.532
+    },
+    {
+      "source": "bmmagazine.co.uk",
+      "n": 1,
+      "avg_tone": 4.459
+    },
+    {
+      "source": "thepeninsulaqatar.com",
+      "n": 1,
+      "avg_tone": 4.762
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 209
+    },
+    {
+      "theme": "TAX_FNCACT_SINGER",
+      "n": 183
+    },
+    {
+      "theme": "TAX_WORLDMAMMALS_WOLF",
+      "n": 178
+    },
+    {
+      "theme": "EPU_POLICY_WHITE_HOUSE",
+      "n": 127
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 110
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 107
+    },
+    {
+      "theme": "LEADER",
+      "n": 103
+    },
+    {
+      "theme": "WB_135_TRANSPORT",
+      "n": 94
+    },
+    {
+      "theme": "MEDIA_MSM",
+      "n": 90
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_TAKI_TAKI",
+      "n": 89
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_BARDI",
+      "n": 89
+    },
+    {
+      "theme": "TAX_WORLDMAMMALS_ZEBRA",
+      "n": 89
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 87
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 87
+    },
+    {
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 86
+    }
+  ]
 }
