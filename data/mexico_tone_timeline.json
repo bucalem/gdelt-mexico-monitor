@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-09-19T23:31:41.024276+00:00",
-  "rows_total_scanned_last_run": 1816,
-  "rows_mexico_last_run": 50,
-  "overall_avg_tone_4h": 2.453,
+  "generated_at": "2026-09-20T01:37:19.731779+00:00",
+  "rows_total_scanned_last_run": 900,
+  "rows_mexico_last_run": 20,
+  "overall_avg_tone_4h": 2.378,
   "timeline": [
-    {
-      "time": "2026-09-17T00:00",
-      "avg_tone": -4.258,
-      "n_articles": 21
-    },
     {
       "time": "2026-09-17T03:15",
       "avg_tone": -1.317,
@@ -368,145 +363,155 @@
       "time": "2026-09-19T23:30",
       "avg_tone": 2.735,
       "n_articles": 13
+    },
+    {
+      "time": "2026-09-20T01:00",
+      "avg_tone": 0.311,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-09-20T01:15",
+      "avg_tone": 2.091,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "collider.com",
-      "n": 2,
-      "avg_tone": -2.777
+      "source": "koat.com",
+      "n": 3,
+      "avg_tone": 0.605
     },
     {
-      "source": "gringogazette.com",
-      "n": 2,
-      "avg_tone": 2.175
-    },
-    {
-      "source": "abc17news.com",
-      "n": 1,
-      "avg_tone": 2.584
-    },
-    {
-      "source": "gloucesteradvocate.com.au",
+      "source": "greatlakesadvocate.com.au",
       "n": 1,
       "avg_tone": 3.543
     },
     {
-      "source": "camdencourier.com.au",
+      "source": "krgv.com",
+      "n": 1,
+      "avg_tone": -1.861
+    },
+    {
+      "source": "penbaypilot.com",
+      "n": 1,
+      "avg_tone": -2.162
+    },
+    {
+      "source": "easternriverinachronicle.com.au",
       "n": 1,
       "avg_tone": 3.543
     },
     {
-      "source": "goulburnpost.com.au",
+      "source": "blayneychronicle.com.au",
       "n": 1,
       "avg_tone": 3.543
     },
     {
-      "source": "theconservativetreehouse.com",
-      "n": 1,
-      "avg_tone": 0.122
-    },
-    {
-      "source": "dailyliberal.com.au",
+      "source": "areanews.com.au",
       "n": 1,
       "avg_tone": 3.543
     },
     {
-      "source": "naroomanewsonline.com.au",
+      "source": "redlandcitybulletin.com.au",
+      "n": 1,
+      "avg_tone": 3.035
+    },
+    {
+      "source": "bluemountainsgazette.com.au",
       "n": 1,
       "avg_tone": 3.543
     },
     {
-      "source": "presstelegram.com",
-      "n": 1,
-      "avg_tone": 2.168
-    },
-    {
-      "source": "bendigoadvertiser.com.au",
+      "source": "theadvocate.com.au",
       "n": 1,
       "avg_tone": 3.543
     },
     {
-      "source": "hardenexpress.com.au",
+      "source": "straitstimes.com",
+      "n": 1,
+      "avg_tone": -1.117
+    },
+    {
+      "source": "newpol.org",
+      "n": 1,
+      "avg_tone": -5.509
+    },
+    {
+      "source": "hayspost.com",
+      "n": 1,
+      "avg_tone": -1.852
+    },
+    {
+      "source": "northweststar.com.au",
       "n": 1,
       "avg_tone": 3.543
     },
     {
-      "source": "whittierdailynews.com",
+      "source": "netnewsledger.com",
       "n": 1,
-      "avg_tone": 2.168
-    },
-    {
-      "source": "nextbigfuture.com",
-      "n": 1,
-      "avg_tone": 0.166
-    },
-    {
-      "source": "northerndailyleader.com.au",
-      "n": 1,
-      "avg_tone": 3.543
+      "avg_tone": -5.145
     }
   ],
   "top_themes": [
     {
+      "theme": "TAX_FNCACT_MAN",
+      "n": 141
+    },
+    {
       "theme": "WB_135_TRANSPORT",
-      "n": 385
+      "n": 139
     },
     {
       "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 379
-    },
-    {
-      "theme": "TAX_FNCACT_MAN",
-      "n": 363
+      "n": 139
     },
     {
       "theme": "WB_167_PORTS",
-      "n": 350
+      "n": 139
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 143
+      "n": 51
+    },
+    {
+      "theme": "LEADER",
+      "n": 32
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 32
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 32
     },
     {
       "theme": "TAX_FNCACT_GUIDE",
-      "n": 75
+      "n": 29
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 62
-    },
-    {
-      "theme": "WB_168_ROADS_AND_HIGHWAYS",
-      "n": 54
-    },
-    {
-      "theme": "WB_1809_HIGHWAYS",
-      "n": 54
-    },
-    {
-      "theme": "GEN_HOLIDAY",
-      "n": 50
+      "theme": "MEDIA_MSM",
+      "n": 24
     },
     {
       "theme": "TAX_WORLDREPTILES_CROCODILES",
-      "n": 50
+      "n": 20
     },
     {
-      "theme": "KILL",
-      "n": 45
+      "theme": "GEN_HOLIDAY",
+      "n": 20
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
-      "n": 39
+      "theme": "SECURITY_SERVICES",
+      "n": 19
     },
     {
-      "theme": "SOC_GENERALCRIME",
-      "n": 38
+      "theme": "TAX_FNCACT_POLICE",
+      "n": 19
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 35
+      "theme": "EPU_POLICY_WHITE_HOUSE",
+      "n": 16
     }
   ]
 }
