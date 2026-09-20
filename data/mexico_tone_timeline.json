@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-20T12:05:35.910248+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": 2.289,
+  "generated_at": "2026-09-20T16:00:42.441122+00:00",
+  "rows_total_scanned_last_run": 2643,
+  "rows_mexico_last_run": 26,
+  "overall_avg_tone_4h": 0.403,
   "timeline": [
-    {
-      "time": "2026-09-17T13:30",
-      "avg_tone": 0.213,
-      "n_articles": 19
-    },
-    {
-      "time": "2026-09-17T13:45",
-      "avg_tone": 0.714,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-09-17T14:00",
-      "avg_tone": -0.506,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-09-17T14:15",
-      "avg_tone": 2.289,
-      "n_articles": 16
-    },
     {
       "time": "2026-09-17T17:45",
       "avg_tone": -1.501,
@@ -348,8 +328,165 @@
       "time": "2026-09-20T07:00",
       "avg_tone": -0.109,
       "n_articles": 6
+    },
+    {
+      "time": "2026-09-20T15:15",
+      "avg_tone": -0.916,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-09-20T15:30",
+      "avg_tone": -3.14,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-09-20T15:45",
+      "avg_tone": -1.613,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-09-20T16:00",
+      "avg_tone": -0.443,
+      "n_articles": 4
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "slashfilm.com",
+      "n": 2,
+      "avg_tone": -5.431
+    },
+    {
+      "source": "aol.com",
+      "n": 2,
+      "avg_tone": -2.612
+    },
+    {
+      "source": "latintimes.com",
+      "n": 2,
+      "avg_tone": 2.196
+    },
+    {
+      "source": "jonathanturley.org",
+      "n": 2,
+      "avg_tone": -3.778
+    },
+    {
+      "source": "rawstory.com",
+      "n": 1,
+      "avg_tone": -2.629
+    },
+    {
+      "source": "netflixlife.com",
+      "n": 1,
+      "avg_tone": 3.785
+    },
+    {
+      "source": "ynetnews.com",
+      "n": 1,
+      "avg_tone": -5.304
+    },
+    {
+      "source": "fool.com",
+      "n": 1,
+      "avg_tone": 2.375
+    },
+    {
+      "source": "krmg.com",
+      "n": 1,
+      "avg_tone": -3.318
+    },
+    {
+      "source": "weny.com",
+      "n": 1,
+      "avg_tone": -3.465
+    },
+    {
+      "source": "fultonsun.com",
+      "n": 1,
+      "avg_tone": -2.662
+    },
+    {
+      "source": "mymotherlode.com",
+      "n": 1,
+      "avg_tone": -3.465
+    },
+    {
+      "source": "niagarafallsreview.ca",
+      "n": 1,
+      "avg_tone": 0.461
+    },
+    {
+      "source": "erienewsnow.com",
+      "n": 1,
+      "avg_tone": -3.465
+    },
+    {
+      "source": "redriverradio.org",
+      "n": 1,
+      "avg_tone": 0.0
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 45
+    },
+    {
+      "theme": "EPU_POLICY_WHITE_HOUSE",
+      "n": 30
+    },
+    {
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 29
+    },
+    {
+      "theme": "NATURAL_DISASTER_TROPICAL_STORM",
+      "n": 26
+    },
+    {
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 26
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 20
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 19
+    },
+    {
+      "theme": "TAX_ETHNICITY_TURKISH",
+      "n": 19
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_TURKISH",
+      "n": 19
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 18
+    },
+    {
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 18
+    },
+    {
+      "theme": "LEADER",
+      "n": 17
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 17
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 17
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 16
+    }
+  ]
 }
