@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-09-20T21:04:01.967848+00:00",
-  "rows_total_scanned_last_run": 1184,
-  "rows_mexico_last_run": 11,
-  "overall_avg_tone_4h": -0.46,
+  "generated_at": "2026-09-20T23:13:02.846415+00:00",
+  "rows_total_scanned_last_run": 2345,
+  "rows_mexico_last_run": 51,
+  "overall_avg_tone_4h": -1.41,
   "timeline": [
-    {
-      "time": "2026-09-17T21:15",
-      "avg_tone": 0.308,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-09-17T21:30",
-      "avg_tone": 0.88,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-09-17T23:00",
-      "avg_tone": 0.899,
-      "n_articles": 9
-    },
     {
       "time": "2026-09-17T23:15",
       "avg_tone": -0.462,
@@ -348,115 +333,165 @@
       "time": "2026-09-20T20:30",
       "avg_tone": -0.158,
       "n_articles": 5
+    },
+    {
+      "time": "2026-09-20T22:30",
+      "avg_tone": -1.192,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-09-20T22:45",
+      "avg_tone": -1.602,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-09-20T23:00",
+      "avg_tone": -1.679,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-09-20T23:15",
+      "avg_tone": -2.871,
+      "n_articles": 17
     }
   ],
   "top_sources": [
     {
-      "source": "tickerreport.com",
+      "source": "kawc.org",
       "n": 2,
-      "avg_tone": 1.277
+      "avg_tone": -0.881
     },
     {
-      "source": "jonathanturley.org",
-      "n": 2,
-      "avg_tone": -3.778
-    },
-    {
-      "source": "nypost.com",
+      "source": "freemalaysiatoday.com",
       "n": 1,
-      "avg_tone": -2.013
+      "avg_tone": 2.349
     },
     {
-      "source": "ksat.com",
+      "source": "ksbw.com",
       "n": 1,
-      "avg_tone": -2.956
+      "avg_tone": -3.774
     },
     {
-      "source": "yahoo.com",
+      "source": "kten.com",
       "n": 1,
-      "avg_tone": 1.626
+      "avg_tone": -3.805
     },
     {
-      "source": "caribbeanherald.com",
+      "source": "wsiu.org",
       "n": 1,
-      "avg_tone": 0.163
+      "avg_tone": -4.968
     },
     {
-      "source": "digitaljournal.com",
+      "source": "nbclosangeles.com",
       "n": 1,
-      "avg_tone": 0.31
+      "avg_tone": 1.887
     },
     {
-      "source": "punchng.com",
+      "source": "knpr.org",
       "n": 1,
-      "avg_tone": 1.565
+      "avg_tone": -4.968
     },
     {
-      "source": "aol.com",
+      "source": "wuky.org",
       "n": 1,
-      "avg_tone": -0.412
+      "avg_tone": -4.968
+    },
+    {
+      "source": "publicradiotulsa.org",
+      "n": 1,
+      "avg_tone": -4.968
+    },
+    {
+      "source": "wmur.com",
+      "n": 1,
+      "avg_tone": -3.774
+    },
+    {
+      "source": "kuaf.com",
+      "n": 1,
+      "avg_tone": -4.968
+    },
+    {
+      "source": "wgauradio.com",
+      "n": 1,
+      "avg_tone": -2.929
+    },
+    {
+      "source": "upr.org",
+      "n": 1,
+      "avg_tone": -4.968
+    },
+    {
+      "source": "wdbo.com",
+      "n": 1,
+      "avg_tone": -2.929
+    },
+    {
+      "source": "tspr.org",
+      "n": 1,
+      "avg_tone": -4.968
     }
   ],
   "top_themes": [
     {
-      "theme": "EPU_POLICY_WHITE_HOUSE",
-      "n": 28
+      "theme": "WB_2670_JOBS",
+      "n": 110
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 25
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 104
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 104
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 103
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 102
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 102
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 100
+    },
+    {
+      "theme": "TAX_FNCACT_AGENTS",
+      "n": 98
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 25
-    },
-    {
-      "theme": "LEADER",
-      "n": 23
-    },
-    {
-      "theme": "TAX_ETHNICITY_FRENCH",
-      "n": 23
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_FRENCH",
-      "n": 23
-    },
-    {
-      "theme": "ECON_STOCKMARKET",
-      "n": 20
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 18
-    },
-    {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 9
-    },
-    {
-      "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 9
-    },
-    {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 9
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 8
+      "n": 69
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 8
+      "n": 64
     },
     {
-      "theme": "UNGP_POLITICAL_FREEDOMS",
-      "n": 8
+      "theme": "LEADER",
+      "n": 64
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 7
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 62
+    },
+    {
+      "theme": "KILL",
+      "n": 60
+    },
+    {
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 53
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 47
     }
   ]
 }
