@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-09-20T18:44:51.659704+00:00",
-  "rows_total_scanned_last_run": 2870,
-  "rows_mexico_last_run": 38,
-  "overall_avg_tone_4h": -0.032,
+  "generated_at": "2026-09-20T21:04:01.967848+00:00",
+  "rows_total_scanned_last_run": 1184,
+  "rows_mexico_last_run": 11,
+  "overall_avg_tone_4h": -0.46,
   "timeline": [
-    {
-      "time": "2026-09-17T20:45",
-      "avg_tone": -1.108,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-09-17T21:00",
-      "avg_tone": 0.986,
-      "n_articles": 19
-    },
     {
       "time": "2026-09-17T21:15",
       "avg_tone": 0.308,
@@ -348,145 +338,125 @@
       "time": "2026-09-20T18:45",
       "avg_tone": 0.67,
       "n_articles": 12
+    },
+    {
+      "time": "2026-09-20T20:15",
+      "avg_tone": -0.988,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-09-20T20:30",
+      "avg_tone": -0.158,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
-      "source": "dailygazette.com",
-      "n": 4,
-      "avg_tone": 0.152
-    },
-    {
-      "source": "dailydemocrat.com",
-      "n": 2,
-      "avg_tone": 2.819
-    },
-    {
-      "source": "cubaheadlines.com",
-      "n": 2,
-      "avg_tone": -1.964
-    },
-    {
-      "source": "elpais.com",
-      "n": 2,
-      "avg_tone": 0.613
-    },
-    {
-      "source": "calgarysun.com",
-      "n": 2,
-      "avg_tone": 0.59
-    },
-    {
-      "source": "cbs4local.com",
-      "n": 2,
-      "avg_tone": -4.464
-    },
-    {
-      "source": "yubanet.com",
-      "n": 1,
-      "avg_tone": 4.37
-    },
-    {
-      "source": "theprovince.com",
-      "n": 1,
-      "avg_tone": 0.105
-    },
-    {
-      "source": "starsandstripesfc.com",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "independent.co.uk",
-      "n": 1,
-      "avg_tone": -0.182
-    },
-    {
-      "source": "dailycaller.com",
-      "n": 1,
-      "avg_tone": -2.958
-    },
-    {
-      "source": "techtimes.com",
-      "n": 1,
-      "avg_tone": -2.464
-    },
-    {
       "source": "tickerreport.com",
-      "n": 1,
-      "avg_tone": 1.8
+      "n": 2,
+      "avg_tone": 1.277
     },
     {
-      "source": "postregister.com",
-      "n": 1,
-      "avg_tone": -3.465
+      "source": "jonathanturley.org",
+      "n": 2,
+      "avg_tone": -3.778
     },
     {
-      "source": "taosnews.com",
+      "source": "nypost.com",
       "n": 1,
-      "avg_tone": -0.63
+      "avg_tone": -2.013
+    },
+    {
+      "source": "ksat.com",
+      "n": 1,
+      "avg_tone": -2.956
+    },
+    {
+      "source": "yahoo.com",
+      "n": 1,
+      "avg_tone": 1.626
+    },
+    {
+      "source": "caribbeanherald.com",
+      "n": 1,
+      "avg_tone": 0.163
+    },
+    {
+      "source": "digitaljournal.com",
+      "n": 1,
+      "avg_tone": 0.31
+    },
+    {
+      "source": "punchng.com",
+      "n": 1,
+      "avg_tone": 1.565
+    },
+    {
+      "source": "aol.com",
+      "n": 1,
+      "avg_tone": -0.412
     }
   ],
   "top_themes": [
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 265
+      "theme": "EPU_POLICY_WHITE_HOUSE",
+      "n": 28
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 84
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 25
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 25
     },
     {
       "theme": "LEADER",
-      "n": 63
+      "n": 23
+    },
+    {
+      "theme": "TAX_ETHNICITY_FRENCH",
+      "n": 23
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_FRENCH",
+      "n": 23
+    },
+    {
+      "theme": "ECON_STOCKMARKET",
+      "n": 20
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 18
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 9
+    },
+    {
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 9
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 9
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 54
+      "n": 8
     },
     {
-      "theme": "EDUCATION",
-      "n": 48
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 8
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 41
+      "theme": "UNGP_POLITICAL_FREEDOMS",
+      "n": 8
     },
     {
-      "theme": "ENV_CLIMATECHANGE",
-      "n": 33
-    },
-    {
-      "theme": "UNGP_CLIMATE_CHANGE_ACTION",
-      "n": 33
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 28
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
-      "n": 28
-    },
-    {
-      "theme": "NATURAL_DISASTER_TROPICAL_STORM",
-      "n": 28
-    },
-    {
-      "theme": "CRISISLEX_O01_WEATHER",
-      "n": 28
-    },
-    {
-      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
-      "n": 27
-    },
-    {
-      "theme": "WB_590_ECOSYSTEMS",
-      "n": 27
-    },
-    {
-      "theme": "WB_1777_FORESTS",
-      "n": 26
+      "theme": "USPEC_POLICY1",
+      "n": 7
     }
   ]
 }
