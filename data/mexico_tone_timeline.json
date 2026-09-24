@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-24T17:11:33.275611+00:00",
-  "rows_total_scanned_last_run": 6562,
-  "rows_mexico_last_run": 106,
-  "overall_avg_tone_4h": -1.271,
+  "generated_at": "2026-09-24T20:29:05.007782+00:00",
+  "rows_total_scanned_last_run": 6128,
+  "rows_mexico_last_run": 105,
+  "overall_avg_tone_4h": -1.647,
   "timeline": [
-    {
-      "time": "2026-09-21T18:00",
-      "avg_tone": -3.101,
-      "n_articles": 25
-    },
-    {
-      "time": "2026-09-21T18:15",
-      "avg_tone": -1.302,
-      "n_articles": 23
-    },
-    {
-      "time": "2026-09-21T18:30",
-      "avg_tone": -1.778,
-      "n_articles": 35
-    },
-    {
-      "time": "2026-09-21T18:45",
-      "avg_tone": -0.824,
-      "n_articles": 38
-    },
     {
       "time": "2026-09-21T21:30",
       "avg_tone": -2.167,
@@ -333,145 +313,165 @@
       "time": "2026-09-24T17:15",
       "avg_tone": 0.277,
       "n_articles": 30
+    },
+    {
+      "time": "2026-09-24T19:45",
+      "avg_tone": -1.162,
+      "n_articles": 22
+    },
+    {
+      "time": "2026-09-24T20:00",
+      "avg_tone": -1.805,
+      "n_articles": 29
+    },
+    {
+      "time": "2026-09-24T20:15",
+      "avg_tone": -1.412,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-09-24T20:30",
+      "avg_tone": -2.771,
+      "n_articles": 28
     }
   ],
   "top_sources": [
     {
+      "source": "dailygazette.com",
+      "n": 3,
+      "avg_tone": -3.328
+    },
+    {
       "source": "aol.com",
       "n": 3,
-      "avg_tone": -1.157
+      "avg_tone": -0.731
     },
     {
-      "source": "nme.com",
+      "source": "breitbart.com",
+      "n": 3,
+      "avg_tone": -4.727
+    },
+    {
+      "source": "kaieteurnewsonline.com",
       "n": 2,
-      "avg_tone": 1.733
+      "avg_tone": -2.758
     },
     {
-      "source": "webwire.com",
+      "source": "mynewsla.com",
       "n": 2,
-      "avg_tone": 4.954
+      "avg_tone": -6.894
     },
     {
-      "source": "boredpanda.com",
+      "source": "abc7news.com",
       "n": 2,
-      "avg_tone": -2.703
+      "avg_tone": -1.648
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "washingtonexaminer.com",
       "n": 2,
-      "avg_tone": 0.339
+      "avg_tone": -2.979
     },
     {
-      "source": "denverpost.com",
+      "source": "ksl.com",
       "n": 2,
-      "avg_tone": -4.478
+      "avg_tone": -4.913
     },
     {
-      "source": "rustourismnews.com",
+      "source": "beijingbulletin.com",
       "n": 2,
-      "avg_tone": -0.175
+      "avg_tone": 3.722
     },
     {
-      "source": "riotimesonline.com",
+      "source": "bakersfieldnow.com",
       "n": 2,
-      "avg_tone": -0.224
+      "avg_tone": -4.573
     },
     {
-      "source": "dailylocal.com",
+      "source": "thetimes-tribune.com",
       "n": 2,
-      "avg_tone": -1.055
+      "avg_tone": -1.775
     },
     {
-      "source": "mainlinemedianews.com",
+      "source": "cp24.com",
       "n": 2,
-      "avg_tone": -1.055
+      "avg_tone": -4.505
     },
     {
-      "source": "ktsa.com",
-      "n": 2,
-      "avg_tone": -5.614
-    },
-    {
-      "source": "theepochtimes.com",
-      "n": 2,
-      "avg_tone": -1.427
-    },
-    {
-      "source": "fox4news.com",
-      "n": 2,
-      "avg_tone": -6.517
-    },
-    {
-      "source": "mendocinobeacon.com",
-      "n": 2,
-      "avg_tone": -0.828
-    },
-    {
-      "source": "webindia123.com",
+      "source": "wboc.com",
       "n": 1,
-      "avg_tone": 3.531
+      "avg_tone": -5.835
+    },
+    {
+      "source": "times-standard.com",
+      "n": 1,
+      "avg_tone": -4.217
+    },
+    {
+      "source": "wkzo.com",
+      "n": 1,
+      "avg_tone": -4.775
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_697_SOCIAL_PROTECTION_AND_LABOR",
-      "n": 144
-    },
-    {
-      "theme": "WB_856_WAGES",
-      "n": 134
-    },
-    {
-      "theme": "WB_1654_ACTIVE_LABOR_MARKET_POLICIES",
-      "n": 134
-    },
-    {
-      "theme": "WB_855_LABOR_MARKETS",
-      "n": 134
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 120
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 108
-    },
-    {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 103
+      "n": 174
+    },
+    {
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 146
     },
     {
       "theme": "LEADER",
-      "n": 98
+      "n": 103
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 96
-    },
-    {
-      "theme": "GENERAL_HEALTH",
       "n": 94
     },
     {
+      "theme": "TAX_FNCACT_OFFICERS",
+      "n": 88
+    },
+    {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 92
+      "n": 85
     },
     {
-      "theme": "WB_1406_DISEASES",
-      "n": 88
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 84
     },
     {
-      "theme": "TAX_FNCACT_FARMWORKER",
-      "n": 88
+      "theme": "TAX_MILITARY_TITLE_OFFICERS",
+      "n": 79
     },
     {
-      "theme": "TAX_ETHNICITY_CHINESE",
-      "n": 86
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 73
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_CHINESE",
-      "n": 86
+      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
+      "n": 58
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_AIRPORT",
+      "n": 56
+    },
+    {
+      "theme": "WB_1804_AIRPORTS",
+      "n": 56
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 54
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 50
+    },
+    {
+      "theme": "NATURAL_DISASTER_FLOODING",
+      "n": 50
     }
   ]
 }
