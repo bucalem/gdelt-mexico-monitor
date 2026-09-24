@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-23T23:21:14.406649+00:00",
-  "rows_total_scanned_last_run": 5126,
+  "generated_at": "2026-09-24T01:32:25.309622+00:00",
+  "rows_total_scanned_last_run": 4042,
   "rows_mexico_last_run": 79,
-  "overall_avg_tone_4h": -1.025,
+  "overall_avg_tone_4h": -0.563,
   "timeline": [
-    {
-      "time": "2026-09-21T00:30",
-      "avg_tone": -2.577,
-      "n_articles": 21
-    },
-    {
-      "time": "2026-09-21T00:45",
-      "avg_tone": -5.121,
-      "n_articles": 25
-    },
-    {
-      "time": "2026-09-21T01:00",
-      "avg_tone": -3.729,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-09-21T01:15",
-      "avg_tone": -3.987,
-      "n_articles": 13
-    },
     {
       "time": "2026-09-21T05:30",
       "avg_tone": 0.216,
@@ -313,145 +293,165 @@
       "time": "2026-09-23T23:30",
       "avg_tone": 0.497,
       "n_articles": 18
+    },
+    {
+      "time": "2026-09-24T00:45",
+      "avg_tone": -0.122,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-09-24T01:00",
+      "avg_tone": -1.185,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-09-24T01:15",
+      "avg_tone": -1.658,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-09-24T01:30",
+      "avg_tone": -1.378,
+      "n_articles": 12
     }
   ],
   "top_sources": [
     {
-      "source": "wokv.com",
+      "source": "thegazette.com",
       "n": 3,
-      "avg_tone": -1.89
+      "avg_tone": -6.818
     },
     {
-      "source": "restaurantmagazine.com",
+      "source": "kob.com",
+      "n": 3,
+      "avg_tone": 0.878
+    },
+    {
+      "source": "sun-sentinel.com",
       "n": 2,
-      "avg_tone": 9.221
+      "avg_tone": -0.791
     },
     {
-      "source": "recorder.ca",
+      "source": "kunm.org",
       "n": 2,
-      "avg_tone": 2.825
+      "avg_tone": -0.897
     },
     {
-      "source": "fool.com",
+      "source": "orlandosentinel.com",
       "n": 2,
-      "avg_tone": -0.544
+      "avg_tone": -0.791
     },
     {
-      "source": "restaurantnews.com",
+      "source": "riviera-maya-news.com",
       "n": 2,
-      "avg_tone": 8.505
+      "avg_tone": -1.774
     },
     {
-      "source": "aninews.in",
-      "n": 1,
-      "avg_tone": 1.765
+      "source": "wrestlinginc.com",
+      "n": 2,
+      "avg_tone": 2.423
     },
     {
-      "source": "club937.com",
-      "n": 1,
-      "avg_tone": 1.78
+      "source": "monocle.com",
+      "n": 2,
+      "avg_tone": 3.507
     },
     {
-      "source": "fox13seattle.com",
-      "n": 1,
-      "avg_tone": 0.177
+      "source": "yahoo.com",
+      "n": 2,
+      "avg_tone": -1.185
     },
     {
-      "source": "trentonian.com",
+      "source": "cool987fm.com",
       "n": 1,
-      "avg_tone": 1.76
+      "avg_tone": -1.786
     },
     {
-      "source": "abc7.com",
+      "source": "idahopress.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -7.465
     },
     {
-      "source": "wbko.com",
+      "source": "bignewsnetwork.com",
       "n": 1,
-      "avg_tone": -9.449
+      "avg_tone": 0.375
     },
     {
-      "source": "greatlakesadvocate.com.au",
+      "source": "restaurantnewsrelease.com",
       "n": 1,
-      "avg_tone": 2.87
+      "avg_tone": 3.1
     },
     {
-      "source": "topspeed.com",
+      "source": "sfist.com",
       "n": 1,
-      "avg_tone": -1.207
+      "avg_tone": 0.23
     },
     {
-      "source": "fox5atlanta.com",
+      "source": "classicalcalifornia.org",
       "n": 1,
-      "avg_tone": 0.177
-    },
-    {
-      "source": "k99.com",
-      "n": 1,
-      "avg_tone": 1.047
+      "avg_tone": 6.716
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 124
+      "theme": "TAX_FNCACT_MAN",
+      "n": 220
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 120
+      "n": 174
     },
     {
-      "theme": "WB_1406_DISEASES",
+      "theme": "TAX_FNCACT_AGENTS",
+      "n": 124
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 118
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
       "n": 111
     },
     {
-      "theme": "WB_1427_NON_COMMUNICABLE_DISEASE_AND_INJURY",
-      "n": 111
-    },
-    {
-      "theme": "TAX_DISEASE_CANCER",
+      "theme": "TAX_FNCACT_POLICE",
       "n": 104
     },
     {
-      "theme": "WB_1431_CANCER",
+      "theme": "TAX_FNCACT_AGENT",
       "n": 104
+    },
+    {
+      "theme": "SECURITY_SERVICES",
+      "n": 103
     },
     {
       "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 80
-    },
-    {
-      "theme": "TAX_DISEASE_BLADDER_CANCER",
-      "n": 79
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 71
-    },
-    {
-      "theme": "WB_1467_EDUCATION_FOR_ALL",
-      "n": 65
-    },
-    {
-      "theme": "WB_470_EDUCATION",
-      "n": 65
-    },
-    {
-      "theme": "WB_2131_EMPLOYABILITY_SKILLS_AND_JOBS",
-      "n": 65
-    },
-    {
-      "theme": "WB_1484_EDUCATION_SKILLS_DEVELOPMENT_AND_LABOR_MARKET",
-      "n": 65
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 52
+      "n": 85
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 49
+      "n": 77
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 72
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 64
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 64
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 64
+    },
+    {
+      "theme": "LEADER",
+      "n": 64
     }
   ]
 }
