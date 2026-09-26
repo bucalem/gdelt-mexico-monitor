@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-09-25T23:23:46.205889+00:00",
-  "rows_total_scanned_last_run": 4432,
-  "rows_mexico_last_run": 83,
-  "overall_avg_tone_4h": -1.686,
+  "generated_at": "2026-09-26T01:45:19.753550+00:00",
+  "rows_total_scanned_last_run": 3837,
+  "rows_mexico_last_run": 97,
+  "overall_avg_tone_4h": -2.201,
   "timeline": [
-    {
-      "time": "2026-09-23T00:00",
-      "avg_tone": -1.132,
-      "n_articles": 23
-    },
     {
       "time": "2026-09-23T01:45",
       "avg_tone": -2.338,
@@ -353,145 +348,165 @@
       "time": "2026-09-25T23:30",
       "avg_tone": -3.336,
       "n_articles": 22
+    },
+    {
+      "time": "2026-09-26T01:00",
+      "avg_tone": -2.564,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-09-26T01:15",
+      "avg_tone": -2.938,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-09-26T01:30",
+      "avg_tone": -2.673,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-09-26T01:45",
+      "avg_tone": -4.097,
+      "n_articles": 22
     }
   ],
   "top_sources": [
     {
-      "source": "kpbs.org",
-      "n": 4,
-      "avg_tone": 0.76
+      "source": "mercurynews.com",
+      "n": 3,
+      "avg_tone": -2.03
     },
     {
-      "source": "abc7.com",
+      "source": "pressdemocrat.com",
+      "n": 3,
+      "avg_tone": -0.584
+    },
+    {
+      "source": "reporterherald.com",
       "n": 2,
-      "avg_tone": -5.209
+      "avg_tone": -3.395
     },
     {
-      "source": "nbcsandiego.com",
+      "source": "therecord.com",
       "n": 2,
-      "avg_tone": -2.591
+      "avg_tone": -1.893
     },
     {
-      "source": "nepalnational.com",
+      "source": "nzcity.co.nz",
       "n": 2,
-      "avg_tone": 9.268
+      "avg_tone": -8.421
     },
     {
-      "source": "wdbo.com",
+      "source": "kjzz.org",
       "n": 2,
-      "avg_tone": -3.349
+      "avg_tone": -3.68
     },
     {
-      "source": "marinij.com",
+      "source": "clickorlando.com",
       "n": 2,
-      "avg_tone": 2.579
+      "avg_tone": -3.44
     },
     {
-      "source": "wrestlinginc.com",
-      "n": 1,
-      "avg_tone": 1.303
+      "source": "weathernationtv.com",
+      "n": 2,
+      "avg_tone": -2.488
     },
     {
-      "source": "iheart.com",
-      "n": 1,
-      "avg_tone": -0.418
+      "source": "gringogazette.com",
+      "n": 2,
+      "avg_tone": -2.525
     },
     {
-      "source": "abc11.com",
-      "n": 1,
-      "avg_tone": -4.843
+      "source": "nbcdfw.com",
+      "n": 2,
+      "avg_tone": -1.454
     },
     {
-      "source": "citizensvoice.com",
-      "n": 1,
-      "avg_tone": -2.977
+      "source": "wral.com",
+      "n": 2,
+      "avg_tone": -4.125
     },
     {
-      "source": "zerohedge.com",
-      "n": 1,
-      "avg_tone": -1.634
+      "source": "record-bee.com",
+      "n": 2,
+      "avg_tone": -3.395
     },
     {
-      "source": "vladtv.com",
-      "n": 1,
-      "avg_tone": -5.625
+      "source": "news4jax.com",
+      "n": 2,
+      "avg_tone": -3.44
     },
     {
-      "source": "thedigitalcourier.com",
-      "n": 1,
-      "avg_tone": -9.863
+      "source": "eurasiareview.com",
+      "n": 2,
+      "avg_tone": -1.934
     },
     {
-      "source": "wwno.org",
-      "n": 1,
-      "avg_tone": 0.464
-    },
-    {
-      "source": "bendsource.com",
-      "n": 1,
-      "avg_tone": 0.573
+      "source": "sun-sentinel.com",
+      "n": 2,
+      "avg_tone": -3.395
     }
   ],
   "top_themes": [
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 260
-    },
-    {
-      "theme": "LEADER",
-      "n": 248
+      "n": 371
     },
     {
       "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 235
+      "n": 290
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_KANSAS",
+      "n": 187
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 233
+      "n": 181
+    },
+    {
+      "theme": "LEADER",
+      "n": 176
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 227
-    },
-    {
-      "theme": "EPU_POLICY_WHITE_HOUSE",
-      "n": 182
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 148
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 120
-    },
-    {
-      "theme": "MEDIA_MSM",
-      "n": 115
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 101
+      "n": 169
     },
     {
       "theme": "CRISISLEX_O01_WEATHER",
-      "n": 83
+      "n": 140
     },
     {
       "theme": "NATURAL_DISASTER_HURRICANES",
-      "n": 76
+      "n": 133
     },
     {
-      "theme": "TAX_FNCACT_EXECUTIVE",
-      "n": 71
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 117
     },
     {
-      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
-      "n": 70
+      "theme": "EDUCATION",
+      "n": 116
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 68
+      "theme": "EPU_POLICY_WHITE_HOUSE",
+      "n": 108
+    },
+    {
+      "theme": "WB_567_CLIMATE_CHANGE",
+      "n": 105
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 105
+    },
+    {
+      "theme": "ENV_CLIMATECHANGE",
+      "n": 104
+    },
+    {
+      "theme": "UNGP_CLIMATE_CHANGE_ACTION",
+      "n": 104
     }
   ]
 }
