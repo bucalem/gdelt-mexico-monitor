@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-26T11:58:14.931754+00:00",
-  "rows_total_scanned_last_run": 2660,
-  "rows_mexico_last_run": 24,
-  "overall_avg_tone_4h": -2.26,
+  "generated_at": "2026-09-26T15:53:28.460423+00:00",
+  "rows_total_scanned_last_run": 2889,
+  "rows_mexico_last_run": 40,
+  "overall_avg_tone_4h": -1.972,
   "timeline": [
-    {
-      "time": "2026-09-23T12:30",
-      "avg_tone": -0.88,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-09-23T12:45",
-      "avg_tone": -3.337,
-      "n_articles": 22
-    },
-    {
-      "time": "2026-09-23T13:00",
-      "avg_tone": -2.72,
-      "n_articles": 32
-    },
-    {
-      "time": "2026-09-23T13:15",
-      "avg_tone": -2.911,
-      "n_articles": 25
-    },
     {
       "time": "2026-09-23T17:15",
       "avg_tone": -1.117,
@@ -368,145 +348,165 @@
       "time": "2026-09-26T12:00",
       "avg_tone": -1.813,
       "n_articles": 3
+    },
+    {
+      "time": "2026-09-26T15:15",
+      "avg_tone": -0.867,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-09-26T15:30",
+      "avg_tone": 3.784,
+      "n_articles": 1
+    },
+    {
+      "time": "2026-09-26T15:45",
+      "avg_tone": -0.537,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-09-26T16:00",
+      "avg_tone": 0.286,
+      "n_articles": 7
     }
   ],
   "top_sources": [
     {
-      "source": "arkansasonline.com",
+      "source": "tucson.com",
       "n": 3,
-      "avg_tone": -5.826
-    },
-    {
-      "source": "herald-dispatch.com",
-      "n": 2,
-      "avg_tone": -3.636
-    },
-    {
-      "source": "inquirer.com",
-      "n": 2,
-      "avg_tone": 0.359
-    },
-    {
-      "source": "theitem.com",
-      "n": 1,
-      "avg_tone": -1.093
-    },
-    {
-      "source": "rockymounttelegram.com",
-      "n": 1,
-      "avg_tone": -2.547
-    },
-    {
-      "source": "comicbook.com",
-      "n": 1,
-      "avg_tone": -1.799
-    },
-    {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 2.648
+      "avg_tone": -1.446
     },
     {
       "source": "asiaone.com",
-      "n": 1,
-      "avg_tone": 1.706
-    },
-    {
-      "source": "caribbeanherald.com",
-      "n": 1,
-      "avg_tone": 0.867
-    },
-    {
-      "source": "dailyadvance.com",
-      "n": 1,
-      "avg_tone": -2.547
-    },
-    {
-      "source": "latimes.com",
-      "n": 1,
-      "avg_tone": 4.434
-    },
-    {
-      "source": "chicagotribune.com",
-      "n": 1,
-      "avg_tone": 0.055
-    },
-    {
-      "source": "boredpanda.com",
-      "n": 1,
-      "avg_tone": 0.235
+      "n": 2,
+      "avg_tone": 2.023
     },
     {
       "source": "aol.com",
-      "n": 1,
-      "avg_tone": 8.321
+      "n": 2,
+      "avg_tone": 2.809
     },
     {
-      "source": "crossmap.com",
+      "source": "fortune.com",
+      "n": 2,
+      "avg_tone": -3.764
+    },
+    {
+      "source": "ocregister.com",
+      "n": 2,
+      "avg_tone": -2.766
+    },
+    {
+      "source": "saratogian.com",
+      "n": 2,
+      "avg_tone": -0.746
+    },
+    {
+      "source": "wellandtribune.ca",
+      "n": 2,
+      "avg_tone": -0.167
+    },
+    {
+      "source": "rawstory.com",
       "n": 1,
-      "avg_tone": -4.641
+      "avg_tone": -2.123
+    },
+    {
+      "source": "dw.com",
+      "n": 1,
+      "avg_tone": -2.664
+    },
+    {
+      "source": "reporterherald.com",
+      "n": 1,
+      "avg_tone": 0.993
+    },
+    {
+      "source": "ninernoise.com",
+      "n": 1,
+      "avg_tone": -0.821
+    },
+    {
+      "source": "laosnews.net",
+      "n": 1,
+      "avg_tone": 2.573
+    },
+    {
+      "source": "theoaklandpress.com",
+      "n": 1,
+      "avg_tone": 0.993
+    },
+    {
+      "source": "aljazeera.com",
+      "n": 1,
+      "avg_tone": -4.412
+    },
+    {
+      "source": "sydneysun.com",
+      "n": 1,
+      "avg_tone": 2.573
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 36
-    },
-    {
-      "theme": "IMMIGRATION",
-      "n": 31
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 28
+      "theme": "TAX_FNCACT_WORKERS",
+      "n": 70
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 27
+      "n": 43
+    },
+    {
+      "theme": "LEADER",
+      "n": 39
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 37
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 35
+    },
+    {
+      "theme": "TAX_FNCACT_TEAMSTERS",
+      "n": 35
+    },
+    {
+      "theme": "MOVEMENT_GENERAL",
+      "n": 33
+    },
+    {
+      "theme": "ECON_UNIONS",
+      "n": 31
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 29
+    },
+    {
+      "theme": "USPEC_UNCERTAINTY1",
+      "n": 28
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 25
+      "n": 28
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 27
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 26
     },
     {
       "theme": "WB_2670_JOBS",
-      "n": 24
+      "n": 26
     },
     {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 24
-    },
-    {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 24
-    },
-    {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 24
-    },
-    {
-      "theme": "TAX_FNCACT_EMPLOYEES",
-      "n": 24
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 23
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 20
-    },
-    {
-      "theme": "TAX_FNCACT_IMMIGRANT",
-      "n": 17
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 17
-    },
-    {
-      "theme": "ELECTION",
-      "n": 16
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 25
     }
   ]
 }
