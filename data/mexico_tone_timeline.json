@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-27T18:33:10.928987+00:00",
-  "rows_total_scanned_last_run": 2613,
-  "rows_mexico_last_run": 41,
-  "overall_avg_tone_4h": -0.4,
+  "generated_at": "2026-09-27T21:36:14.100036+00:00",
+  "rows_total_scanned_last_run": 2457,
+  "rows_mexico_last_run": 40,
+  "overall_avg_tone_4h": -0.3,
   "timeline": [
-    {
-      "time": "2026-09-24T19:45",
-      "avg_tone": -1.162,
-      "n_articles": 22
-    },
-    {
-      "time": "2026-09-24T20:00",
-      "avg_tone": -1.805,
-      "n_articles": 29
-    },
-    {
-      "time": "2026-09-24T20:15",
-      "avg_tone": -1.412,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-09-24T20:30",
-      "avg_tone": -2.771,
-      "n_articles": 28
-    },
     {
       "time": "2026-09-24T22:30",
       "avg_tone": -0.968,
@@ -353,145 +333,165 @@
       "time": "2026-09-27T18:30",
       "avg_tone": -0.042,
       "n_articles": 10
+    },
+    {
+      "time": "2026-09-27T21:00",
+      "avg_tone": -1.86,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-09-27T21:15",
+      "avg_tone": -1.696,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-09-27T21:30",
+      "avg_tone": -1.362,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-09-27T21:45",
+      "avg_tone": -0.124,
+      "n_articles": 11
     }
   ],
   "top_sources": [
     {
-      "source": "themarketsdaily.com",
+      "source": "hellenicshippingnews.com",
       "n": 2,
-      "avg_tone": 2.74
+      "avg_tone": 0.109
     },
     {
-      "source": "latintimes.com",
+      "source": "laist.com",
       "n": 2,
-      "avg_tone": -4.726
+      "avg_tone": -1.389
     },
     {
-      "source": "deadline.com",
+      "source": "panow.com",
       "n": 2,
-      "avg_tone": -0.538
+      "avg_tone": -1.693
     },
     {
-      "source": "taipeitimes.com",
-      "n": 2,
-      "avg_tone": -6.05
-    },
-    {
-      "source": "santacruzsentinel.com",
+      "source": "goodhousekeeping.com",
       "n": 1,
-      "avg_tone": -1.445
+      "avg_tone": 0.848
     },
     {
-      "source": "manilatimes.net",
+      "source": "mesabitribune.com",
       "n": 1,
-      "avg_tone": -0.324
+      "avg_tone": -2.955
     },
     {
-      "source": "stardem.com",
+      "source": "theage.com.au",
       "n": 1,
-      "avg_tone": -4.076
+      "avg_tone": 1.885
     },
     {
-      "source": "textileworld.com",
+      "source": "therecord.com",
       "n": 1,
-      "avg_tone": 4.752
+      "avg_tone": -2.935
     },
     {
-      "source": "winnipegfreepress.com",
+      "source": "thecarillon.com",
       "n": 1,
-      "avg_tone": -4.062
+      "avg_tone": 0.06
     },
     {
-      "source": "boxingnewsonline.net",
+      "source": "jpost.com",
       "n": 1,
-      "avg_tone": 1.278
+      "avg_tone": -2.727
     },
     {
-      "source": "goskagit.com",
+      "source": "fox34.com",
       "n": 1,
-      "avg_tone": -4.076
+      "avg_tone": 1.22
     },
     {
-      "source": "kalw.org",
+      "source": "caribjournal.com",
       "n": 1,
-      "avg_tone": 2.049
+      "avg_tone": 6.156
     },
     {
-      "source": "ksfr.org",
+      "source": "idahostatejournal.com",
       "n": 1,
-      "avg_tone": 2.049
+      "avg_tone": -3.138
     },
     {
-      "source": "calcoastnews.com",
+      "source": "rustourismnews.com",
       "n": 1,
-      "avg_tone": 5.303
+      "avg_tone": 2.882
     },
     {
-      "source": "taosnews.com",
+      "source": "mynewsla.com",
       "n": 1,
-      "avg_tone": 6.395
+      "avg_tone": -5.776
+    },
+    {
+      "source": "wellandtribune.ca",
+      "n": 1,
+      "avg_tone": -2.905
     }
   ],
   "top_themes": [
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 87
+      "n": 198
     },
     {
       "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 61
+      "n": 188
     },
     {
-      "theme": "TAX_RELIGION_CHURCH",
-      "n": 37
+      "theme": "NATURAL_DISASTER_HEAVY_RAIN",
+      "n": 52
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 27
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 25
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 25
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 22
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 20
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 50
     },
     {
       "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 19
+      "n": 50
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 18
+      "theme": "CRISISLEX_C06_WATER_SANITATION",
+      "n": 46
     },
     {
-      "theme": "MEDICAL",
-      "n": 18
+      "theme": "NATURAL_DISASTER_FLOODING",
+      "n": 45
     },
     {
       "theme": "TAX_ETHNICITY_HAWAIIAN",
-      "n": 18
+      "n": 42
     },
     {
       "theme": "TAX_WORLDLANGUAGES_HAWAIIAN",
-      "n": 18
+      "n": 42
     },
     {
-      "theme": "TAX_WORLDFISH_TUNA",
-      "n": 18
+      "theme": "NATURAL_DISASTER_SUSTAINED_WINDS",
+      "n": 36
     },
     {
-      "theme": "TAX_RELIGION_CATHOLIC",
-      "n": 17
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 35
+    },
+    {
+      "theme": "TAX_FNCACT_GUARD",
+      "n": 32
+    },
+    {
+      "theme": "NATURAL_DISASTER_HURRICANES",
+      "n": 30
+    },
+    {
+      "theme": "TAX_FNCACT_DIRECTOR",
+      "n": 27
+    },
+    {
+      "theme": "NATURAL_DISASTER_STRONG_WINDS",
+      "n": 25
     }
   ]
 }
