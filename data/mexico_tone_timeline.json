@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-27T21:36:14.100036+00:00",
-  "rows_total_scanned_last_run": 2457,
-  "rows_mexico_last_run": 40,
-  "overall_avg_tone_4h": -0.3,
+  "generated_at": "2026-09-27T23:57:23.299915+00:00",
+  "rows_total_scanned_last_run": 1072,
+  "rows_mexico_last_run": 11,
+  "overall_avg_tone_4h": -0.301,
   "timeline": [
-    {
-      "time": "2026-09-24T22:30",
-      "avg_tone": -0.968,
-      "n_articles": 33
-    },
-    {
-      "time": "2026-09-24T22:45",
-      "avg_tone": -0.443,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-09-24T23:00",
-      "avg_tone": -1.635,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-09-24T23:15",
-      "avg_tone": -0.834,
-      "n_articles": 33
-    },
     {
       "time": "2026-09-25T01:00",
       "avg_tone": -2.478,
@@ -353,145 +333,135 @@
       "time": "2026-09-27T21:45",
       "avg_tone": -0.124,
       "n_articles": 11
+    },
+    {
+      "time": "2026-09-27T23:15",
+      "avg_tone": -3.314,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-09-28T00:00",
+      "avg_tone": 1.054,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
-      "source": "hellenicshippingnews.com",
-      "n": 2,
-      "avg_tone": 0.109
-    },
-    {
-      "source": "laist.com",
-      "n": 2,
-      "avg_tone": -1.389
-    },
-    {
-      "source": "panow.com",
-      "n": 2,
-      "avg_tone": -1.693
-    },
-    {
-      "source": "goodhousekeeping.com",
+      "source": "hellomagazine.com",
       "n": 1,
-      "avg_tone": 0.848
+      "avg_tone": 10.166
     },
     {
-      "source": "mesabitribune.com",
-      "n": 1,
-      "avg_tone": -2.955
-    },
-    {
-      "source": "theage.com.au",
-      "n": 1,
-      "avg_tone": 1.885
-    },
-    {
-      "source": "therecord.com",
-      "n": 1,
-      "avg_tone": -2.935
-    },
-    {
-      "source": "thecarillon.com",
-      "n": 1,
-      "avg_tone": 0.06
-    },
-    {
-      "source": "jpost.com",
-      "n": 1,
-      "avg_tone": -2.727
-    },
-    {
-      "source": "fox34.com",
-      "n": 1,
-      "avg_tone": 1.22
-    },
-    {
-      "source": "caribjournal.com",
-      "n": 1,
-      "avg_tone": 6.156
-    },
-    {
-      "source": "idahostatejournal.com",
+      "source": "weny.com",
       "n": 1,
       "avg_tone": -3.138
     },
     {
-      "source": "rustourismnews.com",
+      "source": "japantoday.com",
       "n": 1,
-      "avg_tone": 2.882
+      "avg_tone": -0.223
     },
     {
-      "source": "mynewsla.com",
+      "source": "freerepublic.com",
       "n": 1,
-      "avg_tone": -5.776
+      "avg_tone": -2.513
     },
     {
-      "source": "wellandtribune.ca",
+      "source": "southpeacenews.com",
       "n": 1,
-      "avg_tone": -2.905
+      "avg_tone": 0.975
+    },
+    {
+      "source": "postregister.com",
+      "n": 1,
+      "avg_tone": -3.138
+    },
+    {
+      "source": "pilotonline.com",
+      "n": 1,
+      "avg_tone": -2.935
+    },
+    {
+      "source": "fox21online.com",
+      "n": 1,
+      "avg_tone": -3.001
+    },
+    {
+      "source": "theepochtimes.com",
+      "n": 1,
+      "avg_tone": -4.952
+    },
+    {
+      "source": "bakersfieldnow.com",
+      "n": 1,
+      "avg_tone": -2.813
+    },
+    {
+      "source": "newsday.com",
+      "n": 1,
+      "avg_tone": -3.045
     }
   ],
   "top_themes": [
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 198
+      "n": 79
     },
     {
       "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 188
-    },
-    {
-      "theme": "NATURAL_DISASTER_HEAVY_RAIN",
-      "n": 52
+      "n": 76
     },
     {
       "theme": "CRISISLEX_O01_WEATHER",
-      "n": 50
+      "n": 25
+    },
+    {
+      "theme": "NATURAL_DISASTER_HEAVY_RAIN",
+      "n": 20
     },
     {
       "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 50
-    },
-    {
-      "theme": "CRISISLEX_C06_WATER_SANITATION",
-      "n": 46
+      "n": 20
     },
     {
       "theme": "NATURAL_DISASTER_FLOODING",
-      "n": 45
+      "n": 15
     },
     {
-      "theme": "TAX_ETHNICITY_HAWAIIAN",
-      "n": 42
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_HAWAIIAN",
-      "n": 42
-    },
-    {
-      "theme": "NATURAL_DISASTER_SUSTAINED_WINDS",
-      "n": 36
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 35
-    },
-    {
-      "theme": "TAX_FNCACT_GUARD",
-      "n": 32
+      "theme": "CRISISLEX_C06_WATER_SANITATION",
+      "n": 15
     },
     {
       "theme": "NATURAL_DISASTER_HURRICANES",
-      "n": 30
+      "n": 15
     },
     {
-      "theme": "TAX_FNCACT_DIRECTOR",
-      "n": 27
+      "theme": "LEADER",
+      "n": 15
     },
     {
-      "theme": "NATURAL_DISASTER_STRONG_WINDS",
-      "n": 25
+      "theme": "TAX_ETHNICITY_HAWAIIAN",
+      "n": 15
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_HAWAIIAN",
+      "n": 15
+    },
+    {
+      "theme": "NATURAL_DISASTER_SUSTAINED_WINDS",
+      "n": 14
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 14
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 14
+    },
+    {
+      "theme": "TAX_WEAPONS_GUN",
+      "n": 13
     }
   ]
 }
