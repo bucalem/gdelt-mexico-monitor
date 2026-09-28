@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-28T03:36:15.543532+00:00",
-  "rows_total_scanned_last_run": 2219,
-  "rows_mexico_last_run": 21,
-  "overall_avg_tone_4h": -0.749,
+  "generated_at": "2026-09-28T10:09:22.331129+00:00",
+  "rows_total_scanned_last_run": 1897,
+  "rows_mexico_last_run": 43,
+  "overall_avg_tone_4h": -1.18,
   "timeline": [
-    {
-      "time": "2026-09-25T06:00",
-      "avg_tone": -1.574,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-09-25T06:15",
-      "avg_tone": -0.895,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-09-25T06:30",
-      "avg_tone": -2.9,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-09-25T06:45",
-      "avg_tone": -0.508,
-      "n_articles": 8
-    },
     {
       "time": "2026-09-25T11:30",
       "avg_tone": -0.613,
@@ -343,145 +323,155 @@
       "time": "2026-09-28T03:45",
       "avg_tone": -3.813,
       "n_articles": 5
+    },
+    {
+      "time": "2026-09-28T09:30",
+      "avg_tone": -2.922,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-09-28T10:15",
+      "avg_tone": -1.006,
+      "n_articles": 33
     }
   ],
   "top_sources": [
     {
-      "source": "aol.com",
+      "source": "wamc.org",
       "n": 2,
-      "avg_tone": 1.396
+      "avg_tone": -2.556
     },
     {
-      "source": "prokerala.com",
+      "source": "klcc.org",
       "n": 2,
-      "avg_tone": -0.976
+      "avg_tone": -2.556
     },
     {
-      "source": "thehindu.com",
-      "n": 1,
-      "avg_tone": -1.965
+      "source": "kenw.org",
+      "n": 2,
+      "avg_tone": -2.556
     },
     {
-      "source": "aa.com.tr",
+      "source": "ksmu.org",
       "n": 1,
-      "avg_tone": -6.809
+      "avg_tone": 0.0
     },
     {
-      "source": "newsweek.com",
+      "source": "wboi.org",
       "n": 1,
-      "avg_tone": -4.785
+      "avg_tone": 0.0
     },
     {
-      "source": "dailytarheel.com",
+      "source": "whtimes.co.uk",
       "n": 1,
-      "avg_tone": -0.608
+      "avg_tone": 0.0
     },
     {
-      "source": "pilotonline.com",
+      "source": "yakimaherald.com",
       "n": 1,
-      "avg_tone": -4.9
+      "avg_tone": -4.954
     },
     {
-      "source": "nbcsandiego.com",
+      "source": "gq.co.za",
       "n": 1,
-      "avg_tone": 0.463
+      "avg_tone": -0.645
     },
     {
-      "source": "thehindubusinessline.com",
+      "source": "kunm.org",
       "n": 1,
-      "avg_tone": 2.76
+      "avg_tone": 0.0
     },
     {
-      "source": "abc7news.com",
+      "source": "kjzz.org",
       "n": 1,
-      "avg_tone": 1.035
+      "avg_tone": 0.0
     },
     {
-      "source": "gdnonline.com",
+      "source": "thenews.com.pk",
       "n": 1,
-      "avg_tone": -9.424
+      "avg_tone": 2.151
     },
     {
-      "source": "union-bulletin.com",
+      "source": "ludlowadvertiser.co.uk",
       "n": 1,
-      "avg_tone": -4.552
+      "avg_tone": 0.0
     },
     {
-      "source": "lasvegassun.com",
+      "source": "lynnnews.co.uk",
       "n": 1,
-      "avg_tone": -4.426
+      "avg_tone": 0.143
     },
     {
-      "source": "bmmagazine.co.uk",
+      "source": "americanbazaaronline.com",
       "n": 1,
-      "avg_tone": -0.774
+      "avg_tone": 4.857
     },
     {
-      "source": "ksl.com",
+      "source": "newsandstar.co.uk",
       "n": 1,
-      "avg_tone": -4.106
+      "avg_tone": 0.0
     }
   ],
   "top_themes": [
     {
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 96
+    },
+    {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 70
+      "n": 86
     },
     {
       "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 67
+      "n": 73
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 28
-    },
-    {
-      "theme": "NATURAL_DISASTER_FLOODING",
-      "n": 22
-    },
-    {
-      "theme": "CRISISLEX_C06_WATER_SANITATION",
-      "n": 22
-    },
-    {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 21
-    },
-    {
-      "theme": "NATURAL_DISASTER_SUSTAINED_WINDS",
-      "n": 21
-    },
-    {
-      "theme": "NATURAL_DISASTER_HEAVY_RAIN",
-      "n": 21
+      "theme": "USPEC_POLICY1",
+      "n": 56
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 21
+      "n": 49
     },
     {
-      "theme": "CRISISLEX_O01_WEATHER",
-      "n": 18
+      "theme": "EPU_ECONOMY",
+      "n": 43
     },
     {
-      "theme": "LEADER",
-      "n": 17
+      "theme": "TAX_FNCACT_SINGER",
+      "n": 42
     },
     {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 17
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 39
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 16
+      "theme": "NATURAL_DISASTER_FLOODING",
+      "n": 35
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 15
+      "theme": "CRISISLEX_C06_WATER_SANITATION",
+      "n": 35
     },
     {
-      "theme": "NATURAL_DISASTER_MUDSLIDES",
-      "n": 15
+      "theme": "MOVEMENT_GENERAL",
+      "n": 32
+    },
+    {
+      "theme": "TAX_FNCACT_ACTIVIST",
+      "n": 32
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 32
+    },
+    {
+      "theme": "WB_1160_SHOCKS_AND_VULNERABILITY",
+      "n": 30
+    },
+    {
+      "theme": "WB_695_POVERTY",
+      "n": 30
     }
   ]
 }
