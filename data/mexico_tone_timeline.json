@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-09-27T23:57:23.299915+00:00",
-  "rows_total_scanned_last_run": 1072,
-  "rows_mexico_last_run": 11,
-  "overall_avg_tone_4h": -0.301,
+  "generated_at": "2026-09-28T03:36:15.543532+00:00",
+  "rows_total_scanned_last_run": 2219,
+  "rows_mexico_last_run": 21,
+  "overall_avg_tone_4h": -0.749,
   "timeline": [
-    {
-      "time": "2026-09-25T01:00",
-      "avg_tone": -2.478,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-09-25T01:15",
-      "avg_tone": -3.193,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-09-25T01:30",
-      "avg_tone": -3.548,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-09-25T01:45",
-      "avg_tone": -4.791,
-      "n_articles": 14
-    },
     {
       "time": "2026-09-25T06:00",
       "avg_tone": -1.574,
@@ -343,125 +323,165 @@
       "time": "2026-09-28T00:00",
       "avg_tone": 1.054,
       "n_articles": 5
+    },
+    {
+      "time": "2026-09-28T03:00",
+      "avg_tone": -2.662,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-09-28T03:15",
+      "avg_tone": -2.066,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-09-28T03:30",
+      "avg_tone": 1.612,
+      "n_articles": 2
+    },
+    {
+      "time": "2026-09-28T03:45",
+      "avg_tone": -3.813,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
-      "source": "hellomagazine.com",
-      "n": 1,
-      "avg_tone": 10.166
+      "source": "aol.com",
+      "n": 2,
+      "avg_tone": 1.396
     },
     {
-      "source": "weny.com",
-      "n": 1,
-      "avg_tone": -3.138
+      "source": "prokerala.com",
+      "n": 2,
+      "avg_tone": -0.976
     },
     {
-      "source": "japantoday.com",
+      "source": "thehindu.com",
       "n": 1,
-      "avg_tone": -0.223
+      "avg_tone": -1.965
     },
     {
-      "source": "freerepublic.com",
+      "source": "aa.com.tr",
       "n": 1,
-      "avg_tone": -2.513
+      "avg_tone": -6.809
     },
     {
-      "source": "southpeacenews.com",
+      "source": "newsweek.com",
       "n": 1,
-      "avg_tone": 0.975
+      "avg_tone": -4.785
     },
     {
-      "source": "postregister.com",
+      "source": "dailytarheel.com",
       "n": 1,
-      "avg_tone": -3.138
+      "avg_tone": -0.608
     },
     {
       "source": "pilotonline.com",
       "n": 1,
-      "avg_tone": -2.935
+      "avg_tone": -4.9
     },
     {
-      "source": "fox21online.com",
+      "source": "nbcsandiego.com",
       "n": 1,
-      "avg_tone": -3.001
+      "avg_tone": 0.463
     },
     {
-      "source": "theepochtimes.com",
+      "source": "thehindubusinessline.com",
       "n": 1,
-      "avg_tone": -4.952
+      "avg_tone": 2.76
     },
     {
-      "source": "bakersfieldnow.com",
+      "source": "abc7news.com",
       "n": 1,
-      "avg_tone": -2.813
+      "avg_tone": 1.035
     },
     {
-      "source": "newsday.com",
+      "source": "gdnonline.com",
       "n": 1,
-      "avg_tone": -3.045
+      "avg_tone": -9.424
+    },
+    {
+      "source": "union-bulletin.com",
+      "n": 1,
+      "avg_tone": -4.552
+    },
+    {
+      "source": "lasvegassun.com",
+      "n": 1,
+      "avg_tone": -4.426
+    },
+    {
+      "source": "bmmagazine.co.uk",
+      "n": 1,
+      "avg_tone": -0.774
+    },
+    {
+      "source": "ksl.com",
+      "n": 1,
+      "avg_tone": -4.106
     }
   ],
   "top_themes": [
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 79
+      "n": 70
     },
     {
       "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 76
+      "n": 67
     },
     {
-      "theme": "CRISISLEX_O01_WEATHER",
-      "n": 25
-    },
-    {
-      "theme": "NATURAL_DISASTER_HEAVY_RAIN",
-      "n": 20
-    },
-    {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 20
+      "theme": "WB_698_TRADE",
+      "n": 28
     },
     {
       "theme": "NATURAL_DISASTER_FLOODING",
-      "n": 15
+      "n": 22
     },
     {
       "theme": "CRISISLEX_C06_WATER_SANITATION",
-      "n": 15
+      "n": 22
     },
     {
-      "theme": "NATURAL_DISASTER_HURRICANES",
-      "n": 15
-    },
-    {
-      "theme": "LEADER",
-      "n": 15
-    },
-    {
-      "theme": "TAX_ETHNICITY_HAWAIIAN",
-      "n": 15
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_HAWAIIAN",
-      "n": 15
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 21
     },
     {
       "theme": "NATURAL_DISASTER_SUSTAINED_WINDS",
-      "n": 14
+      "n": 21
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 14
+      "theme": "NATURAL_DISASTER_HEAVY_RAIN",
+      "n": 21
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 21
+    },
+    {
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 18
+    },
+    {
+      "theme": "LEADER",
+      "n": 17
+    },
+    {
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 17
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 16
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 14
+      "n": 15
     },
     {
-      "theme": "TAX_WEAPONS_GUN",
-      "n": 13
+      "theme": "NATURAL_DISASTER_MUDSLIDES",
+      "n": 15
     }
   ]
 }
