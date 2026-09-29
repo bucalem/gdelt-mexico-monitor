@@ -1,44 +1,9 @@
 {
-  "generated_at": "2026-09-29T09:01:50.224063+00:00",
-  "rows_total_scanned_last_run": 3703,
-  "rows_mexico_last_run": 30,
-  "overall_avg_tone_4h": -2.578,
+  "generated_at": "2026-09-29T15:46:16.348985+00:00",
+  "rows_total_scanned_last_run": 6275,
+  "rows_mexico_last_run": 106,
+  "overall_avg_tone_4h": -2.797,
   "timeline": [
-    {
-      "time": "2026-09-26T11:15",
-      "avg_tone": 0.482,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-09-26T11:30",
-      "avg_tone": 1.677,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-09-26T11:45",
-      "avg_tone": -2.453,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-09-26T12:00",
-      "avg_tone": -1.813,
-      "n_articles": 3
-    },
-    {
-      "time": "2026-09-26T15:15",
-      "avg_tone": -0.867,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-09-26T15:30",
-      "avg_tone": 3.784,
-      "n_articles": 1
-    },
-    {
-      "time": "2026-09-26T15:45",
-      "avg_tone": -0.537,
-      "n_articles": 19
-    },
     {
       "time": "2026-09-26T16:00",
       "avg_tone": 0.286,
@@ -298,145 +263,165 @@
       "time": "2026-09-29T09:00",
       "avg_tone": -1.887,
       "n_articles": 2
+    },
+    {
+      "time": "2026-09-29T15:00",
+      "avg_tone": -1.814,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-09-29T15:15",
+      "avg_tone": -2.41,
+      "n_articles": 32
+    },
+    {
+      "time": "2026-09-29T15:30",
+      "avg_tone": -2.45,
+      "n_articles": 34
+    },
+    {
+      "time": "2026-09-29T15:45",
+      "avg_tone": -3.004,
+      "n_articles": 15
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 11,
-      "avg_tone": -2.0
+      "source": "iheart.com",
+      "n": 27,
+      "avg_tone": -7.266
     },
     {
-      "source": "averyjournal.com",
+      "source": "prnewswire.com",
       "n": 3,
-      "avg_tone": -7.6
+      "avg_tone": 5.403
     },
     {
-      "source": "nottinghampost.com",
-      "n": 1,
-      "avg_tone": 2.056
+      "source": "koat.com",
+      "n": 3,
+      "avg_tone": -2.94
     },
     {
-      "source": "airqualitynews.com",
-      "n": 1,
-      "avg_tone": -5.831
+      "source": "banderasnews.com",
+      "n": 3,
+      "avg_tone": 3.8
     },
     {
-      "source": "finanznachrichten.de",
-      "n": 1,
-      "avg_tone": -2.969
+      "source": "kurv.com",
+      "n": 2,
+      "avg_tone": -5.659
     },
     {
-      "source": "tickerreport.com",
-      "n": 1,
-      "avg_tone": 1.319
+      "source": "compositesworld.com",
+      "n": 2,
+      "avg_tone": 0.731
     },
     {
-      "source": "arizonadailyindependent.com",
-      "n": 1,
-      "avg_tone": -5.821
+      "source": "knau.org",
+      "n": 2,
+      "avg_tone": -2.165
     },
     {
-      "source": "kesq.com",
-      "n": 1,
-      "avg_tone": -2.392
+      "source": "variety.com",
+      "n": 2,
+      "avg_tone": -1.467
     },
     {
-      "source": "ghanamma.com",
-      "n": 1,
-      "avg_tone": 5.965
+      "source": "manilatimes.net",
+      "n": 2,
+      "avg_tone": 2.679
     },
     {
-      "source": "esmmagazine.com",
-      "n": 1,
-      "avg_tone": 4.698
+      "source": "en.tempo.co",
+      "n": 2,
+      "avg_tone": 0.351
     },
     {
-      "source": "express.co.uk",
+      "source": "channel3000.com",
       "n": 1,
-      "avg_tone": 4.232
+      "avg_tone": 0.0
     },
     {
-      "source": "dailypolitical.com",
+      "source": "wxxinews.org",
       "n": 1,
-      "avg_tone": 0.433
+      "avg_tone": -3.598
     },
     {
-      "source": "newsandstar.co.uk",
+      "source": "redstate.com",
       "n": 1,
-      "avg_tone": -0.336
+      "avg_tone": -5.268
     },
     {
-      "source": "whatson.ae",
+      "source": "klaq.com",
       "n": 1,
-      "avg_tone": 5.867
+      "avg_tone": 2.794
     },
     {
-      "source": "post-journal.com",
+      "source": "chicoer.com",
       "n": 1,
-      "avg_tone": 3.314
+      "avg_tone": -6.312
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 142
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 142
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 142
-    },
-    {
-      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
-      "n": 132
-    },
-    {
-      "theme": "ECON_WORLDCURRENCIES_PESO",
-      "n": 86
-    },
-    {
-      "theme": "ENV_METALS",
-      "n": 83
-    },
-    {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 74
+      "n": 220
     },
     {
-      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
-      "n": 60
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 177
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "theme": "NATURAL_DISASTER_FLOODING",
+      "n": 125
+    },
+    {
+      "theme": "CRISISLEX_C06_WATER_SANITATION",
+      "n": 125
+    },
+    {
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 118
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 76
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 76
+    },
+    {
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 75
+    },
+    {
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 70
+    },
+    {
+      "theme": "NATURAL_DISASTER_HEAVY_RAIN",
       "n": 59
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 55
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 58
     },
     {
-      "theme": "WB_2933_ZINC",
-      "n": 54
+      "theme": "TAX_FNCACT_AUTHORITIES",
+      "n": 58
     },
     {
-      "theme": "WB_2934_COPPER",
-      "n": 53
+      "theme": "EPU_POLICY_AUTHORITIES",
+      "n": 58
     },
     {
-      "theme": "ECON_INFLATION",
-      "n": 53
+      "theme": "AFFECT",
+      "n": 52
     },
     {
-      "theme": "WB_442_INFLATION",
-      "n": 53
-    },
-    {
-      "theme": "ECON_WORLDCURRENCIES_US_DOLLAR",
-      "n": 51
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 52
     }
   ]
 }
