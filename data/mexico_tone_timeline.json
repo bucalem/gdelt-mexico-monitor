@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-10-04T21:27:46.595790+00:00",
-  "rows_total_scanned_last_run": 2102,
-  "rows_mexico_last_run": 13,
-  "overall_avg_tone_4h": -1.094,
+  "generated_at": "2026-10-05T00:03:22.057203+00:00",
+  "rows_total_scanned_last_run": 2114,
+  "rows_mexico_last_run": 18,
+  "overall_avg_tone_4h": -1.513,
   "timeline": [
-    {
-      "time": "2026-10-01T22:15",
-      "avg_tone": -2.893,
-      "n_articles": 33
-    },
-    {
-      "time": "2026-10-01T22:30",
-      "avg_tone": -0.095,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-10-01T22:45",
-      "avg_tone": 0.009,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-10-01T23:00",
-      "avg_tone": 1.008,
-      "n_articles": 14
-    },
     {
       "time": "2026-10-02T01:15",
       "avg_tone": -2.9,
@@ -328,130 +308,165 @@
       "time": "2026-10-04T21:30",
       "avg_tone": 0.188,
       "n_articles": 5
+    },
+    {
+      "time": "2026-10-04T23:15",
+      "avg_tone": -3.989,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-10-04T23:30",
+      "avg_tone": -2.56,
+      "n_articles": 2
+    },
+    {
+      "time": "2026-10-04T23:45",
+      "avg_tone": -2.151,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-10-05T00:00",
+      "avg_tone": -1.249,
+      "n_articles": 7
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 2,
-      "avg_tone": -3.682
-    },
-    {
-      "source": "movieweb.com",
+      "source": "wakingthered.com",
       "n": 1,
-      "avg_tone": -0.567
+      "avg_tone": -0.416
     },
     {
-      "source": "thegazette.com",
+      "source": "dailyadvance.com",
       "n": 1,
       "avg_tone": -5.537
     },
     {
-      "source": "trentonian.com",
+      "source": "trinidadtimes.com",
       "n": 1,
-      "avg_tone": 2.177
+      "avg_tone": -1.456
     },
     {
-      "source": "calcoastnews.com",
+      "source": "hometownsource.com",
       "n": 1,
-      "avg_tone": 5.303
+      "avg_tone": 1.345
     },
     {
-      "source": "insidermonkey.com",
+      "source": "tvline.com",
       "n": 1,
-      "avg_tone": -0.437
+      "avg_tone": -0.209
     },
     {
-      "source": "hellenicshippingnews.com",
+      "source": "wsws.org",
       "n": 1,
-      "avg_tone": 0.306
+      "avg_tone": -3.635
     },
     {
-      "source": "indiatimes.com",
+      "source": "bloodhorse.com",
       "n": 1,
-      "avg_tone": 2.628
+      "avg_tone": 1.163
     },
     {
-      "source": "tmz.com",
+      "source": "dailypolitical.com",
       "n": 1,
-      "avg_tone": -2.74
+      "avg_tone": 2.571
     },
     {
-      "source": "wjcl.com",
+      "source": "wpst.com",
       "n": 1,
-      "avg_tone": -1.429
+      "avg_tone": -8.333
     },
     {
-      "source": "wcbm.com",
+      "source": "aol.com",
       "n": 1,
-      "avg_tone": -3.618
+      "avg_tone": 0.454
     },
     {
-      "source": "geo.tv",
+      "source": "santacruzsentinel.com",
       "n": 1,
-      "avg_tone": 2.941
+      "avg_tone": -3.297
+    },
+    {
+      "source": "winknews.com",
+      "n": 1,
+      "avg_tone": -5.537
+    },
+    {
+      "source": "fool.com",
+      "n": 1,
+      "avg_tone": 0.418
+    },
+    {
+      "source": "wdtimes.com",
+      "n": 1,
+      "avg_tone": -5.167
+    },
+    {
+      "source": "riotimesonline.com",
+      "n": 1,
+      "avg_tone": -2.226
     }
   ],
   "top_themes": [
     {
-      "theme": "EPU_CATS_HEALTHCARE",
-      "n": 21
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 68
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 67
+    },
+    {
+      "theme": "WB_1014_CRIMINAL_JUSTICE",
+      "n": 66
+    },
+    {
+      "theme": "WB_2024_ANTI_CORRUPTION_AUTHORITIES",
+      "n": 65
+    },
+    {
+      "theme": "WB_2025_INVESTIGATION",
+      "n": 65
+    },
+    {
+      "theme": "WB_831_GOVERNANCE",
+      "n": 65
+    },
+    {
+      "theme": "WB_832_ANTI_CORRUPTION",
+      "n": 65
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 20
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 12
+      "n": 60
     },
     {
       "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 12
+      "n": 50
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 12
+      "n": 44
     },
     {
-      "theme": "WB_635_PUBLIC_HEALTH",
-      "n": 9
+      "theme": "TAX_FNCACT_AGENT",
+      "n": 28
     },
     {
-      "theme": "AFFECT",
-      "n": 9
+      "theme": "MOVEMENT_GENERAL",
+      "n": 25
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 9
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 23
     },
     {
-      "theme": "TAX_DISEASE_OUTBREAK",
-      "n": 8
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 23
     },
     {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 8
-    },
-    {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 8
-    },
-    {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 8
-    },
-    {
-      "theme": "TAX_FNCACT_WOMAN",
-      "n": 8
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 8
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 7
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 22
     }
   ]
 }
