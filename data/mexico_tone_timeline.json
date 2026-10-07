@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-10-07T09:15:01.124073+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -0.551,
+  "generated_at": "2026-10-07T16:30:17.685770+00:00",
+  "rows_total_scanned_last_run": 4555,
+  "rows_mexico_last_run": 51,
+  "overall_avg_tone_4h": -0.77,
   "timeline": [
-    {
-      "time": "2026-10-04T13:45",
-      "avg_tone": -0.414,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-10-04T14:00",
-      "avg_tone": -1.819,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-10-04T14:15",
-      "avg_tone": -3.023,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-10-04T14:30",
-      "avg_tone": -2.311,
-      "n_articles": 13
-    },
     {
       "time": "2026-10-04T17:30",
       "avg_tone": -3.475,
@@ -248,8 +228,160 @@
       "time": "2026-10-07T02:45",
       "avg_tone": -1.18,
       "n_articles": 22
+    },
+    {
+      "time": "2026-10-07T15:45",
+      "avg_tone": -0.897,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-10-07T16:00",
+      "avg_tone": -2.367,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-10-07T16:30",
+      "avg_tone": -1.818,
+      "n_articles": 21
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "iheart.com",
+      "n": 3,
+      "avg_tone": -7.143
+    },
+    {
+      "source": "aol.com",
+      "n": 2,
+      "avg_tone": 0.249
+    },
+    {
+      "source": "kob.com",
+      "n": 2,
+      "avg_tone": 1.729
+    },
+    {
+      "source": "cubaheadlines.com",
+      "n": 2,
+      "avg_tone": -0.126
+    },
+    {
+      "source": "theguardian.com",
+      "n": 2,
+      "avg_tone": 0.044
+    },
+    {
+      "source": "wpbf.com",
+      "n": 1,
+      "avg_tone": -5.341
+    },
+    {
+      "source": "brandonsun.com",
+      "n": 1,
+      "avg_tone": 5.066
+    },
+    {
+      "source": "kioa.com",
+      "n": 1,
+      "avg_tone": -6.192
+    },
+    {
+      "source": "latimes.com",
+      "n": 1,
+      "avg_tone": -1.054
+    },
+    {
+      "source": "intelligencer.ca",
+      "n": 1,
+      "avg_tone": 4.927
+    },
+    {
+      "source": "mining.com",
+      "n": 1,
+      "avg_tone": -2.677
+    },
+    {
+      "source": "couriernews.com",
+      "n": 1,
+      "avg_tone": -0.536
+    },
+    {
+      "source": "wkoa.com",
+      "n": 1,
+      "avg_tone": -6.192
+    },
+    {
+      "source": "californiatelegraph.com",
+      "n": 1,
+      "avg_tone": 0.9
+    },
+    {
+      "source": "theitem.com",
+      "n": 1,
+      "avg_tone": -6.369
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 184
+    },
+    {
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 175
+    },
+    {
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 68
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 55
+    },
+    {
+      "theme": "TAX_FNCACT_GOLDSMITH",
+      "n": 50
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 45
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 45
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 45
+    },
+    {
+      "theme": "ENV_METALS",
+      "n": 41
+    },
+    {
+      "theme": "NATURAL_DISASTER_TROPICAL_STORM",
+      "n": 36
+    },
+    {
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 35
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 34
+    },
+    {
+      "theme": "WB_2936_GOLD",
+      "n": 29
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 21
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 20
+    }
+  ]
 }
