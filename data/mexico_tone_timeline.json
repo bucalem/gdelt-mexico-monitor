@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-10-10T02:20:45.300629+00:00",
-  "rows_total_scanned_last_run": 2784,
-  "rows_mexico_last_run": 91,
-  "overall_avg_tone_4h": -2.739,
+  "generated_at": "2026-10-10T08:43:32.057738+00:00",
+  "rows_total_scanned_last_run": 2437,
+  "rows_mexico_last_run": 95,
+  "overall_avg_tone_4h": -3.953,
   "timeline": [
-    {
-      "time": "2026-10-07T02:30",
-      "avg_tone": 0.463,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-10-07T02:45",
-      "avg_tone": -1.18,
-      "n_articles": 22
-    },
     {
       "time": "2026-10-07T15:45",
       "avg_tone": -0.897,
@@ -183,145 +173,165 @@
       "time": "2026-10-10T02:30",
       "avg_tone": -2.387,
       "n_articles": 17
+    },
+    {
+      "time": "2026-10-10T08:00",
+      "avg_tone": -6.614,
+      "n_articles": 24
+    },
+    {
+      "time": "2026-10-10T08:15",
+      "avg_tone": -5.158,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-10-10T08:30",
+      "avg_tone": -6.057,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-10-10T08:45",
+      "avg_tone": -6.706,
+      "n_articles": 29
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 19,
-      "avg_tone": -7.092
+      "n": 11,
+      "avg_tone": -9.57
     },
     {
-      "source": "wral.com",
+      "source": "idahostatejournal.com",
+      "n": 4,
+      "avg_tone": -4.821
+    },
+    {
+      "source": "hngnews.com",
+      "n": 4,
+      "avg_tone": -6.057
+    },
+    {
+      "source": "thegazette.com",
       "n": 3,
-      "avg_tone": -5.785
+      "avg_tone": -5.325
     },
     {
-      "source": "yakimaherald.com",
+      "source": "riotimesonline.com",
       "n": 2,
-      "avg_tone": -5.158
+      "avg_tone": -1.263
     },
     {
-      "source": "jpost.com",
+      "source": "yumasun.com",
       "n": 2,
-      "avg_tone": -2.08
+      "avg_tone": -6.964
     },
     {
-      "source": "brazilsun.com",
+      "source": "news4jax.com",
       "n": 2,
-      "avg_tone": -3.575
+      "avg_tone": -2.358
     },
     {
-      "source": "sandiegouniontribune.com",
+      "source": "krod.com",
       "n": 2,
-      "avg_tone": -5.018
+      "avg_tone": 1.075
     },
     {
-      "source": "deadline.com",
-      "n": 2,
-      "avg_tone": -4.71
-    },
-    {
-      "source": "sun-sentinel.com",
-      "n": 2,
-      "avg_tone": -5.12
-    },
-    {
-      "source": "netscape.com",
-      "n": 2,
-      "avg_tone": -6.193
-    },
-    {
-      "source": "2news.com",
-      "n": 2,
-      "avg_tone": -5.168
-    },
-    {
-      "source": "butlereagle.com",
-      "n": 2,
-      "avg_tone": -5.293
-    },
-    {
-      "source": "wishtv.com",
-      "n": 2,
-      "avg_tone": -5.998
-    },
-    {
-      "source": "wsbt.com",
+      "source": "somersetcountygazette.co.uk",
       "n": 1,
-      "avg_tone": -6.325
+      "avg_tone": -8.293
     },
     {
-      "source": "aninews.in",
+      "source": "themarketsdaily.com",
       "n": 1,
-      "avg_tone": 10.101
+      "avg_tone": 2.344
     },
     {
-      "source": "krcgtv.com",
+      "source": "redditchadvertiser.co.uk",
       "n": 1,
-      "avg_tone": 1.02
+      "avg_tone": -8.293
+    },
+    {
+      "source": "lancashiretelegraph.co.uk",
+      "n": 1,
+      "avg_tone": -8.293
+    },
+    {
+      "source": "finanznachrichten.de",
+      "n": 1,
+      "avg_tone": -0.914
+    },
+    {
+      "source": "readingchronicle.co.uk",
+      "n": 1,
+      "avg_tone": -8.293
+    },
+    {
+      "source": "tribuneonlineng.com",
+      "n": 1,
+      "avg_tone": 0.153
     }
   ],
   "top_themes": [
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 569
-    },
-    {
       "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 386
+      "n": 736
     },
     {
-      "theme": "NATURAL_DISASTER_STORM_SURGE",
-      "n": 179
-    },
-    {
-      "theme": "BORDER",
-      "n": 127
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 704
     },
     {
       "theme": "TAX_WORLDLANGUAGES_ALABAMA",
-      "n": 118
-    },
-    {
-      "theme": "CRISISLEX_O01_WEATHER",
-      "n": 113
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 110
-    },
-    {
-      "theme": "NATURAL_DISASTER_TROPICAL_STORM",
-      "n": 100
-    },
-    {
-      "theme": "NATURAL_DISASTER_HURRICANES",
-      "n": 96
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 78
+      "n": 297
     },
     {
       "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 76
+      "n": 136
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 69
-    },
-    {
-      "theme": "AFFECT",
-      "n": 63
+      "theme": "NATURAL_DISASTER_TROPICAL_STORM",
+      "n": 111
     },
     {
       "theme": "NATURAL_DISASTER_FLOODING",
-      "n": 63
+      "n": 110
     },
     {
-      "theme": "UNGP_CRIME_VIOLENCE",
-      "n": 61
+      "theme": "CRISISLEX_C06_WATER_SANITATION",
+      "n": 110
+    },
+    {
+      "theme": "LEADER",
+      "n": 106
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 96
+    },
+    {
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 94
+    },
+    {
+      "theme": "NATURAL_DISASTER_SUSTAINED_WINDS",
+      "n": 91
+    },
+    {
+      "theme": "NATURAL_DISASTER_STORM_SURGE",
+      "n": 89
+    },
+    {
+      "theme": "NATURAL_DISASTER_FLOODED",
+      "n": 85
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 84
+    },
+    {
+      "theme": "WB_286_TELECOMMUNICATIONS_AND_BROADBAND_ACCESS",
+      "n": 78
     }
   ]
 }
