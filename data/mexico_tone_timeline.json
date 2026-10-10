@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-10-09T23:14:17.008333+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -2.011,
+  "generated_at": "2026-10-10T02:20:45.300629+00:00",
+  "rows_total_scanned_last_run": 2784,
+  "rows_mexico_last_run": 91,
+  "overall_avg_tone_4h": -2.739,
   "timeline": [
-    {
-      "time": "2026-10-06T23:15",
-      "avg_tone": 0.246,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-10-06T23:30",
-      "avg_tone": -2.464,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-10-07T02:00",
-      "avg_tone": -1.182,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-10-07T02:15",
-      "avg_tone": 1.221,
-      "n_articles": 6
-    },
     {
       "time": "2026-10-07T02:30",
       "avg_tone": 0.463,
@@ -183,8 +163,165 @@
       "time": "2026-10-09T13:45",
       "avg_tone": -1.292,
       "n_articles": 21
+    },
+    {
+      "time": "2026-10-10T01:45",
+      "avg_tone": -3.441,
+      "n_articles": 28
+    },
+    {
+      "time": "2026-10-10T02:00",
+      "avg_tone": -4.004,
+      "n_articles": 22
+    },
+    {
+      "time": "2026-10-10T02:15",
+      "avg_tone": -4.574,
+      "n_articles": 24
+    },
+    {
+      "time": "2026-10-10T02:30",
+      "avg_tone": -2.387,
+      "n_articles": 17
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "iheart.com",
+      "n": 19,
+      "avg_tone": -7.092
+    },
+    {
+      "source": "wral.com",
+      "n": 3,
+      "avg_tone": -5.785
+    },
+    {
+      "source": "yakimaherald.com",
+      "n": 2,
+      "avg_tone": -5.158
+    },
+    {
+      "source": "jpost.com",
+      "n": 2,
+      "avg_tone": -2.08
+    },
+    {
+      "source": "brazilsun.com",
+      "n": 2,
+      "avg_tone": -3.575
+    },
+    {
+      "source": "sandiegouniontribune.com",
+      "n": 2,
+      "avg_tone": -5.018
+    },
+    {
+      "source": "deadline.com",
+      "n": 2,
+      "avg_tone": -4.71
+    },
+    {
+      "source": "sun-sentinel.com",
+      "n": 2,
+      "avg_tone": -5.12
+    },
+    {
+      "source": "netscape.com",
+      "n": 2,
+      "avg_tone": -6.193
+    },
+    {
+      "source": "2news.com",
+      "n": 2,
+      "avg_tone": -5.168
+    },
+    {
+      "source": "butlereagle.com",
+      "n": 2,
+      "avg_tone": -5.293
+    },
+    {
+      "source": "wishtv.com",
+      "n": 2,
+      "avg_tone": -5.998
+    },
+    {
+      "source": "wsbt.com",
+      "n": 1,
+      "avg_tone": -6.325
+    },
+    {
+      "source": "aninews.in",
+      "n": 1,
+      "avg_tone": 10.101
+    },
+    {
+      "source": "krcgtv.com",
+      "n": 1,
+      "avg_tone": 1.02
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 569
+    },
+    {
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 386
+    },
+    {
+      "theme": "NATURAL_DISASTER_STORM_SURGE",
+      "n": 179
+    },
+    {
+      "theme": "BORDER",
+      "n": 127
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_ALABAMA",
+      "n": 118
+    },
+    {
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 113
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 110
+    },
+    {
+      "theme": "NATURAL_DISASTER_TROPICAL_STORM",
+      "n": 100
+    },
+    {
+      "theme": "NATURAL_DISASTER_HURRICANES",
+      "n": 96
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 78
+    },
+    {
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 76
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 69
+    },
+    {
+      "theme": "AFFECT",
+      "n": 63
+    },
+    {
+      "theme": "NATURAL_DISASTER_FLOODING",
+      "n": 63
+    },
+    {
+      "theme": "UNGP_CRIME_VIOLENCE",
+      "n": 61
+    }
+  ]
 }
