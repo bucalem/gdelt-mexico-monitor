@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-10T08:43:32.057738+00:00",
-  "rows_total_scanned_last_run": 2437,
-  "rows_mexico_last_run": 95,
-  "overall_avg_tone_4h": -3.953,
+  "generated_at": "2026-10-10T14:45:25.238736+00:00",
+  "rows_total_scanned_last_run": 2842,
+  "rows_mexico_last_run": 105,
+  "overall_avg_tone_4h": -4.048,
   "timeline": [
     {
       "time": "2026-10-07T15:45",
@@ -193,145 +193,165 @@
       "time": "2026-10-10T08:45",
       "avg_tone": -6.706,
       "n_articles": 29
+    },
+    {
+      "time": "2026-10-10T14:00",
+      "avg_tone": -4.894,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-10-10T14:15",
+      "avg_tone": -4.128,
+      "n_articles": 22
+    },
+    {
+      "time": "2026-10-10T14:30",
+      "avg_tone": -3.372,
+      "n_articles": 35
+    },
+    {
+      "time": "2026-10-10T14:45",
+      "avg_tone": -4.697,
+      "n_articles": 30
     }
   ],
   "top_sources": [
     {
-      "source": "iheart.com",
-      "n": 11,
-      "avg_tone": -9.57
-    },
-    {
-      "source": "idahostatejournal.com",
-      "n": 4,
-      "avg_tone": -4.821
-    },
-    {
-      "source": "hngnews.com",
-      "n": 4,
-      "avg_tone": -6.057
-    },
-    {
-      "source": "thegazette.com",
+      "source": "latintimes.com",
       "n": 3,
-      "avg_tone": -5.325
+      "avg_tone": -2.71
     },
     {
-      "source": "riotimesonline.com",
+      "source": "clickondetroit.com",
       "n": 2,
-      "avg_tone": -1.263
+      "avg_tone": -5.488
     },
     {
-      "source": "yumasun.com",
+      "source": "kcra.com",
       "n": 2,
-      "avg_tone": -6.964
+      "avg_tone": -5.024
     },
     {
-      "source": "news4jax.com",
+      "source": "english.news.cn",
       "n": 2,
-      "avg_tone": -2.358
+      "avg_tone": -4.678
     },
     {
-      "source": "krod.com",
+      "source": "wgauradio.com",
       "n": 2,
-      "avg_tone": 1.075
+      "avg_tone": -4.925
     },
     {
-      "source": "somersetcountygazette.co.uk",
-      "n": 1,
-      "avg_tone": -8.293
+      "source": "winknews.com",
+      "n": 2,
+      "avg_tone": -5.039
     },
     {
-      "source": "themarketsdaily.com",
-      "n": 1,
-      "avg_tone": 2.344
+      "source": "kold.com",
+      "n": 2,
+      "avg_tone": -4.483
     },
     {
-      "source": "redditchadvertiser.co.uk",
-      "n": 1,
-      "avg_tone": -8.293
+      "source": "cruiseindustrynews.com",
+      "n": 2,
+      "avg_tone": 0.33
     },
     {
-      "source": "lancashiretelegraph.co.uk",
-      "n": 1,
-      "avg_tone": -8.293
+      "source": "bangordailynews.com",
+      "n": 2,
+      "avg_tone": -5.178
     },
     {
-      "source": "finanznachrichten.de",
-      "n": 1,
-      "avg_tone": -0.914
+      "source": "clickorlando.com",
+      "n": 2,
+      "avg_tone": -4.99
     },
     {
-      "source": "readingchronicle.co.uk",
-      "n": 1,
-      "avg_tone": -8.293
+      "source": "globalnews.ca",
+      "n": 2,
+      "avg_tone": -4.211
     },
     {
-      "source": "tribuneonlineng.com",
+      "source": "mysuncoast.com",
       "n": 1,
-      "avg_tone": 0.153
+      "avg_tone": 0.737
+    },
+    {
+      "source": "theargus.co.uk",
+      "n": 1,
+      "avg_tone": -8.374
+    },
+    {
+      "source": "supertalk.fm",
+      "n": 1,
+      "avg_tone": -7.732
+    },
+    {
+      "source": "messengernewspapers.co.uk",
+      "n": 1,
+      "avg_tone": -8.374
     }
   ],
   "top_themes": [
     {
       "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 736
+      "n": 592
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 704
+      "n": 572
     },
     {
       "theme": "TAX_WORLDLANGUAGES_ALABAMA",
-      "n": 297
+      "n": 246
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 184
+    },
+    {
+      "theme": "WB_1291_PUBLIC_HEALTH_INSURANCE",
+      "n": 176
+    },
+    {
+      "theme": "WB_625_HEALTH_ECONOMICS_AND_FINANCE",
+      "n": 176
+    },
+    {
+      "theme": "WB_1287_HEALTH_INSURANCE",
+      "n": 176
+    },
+    {
+      "theme": "EPU_CATS_HEALTHCARE",
+      "n": 176
+    },
+    {
+      "theme": "EPU_CATS_ENTITLEMENT_PROGRAMS",
+      "n": 176
     },
     {
       "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 136
-    },
-    {
-      "theme": "NATURAL_DISASTER_TROPICAL_STORM",
-      "n": 111
-    },
-    {
-      "theme": "NATURAL_DISASTER_FLOODING",
-      "n": 110
-    },
-    {
-      "theme": "CRISISLEX_C06_WATER_SANITATION",
-      "n": 110
-    },
-    {
-      "theme": "LEADER",
-      "n": 106
+      "n": 129
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 96
+      "n": 112
     },
     {
-      "theme": "CRISISLEX_O01_WEATHER",
-      "n": 94
+      "theme": "IMMIGRATION",
+      "n": 99
     },
     {
-      "theme": "NATURAL_DISASTER_SUSTAINED_WINDS",
-      "n": 91
-    },
-    {
-      "theme": "NATURAL_DISASTER_STORM_SURGE",
-      "n": 89
-    },
-    {
-      "theme": "NATURAL_DISASTER_FLOODED",
-      "n": 85
+      "theme": "TAX_FNCACT_IMMIGRANTS",
+      "n": 99
     },
     {
       "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 84
+      "n": 91
     },
     {
-      "theme": "WB_286_TELECOMMUNICATIONS_AND_BROADBAND_ACCESS",
-      "n": 78
+      "theme": "NATURAL_DISASTER_FLOODING",
+      "n": 89
     }
   ]
 }
