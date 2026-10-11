@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-10-11T13:59:17.317312+00:00",
-  "rows_total_scanned_last_run": 1304,
-  "rows_mexico_last_run": 57,
-  "overall_avg_tone_4h": -3.312,
+  "generated_at": "2026-10-11T18:41:14.778920+00:00",
+  "rows_total_scanned_last_run": 2763,
+  "rows_mexico_last_run": 75,
+  "overall_avg_tone_4h": -2.724,
   "timeline": [
-    {
-      "time": "2026-10-08T14:15",
-      "avg_tone": -0.928,
-      "n_articles": 32
-    },
-    {
-      "time": "2026-10-08T14:30",
-      "avg_tone": -0.527,
-      "n_articles": 27
-    },
-    {
-      "time": "2026-10-08T14:45",
-      "avg_tone": 0.04,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-10-08T15:00",
-      "avg_tone": -1.307,
-      "n_articles": 23
-    },
     {
       "time": "2026-10-08T19:45",
       "avg_tone": -0.25,
@@ -198,145 +178,165 @@
       "time": "2026-10-11T14:00",
       "avg_tone": -2.297,
       "n_articles": 26
+    },
+    {
+      "time": "2026-10-11T18:00",
+      "avg_tone": -2.834,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-10-11T18:15",
+      "avg_tone": -3.581,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-10-11T18:30",
+      "avg_tone": -3.439,
+      "n_articles": 22
+    },
+    {
+      "time": "2026-10-11T18:45",
+      "avg_tone": -3.13,
+      "n_articles": 21
     }
   ],
   "top_sources": [
     {
-      "source": "laist.com",
+      "source": "riotimesonline.com",
       "n": 3,
-      "avg_tone": -2.054
+      "avg_tone": -1.119
     },
     {
-      "source": "abcnews.com",
-      "n": 3,
-      "avg_tone": -3.373
-    },
-    {
-      "source": "dailygazette.com",
-      "n": 3,
-      "avg_tone": -2.963
-    },
-    {
-      "source": "sandiegouniontribune.com",
+      "source": "themarketsdaily.com",
       "n": 2,
-      "avg_tone": 0.231
+      "avg_tone": 1.831
     },
     {
-      "source": "stcatharinesstandard.ca",
+      "source": "turnto23.com",
       "n": 2,
-      "avg_tone": -3.099
+      "avg_tone": -0.73
     },
     {
-      "source": "ksat.com",
+      "source": "orlandosentinel.com",
       "n": 2,
-      "avg_tone": -1.653
+      "avg_tone": -3.668
     },
     {
-      "source": "bworldonline.com",
+      "source": "kwtx.com",
       "n": 2,
-      "avg_tone": -4.899
+      "avg_tone": -4.695
     },
     {
-      "source": "mymotherlode.com",
-      "n": 2,
-      "avg_tone": -1.847
-    },
-    {
-      "source": "winknews.com",
-      "n": 2,
-      "avg_tone": -4.07
-    },
-    {
-      "source": "denverpost.com",
+      "source": "cbc.ca",
       "n": 1,
-      "avg_tone": 2.132
+      "avg_tone": -4.796
     },
     {
-      "source": "wrvo.org",
+      "source": "easternriverinachronicle.com.au",
       "n": 1,
-      "avg_tone": -2.653
+      "avg_tone": -4.841
     },
     {
-      "source": "kunm.org",
+      "source": "camdencourier.com.au",
       "n": 1,
-      "avg_tone": -2.653
+      "avg_tone": -4.844
     },
     {
-      "source": "caughtoffside.com",
+      "source": "therural.com.au",
       "n": 1,
-      "avg_tone": -0.522
+      "avg_tone": -4.844
     },
     {
-      "source": "vox.com",
+      "source": "abc30.com",
       "n": 1,
-      "avg_tone": 0.077
+      "avg_tone": -4.817
     },
     {
-      "source": "taiwansun.com",
+      "source": "kfgo.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -7.073
+    },
+    {
+      "source": "faribaultcountyregister.com",
+      "n": 1,
+      "avg_tone": -6.447
+    },
+    {
+      "source": "thespec.com",
+      "n": 1,
+      "avg_tone": 0.652
+    },
+    {
+      "source": "kake.com",
+      "n": 1,
+      "avg_tone": -4.079
+    },
+    {
+      "source": "internazionale.it",
+      "n": 1,
+      "avg_tone": -7.436
     }
   ],
   "top_themes": [
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 164
+      "n": 328
     },
     {
       "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 135
+      "n": 187
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 90
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 69
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 59
-    },
-    {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 46
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 45
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 127
     },
     {
       "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 42
+      "n": 100
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 42
+      "theme": "TAX_FNCACT_MAN",
+      "n": 96
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 40
+      "theme": "TAX_WORLDFISH_PIKE",
+      "n": 96
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 40
+      "theme": "TRIAL",
+      "n": 93
     },
     {
-      "theme": "LEADER",
-      "n": 39
+      "theme": "NATURAL_DISASTER_FLOODING",
+      "n": 88
+    },
+    {
+      "theme": "CRISISLEX_C06_WATER_SANITATION",
+      "n": 88
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 82
+    },
+    {
+      "theme": "DEATH_PENALTY",
+      "n": 80
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 78
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_ALABAMA",
+      "n": 77
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 39
+      "n": 69
     },
     {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 39
-    },
-    {
-      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 39
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 66
     }
   ]
 }
