@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-10-11T22:27:47.849921+00:00",
-  "rows_total_scanned_last_run": 517,
-  "rows_mexico_last_run": 16,
-  "overall_avg_tone_4h": -2.701,
+  "generated_at": "2026-10-12T01:32:23.279031+00:00",
+  "rows_total_scanned_last_run": 2040,
+  "rows_mexico_last_run": 54,
+  "overall_avg_tone_4h": -2.79,
   "timeline": [
-    {
-      "time": "2026-10-08T23:45",
-      "avg_tone": -0.877,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-10-09T00:00",
-      "avg_tone": -2.063,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-10-09T00:30",
-      "avg_tone": -2.084,
-      "n_articles": 18
-    },
     {
       "time": "2026-10-09T06:00",
       "avg_tone": -4.57,
@@ -183,145 +168,165 @@
       "time": "2026-10-11T21:45",
       "avg_tone": -3.682,
       "n_articles": 16
+    },
+    {
+      "time": "2026-10-12T00:45",
+      "avg_tone": -4.065,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-10-12T01:00",
+      "avg_tone": -2.367,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-10-12T01:15",
+      "avg_tone": -3.927,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-10-12T01:30",
+      "avg_tone": -4.557,
+      "n_articles": 14
     }
   ],
   "top_sources": [
     {
-      "source": "newsbusters.org",
-      "n": 1,
-      "avg_tone": -5.689
+      "source": "eurasiareview.com",
+      "n": 2,
+      "avg_tone": -2.432
     },
     {
-      "source": "2news.com",
-      "n": 1,
-      "avg_tone": -5.561
+      "source": "netscape.com",
+      "n": 2,
+      "avg_tone": -5.258
     },
     {
-      "source": "ksby.com",
-      "n": 1,
-      "avg_tone": -6.625
+      "source": "chicagotribune.com",
+      "n": 2,
+      "avg_tone": -1.963
     },
     {
-      "source": "edp24.co.uk",
-      "n": 1,
-      "avg_tone": -4.844
+      "source": "mexicoledger.com",
+      "n": 2,
+      "avg_tone": 3.197
     },
     {
-      "source": "milfordmercury.co.uk",
+      "source": "kunr.org",
       "n": 1,
-      "avg_tone": -4.844
+      "avg_tone": -5.263
     },
     {
-      "source": "bournemouthecho.co.uk",
+      "source": "aawsat.com",
       "n": 1,
-      "avg_tone": -4.844
+      "avg_tone": 0.54
     },
     {
-      "source": "culturemap.com",
+      "source": "wknofm.org",
       "n": 1,
-      "avg_tone": 2.632
+      "avg_tone": -5.263
     },
     {
-      "source": "southernhighlandnews.com.au",
+      "source": "idahostatejournal.com",
       "n": 1,
-      "avg_tone": -4.766
+      "avg_tone": -4.461
     },
     {
-      "source": "timesleader.com",
+      "source": "wsiu.org",
       "n": 1,
-      "avg_tone": -0.121
+      "avg_tone": -5.263
     },
     {
-      "source": "calcoastnews.com",
+      "source": "eldoradonews.com",
       "n": 1,
-      "avg_tone": 5.303
+      "avg_tone": -5.903
     },
     {
-      "source": "foxnews.com",
+      "source": "nbcsandiego.com",
       "n": 1,
-      "avg_tone": -2.076
+      "avg_tone": -5.094
     },
     {
-      "source": "redditchadvertiser.co.uk",
+      "source": "wutc.org",
       "n": 1,
-      "avg_tone": -4.844
+      "avg_tone": -5.263
     },
     {
-      "source": "knoe.com",
+      "source": "wfmd.com",
       "n": 1,
-      "avg_tone": -5.561
+      "avg_tone": -6.338
     },
     {
-      "source": "news4jax.com",
+      "source": "aol.co.uk",
       "n": 1,
-      "avg_tone": -5.471
+      "avg_tone": -6.114
     },
     {
-      "source": "peeblesshirenews.com",
+      "source": "newsminer.com",
       "n": 1,
-      "avg_tone": -4.844
+      "avg_tone": -0.193
     }
   ],
   "top_themes": [
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 91
+      "n": 244
     },
     {
       "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 78
+      "n": 227
     },
     {
       "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 29
-    },
-    {
-      "theme": "NATURAL_DISASTER_FLOODING",
-      "n": 27
+      "n": 116
     },
     {
       "theme": "CRISISLEX_C06_WATER_SANITATION",
-      "n": 27
+      "n": 69
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 69
+    },
+    {
+      "theme": "NATURAL_DISASTER_FLOODING",
+      "n": 65
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 63
     },
     {
       "theme": "LEADER",
-      "n": 21
+      "n": 59
     },
     {
-      "theme": "TAX_FNCACT_MAN",
-      "n": 17
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 57
     },
     {
-      "theme": "TAX_FNCACT_GUARD",
-      "n": 15
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 48
+    },
+    {
+      "theme": "CRISISLEX_C04_LOGISTICS_TRANSPORT",
+      "n": 48
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 47
     },
     {
       "theme": "CRISISLEX_O01_WEATHER",
-      "n": 14
-    },
-    {
-      "theme": "SECURITY_SERVICES",
-      "n": 14
-    },
-    {
-      "theme": "TAX_FNCACT_WORKERS",
-      "n": 13
-    },
-    {
-      "theme": "AFFECT",
-      "n": 12
+      "n": 42
     },
     {
       "theme": "TAX_WORLDLANGUAGES_ALABAMA",
-      "n": 12
+      "n": 41
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 12
-    },
-    {
-      "theme": "NATURAL_DISASTER_MUDSLIDES",
-      "n": 11
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 41
     }
   ]
 }
