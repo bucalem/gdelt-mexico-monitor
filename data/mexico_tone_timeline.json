@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-10-12T07:57:47.151612+00:00",
-  "rows_total_scanned_last_run": 2802,
-  "rows_mexico_last_run": 54,
-  "overall_avg_tone_4h": -2.878,
+  "generated_at": "2026-10-12T17:23:09.074493+00:00",
+  "rows_total_scanned_last_run": 5335,
+  "rows_mexico_last_run": 91,
+  "overall_avg_tone_4h": -2.411,
   "timeline": [
-    {
-      "time": "2026-10-09T13:00",
-      "avg_tone": -1.341,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-10-09T13:15",
-      "avg_tone": -3.614,
-      "n_articles": 23
-    },
-    {
-      "time": "2026-10-09T13:30",
-      "avg_tone": -1.175,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-10-09T13:45",
-      "avg_tone": -1.292,
-      "n_articles": 21
-    },
     {
       "time": "2026-10-10T01:45",
       "avg_tone": -3.441,
@@ -198,145 +178,165 @@
       "time": "2026-10-12T08:00",
       "avg_tone": -4.039,
       "n_articles": 6
+    },
+    {
+      "time": "2026-10-12T16:45",
+      "avg_tone": 0.626,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-10-12T17:00",
+      "avg_tone": 0.051,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-10-12T17:15",
+      "avg_tone": -1.457,
+      "n_articles": 29
+    },
+    {
+      "time": "2026-10-12T17:30",
+      "avg_tone": -0.184,
+      "n_articles": 18
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 9,
-      "avg_tone": -2.301
-    },
-    {
-      "source": "thegazette.com",
-      "n": 2,
-      "avg_tone": -2.614
-    },
-    {
-      "source": "lancasteronline.com",
-      "n": 2,
-      "avg_tone": -2.466
-    },
-    {
-      "source": "wglt.org",
-      "n": 1,
-      "avg_tone": -4.751
-    },
-    {
-      "source": "kawc.org",
-      "n": 1,
-      "avg_tone": -4.751
-    },
-    {
-      "source": "northernpublicradio.org",
-      "n": 1,
-      "avg_tone": -4.751
-    },
-    {
-      "source": "kmxt.org",
-      "n": 1,
-      "avg_tone": -4.751
-    },
-    {
-      "source": "theecologist.org",
-      "n": 1,
-      "avg_tone": -2.519
-    },
-    {
-      "source": "bozemandailychronicle.com",
-      "n": 1,
-      "avg_tone": -0.749
-    },
-    {
-      "source": "ualrpublicradio.org",
-      "n": 1,
-      "avg_tone": -4.751
-    },
-    {
-      "source": "wpsu.org",
-      "n": 1,
-      "avg_tone": -4.751
-    },
-    {
-      "source": "krwg.org",
-      "n": 1,
-      "avg_tone": -4.751
-    },
-    {
-      "source": "aviationweek.com",
-      "n": 1,
-      "avg_tone": 2.6
+      "source": "iheart.com",
+      "n": 22,
+      "avg_tone": 0.0
     },
     {
       "source": "edmontonsun.com",
-      "n": 1,
-      "avg_tone": 0.703
+      "n": 3,
+      "avg_tone": -0.725
     },
     {
-      "source": "wlrn.org",
+      "source": "pressdemocrat.com",
+      "n": 2,
+      "avg_tone": -0.374
+    },
+    {
+      "source": "lufkindailynews.com",
+      "n": 2,
+      "avg_tone": -3.491
+    },
+    {
+      "source": "culturemap.com",
+      "n": 2,
+      "avg_tone": 1.968
+    },
+    {
+      "source": "americanthinker.com",
+      "n": 2,
+      "avg_tone": -2.812
+    },
+    {
+      "source": "krcu.org",
       "n": 1,
-      "avg_tone": -4.751
+      "avg_tone": -5.263
+    },
+    {
+      "source": "q1077.com",
+      "n": 1,
+      "avg_tone": 4.015
+    },
+    {
+      "source": "journal-news.net",
+      "n": 1,
+      "avg_tone": -4.523
+    },
+    {
+      "source": "ibtimes.com",
+      "n": 1,
+      "avg_tone": 0.917
+    },
+    {
+      "source": "sbsun.com",
+      "n": 1,
+      "avg_tone": -0.171
+    },
+    {
+      "source": "cnn.com",
+      "n": 1,
+      "avg_tone": 3.351
+    },
+    {
+      "source": "wdhafm.com",
+      "n": 1,
+      "avg_tone": 1.627
+    },
+    {
+      "source": "indiatimes.com",
+      "n": 1,
+      "avg_tone": -0.344
+    },
+    {
+      "source": "livemint.com",
+      "n": 1,
+      "avg_tone": 4.437
     }
   ],
   "top_themes": [
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 385
+      "n": 157
     },
     {
-      "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 366
-    },
-    {
-      "theme": "LEADER",
-      "n": 103
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 98
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 128
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 92
+      "n": 94
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 89
-    },
-    {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 88
-    },
-    {
-      "theme": "CRISISLEX_C06_WATER_SANITATION",
+      "theme": "LEADER",
       "n": 87
     },
     {
-      "theme": "TAX_FNCACT_POLICE",
-      "n": 86
-    },
-    {
-      "theme": "NATURAL_DISASTER_FLOODING",
-      "n": 77
-    },
-    {
-      "theme": "WB_135_TRANSPORT",
-      "n": 64
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 87
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 64
+      "n": 73
     },
     {
-      "theme": "SECURITY_SERVICES",
-      "n": 63
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 67
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 66
+    },
+    {
+      "theme": "MEDIA_MSM",
+      "n": 56
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 53
     },
     {
       "theme": "GENERAL_GOVERNMENT",
-      "n": 59
+      "n": 52
     },
     {
-      "theme": "CRISISLEX_C04_LOGISTICS_TRANSPORT",
-      "n": 54
+      "theme": "TAX_FNCACT_EXECUTIVE",
+      "n": 43
+    },
+    {
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 43
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 38
+    },
+    {
+      "theme": "EPU_ECONOMY",
+      "n": 38
     }
   ]
 }
