@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-10-12T01:32:23.279031+00:00",
-  "rows_total_scanned_last_run": 2040,
+  "generated_at": "2026-10-12T07:57:47.151612+00:00",
+  "rows_total_scanned_last_run": 2802,
   "rows_mexico_last_run": 54,
-  "overall_avg_tone_4h": -2.79,
+  "overall_avg_tone_4h": -2.878,
   "timeline": [
-    {
-      "time": "2026-10-09T06:00",
-      "avg_tone": -4.57,
-      "n_articles": 36
-    },
-    {
-      "time": "2026-10-09T06:15",
-      "avg_tone": -4.965,
-      "n_articles": 23
-    },
     {
       "time": "2026-10-09T13:00",
       "avg_tone": -1.341,
@@ -188,145 +178,165 @@
       "time": "2026-10-12T01:30",
       "avg_tone": -4.557,
       "n_articles": 14
+    },
+    {
+      "time": "2026-10-12T07:15",
+      "avg_tone": -2.752,
+      "n_articles": 29
+    },
+    {
+      "time": "2026-10-12T07:30",
+      "avg_tone": -3.624,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-10-12T07:45",
+      "avg_tone": -2.611,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-10-12T08:00",
+      "avg_tone": -4.039,
+      "n_articles": 6
     }
   ],
   "top_sources": [
     {
-      "source": "eurasiareview.com",
+      "source": "riotimesonline.com",
+      "n": 9,
+      "avg_tone": -2.301
+    },
+    {
+      "source": "thegazette.com",
       "n": 2,
-      "avg_tone": -2.432
+      "avg_tone": -2.614
     },
     {
-      "source": "netscape.com",
+      "source": "lancasteronline.com",
       "n": 2,
-      "avg_tone": -5.258
+      "avg_tone": -2.466
     },
     {
-      "source": "chicagotribune.com",
-      "n": 2,
-      "avg_tone": -1.963
-    },
-    {
-      "source": "mexicoledger.com",
-      "n": 2,
-      "avg_tone": 3.197
-    },
-    {
-      "source": "kunr.org",
+      "source": "wglt.org",
       "n": 1,
-      "avg_tone": -5.263
+      "avg_tone": -4.751
     },
     {
-      "source": "aawsat.com",
+      "source": "kawc.org",
       "n": 1,
-      "avg_tone": 0.54
+      "avg_tone": -4.751
     },
     {
-      "source": "wknofm.org",
+      "source": "northernpublicradio.org",
       "n": 1,
-      "avg_tone": -5.263
+      "avg_tone": -4.751
     },
     {
-      "source": "idahostatejournal.com",
+      "source": "kmxt.org",
       "n": 1,
-      "avg_tone": -4.461
+      "avg_tone": -4.751
     },
     {
-      "source": "wsiu.org",
+      "source": "theecologist.org",
       "n": 1,
-      "avg_tone": -5.263
+      "avg_tone": -2.519
     },
     {
-      "source": "eldoradonews.com",
+      "source": "bozemandailychronicle.com",
       "n": 1,
-      "avg_tone": -5.903
+      "avg_tone": -0.749
     },
     {
-      "source": "nbcsandiego.com",
+      "source": "ualrpublicradio.org",
       "n": 1,
-      "avg_tone": -5.094
+      "avg_tone": -4.751
     },
     {
-      "source": "wutc.org",
+      "source": "wpsu.org",
       "n": 1,
-      "avg_tone": -5.263
+      "avg_tone": -4.751
     },
     {
-      "source": "wfmd.com",
+      "source": "krwg.org",
       "n": 1,
-      "avg_tone": -6.338
+      "avg_tone": -4.751
     },
     {
-      "source": "aol.co.uk",
+      "source": "aviationweek.com",
       "n": 1,
-      "avg_tone": -6.114
+      "avg_tone": 2.6
     },
     {
-      "source": "newsminer.com",
+      "source": "edmontonsun.com",
       "n": 1,
-      "avg_tone": -0.193
+      "avg_tone": 0.703
+    },
+    {
+      "source": "wlrn.org",
+      "n": 1,
+      "avg_tone": -4.751
     }
   ],
   "top_themes": [
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 244
+      "n": 385
     },
     {
       "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 227
-    },
-    {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 116
-    },
-    {
-      "theme": "CRISISLEX_C06_WATER_SANITATION",
-      "n": 69
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 69
-    },
-    {
-      "theme": "NATURAL_DISASTER_FLOODING",
-      "n": 65
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 63
+      "n": 366
     },
     {
       "theme": "LEADER",
-      "n": 59
+      "n": 103
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 57
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 98
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 48
-    },
-    {
-      "theme": "CRISISLEX_C04_LOGISTICS_TRANSPORT",
-      "n": 48
+      "n": 92
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 47
+      "n": 89
     },
     {
-      "theme": "CRISISLEX_O01_WEATHER",
-      "n": 42
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 88
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_ALABAMA",
-      "n": 41
+      "theme": "CRISISLEX_C06_WATER_SANITATION",
+      "n": 87
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 41
+      "theme": "TAX_FNCACT_POLICE",
+      "n": 86
+    },
+    {
+      "theme": "NATURAL_DISASTER_FLOODING",
+      "n": 77
+    },
+    {
+      "theme": "WB_135_TRANSPORT",
+      "n": 64
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 64
+    },
+    {
+      "theme": "SECURITY_SERVICES",
+      "n": 63
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 59
+    },
+    {
+      "theme": "CRISISLEX_C04_LOGISTICS_TRANSPORT",
+      "n": 54
     }
   ]
 }
