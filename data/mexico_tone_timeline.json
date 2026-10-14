@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-13T22:58:00.508568+00:00",
-  "rows_total_scanned_last_run": 4554,
-  "rows_mexico_last_run": 49,
-  "overall_avg_tone_4h": -1.357,
+  "generated_at": "2026-10-14T01:36:02.804233+00:00",
+  "rows_total_scanned_last_run": 3155,
+  "rows_mexico_last_run": 25,
+  "overall_avg_tone_4h": -1.107,
   "timeline": [
     {
       "time": "2026-10-11T13:15",
@@ -183,145 +183,160 @@
       "time": "2026-10-13T22:45",
       "avg_tone": -1.745,
       "n_articles": 14
+    },
+    {
+      "time": "2026-10-14T01:00",
+      "avg_tone": -1.505,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-10-14T01:15",
+      "avg_tone": -3.756,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-10-14T01:45",
+      "avg_tone": -1.492,
+      "n_articles": 7
     }
   ],
   "top_sources": [
     {
-      "source": "idahostatejournal.com",
+      "source": "sandiegouniontribune.com",
+      "n": 4,
+      "avg_tone": 2.109
+    },
+    {
+      "source": "kjzz.org",
       "n": 2,
-      "avg_tone": -5.44
+      "avg_tone": -6.443
     },
     {
-      "source": "sfist.com",
+      "source": "hotair.com",
       "n": 2,
-      "avg_tone": -2.08
+      "avg_tone": -1.317
     },
     {
-      "source": "kdhnews.com",
+      "source": "eurasiareview.com",
       "n": 2,
-      "avg_tone": -4.238
+      "avg_tone": -4.307
     },
     {
-      "source": "wdhafm.com",
+      "source": "aceshowbiz.com",
       "n": 1,
-      "avg_tone": 3.382
+      "avg_tone": 1.34
     },
     {
-      "source": "rawstory.com",
+      "source": "kmvt.com",
       "n": 1,
-      "avg_tone": -6.536
+      "avg_tone": -0.686
     },
     {
-      "source": "hyperallergic.com",
+      "source": "dailykos.com",
       "n": 1,
-      "avg_tone": -5.118
+      "avg_tone": -2.069
     },
     {
-      "source": "starsandstripesfc.com",
+      "source": "cbs4local.com",
       "n": 1,
-      "avg_tone": 1.2
+      "avg_tone": 0.816
     },
     {
-      "source": "latintimes.com",
+      "source": "tpr.org",
       "n": 1,
-      "avg_tone": -4.215
+      "avg_tone": 3.041
     },
     {
-      "source": "informationweek.com",
+      "source": "elpais.com",
       "n": 1,
-      "avg_tone": -0.195
+      "avg_tone": -3.6
     },
     {
-      "source": "whig.com",
+      "source": "dailygazette.com",
       "n": 1,
-      "avg_tone": -3.016
+      "avg_tone": -8.385
     },
     {
-      "source": "durangoherald.com",
+      "source": "gringogazette.com",
       "n": 1,
-      "avg_tone": -4.982
+      "avg_tone": -1.522
     },
     {
-      "source": "hbook.com",
+      "source": "ktvo.com",
       "n": 1,
-      "avg_tone": 0.117
+      "avg_tone": -5.017
     },
     {
-      "source": "wgauradio.com",
+      "source": "thefastmode.com",
       "n": 1,
-      "avg_tone": -4.968
+      "avg_tone": 4.789
     },
     {
-      "source": "chroniclejournal.com",
+      "source": "jamaicaobserver.com",
       "n": 1,
-      "avg_tone": -1.849
-    },
-    {
-      "source": "nvdaily.com",
-      "n": 1,
-      "avg_tone": -5.124
+      "avg_tone": -13.014
     }
   ],
   "top_themes": [
     {
-      "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 103
-    },
-    {
-      "theme": "LEADER",
-      "n": 86
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 82
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 72
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 70
-    },
-    {
-      "theme": "TAX_FNCACT_AUTHORITIES",
-      "n": 66
-    },
-    {
-      "theme": "EPU_POLICY_AUTHORITIES",
-      "n": 66
-    },
-    {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 56
+      "n": 97
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 54
+      "theme": "TAX_FNCACT_STUDENTS",
+      "n": 77
     },
     {
-      "theme": "NATURAL_DISASTER_FLOODING",
-      "n": 49
-    },
-    {
-      "theme": "CRISISLEX_C06_WATER_SANITATION",
-      "n": 49
-    },
-    {
-      "theme": "TAX_FNCACT_SECRETARY",
-      "n": 43
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 42
-    },
-    {
-      "theme": "SECURITY_SERVICES",
-      "n": 42
+      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
+      "n": 67
     },
     {
       "theme": "EDUCATION",
-      "n": 40
+      "n": 56
+    },
+    {
+      "theme": "TAX_FNCACT_STUDENT",
+      "n": 53
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 45
+    },
+    {
+      "theme": "BORDER",
+      "n": 41
+    },
+    {
+      "theme": "EPU_POLICY_BUDGET",
+      "n": 39
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 38
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 37
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 35
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 31
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 31
+    },
+    {
+      "theme": "WB_470_EDUCATION",
+      "n": 31
+    },
+    {
+      "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
+      "n": 27
     }
   ]
 }
