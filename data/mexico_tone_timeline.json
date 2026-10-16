@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-16T11:16:45.010255+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -0.026,
+  "generated_at": "2026-10-16T15:25:00.024339+00:00",
+  "rows_total_scanned_last_run": 5844,
+  "rows_mexico_last_run": 76,
+  "overall_avg_tone_4h": -0.07,
   "timeline": [
     {
       "time": "2026-10-13T17:45",
@@ -268,8 +268,165 @@
       "time": "2026-10-16T05:45",
       "avg_tone": -0.978,
       "n_articles": 7
+    },
+    {
+      "time": "2026-10-16T14:45",
+      "avg_tone": 0.044,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-10-16T15:00",
+      "avg_tone": 0.621,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-10-16T15:15",
+      "avg_tone": -1.347,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-10-16T15:30",
+      "avg_tone": 0.251,
+      "n_articles": 18
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "wiky.com",
+      "n": 2,
+      "avg_tone": -6.384
+    },
+    {
+      "source": "retailtimes.co.uk",
+      "n": 2,
+      "avg_tone": 1.434
+    },
+    {
+      "source": "shelf-awareness.com",
+      "n": 2,
+      "avg_tone": -2.568
+    },
+    {
+      "source": "staradvertiser.com",
+      "n": 2,
+      "avg_tone": -1.981
+    },
+    {
+      "source": "timescall.com",
+      "n": 2,
+      "avg_tone": 4.894
+    },
+    {
+      "source": "mercurynews.com",
+      "n": 2,
+      "avg_tone": 3.04
+    },
+    {
+      "source": "newsroomamerica.com",
+      "n": 2,
+      "avg_tone": -0.822
+    },
+    {
+      "source": "nbclosangeles.com",
+      "n": 1,
+      "avg_tone": 1.366
+    },
+    {
+      "source": "techtimes.com",
+      "n": 1,
+      "avg_tone": -1.864
+    },
+    {
+      "source": "poundingtherock.com",
+      "n": 1,
+      "avg_tone": 5.725
+    },
+    {
+      "source": "aninews.in",
+      "n": 1,
+      "avg_tone": 0.647
+    },
+    {
+      "source": "nassauweekly.com",
+      "n": 1,
+      "avg_tone": -2.365
+    },
+    {
+      "source": "mix106radio.com",
+      "n": 1,
+      "avg_tone": 5.027
+    },
+    {
+      "source": "mykiss1031.com",
+      "n": 1,
+      "avg_tone": -8.449
+    },
+    {
+      "source": "thailand-business-news.com",
+      "n": 1,
+      "avg_tone": 3.769
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 141
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 136
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 136
+    },
+    {
+      "theme": "ENV_METALS",
+      "n": 128
+    },
+    {
+      "theme": "WB_2936_GOLD",
+      "n": 122
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 108
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 98
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 94
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 87
+    },
+    {
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 80
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 56
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 52
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 51
+    },
+    {
+      "theme": "LEADER",
+      "n": 50
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 46
+    }
+  ]
 }
