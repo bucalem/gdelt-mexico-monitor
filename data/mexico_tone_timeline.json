@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-10-15T23:08:22.624400+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -0.132,
+  "generated_at": "2026-10-16T01:17:57.745261+00:00",
+  "rows_total_scanned_last_run": 4196,
+  "rows_mexico_last_run": 69,
+  "overall_avg_tone_4h": -0.251,
   "timeline": [
-    {
-      "time": "2026-10-12T23:15",
-      "avg_tone": -2.407,
-      "n_articles": 25
-    },
-    {
-      "time": "2026-10-12T23:45",
-      "avg_tone": -2.984,
-      "n_articles": 20
-    },
     {
       "time": "2026-10-13T03:15",
       "avg_tone": -2.683,
@@ -278,8 +268,165 @@
       "time": "2026-10-15T20:15",
       "avg_tone": 0.395,
       "n_articles": 25
+    },
+    {
+      "time": "2026-10-16T00:30",
+      "avg_tone": -0.988,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-10-16T00:45",
+      "avg_tone": -0.333,
+      "n_articles": 23
+    },
+    {
+      "time": "2026-10-16T01:00",
+      "avg_tone": -0.646,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-10-16T01:15",
+      "avg_tone": 0.537,
+      "n_articles": 11
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "cbs4local.com",
+      "n": 3,
+      "avg_tone": -1.703
+    },
+    {
+      "source": "suncommercial.com",
+      "n": 2,
+      "avg_tone": 1.364
+    },
+    {
+      "source": "pambazuka.org",
+      "n": 2,
+      "avg_tone": -0.092
+    },
+    {
+      "source": "arkansasonline.com",
+      "n": 2,
+      "avg_tone": -0.846
+    },
+    {
+      "source": "wcvb.com",
+      "n": 2,
+      "avg_tone": -3.341
+    },
+    {
+      "source": "wiky.com",
+      "n": 1,
+      "avg_tone": -1.713
+    },
+    {
+      "source": "933thedrive.com",
+      "n": 1,
+      "avg_tone": -2.857
+    },
+    {
+      "source": "nrtoday.com",
+      "n": 1,
+      "avg_tone": 0.597
+    },
+    {
+      "source": "dailybreeze.com",
+      "n": 1,
+      "avg_tone": -0.401
+    },
+    {
+      "source": "nzherald.co.nz",
+      "n": 1,
+      "avg_tone": 0.354
+    },
+    {
+      "source": "fox7austin.com",
+      "n": 1,
+      "avg_tone": 3.71
+    },
+    {
+      "source": "usmagazine.com",
+      "n": 1,
+      "avg_tone": -4.681
+    },
+    {
+      "source": "prnewswire.com",
+      "n": 1,
+      "avg_tone": 8.0
+    },
+    {
+      "source": "mix106radio.com",
+      "n": 1,
+      "avg_tone": 3.526
+    },
+    {
+      "source": "nogalesinternational.com",
+      "n": 1,
+      "avg_tone": 0.0
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "TAX_WORLDMAMMALS_VAQUITA",
+      "n": 50
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 47
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 43
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 41
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 38
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 35
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 35
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 31
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 29
+    },
+    {
+      "theme": "TAX_FNCACT_MAN",
+      "n": 29
+    },
+    {
+      "theme": "KILL",
+      "n": 28
+    },
+    {
+      "theme": "TRIAL",
+      "n": 28
+    },
+    {
+      "theme": "LEADER",
+      "n": 26
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 26
+    },
+    {
+      "theme": "ELECTION",
+      "n": 26
+    }
+  ]
 }
