@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-10-17T12:24:26.864244+00:00",
-  "rows_total_scanned_last_run": 1651,
-  "rows_mexico_last_run": 35,
-  "overall_avg_tone_4h": -1.644,
+  "generated_at": "2026-10-17T15:46:18.952584+00:00",
+  "rows_total_scanned_last_run": 2699,
+  "rows_mexico_last_run": 25,
+  "overall_avg_tone_4h": -1.78,
   "timeline": [
-    {
-      "time": "2026-10-14T12:30",
-      "avg_tone": -1.184,
-      "n_articles": 16
-    },
     {
       "time": "2026-10-14T16:45",
       "avg_tone": -0.541,
@@ -298,145 +293,165 @@
       "time": "2026-10-17T12:15",
       "avg_tone": 1.739,
       "n_articles": 13
+    },
+    {
+      "time": "2026-10-17T15:00",
+      "avg_tone": -3.047,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-10-17T15:15",
+      "avg_tone": -0.184,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-10-17T15:30",
+      "avg_tone": -8.356,
+      "n_articles": 1
+    },
+    {
+      "time": "2026-10-17T15:45",
+      "avg_tone": -2.872,
+      "n_articles": 9
     }
   ],
   "top_sources": [
     {
-      "source": "niagarafallsreview.ca",
+      "source": "rustourismnews.com",
+      "n": 3,
+      "avg_tone": -2.29
+    },
+    {
+      "source": "cubaheadlines.com",
       "n": 2,
-      "avg_tone": 4.533
+      "avg_tone": -5.607
     },
     {
-      "source": "kvia.com",
+      "source": "bdnews24.com",
       "n": 2,
-      "avg_tone": -0.325
+      "avg_tone": -6.799
     },
     {
-      "source": "crossmap.com",
-      "n": 2,
-      "avg_tone": -2.645
-    },
-    {
-      "source": "starmometer.com",
-      "n": 2,
-      "avg_tone": 4.032
-    },
-    {
-      "source": "morningjournal.com",
+      "source": "drudge.com",
       "n": 1,
-      "avg_tone": 1.869
+      "avg_tone": -6.161
     },
     {
-      "source": "wjez.com",
+      "source": "983thesnake.com",
       "n": 1,
-      "avg_tone": 2.247
+      "avg_tone": 3.526
     },
     {
-      "source": "trinidadtimes.com",
+      "source": "latimes.com",
       "n": 1,
-      "avg_tone": -2.806
+      "avg_tone": 1.069
     },
     {
-      "source": "dothaneagle.com",
+      "source": "goskagit.com",
       "n": 1,
-      "avg_tone": 6.901
+      "avg_tone": -6.202
     },
     {
-      "source": "pikefm.com",
+      "source": "aljazeera.com",
       "n": 1,
-      "avg_tone": 2.247
+      "avg_tone": -8.356
     },
     {
-      "source": "kicks1063.com",
+      "source": "kilgorenewsherald.com",
       "n": 1,
-      "avg_tone": 2.235
+      "avg_tone": 1.002
     },
     {
-      "source": "japanherald.com",
+      "source": "si.com",
       "n": 1,
-      "avg_tone": -2.806
+      "avg_tone": 4.019
     },
     {
-      "source": "oklahomastar.com",
+      "source": "manilatimes.net",
       "n": 1,
-      "avg_tone": -2.806
+      "avg_tone": 2.76
     },
     {
-      "source": "annarbors107one.com",
+      "source": "deccanchronicle.com",
       "n": 1,
-      "avg_tone": 2.247
+      "avg_tone": -2.852
     },
     {
-      "source": "theifp.ca",
+      "source": "stardem.com",
       "n": 1,
-      "avg_tone": 2.664
+      "avg_tone": -6.36
     },
     {
-      "source": "dailycoffeenews.com",
+      "source": "el-balad.com",
       "n": 1,
-      "avg_tone": 1.549
+      "avg_tone": 0.331
+    },
+    {
+      "source": "naturalnews.com",
+      "n": 1,
+      "avg_tone": -3.833
     }
   ],
   "top_themes": [
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 31
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 57
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 24
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 43
     },
     {
-      "theme": "PUBLIC_TRANSPORT",
-      "n": 24
+      "theme": "GENERAL_HEALTH",
+      "n": 26
     },
     {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 24
+      "theme": "MEDICAL",
+      "n": 25
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 23
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 25
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 23
+      "theme": "TAX_FNCACT_STUDENT",
+      "n": 19
+    },
+    {
+      "theme": "TAX_ETHNICITY_LATINOS",
+      "n": 18
+    },
+    {
+      "theme": "TAX_MILITARY_TITLE_OFFICERS",
+      "n": 18
+    },
+    {
+      "theme": "TAX_FNCACT_OFFICERS",
+      "n": 18
     },
     {
       "theme": "EPU_POLICY_POLICY",
-      "n": 21
+      "n": 17
     },
     {
-      "theme": "ECON_INTEREST_RATES",
-      "n": 21
-    },
-    {
-      "theme": "EPU_POLICY_INTEREST_RATES",
-      "n": 21
+      "theme": "USPEC_POLICY1",
+      "n": 16
     },
     {
       "theme": "WB_135_TRANSPORT",
-      "n": 20
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 16
+      "n": 13
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 16
+      "n": 12
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 15
+      "theme": "TAX_FNCACT_STUDENTS",
+      "n": 12
     },
     {
-      "theme": "SOC_POINTSOFINTEREST_AIRPORT",
-      "n": 15
-    },
-    {
-      "theme": "WB_1804_AIRPORTS",
-      "n": 15
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 11
     }
   ]
 }
