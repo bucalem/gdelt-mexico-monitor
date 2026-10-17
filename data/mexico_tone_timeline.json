@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-10-17T20:32:06.259585+00:00",
-  "rows_total_scanned_last_run": 1823,
-  "rows_mexico_last_run": 24,
-  "overall_avg_tone_4h": -1.524,
+  "generated_at": "2026-10-17T22:38:57.806113+00:00",
+  "rows_total_scanned_last_run": 2087,
+  "rows_mexico_last_run": 30,
+  "overall_avg_tone_4h": -1.702,
   "timeline": [
-    {
-      "time": "2026-10-14T20:45",
-      "avg_tone": -0.372,
-      "n_articles": 18
-    },
     {
       "time": "2026-10-14T22:45",
       "avg_tone": 0.345,
@@ -313,145 +308,165 @@
       "time": "2026-10-17T20:15",
       "avg_tone": 1.469,
       "n_articles": 5
+    },
+    {
+      "time": "2026-10-17T22:00",
+      "avg_tone": -0.324,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-10-17T22:15",
+      "avg_tone": -1.002,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-10-17T22:30",
+      "avg_tone": -2.131,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-10-17T22:45",
+      "avg_tone": -3.479,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "dailypolitical.com",
+      "source": "idahostatejournal.com",
+      "n": 5,
+      "avg_tone": -2.961
+    },
+    {
+      "source": "santamariatimes.com",
       "n": 2,
-      "avg_tone": 1.507
+      "avg_tone": -4.637
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "union-bulletin.com",
       "n": 2,
-      "avg_tone": 1.25
+      "avg_tone": -2.221
     },
     {
-      "source": "al-awassef.com",
-      "n": 1,
-      "avg_tone": 5.691
+      "source": "rockymounttelegram.com",
+      "n": 2,
+      "avg_tone": -2.653
     },
     {
-      "source": "idahopress.com",
+      "source": "weny.com",
       "n": 1,
-      "avg_tone": -4.336
+      "avg_tone": -4.785
     },
     {
-      "source": "rivergrandrapids.com",
+      "source": "memeburn.com",
       "n": 1,
-      "avg_tone": 2.664
+      "avg_tone": 0.297
     },
     {
-      "source": "turlockjournal.com",
+      "source": "durangoherald.com",
       "n": 1,
-      "avg_tone": 2.147
+      "avg_tone": -0.46
     },
     {
-      "source": "aol.com",
+      "source": "whio.com",
       "n": 1,
-      "avg_tone": 1.177
+      "avg_tone": -9.288
     },
     {
-      "source": "thegazette.com",
+      "source": "rawstory.com",
       "n": 1,
-      "avg_tone": -4.336
+      "avg_tone": -3.803
     },
     {
-      "source": "2news.com",
+      "source": "coast1009.com",
       "n": 1,
-      "avg_tone": -4.336
+      "avg_tone": -6.25
     },
     {
-      "source": "christianpost.com",
+      "source": "wgauradio.com",
       "n": 1,
-      "avg_tone": -4.481
+      "avg_tone": -0.495
     },
     {
-      "source": "latimes.com",
+      "source": "coronadonewsca.com",
       "n": 1,
-      "avg_tone": -5.118
+      "avg_tone": 4.398
     },
     {
-      "source": "endtime.com",
+      "source": "tickerreport.com",
       "n": 1,
-      "avg_tone": -9.156
+      "avg_tone": 0.78
     },
     {
-      "source": "cagesideseats.com",
+      "source": "goskagit.com",
       "n": 1,
-      "avg_tone": -1.146
+      "avg_tone": -4.785
     },
     {
-      "source": "tvline.com",
+      "source": "wdbo.com",
       "n": 1,
-      "avg_tone": 0.418
-    },
-    {
-      "source": "indiatimes.com",
-      "n": 1,
-      "avg_tone": -4.936
+      "avg_tone": -0.495
     }
   ],
   "top_themes": [
     {
-      "theme": "MEDIA_MSM",
-      "n": 46
+      "theme": "SOC_USSECURITYAGENCIES",
+      "n": 68
+    },
+    {
+      "theme": "TAX_FNCACT_GUARD",
+      "n": 60
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 42
+      "n": 57
     },
     {
-      "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 33
+      "theme": "MEDICAL",
+      "n": 47
     },
     {
-      "theme": "NATURAL_DISASTER_TYPHOON",
-      "n": 23
-    },
-    {
-      "theme": "CRISISLEX_T03_DEAD",
-      "n": 23
-    },
-    {
-      "theme": "TAX_FNCACT_MAN",
-      "n": 20
-    },
-    {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 19
+      "theme": "MARITIME_INCIDENT",
+      "n": 47
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 19
+      "n": 47
+    },
+    {
+      "theme": "LEADER",
+      "n": 46
+    },
+    {
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 44
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 40
+    },
+    {
+      "theme": "MARITIME",
+      "n": 38
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 37
+    },
+    {
+      "theme": "MILITARY",
+      "n": 36
+    },
+    {
+      "theme": "TAX_FNCACT_NAVY",
+      "n": 36
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 17
+      "n": 35
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 17
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 16
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 15
-    },
-    {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 14
-    },
-    {
-      "theme": "NATURAL_DISASTER_SUSTAINED_WINDS",
-      "n": 14
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 14
+      "theme": "TAX_WORLDLANGUAGES_RUSSIA",
+      "n": 34
     }
   ]
 }
