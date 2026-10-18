@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-10-17T22:38:57.806113+00:00",
-  "rows_total_scanned_last_run": 2087,
-  "rows_mexico_last_run": 30,
-  "overall_avg_tone_4h": -1.702,
+  "generated_at": "2026-10-18T00:17:46.063591+00:00",
+  "rows_total_scanned_last_run": 1941,
+  "rows_mexico_last_run": 38,
+  "overall_avg_tone_4h": -1.994,
   "timeline": [
-    {
-      "time": "2026-10-14T22:45",
-      "avg_tone": 0.345,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-10-14T23:00",
-      "avg_tone": -2.034,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-10-14T23:30",
-      "avg_tone": -2.737,
-      "n_articles": 13
-    },
     {
       "time": "2026-10-15T01:15",
       "avg_tone": -1.822,
@@ -328,120 +313,156 @@
       "time": "2026-10-17T22:45",
       "avg_tone": -3.479,
       "n_articles": 8
+    },
+    {
+      "time": "2026-10-17T23:30",
+      "avg_tone": -2.36,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-10-17T23:45",
+      "avg_tone": 0.641,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-10-18T00:00",
+      "avg_tone": -2.893,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-10-18T00:15",
+      "avg_tone": -0.604,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "idahostatejournal.com",
-      "n": 5,
-      "avg_tone": -2.961
+      "source": "riotimesonline.com",
+      "n": 3,
+      "avg_tone": -2.087
     },
     {
-      "source": "santamariatimes.com",
+      "source": "mexicoledger.com",
+      "n": 3,
+      "avg_tone": 0.231
+    },
+    {
+      "source": "hngnews.com",
+      "n": 3,
+      "avg_tone": -3.597
+    },
+    {
+      "source": "eldoradonews.com",
       "n": 2,
-      "avg_tone": -4.637
+      "avg_tone": -3.256
     },
     {
-      "source": "union-bulletin.com",
+      "source": "dailyadvance.com",
       "n": 2,
-      "avg_tone": -2.221
+      "avg_tone": -2.695
     },
     {
-      "source": "rockymounttelegram.com",
+      "source": "reflector.com",
       "n": 2,
-      "avg_tone": -2.653
+      "avg_tone": -2.695
     },
     {
-      "source": "weny.com",
+      "source": "dailykos.com",
       "n": 1,
-      "avg_tone": -4.785
+      "avg_tone": -0.867
     },
     {
-      "source": "memeburn.com",
+      "source": "verticalmag.com",
       "n": 1,
-      "avg_tone": 0.297
+      "avg_tone": 3.438
     },
     {
-      "source": "durangoherald.com",
+      "source": "news4jax.com",
       "n": 1,
-      "avg_tone": -0.46
+      "avg_tone": -1.082
     },
     {
-      "source": "whio.com",
+      "source": "whbl.com",
       "n": 1,
-      "avg_tone": -9.288
+      "avg_tone": -6.954
     },
     {
-      "source": "rawstory.com",
+      "source": "palatinate.org.uk",
       "n": 1,
-      "avg_tone": -3.803
+      "avg_tone": -0.75
     },
     {
-      "source": "coast1009.com",
+      "source": "wtvbam.com",
       "n": 1,
-      "avg_tone": -6.25
+      "avg_tone": -6.954
     },
     {
-      "source": "wgauradio.com",
+      "source": "mtairynews.com",
       "n": 1,
-      "avg_tone": -0.495
+      "avg_tone": 5.702
     },
     {
-      "source": "coronadonewsca.com",
+      "source": "cyclenews.com",
       "n": 1,
-      "avg_tone": 4.398
+      "avg_tone": 2.632
     },
     {
-      "source": "tickerreport.com",
+      "source": "pasadenastarnews.com",
       "n": 1,
-      "avg_tone": 0.78
-    },
-    {
-      "source": "goskagit.com",
-      "n": 1,
-      "avg_tone": -4.785
-    },
-    {
-      "source": "wdbo.com",
-      "n": 1,
-      "avg_tone": -0.495
+      "avg_tone": -3.018
     }
   ],
   "top_themes": [
     {
-      "theme": "SOC_USSECURITYAGENCIES",
-      "n": 68
+      "theme": "URBAN",
+      "n": 105
     },
     {
-      "theme": "TAX_FNCACT_GUARD",
-      "n": 60
+      "theme": "ELECTION",
+      "n": 71
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 67
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
       "n": 57
     },
     {
-      "theme": "MEDICAL",
-      "n": 47
+      "theme": "SOC_USSECURITYAGENCIES",
+      "n": 54
     },
     {
-      "theme": "MARITIME_INCIDENT",
+      "theme": "TAX_ETHNICITY_AMERICANS",
+      "n": 54
+    },
+    {
+      "theme": "TAX_FNCACT_PHOTOGRAPHER",
+      "n": 51
+    },
+    {
+      "theme": "TAX_FNCACT_GUARD",
+      "n": 48
+    },
+    {
+      "theme": "LEADER",
       "n": 47
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 47
+      "n": 45
     },
     {
-      "theme": "LEADER",
-      "n": 46
+      "theme": "TAX_ETHNICITY_RUSSIAN",
+      "n": 42
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_RUSSIAN",
+      "n": 42
     },
     {
       "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 44
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
       "n": 40
     },
     {
@@ -449,24 +470,8 @@
       "n": 38
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
+      "theme": "MARITIME_INCIDENT",
       "n": 37
-    },
-    {
-      "theme": "MILITARY",
-      "n": 36
-    },
-    {
-      "theme": "TAX_FNCACT_NAVY",
-      "n": 36
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 35
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_RUSSIA",
-      "n": 34
     }
   ]
 }
