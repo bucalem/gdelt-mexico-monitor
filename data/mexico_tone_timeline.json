@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-10-18T04:51:02.609502+00:00",
-  "rows_total_scanned_last_run": 1637,
-  "rows_mexico_last_run": 27,
-  "overall_avg_tone_4h": -1.666,
+  "generated_at": "2026-10-18T09:14:39.510934+00:00",
+  "rows_total_scanned_last_run": 1955,
+  "rows_mexico_last_run": 36,
+  "overall_avg_tone_4h": -1.914,
   "timeline": [
-    {
-      "time": "2026-10-15T06:00",
-      "avg_tone": 1.069,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-10-15T06:15",
-      "avg_tone": 0.098,
-      "n_articles": 10
-    },
     {
       "time": "2026-10-15T11:30",
       "avg_tone": -1.484,
@@ -333,145 +323,165 @@
       "time": "2026-10-18T05:00",
       "avg_tone": 0.013,
       "n_articles": 4
+    },
+    {
+      "time": "2026-10-18T08:30",
+      "avg_tone": -1.902,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-10-18T08:45",
+      "avg_tone": -2.139,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-10-18T09:00",
+      "avg_tone": -2.563,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-10-18T09:15",
+      "avg_tone": -1.414,
+      "n_articles": 4
     }
   ],
   "top_sources": [
     {
-      "source": "nwaonline.com",
-      "n": 2,
-      "avg_tone": -4.719
-    },
-    {
-      "source": "currentargus.com",
-      "n": 1,
-      "avg_tone": 1.927
-    },
-    {
-      "source": "azpbs.org",
-      "n": 1,
-      "avg_tone": 1.232
-    },
-    {
-      "source": "highlandcountypress.com",
-      "n": 1,
-      "avg_tone": -0.973
-    },
-    {
-      "source": "timesleader.com",
-      "n": 1,
-      "avg_tone": -2.132
-    },
-    {
       "source": "wdtimes.com",
-      "n": 1,
-      "avg_tone": -4.171
+      "n": 3,
+      "avg_tone": -3.712
     },
     {
-      "source": "enidnews.com",
-      "n": 1,
-      "avg_tone": -0.138
+      "source": "cecildaily.com",
+      "n": 3,
+      "avg_tone": -2.798
     },
     {
-      "source": "southcoastregister.com.au",
-      "n": 1,
-      "avg_tone": 2.664
+      "source": "hngnews.com",
+      "n": 3,
+      "avg_tone": -4.073
     },
     {
-      "source": "kelo.com",
-      "n": 1,
-      "avg_tone": -6.462
+      "source": "idahostatejournal.com",
+      "n": 2,
+      "avg_tone": -2.576
     },
     {
-      "source": "spokesman.com",
+      "source": "hindustantimes.com",
       "n": 1,
-      "avg_tone": -6.908
+      "avg_tone": -2.788
     },
     {
-      "source": "thetimes.com",
+      "source": "english.news.cn",
       "n": 1,
-      "avg_tone": 5.0
+      "avg_tone": 3.037
     },
     {
-      "source": "wiky.com",
+      "source": "bordermail.com.au",
       "n": 1,
-      "avg_tone": -6.462
+      "avg_tone": -4.955
     },
     {
-      "source": "arkansasonline.com",
+      "source": "dailylocal.com",
       "n": 1,
-      "avg_tone": -6.357
+      "avg_tone": -0.951
     },
     {
-      "source": "miragenews.com",
+      "source": "news4jax.com",
       "n": 1,
-      "avg_tone": 2.278
+      "avg_tone": -2.227
     },
     {
-      "source": "asiaone.com",
+      "source": "whbl.com",
       "n": 1,
-      "avg_tone": -1.382
+      "avg_tone": -0.361
+    },
+    {
+      "source": "netscape.com",
+      "n": 1,
+      "avg_tone": -2.19
+    },
+    {
+      "source": "gazettextra.com",
+      "n": 1,
+      "avg_tone": -5.155
+    },
+    {
+      "source": "clickondetroit.com",
+      "n": 1,
+      "avg_tone": -2.227
+    },
+    {
+      "source": "westernadvocate.com.au",
+      "n": 1,
+      "avg_tone": -4.977
+    },
+    {
+      "source": "dailypolitical.com",
+      "n": 1,
+      "avg_tone": 2.647
     }
   ],
   "top_themes": [
     {
+      "theme": "TAX_RELIGION_JEWISH",
+      "n": 101
+    },
+    {
+      "theme": "TAX_ETHNICITY_JEWISH",
+      "n": 101
+    },
+    {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 48
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 36
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 35
+      "n": 95
     },
     {
       "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 35
+      "n": 93
+    },
+    {
+      "theme": "TAX_RELIGION_JEWS",
+      "n": 80
     },
     {
       "theme": "LEADER",
-      "n": 33
+      "n": 67
+    },
+    {
+      "theme": "NATURAL_DISASTER_TYPHOON",
+      "n": 63
+    },
+    {
+      "theme": "ARMEDCONFLICT",
+      "n": 57
+    },
+    {
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 57
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 32
+      "n": 50
     },
     {
-      "theme": "SOC_USSECURITYAGENCIES",
-      "n": 29
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 50
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_RUSSIA",
-      "n": 22
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 41
     },
     {
-      "theme": "EDUCATION",
-      "n": 20
+      "theme": "NATURAL_DISASTER_HEAVY_RAIN",
+      "n": 37
     },
     {
-      "theme": "MARITIME_INCIDENT",
-      "n": 18
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 34
     },
     {
-      "theme": "TAX_FNCACT_GUARD",
-      "n": 18
-    },
-    {
-      "theme": "TAX_FNCACT_WORKERS",
-      "n": 17
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 16
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 16
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 16
+      "theme": "EPU_CATS_REGULATION",
+      "n": 30
     }
   ]
 }
