@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-10-18T16:39:06.227161+00:00",
-  "rows_total_scanned_last_run": 2507,
-  "rows_mexico_last_run": 24,
-  "overall_avg_tone_4h": -1.43,
+  "generated_at": "2026-10-18T18:55:38.920491+00:00",
+  "rows_total_scanned_last_run": 2761,
+  "rows_mexico_last_run": 27,
+  "overall_avg_tone_4h": -1.278,
   "timeline": [
-    {
-      "time": "2026-10-15T16:45",
-      "avg_tone": -0.057,
-      "n_articles": 32
-    },
-    {
-      "time": "2026-10-15T17:00",
-      "avg_tone": -0.027,
-      "n_articles": 31
-    },
-    {
-      "time": "2026-10-15T17:15",
-      "avg_tone": -0.152,
-      "n_articles": 30
-    },
     {
       "time": "2026-10-15T19:30",
       "avg_tone": -0.317,
@@ -358,145 +343,165 @@
       "time": "2026-10-18T16:45",
       "avg_tone": -1.509,
       "n_articles": 2
+    },
+    {
+      "time": "2026-10-18T18:15",
+      "avg_tone": -0.147,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-10-18T18:30",
+      "avg_tone": -1.258,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-10-18T18:45",
+      "avg_tone": -0.062,
+      "n_articles": 2
+    },
+    {
+      "time": "2026-10-18T19:00",
+      "avg_tone": -1.25,
+      "n_articles": 4
     }
   ],
   "top_sources": [
     {
-      "source": "laist.com",
+      "source": "cubaheadlines.com",
       "n": 3,
-      "avg_tone": 1.115
+      "avg_tone": -0.309
+    },
+    {
+      "source": "kten.com",
+      "n": 2,
+      "avg_tone": -0.601
+    },
+    {
+      "source": "hngnews.com",
+      "n": 2,
+      "avg_tone": -5.106
+    },
+    {
+      "source": "liveinsurancenews.com",
+      "n": 1,
+      "avg_tone": -3.691
+    },
+    {
+      "source": "aol.com",
+      "n": 1,
+      "avg_tone": 0.555
+    },
+    {
+      "source": "whec.com",
+      "n": 1,
+      "avg_tone": -1.25
+    },
+    {
+      "source": "postcourier.com.pg",
+      "n": 1,
+      "avg_tone": -0.612
+    },
+    {
+      "source": "dailymail.com",
+      "n": 1,
+      "avg_tone": -1.549
     },
     {
       "source": "themarketsdaily.com",
-      "n": 2,
-      "avg_tone": 0.746
-    },
-    {
-      "source": "wellandtribune.ca",
-      "n": 2,
-      "avg_tone": 0.391
-    },
-    {
-      "source": "elpais.com",
-      "n": 2,
-      "avg_tone": -1.737
-    },
-    {
-      "source": "thing.net",
       "n": 1,
-      "avg_tone": -4.195
+      "avg_tone": 1.426
     },
     {
-      "source": "cruisehive.com",
+      "source": "manilatimes.net",
       "n": 1,
-      "avg_tone": 1.176
+      "avg_tone": -4.057
     },
     {
-      "source": "nypost.com",
+      "source": "mirror.co.uk",
       "n": 1,
-      "avg_tone": -6.041
+      "avg_tone": 0.394
     },
     {
-      "source": "airdriecityview.com",
+      "source": "idahostatejournal.com",
       "n": 1,
-      "avg_tone": -0.206
+      "avg_tone": -5.656
     },
     {
-      "source": "ksl.com",
+      "source": "goutsa.com",
       "n": 1,
-      "avg_tone": 1.245
+      "avg_tone": 1.489
     },
     {
-      "source": "niagarafallsreview.ca",
+      "source": "el-balad.com",
       "n": 1,
-      "avg_tone": 1.313
+      "avg_tone": 1.147
     },
     {
-      "source": "nvdaily.com",
+      "source": "iheart.com",
       "n": 1,
-      "avg_tone": -0.563
-    },
-    {
-      "source": "bozemandailychronicle.com",
-      "n": 1,
-      "avg_tone": -0.563
-    },
-    {
-      "source": "click2houston.com",
-      "n": 1,
-      "avg_tone": -0.578
-    },
-    {
-      "source": "dailygazette.com",
-      "n": 1,
-      "avg_tone": -0.563
-    },
-    {
-      "source": "wsls.com",
-      "n": 1,
-      "avg_tone": -0.578
+      "avg_tone": 5.202
     }
   ],
   "top_themes": [
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 94
+      "n": 56
     },
     {
-      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
-      "n": 83
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 68
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 52
     },
     {
-      "theme": "TAX_POLITICAL_PARTY_DEMOCRAT",
-      "n": 51
-    },
-    {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 49
-    },
-    {
       "theme": "LEADER",
-      "n": 47
+      "n": 50
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 46
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 43
     },
     {
       "theme": "ELECTION",
-      "n": 40
+      "n": 39
     },
     {
-      "theme": "EPU_ECONOMY",
+      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
       "n": 38
     },
     {
-      "theme": "TAX_ETHNICITY_LATINOS",
-      "n": 35
+      "theme": "BORDER",
+      "n": 36
     },
     {
-      "theme": "TAX_POLITICAL_PARTY_DEMOCRATS",
+      "theme": "TAX_FNCACT_PRESIDENT",
       "n": 34
     },
     {
-      "theme": "IMMIGRATION",
-      "n": 31
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 31
-    },
-    {
       "theme": "TAX_ECON_PRICE",
-      "n": 28
+      "n": 27
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 27
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 26
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 23
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 22
+    },
+    {
+      "theme": "TAX_POLITICAL_PARTY_DEMOCRAT",
+      "n": 21
+    },
+    {
+      "theme": "EPU_ECONOMY",
+      "n": 21
     }
   ]
 }
