@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-10-19T13:08:31.668850+00:00",
-  "rows_total_scanned_last_run": 5044,
-  "rows_mexico_last_run": 53,
-  "overall_avg_tone_4h": -1.056,
+  "generated_at": "2026-10-19T19:17:55.675671+00:00",
+  "rows_total_scanned_last_run": 6130,
+  "rows_mexico_last_run": 68,
+  "overall_avg_tone_4h": -0.761,
   "timeline": [
-    {
-      "time": "2026-10-16T14:45",
-      "avg_tone": 0.044,
-      "n_articles": 27
-    },
-    {
-      "time": "2026-10-16T15:00",
-      "avg_tone": 0.621,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-10-16T15:15",
-      "avg_tone": -1.347,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-10-16T15:30",
-      "avg_tone": 0.251,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-10-16T18:15",
-      "avg_tone": -1.01,
-      "n_articles": 27
-    },
     {
       "time": "2026-10-16T21:15",
       "avg_tone": -1.775,
@@ -368,81 +343,101 @@
       "time": "2026-10-19T13:15",
       "avg_tone": 1.386,
       "n_articles": 7
+    },
+    {
+      "time": "2026-10-19T18:30",
+      "avg_tone": -0.753,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-10-19T18:45",
+      "avg_tone": -0.203,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-10-19T19:00",
+      "avg_tone": 0.932,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-10-19T19:15",
+      "avg_tone": -0.59,
+      "n_articles": 20
     }
   ],
   "top_sources": [
     {
-      "source": "manilatimes.net",
-      "n": 4,
-      "avg_tone": 0.236
+      "source": "pressdemocrat.com",
+      "n": 3,
+      "avg_tone": 1.161
     },
     {
-      "source": "voiceofsandiego.org",
-      "n": 2,
-      "avg_tone": -1.532
-    },
-    {
-      "source": "arkansasonline.com",
-      "n": 2,
-      "avg_tone": -5.889
-    },
-    {
-      "source": "denverpost.com",
-      "n": 2,
-      "avg_tone": -2.022
-    },
-    {
-      "source": "biospectrumindia.com",
-      "n": 1,
-      "avg_tone": -0.135
+      "source": "elpais.com",
+      "n": 3,
+      "avg_tone": -1.195
     },
     {
       "source": "finanznachrichten.de",
-      "n": 1,
-      "avg_tone": 0.918
+      "n": 2,
+      "avg_tone": 0.7
     },
     {
-      "source": "edge.ca",
-      "n": 1,
-      "avg_tone": 5.691
+      "source": "ucsdguardian.org",
+      "n": 2,
+      "avg_tone": 1.296
     },
     {
-      "source": "thehindu.com",
-      "n": 1,
-      "avg_tone": 5.3
+      "source": "prnewswire.com",
+      "n": 2,
+      "avg_tone": 1.257
     },
     {
-      "source": "kcci.com",
-      "n": 1,
-      "avg_tone": -3.607
+      "source": "kcra.com",
+      "n": 2,
+      "avg_tone": -2.757
     },
     {
-      "source": "wisn.com",
-      "n": 1,
-      "avg_tone": -3.607
+      "source": "grandrapidsmn.com",
+      "n": 2,
+      "avg_tone": -1.318
     },
     {
-      "source": "singaporestar.com",
+      "source": "wrrv.com",
       "n": 1,
-      "avg_tone": 5.141
+      "avg_tone": 2.083
     },
     {
-      "source": "screenrant.com",
+      "source": "dreadcentral.com",
       "n": 1,
-      "avg_tone": -8.953
+      "avg_tone": -5.122
     },
     {
-      "source": "businessinsider.com",
+      "source": "sheridanmedia.com",
       "n": 1,
-      "avg_tone": -0.806
+      "avg_tone": 4.848
     },
     {
-      "source": "akronnewsreporter.com",
+      "source": "independent.co.uk",
       "n": 1,
-      "avg_tone": -0.951
+      "avg_tone": -0.441
     },
     {
-      "source": "idahostatejournal.com",
+      "source": "theyeshivaworld.com",
+      "n": 1,
+      "avg_tone": -1.325
+    },
+    {
+      "source": "cbn.com",
+      "n": 1,
+      "avg_tone": -0.498
+    },
+    {
+      "source": "postcourier.com.pg",
+      "n": 1,
+      "avg_tone": -0.581
+    },
+    {
+      "source": "thetimes-tribune.com",
       "n": 1,
       "avg_tone": -3.587
     }
@@ -450,63 +445,63 @@
   "top_themes": [
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 60
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 58
+      "n": 85
     },
     {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 52
+      "n": 77
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 76
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 55
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 50
+    },
+    {
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 50
+    },
+    {
+      "theme": "SOC_USSECURITYAGENCIES",
+      "n": 50
+    },
+    {
+      "theme": "ELECTION",
+      "n": 48
+    },
+    {
+      "theme": "TAX_FNCACT_GUARD",
+      "n": 47
+    },
+    {
+      "theme": "LEADER",
+      "n": 46
+    },
+    {
+      "theme": "MARITIME",
+      "n": 46
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
       "n": 45
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
+      "theme": "AGRICULTURE",
+      "n": 44
+    },
+    {
+      "theme": "MARITIME_INCIDENT",
       "n": 43
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 33
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 33
-    },
-    {
-      "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 33
-    },
-    {
-      "theme": "TAX_ETHNICITY_CHINESE",
-      "n": 32
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_CHINESE",
-      "n": 32
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 31
-    },
-    {
-      "theme": "CRISISLEX_O01_WEATHER",
-      "n": 31
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 29
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 29
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 27
+      "theme": "CRISISLEX_T02_INJURED",
+      "n": 42
     }
   ]
 }
