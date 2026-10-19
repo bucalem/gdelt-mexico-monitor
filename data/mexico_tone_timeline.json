@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-19T06:11:25.115685+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -1.274,
+  "generated_at": "2026-10-19T13:08:31.668850+00:00",
+  "rows_total_scanned_last_run": 5044,
+  "rows_mexico_last_run": 53,
+  "overall_avg_tone_4h": -1.056,
   "timeline": [
     {
       "time": "2026-10-16T14:45",
@@ -348,8 +348,165 @@
       "time": "2026-10-19T01:15",
       "avg_tone": -2.346,
       "n_articles": 3
+    },
+    {
+      "time": "2026-10-19T12:30",
+      "avg_tone": -0.77,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-10-19T12:45",
+      "avg_tone": 0.507,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-10-19T13:00",
+      "avg_tone": -1.303,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-10-19T13:15",
+      "avg_tone": 1.386,
+      "n_articles": 7
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "manilatimes.net",
+      "n": 4,
+      "avg_tone": 0.236
+    },
+    {
+      "source": "voiceofsandiego.org",
+      "n": 2,
+      "avg_tone": -1.532
+    },
+    {
+      "source": "arkansasonline.com",
+      "n": 2,
+      "avg_tone": -5.889
+    },
+    {
+      "source": "denverpost.com",
+      "n": 2,
+      "avg_tone": -2.022
+    },
+    {
+      "source": "biospectrumindia.com",
+      "n": 1,
+      "avg_tone": -0.135
+    },
+    {
+      "source": "finanznachrichten.de",
+      "n": 1,
+      "avg_tone": 0.918
+    },
+    {
+      "source": "edge.ca",
+      "n": 1,
+      "avg_tone": 5.691
+    },
+    {
+      "source": "thehindu.com",
+      "n": 1,
+      "avg_tone": 5.3
+    },
+    {
+      "source": "kcci.com",
+      "n": 1,
+      "avg_tone": -3.607
+    },
+    {
+      "source": "wisn.com",
+      "n": 1,
+      "avg_tone": -3.607
+    },
+    {
+      "source": "singaporestar.com",
+      "n": 1,
+      "avg_tone": 5.141
+    },
+    {
+      "source": "screenrant.com",
+      "n": 1,
+      "avg_tone": -8.953
+    },
+    {
+      "source": "businessinsider.com",
+      "n": 1,
+      "avg_tone": -0.806
+    },
+    {
+      "source": "akronnewsreporter.com",
+      "n": 1,
+      "avg_tone": -0.951
+    },
+    {
+      "source": "idahostatejournal.com",
+      "n": 1,
+      "avg_tone": -3.587
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 60
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 58
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 52
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 45
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 43
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 33
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 33
+    },
+    {
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 33
+    },
+    {
+      "theme": "TAX_ETHNICITY_CHINESE",
+      "n": 32
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_CHINESE",
+      "n": 32
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 31
+    },
+    {
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 31
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 29
+    },
+    {
+      "theme": "WB_137_WATER",
+      "n": 29
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 27
+    }
+  ]
 }
