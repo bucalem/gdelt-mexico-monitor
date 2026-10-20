@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-10-20T06:35:41.467196+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -1.003,
+  "generated_at": "2026-10-20T12:10:23.088989+00:00",
+  "rows_total_scanned_last_run": 4906,
+  "rows_mexico_last_run": 33,
+  "overall_avg_tone_4h": -0.772,
   "timeline": [
-    {
-      "time": "2026-10-17T08:15",
-      "avg_tone": 0.097,
-      "n_articles": 23
-    },
-    {
-      "time": "2026-10-17T08:30",
-      "avg_tone": -1.583,
-      "n_articles": 25
-    },
-    {
-      "time": "2026-10-17T08:45",
-      "avg_tone": -1.746,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-10-17T11:45",
-      "avg_tone": -0.63,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-10-17T12:00",
-      "avg_tone": -1.257,
-      "n_articles": 12
-    },
     {
       "time": "2026-10-17T12:15",
       "avg_tone": 1.739,
@@ -328,8 +303,165 @@
       "time": "2026-10-20T01:45",
       "avg_tone": -2.154,
       "n_articles": 13
+    },
+    {
+      "time": "2026-10-20T11:30",
+      "avg_tone": -2.321,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-10-20T11:45",
+      "avg_tone": -0.262,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-10-20T12:00",
+      "avg_tone": 2.038,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-10-20T12:15",
+      "avg_tone": -0.667,
+      "n_articles": 7
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "theepochtimes.com",
+      "n": 4,
+      "avg_tone": -3.954
+    },
+    {
+      "source": "pr-inside.com",
+      "n": 2,
+      "avg_tone": -0.941
+    },
+    {
+      "source": "aol.com",
+      "n": 2,
+      "avg_tone": 1.201
+    },
+    {
+      "source": "newswise.com",
+      "n": 1,
+      "avg_tone": -3.479
+    },
+    {
+      "source": "westhawaiitoday.com",
+      "n": 1,
+      "avg_tone": -4.668
+    },
+    {
+      "source": "fox26houston.com",
+      "n": 1,
+      "avg_tone": 1.375
+    },
+    {
+      "source": "rttnews.com",
+      "n": 1,
+      "avg_tone": 6.061
+    },
+    {
+      "source": "moneycontrol.com",
+      "n": 1,
+      "avg_tone": -2.075
+    },
+    {
+      "source": "latimes.com",
+      "n": 1,
+      "avg_tone": 2.301
+    },
+    {
+      "source": "johnogroat-journal.co.uk",
+      "n": 1,
+      "avg_tone": 2.482
+    },
+    {
+      "source": "fox21online.com",
+      "n": 1,
+      "avg_tone": 2.293
+    },
+    {
+      "source": "prnewswire.com",
+      "n": 1,
+      "avg_tone": 1.075
+    },
+    {
+      "source": "businesstimes.com.sg",
+      "n": 1,
+      "avg_tone": 4.282
+    },
+    {
+      "source": "formula1.com",
+      "n": 1,
+      "avg_tone": 2.036
+    },
+    {
+      "source": "foxbusiness.com",
+      "n": 1,
+      "avg_tone": 0.496
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 36
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 33
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 32
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 31
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 31
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 29
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 27
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 27
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 26
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 26
+    },
+    {
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 26
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 25
+    },
+    {
+      "theme": "ENV_METALS",
+      "n": 25
+    },
+    {
+      "theme": "TAX_ETHNICITY_FRENCH",
+      "n": 25
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_FRENCH",
+      "n": 25
+    }
+  ]
 }
