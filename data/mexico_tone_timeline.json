@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-10-21T06:49:06.006820+00:00",
-  "rows_total_scanned_last_run": 3661,
-  "rows_mexico_last_run": 38,
-  "overall_avg_tone_4h": 0.364,
+  "generated_at": "2026-10-21T12:35:49.833806+00:00",
+  "rows_total_scanned_last_run": 5210,
+  "rows_mexico_last_run": 37,
+  "overall_avg_tone_4h": 0.221,
   "timeline": [
-    {
-      "time": "2026-10-18T08:30",
-      "avg_tone": -1.902,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-10-18T08:45",
-      "avg_tone": -2.139,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-10-18T09:00",
-      "avg_tone": -2.563,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-10-18T09:15",
-      "avg_tone": -1.414,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-10-18T12:30",
-      "avg_tone": -1.996,
-      "n_articles": 17
-    },
     {
       "time": "2026-10-18T12:45",
       "avg_tone": -0.238,
@@ -288,145 +263,165 @@
       "time": "2026-10-21T06:45",
       "avg_tone": 1.917,
       "n_articles": 7
+    },
+    {
+      "time": "2026-10-21T11:45",
+      "avg_tone": -0.67,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-10-21T12:00",
+      "avg_tone": 1.054,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-10-21T12:15",
+      "avg_tone": 1.745,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-10-21T12:30",
+      "avg_tone": -1.011,
+      "n_articles": 7
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 9,
-      "avg_tone": -0.583
-    },
-    {
-      "source": "latinamericanpost.com",
+      "source": "dailypolitical.com",
       "n": 2,
-      "avg_tone": -1.619
+      "avg_tone": 1.981
     },
     {
-      "source": "wsws.org",
+      "source": "elpais.com",
       "n": 2,
-      "avg_tone": -4.96
+      "avg_tone": -0.787
     },
     {
-      "source": "punchng.com",
-      "n": 1,
-      "avg_tone": 4.535
+      "source": "prnewswire.com",
+      "n": 2,
+      "avg_tone": 1.16
     },
     {
-      "source": "telecomasia.net",
-      "n": 1,
-      "avg_tone": 3.311
+      "source": "propublica.org",
+      "n": 2,
+      "avg_tone": -3.835
     },
     {
-      "source": "thepoultrysite.com",
+      "source": "dailymail.com",
       "n": 1,
-      "avg_tone": -3.653
+      "avg_tone": -3.509
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "aawsat.com",
       "n": 1,
-      "avg_tone": 3.057
+      "avg_tone": 0.647
     },
     {
-      "source": "manilatimes.net",
+      "source": "newsbug.info",
       "n": 1,
-      "avg_tone": 2.376
+      "avg_tone": 1.923
     },
     {
-      "source": "autoweek.com",
+      "source": "nakedcapitalism.com",
       "n": 1,
-      "avg_tone": 0.772
+      "avg_tone": -4.525
     },
     {
-      "source": "timesrepublican.com",
+      "source": "gulfcoastnewsnow.com",
       "n": 1,
-      "avg_tone": 3.023
+      "avg_tone": 1.961
     },
     {
-      "source": "newser.com",
+      "source": "suntimes.com",
       "n": 1,
-      "avg_tone": -9.639
+      "avg_tone": -2.762
     },
     {
-      "source": "nbcsandiego.com",
+      "source": "tickerreport.com",
       "n": 1,
-      "avg_tone": 0.667
+      "avg_tone": 2.305
     },
     {
-      "source": "laosnews.net",
+      "source": "lonestar995fm.com",
       "n": 1,
-      "avg_tone": -2.144
+      "avg_tone": 1.384
     },
     {
-      "source": "english.pravda.ru",
+      "source": "cajnewsafrica.com",
       "n": 1,
-      "avg_tone": 1.854
+      "avg_tone": 0.447
     },
     {
-      "source": "fortworthbusiness.com",
+      "source": "investegate.co.uk",
       "n": 1,
-      "avg_tone": 1.151
+      "avg_tone": 1.112
+    },
+    {
+      "source": "ksal.com",
+      "n": 1,
+      "avg_tone": 3.004
     }
   ],
   "top_themes": [
     {
-      "theme": "GENERAL_GOVERNMENT",
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 123
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 91
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 80
+    },
+    {
+      "theme": "ECON_TAXATION",
+      "n": 70
+    },
+    {
+      "theme": "EPU_POLICY_TAX",
+      "n": 70
+    },
+    {
+      "theme": "EPU_CATS_TAXES",
+      "n": 70
+    },
+    {
+      "theme": "NATURAL_DISASTER_FLOOD",
+      "n": 67
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
       "n": 58
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 55
+      "theme": "EDUCATION",
+      "n": 48
     },
     {
-      "theme": "TAX_FNCACT_WORKERS",
-      "n": 52
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
+      "theme": "MANMADE_DISASTER_IMPLIED",
       "n": 46
-    },
-    {
-      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
-      "n": 46
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 44
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 43
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 40
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 39
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 36
-    },
-    {
-      "theme": "ECON_UNIONS",
-      "n": 34
-    },
-    {
-      "theme": "TAX_WORLDMAMMALS_HUMAN",
-      "n": 33
-    },
-    {
-      "theme": "ECON_INFLATION",
-      "n": 33
-    },
-    {
-      "theme": "WB_442_INFLATION",
-      "n": 33
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 32
+      "n": 45
+    },
+    {
+      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
+      "n": 44
+    },
+    {
+      "theme": "ECON_DEBT",
+      "n": 41
+    },
+    {
+      "theme": "WB_450_DEBT",
+      "n": 41
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 37
     }
   ]
 }
