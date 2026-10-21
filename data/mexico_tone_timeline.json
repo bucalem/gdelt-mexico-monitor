@@ -1,39 +1,9 @@
 {
-  "generated_at": "2026-10-21T17:38:45.650882+00:00",
-  "rows_total_scanned_last_run": 6583,
-  "rows_mexico_last_run": 85,
-  "overall_avg_tone_4h": 0.071,
+  "generated_at": "2026-10-21T20:53:06.151868+00:00",
+  "rows_total_scanned_last_run": 1709,
+  "rows_mexico_last_run": 30,
+  "overall_avg_tone_4h": -0.217,
   "timeline": [
-    {
-      "time": "2026-10-18T18:15",
-      "avg_tone": -0.147,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-10-18T18:30",
-      "avg_tone": -1.258,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-10-18T18:45",
-      "avg_tone": -0.062,
-      "n_articles": 2
-    },
-    {
-      "time": "2026-10-18T19:00",
-      "avg_tone": -1.25,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-10-18T20:30",
-      "avg_tone": -0.796,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-10-18T20:45",
-      "avg_tone": 0.067,
-      "n_articles": 7
-    },
     {
       "time": "2026-10-18T21:00",
       "avg_tone": -2.616,
@@ -268,145 +238,150 @@
       "time": "2026-10-21T17:45",
       "avg_tone": 0.613,
       "n_articles": 28
+    },
+    {
+      "time": "2026-10-21T20:15",
+      "avg_tone": -2.452,
+      "n_articles": 30
     }
   ],
   "top_sources": [
     {
-      "source": "taipeitimes.com",
-      "n": 2,
-      "avg_tone": -1.24
+      "source": "riviera-maya-news.com",
+      "n": 4,
+      "avg_tone": -4.292
     },
     {
-      "source": "ocregister.com",
+      "source": "prnewswire.com",
       "n": 2,
-      "avg_tone": 4.849
+      "avg_tone": 2.414
     },
     {
-      "source": "azbigmedia.com",
+      "source": "kvia.com",
       "n": 2,
-      "avg_tone": 0.936
+      "avg_tone": -4.011
     },
     {
-      "source": "teamtalk.com",
-      "n": 2,
-      "avg_tone": 2.699
-    },
-    {
-      "source": "abc17news.com",
-      "n": 2,
-      "avg_tone": -4.587
-    },
-    {
-      "source": "fool.com",
-      "n": 2,
-      "avg_tone": 1.25
-    },
-    {
-      "source": "screenrant.com",
-      "n": 2,
-      "avg_tone": -2.908
-    },
-    {
-      "source": "el-balad.com",
-      "n": 2,
-      "avg_tone": -0.116
-    },
-    {
-      "source": "theverge.com",
+      "source": "abqjournal.com",
       "n": 1,
-      "avg_tone": 0.357
+      "avg_tone": -4.134
     },
     {
-      "source": "koolfmabilene.com",
+      "source": "jacksonprogress-argus.com",
+      "n": 1,
+      "avg_tone": 0.074
+    },
+    {
+      "source": "us105fm.com",
       "n": 1,
       "avg_tone": 1.385
     },
     {
-      "source": "news4jax.com",
+      "source": "eturbonews.com",
       "n": 1,
-      "avg_tone": -1.698
+      "avg_tone": 0.0
     },
     {
-      "source": "cecildaily.com",
+      "source": "wndu.com",
       "n": 1,
-      "avg_tone": -1.787
+      "avg_tone": 0.064
     },
     {
-      "source": "mix931fm.com",
+      "source": "chicagotribune.com",
       "n": 1,
-      "avg_tone": 4.484
+      "avg_tone": -5.33
     },
     {
-      "source": "koaa.com",
+      "source": "wsau.com",
       "n": 1,
-      "avg_tone": -1.281
+      "avg_tone": -4.808
     },
     {
-      "source": "torontosun.com",
+      "source": "juneesoutherncross.com.au",
       "n": 1,
-      "avg_tone": -0.379
+      "avg_tone": 2.344
+    },
+    {
+      "source": "fultoncountynews.com",
+      "n": 1,
+      "avg_tone": -0.466
+    },
+    {
+      "source": "freerepublic.com",
+      "n": 1,
+      "avg_tone": -3.624
+    },
+    {
+      "source": "timescall.com",
+      "n": 1,
+      "avg_tone": -5.085
+    },
+    {
+      "source": "dailymail.com",
+      "n": 1,
+      "avg_tone": -3.987
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_ETHNICITY_AUSTRALIAN",
-      "n": 649
+      "n": 118
     },
     {
-      "theme": "UNGP_CRIME_VIOLENCE",
-      "n": 160
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 135
-    },
-    {
-      "theme": "TAX_FNCACT_NOMINEES",
-      "n": 133
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 132
-    },
-    {
-      "theme": "TAX_FNCACT_HERO",
-      "n": 121
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 95
-    },
-    {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 81
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 80
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 77
-    },
-    {
-      "theme": "LEADER",
+      "theme": "MEDIA_SOCIAL",
       "n": 76
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 73
+      "theme": "TRIAL",
+      "n": 38
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 70
+      "theme": "UNGP_CRIME_VIOLENCE",
+      "n": 35
     },
     {
-      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
-      "n": 62
+      "theme": "TAX_FNCACT_ATTORNEY",
+      "n": 34
     },
     {
-      "theme": "EDUCATION",
-      "n": 61
+      "theme": "USPEC_POLICY1",
+      "n": 34
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 32
+    },
+    {
+      "theme": "AFFECT",
+      "n": 30
+    },
+    {
+      "theme": "LEGISLATION",
+      "n": 30
+    },
+    {
+      "theme": "TAX_FNCACT_ATTORNEYS",
+      "n": 28
+    },
+    {
+      "theme": "SECURITY_SERVICES",
+      "n": 26
+    },
+    {
+      "theme": "WB_1920_FINANCIAL_SECTOR_DEVELOPMENT",
+      "n": 25
+    },
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 24
+    },
+    {
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 24
+    },
+    {
+      "theme": "TAX_FNCACT_NOMINEES",
+      "n": 24
     }
   ]
 }
