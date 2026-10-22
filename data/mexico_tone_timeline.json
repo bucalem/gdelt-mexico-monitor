@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-10-22T18:04:41.760573+00:00",
-  "rows_total_scanned_last_run": 1735,
-  "rows_mexico_last_run": 35,
-  "overall_avg_tone_4h": -0.632,
+  "generated_at": "2026-10-22T21:31:23.895101+00:00",
+  "rows_total_scanned_last_run": 5046,
+  "rows_mexico_last_run": 160,
+  "overall_avg_tone_4h": -0.653,
   "timeline": [
-    {
-      "time": "2026-10-19T18:30",
-      "avg_tone": -0.753,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-10-19T18:45",
-      "avg_tone": -0.203,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-10-19T19:00",
-      "avg_tone": 0.932,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-10-19T19:15",
-      "avg_tone": -0.59,
-      "n_articles": 20
-    },
     {
       "time": "2026-10-19T22:15",
       "avg_tone": -0.696,
@@ -258,145 +238,160 @@
       "time": "2026-10-22T17:15",
       "avg_tone": 0.151,
       "n_articles": 35
+    },
+    {
+      "time": "2026-10-22T20:45",
+      "avg_tone": -0.44,
+      "n_articles": 38
+    },
+    {
+      "time": "2026-10-22T21:00",
+      "avg_tone": -1.098,
+      "n_articles": 67
+    },
+    {
+      "time": "2026-10-22T21:15",
+      "avg_tone": -0.106,
+      "n_articles": 55
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 9,
-      "avg_tone": 3.644
+      "n": 75,
+      "avg_tone": -1.095
     },
     {
-      "source": "capitalgazette.com",
+      "source": "prnewswire.com",
+      "n": 4,
+      "avg_tone": 1.539
+    },
+    {
+      "source": "brantfordexpositor.ca",
       "n": 2,
-      "avg_tone": 0.527
+      "avg_tone": 3.611
     },
     {
-      "source": "sgvtribune.com",
+      "source": "wmtw.com",
       "n": 2,
-      "avg_tone": 1.96
+      "avg_tone": 1.591
     },
     {
-      "source": "wkfr.com",
-      "n": 1,
-      "avg_tone": -13.428
+      "source": "wapt.com",
+      "n": 2,
+      "avg_tone": 1.591
     },
     {
-      "source": "pocket-lint.com",
-      "n": 1,
-      "avg_tone": 1.809
+      "source": "wtae.com",
+      "n": 2,
+      "avg_tone": 1.591
     },
     {
-      "source": "clickorlando.com",
-      "n": 1,
-      "avg_tone": 1.854
+      "source": "wmur.com",
+      "n": 2,
+      "avg_tone": 1.591
     },
     {
-      "source": "dailyadvance.com",
-      "n": 1,
-      "avg_tone": -4.104
+      "source": "wcvb.com",
+      "n": 2,
+      "avg_tone": 1.591
     },
     {
-      "source": "wri.org",
-      "n": 1,
-      "avg_tone": 1.489
+      "source": "dailypolitical.com",
+      "n": 2,
+      "avg_tone": 1.892
     },
     {
-      "source": "newrepublic.com",
-      "n": 1,
-      "avg_tone": -1.948
+      "source": "koat.com",
+      "n": 2,
+      "avg_tone": 1.591
     },
     {
-      "source": "smdp.com",
-      "n": 1,
-      "avg_tone": 1.145
+      "source": "wgauradio.com",
+      "n": 2,
+      "avg_tone": -5.045
     },
     {
-      "source": "bearingarms.com",
-      "n": 1,
-      "avg_tone": 0.0
+      "source": "northernnews.ca",
+      "n": 2,
+      "avg_tone": 3.611
     },
     {
-      "source": "wrestlezone.com",
-      "n": 1,
-      "avg_tone": 2.935
+      "source": "elliotlakestandard.ca",
+      "n": 2,
+      "avg_tone": 3.611
     },
     {
-      "source": "eastbaytimes.com",
-      "n": 1,
-      "avg_tone": -8.58
+      "source": "stardem.com",
+      "n": 2,
+      "avg_tone": -4.989
     },
     {
-      "source": "iclarified.com",
+      "source": "northislandgazette.com",
       "n": 1,
-      "avg_tone": 1.413
-    },
-    {
-      "source": "elpais.com",
-      "n": 1,
-      "avg_tone": -0.356
+      "avg_tone": 2.408
     }
   ],
   "top_themes": [
     {
-      "theme": "AFFECT",
-      "n": 110
-    },
-    {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 64
-    },
-    {
       "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 60
+      "n": 265
     },
     {
-      "theme": "WB_566_ENVIRONMENT_AND_NATURAL_RESOURCES",
-      "n": 40
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 228
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 227
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 226
+    },
+    {
+      "theme": "ENV_METALS",
+      "n": 225
+    },
+    {
+      "theme": "WB_2936_GOLD",
+      "n": 225
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 37
+      "n": 218
     },
     {
-      "theme": "WB_2084_BIODIVERSITY",
-      "n": 32
+      "theme": "NATURAL_DISASTER_HURRICANE",
+      "n": 174
     },
     {
-      "theme": "WB_1786_ENVIRONMENTAL_SUSTAINABILITY",
-      "n": 32
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 161
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 25
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 157
     },
     {
-      "theme": "URBAN",
-      "n": 21
+      "theme": "LEADER",
+      "n": 155
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 21
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 137
     },
     {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 19
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 104
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 18
+      "theme": "WATER_SECURITY",
+      "n": 94
     },
     {
-      "theme": "EPU_CATS_TAXES",
-      "n": 18
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 17
-    },
-    {
-      "theme": "ECON_TAXATION",
-      "n": 17
+      "theme": "NATURAL_DISASTER_DROUGHT",
+      "n": 92
     }
   ]
 }
