@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-10-22T21:31:23.895101+00:00",
-  "rows_total_scanned_last_run": 5046,
-  "rows_mexico_last_run": 160,
-  "overall_avg_tone_4h": -0.653,
+  "generated_at": "2026-10-23T00:09:18.127876+00:00",
+  "rows_total_scanned_last_run": 5045,
+  "rows_mexico_last_run": 81,
+  "overall_avg_tone_4h": -0.634,
   "timeline": [
-    {
-      "time": "2026-10-19T22:15",
-      "avg_tone": -0.696,
-      "n_articles": 24
-    },
     {
       "time": "2026-10-20T01:00",
       "avg_tone": -1.166,
@@ -253,145 +248,165 @@
       "time": "2026-10-22T21:15",
       "avg_tone": -0.106,
       "n_articles": 55
+    },
+    {
+      "time": "2026-10-22T23:30",
+      "avg_tone": -0.822,
+      "n_articles": 28
+    },
+    {
+      "time": "2026-10-22T23:45",
+      "avg_tone": -3.25,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-10-23T00:00",
+      "avg_tone": -1.228,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-10-23T00:15",
+      "avg_tone": -1.123,
+      "n_articles": 12
     }
   ],
   "top_sources": [
     {
       "source": "iheart.com",
-      "n": 75,
-      "avg_tone": -1.095
+      "n": 8,
+      "avg_tone": -3.495
     },
     {
-      "source": "prnewswire.com",
-      "n": 4,
-      "avg_tone": 1.539
+      "source": "rockymounttelegram.com",
+      "n": 3,
+      "avg_tone": -2.14
     },
     {
-      "source": "brantfordexpositor.ca",
+      "source": "boredpanda.com",
       "n": 2,
-      "avg_tone": 3.611
+      "avg_tone": -0.721
     },
     {
-      "source": "wmtw.com",
+      "source": "cnycentral.com",
       "n": 2,
-      "avg_tone": 1.591
+      "avg_tone": -2.766
     },
     {
-      "source": "wapt.com",
+      "source": "kyma.com",
       "n": 2,
-      "avg_tone": 1.591
+      "avg_tone": -1.583
     },
     {
-      "source": "wtae.com",
+      "source": "fool.com",
       "n": 2,
-      "avg_tone": 1.591
+      "avg_tone": 1.666
     },
     {
-      "source": "wmur.com",
+      "source": "tvovermind.com",
       "n": 2,
-      "avg_tone": 1.591
+      "avg_tone": -1.613
     },
     {
-      "source": "wcvb.com",
-      "n": 2,
-      "avg_tone": 1.591
-    },
-    {
-      "source": "dailypolitical.com",
-      "n": 2,
-      "avg_tone": 1.892
-    },
-    {
-      "source": "koat.com",
+      "source": "ksbw.com",
       "n": 2,
       "avg_tone": 1.591
     },
     {
-      "source": "wgauradio.com",
+      "source": "thegazette.com",
       "n": 2,
-      "avg_tone": -5.045
+      "avg_tone": -0.663
     },
     {
-      "source": "northernnews.ca",
+      "source": "pressdemocrat.com",
       "n": 2,
-      "avg_tone": 3.611
+      "avg_tone": -5.368
     },
     {
-      "source": "elliotlakestandard.ca",
-      "n": 2,
-      "avg_tone": 3.611
-    },
-    {
-      "source": "stardem.com",
-      "n": 2,
-      "avg_tone": -4.989
-    },
-    {
-      "source": "northislandgazette.com",
+      "source": "familytreemagazine.com",
       "n": 1,
-      "avg_tone": 2.408
+      "avg_tone": 0.825
+    },
+    {
+      "source": "kshb.com",
+      "n": 1,
+      "avg_tone": 0.173
+    },
+    {
+      "source": "4029tv.com",
+      "n": 1,
+      "avg_tone": 1.018
+    },
+    {
+      "source": "txktoday.com",
+      "n": 1,
+      "avg_tone": -5.758
+    },
+    {
+      "source": "kpbs.org",
+      "n": 1,
+      "avg_tone": 1.095
     }
   ],
   "top_themes": [
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 265
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 228
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 227
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 226
-    },
-    {
-      "theme": "ENV_METALS",
-      "n": 225
-    },
-    {
-      "theme": "WB_2936_GOLD",
-      "n": 225
-    },
-    {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 218
+      "n": 105
     },
     {
-      "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 174
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 161
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 157
-    },
-    {
-      "theme": "LEADER",
-      "n": 155
-    },
-    {
-      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
-      "n": 137
-    },
-    {
-      "theme": "CRISISLEX_O01_WEATHER",
-      "n": 104
-    },
-    {
-      "theme": "WATER_SECURITY",
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
       "n": 94
     },
     {
-      "theme": "NATURAL_DISASTER_DROUGHT",
-      "n": 92
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 74
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 74
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 73
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 72
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 72
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 72
+    },
+    {
+      "theme": "LEADER",
+      "n": 70
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 68
+    },
+    {
+      "theme": "ENV_METALS",
+      "n": 67
+    },
+    {
+      "theme": "WB_2934_COPPER",
+      "n": 67
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 65
+    },
+    {
+      "theme": "TAX_FNCACT_AGENTS",
+      "n": 64
+    },
+    {
+      "theme": "SOC_GENERALCRIME",
+      "n": 61
     }
   ]
 }
