@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-10-23T09:35:24.995476+00:00",
-  "rows_total_scanned_last_run": 1933,
-  "rows_mexico_last_run": 23,
-  "overall_avg_tone_4h": -0.537,
+  "generated_at": "2026-10-23T14:26:13.819104+00:00",
+  "rows_total_scanned_last_run": 4501,
+  "rows_mexico_last_run": 87,
+  "overall_avg_tone_4h": -0.762,
   "timeline": [
-    {
-      "time": "2026-10-20T11:30",
-      "avg_tone": -2.321,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-10-20T11:45",
-      "avg_tone": -0.262,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-10-20T12:00",
-      "avg_tone": 2.038,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-10-20T12:15",
-      "avg_tone": -0.667,
-      "n_articles": 7
-    },
     {
       "time": "2026-10-20T16:15",
       "avg_tone": -0.235,
@@ -278,145 +258,160 @@
       "time": "2026-10-23T09:15",
       "avg_tone": 3.0,
       "n_articles": 8
+    },
+    {
+      "time": "2026-10-23T13:45",
+      "avg_tone": -1.093,
+      "n_articles": 33
+    },
+    {
+      "time": "2026-10-23T14:00",
+      "avg_tone": -1.051,
+      "n_articles": 26
+    },
+    {
+      "time": "2026-10-23T14:15",
+      "avg_tone": -0.614,
+      "n_articles": 28
     }
   ],
   "top_sources": [
     {
-      "source": "akronnewsreporter.com",
+      "source": "iheart.com",
+      "n": 13,
+      "avg_tone": -8.491
+    },
+    {
+      "source": "banderasnews.com",
+      "n": 5,
+      "avg_tone": 2.418
+    },
+    {
+      "source": "7newsbelize.com",
+      "n": 3,
+      "avg_tone": 1.242
+    },
+    {
+      "source": "mercurynews.com",
       "n": 2,
-      "avg_tone": -5.368
+      "avg_tone": -3.215
     },
     {
-      "source": "ivpressonline.com",
+      "source": "orlandosentinel.com",
       "n": 2,
-      "avg_tone": -4.099
+      "avg_tone": -0.508
     },
     {
-      "source": "dailymail.com",
-      "n": 1,
-      "avg_tone": 0.792
+      "source": "torontosun.com",
+      "n": 2,
+      "avg_tone": 0.613
     },
     {
-      "source": "macworld.com",
-      "n": 1,
-      "avg_tone": -1.613
+      "source": "wellandtribune.ca",
+      "n": 2,
+      "avg_tone": 0.574
     },
     {
-      "source": "z937.com",
-      "n": 1,
-      "avg_tone": 5.848
+      "source": "newcity.com",
+      "n": 2,
+      "avg_tone": -0.14
     },
     {
-      "source": "mystar98.com",
-      "n": 1,
-      "avg_tone": 5.848
+      "source": "citizensvoice.com",
+      "n": 2,
+      "avg_tone": -0.508
     },
     {
-      "source": "961jamz.com",
-      "n": 1,
-      "avg_tone": 5.848
+      "source": "rustourismnews.com",
+      "n": 2,
+      "avg_tone": 3.178
     },
     {
-      "source": "q1061.com",
+      "source": "lakelandtimes.com",
       "n": 1,
-      "avg_tone": 5.848
+      "avg_tone": 0.0
     },
     {
-      "source": "energy-pedia.com",
+      "source": "indianapolismonthly.com",
       "n": 1,
-      "avg_tone": 3.327
+      "avg_tone": 3.179
     },
     {
-      "source": "wdez.com",
+      "source": "lbc.co.uk",
       "n": 1,
-      "avg_tone": -1.896
+      "avg_tone": -3.333
     },
     {
-      "source": "edp24.co.uk",
+      "source": "rsf.org",
       "n": 1,
-      "avg_tone": 0.687
+      "avg_tone": -3.864
     },
     {
-      "source": "thisiswiltshire.co.uk",
+      "source": "whio.com",
       "n": 1,
-      "avg_tone": 1.136
-    },
-    {
-      "source": "manilatimes.net",
-      "n": 1,
-      "avg_tone": 0.997
-    },
-    {
-      "source": "y94.com",
-      "n": 1,
-      "avg_tone": 5.848
-    },
-    {
-      "source": "travelerstoday.com",
-      "n": 1,
-      "avg_tone": -1.74
+      "avg_tone": -0.587
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 23
-    },
-    {
-      "theme": "TAX_FNCACT_AGENTS",
-      "n": 22
-    },
-    {
       "theme": "BORDER",
-      "n": 21
+      "n": 134
     },
     {
-      "theme": "LEADER",
-      "n": 17
+      "theme": "TAX_FNCACT_PORTER",
+      "n": 120
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 16
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 100
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 16
-    },
-    {
-      "theme": "WB_2048_COMPENSATION_CAREERS_AND_INCENTIVES",
-      "n": 15
-    },
-    {
-      "theme": "WB_723_PUBLIC_ADMINISTRATION",
-      "n": 15
-    },
-    {
-      "theme": "WB_724_HUMAN_RESOURCES_FOR_PUBLIC_SECTOR",
-      "n": 15
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 15
-    },
-    {
-      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
-      "n": 15
-    },
-    {
-      "theme": "TAX_FNCACT_SINGER",
-      "n": 14
-    },
-    {
-      "theme": "SOC_GENERALCRIME",
-      "n": 14
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 13
+      "theme": "KILL",
+      "n": 83
     },
     {
       "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 13
+      "n": 74
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 63
+    },
+    {
+      "theme": "LEADER",
+      "n": 62
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 61
+    },
+    {
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 59
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 59
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 58
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 58
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 49
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 48
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 47
     }
   ]
 }
