@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-10-24T16:22:45.053106+00:00",
-  "rows_total_scanned_last_run": 2375,
-  "rows_mexico_last_run": 23,
-  "overall_avg_tone_4h": -0.427,
+  "generated_at": "2026-10-24T18:54:22.253142+00:00",
+  "rows_total_scanned_last_run": 1890,
+  "rows_mexico_last_run": 20,
+  "overall_avg_tone_4h": -0.217,
   "timeline": [
-    {
-      "time": "2026-10-21T17:00",
-      "avg_tone": 0.279,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-10-21T17:15",
-      "avg_tone": 0.41,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-10-21T17:30",
-      "avg_tone": 0.971,
-      "n_articles": 21
-    },
-    {
-      "time": "2026-10-21T17:45",
-      "avg_tone": 0.613,
-      "n_articles": 28
-    },
     {
       "time": "2026-10-21T20:15",
       "avg_tone": -2.452,
@@ -248,145 +228,160 @@
       "time": "2026-10-24T16:15",
       "avg_tone": 0.161,
       "n_articles": 4
+    },
+    {
+      "time": "2026-10-24T18:30",
+      "avg_tone": 0.424,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-10-24T18:45",
+      "avg_tone": -0.418,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-10-24T19:00",
+      "avg_tone": 2.7,
+      "n_articles": 2
     }
   ],
   "top_sources": [
     {
-      "source": "thedigitalcourier.com",
+      "source": "themarketsdaily.com",
       "n": 2,
-      "avg_tone": 3.865
+      "avg_tone": 1.076
     },
     {
-      "source": "grandrapidsmn.com",
+      "source": "eturbonews.com",
       "n": 2,
-      "avg_tone": 3.198
+      "avg_tone": 2.195
     },
     {
-      "source": "latimes.com",
-      "n": 2,
-      "avg_tone": -1.818
-    },
-    {
-      "source": "express.co.uk",
-      "n": 1,
-      "avg_tone": 1.018
-    },
-    {
-      "source": "centralmoinfo.com",
-      "n": 1,
-      "avg_tone": -0.87
-    },
-    {
-      "source": "themountainpress.com",
+      "source": "fox21online.com",
       "n": 1,
       "avg_tone": 4.15
     },
     {
-      "source": "record-bee.com",
+      "source": "ghanamma.com",
       "n": 1,
-      "avg_tone": -3.656
+      "avg_tone": 0.0
     },
     {
-      "source": "suncommercial.com",
+      "source": "dailybruin.com",
       "n": 1,
-      "avg_tone": 4.15
+      "avg_tone": 3.517
     },
     {
-      "source": "tucson.com",
+      "source": "dailypolitical.com",
       "n": 1,
-      "avg_tone": 2.873
+      "avg_tone": 1.453
     },
     {
-      "source": "pagesix.com",
+      "source": "nbcsandiego.com",
       "n": 1,
-      "avg_tone": -4.887
+      "avg_tone": -0.63
     },
     {
-      "source": "brnow.org",
+      "source": "aa.com.tr",
       "n": 1,
-      "avg_tone": -0.471
+      "avg_tone": -5.455
     },
     {
-      "source": "aol.co.uk",
+      "source": "yourdemocracy.net.au",
       "n": 1,
-      "avg_tone": 0.969
+      "avg_tone": -7.922
     },
     {
-      "source": "lebanondemocrat.com",
+      "source": "dominicantoday.com",
       "n": 1,
-      "avg_tone": 4.15
+      "avg_tone": -0.441
+    },
+    {
+      "source": "screenrant.com",
+      "n": 1,
+      "avg_tone": -0.921
+    },
+    {
+      "source": "nzherald.co.nz",
+      "n": 1,
+      "avg_tone": -4.488
+    },
+    {
+      "source": "planetf1.com",
+      "n": 1,
+      "avg_tone": -0.153
+    },
+    {
+      "source": "glidemagazine.com",
+      "n": 1,
+      "avg_tone": 1.197
     },
     {
       "source": "tickerreport.com",
       "n": 1,
-      "avg_tone": 0.97
-    },
-    {
-      "source": "metro.co.uk",
-      "n": 1,
-      "avg_tone": -2.556
+      "avg_tone": 1.453
     }
   ],
   "top_themes": [
     {
-      "theme": "GEN_HOLIDAY",
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 44
+    },
+    {
+      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "n": 42
+    },
+    {
+      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
+      "n": 42
+    },
+    {
+      "theme": "TOURISM",
+      "n": 40
+    },
+    {
+      "theme": "WB_825_TOURISM",
+      "n": 40
+    },
+    {
+      "theme": "WB_135_TRANSPORT",
       "n": 32
     },
     {
-      "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 27
+      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
+      "n": 32
     },
     {
-      "theme": "TAX_FNCACT_COOK",
-      "n": 24
+      "theme": "SOC_POINTSOFINTEREST_AIRPORT",
+      "n": 28
     },
     {
-      "theme": "TAX_RELIGION_BAPTIST",
+      "theme": "WB_1804_AIRPORTS",
+      "n": 28
+    },
+    {
+      "theme": "ENV_OIL",
+      "n": 26
+    },
+    {
+      "theme": "TAX_FNCACT_STUDENTS",
+      "n": 23
+    },
+    {
+      "theme": "WB_165_AIR_TRANSPORT",
+      "n": 23
+    },
+    {
+      "theme": "WB_164_MODES_OF_TRANSPORT",
+      "n": 23
+    },
+    {
+      "theme": "ENV_NATURALGAS",
       "n": 22
     },
     {
-      "theme": "TAX_FOODSTAPLES_POTATOES",
-      "n": 21
-    },
-    {
-      "theme": "TAX_FNCACT_PRINCESS",
-      "n": 20
-    },
-    {
-      "theme": "BORDER",
-      "n": 20
-    },
-    {
-      "theme": "TAX_FOODSTAPLES_CORN",
-      "n": 18
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 15
-    },
-    {
-      "theme": "TAX_FNCACT_COWBOY",
-      "n": 15
-    },
-    {
-      "theme": "TAX_FNCACT_FATHER",
-      "n": 14
-    },
-    {
-      "theme": "EPU_POLICY_SPENDING",
-      "n": 13
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 12
-    },
-    {
-      "theme": "TAX_DISEASE_ILLUSIONS",
-      "n": 12
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 12
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 22
     }
   ]
 }
