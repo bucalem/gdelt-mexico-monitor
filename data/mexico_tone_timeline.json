@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-10-24T08:41:27.400449+00:00",
-  "rows_total_scanned_last_run": 586,
-  "rows_mexico_last_run": 10,
-  "overall_avg_tone_4h": -0.681,
+  "generated_at": "2026-10-24T12:55:19.213739+00:00",
+  "rows_total_scanned_last_run": 1512,
+  "rows_mexico_last_run": 19,
+  "overall_avg_tone_4h": -0.703,
   "timeline": [
-    {
-      "time": "2026-10-21T11:45",
-      "avg_tone": -0.67,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-10-21T12:00",
-      "avg_tone": 1.054,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-10-21T12:15",
-      "avg_tone": 1.745,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-10-21T12:30",
-      "avg_tone": -1.011,
-      "n_articles": 7
-    },
     {
       "time": "2026-10-21T17:00",
       "avg_tone": 0.279,
@@ -243,120 +223,155 @@
       "time": "2026-10-24T08:00",
       "avg_tone": 4.922,
       "n_articles": 10
+    },
+    {
+      "time": "2026-10-24T12:15",
+      "avg_tone": 1.12,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-10-24T12:45",
+      "avg_tone": -0.423,
+      "n_articles": 7
     }
   ],
   "top_sources": [
     {
-      "source": "ksam1017.com",
+      "source": "arkansasonline.com",
+      "n": 4,
+      "avg_tone": -3.599
+    },
+    {
+      "source": "mesabitribune.com",
+      "n": 2,
+      "avg_tone": 3.198
+    },
+    {
+      "source": "nypost.com",
+      "n": 1,
+      "avg_tone": -5.535
+    },
+    {
+      "source": "bransontrilakesnews.com",
+      "n": 1,
+      "avg_tone": 4.15
+    },
+    {
+      "source": "fortune.com",
+      "n": 1,
+      "avg_tone": -2.419
+    },
+    {
+      "source": "mirror.co.uk",
+      "n": 1,
+      "avg_tone": -2.486
+    },
+    {
+      "source": "goss.ie",
+      "n": 1,
+      "avg_tone": -3.07
+    },
+    {
+      "source": "wyomingnews.com",
+      "n": 1,
+      "avg_tone": 4.918
+    },
+    {
+      "source": "1007thetiger.com",
+      "n": 1,
+      "avg_tone": 11.798
+    },
+    {
+      "source": "thelocal.se",
+      "n": 1,
+      "avg_tone": 0.181
+    },
+    {
+      "source": "dailymail.com",
+      "n": 1,
+      "avg_tone": -3.125
+    },
+    {
+      "source": "moneyweek.com",
+      "n": 1,
+      "avg_tone": 0.488
+    },
+    {
+      "source": "wden.com",
       "n": 1,
       "avg_tone": 0.704
     },
     {
-      "source": "hometownsource.com",
+      "source": "reflector.com",
       "n": 1,
-      "avg_tone": 1.314
+      "avg_tone": 1.067
     },
     {
-      "source": "v100fm.com",
+      "source": "glory985.com",
       "n": 1,
       "avg_tone": 11.798
-    },
-    {
-      "source": "wiov.com",
-      "n": 1,
-      "avg_tone": 0.704
-    },
-    {
-      "source": "whrpfm.com",
-      "n": 1,
-      "avg_tone": 11.798
-    },
-    {
-      "source": "wbnq.com",
-      "n": 1,
-      "avg_tone": 11.798
-    },
-    {
-      "source": "985kissfm.net",
-      "n": 1,
-      "avg_tone": 11.798
-    },
-    {
-      "source": "idahostatejournal.com",
-      "n": 1,
-      "avg_tone": -8.257
-    },
-    {
-      "source": "techtimes.com",
-      "n": 1,
-      "avg_tone": 2.174
-    },
-    {
-      "source": "usmagazine.com",
-      "n": 1,
-      "avg_tone": 5.388
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 45
+    },
+    {
+      "theme": "TAX_FNCACT_POLICE",
+      "n": 40
+    },
+    {
+      "theme": "SECURITY_SERVICES",
+      "n": 37
+    },
+    {
+      "theme": "TAX_FNCACT_FATHER",
+      "n": 28
+    },
+    {
+      "theme": "TAX_FNCACT_COOK",
+      "n": 23
+    },
+    {
+      "theme": "TRIAL",
       "n": 20
     },
     {
-      "theme": "TAX_FNCACT_ARTISTS",
+      "theme": "TAX_FOODSTAPLES_POTATOES",
+      "n": 18
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 17
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 17
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_CORN",
+      "n": 17
+    },
+    {
+      "theme": "TAX_FNCACT_CHILDREN",
+      "n": 17
+    },
+    {
+      "theme": "TAX_FNCACT_DUCHESS",
       "n": 16
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
+      "theme": "TAX_ECON_PRICE",
+      "n": 16
+    },
+    {
+      "theme": "TAX_FOODSTAPLES_RICE",
       "n": 15
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 10
-    },
-    {
-      "theme": "WB_168_ROADS_AND_HIGHWAYS",
-      "n": 8
-    },
-    {
-      "theme": "WB_135_TRANSPORT",
-      "n": 8
-    },
-    {
-      "theme": "WB_1809_HIGHWAYS",
-      "n": 8
-    },
-    {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 8
-    },
-    {
-      "theme": "NATURAL_DISASTER_HURRICANE",
-      "n": 8
-    },
-    {
-      "theme": "TAX_FNCACT_CANDIDATES",
-      "n": 7
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 6
-    },
-    {
-      "theme": "TAX_WORLDMAMMALS_ELK",
-      "n": 5
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 4
-    },
-    {
-      "theme": "TAX_FNCACT_KNIGHT",
-      "n": 4
-    },
-    {
-      "theme": "TAX_FNCACT_COMPANION",
-      "n": 4
+      "theme": "TAX_FNCACT_ATTORNEY",
+      "n": 14
     }
   ]
 }
