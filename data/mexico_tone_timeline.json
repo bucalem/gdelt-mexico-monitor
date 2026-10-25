@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-10-25T18:30:16.346640+00:00",
-  "rows_total_scanned_last_run": 1781,
-  "rows_mexico_last_run": 21,
-  "overall_avg_tone_4h": -0.839,
+  "generated_at": "2026-10-25T21:13:29.489156+00:00",
+  "rows_total_scanned_last_run": 1805,
+  "rows_mexico_last_run": 31,
+  "overall_avg_tone_4h": -0.613,
   "timeline": [
-    {
-      "time": "2026-10-22T20:45",
-      "avg_tone": -0.44,
-      "n_articles": 38
-    },
-    {
-      "time": "2026-10-22T21:00",
-      "avg_tone": -1.098,
-      "n_articles": 67
-    },
     {
       "time": "2026-10-22T21:15",
       "avg_tone": -0.106,
@@ -298,145 +288,160 @@
       "time": "2026-10-25T18:15",
       "avg_tone": 0.235,
       "n_articles": 5
+    },
+    {
+      "time": "2026-10-25T20:30",
+      "avg_tone": 0.516,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-10-25T20:45",
+      "avg_tone": 0.67,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-10-25T21:15",
+      "avg_tone": -1.733,
+      "n_articles": 12
     }
   ],
   "top_sources": [
     {
-      "source": "netflixlife.com",
-      "n": 1,
-      "avg_tone": 0.897
+      "source": "fool.com",
+      "n": 2,
+      "avg_tone": 3.489
     },
     {
-      "source": "union-bulletin.com",
+      "source": "oxfordmail.co.uk",
       "n": 1,
-      "avg_tone": -0.044
+      "avg_tone": -1.212
     },
     {
-      "source": "dailybreeze.com",
+      "source": "wimbledonguardian.co.uk",
       "n": 1,
-      "avg_tone": -4.089
+      "avg_tone": -1.212
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "crash.net",
       "n": 1,
-      "avg_tone": 2.273
+      "avg_tone": -1.015
     },
     {
-      "source": "aol.com",
+      "source": "denverpost.com",
       "n": 1,
-      "avg_tone": 2.137
+      "avg_tone": -4.396
     },
     {
-      "source": "cadillacnews.com",
+      "source": "rttnews.com",
       "n": 1,
-      "avg_tone": -0.09
+      "avg_tone": 1.613
     },
     {
-      "source": "idahostatejournal.com",
+      "source": "northwichguardian.co.uk",
       "n": 1,
-      "avg_tone": -0.09
+      "avg_tone": -1.212
     },
     {
-      "source": "woonsocketcall.com",
+      "source": "newbernsj.com",
       "n": 1,
-      "avg_tone": -0.09
+      "avg_tone": -6.977
     },
     {
-      "source": "kilburntimes.co.uk",
+      "source": "idahopress.com",
       "n": 1,
-      "avg_tone": -0.978
+      "avg_tone": -1.499
     },
     {
-      "source": "willitsnews.com",
+      "source": "thisiswiltshire.co.uk",
       "n": 1,
-      "avg_tone": 4.442
+      "avg_tone": -1.212
     },
     {
-      "source": "goskagit.com",
+      "source": "eastlondonadvertiser.co.uk",
       "n": 1,
-      "avg_tone": -0.09
+      "avg_tone": -1.212
     },
     {
-      "source": "yumasun.com",
+      "source": "timesrepublican.com",
       "n": 1,
-      "avg_tone": -0.09
+      "avg_tone": -0.586
     },
     {
-      "source": "wgcu.org",
+      "source": "adn.com",
       "n": 1,
-      "avg_tone": -5.897
+      "avg_tone": -1.872
     },
     {
-      "source": "guardian-series.co.uk",
+      "source": "mirror.co.uk",
       "n": 1,
-      "avg_tone": -0.978
+      "avg_tone": -2.828
     },
     {
-      "source": "businesstimes.com.sg",
+      "source": "tickerreport.com",
       "n": 1,
-      "avg_tone": -0.057
+      "avg_tone": 1.987
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 93
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 91
-    },
-    {
-      "theme": "LEADER",
-      "n": 90
+      "theme": "MEDIA_MSM",
+      "n": 72
     },
     {
       "theme": "ELECTION",
-      "n": 86
+      "n": 62
     },
     {
-      "theme": "TAX_FNCACT_CANDIDATE",
-      "n": 68
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 52
     },
     {
-      "theme": "TAX_FNCACT_CANDIDATES",
-      "n": 43
+      "theme": "LEADER",
+      "n": 49
     },
     {
-      "theme": "TAX_FNCACT_INCUMBENT",
-      "n": 43
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 49
     },
     {
-      "theme": "TAX_FNCACT_CIO",
-      "n": 35
+      "theme": "TAX_FNCACT_JOURNALIST",
+      "n": 38
     },
     {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 31
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 38
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 30
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 36
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 29
+      "theme": "WB_694_BROADCAST_AND_MEDIA",
+      "n": 36
     },
     {
-      "theme": "TAX_FNCACT_WORKER",
-      "n": 28
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 33
     },
     {
       "theme": "EPU_POLICY_POLITICAL",
-      "n": 27
+      "n": 33
     },
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 26
+      "theme": "UNGP_POLITICAL_FREEDOMS",
+      "n": 32
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 25
+      "theme": "TAX_FNCACT_SUPPORTERS",
+      "n": 29
+    },
+    {
+      "theme": "TAX_FNCACT_CANDIDATE",
+      "n": 28
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 28
     }
   ]
 }
