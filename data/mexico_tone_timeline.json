@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-10-25T23:16:13.219477+00:00",
-  "rows_total_scanned_last_run": 1570,
-  "rows_mexico_last_run": 52,
-  "overall_avg_tone_4h": -0.649,
+  "generated_at": "2026-10-26T01:25:52.443070+00:00",
+  "rows_total_scanned_last_run": 1655,
+  "rows_mexico_last_run": 57,
+  "overall_avg_tone_4h": -0.646,
   "timeline": [
-    {
-      "time": "2026-10-22T23:30",
-      "avg_tone": -0.822,
-      "n_articles": 28
-    },
-    {
-      "time": "2026-10-22T23:45",
-      "avg_tone": -3.25,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-10-23T00:00",
-      "avg_tone": -1.228,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-10-23T00:15",
-      "avg_tone": -1.123,
-      "n_articles": 12
-    },
     {
       "time": "2026-10-23T04:00",
       "avg_tone": -0.833,
@@ -313,144 +293,159 @@
       "time": "2026-10-25T23:00",
       "avg_tone": 1.026,
       "n_articles": 12
+    },
+    {
+      "time": "2026-10-26T00:45",
+      "avg_tone": 0.429,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-10-26T01:00",
+      "avg_tone": -0.976,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-10-26T01:15",
+      "avg_tone": -0.547,
+      "n_articles": 18
     }
   ],
   "top_sources": [
     {
-      "source": "aol.co.uk",
-      "n": 3,
-      "avg_tone": 2.118
+      "source": "artdaily.com",
+      "n": 5,
+      "avg_tone": 2.231
     },
     {
       "source": "goskagit.com",
+      "n": 3,
+      "avg_tone": 0.26
+    },
+    {
+      "source": "nypost.com",
       "n": 2,
-      "avg_tone": -1.806
+      "avg_tone": 1.206
     },
     {
-      "source": "planetf1.com",
+      "source": "screenrant.com",
       "n": 2,
-      "avg_tone": 1.124
+      "avg_tone": -1.602
     },
     {
-      "source": "english.news.cn",
+      "source": "chicagotribune.com",
       "n": 2,
-      "avg_tone": -3.67
+      "avg_tone": -4.981
     },
     {
-      "source": "dailypolitical.com",
-      "n": 2,
-      "avg_tone": 2.914
-    },
-    {
-      "source": "eastbaytimes.com",
-      "n": 2,
-      "avg_tone": -1.185
-    },
-    {
-      "source": "times-standard.com",
+      "source": "times-series.co.uk",
       "n": 1,
-      "avg_tone": -1.694
+      "avg_tone": 0.799
     },
     {
-      "source": "ketv.com",
+      "source": "indiatimes.com",
       "n": 1,
-      "avg_tone": 2.165
+      "avg_tone": -0.573
     },
     {
-      "source": "surfacemag.com",
+      "source": "nbcdfw.com",
       "n": 1,
-      "avg_tone": 3.976
+      "avg_tone": 1.375
     },
     {
-      "source": "kirksvilledailyexpress.com",
+      "source": "irvinetimes.com",
       "n": 1,
-      "avg_tone": -0.164
+      "avg_tone": 0.799
     },
     {
-      "source": "kcra.com",
+      "source": "halsteadgazette.co.uk",
       "n": 1,
-      "avg_tone": 2.165
+      "avg_tone": 0.799
     },
     {
-      "source": "krro.com",
+      "source": "gjsentinel.com",
       "n": 1,
-      "avg_tone": -0.903
+      "avg_tone": -8.0
     },
     {
-      "source": "winknews.com",
+      "source": "penarthtimes.co.uk",
       "n": 1,
-      "avg_tone": -13.103
+      "avg_tone": 0.799
     },
     {
-      "source": "royston-crow.co.uk",
+      "source": "wyff4.com",
       "n": 1,
-      "avg_tone": -1.125
+      "avg_tone": -1.02
     },
     {
-      "source": "herefordtimes.com",
+      "source": "oxfordmail.co.uk",
       "n": 1,
-      "avg_tone": -1.125
+      "avg_tone": 0.799
+    },
+    {
+      "source": "harwichandmanningtreestandard.co.uk",
+      "n": 1,
+      "avg_tone": 0.799
     }
   ],
   "top_themes": [
     {
-      "theme": "ELECTION",
-      "n": 187
+      "theme": "LEADER",
+      "n": 229
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 140
-    },
-    {
-      "theme": "LEADER",
-      "n": 138
+      "n": 211
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 136
+      "n": 211
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 80
+      "theme": "ELECTION",
+      "n": 111
     },
     {
-      "theme": "TAX_FNCACT_SUPPORTERS",
-      "n": 76
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 72
-    },
-    {
-      "theme": "EPU_POLICY_POLITICAL",
-      "n": 65
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 103
     },
     {
       "theme": "TAX_FNCACT_CANDIDATE",
-      "n": 64
+      "n": 88
     },
     {
-      "theme": "CORRUPTION",
-      "n": 60
-    },
-    {
-      "theme": "PUBLIC_TRANSPORT",
-      "n": 59
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
-      "n": 54
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 53
+      "theme": "TAX_FNCACT_SUPPORTERS",
+      "n": 82
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 51
+      "n": 81
+    },
+    {
+      "theme": "EPU_POLICY_POLITICAL",
+      "n": 69
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 65
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 64
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 62
     },
     {
       "theme": "USPEC_POLICY1",
+      "n": 50
+    },
+    {
+      "theme": "TAX_FNCACT_SENATOR",
+      "n": 49
+    },
+    {
+      "theme": "TAX_FNCACT_LEADER",
       "n": 49
     }
   ]
