@@ -1,39 +1,9 @@
 {
-  "generated_at": "2026-10-27T13:47:20.562644+00:00",
-  "rows_total_scanned_last_run": 5533,
-  "rows_mexico_last_run": 102,
-  "overall_avg_tone_4h": -0.821,
+  "generated_at": "2026-10-27T19:06:14.881253+00:00",
+  "rows_total_scanned_last_run": 6657,
+  "rows_mexico_last_run": 71,
+  "overall_avg_tone_4h": -1.002,
   "timeline": [
-    {
-      "time": "2026-10-24T15:45",
-      "avg_tone": 1.675,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-10-24T16:00",
-      "avg_tone": 1.162,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-10-24T16:15",
-      "avg_tone": 0.161,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-10-24T18:30",
-      "avg_tone": 0.424,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-10-24T18:45",
-      "avg_tone": -0.418,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-10-24T19:00",
-      "avg_tone": 2.7,
-      "n_articles": 2
-    },
     {
       "time": "2026-10-24T20:45",
       "avg_tone": -2.291,
@@ -328,145 +298,165 @@
       "time": "2026-10-27T13:45",
       "avg_tone": -0.284,
       "n_articles": 20
+    },
+    {
+      "time": "2026-10-27T18:30",
+      "avg_tone": -1.208,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-10-27T18:45",
+      "avg_tone": -2.534,
+      "n_articles": 22
+    },
+    {
+      "time": "2026-10-27T19:00",
+      "avg_tone": -1.212,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-10-27T19:15",
+      "avg_tone": -1.043,
+      "n_articles": 11
     }
   ],
   "top_sources": [
     {
-      "source": "iheart.com",
-      "n": 19,
-      "avg_tone": -6.977
-    },
-    {
-      "source": "prnewswire.com",
-      "n": 4,
-      "avg_tone": 3.184
-    },
-    {
-      "source": "kpbs.org",
-      "n": 3,
-      "avg_tone": -0.95
-    },
-    {
-      "source": "manilatimes.net",
+      "source": "newser.com",
       "n": 2,
-      "avg_tone": 0.398
+      "avg_tone": -4.7
     },
     {
-      "source": "freshfruitportal.com",
+      "source": "cedarnews.net",
       "n": 2,
-      "avg_tone": 1.954
+      "avg_tone": -7.596
     },
     {
-      "source": "formula1.com",
+      "source": "fox7austin.com",
       "n": 2,
-      "avg_tone": -0.573
+      "avg_tone": -4.174
     },
     {
-      "source": "wlrn.org",
+      "source": "elpais.com",
       "n": 2,
-      "avg_tone": -1.506
+      "avg_tone": -3.339
     },
     {
-      "source": "koat.com",
+      "source": "riotimesonline.com",
       "n": 2,
-      "avg_tone": -3.06
+      "avg_tone": -1.453
     },
     {
-      "source": "venezuelastar.com",
+      "source": "eturbonews.com",
       "n": 2,
-      "avg_tone": -1.659
+      "avg_tone": 3.711
     },
     {
-      "source": "kuaf.com",
+      "source": "981thehawk.com",
       "n": 1,
-      "avg_tone": -0.174
+      "avg_tone": 2.517
     },
     {
-      "source": "wgauradio.com",
+      "source": "trinidadtimes.com",
       "n": 1,
-      "avg_tone": 1.776
+      "avg_tone": -2.987
     },
     {
-      "source": "observer.com",
+      "source": "examiner.com.au",
       "n": 1,
-      "avg_tone": -0.272
+      "avg_tone": -2.624
     },
     {
-      "source": "hsrc.ac.za",
+      "source": "4029tv.com",
       "n": 1,
-      "avg_tone": 4.936
+      "avg_tone": -5.988
     },
     {
-      "source": "koco.com",
+      "source": "caribbeanherald.com",
       "n": 1,
-      "avg_tone": -4.808
+      "avg_tone": -0.686
     },
     {
-      "source": "bakeryandsnacks.com",
+      "source": "nbcbayarea.com",
       "n": 1,
-      "avg_tone": 1.826
+      "avg_tone": -5.2
+    },
+    {
+      "source": "b985.fm",
+      "n": 1,
+      "avg_tone": 1.514
+    },
+    {
+      "source": "keanradio.com",
+      "n": 1,
+      "avg_tone": 11.579
+    },
+    {
+      "source": "aol.co.uk",
+      "n": 1,
+      "avg_tone": -2.564
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_ARTISTS",
-      "n": 315
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 228
     },
     {
-      "theme": "EPU_POLICY_WHITE_HOUSE",
-      "n": 169
+      "theme": "WB_405_BUSINESS_CLIMATE",
+      "n": 166
     },
     {
-      "theme": "LEADER",
-      "n": 135
+      "theme": "WB_2531_INSPECTIONS_LICENSING_AND_PERMITS",
+      "n": 166
     },
     {
-      "theme": "TAX_FNCACT_SINGER",
-      "n": 126
+      "theme": "WB_2530_BUSINESS_ENVIRONMENT",
+      "n": 166
     },
     {
-      "theme": "TAX_FNCACT_PRODUCER",
-      "n": 105
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 92
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 57
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 104
+      "n": 54
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 101
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 52
+    },
+    {
+      "theme": "LEADER",
+      "n": 50
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 49
+    },
+    {
+      "theme": "MARITIME",
+      "n": 49
     },
     {
       "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 93
+      "n": 48
     },
     {
-      "theme": "TRIAL",
-      "n": 90
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 47
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 78
+      "theme": "MARITIME_INCIDENT",
+      "n": 46
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 71
-    },
-    {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 66
-    },
-    {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 66
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 66
-    },
-    {
-      "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 64
+      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "n": 46
     }
   ]
 }
