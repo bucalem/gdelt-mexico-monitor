@@ -1,39 +1,9 @@
 {
-  "generated_at": "2026-10-28T19:52:59.692312+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -0.978,
+  "generated_at": "2026-10-28T23:43:50.427306+00:00",
+  "rows_total_scanned_last_run": 3861,
+  "rows_mexico_last_run": 64,
+  "overall_avg_tone_4h": -0.851,
   "timeline": [
-    {
-      "time": "2026-10-25T20:30",
-      "avg_tone": 0.516,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-10-25T20:45",
-      "avg_tone": 0.67,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-10-25T21:15",
-      "avg_tone": -1.733,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-10-25T22:30",
-      "avg_tone": -1.271,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-10-25T22:45",
-      "avg_tone": -2.239,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-10-25T23:00",
-      "avg_tone": 1.026,
-      "n_articles": 12
-    },
     {
       "time": "2026-10-26T00:45",
       "avg_tone": 0.429,
@@ -243,8 +213,160 @@
       "time": "2026-10-28T14:15",
       "avg_tone": -0.676,
       "n_articles": 11
+    },
+    {
+      "time": "2026-10-28T23:00",
+      "avg_tone": -0.364,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-10-28T23:15",
+      "avg_tone": 0.422,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-10-28T23:30",
+      "avg_tone": -0.781,
+      "n_articles": 24
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "grandprix.com",
+      "n": 4,
+      "avg_tone": 0.146
+    },
+    {
+      "source": "fox7austin.com",
+      "n": 3,
+      "avg_tone": -3.48
+    },
+    {
+      "source": "laist.com",
+      "n": 2,
+      "avg_tone": 0.624
+    },
+    {
+      "source": "nepalnational.com",
+      "n": 2,
+      "avg_tone": -0.811
+    },
+    {
+      "source": "thereporter.com",
+      "n": 2,
+      "avg_tone": -3.877
+    },
+    {
+      "source": "sonomanews.com",
+      "n": 2,
+      "avg_tone": 1.46
+    },
+    {
+      "source": "jamestownsun.com",
+      "n": 2,
+      "avg_tone": -0.998
+    },
+    {
+      "source": "newswiretoday.com",
+      "n": 2,
+      "avg_tone": 4.514
+    },
+    {
+      "source": "caribbeanherald.com",
+      "n": 2,
+      "avg_tone": -0.811
+    },
+    {
+      "source": "newsone.com",
+      "n": 1,
+      "avg_tone": -0.313
+    },
+    {
+      "source": "wbez.org",
+      "n": 1,
+      "avg_tone": -0.29
+    },
+    {
+      "source": "georgetowner.com",
+      "n": 1,
+      "avg_tone": 2.186
+    },
+    {
+      "source": "wcti12.com",
+      "n": 1,
+      "avg_tone": 1.741
+    },
+    {
+      "source": "nigeriasun.com",
+      "n": 1,
+      "avg_tone": -3.252
+    },
+    {
+      "source": "ghanamma.com",
+      "n": 1,
+      "avg_tone": 0.0
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 181
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 181
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 181
+    },
+    {
+      "theme": "WB_2936_GOLD",
+      "n": 175
+    },
+    {
+      "theme": "ENV_METALS",
+      "n": 174
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 140
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 135
+    },
+    {
+      "theme": "ENV_MINING",
+      "n": 102
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 75
+    },
+    {
+      "theme": "TAX_FNCACT_WORKERS",
+      "n": 69
+    },
+    {
+      "theme": "TAX_FNCACT_WOMEN",
+      "n": 64
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 62
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 61
+    },
+    {
+      "theme": "TAX_FNCACT_FARM_WORKERS",
+      "n": 53
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 45
+    }
+  ]
 }
