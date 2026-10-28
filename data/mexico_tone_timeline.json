@@ -1,39 +1,9 @@
 {
-  "generated_at": "2026-10-27T22:55:47.852561+00:00",
-  "rows_total_scanned_last_run": 3707,
-  "rows_mexico_last_run": 53,
-  "overall_avg_tone_4h": -1.132,
+  "generated_at": "2026-10-28T01:57:20.345714+00:00",
+  "rows_total_scanned_last_run": 3177,
+  "rows_mexico_last_run": 42,
+  "overall_avg_tone_4h": -1.294,
   "timeline": [
-    {
-      "time": "2026-10-24T23:00",
-      "avg_tone": -1.546,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-10-24T23:15",
-      "avg_tone": -3.036,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-10-24T23:30",
-      "avg_tone": -1.236,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-10-25T00:45",
-      "avg_tone": -4.344,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-10-25T01:00",
-      "avg_tone": -0.849,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-10-25T01:15",
-      "avg_tone": -3.496,
-      "n_articles": 8
-    },
     {
       "time": "2026-10-25T05:45",
       "avg_tone": -0.963,
@@ -308,145 +278,160 @@
       "time": "2026-10-27T22:45",
       "avg_tone": 0.205,
       "n_articles": 17
+    },
+    {
+      "time": "2026-10-28T01:15",
+      "avg_tone": -3.397,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-10-28T01:30",
+      "avg_tone": -0.948,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-10-28T01:45",
+      "avg_tone": -2.037,
+      "n_articles": 11
     }
   ],
   "top_sources": [
     {
-      "source": "tucson.com",
-      "n": 3,
-      "avg_tone": 2.887
-    },
-    {
-      "source": "kpbs.org",
-      "n": 2,
-      "avg_tone": -1.896
-    },
-    {
-      "source": "webwire.com",
-      "n": 2,
-      "avg_tone": 2.285
-    },
-    {
-      "source": "wglt.org",
+      "source": "wvik.org",
       "n": 2,
       "avg_tone": -3.224
     },
     {
-      "source": "planetf1.com",
-      "n": 2,
-      "avg_tone": 0.976
-    },
-    {
-      "source": "northernpublicradio.org",
-      "n": 2,
-      "avg_tone": -3.224
-    },
-    {
-      "source": "wsiu.org",
-      "n": 2,
-      "avg_tone": -3.224
-    },
-    {
-      "source": "wkyufm.org",
+      "source": "wyso.org",
       "n": 1,
       "avg_tone": -3.704
     },
     {
-      "source": "wrif.com",
+      "source": "wfmd.com",
       "n": 1,
-      "avg_tone": 0.852
+      "avg_tone": -3.873
     },
     {
-      "source": "express.co.uk",
+      "source": "econotimes.com",
       "n": 1,
-      "avg_tone": 1.33
+      "avg_tone": -5.946
     },
     {
-      "source": "slashgear.com",
-      "n": 1,
-      "avg_tone": 2.294
-    },
-    {
-      "source": "wnmufm.org",
+      "source": "wxxinews.org",
       "n": 1,
       "avg_tone": -3.704
     },
     {
-      "source": "kazu.org",
+      "source": "krcu.org",
       "n": 1,
       "avg_tone": -3.704
     },
     {
-      "source": "yourdemocracy.net.au",
+      "source": "koreaherald.com",
       "n": 1,
-      "avg_tone": -0.475
+      "avg_tone": 4.255
     },
     {
-      "source": "cootamundraherald.com.au",
+      "source": "prnewswire.com",
       "n": 1,
-      "avg_tone": -2.685
+      "avg_tone": -0.918
+    },
+    {
+      "source": "kmuw.org",
+      "n": 1,
+      "avg_tone": -3.704
+    },
+    {
+      "source": "artnews.com",
+      "n": 1,
+      "avg_tone": 0.704
+    },
+    {
+      "source": "klcc.org",
+      "n": 1,
+      "avg_tone": -3.704
+    },
+    {
+      "source": "boxingnewsonline.net",
+      "n": 1,
+      "avg_tone": 1.894
+    },
+    {
+      "source": "manilatimes.net",
+      "n": 1,
+      "avg_tone": -0.357
+    },
+    {
+      "source": "cowichanvalleycitizen.com",
+      "n": 1,
+      "avg_tone": 1.875
+    },
+    {
+      "source": "arstechnica.com",
+      "n": 1,
+      "avg_tone": -4.235
     }
   ],
   "top_themes": [
     {
       "theme": "WB_137_WATER",
-      "n": 113
-    },
-    {
-      "theme": "CRISISLEX_C06_WATER_SANITATION",
-      "n": 75
-    },
-    {
-      "theme": "NATURAL_DISASTER_FLOODING",
-      "n": 74
+      "n": 201
     },
     {
       "theme": "TAX_ETHNICITY_NAVAJO",
-      "n": 70
+      "n": 142
     },
     {
       "theme": "TAX_WORLDLANGUAGES_NAVAJO",
-      "n": 70
+      "n": 142
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 68
+      "theme": "NATURAL_DISASTER_FLOODING",
+      "n": 141
+    },
+    {
+      "theme": "CRISISLEX_C06_WATER_SANITATION",
+      "n": 141
     },
     {
       "theme": "CRISISLEX_C07_SAFETY",
-      "n": 61
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 57
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 56
-    },
-    {
-      "theme": "LEADER",
-      "n": 56
-    },
-    {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 49
-    },
-    {
-      "theme": "SECURITY_SERVICES",
-      "n": 48
-    },
-    {
-      "theme": "TAX_FNCACT_POLICE",
-      "n": 45
+      "n": 85
     },
     {
       "theme": "NATURAL_DISASTER_FLOODED",
-      "n": 40
+      "n": 84
+    },
+    {
+      "theme": "SECURITY_SERVICES",
+      "n": 83
+    },
+    {
+      "theme": "TAX_FNCACT_POLICE",
+      "n": 83
     },
     {
       "theme": "NATURAL_DISASTER_FLOOD",
-      "n": 40
+      "n": 80
+    },
+    {
+      "theme": "WB_435_AGRICULTURE_AND_FOOD_SECURITY",
+      "n": 64
+    },
+    {
+      "theme": "WB_1979_NATURAL_RESOURCE_MANAGEMENT",
+      "n": 60
+    },
+    {
+      "theme": "WB_1986_MOUNTAINS",
+      "n": 60
+    },
+    {
+      "theme": "SANCTIONS",
+      "n": 56
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 53
     }
   ]
 }
