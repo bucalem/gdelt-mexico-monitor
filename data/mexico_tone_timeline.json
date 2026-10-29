@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-10-29T02:54:16.375574+00:00",
-  "rows_total_scanned_last_run": 3397,
-  "rows_mexico_last_run": 61,
-  "overall_avg_tone_4h": -0.494,
+  "generated_at": "2026-10-29T09:08:06.908849+00:00",
+  "rows_total_scanned_last_run": 3954,
+  "rows_mexico_last_run": 48,
+  "overall_avg_tone_4h": -0.028,
   "timeline": [
-    {
-      "time": "2026-10-26T06:00",
-      "avg_tone": 0.469,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-10-26T06:45",
-      "avg_tone": 1.097,
-      "n_articles": 13
-    },
     {
       "time": "2026-10-26T12:45",
       "avg_tone": 0.618,
@@ -233,145 +223,165 @@
       "time": "2026-10-29T03:00",
       "avg_tone": -0.576,
       "n_articles": 14
+    },
+    {
+      "time": "2026-10-29T08:30",
+      "avg_tone": 0.277,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-10-29T08:45",
+      "avg_tone": 1.769,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-10-29T09:00",
+      "avg_tone": 0.616,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-10-29T09:15",
+      "avg_tone": 0.723,
+      "n_articles": 23
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 8,
-      "avg_tone": -1.085
+      "source": "dchieftain.com",
+      "n": 5,
+      "avg_tone": -0.157
     },
     {
-      "source": "union-bulletin.com",
+      "source": "santafenewmexican.com",
+      "n": 4,
+      "avg_tone": -1.256
+    },
+    {
+      "source": "montereycountynow.com",
+      "n": 3,
+      "avg_tone": 1.291
+    },
+    {
+      "source": "natureworldnews.com",
       "n": 2,
-      "avg_tone": 2.202
+      "avg_tone": -4.679
     },
     {
-      "source": "southeastasiapost.com",
+      "source": "premiumtimesng.com",
       "n": 2,
-      "avg_tone": -0.811
+      "avg_tone": 1.932
     },
     {
-      "source": "english.news.cn",
+      "source": "northcoastjournal.com",
       "n": 2,
-      "avg_tone": 1.953
+      "avg_tone": 2.161
     },
     {
-      "source": "postregister.com",
+      "source": "santamariatimes.com",
       "n": 2,
       "avg_tone": 2.273
     },
     {
-      "source": "burgundywave.com",
-      "n": 2,
-      "avg_tone": 0.41
-    },
-    {
-      "source": "sandiegouniontribune.com",
-      "n": 2,
-      "avg_tone": -2.263
-    },
-    {
-      "source": "independent.co.uk",
+      "source": "thenationonlineng.net",
       "n": 1,
-      "avg_tone": -0.708
+      "avg_tone": 1.827
     },
     {
-      "source": "mercurynews.com",
+      "source": "localnews8.com",
       "n": 1,
-      "avg_tone": 1.524
+      "avg_tone": 4.379
     },
     {
-      "source": "chinadaily.com.cn",
+      "source": "punchng.com",
       "n": 1,
-      "avg_tone": 2.013
+      "avg_tone": 1.826
     },
     {
-      "source": "presstelegram.com",
+      "source": "103kkcn.com",
       "n": 1,
-      "avg_tone": -9.339
+      "avg_tone": 0.403
     },
     {
-      "source": "pleasantonweekly.com",
+      "source": "mexicostar.com",
       "n": 1,
-      "avg_tone": -0.54
+      "avg_tone": 5.081
     },
     {
-      "source": "northernpublicradio.org",
+      "source": "7newsbelize.com",
       "n": 1,
-      "avg_tone": -2.728
+      "avg_tone": -3.902
     },
     {
-      "source": "rrobserver.com",
+      "source": "dailydemocrat.com",
       "n": 1,
-      "avg_tone": 6.969
+      "avg_tone": 5.116
     },
     {
-      "source": "globalissues.org",
+      "source": "siliconindia.com",
       "n": 1,
-      "avg_tone": -4.789
+      "avg_tone": 1.673
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 92
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 67
     },
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 83
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 58
     },
     {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 83
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 83
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 82
+      "theme": "WB_137_WATER",
+      "n": 50
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 80
-    },
-    {
-      "theme": "LEADER",
-      "n": 79
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 78
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 76
-    },
-    {
-      "theme": "AGRICULTURE",
-      "n": 74
-    },
-    {
-      "theme": "TAX_FNCACT_WORKERS",
-      "n": 73
-    },
-    {
-      "theme": "ENV_METALS",
-      "n": 69
-    },
-    {
-      "theme": "SELF_IDENTIFIED_HUMAN_RIGHTS",
-      "n": 67
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
-      "n": 67
+      "n": 48
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 63
+      "n": 47
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 42
+    },
+    {
+      "theme": "CRISISLEX_C06_WATER_SANITATION",
+      "n": 34
+    },
+    {
+      "theme": "CRISISLEX_O01_WEATHER",
+      "n": 34
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 32
+    },
+    {
+      "theme": "NATURAL_DISASTER_FLOODING",
+      "n": 32
+    },
+    {
+      "theme": "LEADER",
+      "n": 30
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 30
+    },
+    {
+      "theme": "AGRICULTURE",
+      "n": 27
+    },
+    {
+      "theme": "WB_840_JUSTICE",
+      "n": 27
+    },
+    {
+      "theme": "WATER_SECURITY",
+      "n": 25
     }
   ]
 }
