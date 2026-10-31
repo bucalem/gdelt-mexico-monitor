@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-31T18:29:56.496630+00:00",
-  "rows_total_scanned_last_run": 2199,
-  "rows_mexico_last_run": 45,
-  "overall_avg_tone_4h": -0.715,
+  "generated_at": "2026-10-31T21:47:57.851415+00:00",
+  "rows_total_scanned_last_run": 1002,
+  "rows_mexico_last_run": 18,
+  "overall_avg_tone_4h": -0.552,
   "timeline": [
     {
       "time": "2026-10-28T23:00",
@@ -228,145 +228,155 @@
       "time": "2026-10-31T18:30",
       "avg_tone": -1.145,
       "n_articles": 12
+    },
+    {
+      "time": "2026-10-31T21:00",
+      "avg_tone": -0.844,
+      "n_articles": 6
+    },
+    {
+      "time": "2026-10-31T21:15",
+      "avg_tone": -0.893,
+      "n_articles": 12
     }
   ],
   "top_sources": [
     {
-      "source": "grandprix.com",
-      "n": 6,
-      "avg_tone": -0.229
-    },
-    {
-      "source": "english.news.cn",
+      "source": "capitalgazette.com",
       "n": 2,
-      "avg_tone": 5.33
+      "avg_tone": 2.737
     },
     {
-      "source": "latimes.com",
-      "n": 1,
-      "avg_tone": -3.846
+      "source": "torontosun.com",
+      "n": 2,
+      "avg_tone": 0.837
     },
     {
-      "source": "autoweek.com",
+      "source": "fox7austin.com",
       "n": 1,
-      "avg_tone": 0.658
+      "avg_tone": -10.113
     },
     {
-      "source": "theprovince.com",
+      "source": "bleedingcool.com",
       "n": 1,
-      "avg_tone": 0.382
+      "avg_tone": -0.313
     },
     {
-      "source": "taipeitimes.com",
+      "source": "nzherald.co.nz",
       "n": 1,
-      "avg_tone": -5.263
+      "avg_tone": -0.538
     },
     {
-      "source": "gostanford.com",
+      "source": "bignewsnetwork.com",
       "n": 1,
-      "avg_tone": 2.176
+      "avg_tone": -2.435
     },
     {
-      "source": "springer.com",
+      "source": "fox13seattle.com",
       "n": 1,
-      "avg_tone": 1.289
+      "avg_tone": -10.113
     },
     {
-      "source": "abcnews.com",
+      "source": "thegrio.com",
       "n": 1,
-      "avg_tone": 1.362
+      "avg_tone": 9.143
     },
     {
-      "source": "haitisun.com",
+      "source": "mfa.gov.tr",
       "n": 1,
-      "avg_tone": 1.575
+      "avg_tone": 0.0
     },
     {
-      "source": "991thewhale.com",
+      "source": "wokv.com",
       "n": 1,
-      "avg_tone": -1.319
+      "avg_tone": -4.679
     },
     {
-      "source": "myleaderpaper.com",
+      "source": "union-bulletin.com",
       "n": 1,
-      "avg_tone": -5.073
+      "avg_tone": -0.732
     },
     {
-      "source": "dailymail.com",
+      "source": "ky3.com",
       "n": 1,
-      "avg_tone": -4.366
+      "avg_tone": 3.595
     },
     {
-      "source": "wupe.com",
+      "source": "billboard.com",
       "n": 1,
-      "avg_tone": -1.319
+      "avg_tone": -0.993
     },
     {
-      "source": "therockofrochester.com",
+      "source": "vice.com",
       "n": 1,
-      "avg_tone": -1.319
+      "avg_tone": -1.327
+    },
+    {
+      "source": "wbap.com",
+      "n": 1,
+      "avg_tone": -5.706
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
-      "n": 68
-    },
-    {
-      "theme": "ELECTION",
-      "n": 53
-    },
-    {
-      "theme": "TAX_FNCACT_GUIDE",
-      "n": 52
-    },
-    {
-      "theme": "GENERAL_HEALTH",
+      "theme": "MEDICAL",
       "n": 31
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 31
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 25
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 25
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 25
-    },
-    {
-      "theme": "EPU_CATS_NATIONAL_SECURITY",
-      "n": 25
-    },
-    {
-      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
-      "n": 23
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 23
-    },
-    {
-      "theme": "TAX_ETHNICITY_CHINESE",
-      "n": 23
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_CHINESE",
-      "n": 23
-    },
-    {
-      "theme": "TAX_POLITICAL_PARTY_DEMOCRAT",
       "n": 22
     },
     {
-      "theme": "TAX_FNCACT_CANDIDATE",
-      "n": 21
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 20
+    },
+    {
+      "theme": "TAX_FNCACT_CHILD",
+      "n": 18
+    },
+    {
+      "theme": "ARREST",
+      "n": 17
+    },
+    {
+      "theme": "LEADER",
+      "n": 16
+    },
+    {
+      "theme": "CRISISLEX_T02_INJURED",
+      "n": 15
+    },
+    {
+      "theme": "KILL",
+      "n": 15
+    },
+    {
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 15
+    },
+    {
+      "theme": "TAX_FNCACT_MINISTER",
+      "n": 15
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 14
+    },
+    {
+      "theme": "MEDIA_MSM",
+      "n": 14
+    },
+    {
+      "theme": "TAX_FNCACT_DETECTIVES",
+      "n": 12
+    },
+    {
+      "theme": "TAX_FNCACT_CRIMINAL",
+      "n": 11
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 11
     }
   ]
 }
