@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-10-31T14:04:29.127953+00:00",
-  "rows_total_scanned_last_run": 684,
-  "rows_mexico_last_run": 5,
-  "overall_avg_tone_4h": -1.071,
+  "generated_at": "2026-10-31T18:29:56.496630+00:00",
+  "rows_total_scanned_last_run": 2199,
+  "rows_mexico_last_run": 45,
+  "overall_avg_tone_4h": -0.715,
   "timeline": [
-    {
-      "time": "2026-10-28T14:15",
-      "avg_tone": -0.676,
-      "n_articles": 11
-    },
     {
       "time": "2026-10-28T23:00",
       "avg_tone": -0.364,
@@ -218,90 +213,160 @@
       "time": "2026-10-31T13:15",
       "avg_tone": 0.773,
       "n_articles": 5
+    },
+    {
+      "time": "2026-10-31T18:00",
+      "avg_tone": 1.105,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-10-31T18:15",
+      "avg_tone": 0.185,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-10-31T18:30",
+      "avg_tone": -1.145,
+      "n_articles": 12
     }
   ],
   "top_sources": [
     {
-      "source": "eturbonews.com",
+      "source": "grandprix.com",
+      "n": 6,
+      "avg_tone": -0.229
+    },
+    {
+      "source": "english.news.cn",
       "n": 2,
-      "avg_tone": 2.904
+      "avg_tone": 5.33
     },
     {
-      "source": "robbreport.com",
+      "source": "latimes.com",
       "n": 1,
-      "avg_tone": 3.591
+      "avg_tone": -3.846
     },
     {
-      "source": "postandcourier.com",
+      "source": "autoweek.com",
       "n": 1,
-      "avg_tone": -3.209
+      "avg_tone": 0.658
     },
     {
-      "source": "aol.co.uk",
+      "source": "theprovince.com",
       "n": 1,
-      "avg_tone": -2.326
+      "avg_tone": 0.382
+    },
+    {
+      "source": "taipeitimes.com",
+      "n": 1,
+      "avg_tone": -5.263
+    },
+    {
+      "source": "gostanford.com",
+      "n": 1,
+      "avg_tone": 2.176
+    },
+    {
+      "source": "springer.com",
+      "n": 1,
+      "avg_tone": 1.289
+    },
+    {
+      "source": "abcnews.com",
+      "n": 1,
+      "avg_tone": 1.362
+    },
+    {
+      "source": "haitisun.com",
+      "n": 1,
+      "avg_tone": 1.575
+    },
+    {
+      "source": "991thewhale.com",
+      "n": 1,
+      "avg_tone": -1.319
+    },
+    {
+      "source": "myleaderpaper.com",
+      "n": 1,
+      "avg_tone": -5.073
+    },
+    {
+      "source": "dailymail.com",
+      "n": 1,
+      "avg_tone": -4.366
+    },
+    {
+      "source": "wupe.com",
+      "n": 1,
+      "avg_tone": -1.319
+    },
+    {
+      "source": "therockofrochester.com",
+      "n": 1,
+      "avg_tone": -1.319
     }
   ],
   "top_themes": [
     {
-      "theme": "SOC_POINTSOFINTEREST_AIRPORT",
-      "n": 40
+      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
+      "n": 68
     },
     {
-      "theme": "TOURISM",
+      "theme": "ELECTION",
+      "n": 53
+    },
+    {
+      "theme": "TAX_FNCACT_GUIDE",
+      "n": 52
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 31
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 31
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 25
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 25
+    },
+    {
+      "theme": "ARMEDCONFLICT",
+      "n": 25
+    },
+    {
+      "theme": "EPU_CATS_NATIONAL_SECURITY",
+      "n": 25
+    },
+    {
+      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
+      "n": 23
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 23
+    },
+    {
+      "theme": "TAX_ETHNICITY_CHINESE",
+      "n": 23
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_CHINESE",
+      "n": 23
+    },
+    {
+      "theme": "TAX_POLITICAL_PARTY_DEMOCRAT",
       "n": 22
     },
     {
-      "theme": "WB_825_TOURISM",
-      "n": 22
-    },
-    {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 22
-    },
-    {
-      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
-      "n": 22
-    },
-    {
-      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
-      "n": 22
-    },
-    {
-      "theme": "WB_165_AIR_TRANSPORT",
+      "theme": "TAX_FNCACT_CANDIDATE",
       "n": 21
-    },
-    {
-      "theme": "WB_135_TRANSPORT",
-      "n": 21
-    },
-    {
-      "theme": "WB_164_MODES_OF_TRANSPORT",
-      "n": 21
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 19
-    },
-    {
-      "theme": "TAX_FNCACT_EXECUTIVE",
-      "n": 16
-    },
-    {
-      "theme": "WB_2936_GOLD",
-      "n": 15
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 15
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 15
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 13
     }
   ]
 }
