@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-10-31T07:46:17.759357+00:00",
-  "rows_total_scanned_last_run": 1903,
-  "rows_mexico_last_run": 47,
-  "overall_avg_tone_4h": -1.066,
+  "generated_at": "2026-10-31T14:04:29.127953+00:00",
+  "rows_total_scanned_last_run": 684,
+  "rows_mexico_last_run": 5,
+  "overall_avg_tone_4h": -1.071,
   "timeline": [
-    {
-      "time": "2026-10-28T14:00",
-      "avg_tone": 0.782,
-      "n_articles": 9
-    },
     {
       "time": "2026-10-28T14:15",
       "avg_tone": -0.676,
@@ -218,145 +213,95 @@
       "time": "2026-10-31T07:30",
       "avg_tone": 0.373,
       "n_articles": 10
+    },
+    {
+      "time": "2026-10-31T13:15",
+      "avg_tone": 0.773,
+      "n_articles": 5
     }
   ],
   "top_sources": [
     {
-      "source": "wellandtribune.ca",
-      "n": 1,
-      "avg_tone": -2.414
+      "source": "eturbonews.com",
+      "n": 2,
+      "avg_tone": 2.904
     },
     {
-      "source": "wral.com",
+      "source": "robbreport.com",
       "n": 1,
-      "avg_tone": -2.735
+      "avg_tone": 3.591
     },
     {
-      "source": "wlevradio.com",
+      "source": "postandcourier.com",
       "n": 1,
-      "avg_tone": 2.907
+      "avg_tone": -3.209
     },
     {
-      "source": "wpsu.org",
+      "source": "aol.co.uk",
       "n": 1,
-      "avg_tone": -1.846
-    },
-    {
-      "source": "crookwellgazette.com.au",
-      "n": 1,
-      "avg_tone": -1.431
-    },
-    {
-      "source": "newindianexpress.com",
-      "n": 1,
-      "avg_tone": -3.175
-    },
-    {
-      "source": "krbe.com",
-      "n": 1,
-      "avg_tone": 2.907
-    },
-    {
-      "source": "rheaheraldnews.com",
-      "n": 1,
-      "avg_tone": 4.701
-    },
-    {
-      "source": "post-journal.com",
-      "n": 1,
-      "avg_tone": 5.313
-    },
-    {
-      "source": "wdsm710.com",
-      "n": 1,
-      "avg_tone": -0.494
-    },
-    {
-      "source": "aginfo.net",
-      "n": 1,
-      "avg_tone": -3.814
-    },
-    {
-      "source": "kwin.com",
-      "n": 1,
-      "avg_tone": 2.907
-    },
-    {
-      "source": "kvpr.org",
-      "n": 1,
-      "avg_tone": -1.846
-    },
-    {
-      "source": "1043theparty.com",
-      "n": 1,
-      "avg_tone": 2.907
-    },
-    {
-      "source": "restaurantnewsrelease.com",
-      "n": 1,
-      "avg_tone": 8.924
+      "avg_tone": -2.326
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 211
+      "theme": "SOC_POINTSOFINTEREST_AIRPORT",
+      "n": 40
     },
     {
-      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
-      "n": 130
+      "theme": "TOURISM",
+      "n": 22
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 124
+      "theme": "WB_825_TOURISM",
+      "n": 22
     },
     {
-      "theme": "MEDICAL",
-      "n": 124
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 22
     },
     {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 94
+      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "n": 22
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 93
+      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
+      "n": 22
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 84
+      "theme": "WB_165_AIR_TRANSPORT",
+      "n": 21
     },
     {
-      "theme": "EPU_POLICY_POLICY",
-      "n": 77
+      "theme": "WB_135_TRANSPORT",
+      "n": 21
     },
     {
-      "theme": "TAX_FNCACT_OFFICIALS",
-      "n": 74
+      "theme": "WB_164_MODES_OF_TRANSPORT",
+      "n": 21
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 72
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 19
     },
     {
-      "theme": "EPU_POLICY_CONGRESS",
-      "n": 62
+      "theme": "TAX_FNCACT_EXECUTIVE",
+      "n": 16
     },
     {
-      "theme": "ARREST",
-      "n": 61
+      "theme": "WB_2936_GOLD",
+      "n": 15
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 57
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 15
     },
     {
-      "theme": "TAX_FNCACT_CHILD",
-      "n": 56
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 15
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 55
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 13
     }
   ]
 }
