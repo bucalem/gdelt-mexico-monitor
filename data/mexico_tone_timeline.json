@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-11-01T00:34:20.935301+00:00",
-  "rows_total_scanned_last_run": 1869,
-  "rows_mexico_last_run": 57,
-  "overall_avg_tone_4h": -0.629,
+  "generated_at": "2026-11-01T06:50:16.803164+00:00",
+  "rows_total_scanned_last_run": 501,
+  "rows_mexico_last_run": 4,
+  "overall_avg_tone_4h": -0.664,
   "timeline": [
-    {
-      "time": "2026-10-29T02:15",
-      "avg_tone": 0.749,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-10-29T02:30",
-      "avg_tone": -0.898,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-10-29T02:45",
-      "avg_tone": -0.578,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-10-29T03:00",
-      "avg_tone": -0.576,
-      "n_articles": 14
-    },
     {
       "time": "2026-10-29T08:30",
       "avg_tone": 0.277,
@@ -243,145 +223,95 @@
       "time": "2026-11-01T00:45",
       "avg_tone": -2.381,
       "n_articles": 21
+    },
+    {
+      "time": "2026-11-01T06:15",
+      "avg_tone": -0.304,
+      "n_articles": 4
     }
   ],
   "top_sources": [
     {
-      "source": "planetf1.com",
-      "n": 6,
-      "avg_tone": -0.966
-    },
-    {
-      "source": "breitbart.com",
-      "n": 3,
-      "avg_tone": -7.501
-    },
-    {
       "source": "dailymail.com",
-      "n": 3,
-      "avg_tone": -2.698
-    },
-    {
-      "source": "ethanolproducer.com",
-      "n": 2,
-      "avg_tone": 2.036
-    },
-    {
-      "source": "abc17news.com",
-      "n": 2,
-      "avg_tone": -0.831
-    },
-    {
-      "source": "kenyastar.com",
-      "n": 2,
-      "avg_tone": -3.231
-    },
-    {
-      "source": "cp24.com",
-      "n": 2,
-      "avg_tone": -1.074
-    },
-    {
-      "source": "boxingnewsonline.net",
-      "n": 2,
-      "avg_tone": 0.055
-    },
-    {
-      "source": "boxingnews24.com",
-      "n": 2,
-      "avg_tone": -3.688
-    },
-    {
-      "source": "nigeriasun.com",
-      "n": 2,
-      "avg_tone": -3.231
-    },
-    {
-      "source": "wcbm.com",
-      "n": 2,
-      "avg_tone": -8.0
-    },
-    {
-      "source": "dailykos.com",
-      "n": 2,
-      "avg_tone": -0.841
-    },
-    {
-      "source": "winnipegfreepress.com",
-      "n": 2,
-      "avg_tone": -0.141
-    },
-    {
-      "source": "heraldglobe.com",
       "n": 1,
-      "avg_tone": -4.575
+      "avg_tone": -3.908
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "rollingstone.com",
       "n": 1,
-      "avg_tone": 2.296
+      "avg_tone": 1.847
+    },
+    {
+      "source": "freemalaysiatoday.com",
+      "n": 1,
+      "avg_tone": -2.094
+    },
+    {
+      "source": "kbs.co.kr",
+      "n": 1,
+      "avg_tone": 2.941
     }
   ],
   "top_themes": [
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 70
+      "theme": "EPU_CATS_HEALTHCARE",
+      "n": 15
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 69
+      "theme": "EPU_CATS_ENTITLEMENT_PROGRAMS",
+      "n": 15
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 63
+      "theme": "CORRUPTION",
+      "n": 14
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 62
+      "theme": "WB_2019_ANTI_CORRUPTION_LEGISLATION",
+      "n": 14
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 50
+      "theme": "WB_831_GOVERNANCE",
+      "n": 14
     },
     {
-      "theme": "IMMIGRATION",
-      "n": 49
+      "theme": "WB_832_ANTI_CORRUPTION",
+      "n": 14
     },
     {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 49
+      "theme": "WB_2020_BRIBERY_FRAUD_AND_COLLUSION",
+      "n": 14
     },
     {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 49
+      "theme": "TAX_FNCACT_PROSECUTORS",
+      "n": 10
     },
     {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 49
+      "theme": "SOC_POINTSOFINTEREST_PRISON",
+      "n": 6
     },
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 44
+      "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
+      "n": 6
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 40
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 6
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 40
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 6
     },
     {
-      "theme": "LGBT",
-      "n": 37
+      "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
+      "n": 6
     },
     {
-      "theme": "TAX_ETHNICITY_POLE",
-      "n": 37
+      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
+      "n": 6
     },
     {
-      "theme": "WB_1014_CRIMINAL_JUSTICE",
-      "n": 37
+      "theme": "LEADER",
+      "n": 5
     }
   ]
 }
