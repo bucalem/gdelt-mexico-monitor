@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-11-01T06:50:16.803164+00:00",
-  "rows_total_scanned_last_run": 501,
-  "rows_mexico_last_run": 4,
-  "overall_avg_tone_4h": -0.664,
+  "generated_at": "2026-11-01T13:55:49.429586+00:00",
+  "rows_total_scanned_last_run": 2599,
+  "rows_mexico_last_run": 34,
+  "overall_avg_tone_4h": -0.749,
   "timeline": [
-    {
-      "time": "2026-10-29T08:30",
-      "avg_tone": 0.277,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-10-29T08:45",
-      "avg_tone": 1.769,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-10-29T09:00",
-      "avg_tone": 0.616,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-10-29T09:15",
-      "avg_tone": 0.723,
-      "n_articles": 23
-    },
     {
       "time": "2026-10-29T15:15",
       "avg_tone": 2.555,
@@ -228,90 +208,165 @@
       "time": "2026-11-01T06:15",
       "avg_tone": -0.304,
       "n_articles": 4
+    },
+    {
+      "time": "2026-11-01T13:15",
+      "avg_tone": 1.964,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-11-01T13:30",
+      "avg_tone": -6.25,
+      "n_articles": 2
+    },
+    {
+      "time": "2026-11-01T13:45",
+      "avg_tone": 0.455,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-11-01T14:00",
+      "avg_tone": -0.669,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "dailymail.com",
-      "n": 1,
-      "avg_tone": -3.908
+      "source": "abqjournal.com",
+      "n": 4,
+      "avg_tone": 0.349
     },
     {
-      "source": "rollingstone.com",
-      "n": 1,
-      "avg_tone": 1.847
+      "source": "crash.net",
+      "n": 3,
+      "avg_tone": 1.047
     },
     {
-      "source": "freemalaysiatoday.com",
-      "n": 1,
-      "avg_tone": -2.094
+      "source": "themarketsdaily.com",
+      "n": 2,
+      "avg_tone": 2.774
     },
     {
-      "source": "kbs.co.kr",
+      "source": "hngnews.com",
       "n": 1,
-      "avg_tone": 2.941
+      "avg_tone": -5.937
+    },
+    {
+      "source": "movieweb.com",
+      "n": 1,
+      "avg_tone": 0.177
+    },
+    {
+      "source": "cyprus-mail.com",
+      "n": 1,
+      "avg_tone": -0.54
+    },
+    {
+      "source": "el-balad.com",
+      "n": 1,
+      "avg_tone": -3.759
+    },
+    {
+      "source": "businessinsider.com",
+      "n": 1,
+      "avg_tone": 1.622
+    },
+    {
+      "source": "metro.co.uk",
+      "n": 1,
+      "avg_tone": -3.736
+    },
+    {
+      "source": "dw.com",
+      "n": 1,
+      "avg_tone": 4.688
+    },
+    {
+      "source": "hitc.com",
+      "n": 1,
+      "avg_tone": 1.026
+    },
+    {
+      "source": "thereminder.ca",
+      "n": 1,
+      "avg_tone": -0.704
+    },
+    {
+      "source": "aawsat.com",
+      "n": 1,
+      "avg_tone": 1.034
+    },
+    {
+      "source": "cecildaily.com",
+      "n": 1,
+      "avg_tone": 3.261
+    },
+    {
+      "source": "abc13.com",
+      "n": 1,
+      "avg_tone": 1.362
     }
   ],
   "top_themes": [
     {
-      "theme": "EPU_CATS_HEALTHCARE",
-      "n": 15
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 37
     },
     {
-      "theme": "EPU_CATS_ENTITLEMENT_PROGRAMS",
-      "n": 15
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 33
     },
     {
-      "theme": "CORRUPTION",
-      "n": 14
+      "theme": "TAX_WORLDREPTILES_LIZARDS",
+      "n": 32
     },
     {
-      "theme": "WB_2019_ANTI_CORRUPTION_LEGISLATION",
-      "n": 14
-    },
-    {
-      "theme": "WB_831_GOVERNANCE",
-      "n": 14
-    },
-    {
-      "theme": "WB_832_ANTI_CORRUPTION",
-      "n": 14
-    },
-    {
-      "theme": "WB_2020_BRIBERY_FRAUD_AND_COLLUSION",
-      "n": 14
-    },
-    {
-      "theme": "TAX_FNCACT_PROSECUTORS",
-      "n": 10
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_PRISON",
-      "n": 6
-    },
-    {
-      "theme": "WB_2495_DETENTION_PRISON_AND_CORRECTIONS_REFORM",
-      "n": 6
-    },
-    {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 6
+      "theme": "KILL",
+      "n": 31
     },
     {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 6
+      "n": 27
     },
     {
-      "theme": "WB_2490_NATIONAL_PROTECTION_AND_SECURITY",
-      "n": 6
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 26
     },
     {
-      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
-      "n": 6
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 25
     },
     {
-      "theme": "LEADER",
-      "n": 5
+      "theme": "CRISISLEX_T02_INJURED",
+      "n": 23
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
+      "n": 23
+    },
+    {
+      "theme": "TAX_ETHNICITY_SPANISH",
+      "n": 23
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_SPANISH",
+      "n": 23
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 23
+    },
+    {
+      "theme": "TAX_FNCACT_FATHER",
+      "n": 21
+    },
+    {
+      "theme": "SOC_GENERALCRIME",
+      "n": 21
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 20
     }
   ]
 }
