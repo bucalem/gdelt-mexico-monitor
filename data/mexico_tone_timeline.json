@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-11-01T22:25:47.752302+00:00",
-  "rows_total_scanned_last_run": 1832,
-  "rows_mexico_last_run": 35,
-  "overall_avg_tone_4h": -0.43,
+  "generated_at": "2026-11-02T01:40:03.877024+00:00",
+  "rows_total_scanned_last_run": 2161,
+  "rows_mexico_last_run": 33,
+  "overall_avg_tone_4h": 0.308,
   "timeline": [
-    {
-      "time": "2026-10-30T00:15",
-      "avg_tone": 1.073,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-10-30T00:30",
-      "avg_tone": -0.092,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-10-30T00:45",
-      "avg_tone": -0.699,
-      "n_articles": 17
-    },
     {
       "time": "2026-10-30T06:00",
       "avg_tone": -0.846,
@@ -223,145 +208,165 @@
       "time": "2026-11-01T22:15",
       "avg_tone": 0.319,
       "n_articles": 8
+    },
+    {
+      "time": "2026-11-02T01:00",
+      "avg_tone": -0.616,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-11-02T01:15",
+      "avg_tone": 1.313,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-11-02T01:30",
+      "avg_tone": 0.423,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-11-02T01:45",
+      "avg_tone": 0.379,
+      "n_articles": 3
     }
   ],
   "top_sources": [
     {
-      "source": "sandiegomagazine.com",
-      "n": 3,
-      "avg_tone": 1.812
+      "source": "formula1.com",
+      "n": 6,
+      "avg_tone": 1.06
     },
     {
-      "source": "autoconnectedcar.com",
-      "n": 2,
-      "avg_tone": 1.087
-    },
-    {
-      "source": "koat.com",
-      "n": 2,
-      "avg_tone": 2.539
+      "source": "roadandtrack.com",
+      "n": 4,
+      "avg_tone": -0.851
     },
     {
       "source": "aol.co.uk",
-      "n": 2,
-      "avg_tone": -2.514
+      "n": 3,
+      "avg_tone": 0.211
     },
     {
-      "source": "aol.com",
-      "n": 2,
-      "avg_tone": -4.005
-    },
-    {
-      "source": "wfsb.com",
+      "source": "gokunming.com",
       "n": 1,
-      "avg_tone": 2.139
+      "avg_tone": -2.108
     },
     {
-      "source": "citizensvoice.com",
+      "source": "theyeshivaworld.com",
       "n": 1,
-      "avg_tone": -0.462
+      "avg_tone": -5.051
     },
     {
-      "source": "northweststar.com.au",
+      "source": "koat.com",
       "n": 1,
-      "avg_tone": -1.372
+      "avg_tone": 8.297
     },
     {
-      "source": "exclaim.ca",
+      "source": "pressdemocrat.com",
       "n": 1,
-      "avg_tone": 1.095
+      "avg_tone": -3.288
     },
     {
-      "source": "pastemagazine.com",
+      "source": "thepeninsulaqatar.com",
       "n": 1,
-      "avg_tone": 0.279
+      "avg_tone": -3.306
     },
     {
-      "source": "ketv.com",
+      "source": "times-standard.com",
+      "n": 1,
+      "avg_tone": -3.288
+    },
+    {
+      "source": "koco.com",
       "n": 1,
       "avg_tone": 1.556
     },
     {
-      "source": "americansongwriter.com",
+      "source": "nbcsandiego.com",
       "n": 1,
-      "avg_tone": 0.331
+      "avg_tone": 5.806
     },
     {
-      "source": "ktep.org",
+      "source": "easternriverinachronicle.com.au",
       "n": 1,
-      "avg_tone": -1.017
+      "avg_tone": 1.115
     },
     {
-      "source": "walkermn.com",
+      "source": "languagehat.com",
       "n": 1,
-      "avg_tone": 3.282
+      "avg_tone": 1.375
     },
     {
-      "source": "prnewswire.com",
+      "source": "nbcnews.com",
       "n": 1,
-      "avg_tone": 3.97
+      "avg_tone": -3.654
+    },
+    {
+      "source": "bignewsnetwork.com",
+      "n": 1,
+      "avg_tone": 3.333
     }
   ],
   "top_themes": [
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 66
+      "n": 43
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 57
-    },
-    {
-      "theme": "KILL",
-      "n": 49
-    },
-    {
-      "theme": "CRISISLEX_T03_DEAD",
-      "n": 42
-    },
-    {
-      "theme": "CRISISLEX_T02_INJURED",
-      "n": 39
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 31
-    },
-    {
-      "theme": "WB_137_WATER",
-      "n": 25
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 25
+      "theme": "TAX_FNCACT_DRIVER",
+      "n": 40
     },
     {
       "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 25
-    },
-    {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 25
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 24
-    },
-    {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 24
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 24
+      "n": 26
     },
     {
       "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 23
+      "n": 26
     },
     {
-      "theme": "NATURAL_DISASTER_ICE",
-      "n": 22
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 26
+    },
+    {
+      "theme": "ELECTION",
+      "n": 20
+    },
+    {
+      "theme": "TAX_FNCACT_CHAMPION",
+      "n": 19
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 18
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 17
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 17
+    },
+    {
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 16
+    },
+    {
+      "theme": "KILL",
+      "n": 15
+    },
+    {
+      "theme": "CRISISLEX_T03_DEAD",
+      "n": 15
+    },
+    {
+      "theme": "TAX_FNCACT_STUDENTS",
+      "n": 15
+    },
+    {
+      "theme": "CRISISLEX_T02_INJURED",
+      "n": 13
     }
   ]
 }
