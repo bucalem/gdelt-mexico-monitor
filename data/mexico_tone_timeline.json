@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-11-03T16:11:08.349585+00:00",
-  "rows_total_scanned_last_run": 5403,
-  "rows_mexico_last_run": 39,
-  "overall_avg_tone_4h": -0.445,
+  "generated_at": "2026-11-03T21:44:52.580370+00:00",
+  "rows_total_scanned_last_run": 4205,
+  "rows_mexico_last_run": 59,
+  "overall_avg_tone_4h": -0.325,
   "timeline": [
-    {
-      "time": "2026-10-31T18:00",
-      "avg_tone": 1.105,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-10-31T18:15",
-      "avg_tone": 0.185,
-      "n_articles": 25
-    },
-    {
-      "time": "2026-10-31T18:30",
-      "avg_tone": -1.145,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-10-31T21:00",
-      "avg_tone": -0.844,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-10-31T21:15",
-      "avg_tone": -0.893,
-      "n_articles": 12
-    },
     {
       "time": "2026-11-01T00:00",
       "avg_tone": -2.824,
@@ -228,145 +203,160 @@
       "time": "2026-11-03T16:15",
       "avg_tone": 1.968,
       "n_articles": 8
+    },
+    {
+      "time": "2026-11-03T21:00",
+      "avg_tone": 0.121,
+      "n_articles": 17
+    },
+    {
+      "time": "2026-11-03T21:30",
+      "avg_tone": -0.505,
+      "n_articles": 21
+    },
+    {
+      "time": "2026-11-03T21:45",
+      "avg_tone": -0.521,
+      "n_articles": 21
     }
   ],
   "top_sources": [
     {
+      "source": "fool.com",
+      "n": 7,
+      "avg_tone": 1.554
+    },
+    {
+      "source": "finanznachrichten.de",
+      "n": 3,
+      "avg_tone": -1.459
+    },
+    {
+      "source": "crash.net",
+      "n": 3,
+      "avg_tone": -0.819
+    },
+    {
       "source": "aol.com",
       "n": 2,
-      "avg_tone": 1.482
+      "avg_tone": 0.259
     },
     {
-      "source": "prnewswire.com",
+      "source": "sacurrent.com",
       "n": 2,
-      "avg_tone": 3.528
+      "avg_tone": -3.958
     },
     {
-      "source": "juniorminingnetwork.com",
+      "source": "bostonstar.com",
       "n": 2,
-      "avg_tone": -0.24
-    },
-    {
-      "source": "formula1.com",
-      "n": 2,
-      "avg_tone": 1.553
-    },
-    {
-      "source": "manilatimes.net",
-      "n": 1,
-      "avg_tone": 3.614
-    },
-    {
-      "source": "owensoundsuntimes.com",
-      "n": 1,
-      "avg_tone": 4.906
-    },
-    {
-      "source": "fastcasual.com",
-      "n": 1,
-      "avg_tone": 6.545
-    },
-    {
-      "source": "catholicregister.org",
-      "n": 1,
-      "avg_tone": 0.303
-    },
-    {
-      "source": "theconversation.com",
-      "n": 1,
-      "avg_tone": -1.118
-    },
-    {
-      "source": "ipsnews.net",
-      "n": 1,
-      "avg_tone": -2.423
-    },
-    {
-      "source": "luxurytravelmagazine.com",
-      "n": 1,
-      "avg_tone": 0.39
+      "avg_tone": -0.908
     },
     {
       "source": "tickerreport.com",
-      "n": 1,
-      "avg_tone": 3.524
+      "n": 2,
+      "avg_tone": 1.069
     },
     {
-      "source": "naharnet.com",
+      "source": "pollstar.com",
       "n": 1,
-      "avg_tone": -0.344
+      "avg_tone": 2.867
     },
     {
-      "source": "wctrib.com",
+      "source": "prnewswire.com",
       "n": 1,
-      "avg_tone": -3.372
+      "avg_tone": -1.984
     },
     {
-      "source": "nugget.ca",
+      "source": "elliotlakestandard.ca",
       "n": 1,
-      "avg_tone": 4.906
+      "avg_tone": 1.131
+    },
+    {
+      "source": "thesudburystar.com",
+      "n": 1,
+      "avg_tone": 1.131
+    },
+    {
+      "source": "rawstory.com",
+      "n": 1,
+      "avg_tone": -1.847
+    },
+    {
+      "source": "redstate.com",
+      "n": 1,
+      "avg_tone": -3.873
+    },
+    {
+      "source": "tradeonlytoday.com",
+      "n": 1,
+      "avg_tone": 3.158
+    },
+    {
+      "source": "991thewhale.com",
+      "n": 1,
+      "avg_tone": 1.453
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 71
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 134
     },
     {
-      "theme": "LEADER",
-      "n": 50
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 130
     },
     {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 48
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 112
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 47
+      "theme": "TAX_ECON_PRICE",
+      "n": 94
     },
     {
       "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 47
-    },
-    {
-      "theme": "GENERAL_HEALTH",
-      "n": 44
-    },
-    {
-      "theme": "EDUCATION",
-      "n": 42
-    },
-    {
-      "theme": "WB_470_EDUCATION",
-      "n": 41
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 37
-    },
-    {
-      "theme": "ELECTION",
-      "n": 36
-    },
-    {
-      "theme": "TAX_WORLDMAMMALS_DRILL",
-      "n": 36
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 35
+      "n": 69
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 33
+      "n": 61
     },
     {
-      "theme": "TRIAL",
-      "n": 32
+      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
+      "n": 59
     },
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 32
+      "theme": "EDUCATION",
+      "n": 59
+    },
+    {
+      "theme": "WB_135_TRANSPORT",
+      "n": 54
+    },
+    {
+      "theme": "ECON_TAXATION",
+      "n": 54
+    },
+    {
+      "theme": "EPU_POLICY_TAX",
+      "n": 54
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 53
+    },
+    {
+      "theme": "ECON_DEBT",
+      "n": 51
+    },
+    {
+      "theme": "WB_450_DEBT",
+      "n": 51
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 50
     }
   ]
 }
