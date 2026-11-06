@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-11-05T22:32:34.972671+00:00",
-  "rows_total_scanned_last_run": 5823,
-  "rows_mexico_last_run": 96,
-  "overall_avg_tone_4h": 0.081,
+  "generated_at": "2026-11-06T02:49:08.918425+00:00",
+  "rows_total_scanned_last_run": 3757,
+  "rows_mexico_last_run": 60,
+  "overall_avg_tone_4h": -0.164,
   "timeline": [
-    {
-      "time": "2026-11-03T00:30",
-      "avg_tone": -0.95,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-11-03T00:45",
-      "avg_tone": -0.596,
-      "n_articles": 18
-    },
-    {
-      "time": "2026-11-03T01:00",
-      "avg_tone": -0.832,
-      "n_articles": 19
-    },
-    {
-      "time": "2026-11-03T01:15",
-      "avg_tone": -2.313,
-      "n_articles": 20
-    },
     {
       "time": "2026-11-03T07:30",
       "avg_tone": 0.211,
@@ -233,145 +213,165 @@
       "time": "2026-11-05T22:30",
       "avg_tone": -0.718,
       "n_articles": 19
+    },
+    {
+      "time": "2026-11-06T02:00",
+      "avg_tone": -0.579,
+      "n_articles": 27
+    },
+    {
+      "time": "2026-11-06T02:15",
+      "avg_tone": 0.145,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-11-06T02:30",
+      "avg_tone": -1.385,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-11-06T02:45",
+      "avg_tone": -1.903,
+      "n_articles": 12
     }
   ],
   "top_sources": [
     {
-      "source": "fool.com",
-      "n": 8,
-      "avg_tone": 1.717
+      "source": "riotimesonline.com",
+      "n": 13,
+      "avg_tone": -1.459
     },
     {
-      "source": "manilatimes.net",
-      "n": 3,
-      "avg_tone": 5.008
-    },
-    {
-      "source": "simcoereformer.ca",
+      "source": "ocregister.com",
       "n": 2,
-      "avg_tone": 0.941
+      "avg_tone": -5.078
     },
     {
-      "source": "boredpanda.com",
+      "source": "gazette.com",
       "n": 2,
-      "avg_tone": 0.814
+      "avg_tone": 1.528
     },
     {
-      "source": "azbigmedia.com",
+      "source": "abqjournal.com",
       "n": 2,
-      "avg_tone": 2.988
+      "avg_tone": -1.513
     },
     {
-      "source": "aol.com",
-      "n": 2,
-      "avg_tone": 1.532
-    },
-    {
-      "source": "lamag.com",
-      "n": 2,
-      "avg_tone": -0.63
-    },
-    {
-      "source": "lowellsun.com",
-      "n": 2,
-      "avg_tone": -1.089
-    },
-    {
-      "source": "lodinews.com",
+      "source": "1075thegame.com",
       "n": 1,
-      "avg_tone": 2.652
+      "avg_tone": -1.485
     },
     {
-      "source": "kmhk.com",
+      "source": "albuquerqueexpress.com",
       "n": 1,
-      "avg_tone": 0.402
+      "avg_tone": -0.789
     },
     {
-      "source": "breitbart.com",
+      "source": "bozemandailychronicle.com",
       "n": 1,
-      "avg_tone": -7.111
+      "avg_tone": -1.848
     },
     {
-      "source": "sconeadvocate.com.au",
+      "source": "perhamfocus.com",
       "n": 1,
-      "avg_tone": -5.287
+      "avg_tone": -4.57
     },
     {
-      "source": "centralwesterndaily.com.au",
+      "source": "interior-news.com",
       "n": 1,
-      "avg_tone": -5.204
+      "avg_tone": 1.875
     },
     {
-      "source": "southernhighlandnews.com.au",
+      "source": "ukiahdailyjournal.com",
       "n": 1,
-      "avg_tone": -5.312
+      "avg_tone": -2.232
     },
     {
-      "source": "tvone.tv",
+      "source": "krcrtv.com",
       "n": 1,
-      "avg_tone": 3.472
+      "avg_tone": -7.463
+    },
+    {
+      "source": "klaq.com",
+      "n": 1,
+      "avg_tone": 4.092
+    },
+    {
+      "source": "tickerreport.com",
+      "n": 1,
+      "avg_tone": 1.389
+    },
+    {
+      "source": "ksat.com",
+      "n": 1,
+      "avg_tone": -1.643
+    },
+    {
+      "source": "terracestandard.com",
+      "n": 1,
+      "avg_tone": 1.875
     }
   ],
   "top_themes": [
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 225
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 210
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 158
-    },
-    {
-      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
-      "n": 150
-    },
-    {
       "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 144
+      "n": 137
     },
     {
       "theme": "WB_895_MINING_SYSTEMS",
-      "n": 129
+      "n": 132
     },
     {
       "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 132
+    },
+    {
+      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
       "n": 127
     },
     {
       "theme": "ENV_METALS",
-      "n": 113
+      "n": 99
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 96
+      "theme": "ECON_WORLDCURRENCIES_PESO",
+      "n": 95
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 93
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 87
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 87
+      "theme": "TAX_ECON_PRICE",
+      "n": 84
     },
     {
       "theme": "USPEC_POLICY1",
-      "n": 82
+      "n": 72
     },
     {
-      "theme": "WB_2937_SILVER",
-      "n": 81
+      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
+      "n": 66
     },
     {
-      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
-      "n": 76
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 64
+    },
+    {
+      "theme": "WB_2936_GOLD",
+      "n": 59
+    },
+    {
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 55
+    },
+    {
+      "theme": "LEADER",
+      "n": 54
+    },
+    {
+      "theme": "ENV_OIL",
+      "n": 54
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 53
     }
   ]
 }
