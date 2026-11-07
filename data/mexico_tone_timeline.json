@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-07T08:15:48.134132+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -2.041,
+  "generated_at": "2026-11-07T14:58:17.976059+00:00",
+  "rows_total_scanned_last_run": 2321,
+  "rows_mexico_last_run": 47,
+  "overall_avg_tone_4h": -2.005,
   "timeline": [
     {
       "time": "2026-11-04T15:15",
@@ -198,8 +198,160 @@
       "time": "2026-11-07T02:00",
       "avg_tone": -2.388,
       "n_articles": 13
+    },
+    {
+      "time": "2026-11-07T14:15",
+      "avg_tone": -1.477,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-11-07T14:30",
+      "avg_tone": 1.311,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-11-07T14:45",
+      "avg_tone": 0.014,
+      "n_articles": 25
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "planetf1.com",
+      "n": 5,
+      "avg_tone": 1.301
+    },
+    {
+      "source": "dailypolitical.com",
+      "n": 3,
+      "avg_tone": 2.022
+    },
+    {
+      "source": "grandprix247.com",
+      "n": 3,
+      "avg_tone": -0.015
+    },
+    {
+      "source": "kasu.org",
+      "n": 2,
+      "avg_tone": 0.01
+    },
+    {
+      "source": "ualrpublicradio.org",
+      "n": 2,
+      "avg_tone": 0.01
+    },
+    {
+      "source": "stcatharinesstandard.ca",
+      "n": 2,
+      "avg_tone": -2.645
+    },
+    {
+      "source": "thedigitalcourier.com",
+      "n": 2,
+      "avg_tone": 1.831
+    },
+    {
+      "source": "mesabitribune.com",
+      "n": 2,
+      "avg_tone": 1.901
+    },
+    {
+      "source": "elpasoinc.com",
+      "n": 2,
+      "avg_tone": 1.831
+    },
+    {
+      "source": "thepeterboroughexaminer.com",
+      "n": 2,
+      "avg_tone": -0.633
+    },
+    {
+      "source": "ksut.org",
+      "n": 1,
+      "avg_tone": -2.683
+    },
+    {
+      "source": "whro.org",
+      "n": 1,
+      "avg_tone": -2.683
+    },
+    {
+      "source": "mcall.com",
+      "n": 1,
+      "avg_tone": 2.044
+    },
+    {
+      "source": "blogforiowa.com",
+      "n": 1,
+      "avg_tone": 0.763
+    },
+    {
+      "source": "wsiu.org",
+      "n": 1,
+      "avg_tone": -2.683
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 88
+    },
+    {
+      "theme": "TAX_ETHNICITY_CANADIAN",
+      "n": 85
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 83
+    },
+    {
+      "theme": "TAX_FNCACT_COOK",
+      "n": 78
+    },
+    {
+      "theme": "EPU_POLICY_CONGRESS",
+      "n": 74
+    },
+    {
+      "theme": "TAX_FNCACT_AGENTS",
+      "n": 58
+    },
+    {
+      "theme": "BORDER",
+      "n": 55
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 53
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 49
+    },
+    {
+      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
+      "n": 49
+    },
+    {
+      "theme": "TAX_FNCACT_COOKS",
+      "n": 48
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 48
+    },
+    {
+      "theme": "WB_2837_IMMIGRATION",
+      "n": 48
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
+      "n": 48
+    },
+    {
+      "theme": "LEADER",
+      "n": 41
+    }
+  ]
 }
