@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-11-08T08:29:31.977055+00:00",
-  "rows_total_scanned_last_run": 1824,
-  "rows_mexico_last_run": 18,
-  "overall_avg_tone_4h": -0.497,
+  "generated_at": "2026-11-08T15:29:49.511715+00:00",
+  "rows_total_scanned_last_run": 1890,
+  "rows_mexico_last_run": 40,
+  "overall_avg_tone_4h": -0.145,
   "timeline": [
-    {
-      "time": "2026-11-05T08:30",
-      "avg_tone": 1.759,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-11-05T08:45",
-      "avg_tone": 3.102,
-      "n_articles": 13
-    },
     {
       "time": "2026-11-05T16:15",
       "avg_tone": 0.757,
@@ -213,135 +203,160 @@
       "time": "2026-11-08T08:30",
       "avg_tone": 1.836,
       "n_articles": 2
+    },
+    {
+      "time": "2026-11-08T14:45",
+      "avg_tone": 0.435,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-11-08T15:00",
+      "avg_tone": -0.705,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-11-08T15:15",
+      "avg_tone": 2.426,
+      "n_articles": 17
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 6,
-      "avg_tone": -0.222
+      "source": "santafenewmexican.com",
+      "n": 4,
+      "avg_tone": 2.964
     },
     {
-      "source": "wxlo.com",
-      "n": 1,
-      "avg_tone": 1.695
+      "source": "planetf1.com",
+      "n": 3,
+      "avg_tone": 0.313
     },
     {
-      "source": "fm4.orf.at",
-      "n": 1,
-      "avg_tone": 1.977
+      "source": "abqjournal.com",
+      "n": 3,
+      "avg_tone": 0.296
     },
     {
-      "source": "q98fm.com",
-      "n": 1,
-      "avg_tone": 1.695
+      "source": "mymotherlode.com",
+      "n": 2,
+      "avg_tone": -1.855
     },
     {
-      "source": "959kissfm.com",
-      "n": 1,
-      "avg_tone": 1.695
+      "source": "rustourismnews.com",
+      "n": 2,
+      "avg_tone": 2.623
     },
     {
-      "source": "koat.com",
+      "source": "aol.co.uk",
       "n": 1,
-      "avg_tone": 0.606
+      "avg_tone": -3.431
     },
     {
-      "source": "star98.net",
+      "source": "africanexaminer.com",
       "n": 1,
-      "avg_tone": 1.695
+      "avg_tone": 0.342
     },
     {
-      "source": "1019online.com",
+      "source": "theeagleonline.com.ng",
       "n": 1,
-      "avg_tone": 1.695
+      "avg_tone": 7.182
     },
     {
-      "source": "hindustantimes.com",
+      "source": "kmhk.com",
       "n": 1,
-      "avg_tone": -10.117
+      "avg_tone": 1.476
     },
     {
-      "source": "pjmedia.com",
+      "source": "kcrr.com",
       "n": 1,
-      "avg_tone": -2.571
+      "avg_tone": 1.476
     },
     {
-      "source": "cubaheadlines.com",
+      "source": "wsbt.com",
       "n": 1,
-      "avg_tone": -2.513
+      "avg_tone": 10.87
     },
     {
-      "source": "nbcbayarea.com",
+      "source": "tickerreport.com",
       "n": 1,
-      "avg_tone": -4.902
+      "avg_tone": 7.468
     },
     {
-      "source": "kvoi.com",
+      "source": "santamariatimes.com",
       "n": 1,
-      "avg_tone": 10.646
+      "avg_tone": -2.003
+    },
+    {
+      "source": "koolfmabilene.com",
+      "n": 1,
+      "avg_tone": 1.476
+    },
+    {
+      "source": "dailypolitical.com",
+      "n": 1,
+      "avg_tone": 3.594
     }
   ],
   "top_themes": [
     {
-      "theme": "USPEC_POLICY1",
+      "theme": "LEADER",
+      "n": 53
+    },
+    {
+      "theme": "ENV_MINING",
+      "n": 43
+    },
+    {
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 38
+    },
+    {
+      "theme": "TAX_RELIGION_CATHOLIC",
+      "n": 38
+    },
+    {
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 37
+    },
+    {
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 37
+    },
+    {
+      "theme": "WB_2936_GOLD",
+      "n": 37
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 34
+    },
+    {
+      "theme": "ENV_METALS",
+      "n": 33
+    },
+    {
+      "theme": "TAX_FNCACT_GOVERNOR",
+      "n": 33
+    },
+    {
+      "theme": "EPU_POLICY_POLITICAL",
+      "n": 32
+    },
+    {
+      "theme": "TAX_ETHNICITY_INDIAN",
+      "n": 30
+    },
+    {
+      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
+      "n": 28
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 25
+    },
+    {
+      "theme": "ELECTION",
       "n": 24
-    },
-    {
-      "theme": "WB_1920_FINANCIAL_SECTOR_DEVELOPMENT",
-      "n": 18
-    },
-    {
-      "theme": "ECON_CENTRALBANK",
-      "n": 17
-    },
-    {
-      "theme": "WB_1235_CENTRAL_BANKS",
-      "n": 17
-    },
-    {
-      "theme": "WB_318_FINANCIAL_ARCHITECTURE_AND_BANKING",
-      "n": 17
-    },
-    {
-      "theme": "WB_1234_BANKING_INSTITUTIONS",
-      "n": 17
-    },
-    {
-      "theme": "EPU_POLICY_CENTRAL_BANK",
-      "n": 17
-    },
-    {
-      "theme": "EPU_CATS_MONETARY_POLICY",
-      "n": 17
-    },
-    {
-      "theme": "GEN_HOLIDAY",
-      "n": 15
-    },
-    {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 14
-    },
-    {
-      "theme": "WB_135_TRANSPORT",
-      "n": 13
-    },
-    {
-      "theme": "BORDER",
-      "n": 13
-    },
-    {
-      "theme": "ECON_WORLDCURRENCIES_PESO",
-      "n": 13
-    },
-    {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 12
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 12
     }
   ]
 }
