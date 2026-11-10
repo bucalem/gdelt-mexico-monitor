@@ -1,44 +1,9 @@
 {
-  "generated_at": "2026-11-09T21:04:21.739102+00:00",
-  "rows_total_scanned_last_run": 5593,
-  "rows_mexico_last_run": 58,
-  "overall_avg_tone_4h": 0.229,
+  "generated_at": "2026-11-10T03:31:06.230624+00:00",
+  "rows_total_scanned_last_run": 3886,
+  "rows_mexico_last_run": 64,
+  "overall_avg_tone_4h": -0.21,
   "timeline": [
-    {
-      "time": "2026-11-06T21:30",
-      "avg_tone": -2.83,
-      "n_articles": 49
-    },
-    {
-      "time": "2026-11-06T21:45",
-      "avg_tone": -1.724,
-      "n_articles": 38
-    },
-    {
-      "time": "2026-11-06T22:00",
-      "avg_tone": -2.877,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-11-06T22:15",
-      "avg_tone": -0.592,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-11-07T01:15",
-      "avg_tone": -1.326,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-11-07T01:45",
-      "avg_tone": -3.105,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-11-07T02:00",
-      "avg_tone": -2.388,
-      "n_articles": 13
-    },
     {
       "time": "2026-11-07T14:15",
       "avg_tone": -1.477,
@@ -233,145 +198,165 @@
       "time": "2026-11-09T21:00",
       "avg_tone": -0.797,
       "n_articles": 8
+    },
+    {
+      "time": "2026-11-10T02:45",
+      "avg_tone": -1.949,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-11-10T03:00",
+      "avg_tone": 0.579,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-11-10T03:15",
+      "avg_tone": -1.543,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-11-10T03:30",
+      "avg_tone": -0.703,
+      "n_articles": 16
     }
   ],
   "top_sources": [
     {
-      "source": "sandiegomagazine.com",
+      "source": "riotimesonline.com",
+      "n": 11,
+      "avg_tone": -0.673
+    },
+    {
+      "source": "agrinews-pubs.com",
       "n": 2,
-      "avg_tone": 1.219
+      "avg_tone": 0.163
     },
     {
-      "source": "retailtimes.co.uk",
+      "source": "fool.com",
       "n": 2,
-      "avg_tone": 1.906
+      "avg_tone": 0.705
     },
     {
-      "source": "themarketsdaily.com",
+      "source": "kgns.tv",
       "n": 2,
-      "avg_tone": 0.37
+      "avg_tone": -2.119
     },
     {
-      "source": "mexicostar.com",
+      "source": "elpasoinc.com",
       "n": 2,
-      "avg_tone": 0.165
+      "avg_tone": 3.747
     },
     {
-      "source": "metrojacksonville.com",
+      "source": "billboard.com",
       "n": 2,
-      "avg_tone": 3.947
+      "avg_tone": 2.516
     },
     {
-      "source": "globalnews.ca",
-      "n": 1,
-      "avg_tone": 0.69
+      "source": "wbko.com",
+      "n": 2,
+      "avg_tone": -1.866
     },
     {
-      "source": "nbcnewyork.com",
-      "n": 1,
-      "avg_tone": -1.873
+      "source": "azbigmedia.com",
+      "n": 2,
+      "avg_tone": 1.739
     },
     {
-      "source": "biologicaldiversity.org",
-      "n": 1,
-      "avg_tone": -2.667
+      "source": "sandiegouniontribune.com",
+      "n": 2,
+      "avg_tone": -1.665
     },
     {
-      "source": "nbclosangeles.com",
-      "n": 1,
-      "avg_tone": -1.862
+      "source": "eastbaytimes.com",
+      "n": 2,
+      "avg_tone": -4.816
     },
     {
-      "source": "dailymaverick.co.za",
-      "n": 1,
-      "avg_tone": -4.887
+      "source": "news4sanantonio.com",
+      "n": 2,
+      "avg_tone": -8.447
     },
     {
-      "source": "luxurytravelmagazine.com",
+      "source": "recorder.ca",
       "n": 1,
-      "avg_tone": 4.766
+      "avg_tone": 0.58
     },
     {
-      "source": "democracynow.org",
+      "source": "carbuzz.com",
       "n": 1,
-      "avg_tone": -4.403
+      "avg_tone": 2.094
     },
     {
-      "source": "clevescene.com",
+      "source": "phillytrib.com",
       "n": 1,
-      "avg_tone": 3.86
+      "avg_tone": -2.449
     },
     {
-      "source": "natlawreview.com",
+      "source": "thegrio.com",
       "n": 1,
-      "avg_tone": -3.837
-    },
-    {
-      "source": "nzherald.co.nz",
-      "n": 1,
-      "avg_tone": -3.75
+      "avg_tone": -1.489
     }
   ],
   "top_themes": [
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 66
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 180
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 66
+      "theme": "WB_895_MINING_SYSTEMS",
+      "n": 176
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 50
+      "theme": "WB_1699_METAL_ORE_MINING",
+      "n": 175
     },
     {
-      "theme": "WB_678_DIGITAL_GOVERNMENT",
-      "n": 48
+      "theme": "TAX_ECON_PRICE",
+      "n": 170
     },
     {
-      "theme": "WB_694_BROADCAST_AND_MEDIA",
-      "n": 48
+      "theme": "ENV_METALS",
+      "n": 147
     },
     {
-      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
-      "n": 48
+      "theme": "ECON_WORLDCURRENCIES_DOLLAR",
+      "n": 139
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 45
-    },
-    {
-      "theme": "WB_1331_HEALTH_TECHNOLOGIES",
-      "n": 44
-    },
-    {
-      "theme": "WB_2453_ORGANIZED_CRIME",
-      "n": 44
-    },
-    {
-      "theme": "WB_1350_PHARMACEUTICALS",
-      "n": 44
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 44
-    },
-    {
-      "theme": "WB_2456_DRUGS_AND_NARCOTICS",
-      "n": 44
+      "theme": "WB_2936_GOLD",
+      "n": 107
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 43
+      "n": 102
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 42
+      "theme": "ECON_WORLDCURRENCIES_PESO",
+      "n": 69
     },
     {
-      "theme": "TAX_FNCACT_CHILDREN",
-      "n": 42
+      "theme": "WB_2934_COPPER",
+      "n": 66
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 66
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 64
+    },
+    {
+      "theme": "WB_678_DIGITAL_GOVERNMENT",
+      "n": 64
+    },
+    {
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 64
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 63
     }
   ]
 }
