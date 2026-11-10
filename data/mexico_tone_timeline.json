@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-11-10T11:45:21.347234+00:00",
-  "rows_total_scanned_last_run": 2038,
-  "rows_mexico_last_run": 11,
-  "overall_avg_tone_4h": -0.285,
+  "generated_at": "2026-11-10T19:05:05.840920+00:00",
+  "rows_total_scanned_last_run": 1468,
+  "rows_mexico_last_run": 10,
+  "overall_avg_tone_4h": -0.247,
   "timeline": [
-    {
-      "time": "2026-11-07T14:15",
-      "avg_tone": -1.477,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-11-07T14:30",
-      "avg_tone": 1.311,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-11-07T14:45",
-      "avg_tone": 0.014,
-      "n_articles": 25
-    },
-    {
-      "time": "2026-11-07T18:30",
-      "avg_tone": -0.132,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-11-07T18:45",
-      "avg_tone": -0.291,
-      "n_articles": 6
-    },
     {
       "time": "2026-11-07T19:15",
       "avg_tone": -2.52,
@@ -228,125 +203,125 @@
       "time": "2026-11-10T11:15",
       "avg_tone": -0.666,
       "n_articles": 5
+    },
+    {
+      "time": "2026-11-10T18:15",
+      "avg_tone": 0.615,
+      "n_articles": 10
     }
   ],
   "top_sources": [
     {
-      "source": "prnewswire.com",
+      "source": "deadline.com",
       "n": 1,
-      "avg_tone": 6.138
+      "avg_tone": 0.441
     },
     {
-      "source": "resilience.org",
+      "source": "nzherald.co.nz",
       "n": 1,
-      "avg_tone": -4.273
+      "avg_tone": -1.381
     },
     {
-      "source": "cbs12.com",
+      "source": "lionsroarnews.com",
       "n": 1,
-      "avg_tone": 5.851
+      "avg_tone": 0.78
     },
     {
-      "source": "africaleader.com",
+      "source": "theboxhouston.com",
       "n": 1,
-      "avg_tone": 1.038
+      "avg_tone": 3.545
     },
     {
-      "source": "dailystar.co.uk",
+      "source": "newhavenindependent.org",
       "n": 1,
-      "avg_tone": -12.083
+      "avg_tone": 0.956
     },
     {
-      "source": "europesun.com",
+      "source": "runningmagazine.ca",
       "n": 1,
-      "avg_tone": 1.038
+      "avg_tone": 0.343
     },
     {
-      "source": "iheart.com",
+      "source": "indiatimes.com",
       "n": 1,
-      "avg_tone": -1.235
+      "avg_tone": -0.08
     },
     {
-      "source": "ghanamma.com",
+      "source": "myspiritfm.com",
       "n": 1,
-      "avg_tone": -1.777
+      "avg_tone": 1.915
     },
     {
-      "source": "courant.com",
+      "source": "fool.com",
       "n": 1,
-      "avg_tone": 0.588
+      "avg_tone": 1.786
     },
     {
-      "source": "just-auto.com",
+      "source": "patriotpost.us",
       "n": 1,
-      "avg_tone": 4.206
-    },
-    {
-      "source": "wcjb.com",
-      "n": 1,
-      "avg_tone": -8.889
+      "avg_tone": -2.16
     }
   ],
   "top_themes": [
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 31
-    },
-    {
-      "theme": "EPU_ECONOMY",
-      "n": 25
-    },
-    {
-      "theme": "LEADER",
-      "n": 11
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 11
-    },
-    {
-      "theme": "ECON_INFLATION",
-      "n": 10
-    },
-    {
-      "theme": "WB_1104_MACROECONOMIC_VULNERABILITY_AND_DEBT",
-      "n": 10
-    },
-    {
-      "theme": "WB_442_INFLATION",
-      "n": 10
-    },
-    {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 8
+      "theme": "TAX_FNCACT_VETERANS",
+      "n": 43
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 22
+    },
+    {
+      "theme": "MEDICAL",
+      "n": 16
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 15
+    },
+    {
+      "theme": "TAX_FNCACT_STUDENTS",
+      "n": 12
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 12
+    },
+    {
+      "theme": "CRISISLEX_T11_UPDATESSYMPATHY",
+      "n": 11
+    },
+    {
+      "theme": "CRISISLEX_C03_WELLBEING_HEALTH",
+      "n": 10
+    },
+    {
+      "theme": "TAX_FNCACT_OPERATOR",
+      "n": 10
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 9
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 9
+    },
+    {
+      "theme": "TAX_POLITICAL_PARTY_DEMOCRATS",
+      "n": 9
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
       "n": 8
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "theme": "WB_133_INFORMATION_AND_COMMUNICATION_TECHNOLOGIES",
+      "n": 8
+    },
+    {
+      "theme": "TAX_FNCACT_DIRECTOR",
       "n": 7
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 6
-    },
-    {
-      "theme": "CRISISLEX_T02_INJURED",
-      "n": 6
-    },
-    {
-      "theme": "URBAN",
-      "n": 6
-    },
-    {
-      "theme": "CRIME_CARTELS",
-      "n": 6
-    },
-    {
-      "theme": "ORGANIZED_CRIME",
-      "n": 6
     }
   ]
 }
