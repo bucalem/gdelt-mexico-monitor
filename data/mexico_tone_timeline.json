@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-11-10T23:59:51.453886+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -0.247,
+  "generated_at": "2026-11-11T05:28:13.923917+00:00",
+  "rows_total_scanned_last_run": 3707,
+  "rows_mexico_last_run": 44,
+  "overall_avg_tone_4h": -0.638,
   "timeline": [
-    {
-      "time": "2026-11-08T01:15",
-      "avg_tone": -1.611,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-11-08T01:30",
-      "avg_tone": -0.401,
-      "n_articles": 4
-    },
-    {
-      "time": "2026-11-08T01:45",
-      "avg_tone": -1.283,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-11-08T02:00",
-      "avg_tone": 2.08,
-      "n_articles": 4
-    },
     {
       "time": "2026-11-08T07:45",
       "avg_tone": 1.331,
@@ -193,8 +173,165 @@
       "time": "2026-11-10T18:15",
       "avg_tone": 0.615,
       "n_articles": 10
+    },
+    {
+      "time": "2026-11-11T04:45",
+      "avg_tone": -1.101,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-11-11T05:00",
+      "avg_tone": -0.195,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-11-11T05:15",
+      "avg_tone": -1.141,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-11-11T05:30",
+      "avg_tone": -1.944,
+      "n_articles": 6
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "abqjournal.com",
+      "n": 6,
+      "avg_tone": -0.722
+    },
+    {
+      "source": "tennesseedaily.com",
+      "n": 3,
+      "avg_tone": -1.871
+    },
+    {
+      "source": "e-flux.com",
+      "n": 2,
+      "avg_tone": -1.217
+    },
+    {
+      "source": "arkansasonline.com",
+      "n": 2,
+      "avg_tone": -1.987
+    },
+    {
+      "source": "gringogazette.com",
+      "n": 2,
+      "avg_tone": -2.477
+    },
+    {
+      "source": "smh.com.au",
+      "n": 1,
+      "avg_tone": -0.425
+    },
+    {
+      "source": "theage.com.au",
+      "n": 1,
+      "avg_tone": -0.425
+    },
+    {
+      "source": "fool.com",
+      "n": 1,
+      "avg_tone": 2.471
+    },
+    {
+      "source": "themarketsdaily.com",
+      "n": 1,
+      "avg_tone": 0.327
+    },
+    {
+      "source": "latimes.com",
+      "n": 1,
+      "avg_tone": -10.638
+    },
+    {
+      "source": "memphissun.com",
+      "n": 1,
+      "avg_tone": -2.972
+    },
+    {
+      "source": "hawaiitelegraph.com",
+      "n": 1,
+      "avg_tone": -1.01
+    },
+    {
+      "source": "cinaradio.com",
+      "n": 1,
+      "avg_tone": -6.897
+    },
+    {
+      "source": "my1035.com",
+      "n": 1,
+      "avg_tone": 2.29
+    },
+    {
+      "source": "news12.com",
+      "n": 1,
+      "avg_tone": 4.903
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 70
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 49
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 41
+    },
+    {
+      "theme": "TAX_FNCACT_VETERANS",
+      "n": 39
+    },
+    {
+      "theme": "WB_1331_HEALTH_TECHNOLOGIES",
+      "n": 38
+    },
+    {
+      "theme": "WB_1350_PHARMACEUTICALS",
+      "n": 38
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 36
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 36
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 32
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 31
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 29
+    },
+    {
+      "theme": "TRAFFIC",
+      "n": 28
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 25
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 25
+    },
+    {
+      "theme": "WB_135_TRANSPORT",
+      "n": 25
+    }
+  ]
 }
