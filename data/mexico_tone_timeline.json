@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-11-12T01:45:15.096980+00:00",
-  "rows_total_scanned_last_run": 4369,
-  "rows_mexico_last_run": 47,
-  "overall_avg_tone_4h": -0.211,
+  "generated_at": "2026-11-12T08:59:30.181142+00:00",
+  "rows_total_scanned_last_run": 3715,
+  "rows_mexico_last_run": 30,
+  "overall_avg_tone_4h": -0.071,
   "timeline": [
-    {
-      "time": "2026-11-09T02:15",
-      "avg_tone": -0.918,
-      "n_articles": 5
-    },
-    {
-      "time": "2026-11-09T02:30",
-      "avg_tone": 0.641,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-11-09T02:45",
-      "avg_tone": 0.033,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-11-09T03:00",
-      "avg_tone": 0.036,
-      "n_articles": 8
-    },
     {
       "time": "2026-11-09T10:00",
       "avg_tone": 4.462,
@@ -178,145 +158,165 @@
       "time": "2026-11-12T01:45",
       "avg_tone": -0.648,
       "n_articles": 12
+    },
+    {
+      "time": "2026-11-12T08:15",
+      "avg_tone": 1.337,
+      "n_articles": 8
+    },
+    {
+      "time": "2026-11-12T08:30",
+      "avg_tone": -0.876,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-11-12T08:45",
+      "avg_tone": -2.382,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-11-12T09:00",
+      "avg_tone": -0.73,
+      "n_articles": 8
     }
   ],
   "top_sources": [
     {
-      "source": "azbigmedia.com",
+      "source": "riotimesonline.com",
       "n": 4,
-      "avg_tone": 1.752
+      "avg_tone": -0.012
     },
     {
-      "source": "975kgkl.com",
+      "source": "austinchronicle.com",
+      "n": 3,
+      "avg_tone": 0.158
+    },
+    {
+      "source": "nypost.com",
       "n": 2,
-      "avg_tone": 3.199
+      "avg_tone": -7.464
     },
     {
-      "source": "horseraceinsider.com",
+      "source": "straitstimes.com",
       "n": 1,
-      "avg_tone": 2.314
+      "avg_tone": 1.719
     },
     {
-      "source": "nhpr.org",
+      "source": "themarketsdaily.com",
       "n": 1,
-      "avg_tone": 2.247
+      "avg_tone": 3.886
     },
     {
-      "source": "wpsu.org",
+      "source": "dailyfreeman.com",
       "n": 1,
-      "avg_tone": 2.835
+      "avg_tone": -0.797
     },
     {
-      "source": "710keel.com",
+      "source": "the-star.co.ke",
       "n": 1,
-      "avg_tone": 3.297
+      "avg_tone": 0.0
     },
     {
-      "source": "wsbs.com",
+      "source": "mymotherlode.com",
       "n": 1,
-      "avg_tone": 2.89
+      "avg_tone": -10.928
     },
     {
-      "source": "okcfox.com",
+      "source": "el-balad.com",
       "n": 1,
-      "avg_tone": -7.806
+      "avg_tone": 0.0
     },
     {
-      "source": "usmagazine.com",
+      "source": "midmichigannow.com",
       "n": 1,
-      "avg_tone": -8.32
+      "avg_tone": -1.867
     },
     {
-      "source": "wrganews.com",
+      "source": "warringtonguardian.co.uk",
       "n": 1,
-      "avg_tone": -10.169
+      "avg_tone": 2.145
     },
     {
-      "source": "gratefulweb.com",
+      "source": "newcastleherald.com.au",
       "n": 1,
-      "avg_tone": 4.756
+      "avg_tone": 1.064
     },
     {
-      "source": "elliotlakestandard.ca",
+      "source": "pjmedia.com",
       "n": 1,
-      "avg_tone": 0.298
+      "avg_tone": -1.871
     },
     {
-      "source": "artnews.com",
+      "source": "planetf1.com",
       "n": 1,
-      "avg_tone": 2.639
+      "avg_tone": 3.825
     },
     {
-      "source": "deccanchronicle.com",
+      "source": "kpcnews.com",
       "n": 1,
-      "avg_tone": -2.758
-    },
-    {
-      "source": "latimes.com",
-      "n": 1,
-      "avg_tone": 1.757
+      "avg_tone": 1.17
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 307
+      "theme": "ELECTION",
+      "n": 38
     },
     {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 303
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 35
     },
     {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 303
+      "theme": "LEADER",
+      "n": 34
     },
     {
-      "theme": "WB_2936_GOLD",
-      "n": 296
+      "theme": "EPU_POLICY_POLITICAL",
+      "n": 33
     },
     {
-      "theme": "ENV_METALS",
-      "n": 295
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 33
+    },
+    {
+      "theme": "TAX_POLITICAL_PARTY_REPUBLICAN",
+      "n": 29
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 29
+    },
+    {
+      "theme": "TAX_FNCACT_BUTLER",
+      "n": 29
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 155
+      "n": 28
     },
     {
-      "theme": "ENV_MINING",
-      "n": 105
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 27
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 97
-    },
-    {
-      "theme": "WB_2937_SILVER",
-      "n": 93
-    },
-    {
-      "theme": "ECON_TAXATION",
-      "n": 89
-    },
-    {
-      "theme": "EPU_POLICY_TAX",
-      "n": 89
-    },
-    {
-      "theme": "EPU_CATS_TAXES",
-      "n": 89
-    },
-    {
-      "theme": "TAX_ECON_PRICE",
-      "n": 88
-    },
-    {
-      "theme": "TAX_FNCACT_VETERANS",
-      "n": 85
+      "theme": "EPU_POLICY_CONGRESS",
+      "n": 25
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 83
+      "n": 24
+    },
+    {
+      "theme": "TAX_POLITICAL_PARTY_DEMOCRATS",
+      "n": 24
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 22
+    },
+    {
+      "theme": "USPEC_POLICY1",
+      "n": 21
     }
   ]
 }
