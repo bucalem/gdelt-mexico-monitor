@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-13T23:44:41.292272+00:00",
-  "rows_total_scanned_last_run": 1259,
-  "rows_mexico_last_run": 30,
-  "overall_avg_tone_4h": -1.019,
+  "generated_at": "2026-11-14T03:36:25.896048+00:00",
+  "rows_total_scanned_last_run": 2781,
+  "rows_mexico_last_run": 59,
+  "overall_avg_tone_4h": -0.893,
   "timeline": [
     {
       "time": "2026-11-11T04:45",
@@ -188,145 +188,165 @@
       "time": "2026-11-13T23:15",
       "avg_tone": 0.194,
       "n_articles": 30
+    },
+    {
+      "time": "2026-11-14T03:00",
+      "avg_tone": -2.402,
+      "n_articles": 25
+    },
+    {
+      "time": "2026-11-14T03:15",
+      "avg_tone": 0.11,
+      "n_articles": 12
+    },
+    {
+      "time": "2026-11-14T03:30",
+      "avg_tone": -1.357,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-11-14T03:45",
+      "avg_tone": -1.799,
+      "n_articles": 11
     }
   ],
   "top_sources": [
     {
-      "source": "iheart.com",
-      "n": 8,
-      "avg_tone": 3.614
-    },
-    {
-      "source": "heraldextra.com",
+      "source": "wiky.com",
       "n": 2,
-      "avg_tone": -4.108
+      "avg_tone": -2.532
     },
     {
-      "source": "abc7news.com",
-      "n": 1,
-      "avg_tone": 4.324
+      "source": "idahostatejournal.com",
+      "n": 2,
+      "avg_tone": 1.088
     },
     {
-      "source": "newsroomamerica.com",
-      "n": 1,
-      "avg_tone": -0.751
+      "source": "kfgo.com",
+      "n": 2,
+      "avg_tone": -2.532
     },
     {
-      "source": "billboard.com",
-      "n": 1,
-      "avg_tone": -2.384
+      "source": "netscape.com",
+      "n": 2,
+      "avg_tone": -4.175
     },
     {
-      "source": "waterwaysjournal.net",
+      "source": "fox13news.com",
       "n": 1,
-      "avg_tone": 1.46
+      "avg_tone": 0.171
     },
     {
-      "source": "freshfruitportal.com",
+      "source": "breitbart.com",
       "n": 1,
-      "avg_tone": 3.353
+      "avg_tone": -2.032
     },
     {
-      "source": "peoplesworld.org",
+      "source": "aol.com",
       "n": 1,
-      "avg_tone": -0.631
+      "avg_tone": -2.097
     },
     {
       "source": "courant.com",
       "n": 1,
-      "avg_tone": -5.637
+      "avg_tone": -2.798
     },
     {
-      "source": "abbynews.com",
+      "source": "fortmorgantimes.com",
       "n": 1,
-      "avg_tone": 2.521
+      "avg_tone": -2.408
     },
     {
-      "source": "winnipegfreepress.com",
+      "source": "abc7news.com",
       "n": 1,
-      "avg_tone": 0.814
+      "avg_tone": -4.955
     },
     {
-      "source": "dailycaller.com",
+      "source": "newsroomamerica.com",
       "n": 1,
-      "avg_tone": 1.193
+      "avg_tone": -1.175
     },
     {
-      "source": "talkingpointsmemo.com",
+      "source": "athensmessenger.com",
       "n": 1,
-      "avg_tone": -2.892
+      "avg_tone": -2.934
     },
     {
-      "source": "winchesterstar.com",
+      "source": "kmaland.com",
       "n": 1,
-      "avg_tone": -6.383
+      "avg_tone": 3.497
     },
     {
-      "source": "thenewsherald.com",
+      "source": "standardspeaker.com",
       "n": 1,
-      "avg_tone": -5.637
+      "avg_tone": -2.408
+    },
+    {
+      "source": "thetimes-tribune.com",
+      "n": 1,
+      "avg_tone": -2.408
     }
   ],
   "top_themes": [
     {
+      "theme": "SOC_POINTSOFINTEREST_AIRPORT",
+      "n": 459
+    },
+    {
+      "theme": "WB_1804_AIRPORTS",
+      "n": 459
+    },
+    {
+      "theme": "SOC_USSECURITYAGENCIES",
+      "n": 326
+    },
+    {
+      "theme": "WB_165_AIR_TRANSPORT",
+      "n": 324
+    },
+    {
+      "theme": "WB_164_MODES_OF_TRANSPORT",
+      "n": 324
+    },
+    {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 54
+      "n": 264
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 45
+      "theme": "TRAFFIC",
+      "n": 207
     },
     {
-      "theme": "EPU_CATS_REGULATION",
-      "n": 43
+      "theme": "WB_135_TRANSPORT",
+      "n": 200
     },
     {
-      "theme": "LEADER",
-      "n": 42
+      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
+      "n": 193
     },
     {
-      "theme": "ORGANIZED_CRIME",
-      "n": 41
+      "theme": "WB_1810_TRAFFIC_CONTROL_AND_MONITORING",
+      "n": 172
     },
     {
-      "theme": "WB_1743_ANTICARTEL_ENFORCEMENT",
-      "n": 41
+      "theme": "DELAY",
+      "n": 112
     },
     {
-      "theme": "WB_2446_CARTELS",
-      "n": 41
+      "theme": "USPEC_UNCERTAINTY1",
+      "n": 110
     },
     {
-      "theme": "WB_406_COMPETITION_POLICY",
-      "n": 41
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 79
     },
     {
-      "theme": "WB_2101_ANTITRUST",
-      "n": 41
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 78
     },
     {
-      "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
-      "n": 41
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 29
-    },
-    {
-      "theme": "TAX_FNCACT_WORKERS",
-      "n": 29
-    },
-    {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 28
-    },
-    {
-      "theme": "ARMEDCONFLICT",
-      "n": 24
-    },
-    {
-      "theme": "TAX_FNCACT_CRIMINAL",
-      "n": 24
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 70
     }
   ]
 }
