@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-11-14T03:36:25.896048+00:00",
-  "rows_total_scanned_last_run": 2781,
-  "rows_mexico_last_run": 59,
-  "overall_avg_tone_4h": -0.893,
+  "generated_at": "2026-11-14T10:55:14.141038+00:00",
+  "rows_total_scanned_last_run": 1915,
+  "rows_mexico_last_run": 23,
+  "overall_avg_tone_4h": -0.922,
   "timeline": [
-    {
-      "time": "2026-11-11T04:45",
-      "avg_tone": -1.101,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-11-11T05:00",
-      "avg_tone": -0.195,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-11-11T05:15",
-      "avg_tone": -1.141,
-      "n_articles": 14
-    },
-    {
-      "time": "2026-11-11T05:30",
-      "avg_tone": -1.944,
-      "n_articles": 6
-    },
     {
       "time": "2026-11-11T12:15",
       "avg_tone": -2.226,
@@ -208,145 +188,160 @@
       "time": "2026-11-14T03:45",
       "avg_tone": -1.799,
       "n_articles": 11
+    },
+    {
+      "time": "2026-11-14T10:15",
+      "avg_tone": -3.055,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-11-14T10:45",
+      "avg_tone": -2.558,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-11-14T11:00",
+      "avg_tone": -2.91,
+      "n_articles": 9
     }
   ],
   "top_sources": [
     {
-      "source": "wiky.com",
-      "n": 2,
-      "avg_tone": -2.532
+      "source": "riotimesonline.com",
+      "n": 3,
+      "avg_tone": -2.828
     },
     {
-      "source": "idahostatejournal.com",
-      "n": 2,
-      "avg_tone": 1.088
-    },
-    {
-      "source": "kfgo.com",
-      "n": 2,
-      "avg_tone": -2.532
-    },
-    {
-      "source": "netscape.com",
-      "n": 2,
-      "avg_tone": -4.175
-    },
-    {
-      "source": "fox13news.com",
+      "source": "nbcnewyork.com",
       "n": 1,
-      "avg_tone": 0.171
+      "avg_tone": -5.54
     },
     {
-      "source": "breitbart.com",
+      "source": "whbl.com",
       "n": 1,
-      "avg_tone": -2.032
+      "avg_tone": -3.099
     },
     {
-      "source": "aol.com",
+      "source": "yahoo.com",
       "n": 1,
-      "avg_tone": -2.097
+      "avg_tone": -3.376
     },
     {
-      "source": "courant.com",
+      "source": "hurriyetdailynews.com",
       "n": 1,
-      "avg_tone": -2.798
+      "avg_tone": 4.138
     },
     {
-      "source": "fortmorgantimes.com",
+      "source": "channelnewsasia.com",
       "n": 1,
-      "avg_tone": -2.408
+      "avg_tone": -9.959
     },
     {
-      "source": "abc7news.com",
+      "source": "nats.org",
       "n": 1,
-      "avg_tone": -4.955
+      "avg_tone": 0.133
     },
     {
-      "source": "newsroomamerica.com",
+      "source": "wpbf.com",
       "n": 1,
-      "avg_tone": -1.175
+      "avg_tone": -4.773
     },
     {
-      "source": "athensmessenger.com",
+      "source": "dailysabah.com",
       "n": 1,
-      "avg_tone": -2.934
+      "avg_tone": -3.616
     },
     {
-      "source": "kmaland.com",
+      "source": "wxii12.com",
       "n": 1,
-      "avg_tone": 3.497
+      "avg_tone": -4.773
     },
     {
-      "source": "standardspeaker.com",
+      "source": "kmbc.com",
       "n": 1,
-      "avg_tone": -2.408
+      "avg_tone": -4.773
     },
     {
-      "source": "thetimes-tribune.com",
+      "source": "dailymail.com",
       "n": 1,
-      "avg_tone": -2.408
+      "avg_tone": -2.911
+    },
+    {
+      "source": "formula1.com",
+      "n": 1,
+      "avg_tone": 2.123
+    },
+    {
+      "source": "econotimes.com",
+      "n": 1,
+      "avg_tone": 0.513
+    },
+    {
+      "source": "wgal.com",
+      "n": 1,
+      "avg_tone": -4.773
     }
   ],
   "top_themes": [
     {
-      "theme": "SOC_POINTSOFINTEREST_AIRPORT",
-      "n": 459
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 47
     },
     {
-      "theme": "WB_1804_AIRPORTS",
-      "n": 459
+      "theme": "TAX_DISEASE_DIABETES",
+      "n": 44
     },
     {
-      "theme": "SOC_USSECURITYAGENCIES",
-      "n": 326
+      "theme": "TAX_CHRONICDISEASE_DIABETES",
+      "n": 44
     },
     {
-      "theme": "WB_165_AIR_TRANSPORT",
-      "n": 324
+      "theme": "WB_1406_DISEASES",
+      "n": 44
     },
     {
-      "theme": "WB_164_MODES_OF_TRANSPORT",
-      "n": 324
+      "theme": "WB_1433_DIABETES",
+      "n": 44
+    },
+    {
+      "theme": "WB_1427_NON_COMMUNICABLE_DISEASE_AND_INJURY",
+      "n": 44
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 39
+    },
+    {
+      "theme": "CRISISLEX_T01_CAUTION_ADVICE",
+      "n": 38
+    },
+    {
+      "theme": "UNREST_BELLIGERENT",
+      "n": 38
+    },
+    {
+      "theme": "LEADER",
+      "n": 34
     },
     {
       "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 264
+      "n": 32
     },
     {
-      "theme": "TRAFFIC",
-      "n": 207
+      "theme": "CRISISLEX_T09_DISPLACEDRELOCATEDEVACUATED",
+      "n": 31
     },
     {
-      "theme": "WB_135_TRANSPORT",
-      "n": 200
+      "theme": "EVACUATION",
+      "n": 30
     },
     {
-      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
-      "n": 193
-    },
-    {
-      "theme": "WB_1810_TRAFFIC_CONTROL_AND_MONITORING",
-      "n": 172
-    },
-    {
-      "theme": "DELAY",
-      "n": 112
-    },
-    {
-      "theme": "USPEC_UNCERTAINTY1",
-      "n": 110
-    },
-    {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 79
-    },
-    {
-      "theme": "EPU_POLICY_GOVERNMENT",
-      "n": 78
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 29
     },
     {
       "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 70
+      "n": 28
     }
   ]
 }
