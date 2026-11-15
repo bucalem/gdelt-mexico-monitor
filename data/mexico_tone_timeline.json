@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-11-15T20:07:44.905934+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -1.376,
+  "generated_at": "2026-11-15T23:56:52.117873+00:00",
+  "rows_total_scanned_last_run": 2114,
+  "rows_mexico_last_run": 23,
+  "overall_avg_tone_4h": -1.587,
   "timeline": [
-    {
-      "time": "2026-11-12T22:00",
-      "avg_tone": -2.355,
-      "n_articles": 26
-    },
-    {
-      "time": "2026-11-12T22:15",
-      "avg_tone": 0.238,
-      "n_articles": 33
-    },
     {
       "time": "2026-11-13T02:15",
       "avg_tone": -2.807,
@@ -178,8 +168,165 @@
       "time": "2026-11-15T07:45",
       "avg_tone": -2.778,
       "n_articles": 4
+    },
+    {
+      "time": "2026-11-15T23:15",
+      "avg_tone": -0.296,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-11-15T23:30",
+      "avg_tone": -5.333,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-11-15T23:45",
+      "avg_tone": -2.551,
+      "n_articles": 7
+    },
+    {
+      "time": "2026-11-16T00:00",
+      "avg_tone": -0.557,
+      "n_articles": 7
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "aol.co.uk",
+      "n": 5,
+      "avg_tone": 1.91
+    },
+    {
+      "source": "abqjournal.com",
+      "n": 3,
+      "avg_tone": -3.3
+    },
+    {
+      "source": "azbigmedia.com",
+      "n": 2,
+      "avg_tone": 0.944
+    },
+    {
+      "source": "jamaicaobserver.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "wnd.com",
+      "n": 1,
+      "avg_tone": -4.384
+    },
+    {
+      "source": "republicanherald.com",
+      "n": 1,
+      "avg_tone": -1.068
+    },
+    {
+      "source": "zerohedge.com",
+      "n": 1,
+      "avg_tone": 1.139
+    },
+    {
+      "source": "eturbonews.com",
+      "n": 1,
+      "avg_tone": -1.477
+    },
+    {
+      "source": "bignewsnetwork.com",
+      "n": 1,
+      "avg_tone": -1.547
+    },
+    {
+      "source": "tvline.com",
+      "n": 1,
+      "avg_tone": 0.638
+    },
+    {
+      "source": "econotimes.com",
+      "n": 1,
+      "avg_tone": -10.667
+    },
+    {
+      "source": "internazionale.it",
+      "n": 1,
+      "avg_tone": -7.115
+    },
+    {
+      "source": "tmz.com",
+      "n": 1,
+      "avg_tone": -8.718
+    },
+    {
+      "source": "greatbendpost.com",
+      "n": 1,
+      "avg_tone": -2.75
+    },
+    {
+      "source": "hayspost.com",
+      "n": 1,
+      "avg_tone": -2.75
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "WB_137_WATER",
+      "n": 36
+    },
+    {
+      "theme": "MEDIA_MSM",
+      "n": 30
+    },
+    {
+      "theme": "ELECTION",
+      "n": 30
+    },
+    {
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 26
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 25
+    },
+    {
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 24
+    },
+    {
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
+      "n": 24
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 23
+    },
+    {
+      "theme": "TAX_FNCACT_EMPLOYEE",
+      "n": 23
+    },
+    {
+      "theme": "USPEC_UNCERTAINTY1",
+      "n": 22
+    },
+    {
+      "theme": "DELAY",
+      "n": 21
+    },
+    {
+      "theme": "LEADER",
+      "n": 21
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 20
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 20
+    },
+    {
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 20
+    }
+  ]
 }
