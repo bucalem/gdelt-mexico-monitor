@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-14T21:00:18.075889+00:00",
-  "rows_total_scanned_last_run": 1860,
-  "rows_mexico_last_run": 39,
-  "overall_avg_tone_4h": -1.358,
+  "generated_at": "2026-11-15T00:59:38.377868+00:00",
+  "rows_total_scanned_last_run": 1896,
+  "rows_mexico_last_run": 48,
+  "overall_avg_tone_4h": -1.798,
   "timeline": [
     {
       "time": "2026-11-12T01:00",
@@ -198,145 +198,165 @@
       "time": "2026-11-14T21:00",
       "avg_tone": -0.937,
       "n_articles": 11
+    },
+    {
+      "time": "2026-11-15T00:15",
+      "avg_tone": -1.459,
+      "n_articles": 16
+    },
+    {
+      "time": "2026-11-15T00:30",
+      "avg_tone": -2.952,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-11-15T00:45",
+      "avg_tone": -1.478,
+      "n_articles": 4
+    },
+    {
+      "time": "2026-11-15T01:00",
+      "avg_tone": -2.763,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
-      "source": "niagarafallsreview.ca",
+      "source": "azbigmedia.com",
       "n": 2,
-      "avg_tone": -2.391
-    },
-    {
-      "source": "pentictonherald.ca",
-      "n": 2,
-      "avg_tone": -2.691
-    },
-    {
-      "source": "cp24.com",
-      "n": 2,
-      "avg_tone": -3.56
+      "avg_tone": 0.919
     },
     {
       "source": "aol.com",
       "n": 2,
-      "avg_tone": -1.32
+      "avg_tone": 2.141
     },
     {
-      "source": "elpasoinc.com",
+      "source": "santafenewmexican.com",
       "n": 2,
-      "avg_tone": -2.334
+      "avg_tone": 1.247
     },
     {
-      "source": "pressdemocrat.com",
+      "source": "wgcu.org",
       "n": 1,
-      "avg_tone": -3.226
+      "avg_tone": -4.32
     },
     {
-      "source": "kiro7.com",
+      "source": "manilatimes.net",
       "n": 1,
-      "avg_tone": -3.182
+      "avg_tone": -1.001
     },
     {
-      "source": "kxel.com",
+      "source": "kbia.org",
       "n": 1,
-      "avg_tone": 3.67
+      "avg_tone": -4.32
     },
     {
-      "source": "aol.co.uk",
+      "source": "wfsu.org",
       "n": 1,
-      "avg_tone": 0.184
+      "avg_tone": -4.32
     },
     {
-      "source": "foxnews.com",
+      "source": "redstate.com",
       "n": 1,
-      "avg_tone": 7.61
+      "avg_tone": -2.068
     },
     {
-      "source": "panow.com",
+      "source": "dailyexcelsior.com",
       "n": 1,
-      "avg_tone": -2.193
+      "avg_tone": -1.282
     },
     {
-      "source": "goskagit.com",
+      "source": "wxxinews.org",
       "n": 1,
-      "avg_tone": -3.234
+      "avg_tone": -4.32
     },
     {
-      "source": "littleapplepost.com",
+      "source": "wutc.org",
       "n": 1,
-      "avg_tone": -2.248
+      "avg_tone": -4.32
     },
     {
-      "source": "romesentinel.com",
+      "source": "kedm.org",
       "n": 1,
-      "avg_tone": -2.905
+      "avg_tone": -4.32
     },
     {
-      "source": "dailybreeze.com",
+      "source": "mylloydminsternow.com",
       "n": 1,
-      "avg_tone": 1.422
+      "avg_tone": -3.16
+    },
+    {
+      "source": "wkms.org",
+      "n": 1,
+      "avg_tone": -4.32
+    },
+    {
+      "source": "wfae.org",
+      "n": 1,
+      "avg_tone": -4.32
     }
   ],
   "top_themes": [
     {
       "theme": "TAX_DISEASE_MEASLES",
-      "n": 52
-    },
-    {
-      "theme": "MEDICAL",
-      "n": 50
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 48
-    },
-    {
-      "theme": "SOC_POINTSOFINTEREST_AIRPORT",
-      "n": 33
+      "n": 984
     },
     {
       "theme": "UNGP_HEALTHCARE",
-      "n": 32
+      "n": 964
     },
     {
-      "theme": "WB_1804_AIRPORTS",
-      "n": 29
-    },
-    {
-      "theme": "LEGISLATION",
-      "n": 29
+      "theme": "MEDICAL",
+      "n": 628
     },
     {
       "theme": "GENERAL_HEALTH",
-      "n": 27
+      "n": 622
     },
     {
-      "theme": "EPU_POLICY_LAW",
-      "n": 26
+      "theme": "WB_2165_HEALTH_EMERGENCIES",
+      "n": 474
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 24
+      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
+      "n": 474
     },
     {
-      "theme": "AFFECT",
-      "n": 22
+      "theme": "WB_2167_PANDEMICS",
+      "n": 474
     },
     {
-      "theme": "EDUCATION",
-      "n": 22
+      "theme": "HEALTH_VACCINATION",
+      "n": 417
     },
     {
-      "theme": "TRAFFIC",
-      "n": 21
+      "theme": "WB_642_CHILD_HEALTH",
+      "n": 417
     },
     {
-      "theme": "WB_135_TRANSPORT",
-      "n": 20
+      "theme": "WB_1459_IMMUNIZATIONS",
+      "n": 417
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 20
+      "theme": "WB_639_REPRODUCTIVE_MATERNAL_AND_CHILD_HEALTH",
+      "n": 417
+    },
+    {
+      "theme": "TAX_FNCACT_CHILDREN",
+      "n": 215
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 177
+    },
+    {
+      "theme": "WB_635_PUBLIC_HEALTH",
+      "n": 165
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 152
     }
   ]
 }
