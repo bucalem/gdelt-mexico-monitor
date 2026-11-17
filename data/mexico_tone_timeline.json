@@ -1,34 +1,9 @@
 {
-  "generated_at": "2026-11-16T22:51:37.020256+00:00",
-  "rows_total_scanned_last_run": 1210,
-  "rows_mexico_last_run": 27,
-  "overall_avg_tone_4h": -1.873,
+  "generated_at": "2026-11-17T04:53:42.315830+00:00",
+  "rows_total_scanned_last_run": 756,
+  "rows_mexico_last_run": 6,
+  "overall_avg_tone_4h": -1.882,
   "timeline": [
-    {
-      "time": "2026-11-13T23:15",
-      "avg_tone": 0.194,
-      "n_articles": 30
-    },
-    {
-      "time": "2026-11-14T03:00",
-      "avg_tone": -2.402,
-      "n_articles": 25
-    },
-    {
-      "time": "2026-11-14T03:15",
-      "avg_tone": 0.11,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-11-14T03:30",
-      "avg_tone": -1.357,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-11-14T03:45",
-      "avg_tone": -1.799,
-      "n_articles": 11
-    },
     {
       "time": "2026-11-14T10:15",
       "avg_tone": -3.055,
@@ -183,145 +158,105 @@
       "time": "2026-11-16T22:15",
       "avg_tone": -1.65,
       "n_articles": 27
+    },
+    {
+      "time": "2026-11-17T04:15",
+      "avg_tone": 0.634,
+      "n_articles": 6
     }
   ],
   "top_sources": [
     {
-      "source": "iheart.com",
-      "n": 7,
-      "avg_tone": 2.361
-    },
-    {
-      "source": "thetimes-tribune.com",
-      "n": 2,
-      "avg_tone": -7.082
-    },
-    {
-      "source": "ksfr.org",
-      "n": 2,
-      "avg_tone": -3.923
-    },
-    {
-      "source": "arynews.tv",
+      "source": "chicagotribune.com",
       "n": 1,
-      "avg_tone": -8.382
+      "avg_tone": 2.222
     },
     {
-      "source": "pr-inside.com",
+      "source": "si.com",
       "n": 1,
-      "avg_tone": 0.251
+      "avg_tone": -0.726
     },
     {
-      "source": "hppr.org",
-      "n": 1,
-      "avg_tone": -4.944
-    },
-    {
-      "source": "thevikingage.com",
-      "n": 1,
-      "avg_tone": -2.742
-    },
-    {
-      "source": "ypradio.org",
-      "n": 1,
-      "avg_tone": -4.944
-    },
-    {
-      "source": "953thescore.com",
-      "n": 1,
-      "avg_tone": -3.96
-    },
-    {
-      "source": "komonews.com",
+      "source": "abc7amarillo.com",
       "n": 1,
       "avg_tone": -4.467
     },
     {
-      "source": "nrn.com",
+      "source": "hanfordsentinel.com",
       "n": 1,
-      "avg_tone": 1.804
+      "avg_tone": -0.58
     },
     {
-      "source": "shepherdexpress.com",
+      "source": "restaurantmagazine.com",
       "n": 1,
-      "avg_tone": 3.858
+      "avg_tone": 4.26
     },
     {
-      "source": "voiceofalexandria.com",
+      "source": "bbc.co.uk",
       "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "wvxu.org",
-      "n": 1,
-      "avg_tone": -4.944
-    },
-    {
-      "source": "restaurantnewsrelease.com",
-      "n": 1,
-      "avg_tone": 1.702
+      "avg_tone": 3.095
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_DISEASE_MEASLES",
-      "n": 68
+      "theme": "EDUCATION",
+      "n": 15
     },
     {
-      "theme": "UNGP_HEALTHCARE",
-      "n": 68
+      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
+      "n": 15
     },
     {
-      "theme": "MEDICAL",
-      "n": 54
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 12
     },
     {
-      "theme": "GENERAL_HEALTH",
-      "n": 53
+      "theme": "TAX_FNCACT_STUDENTS",
+      "n": 11
     },
     {
-      "theme": "WB_2165_HEALTH_EMERGENCIES",
-      "n": 36
+      "theme": "NATURAL_DISASTER_ICE",
+      "n": 9
     },
     {
-      "theme": "WB_2166_HEALTH_EMERGENCY_PREPAREDNESS_AND_DISASTER_RESPONSE",
-      "n": 36
+      "theme": "STRIKE",
+      "n": 7
     },
     {
-      "theme": "WB_2167_PANDEMICS",
-      "n": 36
+      "theme": "TAX_FNCACT_KNIGHT",
+      "n": 6
     },
     {
-      "theme": "KILL",
-      "n": 33
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 6
     },
     {
-      "theme": "HEALTH_VACCINATION",
-      "n": 32
+      "theme": "SOC_POINTSOFINTEREST_SCHOOLS",
+      "n": 6
     },
     {
-      "theme": "WB_642_CHILD_HEALTH",
-      "n": 32
+      "theme": "SOC_POINTSOFINTEREST_HIGH_SCHOOL",
+      "n": 6
     },
     {
-      "theme": "WB_1459_IMMUNIZATIONS",
-      "n": 32
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 4
     },
     {
-      "theme": "WB_639_REPRODUCTIVE_MATERNAL_AND_CHILD_HEALTH",
-      "n": 32
-    },
-    {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 31
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 29
+      "theme": "TAX_FNCACT_OFFICIALS",
+      "n": 4
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 28
+      "n": 4
+    },
+    {
+      "theme": "TAX_FNCACT_ORGANIZERS",
+      "n": 4
+    },
+    {
+      "theme": "TAX_FNCACT_IMMIGRANT",
+      "n": 4
     }
   ]
 }
