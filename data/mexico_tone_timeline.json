@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-11-19T10:00:15.607094+00:00",
-  "rows_total_scanned_last_run": 2825,
-  "rows_mexico_last_run": 34,
-  "overall_avg_tone_4h": -1.353,
+  "generated_at": "2026-11-19T18:54:54.094912+00:00",
+  "rows_total_scanned_last_run": 6665,
+  "rows_mexico_last_run": 60,
+  "overall_avg_tone_4h": -0.995,
   "timeline": [
-    {
-      "time": "2026-11-16T12:30",
-      "avg_tone": -2.541,
-      "n_articles": 28
-    },
-    {
-      "time": "2026-11-16T12:45",
-      "avg_tone": -3.592,
-      "n_articles": 20
-    },
-    {
-      "time": "2026-11-16T13:00",
-      "avg_tone": -3.592,
-      "n_articles": 29
-    },
-    {
-      "time": "2026-11-16T13:15",
-      "avg_tone": -1.889,
-      "n_articles": 29
-    },
     {
       "time": "2026-11-16T22:15",
       "avg_tone": -1.65,
@@ -153,145 +133,165 @@
       "time": "2026-11-19T10:00",
       "avg_tone": 0.901,
       "n_articles": 11
+    },
+    {
+      "time": "2026-11-19T18:15",
+      "avg_tone": 1.597,
+      "n_articles": 9
+    },
+    {
+      "time": "2026-11-19T18:30",
+      "avg_tone": 2.258,
+      "n_articles": 20
+    },
+    {
+      "time": "2026-11-19T18:45",
+      "avg_tone": 0.588,
+      "n_articles": 18
+    },
+    {
+      "time": "2026-11-19T19:00",
+      "avg_tone": -1.211,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
-      "source": "grandprix247.com",
+      "source": "fool.com",
       "n": 3,
-      "avg_tone": 0.468
+      "avg_tone": 2.058
     },
     {
-      "source": "wsws.org",
+      "source": "reason.com",
       "n": 2,
-      "avg_tone": -3.184
-    },
-    {
-      "source": "brantfordexpositor.ca",
-      "n": 2,
-      "avg_tone": 4.561
+      "avg_tone": -3.772
     },
     {
       "source": "intelligencer.ca",
       "n": 2,
-      "avg_tone": 4.561
+      "avg_tone": 4.31
     },
     {
-      "source": "lasvegasweekly.com",
-      "n": 1,
-      "avg_tone": 3.451
-    },
-    {
-      "source": "advocate-news.com",
-      "n": 1,
-      "avg_tone": -2.445
-    },
-    {
-      "source": "gazettelive.co.uk",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "stokesentinel.co.uk",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "northernnews.ca",
-      "n": 1,
-      "avg_tone": 3.36
-    },
-    {
-      "source": "fourfourtwo.com",
-      "n": 1,
-      "avg_tone": 3.892
-    },
-    {
-      "source": "hulldailymail.co.uk",
-      "n": 1,
-      "avg_tone": 0.0
-    },
-    {
-      "source": "z93jamz.com",
-      "n": 1,
-      "avg_tone": -2.182
-    },
-    {
-      "source": "financialpost.com",
-      "n": 1,
-      "avg_tone": 3.36
+      "source": "elliotlakestandard.ca",
+      "n": 2,
+      "avg_tone": 4.31
     },
     {
       "source": "nugget.ca",
-      "n": 1,
-      "avg_tone": 3.36
+      "n": 2,
+      "avg_tone": 4.31
     },
     {
-      "source": "theguardian.com",
+      "source": "chathamdailynews.ca",
+      "n": 2,
+      "avg_tone": 4.31
+    },
+    {
+      "source": "azbigmedia.com",
+      "n": 2,
+      "avg_tone": -1.026
+    },
+    {
+      "source": "brantfordexpositor.ca",
+      "n": 2,
+      "avg_tone": 4.31
+    },
+    {
+      "source": "finanznachrichten.de",
+      "n": 2,
+      "avg_tone": 5.762
+    },
+    {
+      "source": "alternet.org",
       "n": 1,
-      "avg_tone": -2.883
+      "avg_tone": -1.882
+    },
+    {
+      "source": "winnipegfreepress.com",
+      "n": 1,
+      "avg_tone": -4.721
+    },
+    {
+      "source": "taipeitimes.com",
+      "n": 1,
+      "avg_tone": 2.911
+    },
+    {
+      "source": "renewableenergymagazine.com",
+      "n": 1,
+      "avg_tone": 0.55
+    },
+    {
+      "source": "nbcbayarea.com",
+      "n": 1,
+      "avg_tone": 3.636
+    },
+    {
+      "source": "breitbart.com",
+      "n": 1,
+      "avg_tone": -9.898
     }
   ],
   "top_themes": [
     {
-      "theme": "LEADER",
-      "n": 54
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 144
+    },
+    {
+      "theme": "TAX_FNCACT_PORTER",
+      "n": 90
     },
     {
       "theme": "WB_698_TRADE",
-      "n": 47
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 37
-    },
-    {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 36
-    },
-    {
-      "theme": "TAX_FNCACT_MINISTER",
-      "n": 34
-    },
-    {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 33
-    },
-    {
-      "theme": "TAX_FNCACT_PRIME_MINISTER",
-      "n": 32
-    },
-    {
-      "theme": "TAX_WORLDINSECTS_ANT",
-      "n": 30
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 28
-    },
-    {
-      "theme": "TAX_FNCACT_WORKERS",
-      "n": 28
-    },
-    {
-      "theme": "TAX_ETHNICITY_CANADIAN",
-      "n": 26
-    },
-    {
-      "theme": "USPEC_POLICY1",
-      "n": 25
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 24
+      "n": 80
     },
     {
       "theme": "MEDICAL",
-      "n": 24
+      "n": 68
     },
     {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 24
+      "theme": "TAX_FNCACT_WORKERS",
+      "n": 64
+    },
+    {
+      "theme": "TAX_DISEASE_MEASLES",
+      "n": 60
+    },
+    {
+      "theme": "GENERAL_HEALTH",
+      "n": 58
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 51
+    },
+    {
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 46
+    },
+    {
+      "theme": "TAX_ECON_PRICE",
+      "n": 46
+    },
+    {
+      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
+      "n": 46
+    },
+    {
+      "theme": "EPU_ECONOMY",
+      "n": 45
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 44
+    },
+    {
+      "theme": "WB_135_TRANSPORT",
+      "n": 44
+    },
+    {
+      "theme": "WB_2689_JOBS_DIAGNOSTICS",
+      "n": 43
     }
   ]
 }
