@@ -1,14 +1,9 @@
 {
-  "generated_at": "2026-11-19T18:54:54.094912+00:00",
-  "rows_total_scanned_last_run": 6665,
-  "rows_mexico_last_run": 60,
-  "overall_avg_tone_4h": -0.995,
+  "generated_at": "2026-11-20T00:58:15.707842+00:00",
+  "rows_total_scanned_last_run": 1252,
+  "rows_mexico_last_run": 20,
+  "overall_avg_tone_4h": -1.021,
   "timeline": [
-    {
-      "time": "2026-11-16T22:15",
-      "avg_tone": -1.65,
-      "n_articles": 27
-    },
     {
       "time": "2026-11-17T04:15",
       "avg_tone": 0.634,
@@ -153,145 +148,150 @@
       "time": "2026-11-19T19:00",
       "avg_tone": -1.211,
       "n_articles": 13
+    },
+    {
+      "time": "2026-11-20T00:15",
+      "avg_tone": -1.494,
+      "n_articles": 20
     }
   ],
   "top_sources": [
     {
-      "source": "fool.com",
-      "n": 3,
-      "avg_tone": 2.058
-    },
-    {
-      "source": "reason.com",
+      "source": "whbl.com",
       "n": 2,
-      "avg_tone": -3.772
+      "avg_tone": 3.341
     },
     {
-      "source": "intelligencer.ca",
+      "source": "sonomanews.com",
       "n": 2,
-      "avg_tone": 4.31
+      "avg_tone": 3.466
     },
     {
-      "source": "elliotlakestandard.ca",
-      "n": 2,
-      "avg_tone": 4.31
-    },
-    {
-      "source": "nugget.ca",
-      "n": 2,
-      "avg_tone": 4.31
-    },
-    {
-      "source": "chathamdailynews.ca",
-      "n": 2,
-      "avg_tone": 4.31
-    },
-    {
-      "source": "azbigmedia.com",
-      "n": 2,
-      "avg_tone": -1.026
-    },
-    {
-      "source": "brantfordexpositor.ca",
-      "n": 2,
-      "avg_tone": 4.31
-    },
-    {
-      "source": "finanznachrichten.de",
-      "n": 2,
-      "avg_tone": 5.762
-    },
-    {
-      "source": "alternet.org",
+      "source": "batemansbaypost.com.au",
       "n": 1,
-      "avg_tone": -1.882
+      "avg_tone": -7.433
     },
     {
-      "source": "winnipegfreepress.com",
+      "source": "newsroomamerica.com",
       "n": 1,
-      "avg_tone": -4.721
+      "avg_tone": 0.319
     },
     {
-      "source": "taipeitimes.com",
+      "source": "thecourier.com.au",
       "n": 1,
-      "avg_tone": 2.911
+      "avg_tone": -7.423
     },
     {
-      "source": "renewableenergymagazine.com",
+      "source": "gringogazette.com",
       "n": 1,
-      "avg_tone": 0.55
+      "avg_tone": 2.454
     },
     {
-      "source": "nbcbayarea.com",
+      "source": "mandurahmail.com.au",
       "n": 1,
-      "avg_tone": 3.636
+      "avg_tone": -7.528
     },
     {
-      "source": "breitbart.com",
+      "source": "hazard-herald.com",
       "n": 1,
-      "avg_tone": -9.898
+      "avg_tone": -0.556
+    },
+    {
+      "source": "pagesix.com",
+      "n": 1,
+      "avg_tone": -4.128
+    },
+    {
+      "source": "examiner.com.au",
+      "n": 1,
+      "avg_tone": -7.444
+    },
+    {
+      "source": "kshe95.com",
+      "n": 1,
+      "avg_tone": 0.608
+    },
+    {
+      "source": "foxnews.com",
+      "n": 1,
+      "avg_tone": 0.771
+    },
+    {
+      "source": "mexicostar.com",
+      "n": 1,
+      "avg_tone": 3.802
+    },
+    {
+      "source": "usmagazine.com",
+      "n": 1,
+      "avg_tone": 2.964
+    },
+    {
+      "source": "vladtv.com",
+      "n": 1,
+      "avg_tone": -7.947
     }
   ],
   "top_themes": [
     {
-      "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 144
+      "theme": "CRISISLEX_C07_SAFETY",
+      "n": 86
     },
     {
-      "theme": "TAX_FNCACT_PORTER",
-      "n": 90
+      "theme": "SANCTIONS",
+      "n": 84
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 80
+      "theme": "TAX_ETHNICITY_AUSTRALIAN",
+      "n": 77
     },
     {
-      "theme": "MEDICAL",
-      "n": 68
+      "theme": "SECURITY_SERVICES",
+      "n": 61
     },
     {
-      "theme": "TAX_FNCACT_WORKERS",
-      "n": 64
-    },
-    {
-      "theme": "TAX_DISEASE_MEASLES",
+      "theme": "TAX_FNCACT_POLICE",
       "n": 60
     },
     {
-      "theme": "GENERAL_HEALTH",
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 58
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 51
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 52
+    },
+    {
+      "theme": "ORGANIZED_CRIME",
+      "n": 50
+    },
+    {
+      "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
+      "n": 49
+    },
+    {
+      "theme": "WB_2452_GANGS",
+      "n": 48
+    },
+    {
+      "theme": "LEADER",
+      "n": 38
     },
     {
       "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 46
+      "n": 36
     },
     {
-      "theme": "TAX_ECON_PRICE",
-      "n": 46
+      "theme": "BORDER",
+      "n": 26
     },
     {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 46
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 24
     },
     {
-      "theme": "EPU_ECONOMY",
-      "n": 45
-    },
-    {
-      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
-      "n": 44
-    },
-    {
-      "theme": "WB_135_TRANSPORT",
-      "n": 44
-    },
-    {
-      "theme": "WB_2689_JOBS_DIAGNOSTICS",
-      "n": 43
+      "theme": "BAN",
+      "n": 24
     }
   ]
 }
