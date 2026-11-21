@@ -1,19 +1,9 @@
 {
-  "generated_at": "2026-11-21T03:38:48.754702+00:00",
-  "rows_total_scanned_last_run": 2653,
-  "rows_mexico_last_run": 56,
-  "overall_avg_tone_4h": -0.86,
+  "generated_at": "2026-11-21T11:45:27.880308+00:00",
+  "rows_total_scanned_last_run": 2430,
+  "rows_mexico_last_run": 66,
+  "overall_avg_tone_4h": -0.967,
   "timeline": [
-    {
-      "time": "2026-11-18T03:45",
-      "avg_tone": -1.064,
-      "n_articles": 24
-    },
-    {
-      "time": "2026-11-18T11:30",
-      "avg_tone": -1.222,
-      "n_articles": 10
-    },
     {
       "time": "2026-11-18T11:45",
       "avg_tone": -3.432,
@@ -168,145 +158,165 @@
       "time": "2026-11-21T03:45",
       "avg_tone": -5.237,
       "n_articles": 8
+    },
+    {
+      "time": "2026-11-21T11:00",
+      "avg_tone": -1.865,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-11-21T11:15",
+      "avg_tone": -1.493,
+      "n_articles": 15
+    },
+    {
+      "time": "2026-11-21T11:30",
+      "avg_tone": -2.381,
+      "n_articles": 22
+    },
+    {
+      "time": "2026-11-21T11:45",
+      "avg_tone": -2.143,
+      "n_articles": 19
     }
   ],
   "top_sources": [
     {
       "source": "riotimesonline.com",
-      "n": 14,
-      "avg_tone": -1.23
+      "n": 13,
+      "avg_tone": -0.98
     },
     {
-      "source": "wrestlezone.com",
+      "source": "thenewsherald.com",
       "n": 2,
-      "avg_tone": -0.114
+      "avg_tone": -6.036
     },
     {
-      "source": "fool.com",
+      "source": "cedarnews.net",
       "n": 2,
-      "avg_tone": 0.104
+      "avg_tone": -10.147
     },
     {
-      "source": "noozhawk.com",
+      "source": "theoaklandpress.com",
+      "n": 2,
+      "avg_tone": -6.036
+    },
+    {
+      "source": "abc17news.com",
+      "n": 2,
+      "avg_tone": -2.027
+    },
+    {
+      "source": "arkansasonline.com",
+      "n": 2,
+      "avg_tone": -1.385
+    },
+    {
+      "source": "rockymounttelegram.com",
       "n": 1,
-      "avg_tone": -6.719
+      "avg_tone": -1.717
     },
     {
-      "source": "manilatimes.net",
+      "source": "knpr.org",
       "n": 1,
-      "avg_tone": -0.672
+      "avg_tone": -1.717
     },
     {
-      "source": "wsbt.com",
+      "source": "wfdd.org",
       "n": 1,
-      "avg_tone": -8.932
+      "avg_tone": -1.717
     },
     {
-      "source": "dentonrc.com",
-      "n": 1,
-      "avg_tone": 1.972
-    },
-    {
-      "source": "lufkindailynews.com",
-      "n": 1,
-      "avg_tone": -6.154
-    },
-    {
-      "source": "wrestlinginc.com",
-      "n": 1,
-      "avg_tone": -3.526
-    },
-    {
-      "source": "okcfox.com",
-      "n": 1,
-      "avg_tone": -8.932
-    },
-    {
-      "source": "abc7amarillo.com",
-      "n": 1,
-      "avg_tone": -8.932
-    },
-    {
-      "source": "obrag.org",
-      "n": 1,
-      "avg_tone": 2.45
-    },
-    {
-      "source": "wgme.com",
-      "n": 1,
-      "avg_tone": -8.932
-    },
-    {
-      "source": "foxbaltimore.com",
-      "n": 1,
-      "avg_tone": -8.932
-    },
-    {
-      "source": "executivegov.com",
+      "source": "keyw.com",
       "n": 1,
       "avg_tone": 0.0
+    },
+    {
+      "source": "ktvz.com",
+      "n": 1,
+      "avg_tone": -5.344
+    },
+    {
+      "source": "knau.org",
+      "n": 1,
+      "avg_tone": -1.717
+    },
+    {
+      "source": "newsday.com",
+      "n": 1,
+      "avg_tone": -1.72
+    },
+    {
+      "source": "965therock.com",
+      "n": 1,
+      "avg_tone": 2.331
+    },
+    {
+      "source": "krcu.org",
+      "n": 1,
+      "avg_tone": -1.717
     }
   ],
   "top_themes": [
     {
+      "theme": "WB_840_JUSTICE",
+      "n": 92
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 79
+    },
+    {
+      "theme": "NEGOTIATIONS",
+      "n": 78
+    },
+    {
+      "theme": "WB_939_NEGOTIATION",
+      "n": 76
+    },
+    {
+      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
+      "n": 76
+    },
+    {
+      "theme": "WB_843_DISPUTE_RESOLUTION",
+      "n": 76
+    },
+    {
+      "theme": "MOVEMENT_GENERAL",
+      "n": 75
+    },
+    {
+      "theme": "TAX_FNCACT_ACTIVISTS",
+      "n": 72
+    },
+    {
+      "theme": "PROTEST",
+      "n": 69
+    },
+    {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 217
+      "n": 66
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 214
+      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
+      "n": 57
     },
     {
-      "theme": "ORGANIZED_CRIME",
-      "n": 213
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 54
     },
     {
-      "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
-      "n": 213
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 53
     },
     {
-      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
-      "n": 211
+      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
+      "n": 52
     },
     {
-      "theme": "EPU_CATS_REGULATION",
-      "n": 208
-    },
-    {
-      "theme": "CRIME_CARTELS",
-      "n": 207
-    },
-    {
-      "theme": "WB_1743_ANTICARTEL_ENFORCEMENT",
-      "n": 207
-    },
-    {
-      "theme": "WB_2446_CARTELS",
-      "n": 207
-    },
-    {
-      "theme": "WB_406_COMPETITION_POLICY",
-      "n": 207
-    },
-    {
-      "theme": "WB_2101_ANTITRUST",
-      "n": 207
-    },
-    {
-      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
-      "n": 124
-    },
-    {
-      "theme": "TAX_FNCACT_PROSECUTORS",
-      "n": 120
-    },
-    {
-      "theme": "WB_895_MINING_SYSTEMS",
-      "n": 120
-    },
-    {
-      "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 120
+      "theme": "WB_2471_PEACEKEEPING",
+      "n": 52
     }
   ]
 }
