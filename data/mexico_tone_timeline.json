@@ -1,24 +1,9 @@
 {
-  "generated_at": "2026-11-21T11:45:27.880308+00:00",
-  "rows_total_scanned_last_run": 2430,
-  "rows_mexico_last_run": 66,
-  "overall_avg_tone_4h": -0.967,
+  "generated_at": "2026-11-21T18:28:53.088499+00:00",
+  "rows_total_scanned_last_run": 2560,
+  "rows_mexico_last_run": 50,
+  "overall_avg_tone_4h": -1.342,
   "timeline": [
-    {
-      "time": "2026-11-18T11:45",
-      "avg_tone": -3.432,
-      "n_articles": 16
-    },
-    {
-      "time": "2026-11-18T12:00",
-      "avg_tone": -4.367,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-11-18T12:15",
-      "avg_tone": 1.26,
-      "n_articles": 11
-    },
     {
       "time": "2026-11-18T19:45",
       "avg_tone": -2.273,
@@ -178,145 +163,165 @@
       "time": "2026-11-21T11:45",
       "avg_tone": -2.143,
       "n_articles": 19
+    },
+    {
+      "time": "2026-11-21T17:45",
+      "avg_tone": -2.203,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-11-21T18:00",
+      "avg_tone": -1.235,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-11-21T18:15",
+      "avg_tone": -2.0,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-11-21T18:30",
+      "avg_tone": -2.384,
+      "n_articles": 18
     }
   ],
   "top_sources": [
     {
-      "source": "riotimesonline.com",
-      "n": 13,
-      "avg_tone": -0.98
-    },
-    {
-      "source": "thenewsherald.com",
+      "source": "wkms.org",
       "n": 2,
-      "avg_tone": -6.036
+      "avg_tone": -2.051
     },
     {
-      "source": "cedarnews.net",
+      "source": "wysu.org",
       "n": 2,
-      "avg_tone": -10.147
+      "avg_tone": -2.051
     },
     {
-      "source": "theoaklandpress.com",
+      "source": "apr.org",
       "n": 2,
-      "avg_tone": -6.036
+      "avg_tone": -2.051
     },
     {
-      "source": "abc17news.com",
+      "source": "blueprint.ng",
       "n": 2,
-      "avg_tone": -2.027
+      "avg_tone": -2.836
     },
     {
-      "source": "arkansasonline.com",
+      "source": "aol.com",
       "n": 2,
-      "avg_tone": -1.385
+      "avg_tone": -3.286
     },
     {
-      "source": "rockymounttelegram.com",
-      "n": 1,
-      "avg_tone": -1.717
+      "source": "record-bee.com",
+      "n": 2,
+      "avg_tone": 2.543
     },
     {
-      "source": "knpr.org",
+      "source": "wyff4.com",
       "n": 1,
-      "avg_tone": -1.717
+      "avg_tone": 3.922
     },
     {
-      "source": "wfdd.org",
+      "source": "theglobeandmail.com",
       "n": 1,
-      "avg_tone": -1.717
+      "avg_tone": -2.815
     },
     {
-      "source": "keyw.com",
+      "source": "redstate.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -5.1
     },
     {
-      "source": "ktvz.com",
+      "source": "wsiu.org",
       "n": 1,
-      "avg_tone": -5.344
+      "avg_tone": -5.222
     },
     {
-      "source": "knau.org",
+      "source": "coloradohometownweekly.com",
       "n": 1,
-      "avg_tone": -1.717
+      "avg_tone": -0.407
     },
     {
-      "source": "newsday.com",
+      "source": "kuaf.com",
       "n": 1,
-      "avg_tone": -1.72
+      "avg_tone": -5.222
     },
     {
-      "source": "965therock.com",
+      "source": "abc11.com",
       "n": 1,
-      "avg_tone": 2.331
+      "avg_tone": -5.754
     },
     {
-      "source": "krcu.org",
+      "source": "southcarolinapublicradio.org",
       "n": 1,
-      "avg_tone": -1.717
+      "avg_tone": -5.222
+    },
+    {
+      "source": "aol.co.uk",
+      "n": 1,
+      "avg_tone": -6.966
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_840_JUSTICE",
-      "n": 92
-    },
-    {
-      "theme": "TAX_WORLDLANGUAGES_LATIN",
-      "n": 79
-    },
-    {
-      "theme": "NEGOTIATIONS",
-      "n": 78
-    },
-    {
-      "theme": "WB_939_NEGOTIATION",
-      "n": 76
-    },
-    {
-      "theme": "WB_936_ALTERNATIVE_DISPUTE_RESOLUTION",
-      "n": 76
-    },
-    {
-      "theme": "WB_843_DISPUTE_RESOLUTION",
-      "n": 76
-    },
-    {
-      "theme": "MOVEMENT_GENERAL",
-      "n": 75
-    },
-    {
-      "theme": "TAX_FNCACT_ACTIVISTS",
-      "n": 72
-    },
-    {
-      "theme": "PROTEST",
-      "n": 69
-    },
-    {
       "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 66
+      "n": 131
     },
     {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 57
+      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
+      "n": 122
+    },
+    {
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 114
+    },
+    {
+      "theme": "ORGANIZED_CRIME",
+      "n": 95
+    },
+    {
+      "theme": "WB_2445_NON_STATE_SECURITY_ACTORS",
+      "n": 95
+    },
+    {
+      "theme": "EPU_CATS_REGULATION",
+      "n": 95
+    },
+    {
+      "theme": "CRIME_CARTELS",
+      "n": 94
+    },
+    {
+      "theme": "WB_1743_ANTICARTEL_ENFORCEMENT",
+      "n": 94
+    },
+    {
+      "theme": "WB_2446_CARTELS",
+      "n": 94
+    },
+    {
+      "theme": "WB_406_COMPETITION_POLICY",
+      "n": 94
+    },
+    {
+      "theme": "WB_2101_ANTITRUST",
+      "n": 94
     },
     {
       "theme": "TAX_ETHNICITY_AMERICAN",
-      "n": 54
+      "n": 92
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 53
+      "theme": "WB_135_TRANSPORT",
+      "n": 78
     },
     {
-      "theme": "WB_2473_DIPLOMACY_AND_NEGOTIATIONS",
-      "n": 52
+      "theme": "WB_1803_TRANSPORT_INFRASTRUCTURE",
+      "n": 77
     },
     {
-      "theme": "WB_2471_PEACEKEEPING",
-      "n": 52
+      "theme": "TAX_FNCACT_AUTHORITIES",
+      "n": 73
     }
   ]
 }
