@@ -1,49 +1,9 @@
 {
-  "generated_at": "2026-11-24T02:58:11.841526+00:00",
-  "rows_total_scanned_last_run": 3544,
-  "rows_mexico_last_run": 49,
-  "overall_avg_tone_4h": -1.208,
+  "generated_at": "2026-11-24T13:18:33.720308+00:00",
+  "rows_total_scanned_last_run": 4471,
+  "rows_mexico_last_run": 67,
+  "overall_avg_tone_4h": -0.835,
   "timeline": [
-    {
-      "time": "2026-11-21T03:00",
-      "avg_tone": -4.427,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-11-21T03:15",
-      "avg_tone": -2.199,
-      "n_articles": 27
-    },
-    {
-      "time": "2026-11-21T03:30",
-      "avg_tone": -1.706,
-      "n_articles": 11
-    },
-    {
-      "time": "2026-11-21T03:45",
-      "avg_tone": -5.237,
-      "n_articles": 8
-    },
-    {
-      "time": "2026-11-21T11:00",
-      "avg_tone": -1.865,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-11-21T11:15",
-      "avg_tone": -1.493,
-      "n_articles": 15
-    },
-    {
-      "time": "2026-11-21T11:30",
-      "avg_tone": -2.381,
-      "n_articles": 22
-    },
-    {
-      "time": "2026-11-21T11:45",
-      "avg_tone": -2.143,
-      "n_articles": 19
-    },
     {
       "time": "2026-11-21T17:45",
       "avg_tone": -2.203,
@@ -203,145 +163,165 @@
       "time": "2026-11-24T03:00",
       "avg_tone": -0.418,
       "n_articles": 16
+    },
+    {
+      "time": "2026-11-24T12:30",
+      "avg_tone": -1.175,
+      "n_articles": 19
+    },
+    {
+      "time": "2026-11-24T12:45",
+      "avg_tone": -0.12,
+      "n_articles": 13
+    },
+    {
+      "time": "2026-11-24T13:00",
+      "avg_tone": 0.232,
+      "n_articles": 22
+    },
+    {
+      "time": "2026-11-24T13:15",
+      "avg_tone": 0.128,
+      "n_articles": 13
     }
   ],
   "top_sources": [
     {
-      "source": "wrestlinginc.com",
-      "n": 5,
-      "avg_tone": -1.088
-    },
-    {
-      "source": "latimes.com",
+      "source": "formula1.com",
       "n": 2,
-      "avg_tone": -3.726
+      "avg_tone": 2.529
     },
     {
-      "source": "abqjournal.com",
+      "source": "wysu.org",
       "n": 2,
-      "avg_tone": -0.329
+      "avg_tone": 1.319
     },
     {
-      "source": "azfamily.com",
+      "source": "aol.com",
       "n": 2,
-      "avg_tone": -2.574
+      "avg_tone": -3.788
     },
     {
-      "source": "sacurrent.com",
+      "source": "finanznachrichten.de",
       "n": 2,
-      "avg_tone": -6.534
+      "avg_tone": 1.286
     },
     {
-      "source": "koreaherald.com",
-      "n": 1,
-      "avg_tone": 0.597
+      "source": "union-bulletin.com",
+      "n": 2,
+      "avg_tone": -4.961
     },
     {
-      "source": "wsbtv.com",
-      "n": 1,
-      "avg_tone": 1.121
+      "source": "gjsentinel.com",
+      "n": 2,
+      "avg_tone": -5.211
     },
     {
-      "source": "kalb.com",
-      "n": 1,
-      "avg_tone": -13.005
+      "source": "chicagotribune.com",
+      "n": 2,
+      "avg_tone": -0.012
     },
     {
-      "source": "santacruzsentinel.com",
-      "n": 1,
-      "avg_tone": 4.571
+      "source": "thepeterboroughexaminer.com",
+      "n": 2,
+      "avg_tone": -5.075
     },
     {
-      "source": "kmbc.com",
+      "source": "mymixfm.com",
       "n": 1,
-      "avg_tone": 0.852
+      "avg_tone": -4.294
     },
     {
-      "source": "vikings.com",
+      "source": "fox29.com",
       "n": 1,
-      "avg_tone": 2.802
+      "avg_tone": 0.98
     },
     {
-      "source": "kexp.org",
+      "source": "kbia.org",
       "n": 1,
-      "avg_tone": 4.357
+      "avg_tone": 0.606
     },
     {
-      "source": "nypost.com",
+      "source": "wlrn.org",
       "n": 1,
-      "avg_tone": -6.107
+      "avg_tone": 0.606
     },
     {
-      "source": "el-balad.com",
+      "source": "wyomingnewsnow.tv",
       "n": 1,
-      "avg_tone": 1.012
+      "avg_tone": 5.057
     },
     {
-      "source": "english.news.cn",
+      "source": "fool.com",
       "n": 1,
-      "avg_tone": 1.923
+      "avg_tone": 0.667
+    },
+    {
+      "source": "southcarolinapublicradio.org",
+      "n": 1,
+      "avg_tone": 0.606
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 75
+      "theme": "LEADER",
+      "n": 132
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 49
+      "theme": "TAX_FNCACT_PRESIDENT",
+      "n": 120
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 49
+      "theme": "TAX_FNCACT_AGENTS",
+      "n": 93
     },
     {
-      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
-      "n": 46
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 70
     },
     {
       "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 44
+      "n": 60
     },
     {
-      "theme": "CRISISLEX_C07_SAFETY",
-      "n": 42
-    },
-    {
-      "theme": "WB_2670_JOBS",
-      "n": 39
-    },
-    {
-      "theme": "WB_2453_ORGANIZED_CRIME",
-      "n": 39
-    },
-    {
-      "theme": "WB_840_JUSTICE",
-      "n": 37
+      "theme": "USPEC_POLITICS_GENERAL1",
+      "n": 50
     },
     {
       "theme": "WB_1331_HEALTH_TECHNOLOGIES",
-      "n": 37
+      "n": 50
     },
     {
       "theme": "WB_1350_PHARMACEUTICALS",
+      "n": 50
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 50
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
       "n": 37
     },
     {
-      "theme": "WB_2456_DRUGS_AND_NARCOTICS",
-      "n": 37
-    },
-    {
-      "theme": "IMMIGRATION",
+      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
       "n": 36
     },
     {
-      "theme": "EPU_CATS_MIGRATION_FEAR_MIGRATION",
-      "n": 34
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 32
     },
     {
-      "theme": "WB_2470_PEACE_OPERATIONS_AND_CONFLICT_MANAGEMENT",
-      "n": 31
+      "theme": "USPEC_POLICY1",
+      "n": 32
+    },
+    {
+      "theme": "EPU_CATS_MIGRATION_FEAR_FEAR",
+      "n": 30
+    },
+    {
+      "theme": "WB_696_PUBLIC_SECTOR_MANAGEMENT",
+      "n": 29
     }
   ]
 }
