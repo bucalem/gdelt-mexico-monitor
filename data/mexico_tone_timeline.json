@@ -1,44 +1,9 @@
 {
-  "generated_at": "2026-11-25T15:51:50.863574+00:00",
-  "rows_total_scanned_last_run": 0,
-  "rows_mexico_last_run": 0,
-  "overall_avg_tone_4h": -1.024,
+  "generated_at": "2026-11-25T23:54:49.884052+00:00",
+  "rows_total_scanned_last_run": 4922,
+  "rows_mexico_last_run": 50,
+  "overall_avg_tone_4h": -0.657,
   "timeline": [
-    {
-      "time": "2026-11-22T18:15",
-      "avg_tone": -3.697,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-11-22T18:30",
-      "avg_tone": -1.44,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-11-22T18:45",
-      "avg_tone": -1.453,
-      "n_articles": 10
-    },
-    {
-      "time": "2026-11-22T19:00",
-      "avg_tone": -3.176,
-      "n_articles": 12
-    },
-    {
-      "time": "2026-11-22T23:15",
-      "avg_tone": -2.38,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-11-22T23:30",
-      "avg_tone": -0.015,
-      "n_articles": 6
-    },
-    {
-      "time": "2026-11-22T23:45",
-      "avg_tone": -1.247,
-      "n_articles": 8
-    },
     {
       "time": "2026-11-23T00:00",
       "avg_tone": -4.153,
@@ -148,8 +113,165 @@
       "time": "2026-11-25T05:30",
       "avg_tone": -1.464,
       "n_articles": 6
+    },
+    {
+      "time": "2026-11-25T23:15",
+      "avg_tone": 0.298,
+      "n_articles": 11
+    },
+    {
+      "time": "2026-11-25T23:30",
+      "avg_tone": -1.311,
+      "n_articles": 10
+    },
+    {
+      "time": "2026-11-25T23:45",
+      "avg_tone": 0.341,
+      "n_articles": 14
+    },
+    {
+      "time": "2026-11-26T00:00",
+      "avg_tone": 0.226,
+      "n_articles": 15
     }
   ],
-  "top_sources": [],
-  "top_themes": []
+  "top_sources": [
+    {
+      "source": "latintimes.com",
+      "n": 3,
+      "avg_tone": -0.827
+    },
+    {
+      "source": "kyma.com",
+      "n": 2,
+      "avg_tone": -0.707
+    },
+    {
+      "source": "maritime-executive.com",
+      "n": 2,
+      "avg_tone": -2.072
+    },
+    {
+      "source": "ukiahdailyjournal.com",
+      "n": 1,
+      "avg_tone": -1.408
+    },
+    {
+      "source": "westseattleblog.com",
+      "n": 1,
+      "avg_tone": 1.961
+    },
+    {
+      "source": "justarsenal.com",
+      "n": 1,
+      "avg_tone": 4.193
+    },
+    {
+      "source": "hellenicshippingnews.com",
+      "n": 1,
+      "avg_tone": -2.778
+    },
+    {
+      "source": "pjmedia.com",
+      "n": 1,
+      "avg_tone": -1.108
+    },
+    {
+      "source": "dailynorseman.com",
+      "n": 1,
+      "avg_tone": 0.0
+    },
+    {
+      "source": "wrrv.com",
+      "n": 1,
+      "avg_tone": 7.895
+    },
+    {
+      "source": "npr.org",
+      "n": 1,
+      "avg_tone": -0.572
+    },
+    {
+      "source": "rivergrandrapids.com",
+      "n": 1,
+      "avg_tone": 3.453
+    },
+    {
+      "source": "921theticket.com",
+      "n": 1,
+      "avg_tone": -1.37
+    },
+    {
+      "source": "9to5mac.com",
+      "n": 1,
+      "avg_tone": -4.489
+    },
+    {
+      "source": "ktvu.com",
+      "n": 1,
+      "avg_tone": 2.217
+    }
+  ],
+  "top_themes": [
+    {
+      "theme": "TAX_FNCACT_RUNNER",
+      "n": 54
+    },
+    {
+      "theme": "TAX_ETHNICITY_AMERICAN",
+      "n": 39
+    },
+    {
+      "theme": "TAX_FNCACT_CHEF",
+      "n": 34
+    },
+    {
+      "theme": "GEN_HOLIDAY",
+      "n": 29
+    },
+    {
+      "theme": "EPU_ECONOMY_HISTORIC",
+      "n": 28
+    },
+    {
+      "theme": "EDUCATION",
+      "n": 25
+    },
+    {
+      "theme": "CRISISLEX_CRISISLEXREC",
+      "n": 24
+    },
+    {
+      "theme": "AFFECT",
+      "n": 24
+    },
+    {
+      "theme": "WB_2670_JOBS",
+      "n": 24
+    },
+    {
+      "theme": "TAX_WORLDLANGUAGES_LATIN",
+      "n": 23
+    },
+    {
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 22
+    },
+    {
+      "theme": "MANMADE_DISASTER_IMPLIED",
+      "n": 22
+    },
+    {
+      "theme": "WB_698_TRADE",
+      "n": 22
+    },
+    {
+      "theme": "WB_2769_JOBS_STRATEGIES",
+      "n": 22
+    },
+    {
+      "theme": "IMMIGRATION",
+      "n": 21
+    }
+  ]
 }
