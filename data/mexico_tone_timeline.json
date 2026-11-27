@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-11-27T00:53:38.872420+00:00",
-  "rows_total_scanned_last_run": 2439,
-  "rows_mexico_last_run": 27,
-  "overall_avg_tone_4h": -0.69,
+  "generated_at": "2026-11-27T09:18:39.530388+00:00",
+  "rows_total_scanned_last_run": 3409,
+  "rows_mexico_last_run": 14,
+  "overall_avg_tone_4h": -0.74,
   "timeline": [
-    {
-      "time": "2026-11-24T02:15",
-      "avg_tone": -1.498,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-11-24T02:30",
-      "avg_tone": -4.669,
-      "n_articles": 9
-    },
-    {
-      "time": "2026-11-24T02:45",
-      "avg_tone": -0.578,
-      "n_articles": 7
-    },
-    {
-      "time": "2026-11-24T03:00",
-      "avg_tone": -0.418,
-      "n_articles": 16
-    },
     {
       "time": "2026-11-24T12:30",
       "avg_tone": -1.175,
@@ -153,145 +133,155 @@
       "time": "2026-11-27T01:00",
       "avg_tone": -0.256,
       "n_articles": 7
+    },
+    {
+      "time": "2026-11-27T08:30",
+      "avg_tone": -1.197,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-11-27T08:45",
+      "avg_tone": -0.613,
+      "n_articles": 3
+    },
+    {
+      "time": "2026-11-27T09:00",
+      "avg_tone": -1.885,
+      "n_articles": 5
+    },
+    {
+      "time": "2026-11-27T09:15",
+      "avg_tone": -1.354,
+      "n_articles": 3
     }
   ],
   "top_sources": [
     {
-      "source": "nypost.com",
+      "source": "grandprix247.com",
       "n": 2,
-      "avg_tone": -3.3
+      "avg_tone": -0.667
     },
     {
-      "source": "fox4beaumont.com",
-      "n": 2,
-      "avg_tone": -2.963
-    },
-    {
-      "source": "finanznachrichten.de",
+      "source": "finchannel.com",
       "n": 1,
-      "avg_tone": 0.233
+      "avg_tone": -0.154
     },
     {
-      "source": "greensburgdailynews.com",
+      "source": "zerohedge.com",
       "n": 1,
-      "avg_tone": 2.632
+      "avg_tone": -0.285
     },
     {
-      "source": "nugget.ca",
+      "source": "dailystar.co.uk",
       "n": 1,
-      "avg_tone": 0.243
+      "avg_tone": -3.623
     },
     {
-      "source": "standard-freeholder.com",
+      "source": "mtlblog.com",
       "n": 1,
-      "avg_tone": 0.243
+      "avg_tone": 2.799
     },
     {
-      "source": "ewtnnews.com",
+      "source": "thetyee.ca",
       "n": 1,
-      "avg_tone": 1.457
+      "avg_tone": -0.454
     },
     {
-      "source": "leadertelegram.com",
+      "source": "azerbaijannews.net",
       "n": 1,
-      "avg_tone": 2.715
+      "avg_tone": -11.45
     },
     {
-      "source": "winnipegfreepress.com",
+      "source": "irishmirror.ie",
       "n": 1,
-      "avg_tone": 3.901
+      "avg_tone": -3.213
     },
     {
-      "source": "vikingsterritory.com",
+      "source": "thesudburystar.com",
       "n": 1,
-      "avg_tone": -0.963
+      "avg_tone": 2.892
     },
     {
-      "source": "bignewsnetwork.com",
+      "source": "cajnewsafrica.com",
       "n": 1,
-      "avg_tone": -2.974
+      "avg_tone": 0.256
     },
     {
-      "source": "thewhig.com",
+      "source": "dailynorseman.com",
       "n": 1,
-      "avg_tone": 0.243
+      "avg_tone": -0.69
     },
     {
-      "source": "komu.com",
+      "source": "deccanchronicle.com",
       "n": 1,
-      "avg_tone": 0.0
+      "avg_tone": -1.405
     },
     {
-      "source": "krcgtv.com",
+      "source": "express.co.uk",
       "n": 1,
-      "avg_tone": -5.132
-    },
-    {
-      "source": "dotchuoinon.com",
-      "n": 1,
-      "avg_tone": 0.594
+      "avg_tone": -2.257
     }
   ],
   "top_themes": [
     {
-      "theme": "WB_137_WATER",
-      "n": 287
+      "theme": "WB_507_ENERGY_AND_EXTRACTIVES",
+      "n": 62
     },
     {
-      "theme": "MANMADE_DISASTER_IMPLIED",
-      "n": 157
+      "theme": "ENV_OIL",
+      "n": 51
     },
     {
-      "theme": "WB_1199_WATER_SUPPLY_AND_SANITATION",
-      "n": 148
+      "theme": "WB_2299_PIPELINES",
+      "n": 42
     },
     {
-      "theme": "WB_2008_WATER_TREATMENT",
-      "n": 148
+      "theme": "WB_539_OIL_AND_GAS_POLICY_STRATEGY_AND_INSTITUTIONS",
+      "n": 42
     },
     {
-      "theme": "CRISISLEX_CRISISLEXREC",
-      "n": 63
+      "theme": "WB_548_PPP_IN_OIL_AND_GAS",
+      "n": 42
     },
     {
-      "theme": "LEADER",
-      "n": 56
+      "theme": "MARITIME_INCIDENT",
+      "n": 34
     },
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 56
+      "theme": "MARITIME",
+      "n": 34
     },
     {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 56
+      "theme": "GENERAL_GOVERNMENT",
+      "n": 24
     },
     {
-      "theme": "EPU_POLICY_CONGRESS",
-      "n": 40
+      "theme": "EPU_POLICY_GOVERNMENT",
+      "n": 23
     },
     {
       "theme": "ENV_METALS",
-      "n": 32
+      "n": 20
     },
     {
       "theme": "WB_895_MINING_SYSTEMS",
-      "n": 32
+      "n": 20
     },
     {
       "theme": "WB_1699_METAL_ORE_MINING",
-      "n": 32
+      "n": 20
     },
     {
-      "theme": "ARMEDCONFLICT",
-      "n": 29
+      "theme": "WB_2936_GOLD",
+      "n": 20
     },
     {
-      "theme": "USPEC_POLICY1",
-      "n": 28
+      "theme": "UNGP_FORESTS_RIVERS_OCEANS",
+      "n": 14
     },
     {
-      "theme": "WB_2934_COPPER",
-      "n": 28
+      "theme": "MEDIA_MSM",
+      "n": 13
     }
   ]
 }
