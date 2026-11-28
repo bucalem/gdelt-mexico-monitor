@@ -1,29 +1,9 @@
 {
-  "generated_at": "2026-11-27T19:05:16.597567+00:00",
-  "rows_total_scanned_last_run": 4015,
-  "rows_mexico_last_run": 57,
-  "overall_avg_tone_4h": -1.044,
+  "generated_at": "2026-11-28T01:55:56.612917+00:00",
+  "rows_total_scanned_last_run": 587,
+  "rows_mexico_last_run": 12,
+  "overall_avg_tone_4h": -0.988,
   "timeline": [
-    {
-      "time": "2026-11-24T22:30",
-      "avg_tone": -0.779,
-      "n_articles": 17
-    },
-    {
-      "time": "2026-11-24T22:45",
-      "avg_tone": -2.094,
-      "n_articles": 13
-    },
-    {
-      "time": "2026-11-24T23:00",
-      "avg_tone": -1.417,
-      "n_articles": 23
-    },
-    {
-      "time": "2026-11-24T23:15",
-      "avg_tone": -3.564,
-      "n_articles": 11
-    },
     {
       "time": "2026-11-25T04:45",
       "avg_tone": 0.786,
@@ -153,145 +133,115 @@
       "time": "2026-11-27T19:00",
       "avg_tone": -1.903,
       "n_articles": 14
+    },
+    {
+      "time": "2026-11-28T01:30",
+      "avg_tone": -0.745,
+      "n_articles": 12
     }
   ],
   "top_sources": [
     {
-      "source": "aa.com.tr",
+      "source": "abqjournal.com",
+      "n": 3,
+      "avg_tone": -1.315
+    },
+    {
+      "source": "citizensvoice.com",
       "n": 2,
-      "avg_tone": 1.576
+      "avg_tone": 0.353
     },
     {
-      "source": "fool.com",
+      "source": "timesherald.com",
       "n": 2,
-      "avg_tone": -0.194
+      "avg_tone": -0.118
     },
     {
-      "source": "pasadenastarnews.com",
-      "n": 2,
-      "avg_tone": 3.241
-    },
-    {
-      "source": "mercurynews.com",
-      "n": 2,
-      "avg_tone": 0.616
-    },
-    {
-      "source": "latimes.com",
-      "n": 2,
-      "avg_tone": -0.389
-    },
-    {
-      "source": "thecattlesite.com",
-      "n": 2,
-      "avg_tone": 0.102
-    },
-    {
-      "source": "thegazette.com",
+      "source": "eastbaytimes.com",
       "n": 1,
-      "avg_tone": -5.512
+      "avg_tone": 0.0
     },
     {
-      "source": "idahopress.com",
+      "source": "eptrail.com",
       "n": 1,
-      "avg_tone": -5.512
+      "avg_tone": -0.236
     },
     {
-      "source": "standardspeaker.com",
+      "source": "wrganews.com",
       "n": 1,
-      "avg_tone": -4.141
+      "avg_tone": -5.0
     },
     {
-      "source": "netnewsledger.com",
+      "source": "canoncitydailyrecord.com",
       "n": 1,
-      "avg_tone": 0.949
+      "avg_tone": -0.236
     },
     {
-      "source": "taipeitimes.com",
+      "source": "redbluffdailynews.com",
       "n": 1,
-      "avg_tone": -2.851
-    },
-    {
-      "source": "timeout.com",
-      "n": 1,
-      "avg_tone": 4.515
-    },
-    {
-      "source": "bdnews24.com",
-      "n": 1,
-      "avg_tone": -7.473
-    },
-    {
-      "source": "ninernoise.com",
-      "n": 1,
-      "avg_tone": -0.487
-    },
-    {
-      "source": "tvline.com",
-      "n": 1,
-      "avg_tone": -0.135
+      "avg_tone": 0.0
     }
   ],
   "top_themes": [
     {
-      "theme": "TAX_FNCACT_PRESIDENT",
-      "n": 77
+      "theme": "TAX_WORLDCRUSTACEANS_SHRIMP",
+      "n": 44
     },
     {
-      "theme": "WB_2432_FRAGILITY_CONFLICT_AND_VIOLENCE",
-      "n": 77
+      "theme": "ECON_ENTREPRENEURSHIP",
+      "n": 40
     },
     {
-      "theme": "WB_2670_JOBS",
-      "n": 72
-    },
-    {
-      "theme": "USPEC_POLITICS_GENERAL1",
-      "n": 70
-    },
-    {
-      "theme": "WB_621_HEALTH_NUTRITION_AND_POPULATION",
-      "n": 67
+      "theme": "MEDIA_SOCIAL",
+      "n": 40
     },
     {
       "theme": "EPU_ECONOMY_HISTORIC",
-      "n": 67
+      "n": 38
     },
     {
-      "theme": "WB_698_TRADE",
-      "n": 65
+      "theme": "LEGISLATION",
+      "n": 34
     },
     {
-      "theme": "WB_2769_JOBS_STRATEGIES",
-      "n": 64
+      "theme": "EPU_POLICY_LAW",
+      "n": 34
     },
     {
-      "theme": "WB_2836_MIGRATION_POLICIES_AND_JOBS",
-      "n": 64
+      "theme": "WB_1921_PRIVATE_SECTOR_DEVELOPMENT",
+      "n": 32
     },
     {
-      "theme": "LEADER",
-      "n": 63
+      "theme": "TOURISM",
+      "n": 27
     },
     {
-      "theme": "AFFECT",
-      "n": 63
+      "theme": "WB_825_TOURISM",
+      "n": 27
     },
     {
-      "theme": "IMMIGRATION",
-      "n": 62
+      "theme": "WB_346_COMPETITIVE_INDUSTRIES",
+      "n": 27
     },
     {
-      "theme": "WB_2837_IMMIGRATION",
-      "n": 61
+      "theme": "WB_818_INDUSTRY_POLICY_AND_REAL_SECTORS",
+      "n": 27
     },
     {
-      "theme": "GENERAL_GOVERNMENT",
-      "n": 60
+      "theme": "MEDICAL",
+      "n": 25
     },
     {
-      "theme": "WB_2433_CONFLICT_AND_VIOLENCE",
-      "n": 58
+      "theme": "TAX_FNCACT_COOKS",
+      "n": 24
+    },
+    {
+      "theme": "SOC_POINTSOFINTEREST_SCHOOL",
+      "n": 20
+    },
+    {
+      "theme": "TAX_FNCACT_PHOTOGRAPHER",
+      "n": 20
     }
   ]
 }
